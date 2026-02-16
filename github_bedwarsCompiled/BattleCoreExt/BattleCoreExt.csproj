@@ -1,0 +1,83 @@
+﻿<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{141E5E0A-6435-4172-AC62-B5BCBCDBB58F}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <NoStandardLibraries>false</NoStandardLibraries>
+    <AssemblyName>BattleCoreExt</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <RootNamespace>BattleCoreExt</RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="BattleCore">
+      <HintPath>.\BattleCore.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="UnityEngine">
+      <HintPath>.\UnityEngine.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include=".vs\BattleCoreExt\v15\.suo" />
+    <None Include=".vs\BattleCoreExt\v15\Server\sqlite3\db.lock" />
+    <None Include=".vs\BattleCoreExt\v15\Server\sqlite3\storage.ide" />
+    <None Include=".vs\BattleCoreExt\v15\Server\sqlite3\storage.ide-shm" />
+    <None Include=".vs\BattleCoreExt\v15\Server\sqlite3\storage.ide-wal" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FrameWork\Common\Math\LogicTransform.cs" />
+    <Compile Include="FrameWork\Common\Math\LogicVector3.cs" />
+    <Compile Include="FrameWork\Common\Math\MathUtils.cs" />
+    <Compile Include="FrameWork\Common\Math\QuaternionD4.cs" />
+    <Compile Include="FrameWork\Common\RandomMgr.cs" />
+    <Compile Include="FrameWork\Common\TList.cs" />
+    <Compile Include="FrameWork\Logic\Map\Astar\MapAstarFind.cs" />
+    <Compile Include="FrameWork\Logic\Map\Astar\MapAstarFindDefine.cs" />
+    <Compile Include="FrameWork\Logic\Map\Astar\MapAstarNode.cs" />
+    <Compile Include="FrameWork\Logic\Map\Astar\MapUnionFind.cs" />
+    <Compile Include="FrameWork\Logic\Map\BattleMapDefine.cs" />
+    <Compile Include="FrameWork\Logic\Map\NavMeshBuilder\DetourNavMeshBuilder.cs" />
+    <Compile Include="FrameWork\Logic\Map\NavMeshBuilder\DetourTileCache.cs" />
+    <Compile Include="FrameWork\Logic\Map\NavMeshBuilder\DetourTileCacheBuilder.cs" />
+    <Compile Include="FrameWork\Logic\Map\NavMeshBuilder\dtNavMesh.cs" />
+    <Compile Include="FrameWork\Logic\Map\NavMeshBuilder\dtNavMeshQuery.cs" />
+    <Compile Include="FrameWork\Logic\Map\NavMeshBuilder\dtNode.cs" />
+    <Compile Include="FrameWork\Logic\Map\NavMeshBuilder\NavMeshBuilderDefine.cs" />
+    <Compile Include="FrameWork\Logic\Map\NavMeshBuilder\NavMeshMath.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="FrameWork\Logic\Serializer\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSHARP.Targets" />
+  <ProjectExtensions>
+    <VisualStudio AllowExistingFolder="true" />
+  </ProjectExtensions>
+</Project>
