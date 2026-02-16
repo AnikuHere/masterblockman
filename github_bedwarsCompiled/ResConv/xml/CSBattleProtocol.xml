@@ -1,0 +1,631 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<!--注意:需要同步修改版本号!!!!-->
+
+<metalib tagsetversion="1" name="BattleProtocol" version="1" >
+
+<include name="" file="CSBattleComm.xml" />
+
+	
+  <!-- ===================战斗数据定义============= -->
+  
+  <struct name="CSPoint" version="1" desc="玩家坐标">
+    <entry name="x" type="int" desc="X轴"/>
+    <entry name="y" type="int" desc="Y轴"/>
+	<entry name="z" type="int" desc="Z轴"/>
+  </struct>
+  
+   <!-- ============= 游戏创建定义======================== -->
+   
+  <struct name="BattleSceneParams"		version="1"		desc="场景创建定义">
+	<entry name="sceneID"		type="int"	desc="场景ID"/>
+  </struct>
+  
+  <struct name="BattleHeroCreateParam"		version="1"		desc="英雄创建定义">
+	<entry name="ResID"		type="int"	desc="资源ID"/>
+	<entry name="SkinID"		type="int"	desc="皮肤ID"/>
+  </struct>
+  
+   <struct name="BattleTeamCreateSystemParam"	version="1"	desc="队伍系统设置创建定义">
+	<entry name="Key"		type="int8"	desc="系统设置项"/>
+	<entry name="Param1"	type="int"	desc="系统设置参数1"/>
+  </struct>
+  
+   <struct name="BattleCreateRuneAttr"	version="1"	desc="符文属性">
+	<entry name="AttrID"		type="int8"	desc="符文属性类型"/>
+	<entry name="AttrAddType"	type="int8"	desc="符文属性加成类型"/>
+	<entry name="Value"			type="int"	desc="符文值"/>
+  </struct>
+  
+   <struct name="BattleTeamCreateDataParam"	version="1"	desc="队伍战斗数值创建定义">
+	<entry name="AiModeType"	type="int8"		desc="AI类型" />
+    <entry name="bOpenAssist"   type="int8"     desc="是否开启AI托管" />
+	<entry name="TalentSkill"	type="int"		desc="天赋技能" />
+	<entry name="SpySkill"		type="int"		desc="侦查技能" />
+	<entry name="TechTreeType"	type="int8"		desc="科技树类型" />
+	<entry name="ExtDataID"		type="int"		desc="附加数值ID,默认0(无)" />
+	<entry name="HeroRuneAttrs"		type="BattleCreateRuneAttr"	count="MAX_ACTORRUNEATTR_COUNT"	desc="英雄符文数值" />
+	<entry name="DogfaceRuneAttrs"	type="BattleCreateRuneAttr"	count="MAX_ACTORRUNEATTR_COUNT"	desc="士兵符文数值" />
+	<entry name="TeamRuneAttrs"	type="BattleCreateRuneAttr"	count="MAX_TEAMRUNEATTR_COUNT"	desc="科技符文数值" />
+  </struct>
+  
+  <struct name="BattleTeamCreateParams"		version="1"		desc="队伍创建信息">
+	<entry name="bActive"		type="int8"			desc="是否激活"/>
+	<entry name="legionType"	type="int8"		    desc="阵营" />
+	<entry name="teamType"		type="int8"		    desc="队伍类型" />
+	<entry name="raceType"		type="int8"		    desc="种族" />
+	<entry name="heroParams"	type="BattleHeroCreateParam" desc="英雄信息" />
+	
+	<entry name="bIsPlayer"		type="int8"		    desc="是否玩家" />
+	<entry name="PlayerID"		type="int"		    desc="玩家ID" />
+	<entry name="PlayName" 	    type="string" 	    size="MAX_NAME_LEN"  desc="玩家名字" />
+    <entry name="HeadIcon"      type="int"          desc="玩家头像ID"/>
+    <entry name="RankLevel"     type="int8"         desc="段位等级"/>
+	<entry name="bControlPlayer" type="int8"	desc="是否当前控制的" />
+	<entry name="curPos"         type="CSPoint"	desc="当前位置" />
+	<entry name="curDir"         type="CSPoint"	desc="当前朝向" />
+	<entry name="Datas"		type="BattleTeamCreateDataParam"  desc="数值创建定义" />
+	<entry name="Systems"	type="BattleTeamCreateSystemParam"	count="MAX_BATTLESYSTEM_COUNT" desc="系统设置" />
+  </struct>
+  
+   <struct name="BattleCreateParams"		version="1"		desc="战场创建信息">
+	<entry name="GameVersion" 	 type="string" 	  size="MAX_NAME_LEN"  desc="游戏版本号" />
+	<entry name="battleID"		type="uint64"	desc="战场ID"/>
+	<entry name="randSeed"		type="int"		    desc="随机种子" />
+	<entry name="framePerSecond"		type="int"		    desc="帧率比" />
+	<entry name="sceneParams"		type="BattleSceneParams"		    desc="场景" />
+	
+	<entry name="teamStateParams"  type="BattleTeamCreateParams" count="MAX_BATTLTEAM_MAX_COUNT"    desc="队伍" />
+  </struct>
+  
+   <!-- ============    录像文件 定义 ==========     -->
+   <struct name="BattleReplaysTeamExtraInfo"        version="1"     desc="录像队伍额外信息">
+    <entry name="totalGold"         type="int"      desc="玩家金币总量"/>
+    <entry name="heroKillCnt"       type="int16"    desc="英雄击杀数量"/>
+    <entry name="dogfaceKillCnt"    type="int16"    desc="小兵击杀数量"/>
+    <entry name="isMvp"             type="int8"     desc="是否MVP"/>
+   </struct>
+
+   <struct name="BattleReplaysHeader"		version="1"		desc="录像头信息">
+	<entry name="magic"		    type="int"	        desc="magic"/>
+	<entry name="version"		type="int"		    desc="录像版本" />
+	<entry name="gameVersion" 	type="string" 	    size="MAX_NAME_LEN"  desc="游戏版本号" />
+    <entry name="battleVsMode"  type="int8"         desc="战场对战模式" />
+	<entry name="battleID"		type="uint64"		desc="战场ID" />
+	<entry name="sceneID"		type="int"		    desc="场景ID" />
+    <entry name="createTime"    type="int64"        desc="录像创建时间戳" />
+	<entry name="frameCnt"		type="int"	        desc="帧数目,为0表示战斗中断"/>
+	<entry name="battleResult"  type="int8"		    desc="战场结果" />
+    <entry name="battleCreateParams"    type="BattleCreateParams"          desc="战场创建参数" />
+    <entry name="teamExtraInfos"        type="BattleReplaysTeamExtraInfo" count="MAX_BATTLTEAM_MAX_COUNT"  desc="录像队伍信息列表" />    
+  </struct>
+  
+
+    
+   <!-- ============   战斗统计数据 定义 ==========     -->
+	 
+	<struct name="CSStatisticsActorSkillBar" version="1" desc="技能栏统计">
+		<entry name="Dps"     type="int"     desc="伤害"/>
+		<entry name="CastCnt" type="int16"     desc="释放次数"/>
+		<entry name="ReHp"    type="int"     desc="治疗量"/>
+	</struct>
+	 
+	<struct name="CSStatisticsActor" version="1" desc="actor统计信息">
+		<entry name="actorType"    type="int8"     desc="单位类型"/>  
+		<entry name="ResID"    type="int"     desc="资源ID"/>
+		<entry name="SkinID"    type="int"     desc="皮肤ID,只有英雄有"/>
+		<entry name="Cnt"    type="int8"     desc="总个数"/>
+		<entry name="LiveCnt"    type="int8"     desc="存活个数"/>
+		<entry name="FristConstructTime"    type="int"     desc="首次训练时间"/>
+		<entry name="ConstuctGold"    type="int16"     desc="训练金币,计算价值量用"/>
+		<entry name="TotalDps"    type="int"     desc="总伤害"/> 
+		<entry name="TotalToHeroDps"    type="int"     desc="对英雄伤害总量"/>
+		<entry name="TotalToDogfaceDps"    type="int"     desc="对小兵伤害总量"/>
+	    <entry name="TotalToBuildDps"    type="int"     desc="对建筑伤害总量"/>
+		<entry name="TotalToMonsterDps"    type="int"     desc="对野怪伤害总量"/>
+		<entry name="TotalNormalSkillDps"    type="int"     desc="普通攻击总伤害"/>
+		<entry name="TotalSkillsDps"    type="int"     desc="技能总伤害"/>
+		<entry name="SkillBars"    type="CSStatisticsActorSkillBar"  count="MAX_BATTLSTATISSTIC_SKILLBARDMG_MAX_COUNT" desc="技能栏统计,QWER"/>
+		<entry name="TotalReHp"    type="int"     desc="治疗总量"/>		
+		<entry name="TotalDmgToler"    type="int"     desc="承受伤害总量,排除野怪"/>	
+		<entry name="DogfaceDmgToler"    type="int"     desc="承受小兵伤害总量"/>		
+		<entry name="HeroDmgToler"    type="int"     desc="承受英雄伤害量"/>	
+		<entry name="BookAttrBuffLayer"    type="int8"     desc="属性书BUFF层数"/>
+		<entry name="InBattleTime"    type="int"     desc="进入战斗时间"/>		
+		<entry name="TeamBeKillCnt"    type="int16"    count="MAX_BATTLTEAM_MAX_COUNT"    desc="被队伍击杀统计"/>
+	</struct>
+	
+	<struct name="CSStatisticsGoldMine" version="1" desc="分矿统计信息">
+		<entry name="index"    type="int8"     desc="索引"/>  
+		<entry name="BuildTime"    type="int"     desc="开矿时间(秒)"/>
+		<entry name="DeadTime"    type="int"     desc="矿死亡时间(秒)"/>
+	</struct>
+	
+	<struct name="CSStatisticsTechNologys" version="1" desc="队伍科技统计信息">
+		<entry name="TechLv"    type="int8"     desc="科技等级"/>  
+		<entry name="UpgradeTime2"    type="int16"     desc="升级2本时间(秒)"/>
+		<entry name="UpgradeTime3"    type="int16"     desc="升级3本时间(秒)"/>
+		<entry name="GoldMines"  type="CSStatisticsGoldMine"  count="MAX_BATTLSTATISSTIC_GOLDMINE_MAX_COUNT" desc="分矿统计"/>
+		<entry name="FoodUpTech1"    type="int16"     desc="升级1级人口时间(秒)"/>
+		<entry name="FoodUpTech2"    type="int16"     desc="升级2级人口时间(秒)"/>	
+		<entry name="FoodUpTech3"    type="int16"     desc="升级3级人口时间(秒)"/>
+		<entry name="FoodUpTech4"    type="int16"     desc="升级4级人口时间(秒)"/>
+		<entry name="AtkUpTech1"    type="int16"     desc="升到1级攻击时间(秒)"/>
+		<entry name="AtkUpTech2"    type="int16"     desc="升到2级攻击时间(秒)"/>
+		<entry name="AtkUpTech3"    type="int16"     desc="升到3级攻击时间(秒)"/>
+		<entry name="ArmorUpTech1"    type="int16"     desc="升到1级防御的时间(秒)"/>
+		<entry name="ArmorUpTech2"    type="int16"     desc="升到2级防御的时间(秒)"/>
+		<entry name="ArmorUpTech3"    type="int16"     desc="升到3级防御的时间(秒)"/>
+	</struct>
+	
+	<struct name="CSStatisticsDmg" version="1" desc="队伍伤害统计信息">
+		<entry name="KillHeroCnt"    type="int16"     desc="击杀英雄个数"/>  
+		<entry name="KillMonsterCnt"    type="int16"     desc="击杀野怪个数"/>
+		<entry name="KillDogfaceCnt"    type="int16"     desc="击杀士兵个数"/>
+		<entry name="HeroBeKillCnt"    type="int8"     desc="英雄死亡次数"/>  
+		<entry name="BuildGodmine"    type="int8"     desc="造矿个数"/>		
+		<entry name="BuildTowerCnt"    type="int8"     desc="造塔个数"/>	
+		<entry name="killBigDragonCnt"    type="int8"     desc="杀大龙"/>	
+		<entry name="killSmallDragonCnt"   type="int8"     desc="杀小龙"/>	
+		<entry name="killBigTiTanCnt"    type="int8"     desc="杀大泰坦"/>	
+		<entry name="killSmallTiTanCnt"   type="int8"     desc="杀小泰坦"/>	
+		<entry name="KillTowerCnt"    type="int8"     desc="摧毁防御塔个数"/>  
+		<entry name="KillGoldMineCnt"    type="int8"     desc="摧毁金矿个数"/>  
+		<entry name="KillSubBaseCnt"    type="int8"     desc="摧毁副基地个数"/>  
+		<entry name="KillBaseCnt"    type="int8"     desc="摧毁基地个数"/>  
+		<entry name="KillPrice"    type="int"     desc="击杀单位总价值"/> 
+	    <entry name="AlivePrice"    type="int"     desc="存活单位总价值"/>  		
+		<entry name="KillHeroLegendaryCnt"    type="int8"     desc="连续击杀N个英雄次数(王者再临)"/>
+		<entry name="KillDogfaceGodLikeCnt"    type="int8"     desc="连续击杀N个小兵次数(超神)"/>  
+	</struct>
+	
+	<struct name="CSStatisticsGold" version="1" desc="队伍金币统计信息">
+		<entry name="TotalGold"    type="int"     desc="累计金币"/>  
+		<entry name="SystemGold"    type="int"     desc="系统获取"/>
+		<entry name="GoldMineGold"    type="int"     desc="金矿获取"/>
+		<entry name="KillMonsterGold"    type="int16"     desc="击杀野怪获取"/>
+		<entry name="KillActorGold"    type="int16"     desc="击杀单位获取"/>		
+		<entry name="RepariGold"    type="int16"     desc="维修消耗"/>	
+		<entry name="BuildDogfaceGold"    type="int16"     desc="造兵消耗"/>	
+		<entry name="TechUpGold"    type="int16"     desc="科技升级消耗"/>	
+		<entry name="BuildOtherGold"    type="int16"     desc="造塔造矿消耗"/>	
+		<entry name="GoldTimeline"  type="int"  count="MAX_BATTLSTATISSTIC_GOLDGET_MAX_COUNT" desc="金币获取统计时间,2000一个档"/>
+	</struct>
+	
+	<struct name="CSStatisticsEquip" version="1" desc="队伍英雄装备统计信息"> 	
+		<entry name="EquipID"  type="int"  count="MAX_BATTLSTATISSTIC_EQUIP_MAX_COUNT" desc="装备ID列表"/>
+	</struct>
+	
+	<struct name="CSStatisticsTeam" version="1" desc="队伍统计信息">
+		<entry name="Active"    type="int8"     desc="是否激活"/>
+		<entry name="PlayID"    type="int"      desc="玩家ID"/>
+		<entry name="PlayName" 	 type="string" 	size="MAX_NAME_LEN" defaultvalue=""   desc="玩家名字" />
+		<entry name="TeamType"    type="int8"     desc="队伍类型 "/>
+		<entry name="RaceType"    type="int8"     desc="种族类型"/>
+		<entry name="LegionType"    type="int8"     desc="阵营类型"/>
+		<entry name="HeroLv"    type="int8"     desc="英雄等级"/>
+		<entry name="ActorResIDCnt"    type="int8"     desc="ActorResID类型个数"/>
+        <entry name="BattleScore"       type="int"  desc="MVP分数"/>
+        <entry name="IsMvp"             type="int8" desc="是否MVP"/>
+        <entry name="RankLevel"     type="int8"         desc="段位等级"/>
+		<entry name="ActorStatistic"    type="CSStatisticsActor"  count="MAX_BATTLSTATISSTICD_TECHDOGFACE_MAX_COUNT"  refer="ActorResIDCnt"  desc="actor统计信息"/>		
+		<entry name="TechStatistic"    type="CSStatisticsTechNologys"     desc="队伍科技统计信息"/>	
+		<entry name="DmgStatistics"    type="CSStatisticsDmg"     desc="伤害统计信息"/>	
+		<entry name="GoldStatistics"    type="CSStatisticsGold"     desc="金币统计信息"/>	
+		<entry name="EquipStatistics"    type="CSStatisticsEquip"   desc="装备统计信息"/>	
+	</struct>
+	
+	<struct name="CSStatisticsDropItem" version="1" desc="道具掉落统计"> 	
+		<entry name="ItemID"  type="int"  desc="道具ID"/>
+		<entry name="DropCnt" type="int8" desc="掉落次数"/>
+	</struct>
+	
+	<struct name="CSStatisticsMonsterGroup" version="1" desc="怪物组统计信息"> 	
+		<entry name="JusticeKillCnt"  type="int8"  desc="正义方击杀次数"/>
+		<entry name="EvalGroupKillCnt"  type="int8"  desc="邪恶方击杀次数"/>
+	</struct>
+	
+	<struct name="CSStatisticsMap" version="1" desc="地图信息统计">
+		<entry name="MonsterGroups"  type="CSStatisticsMonsterGroup"     count="MAX_BATTLSTATISSTIC_MONSTER_GROUP_KILL_MAX_COUNT" 	desc="野怪组击统计"/>
+		<entry name="EquipDropItems"       type="CSStatisticsDropItem"   count="MAX_BATTLSTATISSTIC_DROP_ITEM_MAX_COUNT" 			desc="道具掉落统计"/>
+	</struct>
+	
+	<struct name="CSStatisticsBattle" version="1" desc="战场统计信息">
+		<entry name="BattleID"    type="uint64"     desc="战场唯一ID"/>  
+		<entry name="BattleTime"    type="int16"     desc="战斗时长（秒） "/>
+		<entry name="BattleSceneID"    type="int16"     desc="战场地图ID"/>
+		<entry name="BattleSceneType"    type="int8"     desc="战斗场景模式"/>
+		<entry name="BattleResult"    type="int8"     desc="战斗结果"/>
+		<entry name="WinerLegionType"    type="int8"     desc="赢的阵营"/>
+		<entry name="Justice_score"    type="int16"     desc="正义阵营积分"/>		
+		<entry name="Evil_score"    type="int16"     desc="邪恶阵营积分"/>	
+		<entry name="TeamsStatistic" type="CSStatisticsTeam"  count="MAX_BATTLTEAM_MAX_COUNT"   desc="队伍列表"/>
+		<entry name="MapStatistic" type="CSStatisticsMap"  desc="地图信息统计"/>
+	</struct>
+  
+  <!--  ===============   协议内容定义============      -->
+  
+   <!--     公共协议      -->
+
+  <struct name="CSBattleLoginReq" version="1" desc="登陆请求">       
+    <entry name="AccessToken" 	    type="string" 	size="MAX_TOKEN_LEN" defaultvalue=""   desc="角色访问token,测试用" />
+	<entry name="PlayerID"        type="int"      desc="玩家ID" />
+    <entry name="RoomID"        type="int"      desc="房间ID" />
+	<entry name="LoginType"     type="int8"      bindmacrosgroup="LoginConnectType"  desc="重连标志 LoginConnectType"  />
+	<entry name="ProtocolMd5" 	    type="string" 	size="MAX_MD5_LEN" defaultvalue=""   desc="协议版本md5" /> 
+  </struct>
+  
+  <struct name="CSBattleLoginRsp" version="1" desc="登陆请求返回">
+    <entry name="RetCode"         type="int"  bindmacrosgroup="ErrCodeDefine" desc="返回码" />
+	<entry name="PlayerID"        type="int"  desc="玩家ID"/>
+	<entry name="LoginType"       type="int8"      bindmacrosgroup="LoginConnectType"  desc="重连标志 LoginConnectType"  />
+    <entry name="CreateParams"    type="BattleCreateParams"     desc="战斗创建数据"/> 
+	<entry name="FrameSync"		  type="int"		    desc="是否开启帧同步"/>	
+  </struct>
+  
+  
+  <struct name="CSHeartBeatReq" version="1" desc="心跳包">
+     <entry name="ClientTime"     type="int"  desc="客户端时间"/>
+  </struct>  
+  
+  <struct name="CSHeartBeatRsp" version="1" desc="心跳回包">
+	<entry name="ClientTime"     type="int"  desc="客户端时间"/>
+  </struct>
+  
+  <!-- 开始加载地图进度上报 -->
+   <struct name="CSMapLoadProgressReq" version="1" >
+    <entry name="Progress"          type="int8"       desc="进度" />
+  </struct>
+
+  <!-- 开始加载地图进度广播 -->
+  <struct name="CSMapLoadProgressNotify" version="1" >
+    <entry name="PlayerID"          type="int"       desc="玩家ID" />
+    <entry name="Progress"          type="int8"       desc="进度" />
+  </struct>
+  
+  <!-- 加载地图完成上报 -->
+  <struct name="CSFinishLoadMapReq"		version="1"		desc="加载地图">
+	<entry name="Reserved"			type="uint8"		desc="保留字段"/>
+  </struct>
+  <struct name="CSFinishLoadMapRsp"		version="1"		desc="完成加载地图">
+	<entry name="Reserved"			type="uint8"		desc="保留字段"/>
+  </struct>
+  
+  <!-- 开始游戏通知消广播 -->
+  <struct name="CSGameStartNotify"		version="1"		desc="开始游戏通知">
+	<entry name="BattleID"			type="uint64"		desc="战场唯一ID"/>
+	<entry name="FrameSync"		    type="int"		    desc="是否开启帧同步"/>
+  </struct>
+  
+  <!-- 重连开始游戏请求 -->
+  <struct name="CSGameReStartReq"		version="1"		desc="重连开始游戏请求">
+    <entry name="LastFrame"		type="int"		    desc="客户端最后处理帧号" />
+  </struct>
+  
+    <!-- 重连开始游戏回复 -->
+  <struct name="CSGameReStartRsp"		version="1"		desc="重连开始游戏回包">
+     <entry name="State"       type="int8"      bindmacrosgroup="GameReStartState"   desc="服务器重连状态" />
+     <entry name="StartFrame"		type="int"		    desc="开始帧号" />
+	 <entry name="ServersFrame"		type="int"		    desc="服务器最新帧号" />
+	 <entry name="FrameCnt"		type="int"		    desc="帧数目" />
+	 <entry name="FrameDataBuffSize"		type="int"		    desc="buff大小" />
+	 <entry name="FrameDataBuff" 	type="int8" 	count="MAX_BATTLEFRAMECMDARRAY_MAXSIZE" refer="FrameDataBuffSize"   desc="帧BUFF" />
+  </struct>
+  
+  <!-- 结束游戏通知 -->
+  
+  
+  <struct name="CSGameEndReq"	version="1"		desc="结束比赛上报">
+    <entry name="frame"    type="int"     desc="帧号"/>
+	<entry name="statisticsBattle"		type="CSStatisticsBattle"	desc="游戏统计数据"/>
+	<entry name="dumpLength"    type="int"     desc="长度"/>
+    <entry name="dumpInfo" type="string"  size="MAX_DUMP_LEN" defaultvalue=""   desc="dump数据" />
+  </struct>
+  
+  <struct name="CSGameEndNotify"		version="1"		desc="结束比赛">
+	<entry name="Winner"		type="uint8"	desc="赢方阵营"/>
+    <entry name="EndReason"		type="int"		    desc="结束原因" />
+  </struct>
+ 
+ 
+  <struct name="CSGmCommand" version="1" desc="gm指令">
+    <entry name="cmd_length"    type="int"     desc="长度"/>       
+    <entry name="gm_command"       type="string"   size="MAX_GM_LEN" defaultvalue=""   desc="gm指令" />
+  </struct>
+  
+  
+  
+  <!-- ============    dump 定义 ==========     -->
+  
+    <struct name="CSDumpInfo" version="1" desc="dumpInfo">
+    <entry name="frame"    type="int"     desc="帧号"/>
+	<entry name="ProtoLength"    type="int"     desc="长度"/>
+    <entry name="ProtoMD5" type="string"  size="MAX_DUMP_LEN" defaultvalue=""   desc="协议数据MD5" />
+	<entry name="length"    type="int"     desc="长度"/>
+    <entry name="dumpInfo" type="string"  size="MAX_DUMP_LEN" defaultvalue=""   desc="dump数据" />
+  </struct>
+  
+    <struct name="CSDumpInfoRet" version="1" desc="dumpInfo">
+		<entry name="frame"    type="int"     desc="帧号"/>       
+	</struct>
+	
+	
+	<struct name="CSDumpBattleActorBuff" version="1" desc="dump战斗单位Buff">
+		<entry name="BuffID"    type="int"     desc="帧号"/>  
+		<entry name="ContinueTime"    type="int"     desc="持续时间"/>
+		<entry name="StepTime"   type="int"   desc="当前进行的时间"/>		
+	</struct>
+	
+	<struct name="CSDumpBattleActorInfo" version="1" desc="dump战斗单位信息">
+		<entry name="ObjID"    type="int"     desc="帧号"/>   
+		<entry name="ResID"    type="int"     desc="帧号"/>
+		<entry name="TargetPos"     type="CSPoint"   desc="位置"/>
+		<entry name="TargetDir"     type="CSPoint"   desc="朝向"/>
+		
+		<entry name="AttrCnt"    type="int8"     desc="属性个数"/>
+		<entry name="AttrVal"    type="int"  count="MAX_BATTLTEDUMPATTR_MAX_COUNT" refer="AttrCnt"   desc="属性信息"/>
+		
+		<entry name="BuffCnt"    type="int8"     desc="Buff个数"/>
+		<entry name="BuffVal"    type="CSDumpBattleActorBuff"  count="MAX_BATTLTEBUFF_MAX_COUNT" refer="BuffCnt"   desc="BUFF信息"/>
+	
+	
+	</struct>
+	
+	<struct name="CSDumpTeamInfo" version="1" desc="dump队伍信息">
+		<entry name="TeamType"    type="int8"     desc="队伍类型"/>  
+		<entry name="RaceType"    type="int8"     desc="种族类型"/>
+		<entry name="LegionType"    type="int8"     desc="阵营类型"/>
+		<entry name="Gold"    type="int"     desc="金钱"/>		
+		<entry name="Food"    type="int8"     desc="人口"/>
+		<entry name="ActorCnt"    type="int"     desc="单位个数"/>
+		<entry name="ActorInfo"    type="CSDumpBattleActorInfo"  count="MAX_BATTLTACTOR_MAX_COUNT" refer="ActorCnt"   desc="单位信息"/>
+	</struct>
+  
+  
+	<struct name="CSDumpBattleFrameInfo" version="1" desc="dump 1帧战场信息">
+		<entry name="FrameCnt"    type="int"     desc="帧号"/>  
+		<entry name="TeamCnt"    type="int8"     desc="队伍个数"/>
+		<entry name="TeamInfo"    type="CSDumpTeamInfo"  count="MAX_BATTLTEAM_MAX_COUNT" refer="TeamCnt"   desc="队伍信息"/>
+	</struct>
+	
+	
+
+	
+  
+   <!--     帧同步协议      -->
+   
+   <!--   单位相关 -->
+   
+  
+
+  <struct name="CSFrameActorCastSkill"		version="1"		desc="释放技能请求">
+    <entry name="SkillID"   type="int"       desc="技能ID" />
+	<entry name="CaseDir"      type="CSPoint"  desc="释放方向" />
+	<entry name="TargetObjID" 	 type="int"  	  desc="目标ObjID"/>
+	<entry name="HitPos" 	 type="CSPoint"  	  desc="点击目标坐标"/>
+  </struct>
+  
+  <struct name="CSFrameActorSkillEvent" version="1" desc="技能事件请求">
+	<entry name="SkillGroupID"       type="int"       desc="技能组id" />
+	<entry name="EventType"   		type="int8"     		desc="事件类型"/>
+	<entry name="EventParam1"       type="int"       desc="事件参数1" />
+	<entry name="Param_Pos"      	type="CSPoint"   desc="位置参数" />
+	<entry name="Param_Dir"      	type="CSPoint"   desc="方向参数" />
+  </struct>
+  
+  <struct name="CSFrameActorAddSkillPoint"		version="1"		desc="技能加点请求">
+    <entry name="SkillBarType"   type="char"       desc="技能栏类型" />
+  </struct>
+ 
+  <struct name="CSFrameActorEquipOp" version="1" desc="装备操作请求">
+	<entry name="ObjectId"   type="int"   desc="装备的ObjectID"/>
+	<entry name="OpType"   type="int8"   bindmacrosgroup="EquipOpType"   desc="操作类型"/>
+	<entry name="EquipBarType"   type="int8"     desc="装备栏类型"/>
+  </struct>
+ 
+  
+   <!-- 团队相关 -->
+   
+   <struct name="CSFrameBattleStartMove"		version="1"		desc="请求移动请求">
+    <entry name="TargetPos"         type="CSPoint"   desc="目标位置" />
+    <entry name="CurPos"         	type="CSPoint"   desc="位置" />
+	<entry name="CurDir"         	type="CSPoint"   desc="朝向" />
+	<entry name="MoveDir_X"        	type="int16"   desc="移动方向" />
+	<entry name="MoveDir_Z"        	type="int16"   desc="移动方向" />
+	<entry name="OpMode"          	type="int8"       desc="移动模式"/>
+	<entry name="WalkFlag"          type="int8"       desc="走路状态"/>
+  </struct>
+  
+  <struct name="CSFrameBattleStopMove"		version="1"		desc="停止移动请求">
+	<entry name="CurPos"         type="CSPoint"   desc="位置" />
+	<entry name="CurDir"         	type="CSPoint"   desc="朝向" />
+  </struct>
+  
+  <struct name="CSFrameBattleJump"		version="1"		desc="跳跃">
+	<entry name="Reserved"          type="int8"       desc="保留字段"/>
+  </struct>
+
+  <struct name="CSFrameBattleWalk"		version="1"		desc="设置走路状态">
+    <entry name="WalkFlag"          type="int8"       desc="走路状态"/>
+  </struct>
+  
+  <struct name="CSFrameBattleFaceDir"		version="1"		desc="转向">
+    <entry name="CurDir"         	type="CSPoint"   desc="朝向" />
+  </struct>
+   
+  <struct name="CSFrameBattleUseItem" version="1" desc="使用道具">
+	<entry name="ItemType" type="int8" desc="道具类型"/>
+	<entry name="ResID" type="int" desc="道具资源id"/>
+	<entry name="SkillItemBarType" type="int8" desc="技能道具栏"/>
+	<entry name="ChangeNexSkillItem" type="int8" desc="是否切换下一个技能道具,1:是"/>
+	<entry name="Param1" type="int" desc="参数1"/>
+	<entry name="InputMode"      type="int8"  bindmacrosgroup="SkillCastInputMode" desc="技能释放输入模式" />
+    <entry name="TargetPos"      type="CSPoint"   desc="目标位置" />
+	<entry name="TargetObjID" 	 type="int"  	  desc="目标ObjID"/>
+  </struct>
+  
+  
+  <struct name="CSFrameBattleTeamConfig" version="1" desc="玩家游戏设置">
+	 <entry name="Systems"	type="BattleTeamCreateSystemParam"	count="MAX_BATTLESYSTEM_COUNT" desc="系统设置" />
+  </struct>
+  
+  <struct name="CSFrameBattleEventNotify" version="1" desc="游戏事件通知">
+	 <entry name="EventType" type="int8"   bindmacrosgroup="CSBattleEventType" desc="事件类型"/>
+	 <entry name="Param1" type="int" desc="事件参数1"/>
+  </struct>
+  
+ 
+  <struct name="CSFrameBattleGmCmd" version="1" desc="gm指令">
+    <entry name="cmdLen" type="int16" desc="len"/>
+	<entry name="cmd" type="string" size="MAX_FRAME_CMD_LEN" desc="cmd"/>
+  </struct>
+  
+  <!-- GM 指令修改服务器时间缩放 -->
+  <struct name="CSFrameBattleGmScaleTime" version="1" desc="gm指令修改服务器时间缩放">
+    <entry name="ScalePercent" type="int16" desc="时间缩放比例百分比"/>
+  </struct>
+
+	<struct name="CSFrameBattleSetHotbarIndex"	version="1"		desc="切换快捷栏">
+		<entry name="hotbarIndex" type="int" desc="快捷栏索引" />
+	</struct>
+
+	<struct name="CSFrameBattleSwapItemSlot"	version="1"		desc="物品栏交换">
+		<entry name="key1" type="string" size="MAX_GM_LEN" defaultvalue="" desc="1槽位key" />
+		<entry name="key1Len" type="int16" desc="key1长度"/>
+		<entry name="index1" type="int" desc="1槽位index" />
+		<entry name="key2" type="string" size="MAX_GM_LEN" defaultvalue="" desc="2槽位key" />
+		<entry name="key2Len" type="int16" desc="key2长度"/>
+		<entry name="index2" type="int" desc="2槽位index" />
+	</struct>
+
+  <!-- 服务器主动结束战斗通知 -->
+  <struct name="CSFrameBattleGameEndNotify" version="1" desc="服务器主动结束战斗通知">
+    <entry name="WinerLegionType" type="int8" desc="获胜方阵营"/>
+  </struct>
+  
+   <union name="CSFrameCmdData" version="1" >
+   
+	<entry name="ActorCastSkill" type="CSFrameActorCastSkill" id="BATTLEFRAMEEVENT_ACTOR_CASTSKILL" desc="单位释放技能"/>
+	<entry name="ActorSkillEvent" type="CSFrameActorSkillEvent" id="BATTLEFRAMEEVENT_ACTOR_SKILLEVENT" desc="单位技能释放事件"/>
+	<entry name="ActorAddSkillPoint" type="CSFrameActorAddSkillPoint" id="BATTLEFRAMEEVENT_ACTOR_ADDSKILLPOINIT" desc="单位技能加点"/>
+	<entry name="ActorEquipOp" type="CSFrameActorEquipOp" id="BATTLEFRAMEEVENT_ACTOR_EQUIPOP" desc="单位装备操作"/>
+   
+	<entry name="BattleStartMove"   type="CSFrameBattleStartMove"  id="BATTLEFRAMEEVENT_BATTLE_STARTMOVE" desc="开始移动" />
+	<entry name="BattleStopMove"	type="CSFrameBattleStopMove"   id="BATTLEFRAMEEVENT_BATTLE_STOPMOVE" desc="停止移动"/>
+	<entry name="BattleJump"	type="CSFrameBattleJump"   id="BATTLEFRAMEEVENT_BATTLE_JUMP" desc="跳跃"/>
+  	<entry name="BattleWalk"	type="CSFrameBattleWalk"   id="BATTLEFRAMEEVENT_BATTLE_WALK" desc="走跑切换"/>
+	<entry name="BattleFaceDir"	type="CSFrameBattleFaceDir"   id="BATTLEFRAMEEVENT_BATTLE_FACE_DIR" desc="转向"/>
+	
+	<entry name="BattleTeamConfig"  type="CSFrameBattleTeamConfig" id="BATTLEFRAMEEVENT_BATTLE_TEAMCONFIG" desc="同步玩家游戏设置"/>
+	<entry name="BattleEventNotify" type="CSFrameBattleEventNotify" id="BATTLEFRAMEEVENT_BATTLE_EVENTNOTIFY" desc="游戏通用事件通知"/>
+	
+	<entry name="BattleGmCmd" type="CSFrameBattleGmCmd" id="BATTLEFRAMEEVENT_BATTLE_GM_CMD" desc="gm指令"/>
+    <entry name="BattleGmScaleTime" type="CSFrameBattleGmScaleTime" id="BATTLEFRAMEEVENT_BATTLE_GM_SCALE_TIME_CMD" desc="gm指令修改服务器时间缩放"/>
+    <entry name="BattleGameEndNotify" type="CSFrameBattleGameEndNotify" id="BATTLEFRAMEEVENT_BATTLE_GAME_END_NOTIFY" desc="服务器主动结束战斗通知"/>
+    <entry name="BattleSetHotbarIndex" type="CSFrameBattleSetHotbarIndex" id="BATTLEFRAMEEVENT_BATTLE_SET_HOTBAR_INDEX" desc="切换快捷栏"/>
+    <entry name="BattleSwapItemSlot" type="CSFrameBattleSwapItemSlot" id="BATTLEFRAMEEVENT_BATTLE_SWAP_ITEM_SLOT" desc="物品栏交换"/>
+
+  </union>
+ 
+  <struct name="CSFrameCmdReq" version="1" desc="帧同步指令请求" >
+	<entry name="ObjID" type="int" desc="对象ID"/>
+	<entry name="TeamType" type="int8" desc="队伍类型"/>
+	<entry name="EventType" type="char"   bindmacrosgroup="CSBattleFrameEventType" desc="指令类型"/>
+	<entry name="CmdData" 	type="CSFrameCmdData" select="EventType" desc="数据"/>
+  </struct>
+  
+  
+   <struct name="CSActorFrameEvent" version="1"	desc="序列号的指令">
+	<entry name="FrameCmd"   type="CSFrameCmdReq"  desc="指令序列数组" />
+  </struct>
+  
+   <struct name="CSBattleFrameEventNotify"	 version="1"	desc="1帧事件广播">
+	 <entry name="Frame"     type="int"  desc="服务器当前帧"/>
+	<entry name="CmdCnt"    type="int8"       desc="指令个数" />
+    <entry name="CmdList"  type="CSActorFrameEvent"  count="MAX_BATTLEFRAMECMD_MAXCNT"   refer="CmdCnt"   desc="指令列表" />
+  </struct> 
+  
+  
+    <!-- 小地图事件 -->
+  <struct name="CSMiniMapEventReq" version="1">
+    <entry name="Event"   type="int8"   bindmacrosgroup="CSMiniMapEvent"   desc="事件类型"/>
+	<entry name="TargetPos"      type="CSPoint"   desc="目标位置"/>
+  </struct>
+  
+  <struct name="CSMiniMapEventNotify" version="1">
+    <entry name="PlayerID"          type="int"       desc="发出玩家ID" />
+    <entry name="Event"   type="int8"   bindmacrosgroup="CSMiniMapEvent"   desc="事件类型"/>
+	<entry name="TargetPos"      type="CSPoint"   desc="目标位置"/>
+  </struct>	
+  
+  <struct name="CSSurrenderReq" version="1">
+	<entry name="Reserved"			type="uint8"		desc="保留字段"/>
+  </struct>
+  
+   <struct name="CSSurrenderAgree" version="1">
+	<entry name="Reserved"			type="uint8"		desc="保留字段"/>
+  </struct> 
+  
+  <struct name="CSSurrenderRefuse" version="1">
+	<entry name="Reserved"			type="uint8"		desc="保留字段"/>
+  </struct> 
+  
+  <struct name="CSSurrenderAgreeNotify" version="1">
+	<entry name="PlayerID"          type="int"       desc="发出玩家ID" />
+  </struct> 
+  
+  <struct name="CSSurrenderRefuseNotify" version="1">
+	<entry name="PlayerID"          type="int"       desc="发出玩家ID" />
+  </struct> 
+  
+  <struct name="CSSurrenderResult" version="1">
+	<entry name="LoseLegionType"    type="int8"     desc="阵营类型"/>
+  </struct> 
+  
+  <struct name="CSSurrenderReqNotify" version="1">
+	<entry name="PlayerID"          type="int"       desc="发出玩家ID" />
+  </struct>
+  
+   <struct name="CSFetchFrameDataReq" version="1">
+	<entry name="Finish"			type="uint8"		desc="是否结束"/>
+  </struct>
+  
+  <struct name="CSPlayerConnectNotify" version="1">
+    <entry name="PlayerID"           type="int"         desc="玩家ID"/>
+    <entry name="Connect"            type="uint8"       desc="是否连接服务器"/>
+  </struct>
+
+  <!-- replay_server协议 -->
+  <struct name="CSReplaySvrNewBattleReq" version="1">
+    <entry name="BsRoomID"          type="int"           desc="房间id" />
+	<entry name="params" type="BattleCreateParams"       desc="战场创建信息" />
+  </struct>
+  
+  <struct name="CSReplaySvrPingReq" version="1">
+	<entry name="Reserved"			type="uint8"		desc="保留字段"/>
+  </struct>
+  
+  <struct name="CSReplaySvrFrameMd5Report" version="1">
+    <entry name="BsRoomID"          type="int"           desc="房间id" />
+	<entry name="frame"          	type="int"           desc="帧号" />
+	<entry name="length"    		type="int"     		 desc="长度"/>
+    <entry name="dumpInfo" 			type="string"  		 size="MAX_DUMP_LEN" defaultvalue=""   desc="dump数据" />
+    <entry name="protoMd5"          type="string"        size="MAX_DUMP_LEN" defaultvalue=""   desc="protoMd5数据" />
+  </struct>
+  
+  <struct name="CSReplaySvrGameEndReq"	version="1"		desc="结束比赛上报">
+    <entry name="frame"          	type="int"           desc="帧号" />
+	<entry name="BsRoomID"          type="int"           desc="房间id" />
+	<entry name="statisticsBattle"		type="CSStatisticsBattle"	desc="游戏统计数据"/>
+	<entry name="dumpLength"    type="int"     desc="长度"/>
+    <entry name="dumpInfo" type="string"  size="MAX_DUMP_LEN" defaultvalue=""   desc="dump数据" />
+  </struct>
+  
+    
+  <struct name="CSSyncNewPlayer"	 version="1"	desc="新玩家加入战斗">
+	<entry name="PlayerID"     	  type="int"  desc="玩家ID"/>
+    <entry name="CreateParams"    type="BattleCreateParams"     desc="战斗创建数据"/>
+	<entry name="CurPos"     	  type="CSPoint"  desc="玩家位置"/>
+	<entry name="CurDir"     	  type="CSPoint"  desc="玩家朝向"/>
+  </struct> 
+
+</metalib>

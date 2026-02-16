@@ -1,0 +1,9 @@
+<tdbms>
+
+  <DBMSHostURL>localhost</DBMSHostURL>
+  <DBMSDatabaseName>testdbms</DBMSDatabaseName>
+  <DBMSUser>root</DBMSUser>
+  <DBMSPassword></DBMSPassword>
+
+</tdbms>
+

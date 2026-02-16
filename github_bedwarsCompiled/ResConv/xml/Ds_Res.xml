@@ -1,0 +1,2488 @@
+<?xml version="1.0" encoding="GBK" standalone="yes" ?>
+<metalib tagsetversion="1" name="MobaResDBMeta" version="1" >
+  
+  <macro name="MAX_NAME_LEN"   value="64"  desc="名称最大长度"/>
+  <macro name="MAX_ICON_NAME_LEN"   value="64"  desc="图标最大长度"/>
+  <macro name="MAX_DESC_LEN"        value="256"  desc="描述最大长度"/>
+  <macro name="MAX_DESC_LONGLEN"        value="512"  desc="描述最大长度"/>
+  <macro name="MAX_RES_PATH_LEN"   	value="128"  desc="资源路径长度"/>
+  <macro name="MAX_RES_PATH_SHORTLEN"  value="64"   desc="资源路径短长度"/>
+  <macro name="MAX_DATE_LEN"   		value="32"   desc="日期时间长度"/>
+  <macro name="MAX_MAIL_TITLE_LEN"  value="64"   desc="邮件标题最大长度"/>
+  <macro name="MAX_MAIL_BODY_LEN"   value="256"   desc="邮件正文最大长度"/>
+  <macro name="MAX_SERVER_PARAM_LEN"   value="512"  desc="服务器参数最大长度"/>
+  
+  
+  <macro name="RES_GENS_NORMALSKILL_CNT" value="3" desc="英雄普通攻击技能数" />
+  <macro name="RES_GENS_SKILL_CNT" value="8" desc="英雄初始技能数" />
+  <macro name="RES_GENS_TALENTSKILL_CNT" value="3" desc="英雄天赋技能个数" />
+  <macro name="RES_GENS_SUMMONERSKILL_CNT" value="3" desc="英雄召唤师技能个数" />
+  <macro name="RES_GENS_AVATARSKILL_CNT" value="4" desc="英雄变体技能个数" />
+  <macro name="RES_GENS_HIDDENSKILL_CNT" value="4" desc="英雄隐藏技能个数" />
+  <macro name="RES_GENS_DYNASKILL_CNT" value="2" desc="英雄动态技能个数" />
+  <macro name="RES_GENS_SKILLLEVELUP_CNT" value="4" desc="英雄技能升级附带关系个数" />
+  <macro name="BATTLE_GRASS_AREA_NUM" value="32" desc="战场中草丛的个数" />
+  <macro name="RES_GENS_HEROSKIN_CNT" value="6" desc="英雄皮肤的个数" />
+  <macro name="RES_MONSTERAITARGET_CNT" value="3" desc="AI优先目标类型最大个数" />
+  <macro name="BATTLE_ACTOR_EQUIP_NUM" value="6" desc="角色身上的装备最大数目" />
+  <macro name="RANK_SEASON_AWARD_COUNT" value="2" desc="排位赛赛季奖励道具最大数目" />
+
+  <!--英雄表-->
+  
+  
+  <struct name="ResHeroDesc" version="1" sortkey="ResID"> 
+	<entry name="ResID" type="int" cname="英雄ID" desc="英雄ID"/>	
+	
+	<entry name="Country" type="int8" cname="国家" desc="国家"/>
+	<entry name="Sex" type="int8" cname="性别" desc="性别"/>
+	<entry name="RaceType"     	 type="int8"    cname="种族"    	 	desc="种族"/>
+	
+	<entry name="CanView" 	type="int8" cname="展示是否可见" desc="展示是否可见"/>
+	<entry name="CanSelect" type="int8" cname="是否可选" desc="是否可选"/>
+	<entry name="CanHave" 	type="int8" cname="是否初始拥有" desc="是否初始拥有"/>
+	<entry name="AICanUse" 	type="int8" cname="AI能否选用" desc="AI能否选用"/>
+	<entry name="AIArenaLevelCanUse" 	type="int8" cname="AI选取领主等级限制" desc="AI选取领主等级限制"/>
+	<entry name="AIPlayerLevelCanUse" 	type="int8" cname="AI选取召唤师等级限制" desc="AI选取召唤师等级限制"/>
+	
+	<entry name="CapacityType" type="int8" cname="能力类型" desc="能力类型"/>
+    <entry name="CapacitySubType" type="int8" cname="能力子类型" desc="能力子类型"/>
+	<entry name="WeaponType" type="int8" cname="武器类型" desc="武器类型"/>
+	<entry name="MobaAIId" type="int" cname="Moba战斗AID" desc="Moba战斗AID"/>
+	<entry name="AITargetType" type="int8" count="RES_MONSTERAITARGET_CNT" cname="AI优先目标类型" desc="AI优先目标类型"/>
+	
+	<entry name="SkillAttackType" type="int8"   cname="普通攻击类型" desc="普通攻击类型"/> 
+	<entry name="ArmorType" type="int8"   cname="护甲类型" desc="护甲类型"/> 
+	<entry name="SpeedType" type="int8"   cname="攻击速度描述" desc="攻击速度描述"/> 
+	<entry name="SkillAtkActorType" type="int8"   cname="对地对空描述" desc="对地对空描述"/> 
+
+	<entry name="MoveType" type="int8"   cname="移动类型" desc="移动类型"/> 
+	<entry name="CrowdSize" type="int8"   cname="阻挡格尺寸" desc="阻挡格尺寸"/> 
+	<entry name="Food" type="int"   cname="所占人口"  desc="所占人口"/>	
+	<entry name="MaxSkillEnergy" type="int"   cname="最大计数能量点"  desc="最大计数能量点"/>
+	<entry name="FogViewType" type="int8"   cname="迷雾视野类型" desc="迷雾视野类型"/>	
+	<entry name="DayFowRadius" type="int"   cname="白天迷雾半径"  desc="白天迷雾半径"/>
+	<entry name="NightFowRadius" type="int"   cname="夜晚迷雾半径"  desc="夜晚迷雾半径"/>	
+	<entry name="ActorPetID" type="int"   cname="跟宠ID"  desc="跟宠ID"/>
+	<entry name="TeamGhostID" type="int"   cname="死亡队伍灵魂ID"  desc="死亡队伍灵魂ID"/>		
+	<entry name="NormalSkills" type="int" cname="普通技能" count="RES_GENS_NORMALSKILL_CNT" desc="普通技能"/>
+	<entry name="Skills" type="int" cname="主动技能" count="RES_GENS_SKILL_CNT" desc="主动技能"/>
+	<entry name="TalentSkills" type="int" cname="天赋技能" count="RES_GENS_TALENTSKILL_CNT" desc="天赋技能"/>
+	<entry name="SummonerSkills" type="int" cname="召唤师技能" count="RES_GENS_SUMMONERSKILL_CNT" desc="召唤师技能"/>
+	<entry name="AvatarSkills" type="int" cname="变体技能" count="RES_GENS_AVATARSKILL_CNT" desc="变体技能"/>
+	<entry name="HiddenSkills" type="int" cname="隐藏技能" count="RES_GENS_HIDDENSKILL_CNT" desc="隐藏技能"/>
+	<entry name="DynsSkills" type="int" cname="动态技能" count="RES_GENS_DYNASKILL_CNT" desc="动态技能,资源加载用"/>
+	<entry name="HeroSkins" type="int" cname="英雄皮肤" count="RES_GENS_HEROSKIN_CNT" desc="英雄皮肤"/>
+	<entry name="Guide1v1RecID" type="int" cname="1v1新手引导推荐建造方案" desc="1v1新手引导推荐建造方案"/>
+	<entry name="Guide3v3RecID" type="int" cname="3v3新手引导推荐建造方案" desc="3v3新手引导推荐建造方案"/>		
+	<entry name="HumRecID" type="int" cname="人族推荐建造方案" desc="人族推荐建造方案"/>
+	<entry name="OrcRecID" type="int" cname="兽族推荐建造方案" desc="兽族推荐建造方案"/>	
+	<entry name="GhostRecID" type="int" cname="亡灵推荐建造方案" desc="亡灵推荐建造方案"/>	
+	<entry name="ElfRecID" type="int" cname="精灵推荐建造方案" desc="精灵推荐建造方案"/>	
+	
+	<entry name="LiveVal" type="int8" cname="生存能力" desc="生存能力"/>	
+	<entry name="ATKVal" type="int8" cname="攻击伤害" desc="攻击伤害"/>
+	<entry name="SkillDamageVal" type="int8" cname="技能效果" desc="技能效果"/>	
+	<entry name="UseDifficultyVal" type="int8" cname="上手难度" desc="上手难度"/>	
+	
+	<entry name="PaybackItemID" type="int" cname="转化道具ID" desc="转化道具ID"/>	
+	<entry name="PaybackItemNum" type="int" cname="转化道具数量" desc="转化道具数量"/>	
+	
+  </struct>
+  
+  <struct name="ResHeroDisplayDesc" version="1" sortkey="ResID" desc="英雄显示表">
+	<entry name="ResID" type="int" cname="英雄ID" desc="ID"/>
+	<entry name="AlphabeticalIndex" type="string" size="MAX_NAME_LEN" cname="英雄排序字母索引" desc="英雄排序字母索引"/>	
+	<entry name="HeroName_SCN" type="string" size="MAX_NAME_LEN" cname="名字_简中" desc="名字_简中"/>
+	<entry name="HeroName_EN" type="string" size="MAX_NAME_LEN" cname="名字_英文" desc="名字_英文"/>
+	<entry name="HeroName_FCN" type="string" size="MAX_NAME_LEN" cname="名字_繁中" desc="名字_繁中"/>
+	<entry name="HeroDesc_SCN" type="string" size="MAX_DESC_LEN" cname="描述_简中" desc="描述_简中"/>
+	<entry name="HeroDesc_EN" type="string" size="MAX_DESC_LEN" cname="描述_英文" desc="描述_英文"/>
+	<entry name="HeroDesc_FCN" type="string" size="MAX_DESC_LEN" cname="描述_繁中" desc="描述_繁中"/>
+	<entry name="HeroTips_SCN" type="string" size="MAX_DESC_LONGLEN" cname="使用技巧_简中" desc="使用技巧_简中"/>
+	<entry name="HeroTips_EN" type="string" size="MAX_DESC_LONGLEN" cname="使用技巧_英文" desc="使用技巧_英文"/>
+	<entry name="HeroTips_FCN" type="string" size="MAX_DESC_LONGLEN" cname="使用技巧_繁中" desc="使用技巧_繁中"/>
+	<entry name="StrategyUrl"	type="string"	size="MAX_DESC_LONGLEN"	cname="攻略链接"	desc="攻略链接"/>
+	<entry name="VideoUrl"	type="string"	size="MAX_DESC_LONGLEN"	cname="视频链接"	desc="视频链接"/>
+  </struct>
+  
+  <!-- 英雄技能升级关系表 -->
+  <struct name="ResHeroSkillLvUpRelationDesc" version="1" sortkey="SkillGroupID"> 
+	<entry name="SkillGroupID" type="int" cname="主动技能组ID" desc="主动技能组ID"/>
+	<entry name="OtherSkillGroupIDs" type="int" cname="关联技能组ID" count="RES_GENS_SKILLLEVELUP_CNT" desc="关联技能组ID"/>
+  </struct>
+  
+   <!--================== Moba怪物表================ -->
+  <macro name="RES_MONSTERDEADEENT_PARAM_CNT" value="4" desc="怪物死亡事件最大参数个数" />
+  <macro name="RES_MONSTERDEADEENT_CNT" value="2" desc="怪物死亡事件最大个数" />
+  <macro name="RES_MONSTESKINMAX_CNT" value="2" desc="怪物皮肤最大个数" />
+   
+  <!-- 死亡事件 -->
+  <struct name="MonsterDeadEventDesc" version="1" sortkey="Type"> 
+	<entry name="Type" type="int8" cname="类型" desc="类型"/>
+	<entry name="Params" type="int" cname="参数" count="RES_MONSTERDEADEENT_PARAM_CNT" desc="参数"/>
+  </struct>
+  
+	
+  <struct name="TechAttr" version="1" desc="科技属性效果" >
+	<entry name="ResAttrType"  type="int"   cname="效果"  desc="属性效果"/>
+	<entry name="ATTRADDTYPE"  type="int"   cname="类型"  desc="加成类型"/>
+	<entry name="AttrValue"    type="int"   cname="数值"  desc="属性数值"/>
+  </struct>
+
+  <struct name="ResMobaMonsterDesc" version="1" sortkey="ResID" desc="怪物ID" > 
+	<entry name="ResID" type="int" cname="怪物ID" desc="怪物ID"/>
+	<entry name="BattleSceneType" type="int8" cname="战斗场景模式" desc="战斗场景模式"/>
+
+	<entry name="SkinIDs" type="int" cname="皮肤ID" count="RES_MONSTESKINMAX_CNT" desc="皮肤ID"/>	
+	<entry name="PreLoadResCnt" type="int8" cname="资源预创建数目" desc="资源预创建数目"/>	
+	
+	<entry name="ActorType" type="int8" cname="怪物类型" desc="怪物类型"/>
+	<entry name="ActorSubType" type="int8" cname="怪物子类型" desc="怪物子类型"/>
+	<entry name="PositionIndex" type="int"   cname="士兵建造ID"  desc="士兵建造ID"/>	
+	<entry name="ActorSummonedType" type="int8" cname="召唤物类型" desc="召唤物类型"/>	
+	<entry name="SummonLifeTime" type="int" cname="召唤物存活时间" desc="召唤物存活时间(ms)"/>	
+	<entry name="SpawnLockTime" type="int" cname="野怪出生锁定时间" desc="野怪出生锁定时间(ms)"/>	
+	<entry name="Level" type="int8" cname="等级" desc="等级"/>
+	<entry name="RaceType" type="int8" cname="种族" desc="种族"/>
+	<entry name="WeaponType" type="int8" cname="武器类型" desc="武器类型"/>
+	<entry name="SkillAttackType" type="int8"   cname="普通攻击类型" desc="普通攻击类型"/> 
+	<entry name="ArmorType" type="int8"   cname="护甲类型" desc="护甲类型"/> 
+	<entry name="SpeedType" type="int8"   cname="攻击速度描述" desc="攻击速度描述"/> 
+	<entry name="FogViewType" type="int8"   cname="迷雾视野类型" desc="迷雾视野类型"/>
+	<entry name="SkillAtkActorType" type="int8"   cname="对地对空描述" desc="对地对空描述"/>
+	<entry name="DayFowRadius" type="int"   cname="白天迷雾半径"  desc="白天迷雾半径"/>
+	<entry name="NightFowRadius" type="int"   cname="夜晚迷雾半径"  desc="夜晚迷雾半径"/>	
+	<entry name="AIAttackType" type="int8" cname="AI攻击类型" desc="AI攻击类型"/>
+	<entry name="MobaAIId" type="int" cname="Moba战斗AID" desc="Moba战斗AID"/>
+	<entry name="TraceRadius" type="int" cname="AI最大追击距离" desc="AI最大追击距离"/>
+	<entry name="KeepAtkDis" type="int" cname="AI最小首次攻击距离" desc="AI最小首次攻击距离"/>	
+	<entry name="KeepAtkDisCD" type="int" cname="AI最小首次攻击冷却时间" desc="AI最小首次攻击冷却时间"/>		
+	<entry name="AITargetType" type="int8" count="RES_MONSTERAITARGET_CNT" cname="AI优先目标类型" desc="AI优先目标类型"/>
+	<entry name="CanBeSelect" type="int8" cname="能否被选中" desc="能否被选中"/>
+	<entry name="CanTeamCtr" 	type="int8" cname="能否被队伍控制" desc="能否被队伍控制"/>
+	<entry name="MoveType" type="int8"   cname="移动类型" desc="移动类型"/> 
+	<entry name="FightY" type="int"   cname="空中单位初始高度" desc="空中单位初始高度"/> 
+	<entry name="CrowdSize" type="int8"   cname="阻挡格尺寸" desc="阻挡格尺寸"/> 
+	<entry name="RotateSpeed" type="int"   cname="转身速度"  desc="转身速度"/>
+	<entry name="AtkRotate" type="int8"   cname="攻击是否转向"  desc="攻击是否转向"/>
+	<entry name="NormalSkills" type="int" cname="普通技能" count="RES_GENS_NORMALSKILL_CNT" desc="普通技能"/>
+	<entry name="NormalLevelUpSkills" type="int" cname="普攻升级技能" count="RES_GENS_NORMALSKILL_CNT" desc="普攻升级技能"/>
+	<entry name="Skills" type="int" cname="主动技能" count="RES_GENS_SKILL_CNT" desc="主动技能"/>
+	<entry name="TalentSkills" type="int" cname="辅助技能" count="RES_GENS_TALENTSKILL_CNT" desc="辅助技能"/>
+	<entry name="DynsSkills" type="int" cname="动态技能" count="RES_GENS_DYNASKILL_CNT" desc="动态技能,资源加载用"/>
+	<entry name="DeadEvents" type="MonsterDeadEventDesc" count="RES_MONSTERDEADEENT_CNT" cname="死亡触发事件" desc="死亡触发事件"/>   
+	
+   
+   <entry name="BuildTechID" type="int"   cname="建造科技ID"  desc="建造科技ID"/>
+   <entry name="UpdateTechID" type="int"   cname="升级科技ID"  desc="升级科技ID"/>
+   <entry name="AvatarTechID" type="int"   cname="变身科技ID"  desc="变身科技ID"/>
+   <entry name="NormalSkill_TechID" type="int"   cname="普攻科技ID"  desc="普攻科技ID"/>
+   <entry name="SkillQ_TechID" type="int"   cname="技能栏Q科技ID"  desc="技能栏Q科技ID"/>
+   <entry name="SkillW_TechID" type="int"   cname="技能栏W科技ID"  desc="技能栏W科技ID"/>
+   <entry name="SkillE_TechID" type="int"   cname="技能栏E科技ID"  desc="技能栏E科技ID"/>
+   <entry name="SkillR_TechID" type="int"   cname="技能栏R科技ID"  desc="技能栏R科技ID"/>
+
+   <entry name="RepairHPAdd" type="int"   cname="维修每秒生命恢复"  desc="维修每秒生命恢复"/>
+   <entry name="RepairGoldCost" type="int"   cname="维修每秒消耗金币"  desc="维修每秒消耗金币"/>   
+   <entry name="BuildGoldValue" type="int"   cname="建筑金币价值"  desc="建筑金币价值"/>   
+
+	<entry name="Food" type="int"   cname="所占人口"  desc="所占人口"/>
+	<entry name="DeadStayTime" type="int"   cname="死亡停留时间"  desc="死亡停留时间"/>	
+
+  </struct>
+  
+	 <!-- Moba怪物显示表 -->
+  <struct name="ResMonsterDisplayDesc" version="1" sortkey="ResID"  desc="怪物显示表">
+	<entry name="ResID" type="int" cname="怪物ID" desc="怪物ID"/>
+	<entry name="Name_SCN" type="string" size="MAX_NAME_LEN" cname="名称_简中" desc="名称_简中"/>
+	<entry name="Name_EN" type="string" size="MAX_NAME_LEN" cname="名称_英文" desc="名称_英文"/>
+	<entry name="Name_FCN" type="string" size="MAX_NAME_LEN" cname="名称_繁中" desc="名称_繁中"/>
+
+	<entry name="Desc_SCN" type="string" size="MAX_DESC_LEN" cname="描述_简中" desc="描述_简中"/>
+	<entry name="Desc_EN" type="string" size="MAX_DESC_LEN" cname="描述_英文" desc="描述_英文"/>
+	<entry name="Desc_FCN" type="string" size="MAX_DESC_LEN" cname="描述_繁中" desc="描述_繁中"/>
+		
+	
+	<entry name="Background" type="string" size="MAX_ICON_NAME_LEN" cname="展示背景" desc="展示背景"/>
+	
+	<entry name="HightModePath" type="string" size="MAX_RES_PATH_LEN" cname="3D高模" desc="3D高模"/>
+	<entry name="HightModeZoomScale" type="int" cname="高模缩放比例" desc="高模缩放比例"/>
+	<entry name="HightModeRotation" type="int" cname="高模旋转角度" desc="高模旋转角度"/>	
+	<entry name="Cansee" type="int8" cname="军团界面是否显示" desc="军团界面是否显示"/>	
+	
+	<entry name="FightShowY" type="int"   cname="空中单位展示高度" desc="空中单位展示高度"/> 
+	
+	<entry name="MyHeadUI" type="string" size="MAX_ICON_NAME_LEN" cname="我方血条" desc="我方血条"/>
+	<entry name="FriendHeadUI" type="string" size="MAX_ICON_NAME_LEN" cname="友方血条" desc="友方血条"/>
+	<entry name="EnemyHeadUI" type="string" size="MAX_ICON_NAME_LEN" cname="敌方血条" desc="敌方血条"/>
+			
+	<entry name="BuildingAtkWarnning" type="int8"   cname="建筑攻击警示" desc="建筑攻击警示"/> 	
+	
+	<entry name="WinDeathEffectPath" type="string" size="MAX_RES_PATH_LEN" cname="胜利死亡表现" desc="胜利死亡表现"/>	
+	<entry name="SpawnSoundPath" type="string" size="MAX_RES_PATH_LEN" cname="出生音效" desc="出生音效"/>
+	<entry name="DeathSoundPath" type="string" size="MAX_RES_PATH_LEN" cname="死亡音效" desc="死亡音效"/>		
+	<entry name="HUM_DeathBodyModelPath" type="string" size="MAX_RES_PATH_LEN" cname="人族死亡尸体表现" desc="人族死亡尸体表现"/>	
+	<entry name="ORC_DeathBodyModelPath" type="string" size="MAX_RES_PATH_LEN" cname="兽族死亡尸体表现" desc="兽族死亡尸体表现"/>	
+	<entry name="ELF_DeathBodyModelPath" type="string" size="MAX_RES_PATH_LEN" cname="精灵死亡尸体表现" desc="精灵死亡尸体表现"/>	
+	<entry name="GOHOST_DeathBodyModelPath" type="string" size="MAX_RES_PATH_LEN" cname="亡灵死亡尸体表现" desc="亡灵死亡尸体表现"/>	
+	<entry name="BuildEffectPath" type="string" size="MAX_RES_PATH_LEN" cname="建造特效" desc="建造特效"/>
+	<entry name="FeatureIcon1" type="string" size="MAX_ICON_NAME_LEN" cname="特征描述图标1" desc="特征描述图标1"/>
+	<entry name="FeatureIcon2" type="string" size="MAX_ICON_NAME_LEN" cname="特征描述图标2" desc="特征描述图标2"/>
+	<entry name="FeatureIcon3" type="string" size="MAX_ICON_NAME_LEN" cname="特征描述图标3" desc="特征描述图标3"/>
+	<entry name="FeatureIcon4" type="string" size="MAX_ICON_NAME_LEN" cname="特征描述图标4" desc="特征描述图标4"/>
+	<entry name="StrategyWeb"	type="string"	size="MAX_DESC_LONGLEN"	cname="攻略链接"	desc="攻略链接"/>
+	<entry name="VideoWeb"	type="string"	size="MAX_DESC_LONGLEN"	cname="技能视频链接"	desc="技能视频链接"/>
+	
+   </struct>
+   
+   
+    <!-- Moba怪物皮肤表 -->
+   
+   <struct name="ResMobaMonsterSkinDesc" version="1" sortkey="ResID" desc="皮肤表" > 
+	<entry name="ResID" type="int" cname="皮肤ID" desc="皮肤ID"/>
+	<entry name="ModePath" type="string" size="MAX_RES_PATH_LEN" cname="模型路径" desc="模型路径"/>
+
+	<entry name="ShowIcon" type="string" size="MAX_ICON_NAME_LEN" cname="展示头像" desc="展示头像"/>
+	<entry name="CircleIcon" type="string" size="MAX_ICON_NAME_LEN" cname="圆形头像" desc="圆形头像"/>
+	<entry name="SquareIcon" type="string" size="MAX_ICON_NAME_LEN" cname="方形头像" desc="方形头像"/>
+	
+	<entry name="SpawnEffectPath" type="string" size="MAX_RES_PATH_LEN" cname="出生表现" desc="出生表现"/>
+	<entry name="DeathEffectPath" type="string" size="MAX_RES_PATH_LEN" cname="死亡表现" desc="死亡表现"/>
+	</struct>
+	
+
+  
+  <!-- ==============属性================= -->
+  <macro name="RES_MAX_MOVESPEED_CONSTVAL"  value="80000"  desc="移动速度参考值"/>
+   <macro name="RES_MAX_BUFFATTR_CNT"  value="8"  desc="BUFF属性最大个数"/>
+  
+   <!-- 基础成长属性 -->
+   <struct name="HeroBaseAttrDesc" version="1" sortkey="ResID"  desc="基础成长属性">
+	<entry name="ResID" type="int" cname="英雄ID" desc="英雄ID"/>
+	<entry name="BattleSceneType" type="int8" cname="战斗场景模式" desc="战斗场景模式"/>
+	<entry name="MaxHP" type="int" cname="最大生命值" desc="最大生命值"/>
+	<entry name="HPLv" type="int32" cname="生命值成长" desc="生命值成长" />
+	<entry name="HPRecovery" type="int" cname="生命回复" desc="生命回复"/>
+	<entry name="HPRecoveryLv" type="int32" cname="生命回复成长" desc="生命回复成长" />
+	<entry name="MaxMP" type="int" cname="最大法术值" desc="最大法术值"/>
+	<entry name="MPLv" type="int32" cname="法术值成长" desc="法术值成长" />
+	<entry name="MPRecovery" type="int" cname="法术回复" desc="法术回复"/>
+	<entry name="MPRecoveryLv" type="int32" cname="法术回复成长" desc="法术回复成长"/>
+	<entry name="Attack" type="int" cname="攻击力" desc="攻击力"/>
+	<entry name="AttackLv" type="int32" cname="攻击力成长" desc="攻击力成长"/>
+	<entry name="AP" type="int" cname="法术强度" desc="法术强度"/>
+	<entry name="APLv" type="int32" cname="法术强度成长" desc="法术强度成长" />
+	<entry name="AtkSpeed" type="int" cname="攻击速度" desc="攻击速度"/>
+	<entry name="AtkSpeedLv" type="int32" cname="攻击速度基础成长万分比" desc="攻击速度基础成长万分比" />
+	<entry name="CriRate_D4" type="int" cname="暴击率" desc="暴击率"/>
+	<entry name="CriRateDamage_D4" type="int" cname="暴击伤害率" desc="暴击伤害率"/>
+	<entry name="Armor" type="int" cname="护甲值" desc="护甲值"/>
+	<entry name="ArmorLv" type="int32" cname="护甲值成长" desc="护甲值成长" />
+	<entry name="ArmorPierce" type="int" cname="护甲穿透" desc="护甲穿透"/>
+	<entry name="ArmorPierceRate" type="int" cname="护甲穿透率" desc="护甲穿透率"/>
+	<entry name="MagicDef" type="int" cname="法术抗性" desc="法术抗性"/>
+	<entry name="MagicDefLv" type="int32" cname="法术抗性成长" desc="法术抗性成长" />
+	<entry name="MDPierce" type="int" cname="法术穿透" desc="法术穿透"/>
+	<entry name="MDPierceRate" type="int" cname="法术穿透率" desc="法术穿透率"/>
+	<entry name="AttackSteal" type="int" cname="生命偷取率" desc="生命偷取率"/>
+	<entry name="APSteal" type="int" cname="法术吸血率" desc="法术吸血率"/>
+	<entry name="CD" type="int" cname="冷却缩减" desc="冷却缩减"/>
+	<entry name="Tenacity" type="int" cname="韧性率" desc="韧性率"/>
+	<entry name="AtkDmgRate" type="int" cname="物理伤害万分比" desc="物理伤害万分比"/>
+	<entry name="APDmgRate" type="int" cname="法术伤害万分比" desc="法术伤害万分比"/>
+	<entry name="GetAtkDmgRate" type="int" cname="受到物理伤害万分比" desc="受到物理伤害万分比"/>
+	<entry name="GetAPDmgRate" type="int" cname="受到法术伤害万分比" desc="受到法术伤害万分比"/>
+	<entry name="MoveBaseSpeed" type="int" cname="基础移动速度" desc="基础移动速度"/>
+	<entry name="ColliderRadius" type="int" cname="碰撞体积" desc="碰撞体积"/>
+	<entry name="VisionRadius" type="int" cname="视野半径" desc="视野半径"/>
+	<entry name="WarnRadius" type="int" cname="警戒半径" desc="警戒半径"/>
+	<entry name="AIAtkCoe" type="int" cname="我方AI英雄攻击系数" desc="我方AI英雄攻击系数"/>
+	<entry name="AIDefCoe" type="int" cname="我方AI英雄防御系数" desc="我方AI英雄防御系数"/>
+	<entry name="MaxSkillEnergy" type="int" cname="最大计数能量点" desc="最大计数能量点"/>
+	<entry name="BuildDmgCore" type="int" cname="对建筑伤害系数" desc="对建筑伤害系数"/>
+	<entry name="BuildDmgBeCore" type="int" cname="被建筑伤害系数" desc="被建筑伤害系数"/>
+	<entry name="DogfaceDmgCore" type="int" cname="对小兵伤害系数" desc="对小兵伤害系数"/>
+	<entry name="DogfaceDmgBeCore" type="int" cname="被小兵伤害系数" desc="被小兵伤害系数"/>
+  </struct>
+  
+  
+ <!-- Moba怪物属性 -->
+ <struct name="MonsterBaseAttrDesc" version="1" sortkey="ResID"  desc="怪物属性表">
+	<entry name="ResID" type="int" cname="怪物ID" desc="怪物ID"/>
+	<entry name="MaxHP" type="int" cname="最大生命值" desc="最大生命值"/>
+	<entry name="HPLv" type="int32" cname="生命值成长" desc="生命值成长" />
+	<entry name="HPRecovery" type="int" cname="生命回复" desc="生命回复"/>
+	<entry name="HPRecoveryLv" type="int32" cname="生命回复成长" desc="生命回复成长" />
+	<entry name="MaxMP" type="int" cname="最大法术值" desc="最大法术值"/>
+	<entry name="MPLv" type="int32" cname="法术值成长" desc="法术值成长" />
+	<entry name="MPRecovery" type="int" cname="法术回复" desc="法术回复"/>
+	<entry name="MPRecoveryLv" type="int32" cname="法术回复成长" desc="法术回复成长"/>
+	<entry name="Attack" type="int" cname="攻击力" desc="攻击力"/>
+	<entry name="AttackLv" type="int32" cname="攻击力成长" desc="攻击力成长"/>
+	<entry name="AP" type="int" cname="法术强度" desc="法术强度"/>
+	<entry name="APLv" type="int32" cname="法术强度成长" desc="法术强度成长" />
+	<entry name="AtkSpeed" type="int" cname="攻击速度" desc="攻击速度"/>
+	<entry name="AtkSpeedLv" type="int32" cname="攻击速度基础成长万分比" desc="攻击速度基础成长万分比" />
+	<entry name="CriRate_D4" type="int" cname="暴击率" desc="暴击率"/>
+	<entry name="CriRateDamage_D4" type="int" cname="暴击伤害率" desc="暴击伤害率"/>
+	<entry name="Armor" type="int" cname="护甲值" desc="护甲值"/>
+	<entry name="ArmorLv" type="int32" cname="护甲值成长" desc="护甲值成长" />
+	<entry name="ArmorPierce" type="int" cname="护甲穿透" desc="护甲穿透"/>
+	<entry name="ArmorPierceRate" type="int" cname="护甲穿透率" desc="护甲穿透率"/>
+	<entry name="MagicDef" type="int" cname="法术抗性" desc="法术抗性"/>
+	<entry name="MagicDefLv" type="int32" cname="法术抗性成长" desc="法术抗性成长" />
+	<entry name="MDPierce" type="int" cname="法术穿透" desc="法术穿透"/>
+	<entry name="MDPierceRate" type="int" cname="法术穿透率" desc="法术穿透率"/>
+	<entry name="AttackSteal" type="int" cname="生命偷取率" desc="生命偷取率"/>
+	<entry name="APSteal" type="int" cname="法术吸血率" desc="法术吸血率"/>
+	<entry name="CD" type="int" cname="冷却缩减" desc="冷却缩减"/>
+	<entry name="Tenacity" type="int" cname="韧性率" desc="韧性率"/>
+	<entry name="AtkDmgRate" type="int" cname="物理伤害万分比" desc="物理伤害万分比"/>
+	<entry name="APDmgRate" type="int" cname="法术伤害万分比" desc="法术伤害万分比"/>
+	<entry name="GetAtkDmgRate" type="int" cname="受到物理伤害万分比" desc="受到物理伤害万分比"/>
+	<entry name="GetAPDmgRate" type="int" cname="受到法术伤害万分比" desc="受到法术伤害万分比"/>
+	<entry name="MoveBaseSpeed" type="int" cname="基础移动速度" desc="基础移动速度"/>
+	<entry name="ColliderRadius" type="int" cname="碰撞体积" desc="碰撞体积"/>
+	<entry name="VisionRadius" type="int" cname="视野半径" desc="视野半径"/>
+	<entry name="WarnRadius" type="int" cname="警戒半径" desc="警戒半径"/>
+	<entry name="AIAtkCoe" type="int" cname="我方AI英雄攻击系数" desc="我方AI英雄攻击系数"/>
+	<entry name="AIDefCoe" type="int" cname="我方AI英雄防御系数" desc="我方AI英雄防御系数"/>
+	<entry name="MaxSkillEnergy" type="int" cname="最大计数能量点" desc="最大计数能量点"/>
+	<entry name="BuildDmgCore" type="int" cname="对建筑伤害系数" desc="对建筑伤害系数"/>
+	<entry name="BuildDmgBeCore" type="int" cname="被建筑伤害系数" desc="被建筑伤害系数"/>
+	<entry name="DogfaceDmgCore" type="int" cname="对小兵伤害系数" desc="对小兵伤害系数"/>
+	<entry name="DogfaceDmgBeCore" type="int" cname="被小兵伤害系数" desc="被小兵伤害系数"/>
+  </struct>
+  
+  
+   <!-- Moba召唤物继承属性 -->
+   
+   <macro name="RES_MAX_INHERITED_PARENTATTR_CNT"  value="4"  desc="最大继承父属性个数"/>
+   <macro name="RES_MAX_INHERITED_PARENTATTRADD_CNT"  value="4"  desc="最大继承父属性转换属性个数"/>
+   <macro name="RES_MAX_INHERITED_PARENTLVATTRADD_CNT"  value="4"  desc="等级继承属性个数"/>
+   
+   <struct name="InheritAttrDesc" version="1" desc="属性继承属性">
+	<entry name="AttrType" type="int8" cname="类型" desc="父属性类型"/>
+	<entry name="subAttrType" type="int8" count="RES_MAX_INHERITED_PARENTATTRADD_CNT" cname="子属性类型" desc="子属性类型"/>
+	<entry name="subAttrVal" type="int" count="RES_MAX_INHERITED_PARENTATTRADD_CNT" cname="子属性继承万分比" desc="子属性继承万分比"/>
+  </struct>
+   
+   <struct name="InheritLevelAttrDesc" version="1" desc="等级继承属性">
+	<entry name="subAttrType" type="int8" cname="类型" desc="属性类型"/>
+	<entry name="subAttrVal" type="int"  cname="系数万分比" desc="系数万分比"/>
+  </struct>
+   
+   <struct name="SummonedInheritAttrDesc" version="1" sortkey="ResID"  desc="英雄属性表">
+	<entry name="ResID" type="int" cname="怪物ID" desc="怪物ID"/>
+	<entry name="InheritAttr" type="InheritAttrDesc" count="RES_MAX_INHERITED_PARENTATTR_CNT" cname="父属性" desc="父属性继承列表"/>
+	<entry name="LevelAttr" type="InheritLevelAttrDesc" count="RES_MAX_INHERITED_PARENTLVATTRADD_CNT" cname="等级继承属性" desc="等级继承属性列表"/>
+  </struct>
+  
+   <!--================== 变身表================ -->
+   <macro name="RES_MAX_AVATAR_SKIN_CNT"  value="4"  desc="变身皮肤组最大个数"/>
+   
+	<struct name="ResAvatarSkinDesc" version="1" desc="英雄皮肤对应模型">
+	<entry name="SkinID" type="int" cname="ID" desc="ID"/>
+	<entry name="ModePath" type="string" size="MAX_RES_PATH_LEN" cname="模型路径" desc="模型路径"/>
+  </struct>
+   
+   
+   <struct name="ResAvatarDesc" version="1" sortkey="ResID"  desc="变身表">
+	<entry name="ResID" type="int" cname="变身ID" desc="变身ID"/>
+	<entry name="ModePath" type="string" size="MAX_RES_PATH_LEN" cname="模型路径" desc="模型路径"/>
+	<entry name="AvatarSkins" type="ResAvatarSkinDesc" count="RES_MAX_AVATAR_SKIN_CNT" cname="皮肤" desc="皮肤列表"/>
+  </struct>
+	
+   <!-- =============技能============== -->
+   
+   <macro name="RES_MAX_SKILLPOINTAREA_LEN"  value="4"  desc="技能指向区域参数最大个数"/>
+   
+   <macro name="RES_MAX_SKILLATTACKROLLBUFF_LEN"  value="4"  desc="技能前摇效果参数最大个数"/>
+   <macro name="RES_MAX_SKILLPHASEMAX_LEN"  value="6"  desc="技能阶段最大个数"/>
+	 
+   <macro name="RES_MAX_SKILLTRIGCAST_LEN"  value="4"  desc="技能触发释放参数最大个数"/>
+   <macro name="RES_MAX_SKILLCOST_LEN"  value="2"  desc="技能消耗最大个数"/>
+   
+   <macro name="RES_MAX_SKILLPASSIVEBUFF_LEN"  value="3"  desc="技能被动Buff最大个数"/>
+   
+   <macro name="RES_MAX_SKILLTARGETFILTER_LEN"  value="2"  desc="技能目标筛选条件最大个数"/>
+   <macro name="RES_MAX_SKILLTARGETCULLPARAM_LEN"  value="2"  desc="技能目标状态排除条件参数最大个数"/>
+  
+   <struct name="ResSkillTargetFilter" version="1" desc="技能目标筛选条件" >
+	<entry name="Type"     type="int8"           cname="类型"              desc="类型"/>
+	<entry name="Param"     type="int"           cname="参数"            desc="参数"/>
+   </struct>
+   
+   <struct name="ResSkillCost" version="1" desc="技能消耗" >
+	<entry name="Type"     type="int8"           cname="类型"      desc="类型"/>
+	<entry name="Param1"     type="int"           cname="参数1"    desc="参数1"/>
+	<entry name="Param2"     type="int"           cname="参数2"  desc="参数2"/>
+   </struct>
+
+  <!--技能表-->
+  <struct name="ResSkillDesc" version="1" sortkey="SkillID">
+	<entry name="SkillID"     type="int"           cname="技能ID"              desc="技能ID"/>
+	<entry name="GroupID"     type="int"           cname="技能组ID"            desc="技能组ID"/>
+	<entry name="Level"       type="int"           cname="技能等级"            desc="技能等级"/>
+	<entry name="datePath" type="string" size="MAX_RES_PATH_SHORTLEN" cname="配置文件路径" desc="配置文件路径"/>
+	<entry name="CDdatePath" type="string" size="MAX_RES_PATH_SHORTLEN" cname="技能CD表现配置" desc="技能CD表现配置"/>
+	<entry name="Type"        type="int8"           cname="技能类型"            desc="技能类型"/>
+	<entry name="SubType"     type="int8"           cname="技能子类型"          desc="技能子类型"/>
+	<entry name="SkillBarType"     type="int8"       cname="技能栏位类型"          desc="技能栏位类型"/>
+	<entry name="SkillInputOpType"     type="int8"       cname="技能释放操控类型"          desc="技能释放操控类型"/>
+	<entry name="SkillAtkActorType"     type="int8"       cname="攻击单位类型"          desc="攻击单位类型"/>
+	<entry name="SkillTargetType"     type="int8"       cname="作用对象类型"          desc="作用对象类型"/>
+	<entry name="AttackDistance"     type="int"           cname="攻击距离"              desc="攻击距离"/>
+	<entry name="AttackDistanceMin"  type="int"        cname="攻击最小距离"      desc="攻击最小距离"/>
+	<entry name="SkillAttackType"        type="int8"           cname="技能攻击类型"  desc="技能攻击类型"/>
+	<entry name="SkillDamageType"        type="int8"           cname="技能伤害类型"  desc="技能伤害类型"/>
+	<entry name="SkillDistanceType"        type="int8"           cname="技能距离类型"  desc="技能距离类型"/>
+	<entry name="SkillPassiveBeakType"        type="int8"     cname="技能被动打断类型"   desc="技能被动打断类型"/>
+	<entry name="SkillAutoBeakType"        type="int8"     cname="技能主动打断类型"   desc="技能主动打断类型"/>
+	<entry name="SkillCooldownType"        type="int8"           cname="技能冷却类型"               desc="技能冷却类型"/>
+	<entry name="CooldownCD"     type="int"       cname="技能冷却时间"              desc="技能冷却时间"/>
+	<entry name="InitCDTime"     type="int"           cname="技能初始CD"              desc="技能初始CD"/>
+	<entry name="MultiStayTime"     type="int"           cname="多段技停留时间"              desc="多段技停留时间"/>
+	<entry name="MultiLockTime"     type="int"           cname="多段技解锁时间"              desc="多段技解锁时间"/>
+	<entry name="CDStartType"     type="int8"           cname="技能CD启动类型"              desc="技能CD启动类型"/>
+	
+	<entry name="SkillCosts" type="ResSkillCost" count="RES_MAX_SKILLCOST_LEN"  cname="技能消耗" desc="技能消耗"/> 
+	
+	<entry name="HasAtkRoll"     type="int8"       cname="技能有无前摇"          desc="技能有无前摇"/>
+	<entry name="SkillCtrCastType"     type="int8"       cname="技能受控制释放类型"          desc="技能受控制释放类型"/>
+	<entry name="HasBeakAtkRoll"     type="int8"       cname="能否打断其他技能前摇释放"          desc="能否打断其他技能前摇释放"/>
+	
+	<entry name="SkillBeforeRollType"     type="int8"       cname="技能前摇类型"          desc="技能前摇类型"/>
+	<entry name="SkillBeforeRollTime"     type="int"       cname="技能前摇时间"          desc="技能前摇时间"/>
+	<entry name="SkillAtkTime"     type="int"       cname="技能攻击状态时间"     desc="技能攻击状态时间"/>
+	
+	<entry name="SkillAttkRollBuffType"  type="int8"    count="RES_MAX_SKILLATTACKROLLBUFF_LEN"   cname="技能前摇效果类型"  desc="技能前摇效果类型"/>
+	
+	<entry name="HasChat"     type="int8"       cname="技能有无吟唱"          desc="技能有无吟唱"/>
+	<entry name="SkillChatTime"   type="int"       cname="技能吟唱时间"  desc="技能吟唱时间"/>
+	
+	<entry name="SkillBeforeRollMoveFaceType"  type="int8"   cname="技能前摇移动朝向类型" desc="技能前摇移动朝向类型"/>
+	
+	<entry name="InitEnergyPoint" type="int8" cname="初始技能充能点" desc="初始技能充能点"/>
+	<entry name="EnergyCd"   type="int" cname="技能充能周期" desc="技能充能周期"/>
+	<entry name="EnergyMax"  type="int8" cname="技能最大充能点" desc="技能最大充能点"/>
+	
+	<entry name="SkillBattleCastType"     type="int8"       cname="技能战斗释放类型"     desc="技能战斗释放类型"/>
+	
+	<entry name="SkillPointType"     type="int8"       cname="技能指向类型"          desc="技能指向类型"/>
+	<entry name="SkillPointAreaType"     type="int8"       cname="技能指向区域类型"          desc="技能指向区域类型"/>
+	<entry name="SkillPointAreaParam"  type="int"    count="RES_MAX_SKILLPOINTAREA_LEN"   cname="技能指向区域参数"  desc="技能指向区域参数"/>
+	<entry name="SkillPtAreaChangeColorTagetType"  type="int8"   cname="技能指向目标变色目标类型"          desc="技能指向目标变色目标类型"/>
+	
+	<entry name="AIAutoCast"     type="int8"       cname="AI能否控制释放"          desc="AI能否控制释放"/>
+	<entry name="AICastMinDistance"    type="int"       cname="AI释放最小限制距离"          desc="AI释放最小限制距离"/>
+	<entry name="AICastSkillType"     type="int8"       cname="AI释放技能类型"          desc="AI释放技能类型"/>
+	
+	<entry name="TrigCastType" type="int8" cname="技能触发释放类型" desc="技能触发释放类型" />
+	<entry name="TrigCastCondType" type="int8" cname="技能释放条件类型" desc="技能释放条件类型" />
+	<entry name="TrigCastCondParams" type="int" count="RES_MAX_SKILLTRIGCAST_LEN"  cname="技能释放条件参数" desc="技能释放条件参数"/>   
+	
+	<entry name="LastTargetCondType"    type="int8" cname="技能上次目标有效条件类型" desc="技能上次目标有效条件类型" />
+	<entry name="CastMutexType"    type="int8" cname="技能释放互斥类型" desc="技能释放互斥类型" />	
+	<entry name="TargetCullType"    type="int8" cname="技能目标状态排除条件类型" desc="技能目标状态排除条件类型" />
+	<entry name="TargetCullParam"    type="int" count="RES_MAX_SKILLTARGETCULLPARAM_LEN" cname="技能目标状态排除条件参数" desc="技能目标状态排除条件参数" />
+	
+	<entry name="TargetFilter"  type="ResSkillTargetFilter"    count="RES_MAX_SKILLTARGETFILTER_LEN"   cname="技能目标筛选条件"  desc="技能目标筛选条件"/>
+	<entry name="SkillPhaseID"  type="int"    count="RES_MAX_SKILLPHASEMAX_LEN"   cname="技能阶段ID"  desc="技能阶段ID"/>
+	<entry name="PassiveBuffID"  type="int"    count="RES_MAX_SKILLPASSIVEBUFF_LEN"   cname="被动BuffID"  desc="被动BuffID"/>
+	<entry name="SecondSkill" type="int" cname="主动技能二段技"  desc="主动技能二段技"/>
+	<entry name="ThreeSkill" type="int" cname="主动技能三段技"  desc="主动技能三段技"/>
+	<entry name="SwitchSkill" type="int" cname="主动开关技能(关)"  desc="主动开关技能(关)"/>
+	<entry name="TeamAIDamage"    type="int" cname="人机固定伤害" desc="人机固定伤害" />
+	<entry name="TeamAIPhysicsEnhance"    type="int" cname="人机物理加成" desc="人机物理加成" />
+	<entry name="TeamAIMagicEnhance"    type="int" cname="人机法术加成" desc="人机法术加成" />	
+	<entry name="TeamAICastCount"    type="int" cname="人机施法次数" desc="人机施法次数" />
+	<entry name="TeamAITeamEnhance"    type="int" cname="人机团队加成" desc="人机团队加成" />
+	
+
+
+  </struct>
+  
+   <struct name="ResSkillDisplayDesc" version="1" sortkey="SkillID" desc="技能显示表">
+	<entry name="SkillID"     type="int"           cname="技能ID"              desc="技能ID"/>
+	<entry name="Level"       type="int"           cname="技能等级"            desc="技能等级"/>
+	
+	<entry name="Icon_Name"   type="string"        size="MAX_ICON_NAME_LEN"   cname="技能图标"  desc="技能图标"/>
+	
+	<entry name="Name_SCN"        type="string" size="MAX_NAME_LEN"   cname="技能名称(简中)"  desc="技能名称(简中)"/>
+	<entry name="Desc_SCN"        type="string"	size="MAX_DESC_LONGLEN"   cname="技能描述(简中)"  desc="技能描述(简中)"/>
+	<entry name="EffectDesc_SCN"  type="string" size="MAX_DESC_LONGLEN"   cname="技能效果描述(简中)"  desc="技能效果描述(简中)"/>
+	
+	<entry name="Name_EN"        type="string"  size="MAX_NAME_LEN"   cname="技能名称(英)"  desc="技能名称(英)"/>
+	<entry name="Desc_EN"        type="string"  size="MAX_DESC_LONGLEN"   cname="技能描述(英)"  desc="技能描述(英)"/>
+	<entry name="EffectDesc_EN"  type="string"  size="MAX_DESC_LONGLEN"   cname="技能效果描述(英)"  desc="技能效果描述(英)"/>
+	
+	<entry name="Name_FCN"        type="string"  size="MAX_NAME_LEN"   cname="技能名称(繁中)"  desc="技能名称(繁中)"/>
+	<entry name="Desc_FCN"        type="string"  size="MAX_DESC_LONGLEN"   cname="技能描述(繁中)"  desc="技能描述(繁中)"/>
+	<entry name="EffectDesc_FCN"  type="string"  size="MAX_DESC_LONGLEN"   cname="技能效果描述(繁中)"  desc="技能效果描述(繁中)"/>
+	
+	<entry name="EffectName_SCN"  type="string"   size="MAX_NAME_LEN"   cname="技能效果名称(简中)"  desc="技能效果名称(简中)"/>
+	<entry name="EffectName_FCN"  type="string"   size="MAX_NAME_LEN"   cname="技能效果名称(繁中)"  desc="技能效果名称(繁中)"/>
+	<entry name="EffectName_EN"   type="string"   size="MAX_NAME_LEN"   cname="技能效果名称(英)"  desc="技能效果名称(英)"/>
+	
+	<entry name="MiniMapIconName"    type="string"        size="MAX_ICON_NAME_LEN"   cname="小地图技能图标"  desc="小地图技能图标"/>
+	<entry name="RaceSkillIcon" type="string" size="MAX_ICON_NAME_LEN" cname="种族技能图标" desc="种族技能图标"/>
+	<entry name="RaceSkillEffectIcon" type="string" size="MAX_ICON_NAME_LEN" cname="种族技能施放效果图标" desc="种族技能施放效果图标"/>
+    
+	<entry name="bForbOtherSkill"      type="char"           cname="前摇中是否禁用其他技能"   desc="前摇中是否禁用其他技能"/>
+	<entry name="bPhyDamgeSkill"       type="char"           cname="是否物理伤害技能"   desc="是否物理伤害技能"/>
+	<entry name="bMgicDamgeSkill"      type="char"           cname="是否法术伤害技能"   desc="是否法术伤害技能"/>
+	<entry name="bAllDamgeSkill"       type="char"           cname="是否全额伤害技能"   desc="是否全额伤害技能"/>		
+	<entry name="bControlSkill"        type="char"           cname="是否控制技能"   	 desc="是否控制技能"/>
+	
+	<entry name="BasicDamge"      	 		type="string"     size="MAX_NAME_LEN"    cname="固定伤害"   desc="固定伤害"/>
+	<entry name="SecondDamge"      	 		type="string"     size="MAX_NAME_LEN"    cname="二段伤害"   desc="二段伤害"/>
+	<entry name="ThirdDamge"      	 		type="string"     size="MAX_NAME_LEN"    cname="三段伤害"   desc="三段伤害"/>	
+	<entry name="DamgePerSec"      	 		type="int"        cname="每秒伤害"   desc="每秒伤害"/>	
+	<entry name="DamgePerBuff"      	 	type="int"        cname="每层伤害"   desc="每层伤害"/>		
+	<entry name="BeheadedHP"      	 		type="int"        cname="斩杀血量"   desc="斩杀血量"/>		
+	<entry name="BasicTreat"      	 		type="int"        cname="基础治疗"   desc="基础治疗"/>	
+	<entry name="MgicReply"     	 		type="string"     size="MAX_NAME_LEN"      cname="法术回复"   desc="法术回复"/>
+	<entry name="HealthReply"     	 		type="string"     size="MAX_NAME_LEN"      cname="生命回复"   desc="生命回复"/>
+	<entry name="MaxHP"     	 			type="string"     size="MAX_NAME_LEN"      cname="最大生命值"   	desc="最大生命值"/>		
+	<entry name="Armor"     	 			type="string"     size="MAX_NAME_LEN"      cname="护甲值"   	desc="护甲值"/>	
+	<entry name="EVASION_RATE"     	 		type="string"     size="MAX_NAME_LEN"      cname="闪避值"   	desc="闪避值"/>	
+	<entry name="DmgAbsorb"     	 		type="string"     size="MAX_NAME_LEN"      cname="护盾吸收"   desc="护盾吸收"/>	
+	<entry name="SneerTime"     	 		type="string"     size="MAX_NAME_LEN"      cname="嘲讽时间"   desc="嘲讽时间"/>
+	<entry name="StunTime"     	 		    type="int"           cname="眩晕时间"   desc="眩晕时间"/>	
+	<entry name="JumpNum"      		 		type="int"           cname="跳跃次数"   desc="跳跃次数"/>
+	<entry name="DamgeProbability"      	type="int"           cname="触发概率"   desc="触发概率"/>
+	<entry name="Move"       				type="string"     size="MAX_NAME_LEN"      cname="移动速度"   desc="移动速度"/>
+	<entry name="Atk"       				type="string"     size="MAX_NAME_LEN"      cname="攻击速度"   desc="攻击速度"/>
+	<entry name="AtkDmg"       				type="string"     size="MAX_NAME_LEN"      cname="攻击力"   desc="攻击力"/>	
+	<entry name="CriRateDamage_D4"       	type="string"     size="MAX_NAME_LEN"      cname="暴击伤害率"   desc="暴击伤害率"/>	
+	<entry name="ContinueTime"       		type="int"           cname="持续时间"   desc="持续时间"/>	
+	<entry name="SummonedHP"     			type="int"           cname="召唤物血量"   desc="召唤物血量"/>
+	<entry name="bSummonedATK"       		type="int"           cname="召唤物攻击"   desc="召唤物攻击"/>
+	<entry name="SoulNum"       			type="int"           cname="恶灵数量"   desc="恶灵数量"/>	
+	<entry name="CooldownTime"       		type="int"           cname="冷却时间"   desc="冷却时间"/>
+	<entry name="ReviveNum"       			type="int"           cname="复活数量"   desc="复活数量"/>
+	<entry name="CharmLevel"       			type="int"           cname="魅惑等级"   desc="魅惑等级"/>
+	<entry name="HurtReduce"       			type="string"     size="MAX_NAME_LEN"      cname="伤害减少"   desc="伤害减少"/>
+	<entry name="HurtAddition"       		type="string"     size="MAX_NAME_LEN"      cname="伤害加成"   desc="伤害加成"/>
+	<entry name="HurtShare"       			type="string"     size="MAX_NAME_LEN"      cname="伤害分摊"   desc="伤害分摊"/>	
+	<entry name="LifeSteal"       			type="string"     size="MAX_NAME_LEN"      cname="生命偷取"   desc="生命偷取"/>
+	<entry name="SummonInterval"       		type="string"     size="MAX_NAME_LEN"      cname="召唤间隔"   desc="召唤间隔"/>
+	<entry name="EarthQuakeDamage"          type="string"     size="MAX_NAME_LEN"       cname="震地伤害"        desc="震地伤害"/>
+	<entry name="CriRate_D4"                type="string"     size="MAX_NAME_LEN"       cname="暴击率"          desc="暴击率"/>
+	<entry name="SilencedTime"              type="string"     size="MAX_NAME_LEN"       cname="沉默时间"        desc="沉默时间"/>
+	<entry name="DeformTime"                type="string"     size="MAX_NAME_LEN"       cname="变形时间"        desc="变形时间"/>
+	<entry name="BurningTime"               type="string"     size="MAX_NAME_LEN"       cname="灼烧时间"        desc="灼烧时间"/>	
+	
+	</struct>
+  
+   <!--技能阶段信息 -->
+   
+   <macro name="RES_MAX_SKILLEFFECTCONDTIONPARAM_LEN"  value="4"  desc="技能效果触发条件参数最大个数"/>
+   <macro name="RES_MAX_SKILLEFFECTAREAPARAM_LEN"  value="4"  desc="技能效果区域参数最大个数"/>
+   <macro name="RES_MAX_SKILLEFFECTPARAM_LEN"  value="5"  desc="技能效果附加参数最大个数"/>
+   <macro name="RES_MAX_SKILLEFFECTDAMAGEPARAM_LEN"  value="5"  desc="技能伤害系统最大参数个数"/>
+   
+	<macro name="RES_MAX_SKILLPHASESKILLEFFECT_LEN"  value="3"  desc="技能阶段技能效果最大参数"/>
+   
+   <struct name="ResSkillEffect" version="1" desc="">
+	<entry name="EffectType" type="int8" cname="效果类型"    desc="效果类型" />
+	<entry name="DamageType" type="int8" cname="伤害类型"    desc="伤害类型" />
+	<entry name="Damage" type="int" cname="固定伤害值"    desc="固定伤害值" />
+	<entry name="DamageAdd" type="int" cname="物理加成系数"    desc="物理加成系数" />
+	<entry name="SkillCoe" type="int" cname="法术加成系数"    desc="法术加成系数" />
+	<entry name="StealCoe" type="int" cname="生命偷取系数"    desc="生命偷取系数" />
+	<entry name="MgcStealCoe" type="int" cname="法术吸血系数"    desc="法术吸血系数" />
+	<entry name="CriCoe" type="int8" cname="能否暴击"    desc="能否暴击" />
+	
+	<entry name="DamgeCoefType" type="int8" cname="伤害系数类型"    desc="伤害系数类型" />
+	<entry name="DamgeCoefParam" type="int" cname="伤害系数参数" count="RES_MAX_SKILLEFFECTDAMAGEPARAM_LEN" desc="伤害系数参数"/>
+	<entry name="NormalBuffId" type="int" cname="普通单位BUFFID"    desc="普通单位BUFFID" />
+	<entry name="HeroBuffId" type="int" cname="英雄单位BUFFID"    desc="英雄单位BUFFID" />	
+	
+	<entry name="ExtParam" type="int" cname="附加参数" count="RES_MAX_SKILLEFFECTPARAM_LEN" desc="附加参数"/>
+  </struct>
+  
+   <struct name="ResSkillPhaseDesc" version="1" sortkey="ResID">
+	<entry name="ResID"     type="int"           cname="阶段ID"              desc="阶段ID"/>
+	<entry name="TargetType" type="int8" cname="作用对象类型"    desc="作用对象类型" />
+	<entry name="HasContainTarget" type="int8" cname="是否包含技能目标"    desc="是否包含技能目标" />
+	<entry name="AreaType" type="int8" cname="区域类型"    desc="区域类型" />
+	<entry name="AreaParam" type="int" cname="区域参数" count="RES_MAX_SKILLEFFECTAREAPARAM_LEN" desc="区域参数"/>
+	
+	<entry name="HitNumLimitType" type="int8" cname="受击数目上限类型"    desc="受击数目上限类型" />
+	<entry name="HitNumMax"     type="int8"       cname="受击数目上限参数"  desc="受击数目上限参数"/>	
+	<entry name="HitContainHero"     type="int8"  cname="受击数是否包含英雄"  desc="受击数是否包含英雄"/>	
+	
+	<entry name="Stealth" type="int8" cname="是否搜索隐身单位"    desc="是否搜索隐身单位" />
+	<entry name="IMMSpell" type="int8" cname="能否抵挡魔法护盾"    desc="能否抵挡魔法护盾" />
+	<entry name="SkillEffect" type="ResSkillEffect" count="RES_MAX_SKILLPHASESKILLEFFECT_LEN"   cname="效果属性"      desc="效果属性"/>   
+  </struct>
+  
+  <!-- ============BUFF============== -->
+ 
+  <macro name="RES_BUFFEFFECT_LEN" value="4" desc="BUFFEFFECT效果个数"/>
+  <macro name="RES_BUFF_EFFECTPARAM_CNT" value="5" desc="BUFF效果最大参数" />
+  
+  <macro name="RES_BUFF_TRIGCONDPARAM_CNT" value="4" desc="BUFF生效条件参数个数"/>
+  
+  <macro name="RES_BUFF_EVENTP_CNT" value="2" desc="BUFF事件个数"/>
+  <macro name="RES_BUFF_EVENTPARAM_CNT" value="4" desc="BUFF事件参数个数"/>
+  
+  <macro name="RES_MAX_BUFFEFFECTCOREPARAM_LEN" value="4" desc="BUFF效果作用参数个数"/>
+  
+  <!--buff触发效果类型 -->
+  <struct name="ResBuffEffect" version="1" desc="">
+	<entry name="Type" type="int8" cname="类型"    desc="类型" />
+	<entry name="Params" type="int" cname="参数" count="RES_BUFF_EFFECTPARAM_CNT" desc="参数列表"/>
+	
+  </struct>
+  
+  <struct name="ResBuffEvent" version="1" desc="">
+	<entry name="Type"          type="int8" cname="类型" desc="类型" />
+	<entry name="TrigType"     type="int8" cname="触发类型" desc="触发类型" />
+	<entry name="Param" type="int" count="RES_BUFF_EVENTPARAM_CNT"   cname="参数" desc="参数"/>   
+	
+  </struct>
+ 
+  
+   <!--buff表-->
+  <struct name="ResBuffDesc" version="1" sortkey="BuffID">
+	<entry name="BuffID"    type="int"           cname="BuffID"              desc="BuffID"/>
+	<entry name="GroupID"   type="int"           cname="组ID"            desc="组ID"/>
+	<entry name="Level"     type="int8"           cname="BUFF等级"            desc="BUFF等级"/>
+	
+	
+	<entry name="BuffType"        type="int8" cname="Buff类型" desc="Buff类型" />
+	<entry name="SubBuffType"     type="int8" cname="Buff子类型" desc="Buff子类型" />
+	<entry name="MergeType"       type="int8" cname="合并规则" desc="合并规则" />
+	
+	<entry name="ContinueTime"    type="int" cname="持续时间" desc="持续时间（-1无限）" />
+	<entry name="StackAmount"     type="int" cname="最大叠加层数" desc="最大叠加层数" />
+	<entry name="DoAmount"        type="int" cname="效果最大生效次数" desc="效果最大生效次数(-1无限）" />
+	
+	<entry name="TrigType"        type="int8" cname="效果生效条件类型" desc="生效条件类型" />
+	<entry name="InterTime"       type="int" cname="效果生效时间隔" desc="生效时间间隔" />
+	<entry name="DelayTime"       type="int" cname="效果延迟时间" desc="效果延迟时间" />
+	<entry name="TrigParams" type="int" count="RES_BUFF_TRIGCONDPARAM_CNT"   cname="效果生效条件参数"      desc="生效条件参数"/>
+
+	<entry name="RemoveType"  type="int8" cname="BUFF外部移除类型" desc="BUFF外部移除类型" />	
+	<entry name="SpellSteal"      type="int8" cname="是否可被魔法盗取" desc="是否可被魔法盗取" />
+	<entry name="Dispel"          type="int8" cname="是否可被驱散" desc="是否可被驱散" />			
+
+	<entry name="EffectInfo" type="ResBuffEffect" count="RES_BUFFEFFECT_LEN"   cname="效果"      desc="效果"/>   
+
+	<entry name="EffectCoefType" type="int8" cname="作用系数类型"    desc="作用系数类型" />
+	<entry name="EffectCoefParam" type="int" cname="作用系数类型参数" count="RES_MAX_BUFFEFFECTCOREPARAM_LEN" desc="作用系数类型参数"/>
+ 
+	<entry name="BuffEvent" type="ResBuffEvent"  cname="BUFF事件"   count="RES_BUFF_EVENTP_CNT"   desc="BUFF事件"/>  
+	
+	
+	<entry name="ShowContinueTime" type="int8"        cname="是否显示时间条"  desc="是否显示时间条"/>
+	<entry name="AttachDataFile"      type="string"    size="MAX_RES_PATH_SHORTLEN"   cname="命中BUFF动作文件"  desc="命中BUFF动作文件"/>
+	<entry name="TrigEffectDataFile"  type="string"  size="MAX_RES_PATH_SHORTLEN"   cname="触发效果动作文件"  desc="触发效果动作文件"/>
+	
+  </struct>
+  
+  
+ <!--buff显示表-->
+ <struct name="ResBuffDisplayDesc" version="1" sortkey="BuffID" desc="buff显示表">
+	<entry name="BuffID"     type="int"           cname="BuffID"        desc="buffID"/>
+	<entry name="Name_SCN"   type="string"        size="MAX_NAME_LEN"   cname="名称(简中)"  desc="名称(简中)"/>
+	<entry name="Desc_SCN"   type="string"        size="MAX_DESC_LEN"   cname="Buff描述(简中)"  desc="Buff描述(简中)"/>
+	<entry name="Name_EN"    type="string"        size="MAX_NAME_LEN"   cname="名称(英)"  desc="名称(英)"/>
+	<entry name="Desc_EN"    type="string"        size="MAX_DESC_LEN"   cname="Buff描述(英)"  desc="Buff描述(英)"/>
+	<entry name="Name_FCN"   type="string"        size="MAX_DESC_LEN"   cname="名称(繁中)" desc="名称(繁中)"/>
+	<entry name="Desc_FCN"   type="string"        size="MAX_DESC_LEN"   cname="Buff描述(繁中)" desc="Buff描述(繁中)"/>
+ 
+	<entry name="IconName"    type="string"        size="MAX_ICON_NAME_LEN"   cname="Buff图标"  desc="Buff图标"/>
+	
+	<entry name="TipsText_SCN" type="string"        size="MAX_NAME_LEN"   cname="效果文字提示(简中)"  desc="效果文字提示(简中)"/>
+	<entry name="TipsText_FCN" type="string"        size="MAX_NAME_LEN"   cname="效果文字提示(繁中)"  desc="效果文字提示(繁中)"/>
+	<entry name="TipsText_EN" type="string"        size="MAX_NAME_LEN"   cname="效果文字提示(英)"  desc="效果文字提示(英)"/>
+	
+	<entry name="UIEffectImage_SCN" type="string"   size="MAX_NAME_LEN"   cname="UI效果提示(简中)"  desc="UI效果提示(简中)"/>
+	<entry name="UIEffectImage_FCN" type="string"   size="MAX_NAME_LEN"   cname="UI效果提示(繁中)"  desc="UI效果提示(繁中)"/>
+	<entry name="UIEffectImage_EN" type="string"    size="MAX_NAME_LEN"   cname="UI效果提示(英)"  	desc="UI效果提示(英)"/>
+	
+ </struct>
+  
+  <!-- ==========Moba战斗============ -->
+  
+  <macro name="RES_MOBALEVELUP_LEVEL_MAX" value="10" desc="英雄最大等级" />
+  
+  <macro name="RES_KILLHERO_CNT_MAX" value="5" desc="击杀英雄连杀计数" />
+
+  <macro name="RES_LEGIONHERO_CNT_MAX" value="3" desc="最大盟军英雄个数" />
+  
+  <macro name="RES_MOBAPROFIT_CNT" value="5" desc="Moba战斗经验经验金钱奖励个数" />
+  
+   <!-- 战场单位经验金币收益  基础收益 -->
+  <struct name="ResMobaBaseProfit" version="1" sortkey="ResID">
+	<entry name="ResID"     type="int"           cname="ID"              desc="怪物ID"/>
+	
+	<entry name="Exp"     type="int"           cname="固定经验"           desc="固定经验"/>
+	<entry name="Money"     type="int"           cname="固定金币"            desc="固定金币"/>
+	<entry name="ExaMoney"     type="int"           cname="所有友方金币额外奖励"            desc="所有友方金币额外奖励"/>
+  </struct>
+  
+   <!-- 属性成长  -->
+  <macro name="RES_MOBAATTRUP_TYPE_CNT" value="4" desc="Moba属性成长最大属性个数" />
+  <macro name="RES_MOBAATTRUP_TYPEPARAM_CNT" value="2" desc="Moba属性成长最大属性参数个数"/>
+  
+	<struct name="ResMobaAttrUpAttr" version="1" >
+		<entry name="Type"     type="int8"           cname="类型"            desc="属性类型"/>
+		<entry name="Params" type="int" count="RES_MOBAATTRUP_TYPEPARAM_CNT"   cname="参数" desc="参数"/>   
+	</struct>
+  
+  <struct name="ResMobaAttrUp" version="1" sortkey="ResID">
+	<entry name="ResID"     type="int"           cname="ID"              desc="ID"/>
+	<entry name="DelayTime"     type="int"           cname="延迟时间"            desc="延迟时间"/>
+	<entry name="Period"     type="int"           cname="时间周期"            desc="时间周期"/>
+	<entry name="MaxLayer"     type="int"     cname="最大层数"            desc="最大层数"/>
+	<entry name="AttrList" type="ResMobaAttrUpAttr" count="RES_MOBAATTRUP_TYPE_CNT"   cname="属性"      desc="属性"/>   
+	
+  </struct>
+  
+   <!-- 场景经验金钱   -->
+   
+	<macro name="RES_REPAIR_TYPE_CNT" value="2" desc="维修费类型最大个数" />
+	<macro name="RES_REPAIR_TYPE_PARAM_CNT" value="2" desc="维修费类型最大参数个数"/>
+  
+   <struct name="ResRepiarCost" version="1" >
+		<entry name="Type"     type="int8"           cname="类型"            desc="属性类型"/>
+		<entry name="Params" type="int" count="RES_REPAIR_TYPE_PARAM_CNT"   cname="参数" desc="参数"/>   
+	</struct>
+   
+   
+  <struct name="ResSceneDataDesc" version="1" sortkey="ResID">
+	<entry name="ResID"     type="int"           cname="ID"              desc="ID"/>
+	
+	<entry name="InitAddGold"     type="int"           cname="初始增加金币"           desc="初始增加金币"/>
+	<entry name="Gold"     type="int"           cname="固定金币"           desc="固定金币"/>
+	<entry name="GoldSendTime"     type="int"  cname="金币发放周期"   desc="金币发放周期"/>
+	<entry name="PunishSystemGoldScore"     type="int"  cname="系统金币积分惩罚"   desc="积分惩罚金币"/>
+	<entry name="PunishGoldMineGoldScore"     type="int"  cname="金矿金币积分惩罚"   desc="金矿积分惩罚金币"/>
+	
+	<entry name="InitAddExp"     type="int"           cname="初始增加经验"           desc="初始增加经验"/>
+	<entry name="Exp"     type="int"           cname="固定经验"           desc="固定经验"/>
+	<entry name="ExpSendTime"     type="int"  cname="经验发放周期"   desc="发放周期"/>
+	<entry name="ExpDelayTime"     type="int"  cname="经验作用延迟时间"   desc="经验作用延迟时间"/>
+	<entry name="ExpPeriod"     type="int"     cname="经验加成周期"       desc="经验加成周期"/>
+	<entry name="ExpAdd"     type="int"           cname="经验加成值"      desc="经验加成值"/>
+	<entry name="ExpMuti"     type="int"           cname="经验加成系数"            desc="经验加成系数"/>
+	<entry name="ExpMax"     type="int"           cname="经验最大层数"            desc="经验最大层数"/>
+	
+	<entry name="ExpGoldRange"     type="int"        cname="经验金钱获取范围"              desc="经验金钱获取范围"/>
+	<entry name="EnemyHeroLvExp"  type="int"   count="RES_MOBALEVELUP_LEVEL_MAX"  cname="击杀经验敌方英雄等级" desc="击杀经验敌方英雄等级"/>
+	<entry name="HeroBeenKilledGold"  type="int"   count="RES_KILLHERO_CNT_MAX"  cname="击杀金钱连续被杀" desc="击杀金钱连续被杀"/>
+	<entry name="KillEnemyHeroGold"  type="int"   count="RES_KILLHERO_CNT_MAX"  cname="击杀金钱连续击杀" desc="击杀金钱连续击杀"/>
+	
+	<entry name="LegionKillHeroAddExp"  type="int"   count="RES_LEGIONHERO_CNT_MAX"  cname="盟军击杀英雄经验分配" desc="盟军击杀英雄经验分配"/> 
+	<entry name="LegionKillDogfaceAddExp"  type="int"   count="RES_LEGIONHERO_CNT_MAX"  cname="盟军击杀小兵经验分配" desc="盟军击杀小兵经验分配"/>
+	<entry name="LegionKillMonsterAddExp"  type="int"   count="RES_LEGIONHERO_CNT_MAX"  cname="盟军击杀野怪经验分配" desc="盟军击杀野怪经验分配"/>
+	<entry name="LegionAddAttParam1"     type="int"   cname="击杀英雄小兵经验衰减参数1"  desc="击杀英雄小兵经验衰减参数1"/>
+	<entry name="LegionAddAttParam2"     type="int"   cname="击杀英雄小兵经验衰减参数2"  desc="击杀英雄小兵经验衰减参数2"/>
+	
+	<entry name="LegionKillHeroAddGold"  type="int"   count="RES_LEGIONHERO_CNT_MAX"  cname="盟军击杀英雄金钱分配" desc="盟军击杀英雄金钱分配"/> 
+	<entry name="LegionKillDogfaceAddGold"  type="int"   count="RES_LEGIONHERO_CNT_MAX"  cname="盟军击杀小兵金钱分配" desc="盟军击杀小兵金钱分配"/>
+	<entry name="LegionKillMonsterAddGold"  type="int"   count="RES_LEGIONHERO_CNT_MAX"  cname="盟军击杀野怪金钱分配" desc="盟军击杀野怪金钱分配"/>
+
+	<entry name="repiarCost"  type="ResRepiarCost"   count="RES_REPAIR_TYPE_CNT"  cname="维修费"/>	
+
+	<entry name="GoldMimeMaxGold"     type="int"   cname="金矿产出上限"  desc="金矿产出上限"/>
+	<entry name="GoldMimeAddGold"     type="int"   cname="金矿每秒最大产量"  desc="金矿每秒最大产量"/>
+	<entry name="GoldMimeAddParam1"   type="int"   cname="金矿产出速度参数1"  desc="金矿产出速度参数1"/>
+	<entry name="GoldMimeAddParam2"   type="int"   cname="金矿产出速度参数2"  desc="金矿产出速度参数2"/>
+	
+	<entry name="RevivalLevelCoef"     type="int"   cname="复活时间等级系数"  desc="复活时间等级系数"/>
+	<entry name="RevivalTimeCoef"     type="int"   cname="复活时间系数"  desc="复活时间系数"/>
+	<entry name="RevivalTimeMax"      type="int"   cname="最大复活时间"  desc="最大复活时间"/>
+  </struct>
+  
+
+   <!-- 野怪收益比值  -->
+  <struct name="ResMonsterExpProfit" version="1" sortkey="HeroLv">
+	<entry name="HeroLv"     type="int"           cname="英雄等级"              desc="英雄等级"/>
+	 <entry name="AddExpRat" type="int"           cname="获得经验万分比"       desc="获得经验万分比"/>  
+  </struct>
+  
+  
+  <!-- 护甲相克  -->
+  <struct name="ResAttackArmorDesc" version="1" sortkey="AttackType">
+	<entry name="AttackType"     type="int"           cname="攻击类型"              desc="攻击类型"/>
+	<entry name="LightArmor"     type="int"           cname="轻甲"              desc="轻甲"/>
+	<entry name="MidArmor"     type="int"           cname="中甲"              desc="中甲"/>
+	<entry name="HeavyArmor"     type="int"           cname="重甲"              desc="重甲"/>
+	<entry name="CityArmor"     type="int"           cname="城甲"              desc="城甲"/>
+	<entry name="HeroArmor"     type="int"           cname="英雄"              desc="英雄"/>
+	<entry name="BuildingArmor"     type="int"           cname="建造中"              desc="建造中"/>
+  </struct>
+  
+  
+  <!-- 属性范围限制 -->
+   <struct name="ResMobaAttrRange" version="1" sortkey="AttrID">
+	<entry name="AttrID"     type="int"           cname="属性ID"              desc="属性ID"/>
+	<entry name="MinVal"     type="int"           cname="最小值"            desc="最小值"/>
+	<entry name="MaxVal"     type="int"           cname="最大值"            desc="最大值"/> 
+	
+  </struct>
+ 
+ 
+   <!-- 伪随机  -->
+  <struct name="ResPseudoRandomDesc" version="1" sortkey="Probability">
+	<entry name="Probability"     type="int"           cname="概率百分比"              desc="概率百分比"/>
+	 <entry name="ParamC" type="int"           cname="伪随机常数C"       desc="伪随机常数C"/>  
+  </struct>
+   
+  
+  <!--==========经验升级表=============-->
+  
+  
+  <struct name="ResMobaLevelExp" version="1" sortkey="Level">
+	<entry name="Level"     type="int"           cname="等级"              desc="等级"/>
+	<entry name="NeedExp"    type="int"           cname="Moba对战所需经验"            desc="Moba对战所需经验"/>
+  </struct>
+  
+   <!--==========技能解锁表=============-->
+  <macro name="RES_MOBASKILLLEVEL_Q_MAX" value="4" desc="技能栏Q技能最大等级" />
+  <macro name="RES_MOBASKILLLEVEL_W_MAX" value="4" desc="技能栏W技能最大等级" />
+  <macro name="RES_MOBASKILLLEVEL_E_MAX" value="4" desc="技能栏E技能最大等级" />
+  <macro name="RES_MOBASKILLLEVEL_R_MAX" value="2" desc="技能栏R技能最大等级" />
+  <macro name="RES_MOBASKILLLEVEL_TALENT_MAX" value="4" desc="技能栏天赋技能最大等级" />
+  
+  <struct name="ResMobaSkillUnLock" version="1" >
+	<entry name="SkillBarType"     type="int8"           cname="技能栏位类型"              desc="技能栏位类型"/>
+	<entry name="SkillLevel"     type="smallint"           cname="技能等级"              desc="技能等级"/>
+	<entry name="NeedLevel"    type="smallint"           cname="解锁等级"            desc="解锁等级"/>
+  </struct>
+  
+  <!--==========技能推荐加点表=============-->
+  
+  <struct name="ResMobaSkillRecAddPoint" version="1" sortkey="ResID" desc="技能推荐加点" >
+	<entry name="ResID"     type="int"   cname="英雄ID"              desc="英雄ID"/>
+	<entry name="SkillBar"  type="int8"   count="RES_MOBALEVELUP_LEVEL_MAX"    cname="等级"  desc="等级推荐加点栏"/>
+
+  </struct>
+ 
+  <!--==========法术场表=============-->
+  <macro name="RES_MOBASKILLFIELD_SHAPEPARAM_CNT" value="2" desc="法术场形状参数个数" />
+  <macro name="RES_MOBASKILLFIELD_OFFSET_CNT" value="2" desc="法术场偏移参数个数" />
+  <macro name="RES_MOBASKILLFIELD_TRIGGERPARAM_CNT" value="3" desc="法术场触发参数个数" />
+  <macro name="RES_MOBASKILLFIELD_TRIGGEREFFECT_CNT" value="2" desc="法术场触发效果个数" />
+  <macro name="RES_MOBASKILLFIELD_TARGETFILTER_CNT" value="2" desc="法术场作用对象筛选参数个数" />
+  <macro name="RES_MOBASKILLFIELD_SHAPECHANGEPARAM_CNT" value="2" desc="法术场形状变化参数个数" />
+  
+  <macro name="RES_SKILLFIELD_REMOVEEVENT_CNT" value="2" desc="法术场形被移除事件个数" />
+  <macro name="RES_SKILLFIELD_REMOVEEVENTPARAM_CNT" value="2" desc="法术场形被移除参数个数" />
+  
+	<!--法术场触发效果信息 -->
+  <struct name="SkillFieldTriggerEffect" version="1" desc="效果">
+	<entry name="SkillFieldParamType"  type="int8"       cname="参数类型"  desc="法术场触发参数类型"/>
+	<entry name="TriggerParam"  type="int"   count="RES_MOBASKILLFIELD_TRIGGERPARAM_CNT"    cname="触发参数"  desc="触发参数"/>
+  </struct>
+  
+   <!--法术场被移除信息 -->
+  <struct name="SkillFieldRemove" version="1" desc="效果">
+	<entry name="EventType"  type="int8"       cname="类型"  desc="类型"/>
+	<entry name="EventParam"  type="int"   count="RES_SKILLFIELD_REMOVEEVENTPARAM_CNT"    cname="参数"  desc="参数"/>
+  </struct>
+  
+  <struct name="ResMobaSkillField" version="1" sortkey="SkillFieldID" desc="法术场表" >
+	<entry name="SkillFieldID"     type="int"   cname="法术场id"              desc="法术场id"/>
+	<entry name="SkillFieldGroupID"     type="int"   cname="法术场组id"              desc="法术场组id"/>
+	<entry name="TimeLength"  type="int"       cname="时长"  desc="时长"/>
+	<entry name="DelayTime"  type="int"       cname="延迟时间"  desc="延迟时间"/>
+	<entry name="CheckPeriod"  type="int"       cname="检测周期"  desc="检测周期"/>
+	<entry name="TargetType"  type="int"       cname="作用对象类型"  desc="作用对象类型"/>
+	<entry name="TargetFilterType"  type="int8"  cname="作用对象筛选类型"  desc="作用对象筛选类型"/>
+	<entry name="TargetFilterParam"  type="int" count="RES_MOBASKILLFIELD_TARGETFILTER_CNT"    cname="作用对象筛选类型参数"  desc="作用对象筛选类型参数"/>
+	<entry name="FollowType"    type="int8" cname="跟随目标类型" desc="跟随目标类型" />
+	<entry name="SkillFieldType"  type="int8"       cname="法术场类型"  desc="法术场类型"/>
+	<entry name="SkillFieldShape"  type="int8"       cname="法术场形状"  desc="法术场形状"/>
+	<entry name="ShapeParam"  type="int"   count="RES_MOBASKILLFIELD_SHAPEPARAM_CNT"    cname="形状参数"  desc="形状参数"/>
+	<entry name="OffsetParam"  type="int"   count="RES_MOBASKILLFIELD_OFFSET_CNT"    cname="偏移参数"  desc="偏移参数"/>
+	<entry name="ShapeChangeType"  type="int8"       cname="形状变化类型"  desc="形状变化类型"/>
+	<entry name="ShapeChangeParams"  type="int"   count="RES_MOBASKILLFIELD_SHAPECHANGEPARAM_CNT"    cname="形状变化参数"  desc="形状变化参数"/>
+	<entry name="Stealth" type="int8" cname="是否搜索隐身单位"    desc="是否搜索隐身单位" />
+	<entry name="IMMSpell" type="int8" cname="能否抵挡魔法护盾"    desc="能否抵挡魔法护盾" />
+	<entry name="TriggerEffect"  type="SkillFieldTriggerEffect"   count="RES_MOBASKILLFIELD_TRIGGEREFFECT_CNT"    cname="效果"  desc="法术场效果"/>
+	<entry name="SelfTriggerEffect"  type="SkillFieldTriggerEffect"    cname="对自身效果"  desc="对自身法术场效果"/>
+	
+	<entry name="RemoveEvents"  type="SkillFieldRemove"   count="RES_SKILLFIELD_REMOVEEVENT_CNT"    cname="法术场被移除事件"  desc="法术场被移除事件"/>
+	<entry name="RemoveTriggerEffect"  type="SkillFieldTriggerEffect"  count="RES_SKILLFIELD_REMOVEEVENT_CNT"  cname="法术场被移除事件触发效果"  desc="法术场被移除事件触发效果"/>
+	
+	<entry name="StartDisplay"  type="string"  size="MAX_RES_PATH_LEN"   cname="启动表现"  desc="启动表现"/>
+	<entry name="TrigDisplay"   type="string"  size="MAX_RES_PATH_LEN"   cname="触发表现"  desc="触发表现"/>
+  </struct>
+  
+  
+   <!--==========音效表=============-->
+   <macro name="RES_AUDIO_EFFECT_MAX" value="11" desc="音效数目" />
+   
+  <struct name="AudioEffect" version="1" desc="音效">
+	<entry name="AudioPath"  type="string"  size="MAX_RES_PATH_LEN" cname="路径"  desc="路径"/>
+  </struct>
+   
+   <struct name="ResAudioEffect" version="1" sortkey="ID" desc="音效表" >
+	<entry name="ID"     type="int"   cname="ID"              desc="ID"/>
+	<entry name="BGMusic"  type="string"  size="MAX_RES_PATH_LEN"  cname="背景音乐"  desc="背景音乐"/>
+	<entry name="AudioEffect"  type="AudioEffect"  count="RES_AUDIO_EFFECT_MAX"    cname="音效"  desc="音效"/>
+  </struct>
+  
+  <!--==========LOD表=============-->
+  
+  <struct name="ResLODEffectDesc" version="1" sortkey="ID" desc="LOD特效表" >
+	<entry name="ID"     type="int"   cname="ID"              desc="ID"/>
+	<entry name="EffectType"  type="int8"    cname="特效类型"  desc="特效类型"/>
+	<entry name="CastType"  type="int8"    cname="施法者"  desc="施法者"/>
+	<entry name="TargetType"  type="int8"    cname="作用目标"  desc="作用目标"/>
+	<entry name="LowFlag"  type="int8"    cname="画质低配"  desc="画质低配"/>
+	<entry name="MidFlag"  type="int8"    cname="画质中配"  desc="画质中配"/>
+	<entry name="HighFlag"  type="int8"    cname="画质高配"  desc="画质高配"/>
+  </struct>
+  
+	<!--==========设备评分表=============-->
+  
+  <struct name="ResDevicesScoreDesc" version="1" sortkey="ID" desc="设备评分表" >
+	<entry name="ID"     type="int"   cname="ID"              desc="ID"/>
+	<entry name="IOSName"  type="string"  size="MAX_RES_PATH_LEN"  cname="IOS设备名"  desc="IOS设备名"/>
+	<entry name="GpuFirm" type="string" size="MAX_NAME_LEN" cname ="厂商" desc="厂商"/>
+	<entry name="GpuVersion"  type="int"  cname="GPU版本号"  desc="GPU版本号"/>
+	<entry name="GpuRank"  type="int"    cname="评分"  desc="评分"/>
+  </struct>
+  
+  <!--==========资源预设表=============-->
+  
+  <struct name="ResResourceCacheDesc" version="1" sortkey="ID" desc="资源预设表" >
+	<entry name="ID"     type="int"   cname="ID"              desc="ID"/>
+	<entry name="ResPath"  type="string"  size="MAX_RES_PATH_LEN"  cname="资源路径"  desc="资源路径"/>
+	<entry name="ResCacheCnt_Andorid"  type="int16"    cname="Android预创建数目"  desc="Android预创建数目"/>
+	<entry name="ResCacheCnt_IOS"  type="int16"    cname="IOS预创建数目"  desc="IOS预创建数目"/>
+	<entry name="ResCacheCnt_IOS_LOWMEM"  type="int16"    cname="IOS低内存预创建数目"  desc="IOS低内存预创建数目"/>
+  </struct>
+  
+   <!--==========LOD设置表=============-->
+  
+  <struct name="ResLODSetDesc" version="1" sortkey="ID" desc="LOD设置表" >
+	<entry name="ID"     type="int"   cname="配置"              desc="配置"/>
+	<entry name="MaxCnt"  type="int8"    cname="非我方单位最大同屏数"  desc="非我方单位最大同屏数"/>
+	<entry name="FriendMinCnt"  type="int8"    cname="友方单位保底显示数目"  desc="友方单位保底显示数目"/>
+	<entry name="MeCnt"  type="int8"    cname="我方单位显示数目"  desc="我方单位显示数目"/>
+	<entry name="MeLOD"  type="int8"    cname="我方单位是否LOD"  desc="我方单位是否LOD"/>
+  </struct>
+  
+   
+  <struct name="ResLODEffectNumDesc" version="1" sortkey="iResID" desc="LOD特效数目" >
+	<entry name="iResID"     type="int"   cname="显示设置项"              desc="显示设置项"/>
+	<entry name="LowParam"  type="int"    cname="低配"  desc="低配"/>
+	<entry name="MidParam"  type="int"    cname="中配"  desc="中配"/>
+	<entry name="HighParam"  type="int"    cname="高配"  desc="高配"/>
+  </struct>
+  
+  
+   <!--==========场景配置=============-->
+   
+	
+   <struct name="ResMobaSceneDesc" version="1" sortkey="SceneID" desc="场景配置表" >
+	<entry name="SceneID"     type="int"   cname="场景ID"              desc="场景ID"/>
+	<entry name="SpawnPath"    type="string" size="MAX_NAME_LEN"   cname="种怪文件"  desc="种怪文件"/>
+	<entry name="BattleSceneType" type="int8" cname="战斗场景模式" desc="战斗场景模式"/>	
+	
+	<entry name="Name_SCN" type="string" size="MAX_NAME_LEN" cname="场景名称(简中)" desc="场景名称(简中)"/>
+	<entry name="Name_FCN" type="string" size="MAX_NAME_LEN" cname="场景名称(繁中)" desc="场景名称(繁中)"/>
+	<entry name="Name_EN" type="string" size="MAX_NAME_LEN" cname="场景名称(英)" desc="场景名称(英)"/>
+	
+	<entry name="SpawnName"    type="string" size="MAX_NAME_LEN"   cname="场景名字"  desc="场景名字"/>
+	<entry name="MinMapIcon"    type="string" size="MAX_RES_PATH_LEN"   cname="UI缩略图标"  desc="UI缩略图标"/>
+	<entry name="BattleEndJudgeType" type="int8"    cname="战斗比赛结束判定类型" desc="战斗比赛结束判定类型"/>
+	<entry name="BaseProtectType" type="int8"    cname="主基地保护类型" desc="主基地保护类型"/>
+	<entry name="BaseProtectScore" type="int"    cname="主基地保护分" desc="主基地保护分"/>
+	<entry name="BaseScore" type="int"    cname="主基地积分" desc="主基地积分"/>
+	<entry name="SubBaseScore" type="int"    cname="副基地积分" desc="副基地积分"/>
+	<entry name="SurrenderBeginTime" type="int"    cname="投降触发时间" desc="投降触发时间"/>	
+	<entry name="SurrenderVoteTime" type="int"    cname="投降投票时间" desc="投降投票时间"/>
+	<entry name="SurrenderCD" type="int"    cname="投降公共CD" desc="投降公共CD"/>
+	<entry name="RedCameraPath"    type="string" size="MAX_RES_PATH_LEN"   cname="红方相机路径"  desc="红方相机路径"/>
+	<entry name="BlueCameraPath"   type="string" size="MAX_RES_PATH_LEN"   cname="蓝方相机路径"  desc="蓝方相机路径"/>
+	<entry name="MiniMapPath"   type="string" size="MAX_RES_PATH_LEN"   cname="小地图路径"  desc="小地图路径"/>
+	<entry name="NavMeshName"    type="string" size="MAX_NAME_LEN"   cname="NavMesh文件名"  desc="NavMesh文件名"/>
+	<entry name="CellName"    type="string" size="MAX_NAME_LEN"   cname="网格文件名"  desc="网格文件名"/>
+	<entry name="FormationName"    type="string" size="MAX_NAME_LEN"   cname="阵型文件"  desc="阵型文件"/>
+	<entry name="FogPath"    type="string" size="MAX_NAME_LEN"   cname="迷雾文件"  desc="迷雾文件"/>
+	
+	<entry name="NightDayTime" type="int"    cname="昼夜轮替时间" desc="昼夜轮替时间"/>
+	</struct>
+	
+	 <!--==========战场设置=============-->
+   
+   <macro name="RES_BATTLESETTING_PARAM_MAX" 		value="4" 	desc="战场设置表参数最大长度" />
+   
+   <struct name="ResBattleSettingDesc" version="1" sortkey="TypeID" desc="战场设置表" >
+	<entry name="TypeID"  type="int"   cname="设置项"              desc="设置项"/>
+	<entry name="Param"  type="int"  count="RES_BATTLESETTING_PARAM_MAX"   cname="设置参数"  desc="设置参数"/>
+	</struct>
+	
+	<!-- =================建造表============= -->
+	<macro name="RES_CONSTURCTACTOR_LISTCNT_MAX" 		value="10" 	desc="建造单位队列最大长度" />
+	
+	
+	<!-- ==================推荐建造表=============== -->
+	
+	<macro name="TECH_LEVEL_REC_MAX" 		value="2" 	desc="推荐建造最大个数" />
+	<macro name="TECH_REC_SCENE_MAX" 		value="6" 	desc="推荐人口科技场景最大个数" />
+	
+	 <struct name="ResTechRecFoodTechDesc" version="1" sortkey="SceneID" desc="场景人口科技配置" >
+		<entry name="SceneID"  type="int"   cname="场景ID"              desc="场景ID"/>
+		<entry name="FoodTechID"  type="int"   cname="科技ID"  desc="科技ID"/>
+	</struct>
+	
+	<struct name="ResTechRecDesc" version="1" sortkey="ID" desc="推荐建造表" >
+		<entry name="ID"     		 type="int"     cname="ID"    		desc="ID"/>
+		<entry name="RecDogfaceResID1"  type="int" count="TECH_LEVEL_REC_MAX"  cname="一本推荐兵种" desc="一本推荐兵种"/>
+		<entry name="RecDogfaceResID2"  type="int" count="TECH_LEVEL_REC_MAX"  cname="二本推荐兵种" desc="二本推荐兵种"/>
+		<entry name="RecDogfaceResID3"  type="int" count="TECH_LEVEL_REC_MAX"  cname="三本推荐兵种" desc="三本推荐兵种"/>
+		<entry name="SceneFoodTech"     type="ResTechRecFoodTechDesc"  count="TECH_REC_SCENE_MAX"   cname="人口科技"   desc="人口科技"/>
+	</struct>
+  
+	<!-- ==================科技表=============== -->
+	<macro name="TECH_UNLOCK_ATTR_NUM" 		value="2" 	desc="解锁属性效果数量" />
+	
+	<macro name="TECH_MAX_EFFECT_COUNT"  value="2"  desc="科技效果最大数量"/>
+	<macro name="TECH_MAX_EFFECT_PARAM_COUNT"  value="4"  desc="科技效果参数最大数量"/>
+	<macro name="TECH_MAX_TEAM_EFFECT_COUNT"  value="2"  desc="团队科技效果最大数量"/>
+	
+	<macro name="TECH_MAX_BASELEVUP_FINISHEDEFFECT_COUNT"  value="20"  desc="基地升级科技完成效果最大数量"/>
+	<macro name="TECH_MAX_BASELEVUP_UNLOCKEFFECT_COUNT"  value="8"  desc="基地升级科技解锁效果最大数量"/>
+	
+	<struct name="ResTechEffect" version="1" desc="科技效果" >
+		<entry name="Type" type="int8" cname="类型" desc="类型"/>
+		<entry name="Params" type="int" count="TECH_MAX_EFFECT_PARAM_COUNT" cname="参数" desc="参数"/>
+	</struct>
+	
+	<struct name="ResTechMainDesc" version="1" sortkey="ID" desc="科技新表" >
+		<entry name="ID" type="int" cname="科技ID" desc="科技ID" />
+		<entry name="GroupID" type="int" cname="科技组" desc="科技组" />
+		<entry name="TechType" type="int8" cname="科技类型" desc="科技类型" />
+		<entry name="TechSubType" type="int8" cname="科技子类型" desc="科技子类型" />		
+		<entry name="TechLevel" type="int8" cname="科技等级" desc="科技等级" />
+		<entry name="MaxLevel" type="int8" cname="最大升级等级" desc="最大升级等级" />
+		<entry name="RaceType" type="int8" cname="种族" desc="种族" />
+		<entry name="GoldCost" type="int" cname="金币开销" desc="金币开销" />
+		<entry name="TimeCost" type="int" cname="时间开销" desc="时间开销" />
+		<entry name="RepatriGold" type="int" cname="遣返金币" desc="遣返金币" />
+		<entry name="UnlockTrainGold" type="int" cname="解锁训练建造金币" desc="解锁训练建造金币" />
+		<entry name="NeedTechLevel" type="int8" cname="所需基地等级" desc="所需基地等级"/>
+		<entry name="BuildCd" type="int" cname="建造CD时间" desc="建造CD时间" />
+		<entry name="BuildMaxCnt" type="int" cname="建造最大数量" desc="建造最大数量" />
+		<entry name="InitHpPercent"  type="int"      cname="建造初始血量百分比"  	desc="建造初始血量百分比"/>
+		<entry name="BuildingArmorReducePercent"  type="int"      cname="建造中护甲衰减万分比"  	desc="建造中护甲衰减万分比"/>
+		<entry name="AvatarResID"  type="int"      cname="变身新单位ID"  	desc="变身新单位ID"/>
+		<entry name="TechEffects" type="ResTechEffect" count="TECH_MAX_EFFECT_COUNT" cname="科技效果" desc="科技效果" />
+		<entry name="Name_SCN" type="string" size="MAX_NAME_LEN" cname="科技名称_简中" desc="科技名称_简中"/>
+		<entry name="Name_EN" type="string" size="MAX_NAME_LEN" cname="科技名称_英文" desc="科技名称_英文"/>
+		<entry name="Name_FCN" type="string" size="MAX_NAME_LEN" cname="科技名称_繁中" desc="科技名称_繁中"/>
+		<entry name="Icon" type="string" size="MAX_ICON_NAME_LEN" cname="科技图标" desc="科技图标"/>
+		<entry name="Desc_SCN" type="string" size="MAX_DESC_LONGLEN" cname="描述_简中" desc="描述_简中"/>
+		<entry name="Desc_EN" type="string" size="MAX_DESC_LONGLEN" cname="描述_英文" desc="描述_英文"/>
+		<entry name="Desc_FCN" type="string" size="MAX_DESC_LONGLEN" cname="描述_繁中" desc="描述_繁中"/> 
+		<entry name="BuildDragEffeft"    type="string" size="MAX_RES_PATH_LEN"   cname="建造拖动特效"  desc="建造拖动特效"/>
+		<entry name="BuildDelayEffeft"    type="string" size="MAX_RES_PATH_LEN"   cname="延时建造特效"  desc="延时建造特效"/>		
+	</struct>
+	
+	<struct name="ResTechAttrUpEffect" version="1" sortkey="ResID" desc="攻防升级科技效果" >
+		<entry name="ResID" type="int" cname="怪物ID" desc="怪物ID"/>
+		<entry name="TechAttr" type="TechAttr" count="TECH_MAX_TEAM_EFFECT_COUNT" cname="科技属性" desc="科技属性"/>
+	</struct>
+	
+	<struct name="ResTechBaseTreeParam" version="1"  desc="科技树参数" >
+		<entry name="TechID" type="int" cname="ID" desc="ID"/>
+		<entry name="TechTreeType" type="int8" cname="科技树类型" desc="科技树类型"/>
+	</struct>
+	
+	 <struct name="ResTechBaseEffect" version="1" sortkey="ResID" desc="基地升级科技效果" >>
+		<entry name="ResID"     type="int"     cname="主基地ID"   		desc="主基地ID"/>
+		<entry name="BaseIcon" type="string" size="MAX_ICON_NAME_LEN" cname="主基地科技图标" desc="主基地科技图标"/>
+		<entry name="BaseLvType" type="int8" cname="基地等级类型" desc="基地等级类型" />
+		<entry name="SubBaseID"     type="int"     cname="副基地ID"   		desc="副基地ID"/>
+		<entry name="EnterTechIDs" type="int" cname="科技入口ID" desc="科技入口ID"/>		
+		<entry name="FinishTechs" type="ResTechBaseTreeParam" count="TECH_MAX_BASELEVUP_FINISHEDEFFECT_COUNT" cname="科技研究完成" desc="科技研究完成"/>
+		<entry name="ReadyTechs" type="ResTechBaseTreeParam" count="TECH_MAX_BASELEVUP_UNLOCKEFFECT_COUNT" cname="科技解锁" desc="科技解锁"/>
+	</struct>
+	
+
+	<!-- ===============道具 技能卡 装备================= -->
+	
+	<macro name="RES_GOODSITEMBAG_NUM_MAX" 		value="99" 	desc="物品道具背包最大个数" />
+	
+	<macro name="RES_GOODSAUTOPICK_PARAMNUM_MAX" 		value="2" 	desc="道具拾取类型参数个数" />
+	
+	<macro name="RES_ITEMEFFECT_NUM_MAX" 		value="2" 	desc="道具效果最大个数" />
+	<macro name="RES_ITEMEFFECT_PARAMNUM_MAX" 		value="2" 	desc="道具效果类型参数最大个数" />
+	
+	<macro name="RES_RACESKILL_TALENT_MAX" 		value="4" 	desc="种族天赋技能最大个数" />
+	<macro name="RES_RACESKILL_SPY_MAX" 		value="2" 	desc="种族扎侦查技能最大个数" />
+	
+	<macro name="EQUIP_ATTREFFECT_NUM" value="4" desc="装备属性效果数量" />
+	<macro name="EQUIP_SKILLEFFECT_NUM" value="2" desc="装备被动技能数量" />
+	<macro name="EQUIP_BUFF_NUM" value="3" desc="装备被动buff数量" />
+	
+	<struct name="ResItemEffect" version="1"  desc="道具效果" >
+		<entry name="Type"     		 type="int8"     cname="类型"    		desc="类型"/>
+		<entry name="Param"     type="int"    count="RES_ITEMEFFECT_PARAMNUM_MAX"  cname="参数"   		desc="参数"/>
+	</struct>
+	
+	<struct name="ResGoodsItemDesc" version="1" sortkey="ResID" desc="物品道具表" >
+		<entry name="ResID"     		 type="int"     cname="物品道具ID"    		desc="物品道具ID"/>
+		<entry name="Type"     type="int8"     cname="物品道具类型"   		desc="物品道具类型"/>
+		<entry name="Level"     type="int8"     cname="物品道具等级"   		desc="物品道具等级"/>
+		<entry name="Quality"    type="int8"     cname="物品道具品质"   		desc="物品道具品质"/>
+		<entry name="Name_SCN" type="string" size="MAX_NAME_LEN" cname="物品道具名_简中" desc="物品道具名_简中"/>
+		<entry name="Name_EN" type="string" size="MAX_NAME_LEN" cname="物品道具名_英文" desc="物品道具名_英文"/>
+		<entry name="Name_FCN" type="string" size="MAX_NAME_LEN" cname="物品道具名_繁中" desc="物品道具名_繁中"/>
+		<entry name="Desc_SCN" type="string" size="MAX_DESC_LEN" cname="物品道具描述_简中" desc="物品道具描述_简中"/>
+		<entry name="Desc_EN" type="string" size="MAX_DESC_LEN" cname="物品道具描述_英文" desc="物品道具描述_英文"/>
+		<entry name="Desc_FCN" type="string" size="MAX_DESC_LEN" cname="物品道具描述_繁中" desc="物品道具描述_繁中"/>
+		<entry name="DescDetail_SCN" type="string" size="MAX_DESC_LEN" cname="物品道具详细描述_简中" desc="物品道具详细描述_简中"/>
+		<entry name="DescDetail_EN" type="string" size="MAX_DESC_LEN" cname="物品道具详细描述_英文" desc="物品道具详细描述_英文"/>
+		<entry name="DescDetail_FCN" type="string" size="MAX_DESC_LEN" cname="物品道具详细描述_繁中" desc="物品道具详细描述_繁中"/>		
+		<entry name="Icon" type="string" size="MAX_NAME_LEN" cname="物品道具图标" desc="物品道具图标"/>
+		<entry name="DropModelPath" type="string" size="MAX_RES_PATH_LEN" cname="掉落模型路径" desc="掉落模型路径"/>
+		<entry name="EquipFlowPath" type="string" size="MAX_RES_PATH_LEN" cname="装备显示Flow" desc="装备显示Flow"/>
+		<entry name="DropPickupEffectPath" type="string" size="MAX_RES_PATH_LEN" cname="物品道具拾取表现" desc="物品道具拾取表现"/>
+		<entry name="TipsText_SCN" type="string"        size="MAX_NAME_LEN"   cname="效果文字提示_简中"  desc="效果文字提示_简中"/>
+		<entry name="TipsText_EN" type="string"        size="MAX_NAME_LEN"   cname="效果文字提示_英文"  desc="效果文字提示_英文"/>
+		<entry name="TipsText_FCN" type="string" size="MAX_NAME_LEN" cname="效果文字提示_繁中" desc = "效果文字提示_繁中"/>
+		<entry name="MaxHoldNum"     	 type="int"    cname="最大拥有数目"    	 	desc="最大拥有数目"/>
+		<entry name="UseCd"      type="int"    cname="使用冷却"  	desc="使用冷却(毫秒)"/>
+		<entry name="CostType"    type="int8"  cname="道具消耗类型"  	desc="道具消耗类型"/>
+		<entry name="UseCost"    type="int8"  cname="使用消耗个数"  	desc="使用消耗个数"/>
+		<entry name="GoldCost" 	 type="int"   	cname="出售价格"  	desc="出售价格"/>
+		<entry name="ValidityTime"  type="int"    cname="有效期时间"  	desc="有效期时间(-1永久)"/>
+		<entry name="PickType"  type="int8"    cname="道具拾取类型"  	desc="道具拾取类型"/>
+		<entry name="PickParams"  type="int" count="RES_GOODSAUTOPICK_PARAMNUM_MAX"   cname="道具拾取参数"  	desc="道具拾取参数"/>	
+		<entry name="UseType"  type="int8"    cname="道具使用类型"  	desc="道具使用类型"/>
+		<entry name="ItemGrade"  type="int"    cname="道具评分"  	desc="道具评分"/>	
+		<entry name="Effects" type="ResItemEffect"  count="RES_ITEMEFFECT_NUM_MAX" cname="道具效果"  desc="道具效果"/>
+	</struct>
+	
+	<struct name="ResRaceSkillDesc" version="1" sortkey="RaceType" desc="种族技能表" >
+		<entry name="RaceType"     		 type="int"     cname="种族"    		desc="种族"/>
+		<entry name="RaceTalentSkill" type="int"  count="RES_RACESKILL_TALENT_MAX" cname="种族天赋技能"  desc="种族天赋技能"/>
+		<entry name="TalentSkillUnlockArenaLevel" type="int"  count="RES_RACESKILL_TALENT_MAX" cname="竞技场解锁等级"  desc="竞技场解锁等级"/>
+		<entry name="RaceSpySkill" type="int"  count="RES_RACESKILL_SPY_MAX" cname="种族侦查技能"  desc="种族侦查技能"/>
+        <entry name="SpySkillUnlockLevel" type="int"  count="RES_RACESKILL_SPY_MAX" cname="种族侦查技能解锁等级"  desc="种族侦查技能解锁等级"/>
+	</struct>
+	
+	
+	<struct name="EquipAttrEffect" version="1" desc="装备属性效果" >
+	   <entry name="AttrID"  type="int"   cname="属性ID"  desc="属性ID"/>
+	   <entry name="AtrrAddType"  type="int8"   cname="类型"  desc="加成类型"/>
+	   <entry name="AttrValue"    type="int"   cname="数值"  desc="属性数值"/>
+   </struct>
+   
+   <struct name="EquipSkillEffect" version="1" desc="装备技能参数" >
+	   <entry name="SkillID"  type="int"   cname="ID"  desc="被动技能ID"/>
+	   <entry name="GroupID"  type="int"   cname="组ID"  desc="被动技能组ID"/>
+   </struct>
+  
+   <struct name="ResEquipEffect" version="1" sortkey="ResID" desc="装备效果表" >
+	<entry name="ResID"     type="int"   cname="装备效果ID"    desc="装备效果ID"/>
+	<entry name="Attrs"  type="EquipAttrEffect"   count="EQUIP_ATTREFFECT_NUM"    cname="属性加成"  desc="属性加成"/>
+	<entry name="Skills"  type="EquipSkillEffect"   count="EQUIP_SKILLEFFECT_NUM"    cname="被动技能"  desc="被动技能"/>
+	<entry name="Buffs"  type="int"   count="EQUIP_BUFF_NUM"    cname="被动buffID"  desc="被动buffID,不可叠加"/>
+	<entry name="CDSkillIndex"  type="int8"   cname="装备CD技能索引"  desc="装备CD技能索引"/>
+	<entry name="RemoveBuffs"  type="int"   count="EQUIP_BUFF_NUM"    cname="脱装移除buffID"  desc="脱装移除buffID,清理用"/>
+ </struct>
+  
+	
+	<!-- ==================建造AI配置表===================== -->
+	<macro name="RES_BUILDAI_PARAM_CNT" value="2" desc="建造AI参数个数" />
+	<macro name="RES_BUILDAI_COND_CNT" value="4" desc="建造AI条件个数" />
+	<macro name="RES_BUILDAI_COND_PARAM_CNT" value="6" desc="建造AI条件参数个数" />
+	<macro name="RES_BUILDAI_TARGET_CNT" value="2" desc="建造AI条件目标个数" />
+
+	<struct name="ResBuildAITarget" version="1" desc="建造AI目标"> 
+		<entry name="BuildAITargetType" type="int8" cname="类型" desc="类型"/>
+		<entry name="Param" 			type="int" 	cname="参数" desc="参数"/>
+	</struct>
+
+	<struct name="ResBuildAICondDesc" version="1" sortkey="ID" desc="建造AI条件">
+		<entry name="ID"     	type="int"      		cname="条件ID"  desc="条件ID"/>
+		<entry name="Target"  	type="ResBuildAITarget" count="RES_BUILDAI_TARGET_CNT" cname="目标" 	desc="目标"  />
+		<entry name="Opt" 		type="int8" 			cname="运算符" 	desc="运算符"/>
+	</struct>
+
+	<struct name="ResBuildAICond" version="1" sortkey="ID" desc="建造AI条件">
+		<entry name="ID"     	type="int"      cname="ID"    	desc="ID"/>
+		<entry name="Vars" 		type="int" 		cname="参数" 	desc="参数" 	count="RES_BUILDAI_COND_PARAM_CNT" />
+		<entry name="Value" 	type="int8" 	cname="返回值" 	desc="返回值"/>
+	</struct>
+		
+	<struct name="ResBuildAIDesc" version="1" sortkey="ID" desc="建造AI配置表" >
+		<entry name="ID"     		type="int"      		cname="配置ID"    		desc="配置ID"/>
+		<entry name="SceneType"		type="int8"     		cname="战斗场景模式"	desc="战斗场景模式"/>
+		<entry name="RaceType"		type="int8"     		cname="种族"    		desc="种族"/>
+		<entry name="TechTreeType"	type="int8"     		cname="科技树类型"    	desc="科技树类型"/>
+		<entry name="Type"   		type="int8"     		cname="类型"    		desc="类型"/>
+		<entry name="Params" 		type="int" 				cname="参数" 			desc="参数" 	count="RES_BUILDAI_PARAM_CNT" />
+		<entry name="Default"   	type="int8"     		cname="默认返回值"  	desc="默认返回值"/>
+		<entry name="Conditions" 	type="ResBuildAICond" 	cname="条件" 			desc="条件" 	count="RES_BUILDAI_COND_CNT" />
+	</struct>
+
+	<!-- ==================AI配置表===================== -->
+	<macro name="RES_TEAMAI_RETREATCOND_CNT" value="4" desc="战斗AI撤退条件个数" />
+
+	
+	
+	<struct name="ResActorAIDesc" version="1" sortkey="AiConfigType" desc="单位AI配置表" >
+		<entry name="AiConfigType"     	type="int"      cname="类型"    desc="类型"/>
+		<entry name="EscapeHeroInterval"  type="int"     cname="英雄逃跑间隔" desc="英雄逃跑间隔"/>
+		<entry name="EscapeOtherInterval"  type="int"     cname="非英雄逃跑间隔" desc="非英雄逃跑间隔"/>
+		<entry name="EscapeMTime"  type="int"     cname="逃跑时间" desc="逃跑时间"/>
+		<entry name="EscapeMonsterMinHpPrecent" type="int" cname="被怪物攻击逃跑最低血量万分比" desc="逃跑最低血量万分比"/>
+		<entry name="EscapeOtherMinHpPrecent"  type="int" cname="被非怪物攻击逃跑最低血量万分比" desc="被非怪物攻击逃跑最低血量万分比"/>
+		<entry name="EscapeMinHpVal"  type="int"     cname="逃跑最低血量值" desc="逃跑最低血量值"/>
+		<entry name="EscapeDmgInterval"  type="int"     cname="英雄逃跑伤害检测周期" desc="英雄逃跑伤害检测周期"/>
+		<entry name="EscapeDmg"  type="int"     cname="英雄单位时间逃跑伤害阀值" desc="英雄单位时间逃跑伤害阀值"/>
+		<entry name="EscapeDis_NN"  type="int"     cname="近打近逃跑距离" desc="近打近逃跑距离"/>
+		<entry name="EscapeDis_NF"  type="int"     cname="近打远逃跑距离" desc="近打远逃跑距离"/>
+		<entry name="EscapeDis_FN"  type="int"     cname="远打近逃跑距离" desc="远打近逃跑距离"/>
+		<entry name="EscapeDis_FF"  type="int"     cname="远打远逃跑距离" desc="远打远逃跑距离"/>
+		
+		<entry name="KeepDisMoveTime"  		type="int"     cname="拉开距离成功移动时间" desc="拉开距离成功移动时间"/>
+		<entry name="KeepDisFailedMoveTime"  type="int"     cname="拉开距离失败移动时间" desc="拉开距离失败移动时间"/>
+	</struct>
+	
+	<struct name="ResTeamAIRetreatCond" version="1" desc="战斗AI撤退条件">
+		<entry name="HP"     	type="int"      cname="生命值"    	desc="生命值"/>
+		<entry name="Count"   	type="int"      cname="人数"    	desc="人数"/>
+	</struct>
+
+	<struct name="ResTeamAIDesc" version="1" sortkey="AiConfigType" desc="团队AI配置表" >
+		<entry name="AiConfigType"     		type="int"   cname="类型"    desc="类型"/>
+		<entry name="AIID"  	type="int"   cname="AIID"  desc="AIID"/>
+		<entry name="AttackEnemyFactor"  	type="int"   cname="遭遇战触发系数"  desc="遭遇战触发系数"/>
+		<entry name="AttackSpawnGroupFactor" type="int"  cname="进攻野怪触发系数"  	desc="进攻野怪触发系数"/>
+		<entry name="AttackBaseFactor"  	type="int"   cname="进攻基地触发系数"  	desc="进攻基地触发系数"/>
+		<entry name="AttackGoldMineFactor"  type="int"   cname="进攻金矿触发系数"  	desc="进攻金矿触发系数"/>
+		<entry name="AttackBuildInitCD"  		type="int"   cname="进攻建筑初始CD"  	desc="进攻建筑初始CD"/>
+		<entry name="AttackBuildCD"  		type="int"   cname="进攻建筑时间CD"  	desc="进攻建筑时间CD"/>
+		
+		<entry name="AttackMinDist"			type="int"   cname="遭遇战触发距离"  	desc="遭遇战触发距离"/>
+		<entry name="AttackMaxDist"			type="int"   cname="遭遇战追击距离"  	desc="遭遇战追击距离"/>
+		<entry name="AttackHelpDist"		type="int"   cname="遭遇战协助距离"  	desc="遭遇战协助距离"/>
+		<entry name="AttackAssistedTime"	type="int"   cname="遭遇战秒英雄时间系数"  desc="遭遇战秒英雄时间系数"/>
+		<entry name="AttackCD"				type="int"   cname="遭遇战结束再触发CD"  desc="遭遇战结束再触发CD"/>
+		
+		<entry name="RetreatVisualDist"		type="int"   cname="逃跑中回城触发距离"  desc="逃跑中回城触发距离"/>
+		<entry name="RetreatSpringDist"		type="int"   cname="逃跑中回城泉水距离"  desc="逃跑中回城泉水距离"/>
+		<entry name="TowerInnerDist"		type="int"   cname="建筑内圈距离"  	desc="建筑内圈距离"/>
+		<entry name="TowerOuterDist"		type="int"   cname="建筑外圈距离"  	desc="建筑外圈距离"/>
+		<entry name="TowerOuterFactor"		type="int"   cname="建筑外圈衰减系数"  	desc="建筑外圈衰减系数"/>
+		<entry name="HeroHPFactor"			type="int"   cname="英雄生命值系数"  	desc="英雄生命值系数"/>
+		<entry name="DogfaceHPFactor"		type="int"   cname="小兵生命值系数"  	desc="小兵生命值系数"/>
+		<entry name="FighterAttackFactor"	type="int"   cname="小兵近战普攻系数"  	desc="小兵近战普攻系数"/>
+		<entry name="ShooterAttackFactor"	type="int"   cname="小兵远程普攻系数"  	desc="小兵远程普攻系数"/>
+		<entry name="EscapeCheckTime"		type="int"   cname="战斗暂时逃跑检测时间"  	desc="战斗暂时逃跑检测时间"/>
+		<entry name="EscapeCheckDamage"		type="int"   cname="战斗暂时逃跑伤害"  		desc="战斗暂时逃跑伤害"/>
+		<entry name="RetreatAttackHeroHP"	type="int"   cname="战斗中撤退条件英雄生命值"  	desc="战斗中撤退条件英雄生命值"/>
+		<entry name="RetreatAttackFactor"	type="int"   cname="战斗中撤退条件触发系数"  	desc="战斗中撤退条件触发系数"/>
+		<entry name="RetreatDefenseHeroHP"	type="int"   cname="防御中撤退条件英雄生命值"  	desc="防御中撤退条件英雄生命值"/>
+		<entry name="RetreatHeroHP"			type="int"   cname="MF撤退条件英雄生命值"  	desc="MF撤退条件英雄生命值"/>
+		<entry name="RetreatHeroMP"			type="int"   cname="MF撤退条件英雄魔法值"  	desc="MF撤退条件英雄魔法值"/>
+		<entry name="RetreatCond"  			type="ResTeamAIRetreatCond" cname="MF撤退条件" 	desc="撤退条件" 	count="RES_TEAMAI_RETREATCOND_CNT"/>
+	
+		<entry name="PickCheckDist"	type="int"   cname="拾取检查范围"  	desc="拾取检查范围"/>
+		<entry name="PickWaitTime"	type="int"   cname="拾取等待时间"  	desc="拾取等待时间"/>
+		
+		<entry name="FollowMaxRaius"	type="int"   cname="跟随大半径"  	desc="跟随大半径"/>
+		<entry name="FollowMinRaius"	type="int"   cname="跟随小半径"  	desc="跟随小半径"/>
+		
+		<entry name="DefenceRadius"	type="int"   cname="防御半径圈"  	desc="防御半径圈"/>
+		
+		<entry name="AtkBuildMinDist"	type="int"   cname="进攻建筑攻击敌军半径"  	desc="进攻建筑攻击敌军半径"/>
+		<entry name="AtkBuildMaxDist"	type="int"   cname="进攻建筑追击敌军距离"  	desc="进攻建筑追击敌军距离"/>
+		<entry name="AtkBuildUseItemMaxDist"	type="int"   cname="进攻建筑使用召唤道具距离"  	desc="进攻建筑使用召唤道具距离"/>
+		
+		<entry name="TpTargetSeekRadius"	type="int"   cname="回城搜索建筑半径"  	desc="回城搜索建筑半径"/>
+		
+		<entry name="ComputerFollowTime"	type="int"   cname="电脑跟随触发时间"  	desc="电脑跟随触发时间"/>
+		<entry name="ComputerFollowFood"	type="int"   cname="电脑跟随触发人口"  	desc="电脑跟随触发人口"/>
+		<entry name="ComputerFollowRaius"	type="int"   cname="电脑跟随触发半径"  	desc="电脑跟随触发半径"/>
+	
+	</struct>
+
+	<struct name="ResTeamExtDataDesc" version="1" sortkey="ID" desc="队伍附加数值" >
+		<entry name="ID"   				type="int"     cname="ID"   desc="ID"/>
+		<entry name="SystemGoldExtAdd"  type="int"  cname="系统金币获取"  	desc="系统金币获取"/>
+		<entry name="SystemExpExtAdd"  	type="int"      cname="系统经验获取"  	desc="系统经验获取"/>
+		<entry name="HpMaxExtAdd"  		type="int"      	cname="最大生命值加成"  	desc="最大生命值加成"/>
+		<entry name="AtkExtAdd"  		type="int"      	cname="攻击力加成"  	desc="攻击力加成"/>		
+	</struct>
+	
+	<!-- ==================遭遇战AI配置表===================== -->
+	<struct name="ResRencounterAIDesc" version="1" sortkey="DogfaceCnt" desc="单位AI配置表" >
+		<entry name="DogfaceCnt"     		type="int"     cname="士兵数量"    	desc="士兵数量"/>
+		<entry name="ProportionDifferVal"  	type="int"     cname="比例差值" 	desc="比例差值"/>
+		<entry name="AbsoluteDiffVal"  		type="int"     cname="绝对差值" 	desc="绝对差值"/>
+	</struct>
+	
+	<!-- ==================系统道具表格===================== -->
+
+	<macro name="RES_SYSTEMITEMEFFECT_NUM_MAX" 		value="2" 	desc="道具效果最大个数" />
+	<macro name="RES_SYSTEMITEMEFFECT_PARAMNUM_MAX" 		value="6" 	desc="道具效果类型参数最大个数" />
+	
+	<struct name="ResSystemItemEffect" version="1"  desc="系统道具效果" >
+		<entry name="Type"     		 type="int8"     cname="类型"    		desc="类型"/>
+		<entry name="Param"     type="int"    count="RES_SYSTEMITEMEFFECT_PARAMNUM_MAX"  cname="参数"   		desc="参数"/>
+	</struct>
+	
+	
+	<struct name="ResSystemItemDesc" version="1" sortkey="ResID" desc="系统道具表" >
+		<entry name="ResID"     		 type="int"     cname="ID"    		desc="ID"/>
+		<entry name="Type"     type="int8"     cname="道具类型"   		desc="道具类型"/>
+		<entry name="SubType"     type="int8"     cname="道具子类型"   		desc="道具子类型"/>
+		<entry name="Quality"     type="int8"     cname="道具品质"   		desc="道具品质"/>
+		<entry name="Icon" type="string" size="MAX_RES_PATH_LEN" cname="道具图标" desc="系统道具图标"/>
+		<entry name="GiftIcon"  type="string" size="MAX_NAME_LEN"  cname="礼包2D图"   desc="礼包2D图"/>
+		<entry name="OpenWay"     type="int"     cname="礼包打开方式"   		desc="礼包打开方式"/>
+		<entry name="IsSell"     type="int8"     cname="是否可出售"   		desc="是否可出售"/>
+		<entry name="IsUse"     type="int8"     cname="是否可使用"   		desc="是否可使用"/>
+		<entry name="Price"     type="int"     cname="出售价格"   		desc="出售价格"/>
+		<entry name="UISkipType"     type="int16"     cname="界面跳转类型"     desc="界面跳转类型,UIInterfaceSkipType"/>
+
+		<entry name="Effects" type="ResSystemItemEffect"  count="RES_SYSTEMITEMEFFECT_NUM_MAX" cname="道具效果"  desc="道具效果"/>
+	</struct>
+	
+	
+	<struct name="ResGoodsDisplayDesc" version="1" sortkey="ResID" desc="物品显示表">
+		<entry name="ResID" type="int" cname="ID" desc="ID"/>
+		<entry name="GoodsName_SCN" type="string" size="MAX_NAME_LEN" cname="道具名称_简中" desc="道具名称_简中"/>
+		<entry name="GoodsName_EN" type="string" size="MAX_NAME_LEN" cname="道具名称_英文" desc="道具名称_英文"/>
+		<entry name="GoodsName_FCN" type="string" size="MAX_NAME_LEN" cname="道具名称_繁中" desc="道具名称_繁中"/>
+		<entry name="GoodsDesc_SCN" type="string" size="MAX_DESC_LEN" cname="道具描述_简中" desc="道具描述_简中"/>
+		<entry name="GoodsDesc_EN" type="string" size="MAX_DESC_LEN" cname="道具描述_英文" desc="道具描述_英文"/>
+		<entry name="GoodsDesc_FCN" type="string" size="MAX_DESC_LEN" cname="道具描述_繁中" desc="道具描述_繁中"/>
+	</struct>
+	
+		<!-- ==================系统任务表格===================== -->
+		
+		<macro name="RES_SYSTEMTASKREWARD_NUM_MAX" 		value="3" 	desc="任务奖励最大数目" />
+		<macro name="RES_SYSTEMNEEDPARAM_NUM_MAX" 		value="3" 	desc="行为需求最大参数" />
+		
+	<struct name="ItemReward" version="1"  desc="物品奖励" >
+		<entry name="ItemID"     type="int"     cname="物品ID"    		desc="物品ID"/>
+		<entry name="ItemNum"    type="int"     cname="物品数量"   		desc="物品数量"/>
+	</struct>
+		
+	<struct name="ResSystemTaskDesc" version="1" sortkey="ResID" desc="系统任务表" >
+		<entry name="ResID"     		 type="int"     cname="ID"    		desc="ID"/>
+		<entry name="Icon" type="string" size="MAX_NAME_LEN" cname="任务图标" desc="任务图标"/>
+		<entry name="Type"     type="int8"     cname="任务类型"   		desc="任务类型"/>
+		<entry name="UISkipType"     type="int16"     cname="界面跳转类型"   		desc="界面跳转类型,UIInterfaceSkipType"/>
+		<entry name="AutoCommit"     type="int8"     cname="自动提交"   		desc="自动提交"/>
+		<entry name="NeedLevel"     type="int8"     cname="需求等级"   		desc="需求等级"/>
+		<entry name="NeedAct"     type="int8"     cname="行为需求"   		desc="行为需求"/>
+		<entry name="CountType"     type="int8"     cname="计数方式"   		desc="计数方式"/>
+		<entry name="NeedParam"     type="int"     cname="行为需求参数"   count="RES_SYSTEMNEEDPARAM_NUM_MAX"		desc="行为需求参数"/>
+		<entry name="CounterMax"     type="int"     cname="计数器最大值"   		desc="计数器最大值"/>
+		<entry name="CounterUpdateType"     type="int8"     cname="计数器更新方式"   		desc="计数器更新方式"/>
+		<entry name="Reward" type="ItemReward"  count="RES_SYSTEMTASKREWARD_NUM_MAX" cname="奖励"  desc="奖励"/>
+	</struct>
+		
+	<struct name="ResSystemTaskDisplayDesc" version="1" sortkey="ResID" desc="任务显示表">
+		<entry name="ResID" type="int" cname="ID" desc="ID"/>
+		<entry name="TaskName_SCN" type="string" size="MAX_NAME_LEN" cname="任务名称_简中" desc="任务名称_简中"/>
+		<entry name="TaskName_EN" type="string" size="MAX_NAME_LEN" cname="任务名称_英文" desc="任务名称_英文"/>
+		<entry name="TaskName_FCN" type="string" size="MAX_NAME_LEN" cname="任务名称_繁中" desc="任务名称_繁中"/>
+		<entry name="TaskDesc_SCN" type="string" size="MAX_DESC_LEN" cname="任务描述_简中" desc="任务描述_简中"/>
+		<entry name="TaskDesc_EN" type="string" size="MAX_DESC_LEN" cname="任务描述_英文" desc="任务描述_英文"/>
+		<entry name="TaskDesc_FCN" type="string" size="MAX_DESC_LEN" cname="任务描述_繁中" desc="任务描述_繁中"/>
+		<entry name="TaskTips_SCN" type="string" size="MAX_DESC_LEN" cname="任务提示_简中" desc="任务提示_简中"/>
+		<entry name="TaskTips_EN" type="string" size="MAX_DESC_LEN" cname="任务提示_英文" desc="任务提示_英文"/>
+		<entry name="TaskTips_FCN" type="string" size="MAX_DESC_LEN" cname="任务提示_繁中" desc="任务提示_繁中"/>
+	</struct>
+		
+		
+	<!-- ==================系统每日随机任务表格===================== -->
+	<macro name="RES_SYSTEMTASKNUM_NUM_MAX" 		value="8" 	desc="任务随机组ID最大数目" />
+	
+	<struct name="RandomTask" version="1" desc="随机任务" >
+		<entry name="ID" 			type="int"  cname="ID"  desc="ID"/>
+		<entry name="Probability" 	type="int"  cname="概率"  desc="概率"/>
+	</struct>
+	
+	<struct name="ResSystemRandomTaskDesc" version="1" sortkey="ResID" desc="每日随机任务表" >
+		<entry name="ResID"     		 type="int"     cname="任务组id"    		desc="任务组id"/>
+		<entry name="IsRandom"     		 type="int8"     cname="是否随机"    		desc="是否随机"/>
+
+		<entry name="RandomTask" type="RandomTask"  count="RES_SYSTEMTASKNUM_NUM_MAX" cname="随机任务"  desc="随机任务"/>
+	</struct>	
+				<!-- ==================系统成长指导表格===================== -->
+		
+	
+	<struct name="ResSystemGrowthGuidanceDesc" version="1" sortkey="ResID" desc="系统成长指导表" >
+		<entry name="ResID"     		 type="int"     cname="ID"    		desc="ID"/>
+		
+		<entry name="Icon" type="string" size="MAX_NAME_LEN" cname="指导图标" desc="指导图标"/>
+		
+		<entry name="Name_SCN" type="string" size="MAX_NAME_LEN" cname="指导名称(简中)" desc="指导名称(简中)"/>
+		<entry name="Name_FCN" type="string" size="MAX_NAME_LEN" cname="指导名称(繁中)" desc="指导名称(繁中)"/>
+		<entry name="Name_EN" type="string" size="MAX_NAME_LEN" cname="指导名称(英)" desc="指导名称(英)"/>
+		
+		<entry name="Desc_SCN" type="string" size="MAX_DESC_LEN" cname="指导描述(简中)" desc="指导描述(简中)"/>
+		<entry name="Desc_FCN" type="string" size="MAX_DESC_LEN" cname="指导描述(繁中)" desc="指导描述(繁中)"/>
+		<entry name="Desc_EN" type="string" size="MAX_DESC_LEN" cname="指导描述(英)" desc="指导描述(英)"/>
+		
+		
+		<entry name="Type"     type="int8"     cname="指导类型"   		desc="指导类型"/>
+		<entry name="UISkipType"     type="int16"     cname="界面跳转类型"   		desc="界面跳转类型,UIInterfaceSkipType"/>
+
+	</struct>
+	
+	<!-- ==================系统召唤师等级经验表格===================== -->
+		
+	<macro name="RES_SYSTEMSUMMONREWARD_NUM_MAX" 		value="3" 	desc="召唤师等级经验奖励个数" />
+    <macro name="RES_SYSTEMLEVELUNLOCK_NUM_MAX" 		value="3" 	desc="召唤师等级解锁内容个数" />
+        
+    <struct name="LevelUnlock" version="1"  desc="召唤师等级解锁内容" >
+        <entry name="UnlockDesc_SCN" type="string" size="MAX_NAME_LEN" cname="描述(简中)" desc="描述(简中)"/>
+		<entry name="UnlockDesc_FCN" type="string" size="MAX_NAME_LEN" cname="描述(繁中)" desc="描述(繁中)"/>
+		<entry name="UnlockDesc_EN" type="string" size="MAX_NAME_LEN" cname="描述(英)" desc="描述(英)"/>
+		  
+		<entry name="UISkipType"    type="int16"     cname="界面跳转类型"   		desc="界面跳转类型,UIInterfaceSkipType"/>
+	</struct>
+        
+	<struct name="ResSystemSummonerLevelDesc" version="1" sortkey="ResID" desc="召唤师等级经验表表" >
+		<entry name="ResID"       type="int"                      cname="召唤师等级"       desc="召唤师等级"/>
+		<entry name="EXP"         type="int"                      cname="升级经验"         desc="升级经验"/>
+		<entry name="Reward"      type="ItemReward"   count="RES_SYSTEMSUMMONREWARD_NUM_MAX"   cname="奖励"             desc="奖励"/>
+		<entry name="SkillID"     type="int"                      cname="召唤师技能"       desc="召唤师技能"/>
+        <entry name="Unlock"      type="LevelUnlock"   count="RES_SYSTEMLEVELUNLOCK_NUM_MAX"   cname="解锁内容"             desc="解锁内容"/>
+	</struct>	
+	
+	<!-- ==================竞技场等级经验配置表================== -->
+	
+	<struct name="ResArenaLevelDesc" version="1" sortkey="Level" desc="竞技场等级经验配置表" >
+		<entry name="Level"        type="int"    cname="竞技场等级"   desc="竞技场等级"/>
+		<entry name="MaxExp"       type="int"     cname="升级经验"    desc="升级经验"/>
+		<entry name="TechTreeType" type="int8" 	cname="科技树类型"    desc="科技树类型"/>
+	</struct>
+		
+		
+		
+	<macro name="RES_SYSTEMARENALOCKDOGFACE_NUM_MAX" value="16" 	desc="竞技场解锁兵种个数" />
+	
+	<struct name="ResArenaUnLockDogfaceDesc" version="1" sortkey="Level" desc="竞技场解锁兵种显示表" >
+		<entry name="Level"        type="int"    cname="竞技场等级"   desc="竞技场等级"/>
+		<entry name="DogfaceIDs"   type="int"   count="RES_SYSTEMARENALOCKDOGFACE_NUM_MAX"  cname="解锁兵种ID"    desc="解锁兵种ID"/>
+	</struct>
+	
+
+	
+	<struct name="ResGuideUnLockSystemDesc" version="1" sortkey="UnLockType" desc="等级解锁系统" >
+		<entry name="UnLockType"       type="int"   cname="新解锁系统类型"       desc="新解锁系统类型"/>
+		<entry name="UnLockPlayerLevel"      type="int8"   cname="解锁所需召唤师等级"       desc="解锁所需召唤师等级"/>
+		<entry name="UnLockArenaLevel"      type="int8"   cname="解锁所需竞技场等级"       desc="解锁所需竞技场等级"/>
+		<entry name="GuidePlayerLevel"      type="int8"   cname="指引激活召唤师等级"       desc="指引激活召唤师等级"/>
+		<entry name="GuideArenaLevel"       type="int8"   cname="指引激活竞技场等级"       desc="指引激活竞技场等级"/>
+		
+		
+	</struct>	
+        
+	<!-- ==================系统七日登陆奖励表格===================== -->
+				
+	<struct name="ResSystemSevenLandingBonusDesc" version="1" sortkey="ResID" desc="七日登陆奖励表" >
+		<entry name="ResID"     		 type="int"     cname="天数"    		desc="天数"/>
+		<entry name="ItemID"     		 type="int"     cname="奖励物品id"    		desc="奖励物品id"/>
+		<entry name="ItemNum"     type="int"      cname="奖励物品数量"   		desc="奖励物品数量"/>
+		<entry name="StartTime"     type="string"      size="MAX_DATE_LEN" cname="开始时间"   		desc="开始时间"/>
+
+	</struct>	
+		
+	<!--===============系统英雄皮肤表==========================-->
+	<macro name="RES_SYSTEMHEROSKINDESC_NUM_MAX" 		value="2" 	desc="皮肤描述最大数目" />
+	<macro name="RES_SYSTEMHEROSKINLINKMONSTERSKIN_NUM_MAX" 		value="4" 	desc="英雄皮肤映射怪物皮肤最大数目" />
+	
+	<struct name="ResSystemHeroSkinAttr" version="1"  desc="英雄皮肤属性" >
+		<entry name="Effect"     		 type="int8"     cname="效果"    		desc="效果"/>
+		<entry name="Type"     type="int8"      cname="类型"   		desc="类型"/>
+		<entry name="Num"     type="int"      cname="数值"   		desc="数值"/>
+
+	</struct>
+	
+	<struct name="ResSystemHeroSkinFeatures" version="1"  desc="皮肤描述" >
+		<entry name="Icon"     type="string"   size="MAX_RES_PATH_LEN"   cname="图标"   		desc="图标"/>
+		<entry name="Desc"     type="string"     size="MAX_DESC_LEN" cname="说明"   		desc="说明"/>
+
+	</struct>
+	
+	<struct name="ResSystemHeroSkinDisplayDesc" version="1" desc="英雄皮肤显示表">
+		<entry name="ResID" type="int" cname="皮肤ID" desc="皮肤ID"/>
+		<entry name="SkinTitle_SCN" type="string" size="MAX_NAME_LEN" cname="皮肤称号_简中" desc="皮肤称号_简中"/>
+		<entry name="SkinTitle_EN" type="string" size="MAX_NAME_LEN" cname="皮肤称号_英文" desc="皮肤称号_英文"/>
+		<entry name="SkinTitle_FCN" type="string" size="MAX_NAME_LEN" cname="皮肤称号_繁中" desc="皮肤称号_繁中"/>
+		<entry name="Name_SCN" type="string" size="MAX_NAME_LEN" cname="皮肤名称_简中" desc="皮肤名称_简中"/>
+		<entry name="Name_EN" type="string" size="MAX_NAME_LEN" cname="皮肤名称_英文" desc="皮肤名称_英文"/>
+		<entry name="Name_FCN" type="string" size="MAX_NAME_LEN" cname="皮肤名称_繁中" desc="皮肤名称_繁中"/>
+		<entry name="SkinDescOne_SCN" type="string" size="MAX_DESC_LEN" cname="皮肤描述1说明_简中" desc="皮肤描述1说明_简中"/>
+		<entry name="SkinDescOne_EN" type="string" size="MAX_DESC_LEN" cname="皮肤描述1说明_英文" desc="皮肤描述1说明_英文"/>
+		<entry name="SkinDescOne_FCN" type="string" size="MAX_DESC_LEN" cname="皮肤描述1说明_繁中" desc="皮肤描述1说明_繁中"/>
+		<entry name="SkinDescTwo_SCN" type="string" size="MAX_DESC_LEN" cname="皮肤描述2说明_简中" desc="皮肤描述2说明_简中"/>
+		<entry name="SkinDescTwo_EN" type="string" size="MAX_DESC_LEN" cname="皮肤描述2说明_英文" desc="皮肤描述2说明_英文"/>
+		<entry name="SkinDescTwo_FCN" type="string" size="MAX_DESC_LEN" cname="皮肤描述2说明_繁中" desc="皮肤描述2说明_繁中"/>
+	</struct>
+	
+	
+	<struct name="ResSystemHeroSkinLinkDesc" version="1" desc="英雄皮肤关联" > 
+		<entry name="MonsterResID" type="int" cname="怪物ID" desc="怪物ID"/>
+		<entry name="MonsterSkinID" type="int" cname="皮肤ID" desc="皮肤ID"/>
+	</struct>
+	
+
+	  <struct name="ResSystemHeroSkinDesc" version="1" sortkey="ResID"> 
+		<entry name="ResID" type="int" cname="皮肤ID" desc="皮肤ID"/>
+		<entry name="ModePath" type="string" size="MAX_RES_PATH_LEN" cname="模型路径" desc="模型路径"/>
+		<entry name="HightModePath" type="string" size="MAX_RES_PATH_LEN" cname="3D高模" desc="3D高模"/>
+		<entry name="DeadModePath" type="string" size="MAX_RES_PATH_LEN" cname="灵魂模型路径" desc="灵魂模型路径"/>
+		<entry name="HightModeBirthVoicePath" type="string" size="MAX_RES_PATH_LEN" cname="英雄出生语音" desc="英雄出生语音"/>
+		<entry name="HightModeDeathVoicePath" type="string" size="MAX_RES_PATH_LEN" cname="英雄死亡语音" desc="英雄死亡语音"/>
+		<entry name="HightModeShowAudioPath" type="string" size="MAX_RES_PATH_LEN" cname="英雄展示音效" desc="英雄展示音效"/>
+		<entry name="HightModeTouchVoice" type="string" size="MAX_RES_PATH_LEN" cname="英雄触碰语音" desc="英雄触碰语音"/>
+		<entry name="HightModeTalkVoicePath" type="string" size="MAX_RES_PATH_LEN" cname="英雄talk语音" desc="英雄talk语音"/>
+		<entry name="HightModeZoomScale" type="int" cname="高模缩放比例1" desc="高模缩放比例1"/>
+		<entry name="HightModeShowPosY" type="int" cname="展示高度偏移" desc="展示高度偏移"/>
+		<entry name="BillboardPicture_SelectHero" type="string" size="MAX_RES_PATH_LEN" cname="2D海报(选人)" desc="2D海报(选人)"/>
+		<entry name="BillboardPicture_FullS" type="string" size="MAX_RES_PATH_LEN" cname="2D海报(全屏)" desc="2D海报(全屏)"/>
+		<entry name="BillboardPicture_Loading" type="string" size="MAX_RES_PATH_LEN" cname="2D海报(加载)" desc="2D海报(加载)"/>
+		<entry name="BillboardPicture_Result" type="string" size="MAX_RES_PATH_LEN" cname="2D海报(结算)" desc="2D海报(结算)"/>
+		<entry name="ShowIcon" type="string" size="MAX_RES_PATH_LEN" cname="展示头像" desc="展示头像"/>
+		<entry name="CircleIcon" type="string" size="MAX_RES_PATH_LEN" cname="圆形头像" desc="圆形头像"/>
+		<entry name="SquareIcon" type="string" size="MAX_RES_PATH_LEN" cname="方形头像" desc="方形头像"/>
+		<entry name="Background" type="string" size="MAX_RES_PATH_LEN" cname="展示背景" desc="展示背景"/>
+		
+		<entry name="MyHeadUI" type="string" size="MAX_ICON_NAME_LEN" cname="我方血条" desc="我方血条"/>
+		<entry name="FriendHeadUI" type="string" size="MAX_ICON_NAME_LEN" cname="友方血条" desc="友方血条"/>
+		<entry name="EnemyHeadUI" type="string" size="MAX_ICON_NAME_LEN" cname="敌方血条" desc="敌方血条"/>
+		
+		<entry name="HeroSkinAttr" type="ResSystemHeroSkinAttr"  cname="英雄皮肤属性"  desc="英雄皮肤属性"/>
+		<entry name="Desc_HeroSkin" type="ResSystemHeroSkinFeatures"  count="RES_SYSTEMHEROSKINDESC_NUM_MAX" cname="皮肤描述"  desc="皮肤描述"/>
+		
+		<entry name="PaybackItemID" type="int" cname="转化道具ID" desc="转化道具ID"/>	
+		<entry name="PaybackItemNum" type="int" cname="转化道具数量" desc="转化道具数量"/>	
+		
+		<entry name="SkinLinks" type="ResSystemHeroSkinLinkDesc"  count="RES_SYSTEMHEROSKINLINKMONSTERSKIN_NUM_MAX" cname="皮肤关联"  desc="皮肤关联"/>
+	  </struct>	
+
+	  
+		<!-- ==================随机名字表格===================== -->
+				
+	<struct name="ResSystemRandomPlayerNameDesc" version="1" sortkey="ResID" desc="随机名字表格" >
+		<entry name="ResID"     		 type="int"     cname="ID"    		desc="ID"/>
+		<entry name="Name"     		 type="string"  size="MAX_NAME_LEN"   cname="随机名字"    		desc="随机名字"/>
+		<entry name="MiddleName"     type="string"  size="MAX_NAME_LEN"    cname="中间字"   		desc="中间字"/>
+		<entry name="EndName"     type="string"   size="MAX_NAME_LEN"   cname="尾部符号"   		desc="尾部符号"/>
+
+	</struct>		  
+	
+			<!-- ==================国籍信息表格===================== -->
+				
+	<struct name="ResSystemPlayerNtionalityDesc" version="1" sortkey="ResID" desc="国籍信息表格" >
+		<entry name="ResID"     		 type="int"     cname="ID"    		desc="ID"/>
+		<entry name="NickName_SCN"     		 type="string"  size="MAX_NAME_LEN"   cname="国籍(简中)" desc="国籍(简中)"/>
+		<entry name="NickName_FCN"     		 type="string"  size="MAX_NAME_LEN"   cname="国籍(繁中)" desc="国籍(繁中)"/>
+		<entry name="NickName_EN"     		 type="string"  size="MAX_NAME_LEN"   cname="国籍(英)" desc="国籍(英)"/>
+		<entry name="ShowIcon" type="string" size="MAX_ICON_NAME_LEN" cname="国籍图标" desc="国籍图标"/>
+
+	</struct>		
+	
+	
+	
+	
+		<!-- ==================新手引导表格===================== -->
+		
+	<macro name="RES_GUIDEBATTLETASKPARAM_NUM_MAX" 		value="2" 	desc="新手战斗任务激活和完成最大参数" />
+	<macro name="RES_GUIDEBATTLETASKCOMPLETE_NUM_MAX" 		value="2" 	desc="新手战斗任务完成最大个数" />
+	
+	<macro name="RES_GUIDEBATTLESTORYPAGE_NUM_MAX" 		value="3" 	desc="新手剧情对话页最大个数" />
+				
+	<struct name="ResGuideEventDesc" version="1" sortkey="ResID" desc="新手引导表" >
+		<entry name="ResID"     		 type="int"     cname="节点ID"    		desc="节点ID"/>
+		<entry name="Time"     		 type="int"     cname="自动消失时间"    		desc="自动消失时间"/>
+		<entry name="ClicKTime"     		 type="int"     cname="可点击时间"    		desc="可点击时间"/>
+		<entry name="IsForcePos"     		 type="int8"     cname="是否固定位置"    		desc="是否固定位置"/>
+		<entry name="IsCloseMask"     		 type="int8"     cname="是否关闭蒙版"    		desc="是否关闭蒙版"/>
+		<entry name="IsMaskTransparent"     		 type="int8"     cname="蒙版是否透明"    		desc="蒙版是否透明"/>
+		<entry name="TaskID"     		 type="int"   cname="关联任务ID"    		desc="关联任务ID"/>
+		<entry name="VoicePath"     		 type="string"  size="MAX_NAME_LEN"   cname="语音播报"    		desc="语音播报"/>
+		
+		<entry name="Desc_words1_SCN" type="string"  size="MAX_DESC_LONGLEN"   cname="文字说明1(简中)"  desc="文字说明1(简中)"/>
+		<entry name="Desc_words1_FCN" type="string"  size="MAX_DESC_LONGLEN"   cname="文字说明1(繁中)"  desc="文字说明1(繁中)"/>
+		<entry name="Desc_words1_EN" type="string"  size="MAX_DESC_LONGLEN"   cname="文字说明1(英)"  desc="文字说明1(英)"/>
+		
+		<entry name="Desc_words2_SCN" type="string"  size="MAX_DESC_LEN"   cname="文字说明2(简中)"  desc="文字说明2(简中)"/>
+		<entry name="Desc_words2_FCN" type="string"  size="MAX_DESC_LEN"   cname="文字说明2(繁中)"  desc="文字说明2(繁中)"/>
+		<entry name="Desc_words2_EN" type="string"  size="MAX_DESC_LEN"   cname="文字说明2(英)"  desc="文字说明2(英)"/>
+		
+	</struct>
+	
+	
+	
+	<struct name="ResGuideBattleTaskActiveDesc" version="1"  desc="新手战斗任务激活" >
+		<entry name="Type"     type="int8"     cname="类型"    		desc="类型"/>
+		<entry name="Param"    type="int"    count="RES_GUIDEBATTLETASKPARAM_NUM_MAX"  cname="参数"  desc="参数"/>
+	</struct>
+	
+	<struct name="ResGuideBattleTaskCompleteDesc" version="1"  desc="新手战斗任务激活" >
+		<entry name="Type"     type="int8"     cname="条件"    		desc="条件"/>
+		<entry name="Param"    type="int"    count="RES_GUIDEBATTLETASKPARAM_NUM_MAX"  cname="参数"  desc="参数"/>
+		
+		<entry name="Desc_SCN" type="string" size="MAX_DESC_LEN" cname="描述(简中)" desc="描述(简中)"/>
+		<entry name="Desc_FCN" type="string" size="MAX_DESC_LEN" cname="描述(繁中)" desc="描述(繁中)"/>
+		<entry name="Desc_EN" type="string" size="MAX_DESC_LEN" cname="描述(英)" desc="描述(英)"/>
+	</struct>
+	
+	
+	<struct name="ResGuideBattleTaskDesc" version="1" sortkey="ResID" desc="新手战斗任务表" >
+		<entry name="ResID"     type="int"     cname="任务ID"    		desc="任务ID"/>
+		<entry name="BattleSceneType" type="int8" cname="战斗场景模式" desc="战斗场景模式"/>
+
+		<entry name="TaskType"  type="int8"     cname="任务类型"     desc="任务类型"/>		
+		<entry name="ActiveParam"  type="ResGuideBattleTaskActiveDesc"     cname="任务激活条件"   desc="任务激活条件"/>
+		
+		<entry name="CompleteParams"  type="ResGuideBattleTaskCompleteDesc" count="RES_GUIDEBATTLETASKCOMPLETE_NUM_MAX"    cname="任务完成"   desc="任务完成"/>
+		
+		<entry name="TaskName_SCN"    type="string"  size="MAX_NAME_LEN"   cname="任务名称(简中)"    desc="任务名称(简中)"/>
+		<entry name="TaskName_FCN"    type="string"  size="MAX_NAME_LEN"   cname="任务名称(繁中)"    desc="任务名称(繁中)"/>
+		<entry name="TaskName_EN"    type="string"  size="MAX_NAME_LEN"   cname="任务名称"    desc="任务名称"/>
+		
+		<entry name="TipsDesc_SCN" type="string" size="MAX_DESC_LEN" cname="提示描述(简中)" desc="提示描述(简中)"/>
+		<entry name="TipsDesc_FCN" type="string" size="MAX_DESC_LEN" cname="提示描述(繁中)" desc="提示描述(繁中)"/>
+		<entry name="TipsDesc_EN" type="string" size="MAX_DESC_LEN" cname="提示描述(英)" desc="提示描述(英)"/>
+	</struct>
+	
+	<struct name="ResGuideStoryTalkPage" version="1"  desc="剧情对话页" >
+		<entry name="StoryDesc_SCN"    type="string"  size="MAX_DESC_LEN"   cname="描述(简中)"    desc="描述(简中)"/>
+		<entry name="StoryDesc_FCN"    type="string"  size="MAX_DESC_LEN"   cname="描述(繁中)"    desc="描述(繁中)"/>
+		<entry name="StoryDesc_EN"    type="string"  size="MAX_DESC_LEN"   cname="描述(英)"    desc="描述(英)"/>
+		
+		<entry name="DuraTime"  type="int"     cname="持续时间"     desc="持续时间"/>
+	</struct>
+	
+	
+	<struct name="ResGuideStoryDesc" version="1" sortkey="ResID" desc="新手剧情表" >
+		<entry name="ResID"     type="int"     cname="剧情ID"    		desc="剧情ID"/>
+		<entry name="GroupID"     type="int"     cname="剧情组ID"    		desc="剧情组ID"/>
+		
+		<entry name="StoryName_SCN"    type="string"  size="MAX_NAME_LEN"   cname="剧情名称(简中)"    desc="剧情名称(简中)"/>
+		<entry name="StoryName_FCN"    type="string"  size="MAX_NAME_LEN"   cname="剧情名称(繁中)"    desc="剧情名称(繁中)"/>
+		<entry name="StoryName_EN"    type="string"  size="MAX_NAME_LEN"   cname="剧情名称(英)"    desc="剧情名称(英)"/>
+		
+		<entry name="StoryType"  type="int8"     cname="剧情类型"     desc="剧情类型"/>
+		
+		<entry name="TeamType"  	type="int8"     cname="队伍类型"     desc="队伍类型"/>
+		<entry name="SpawnGroupID"  type="int"     cname="怪物组ID"     desc="怪物组ID"/>
+		<entry name="ActorResID"  type="int"     cname="单位资源ID"     desc="单位资源ID"/>
+		
+		<entry name="TalkPages"  type="ResGuideStoryTalkPage" count="RES_GUIDEBATTLESTORYPAGE_NUM_MAX"   cname="剧情对话页"   desc="剧情对话页"/>
+
+		<entry name="StoryAudio"    type="string"  size="MAX_RES_PATH_LEN"   cname="剧情音频"    desc="剧情音频"/>
+
+		<entry name="ShortestTime"	type="int"	cname="最短跳过时间"	desc="最短跳过时间"/>
+		<entry name="NextID"  type="int"     cname="跳转下一条剧情ID"     desc="跳转下一条剧情ID"/>
+		<entry name="StoryBreakType"  type="int8"     cname="终止类型"     desc="终止类型"/>
+		<entry name="StorryBreakParam"  type="int"     cname="终止类型参数"     desc="终止类型参数"/>
+		
+		<entry name="ActorHeadIcon"    type="string"  size="MAX_RES_PATH_LEN"   cname="演员头像模型"    desc="演员头像模型"/>
+		
+		<entry name="ActorName_SCN"    type="string"  size="MAX_ICON_NAME_LEN"   cname="演员名字(简中)"    desc="演员名字(简中)"/>
+		<entry name="ActorName_FCN"    type="string"  size="MAX_ICON_NAME_LEN"   cname="演员名字(繁中)"    desc="演员名字(繁中)"/>
+		<entry name="ActorName_EN"    type="string"  size="MAX_ICON_NAME_LEN"   cname="演员名字(英)"    desc="演员名字(英)"/>
+		
+		<entry name="ActorPosX"    type="int"    cname="3D模型位置X"    desc="3D模型位置X"/>
+		<entry name="ActorPosY"    type="int"    cname="3D模型位置Y"    desc="3D模型位置Y"/>
+		<entry name="ActorPosZ"    type="int"    cname="3D模型位置Z"    desc="3D模型位置Z"/>
+		<entry name="ActorScale"   type="int"    cname="3D模型缩放"    desc="3D模型缩放"/>
+		<entry name="ActorRotateY" type="int"    cname="3D模型旋转Y"    desc="3D模型旋转Y"/>
+		
+	</struct>
+	
+
+	<struct name="ResGuideSkillDesc" version="1" sortkey="ID" desc="技巧教学">
+		<entry	name="ID"	type="int"	cname="技巧ID"	desc="技巧ID"/>
+		<entry	name="Name_SCN"	type="string"	size="MAX_NAME_LEN"	cname="技巧名字_简中"	desc="技巧名字_简中"/>
+		<entry	name="Name_EN"	type="string"	size="MAX_NAME_LEN"	cname="技巧名字_英文"	desc="技巧名字_英文"/>
+		<entry	name="Name_FCN"	type="string"	size="MAX_NAME_LEN"	cname="技巧名字_繁中"	desc="技巧名字_繁中"/>
+		<entry	name="Desc_SCN"	type="string"	size="MAX_DESC_LEN"	cname="技巧描述_简中"	desc="技巧描述_简中"/>
+		<entry	name="Desc_EN"	type="string"	size="MAX_DESC_LEN"	cname="技巧描述_英文"	desc="技巧描述_英文"/>
+		<entry	name="Desc_FCN"	type="string"	size="MAX_DESC_LEN"	cname="技巧描述_繁中"	desc="技巧描述_繁中"/>
+		<entry	name="GuideSkillIcon"	type="string"	size="MAX_ICON_NAME_LEN"	cname="技巧图标"	desc="技巧图标"/>
+		<entry	name="GuideSkillType"	type="int8"	cname="技巧类型"	desc="技巧类型"/>
+		<entry	name="AwardID"	type="int"	cname="奖励物品ID"	desc="奖励物品ID"/>
+		<entry	name="AwardNum"	type="int"	cname="奖励物品数量"	desc="奖励物品数量"/>
+		<entry	name="ResVideo"	type="string"	size="MAX_RES_PATH_LEN"	cname="视频链接"	desc="视频链接"/>
+		<entry	name="VideoIcon"	type="string"	size="MAX_RES_PATH_LEN"	cname="视频图标"	desc="视频图标"/>
+	</struct>
+	
+		<!-- ==================头像框表格===================== -->
+				
+	<struct name="ResSystemHeadFrameDesc" version="1" sortkey="ResID" desc="头像框表格" >
+		<entry name="ResID"     		 type="int"     cname="ID"    		desc="ID"/>
+		
+		<entry name="IsHave"     		 type="int8"     cname="是否初始拥有"    		desc="是否初始拥有"/>
+		<entry name="Icon"     type="string"  size="MAX_RES_PATH_LEN"    cname="方形头像框"   		desc="方形头像框"/>
+		<entry name="Time"     type="int"  	   cname="使用期限"   		desc="使用期限"/>
+		
+		<entry name="Name_SCN"  type="string"  size="MAX_NAME_LEN"   cname="名字(简中)"   desc="名字(简中)"/>
+		<entry name="Name_FCN"  type="string"  size="MAX_NAME_LEN"   cname="名字(繁中)"   desc="名字(繁中)"/>
+		<entry name="Name_EN"  type="string"  size="MAX_NAME_LEN"   cname="名字(英)"   desc="名字(英)"/>
+		
+		<entry name="Desc_SCN"  type="string"   size="MAX_DESC_LEN"   cname="获得说明(简中)"  desc="获得说明简中)"/>
+		<entry name="Desc_FCN"  type="string"   size="MAX_DESC_LEN"   cname="获得说明(繁中)"  desc="获得说明繁中)"/>
+		<entry name="Desc_EN"  type="string"   size="MAX_DESC_LEN"   cname="获得说明(英)"  desc="获得说明(英)"/>
+
+	</struct>	
+	
+			<!-- ==================头像表格===================== -->
+				
+	<struct name="ResSystemPlayerIconDesc" version="1" sortkey="ResID" desc="头像表格" >
+		<entry name="ResID"     		 type="int"     cname="ID"    		desc="ID"/>
+
+		<entry name="IsHave"     		 type="int8"     cname="是否初始拥有"    		desc="是否初始拥有"/>
+		<entry name="Icon"     type="string"  size="MAX_RES_PATH_LEN"    cname="方形头像"   		desc="方形头像"/>
+		<entry name="Time"     type="int"  	   cname="使用期限"   		desc="使用期限"/>
+		
+		<entry name="Name_SCN"  type="string"  size="MAX_NAME_LEN"   cname="名字(简中)"   desc="名字(简中)"/>
+		<entry name="Name_FCN"  type="string"  size="MAX_NAME_LEN"   cname="名字(繁中)"   desc="名字(繁中)"/>
+		<entry name="Name_EN"  type="string"  size="MAX_NAME_LEN"   cname="名字(英)"   desc="名字(英)"/>
+		
+		<entry name="Desc_SCN"  type="string"   size="MAX_DESC_LEN"   cname="获得说明(简中)"  desc="获得说明简中)"/>
+		<entry name="Desc_FCN"  type="string"   size="MAX_DESC_LEN"   cname="获得说明(繁中)"  desc="获得说明繁中)"/>
+		<entry name="Desc_EN"  type="string"   size="MAX_DESC_LEN"   cname="获得说明(英)"  desc="获得说明(英)"/>
+		
+	</struct>
+
+
+
+	<!-- ==================游戏全局参数表格===================== -->
+	<macro name="RES_SYSTEMPARAMTERVALUENUM_NUM_MAX" 		value="5" 	desc="参数值最大数目" />
+	<macro name="RES_SYSTEMVSMODEMAP_NUM_MAX" 		value="4" 	desc="对战地图分配最大数目" />
+	<macro name="RES_SYSTEMMATCHOPENTIME_NUM_MAX" 		value="4" 	desc="赛事开放时间表最大数目" />
+		
+	<struct name="ResGlobalSystemParametersDesc" version="1" sortkey="ResID" desc="游戏全局参数表" >
+		<entry name="ResID"     		 type="int"     cname="参数项"    		desc="参数项"/>
+		<entry name="ParameterValue"     		 type="int"   count="RES_SYSTEMPARAMTERVALUENUM_NUM_MAX"  cname="参数值"    		desc="参数值"/>
+
+	</struct>	
+	
+	<struct name="ResServerParametersDesc" version="1" sortkey="ResID" desc="服务器配置表" >
+		<entry name="ResID"     		 type="int"     cname="参数项"    		desc="参数项"/>
+		<entry name="ParameterValue"     type="string"   size="MAX_SERVER_PARAM_LEN" cname="参数值"    		desc="参数值"/>
+
+	</struct>	
+	
+
+	<struct name="ResMultiVersionDesc" version="1" sortkey="GroupID" desc="服务器配置表" >
+		<entry name="GroupID"     		 type="int"      cname="玩家池编号"    				desc="玩家池编号"/>
+		<entry name="IosVersion"         type="string"   size="MAX_NAME_LEN" cname="苹果客户端版本号"    		desc="苹果客户端版本号"/>
+		<entry name="AndroidVersion"     type="string"   size="MAX_NAME_LEN" cname="安卓客户端版本号"    		desc="安卓客户端版本号"/>
+		<entry name="BattleVersion"      type="int"      cname="战斗服版本号"    		    desc="战斗服版本号"/>
+		<entry name="ServiceCount"       type="int"      cname="服务数量"    		    	desc="服务数量"/>
+		<entry name="CheckServerFlag"    type="int"      cname="验证服开关"    		    	desc="验证服开关"/>
+		<entry name="EndTime"            type="string"   size="MAX_NAME_LEN" cname="有效时间"    		desc="有效截止时间"/>
+	</struct>	
+	
+	
+	<struct name="ResSystemVsMapOne" version="1"  desc="地图参数" >
+		<entry name="ID"       type="int"     cname="ID"    		desc="ID"/>
+		<entry name="Random"    type="int"     cname="概率"    		desc="概率"/>
+
+	</struct>	
+	
+	<struct name="ResSystemVsModeMapPool" version="1" desc="对战地图分配表" >
+		<entry name="VsMode"     	   type="int"      cname="对战模式"  desc="对战模式"/>
+		<entry name="MutiPlayMode"     type="int"      cname="对战人数模式"  desc="对战人数模式"/> 	
+		<entry name="Maps"   type="ResSystemVsMapOne"   count="RES_SYSTEMVSMODEMAP_NUM_MAX"  cname="地图" desc="地图列表"/>
+		<entry name="HighMap1"       type="int"     cname="低配排除地图1ID"    		desc="低配排除地图1ID"/>
+		<entry name="HighMap2"       type="int"     cname="低配排除地图2ID"    		desc="低配排除地图1ID"/>
+		<entry name="HighMap3"       type="int"     cname="低配排除地图3ID"    		desc="低配排除地图1ID"/>
+		<entry name="ArenaUnlockLevel"       type="int"     cname="竞技场解锁等级"    		desc="竞技场解锁等级"/>
+		<entry name="ArenaUnlockMap"       type="int"     cname="竞技场解锁地图"    		desc="竞技场解锁地图"/>
+	</struct>	
+	
+	
+	<!--赛事开放时间 -->
+	
+	<struct name="ResSystemMatchOpenOne" version="1"  desc="开放时间" >
+		<entry name="Type"       type="int8"     cname="周期类型"    desc="周期类型"/>
+		<entry name="Week"    type="int8"     cname="周时间"    	desc="周时间"/>
+		<entry name="DayStartTime"  type="string"   size="MAX_NAME_LEN"   cname="天开始时间"  desc="天开始时间"/>
+		<entry name="DayEndTime"    type="string"   size="MAX_NAME_LEN"  cname="天结束时间"   desc="天结束时间"/>
+	</struct>	
+	
+	
+	<struct name="ResSystemMatchOpenTimeDesc" version="1" desc="赛事开放时间表" >
+		<entry name="VsMode"     	   type="int"      cname="对战模式"  desc="对战模式"/>
+		<entry name="MutiPlayMode"     type="int"      cname="对战人数模式"  desc="对战人数模式"/> 	
+		<entry name="Maps"   type="ResSystemMatchOpenOne"   count="RES_SYSTEMMATCHOPENTIME_NUM_MAX"  cname="开放" desc="开放"/>
+		<entry name="OwnHeroCount"		type="int"		cname="拥有英雄数量"	desc="拥有英雄数量"/>
+		<entry name="PlayerLevel"		type="int"		cname="玩家等级"		desc="玩家等级"/>
+	</struct>	
+	
+	
+	<!-- ==================英雄熟练度表格===================== -->
+				
+	<struct name="ResSystemMasteryLevelDesc" version="1" sortkey="ResID" desc="英雄熟练度表" >
+		<entry name="ResID"     		 type="int"     cname="熟练度等级"    		desc="熟练度等级"/>
+		<entry name="EXP"     		 type="int"     cname="熟练度经验"    		desc="熟练度经验"/>
+		<entry name="Icon"     type="string"  size="MAX_ICON_NAME_LEN"    cname="熟练度图标"   		desc="熟练度图标"/>
+
+		<entry name="Name_SCN"  type="string"  size="MAX_NAME_LEN"   cname="熟练度称号(简中)"   desc="熟练度称号(简中)"/>
+		<entry name="Name_FCN"  type="string"  size="MAX_NAME_LEN"   cname="熟练度称号(繁中)"   desc="熟练度称号(繁中)"/>
+		<entry name="Name_EN"  type="string"  size="MAX_NAME_LEN"   cname="熟练度称号(英)"   desc="熟练度称号(英)"/>
+		
+	</struct>	
+
+	<!-- ==================排位赛段位表===================== -->
+	<struct name="ResRankLevelDesc" version="1" sortkey="Level" desc="排位赛段位表" >
+		<entry name="Level"     		 type="int"     cname="段位等级"    		desc="段位等级"/>
+		<entry name="UpStar"     		 type="int"     cname="晋级星数"    		desc="晋级星数"/>
+		<entry name="LevelType"     	 type="int"     cname="段位类别"    		desc="段位类别"/>
+		<entry name="MaxScore"     		 type="int"     cname="最大积分"    		desc="最大积分"/>
+		<entry name="ProtectScore"       type="int"     cname="保护积分"    		desc="保护积分"/>
+		<entry name="NextSeasonLevel"    type="int"     cname="下赛季段位等级"    	desc="下赛季段位等级"/>
+		
+		<entry name="Name_SCN"  type="string"  size="MAX_NAME_LEN" cname="段位名称_简中"   desc="段位名称_简中"/>
+		<entry name="Name_FCN"  type="string"  size="MAX_NAME_LEN" cname="段位名称_繁中"   desc="段位名称_繁中"/>
+		<entry name="Name_EN"  type="string"  size="MAX_NAME_LEN" cname="段位名称_英文"   desc="段位名称_英文"/>
+		
+		
+		<entry name="Icon"       		 type="string"  size="MAX_RES_PATH_LEN" cname="段位图标"   	desc="段位图标"/>
+		<entry name="ShowSubLevel"       type="string"  size="MAX_RES_PATH_LEN" cname="显示子段位"  desc="显示子段位"/>
+		<entry name="IconEdge"       	 type="string"  size="MAX_RES_PATH_LEN" cname="段位外框"  desc="段位外框"/>
+		<entry name="IconNeck"       	 type="string"  size="MAX_RES_PATH_LEN" cname="段位飘带"  desc="段位飘带"/>
+		<entry name="IconLevel"       	 type="string"  size="MAX_RES_PATH_LEN" cname="等级图片"  desc="等级图片"/>	
+	</struct>
+
+	<!-- ==================匹配赛匹配池===================== -->
+	<struct name="ResMatchQueueDesc" version="1" sortkey="ID" desc="匹配赛匹配池" >
+		<entry name="ID"             type="int"     cname="编号"              desc="编号"/>
+		<entry name="StarMin"        type="int"     cname="星数下限"            desc="星数下限"/>
+		<entry name="StarMax"        type="int"     cname="星数上限"            desc="星数上限"/>
+		<entry name="DownOvertime"   type="int"     cname="跨池下移时间"      desc="跨池下移时间"/>
+		<entry name="UpOvertime"     type="int"     cname="跨池上移时间"      desc="跨池上移时间"/>
+		<entry name="MaxSkipCount"   type="int"     cname="最大跨池次数"        desc="最大跨池次数"/>		
+		<entry name="AiOverTime"     type="int"     cname="电脑补位超时时间"    desc="电脑补位超时时间"/>
+		<entry name="PureAiOverTime" type="int"     cname="纯电脑超时时间"      desc="纯电脑超时时间"/>
+		<entry name="AiConfigType"   type="int"     cname="电脑AI难度"          desc="电脑AI难度"/>
+		<entry name="AIExtData"  	 type="int"     cname="电脑附加数值ID"  desc="电脑附加数值ID"/>		
+		<entry name="AICanUseRace"  type="int"    count="RES_MAX_AICANUSERACEMAX_LEN"   cname="AI可选种族"  desc="AI可选种族"/>		
+	</struct>
+
+	<!-- ==================竞技场匹配池===================== -->
+	<struct name="ResArenaQueueDesc" version="1" sortkey="ArenaLevel" desc="竞技场匹配池" >
+		<entry name="ArenaLevel"     type="int"     cname="竞技场等级"          desc="竞技场等级"/>
+		<entry name="AiOverTime"     type="int"     cname="电脑补位超时时间"   desc="电脑补位超时时间"/>
+		<entry name="PureAiOverTime" type="int"     cname="纯电脑超时时间"      desc="纯电脑超时时间"/>
+		<entry name="AiConfigType"   type="int"     cname="电脑AI难度"          desc="电脑AI难度"/>
+		<entry name="AIExtData"  	 type="int"     cname="电脑附加数值ID"  	desc="电脑附加数值ID"/>		
+		<entry name="AICanUseRace"  type="int"    count="RES_MAX_AICANUSERACEMAX_LEN"   cname="AI可选种族"  desc="AI可选种族"/>		
+	</struct>
+	
+	<!-- ==================排位赛匹配池===================== -->
+	<struct name="ResRankQueueDesc" version="1" sortkey="ID" desc="排位赛匹配池" >
+		<entry name="ID"     		 type="int"     cname="编号"    			desc="编号"/>
+		<entry name="StarMin"     	 type="int"     cname="星数下限"    		desc="星数下限"/>
+		<entry name="StarMax"     	 type="int"     cname="星数上限"    		desc="星数上限"/>
+		<entry name="DownOvertime"   type="int"     cname="跨池下移时间"    	desc="跨池下移时间"/>
+		<entry name="UpOvertime"     type="int"     cname="跨池上移时间"    	desc="跨池上移时间"/>
+		<entry name="MaxSkipCount"   type="int"     cname="最大跨池次数"        desc="最大跨池次数"/>
+		<entry name="AiOverTime"     type="int"     cname="电脑补位超时时间"    desc="电脑补位超时时间"/>
+		<entry name="PureAiOverTime" type="int"     cname="纯电脑超时时间"      desc="纯电脑超时时间"/>
+		<entry name="AiConfigType"   type="int"     cname="电脑AI难度"          desc="电脑AI难度"/>
+		<entry name="AIExtData"  	 type="int"     cname="电脑附加数值ID"  desc="电脑附加数值ID"/>			
+	</struct>
+
+	<!-- ==================排位赛赛季时间===================== -->
+	<struct name="ResRankSeasonDesc" version="1" sortkey="ID" desc="排位赛赛季时间" >
+		<entry name="ID" 			type="int"							  cname="赛季ID"    		desc="赛季ID"/>
+		<entry name="StartTime"     type="string"  size="MAX_DATE_LEN"    cname="开始时间"   		desc="开始时间"/>
+		<entry name="EndTime"    	type="string"  size="MAX_DATE_LEN"    cname="结束时间"   		desc="结束时间"/>
+	</struct>
+	
+	
+	<!-- ==================排位赛奖励===================== -->
+	<struct name="ResRankAwardDesc" version="1" sortkey="ID" desc="排位赛奖励" >
+		<entry name="ID" 			type="int"		cname="赛季ID"    		desc="赛季ID"/>
+		<entry name="RankLevel"    	type="int8"     cname="段位条件"   		desc="段位条件"/>
+		<entry name="WinCount"    	type="int"     cname="胜场数"   		desc="胜场数"/>
+		<entry name="AwardItemID"    	type="int"     cname="道具ID"   		desc="道具ID"/>
+		<entry name="AwardItemNum"    	type="int"     cname="道具数量"   		desc="道具数量"/>
+	</struct>
+  
+	<!-- ==================排位赛冲段奖励===================== -->
+	<struct name="ResRankItemAward" version="1" desc="排位赛冲段奖励道具描述" >
+		<entry name="ID" 		type="int"   cname="ID"    desc="ID"/>
+		<entry name="Count" 	type="int"   cname="数量"  desc="数量"/>
+	</struct>
+
+	<struct name="ResRankSeasonAwardDesc" version="1" sortkey="ID" desc="排位赛冲段奖励" >
+		<entry name="ID" 		type="int"   				cname="赛季ID"    	desc="赛季ID"/>
+		<entry name="MutiPlayMode"  type="int8"     cname="对战人数模式"   desc="对战人数模式"/>
+		<entry name="Level" 	type="int"   				cname="段位等级"    desc="段位等级"/>
+		<entry name="ItemAward" type="ResRankItemAward"  	count="RANK_SEASON_AWARD_COUNT"    cname="道具"   desc="道具"/>
+	</struct>
+
+	<!-- ==================排位赛积分规则===================== -->
+	
+	<macro name="RES_SYSTEMRANKSCORESEQ_NUM_MAX" 		value="3" 	desc="排位赛积分排名个数" />
+	<macro name="RES_SYSTEMRANKSCOREWINSTREAT_NUM_MAX" 		value="5" 	desc="排位赛积分连胜个数" />
+		
+	<struct name="ResRankScoreRuleDesc" version="1" sortkey="PlayerNum" desc="排位赛积分规则" >
+		<entry name="PlayerNum" 	type="int"   					cname="游戏人数"    desc="游戏人数"/>
+		<entry name="NoCheat" 		type="int"   					cname="无挂机"    	desc="无挂机"/>
+		<entry name="SeqNum" 		type="int"  count="RES_SYSTEMRANKSCORESEQ_NUM_MAX"		cname="排名"    	desc="排名"/>
+		<entry name="WinStreat" 	type="int"  count="RES_SYSTEMRANKSCOREWINSTREAT_NUM_MAX" cname="连胜"    	desc="连胜"/>
+	</struct>
+	
+	<!-- =================战斗快捷信息===================== -->	
+	<struct name="ResBattleMsgRspDesc" version="1" sortkey="ID" desc="战斗快捷信息">
+		<entry name="ID" type="int" cname="信息ID" desc="信息ID"/>
+		<entry name="Type" type="int" cname="信息类型" desc="信息类型"/>
+		<entry name="DeFaultIndex" type="int" cname="初始信息" desc="初始信息"/>
+		<entry name="Desc_SCN" type="string" size="MAX_RES_PATH_LEN" cname="信息内容_简中" desc="信息内容_简中"/>
+		<entry name="Desc_EN" type="string" size="MAX_RES_PATH_LEN" cname="信息内容_英文" desc="信息内容_英文"/>
+		<entry name="Desc_FCN" type="string" size="MAX_RES_PATH_LEN" cname="信息内容_繁中" desc="信息内容_繁中"/>
+		<entry name="Path" type="string" size="MAX_RES_PATH_LEN" cname="音效路径" desc="音效路径"/>
+	</struct>
+	
+	<!-- ==================队伍快捷信息===================== -->	
+	<struct name="ResTeamMsgRspDesc" version="1" sortkey="ID" desc="队伍快捷信息" >
+		<entry name="ID" 	type="int"   		cname="信息ID"    desc="信息ID"/>
+		<entry name="Desc_SCN" type="string" size="MAX_RES_PATH_LEN" cname="信息内容_简中" desc="信息内容_简中"/>
+		<entry name="Desc_EN" type="string" size="MAX_RES_PATH_LEN" cname="信息内容_英文" desc="信息内容_英文"/>
+		<entry name="Desc_FCN" type="string" size="MAX_RES_PATH_LEN" cname="信息内容_繁中" desc="信息内容_繁中"/>
+	</struct>	
+	
+	<!-- ==================选人界面快捷信息===================== -->	
+
+	
+	<struct name="ResChooseHeroMsgRspDesc" version="1" sortkey="ID" desc="选人界面快捷信息" >
+		<entry name="ID" 	type="int"   		cname="信息ID"    desc="信息ID"/>
+		<entry name="Desc_SCN" type="string" size="MAX_RES_PATH_LEN" cname="信息内容_简中" desc="信息内容_简中"/>
+		<entry name="Desc_EN" type="string" size="MAX_RES_PATH_LEN" cname="信息内容_英文" desc="信息内容_英文"/>
+		<entry name="Desc_FCN" type="string" size="MAX_RES_PATH_LEN" cname="信息内容_繁中" desc="信息内容_繁中"/>
+	</struct>		
+	
+	<!-- ==================温暖局配置表===================== -->    
+	
+	<macro name="RES_SYSTEWARGAMETIMEOUTQUEUE_NUM_MAX" 		value="2" 	desc="温暖局排队列队数目" />
+	<macro name="RES_SYSTEACTIVECODEPACKAGEITEM_NUM_MAX" 		value="4" 	desc="激活码礼包表物品数目" />
+	<macro name="RES_SYSTEMPACKAGEITEM_NUM_MAX" 		value="10" 	desc="系统礼包表奖励数目" />
+	<macro name="RES_SYSTEMPACKAGEITEM_RANDOM_GROUP_MAX" 		value="4" 	desc="系统礼包表随机组数目" />
+	
+	<macro name="RES_SYSTEACHIEVEMENTLEVEL_NUM_MAX" value="2" 	desc="成就等级奖励数目" />
+	<macro name="RES_MONTHCARD_REWARD_NUM_MAX" 		value="3" 	desc="任务奖励最大数目" />
+	<macro name="RES_SYSTEMWARGAMEQUEUE_TIMEOUT_NUM_MAX" 		value="2" 	desc="温暖局队列配置超时数目" />
+	<macro name="RES_MAX_AICANUSERACEMAX_LEN" 		value="4" 	desc="AI可选种族最大数" />
+
+	
+	<struct name="ResWarmGameTimeoutDesc" version="1" desc="温暖局排队超时处理" >
+		<entry name="Time"      type="int"                  cname="时间"      desc="时间"/>
+		<entry name="QueueID"   type="int"   count="RES_SYSTEWARGAMETIMEOUTQUEUE_NUM_MAX"      cname="队列"      desc="队列"/>
+	</struct> 
+	
+	
+	<struct name="ResWarmGameQueueDesc" version="1" sortkey="ID" desc="温暖局队列配置" >
+		<entry name="ID"                    type="int"      cname="队列ID"          desc="队列ID"/>
+		<entry name="MatchType"             type="int8"     cname="比赛类型"        desc="比赛类型"/>
+		<entry name="IsPureAi"              type="int8"     cname="是否纯电脑"      desc="是否纯电脑"/>
+		<entry name="ArenaMinLevel"         type="int8"     cname="竞技场最小等级"  desc="竞技场最小等级"/>
+		<entry name="ArenaMaxLevel"         type="int8"     cname="竞技场最大等级"  desc="竞技场最大等级"/>
+		<entry name="PlayerMinLevel"        type="int8"     cname="玩家最小等级"    desc="玩家最小等级"/>
+		<entry name="PlayerMaxLevel"        type="int8"     cname="玩家最大等级"    desc="玩家最大等级"/>
+		<entry name="RankLevelType"         type="int8"     cname="段位类别"        desc="段位类别"/>
+		<entry name="DailyCount"            type="int16"     cname="每日场数"        desc="每日场数"/>
+		<entry name="LoseStreakCount"       type="int16"     cname="连输次数"        desc="连输次数"/>
+		<entry name="WinStreakCount"        type="int16"     cname="连赢次数"        desc="连赢次数"/>
+		<entry name="MatchCount"            type="int16"     cname="匹配场次"        desc="匹配场次"/>
+		<entry name="KillScore"             type="int16"     cname="击杀积分"        desc="击杀积分"/>
+		<entry name="BeKillScore"           type="int16"     cname="被杀积分"        desc="被杀积分"/>
+		
+		<entry name="PlayerAiConfigType"  type="int8"     cname="玩家AI托管类型"  desc="玩家AI托管类型"/>
+		<entry name="PlayerExtData"    type="int"     cname="玩家附加数值ID"  desc="玩家附加数值ID"/>
+		
+		<entry name="FriendAiConfigType"  type="int8"     cname="友方AI类型"  desc="友方AI类型"/>
+		<entry name="FriendExtData"    type="int"     cname="友方附加数值ID"  desc="友方附加数值ID"/>
+		
+		<entry name="EnemyAiConfigType"   type="int8"     cname="敌方AI类型"  desc="敌方AI类型"/>
+		<entry name="EnemyExtData"    type="int"     cname="敌方附加数值ID"  desc="敌方附加数值ID"/>
+		
+		<entry name="NeuAiConfigType"    type="int8"     cname="中立方AI类型"  desc="中立方AI类型"/>
+		<entry name="NeuExtData"    type="int"     cname="中立方附加数值ID"  desc="中立方附加数值ID"/>
+		
+		
+		<entry name="TimeoutDesc"           type="ResWarmGameTimeoutDesc" count="RES_SYSTEMWARGAMEQUEUE_TIMEOUT_NUM_MAX"     cname="超时处理"        desc="超时处理"/>
+		<entry name="AICanUseRace"  type="int"    count="RES_MAX_AICANUSERACEMAX_LEN"   cname="AI可选种族"  desc="AI可选种族"/>		
+	</struct> 
+	
+	<struct name="ResSystemPackageItemDesc" version="1" desc="系统礼包物品" >
+		<entry name="ID"      type="int"         cname="ID"        desc="ID"/>
+		<entry name="Num"     type="int"         cname="数量"      desc="数量"/>
+		<entry name="Probability"    type="int"         cname="概率"      desc="概率"/>
+		<entry name="Price"    type="int"         cname="价格"      desc="价格"/>
+	</struct> 
+	
+	<struct name="ResSystemItemGroupDesc" version="1" desc="系统礼包物品组" >
+		<entry name="ID"      type="int"         cname="物品组ID"        desc="物品组ID"/>
+		<entry name="ItemGroupDesc"       type="ResSystemPackageItemDesc" count="RES_SYSTEMPACKAGEITEM_NUM_MAX"  cname="物品"      desc="物品"/>
+	</struct> 
+	
+	<struct name="ResSystemItemRandomDesc" version="1" desc="系统礼包随机" >
+		<entry name="GroupID"      type="int"         cname="ID"        desc="ID"/>
+		<entry name="RandomType"      type="int"         cname="随机类型"        desc="随机类型"/>
+	</struct> 
+	
+	
+	<struct name="ResSystemPackageDesc" version="1" sortkey="ID" desc="系统礼包表" >
+		<entry name="ID"             type="int"                           cname="礼包ID"            desc="礼包ID"/>
+		<entry name="Name"     		 type="string"  size="MAX_NAME_LEN"   cname="礼包名称"    		desc="礼包名称"/>
+		<entry name="UseType"        type="int8"    cname="使用类型"      desc="使用类型"/> 
+		<entry name="ItemGroupDesc"       type="ResSystemItemRandomDesc" count="RES_SYSTEMPACKAGEITEM_RANDOM_GROUP_MAX"  cname="物品组"      desc="物品组"/>
+	</struct>  
+
+	<struct name="ResActivePackageItemDesc" version="1" desc="激活码礼包物品" >
+		<entry name="ID"      type="int"         cname="ID"        desc="ID"/>
+		<entry name="Num"     type="int"         cname="数量"      desc="数量"/>
+	</struct> 	
+	
+	
+	<struct name="ResActiveCodePackageDesc" version="1" sortkey="ID" desc="激活码礼包表" >
+		<entry name="ID"             type="int"                           cname="礼包ID"            desc="礼包ID"/>
+		<entry name="Name"     		 type="string"  size="MAX_NAME_LEN"   cname="礼包名称"    		desc="礼包名称"/>
+		<entry name="ItemDesc"       type="ResActivePackageItemDesc" count="RES_SYSTEACTIVECODEPACKAGEITEM_NUM_MAX"     cname="物品"      desc="物品"/>
+		<entry name="HeroResID"      type="int"    cname="英雄ID"  desc="英雄ID"/>
+		<entry name="SkinResID"      type="int"    cname="皮肤ID"  desc="皮肤ID"/>
+		<entry name="IconResID"      type="int"    cname="头像ID"  desc="头像ID"/>
+		<entry name="IconEdgeResID"  type="int"    cname="边框ID"  desc="边框ID"/>
+	</struct>   
+
+	<struct name="ResSystemMailDesc" version="1" sortkey="ID" desc="系统邮件模板" >
+		<entry name="ID"             type="int"  cname="模板ID"   desc="模板ID"/>
+		<entry name="MainType"       type="int"  cname="主类型"   desc="主类型"/>
+		<entry name="SubType"        type="int"  cname="子类型"   desc="子类型"/>
+		
+		<entry name="Title_SCN"  type="string"  size="MAX_MAIL_TITLE_LEN"  cname="标题(简中)"  desc="标题(简中)"/>
+		<entry name="Title_FCN"  type="string"  size="MAX_MAIL_TITLE_LEN"  cname="标题(繁中)"  desc="标题(繁中)"/>
+		<entry name="Title_EN"  type="string"  size="MAX_MAIL_TITLE_LEN"   cname="标题(英)"  desc="标题(英)"/>
+		
+		<entry name="Body_SCN"   type="string"  size="MAX_MAIL_BODY_LEN"  cname="正文(简中)" desc="正文(简中)"/>
+		<entry name="Body_FCN"   type="string"  size="MAX_MAIL_BODY_LEN"  cname="正文(繁中)" desc="正文(繁中)"/>
+		<entry name="Body_EN"   type="string"  size="MAX_MAIL_BODY_LEN"   cname="正文(英)" desc="正文(英)"/>
+	</struct>
+	
+	<!-- ==================点券购买===================== -->    
+	<struct name="ResRechargeDesc" version="1" sortkey="ID" desc="点券购买">
+		<entry name="ID"               type="int"                                     cname="ID"              desc="ID"/>
+		<entry name="GoodsID"          type="string"     size="MAX_NAME_LEN"          cname="GoodsID"         desc="GoodsID"/>
+		<entry name="Desc"             type="string"     size="MAX_NAME_LEN"          cname="描述"            desc="描述"/>
+		<entry name="Price"            type="int"                                     cname="价格"            desc="价格"/>
+		<entry name="GetRecharge"      type="int"                                     cname="获得战魂币"        desc="获得战魂币"/>
+		<entry name="AppendRecharge"   type="int"                                     cname="赠送战魂币"        desc="赠送战魂币"/>
+		<entry name="IconPath"         type="string"     size="MAX_RES_PATH_LEN"      cname="图标路径"        desc="图标路径"/>
+	</struct>
+
+	<!-- ==================成就系统================== -->
+	
+	<macro name="RES_SYSTEMACHIVEMENTPHASE_REWARD_NUM_MAX" 		value="2" 	desc="成就阶段奖励最大数目" />
+	<macro name="RES_SYSTEMACHIVEMENTPHASE_PHASE_NUM_MAX" 		value="5" 	desc="成就列表阶段最大数目" />
+	
+	<struct name="ResAchievementPhaseDesc" version="1" desc="成就阶段">
+		<entry name="AchieveValue"  type="int"                  cname="达成值"      desc="达成值" />
+		<entry name="Reward"        type="ItemReward" count="RES_SYSTEMACHIVEMENTPHASE_REWARD_NUM_MAX" cname="奖励"        desc="奖励" />
+	</struct>
+
+	<struct name="ResAchievementDesc" version="1" sortkey="ID" desc="成就列表">
+		<entry name="ID"        type="int"                                  cname="ID"        desc="ID" />
+		<entry name="Name_SCN"      type="string" size="MAX_NAME_LEN"           cname="名称_简中"      desc="名称_简中" />
+		<entry name="Name_FCN"      type="string" size="MAX_NAME_LEN"           cname="名称_繁中"      desc="名称_繁中" />
+		<entry name="Name_EN"      type="string" size="MAX_NAME_LEN"           cname="名称_英文"      desc="名称_英文" />
+		<entry name="Desc_SCN"  type="string" size="MAX_NAME_LEN"           cname="描述_简中"      desc="描述_简中" />
+		<entry name="Desc_FCN"  type="string" size="MAX_NAME_LEN"           cname="描述_繁中"      desc="描述_简中" />
+		<entry name="Desc_EN"   type="string" size="MAX_NAME_LEN"           cname="描述_英文"      desc="描述_英文" />
+		<entry name="IconName"  type="string" size="MAX_NAME_LEN"           cname="成就图标"  desc="成就图标" />
+        <entry name="CountType" type="int8"                                 cname="计数类型"  desc="计数类型" />
+		<entry name="NeedAct"   type="int"                                  cname="行为需求"  desc="行为需求" />
+        <entry name="ActParam"  type="int"                                  cname="行为参数"  desc="行为参数" />
+		<entry name="Phase"     type="ResAchievementPhaseDesc" count="RES_SYSTEMACHIVEMENTPHASE_PHASE_NUM_MAX"    cname="阶段"      desc="阶段" />     
+		<entry name="UISkipType"     type="int16"     cname="界面跳转类型"   		desc="界面跳转类型,UIInterfaceSkipType"/>
+	</struct>
+	
+	
+	
+	<struct name="ResAchievementLevelDesc" version="1" sortkey="Level" desc="成就等级">
+		<entry name="Level"		type="int" 					cname="成就等级" 	desc="成就等级" />
+		<entry name="Point"		type="int" 					cname="成就点数" 	desc="成就点数" />
+		<entry name="Reward"    type="ItemReward" count="RES_SYSTEACHIEVEMENTLEVEL_NUM_MAX" cname="奖励"        desc="奖励" />
+	</struct>
+	
+	
+	
+	<struct name="ResMonthCardDesc" version="1" sortkey="ID" desc="月卡">
+		<entry name="ID"		type="int" 					cname="ID" 	desc="ID" />
+		<entry name="Type"		type="int" 					cname="月卡类型" 	desc="月卡类型" />
+		<entry name="NeedPay"	type="int" 					cname="购买价格" 	desc="购买价格" />
+		<entry name="Day"		type="int" 					cname="持续天数" 	desc="持续天数" />
+		<entry name="Reward" 	type="ItemReward"  count="RES_MONTHCARD_REWARD_NUM_MAX" cname="奖励"  desc="奖励"/>
+	</struct>
+	
+
+	<!-- ==================限免英雄================== -->
+	<macro name="RES_WEEK_FREE_HERO_MAX" value="8" 	desc="限免英雄最大数量" />
+
+	<struct name="ResWeekFreeHeroDesc" version="1" sortkey="Week" desc="限免英雄">
+		<entry name="Week" 		type="int16" 	cname="周索引" desc="周索引"/>
+		<entry name="HeroResID" type="int" 		count="RES_WEEK_FREE_HERO_MAX" cname="英雄ID" desc="英雄ID"/>
+	</struct>
+    
+    <struct name="ResRaceUnlockDesc" version="1" sortkey="RaceType" desc="种族解锁表" >
+		<entry name="RaceType"      type="int"      cname="种族"    		desc="种族"/>
+		<entry name="UnlockLevel"     type="int8"     cname="解锁等级"        desc="解锁等级"/>
+		<entry name="UnlockGold"      type="int"      cname="解锁金币"    	desc="解锁金币"/>
+		<entry name="UnlockDiamond"   type="int"      cname="解锁钻石"   		desc="解锁钻石"/>
+		<entry name="UnlockTicket"    type="int"      cname="解锁点卷"   		desc="解锁点卷"/>
+		<entry name="UnlockTechTree" type="int"     cname="科技树解锁类型"  desc="科技树解锁类型"/>
+	</struct>
+
+    <!-- ==================商城购买方式================== -->
+    <struct name="ResShopBuyWayDesc" version="1" desc="商城购买方式" >
+        <entry name="MoneyType"             type="int8"     cname="货币类型"    desc="货币类型"/>
+        <entry name="Price"                 type="int"      cname="价格"        desc="价格"/>
+        <entry name="DiscountType"          type="int8"     cname="折扣类型"    desc="折扣类型"/>
+        <entry name="DiscountPercent"       type="int8"     cname="折扣百分比"  desc="折扣百分比"/>
+        <entry name="DiscountPrice"         type="int"      cname="折后价"      desc="折后价"/>
+        <entry name="DiscountStartTime"     type="string"      size="MAX_DATE_LEN"     cname="折扣开始时间"        desc="折扣开始时间"/>
+        <entry name="DiscountEndTime"       type="string"      size="MAX_DATE_LEN"     cname="折扣结束时间"        desc="折扣结束时间"/>
+    </struct>
+
+    <!-- ==================商城配置表================== -->
+    <macro name="RES_SHOP_BUY_WAY_MAX" value="2"  desc="商城购买方式最大数量" />
+
+    <struct name="ResShopDesc" version="1" sortkey="ID" desc="商城配置表" >
+        <entry name="ID"             type="int"     cname="商品ID"    desc="商品ID"/>
+        <entry name="Sheet"          type="int8"    cname="分页"      desc="分页"/>
+		<entry name="CapacityType"		 type="int8"	cname="能力类型"      desc="能力类型"/>
+		<entry name="CapacitySubType"		 type="int8"	cname="能力子类型"      desc="能力子类型"/>
+        <entry name="Order"          type="int16"   cname="排序"      desc="排序"/>
+        <entry name="IsHot"          type="int8"    cname="是否热卖"  desc="是否热卖"/>
+        <entry name="IsNew"          type="int8"    cname="是否新品"  desc="是否新品"/>
+        <entry name="ItemID"         type="int"     cname="物品ID"    desc="物品ID"/>
+        <entry name="HeroResID"      type="int"     cname="英雄ID"    desc="英雄ID"/>
+        <entry name="SkinResID"      type="int"     cname="皮肤ID"    desc="皮肤ID"/>
+        <entry name="BuyWay"         type="ResShopBuyWayDesc"     count="RES_SHOP_BUY_WAY_MAX" cname="购买方式"    desc="购买方式"/>
+        <entry name="LimitCount"     type="int16"   cname="限购数量"    desc="限购数量"/>
+        <entry name="LimitType"      type="int8"    cname="限购周期"    desc="限购周期"/>
+        <entry name="SellStartTime"  type="string"      size="MAX_DATE_LEN"     cname="上架时间"        desc="上架时间"/>
+        <entry name="SellEndTime"    type="string"      size="MAX_DATE_LEN"     cname="下架时间"        desc="下架时间"/>
+        <entry name="ShowAlways"     type="int8"    cname="是否始终显示"    desc="是否始终显示"/>
+		<entry name="AcquireWay"     type="int8"    cname="获取方式"        desc="获取方式"/>
+		<entry name="UISkipType"     type="int8"    cname="跳转"            desc="跳转"/>
+		<entry name="IsValid"        type="int8"    cname="是否生效"        desc="是否生效"/>
+    </struct>   
+	
+	
+	 <!-- ==================录像推荐配置表================== -->
+	
+	<macro name="RES_HOTREPLAYS_VIEW_MAX" value="5"  desc="观看与点赞最大最大数量" />
+	
+	 <struct name="ResHotReplaysView" version="1" desc="观看与点赞放大参数" >
+        <entry name="Num"       type="int"     cname="人数区间"    desc="人数区间"/>
+        <entry name="Coef"      type="int"      cname="放大系数"        desc="放大系数"/>
+    </struct>
+	
+	 <struct name="ResHotReplays" version="1" sortkey="ID" desc="推荐录像配置表" >
+        <entry name="ID"             type="int"     cname="ID"    desc="ID"/>
+        <entry name="RaceReplaysCnt"          type="int"    cname="种族录像数量"      desc="种族录像数量"/>
+		<entry name="AverageRankLevel"		  type="int"	cname="平均段位等级"		desc="平均段位等级"/>
+        <entry name="AvgWinRate"          type="int"   cname="平均胜率"  desc="平均胜率（百分比）"/>
+        <entry name="RecCnt"          type="int"    cname="玩家同时被推荐录像数量"  desc="玩家同时被推荐录像数量"/>
+        <entry name="SaveTime"         type="int"     cname="录像保存时间"    desc="录像保存时间（分）"/>
+        <entry name="LikeAddTime"      type="int"     cname="点赞增加时间"    desc="点赞增加时间"/>
+        <entry name="LikeNum"      type="int"     cname="点赞人数"    desc="点赞人数"/>
+        <entry name="HotReplaysView"         type="ResHotReplaysView"     count="RES_HOTREPLAYS_VIEW_MAX" cname="观看与点赞"    desc="观看与点赞"/>
+		<entry name="RandomMin"		type="int"			cname="观看与点赞增加随机数最小值" 	desc="观看与点赞增加随机数最小值"/>
+		<entry name="RandomMax"		type="int"			cname="观看与点赞增加随机数最大值"		desc="观看与点赞增加随机数最大值"/>
+    </struct>   
+	
+	
+	
+	 <!-- ==================系统抽奖================== -->
+	
+	<macro name="RES_SYSTEMLOTTERY_VIEWITEMCNT" value="10"  desc="系统抽奖奖励显示数目" />
+	<macro name="RES_SYSTEMLOTTERY_GROUPCNT" value="5"  desc="系统抽奖奖品组数目" />
+	<macro name="RES_SYSTEMLOTTERY_GROUPITEMCNT" value="20"  desc="系统抽奖奖品组奖品数目" />
+	
+	 <struct name="ResLotteryDesc" version="1" sortkey="ID" desc="抽奖全局表" >
+        <entry name="ID"            type="int"     cname="系统抽奖类型"    desc="系统抽奖类型"/>
+		<entry name="UITips"        type="string"  size="MAX_DESC_LEN"    cname="界面提示"    desc="界面提示"/>
+        <entry name="CostItemID"  	type="int"    cname="抽取消耗物品ID"  desc="抽取消耗物品ID"/>
+		<entry name="CostItemCnt"  	type="int"    cname="抽取消耗物品数量"  desc="抽取消耗物品数量"/>
+		<entry name="CDTime"   		type="int"    cname="抽取免费CD(秒)"   desc="抽取免费CD(秒)"/>
+	
+        <entry name="RewardItemIDs"    type="int"     count="RES_SYSTEMLOTTERY_VIEWITEMCNT" cname="奖励物品ID"   desc="奖励物品ID"/>
+		
+    </struct>   
+	
+
+	 <struct name="ResLotteryProbOne" version="1" desc="奖品组" >
+        <entry name="ID"       type="int"     cname="ID"    desc="ID"/>
+        <entry name="Random"   type="int"      cname="概率"        desc="概率"/>
+    </struct>
+	
+	 <struct name="ResLotteryProbDesc" version="1" sortkey="ID" desc="抽奖概率组表" >
+		<entry name="ID"            type="int"     cname="ID"    desc="ID"/>
+        <entry name="LotteryType"            type="int8"     cname="系统抽奖类型"    desc="系统抽奖类型"/>
+        <entry name="GroupProb"  	type="int8"    cname="是否嵌套概率"  desc="是否嵌套概率"/>
+        <entry name="Groups"    type="ResLotteryProbOne"     count="RES_SYSTEMLOTTERY_GROUPCNT" cname="奖品组"   desc="奖品组"/>
+		
+    </struct>   
+	
+	
+	 <struct name="ResLotteryGroupDesc" version="1" sortkey="ID" desc="抽奖奖品组表" >
+		<entry name="ID"            type="int"     cname="奖品组ID"    desc="奖品组ID"/>
+        <entry name="GroupProb"  	type="int8"    cname="是否嵌套概率"  desc="是否嵌套概率"/>
+        <entry name="Groups"    type="ResLotteryProbOne"     count="RES_SYSTEMLOTTERY_GROUPITEMCNT" cname="奖品"   desc="奖品"/>
+		
+    </struct>  
+	
+	<struct name="ResLotteryItemDesc" version="1" sortkey="ID" desc="奖品道具表" >
+		<entry name="ID"            type="int"     cname="奖品ID"    desc="奖品ID"/>
+        <entry name="ItemID"        type="int"     cname="关联道具ID"    desc="关联道具ID"/>
+        <entry name="ItemCnt"  		type="int"    cname="关联道具数目"  desc="关联道具数目"/>
+		
+       <entry name="Shop"           type="int8"     cname="是否上架"    desc="是否上架"/>
+	   <entry name="Broadcast"      type="int8"     cname="是否广播"    desc="是否广播"/>
+		
+    </struct>  
+	
+	<!-- ==================活动================== -->
+	<macro name="RES_ACTIVITY_DURATION_PARAMCNT" value="3"  desc="活动时间参数个数" />
+	<macro name="RES_ACTIVITY_QUEST_REWARDCNT" value="4"  desc="活动任务奖励个数" />
+	<macro name="RES_ACTIVITY_COUNTER_PARAMCNT" value="2"  desc="活动任务目标参数个数" />
+	
+	<struct name="ResActivityDesc" version="1" sortkey="ID" desc="活动表" >
+		<entry name="ID"            type="int"     cname="活动ID"    	    desc="活动ID"/>
+		<entry name="AcquireType"   type="int8"    cname="活动获得类型"    desc="活动获得类型"/>
+		<entry name="DurationType"  type="int8"    cname="活动时间类型"    desc="活动时间类型"/>
+		<entry name="DurationParam" type="int"     count="RES_ACTIVITY_DURATION_PARAMCNT" cname="活动时间参数"    desc="活动时间参数"/>
+	</struct>
+	
+	<struct name="ResActivityQuestDesc" version="1" sortkey="ID" desc="活动任务表" >
+		<entry name="ID"            type="int"     cname="活动任务ID"      desc="活动任务ID"/>
+		<entry name="ActivityID"    type="int"     cname="活动ID"          desc="活动ID"/>
+		<entry name="CounterID"     type="int"     cname="计数器ID"        desc="计数器ID"/>
+		<entry name="TargetCount"   type="int"     cname="目标计数"        desc="目标计数"/>
+		<entry name="Reward"        type="ItemReward"    count="RES_ACTIVITY_QUEST_REWARDCNT" cname="奖励"        desc="奖励"/>
+	</struct>
+	
+	<struct name="ResActivityCounterDesc" version="1" sortkey="ID" desc="活动计数器表" >
+		<entry name="ID"            type="int"      cname="活动计数器ID"     desc="活动计数器ID"/>
+		<entry name="Type"          type="int8"     cname="类型"             desc="类型"/>
+		<entry name="Param"         type="int"      count="RES_ACTIVITY_COUNTER_PARAMCNT"     cname="参数" desc="参数"/>
+		<entry name="NeedAct"       type="int8"     cname="触发行为"         desc="触发行为"/>
+		<entry name="ActParam"      type="int"      cname="行为参数"         desc="行为参数"/>
+		<entry name="ResetType"     type="int8"     cname="重置类型"         desc="重置类型"/>
+	</struct>
+	
+	<struct name="ResActivityExchangeDesc" version="1" sortkey="ID" desc="活动兑换表" >
+		<entry name="ID"               type="int"     cname="兑换ID"         desc="兑换ID"/>
+		<entry name="ActivityID"       type="int"     cname="活动ID"         desc="活动ID"/>
+		<entry name="NeedItemID"       type="int"     cname="需求物品ID"     desc="需求物品ID"/>
+		<entry name="NeedItemCount"    type="int"     cname="需求物品数量"   desc="需求物品数量"/>
+		<entry name="TargetItemID"     type="int"     cname="兑换物品ID"     desc="兑换物品ID"/>
+		<entry name="TargetItemCount"  type="int"     cname="兑换物品数量"   desc="兑换物品数量"/>
+		<entry name="LimitCount"       type="int"     cname="兑换限制次数"   desc="兑换限制次数"/>
+	</struct>
+	
+	<!--==========================战旗系统=================================-->
+	<macro name="RES_RANDOM_ATTRIBUTE_COUNT" value="7" desc="随机属性数组长度"/>
+	<macro name="RES_CONSUME_MONNEY_COUNT"  value="2" desc="消耗货币数组长度"/>
+	<macro name="RES_HERO_RUNE_RECOMMEND_COUNT" value="15" desc="英雄战旗推荐长度"/>
+	<macro name="RES_RACE_RUNE_RECOMMEND_COUNT" value="15" desc="种族战旗推荐长度"/>
+	<macro name="RES_UNLOCK_RUNE_PAGE_MONNEY_COUNT"  value="1" desc="消耗货币数组长度"/>
+	<macro name="RES_SKIN_ITEM_COUNT"  value="6" desc="大厅宝箱皮肤体验数量"/>
+	
+	
+	<struct name="ResRandomAttribute" version="1" desc="随机属性组">
+		<entry name="AttrType"   type="int"  cname="属性类型"  desc="属性类型"/>
+		<entry name="AttrAddType" type="int8"   cname="属性加成类型"  desc="属性加成类型"/>
+		<entry name="Probability"  type="int"  cname="概率"  desc="随机概率"/>
+		<entry name="MinValue"   type="int"  cname="极小值"   desc="极小值"/>
+		<entry name="MaxValue"   type="int"  cname="极大值"   desc="极大值"/>
+	</struct>
+
+	<struct name="ResHeroRuneDesc" version="1"  sortkey="ResID" desc="英雄战旗属性" >
+		<entry name="ResID"   type="int"   cname="战旗id"   desc="战旗id"/>
+		
+		<entry name="RuneName_SCN"  type="string"  size="MAX_NAME_LEN"  cname="战旗名称_简中"  desc="战旗名称_简中"/>
+		<entry name="RuneName_FCN"  type="string"  size="MAX_NAME_LEN"  cname="战旗名称_繁中"  desc="战旗名称_繁中"/>
+		<entry name="RuneName_EN"  type="string"  size="MAX_NAME_LEN"  cname="战旗名称_英文"  desc="战旗名称_英文"/>
+		
+		<entry name="RuneRule_SCN"  type="string"  size="MAX_DESC_LONGLEN"  cname="属性生成规则_简中"  desc="属性生成规则_简中"/> 
+		<entry name="RuneRule_FCN"  type="string"  size="MAX_DESC_LONGLEN"  cname="属性生成规则_繁中"  desc="属性生成规则_繁中"/> 
+		<entry name="RuneRule_EN"  type="string"  size="MAX_DESC_LONGLEN"  cname="属性生成规则_英文"  desc="属性生成规则_英文"/> 
+		
+		<entry name="RuneIcon"  type="string"  size="MAX_RES_PATH_LEN"  cname="战旗图标"  desc="战旗图标"/> 
+		<entry name="RuneLevel"  type="int"   cname="战旗等级"  desc="战旗等级"/>
+		<entry name="RuneType"  type="int"   cname="镶嵌类型"   desc="镶嵌类型"/>
+		<entry name="DecomposeNum" type="int"   cname="分解数目"  desc="分解数目"/>
+		<entry name="SynthesisNum" type="int"   cname="合成数目"  desc="合成数目"/>
+		<entry name="RuneAttrType" type="int8"   cname="符文属性类型"  desc="符文属性类型"/>
+		<entry name="FixAttrType" 	 type="int"   cname="固定属性类型"  desc="固定属性类型"/>
+		<entry name="AttrAddType" type="int8"   cname="属性加成类型"  desc="属性加成类型"/>
+		<entry name="AttributeValue" type="int"  cname="属性值"   desc="属性值"/>
+		<entry name="RandomAttributeNum" type="int8"   cname="随机属性条数"  desc="随机属性条数"/>
+		<entry name="RandomAttribute" type="ResRandomAttribute" count="RES_RANDOM_ATTRIBUTE_COUNT" cname="随机属性" desc="随机属性"/>
+	</struct>
+
+	<struct name="ResRaceRuneDesc" version="1" sortkey="ResID" desc="种族战旗属性" >
+		<entry name="ResID"   type="int"   cname="战旗id"   desc="战旗id"/>
+		
+		<entry name="RuneName_SCN"  type="string"  size="MAX_NAME_LEN"  cname="战旗名称_简中"  desc="战旗名称_简中"/>
+		<entry name="RuneName_FCN"  type="string"  size="MAX_NAME_LEN"  cname="战旗名称_繁中"  desc="战旗名称_繁中"/>
+		<entry name="RuneName_EN"  type="string"  size="MAX_NAME_LEN"  cname="战旗名称_英文"  desc="战旗名称_英文"/>
+		
+		<entry name="RuneRule_SCN"  type="string"  size="MAX_DESC_LONGLEN"  cname="属性生成规则_简中"  desc="属性生成规则_简中"/> 
+		<entry name="RuneRule_FCN"  type="string"  size="MAX_DESC_LONGLEN"  cname="属性生成规则_繁中"  desc="属性生成规则_繁中"/> 
+		<entry name="RuneRule_EN"  type="string"  size="MAX_DESC_LONGLEN"  cname="属性生成规则_英文"  desc="属性生成规则_英文"/> 
+			
+		<entry name="RuneIcon"  type="string"  size="MAX_RES_PATH_LEN"  cname="战旗图标"  desc="战旗图标"/> 
+
+		<entry name="RuneLevel"  type="int"   cname="战旗等级"  desc="战旗等级"/>
+		<entry name="RuneType"  type="int"   cname="镶嵌类型"   desc="镶嵌类型"/>
+		<entry name="DecomposeNum" type="int"   cname="分解数目"  desc="分解数目"/>
+		<entry name="SynthesisNum" type="int"   cname="合成数目"  desc="合成数目"/>
+		<entry name="RuneAttrType" type="int8"   cname="符文属性类型"  desc="符文属性类型"/>
+		<entry name="FixAttrType" 	 type="int"   cname="固定属性类型"  desc="固定属性类型"/>
+		<entry name="AttrAddType" type="int8"   cname="属性加成类型"  desc="属性加成类型"/>
+		<entry name="AttributeValue" type="int"  cname="属性值"   desc="属性值"/>
+		<entry name="RandomAttributeNum" type="int8"   cname="随机属性条数"  desc="随机属性条数"/>
+		<entry name="RandomAttribute" type="ResRandomAttribute" count="RES_RANDOM_ATTRIBUTE_COUNT" cname="随机属性" desc="随机属性"/>
+	</struct>
+
+	<struct name="ResMoneyConsume" version="1"  desc="货币消耗">
+		<entry name="Type"  type="int"   cname="类型"  desc="消耗货币类型"/>
+		<entry name="Num"  type="int"   cname="数目"  desc="消耗货币数目"/>
+	</struct>
+
+	<struct name="ResHeroRunePageDesc" version="1" sortkey="ResID" desc="英雄战旗镶嵌">
+		<entry name="ResID"   type="int"   cname="格子id"  desc="格子id"/>
+		<entry name="RuneType"  type="int"   cname="镶嵌类型"  desc="镶嵌类型"/>
+		<entry name="UnlockLevel" type="int"   cname="开启等级" desc="开启等级"/>
+		<entry name="MoneyConsume" type="ResMoneyConsume"  count="RES_CONSUME_MONNEY_COUNT"  cname="消耗货币" desc="消耗货币"/>
+	</struct>
+
+	<struct name="ResRaceRunePageDesc" version="1"  sortkey="ResID" desc="种族战旗镶嵌">
+		<entry name="ResID"   type="int"   cname="格子id"  desc="格子id"/>
+		<entry name="RuneType"  type="int"   cname="镶嵌类型"  desc="镶嵌类型"/>
+		<entry name="UnlockLevel" type="int"   cname="开启等级" desc="开启等级"/>
+		<entry name="MoneyConsume" type="ResMoneyConsume"  count="RES_CONSUME_MONNEY_COUNT"  cname="消耗货币" desc="消耗货币"/>
+	</struct>
+	
+	<struct name="ResHeroRuneRecommendDesc" version="1"  sortkey="ResID" desc="英雄战旗推荐" >
+		<entry name="ResID"   type="int"   cname="序号"   desc="序号"/>
+		<entry name="HeroID"   type="int"   cname="英雄id"   desc="英雄id"/>
+		<entry name="RuneLvl"   type="int"   cname="符文等级"   desc="符文等级"/>
+		<entry name="RuneIndex"   type="int"   cname="推荐序号"   desc="推荐序号"/>
+		
+		<entry name="Detail_SCN"  type="string"  size="MAX_SERVER_PARAM_LEN"  cname="简介_简中"  desc="简介_简中"/>
+		<entry name="Detail_FCN"  type="string"  size="MAX_SERVER_PARAM_LEN"  cname="简介_繁中"  desc="简介_繁中"/>
+		<entry name="Detail_EN"  type="string"  size="MAX_SERVER_PARAM_LEN"  cname="简介_英文"  desc="简介_英文"/>
+		
+		<entry name="RuneConfigId" type="int"  count="RES_HERO_RUNE_RECOMMEND_COUNT"  cname="战旗id" desc="战旗id"/>
+	</struct>
+
+	<struct name="ResRaceRuneRecommendDesc" version="1"  sortkey="ResID" desc="种族战旗推荐" >
+		<entry name="ResID"   type="int"   cname="序号"   desc="序号"/>
+		<entry name="RuneLvl"   type="int"   cname="符文等级"   desc="符文等级"/>
+		
+		<entry name="Detail_SCN"  type="string"  size="MAX_SERVER_PARAM_LEN"  cname="简介_简中"  desc="简介_简中"/>
+		<entry name="Detail_FCN"  type="string"  size="MAX_SERVER_PARAM_LEN"  cname="简介_繁中"  desc="简介_繁中"/>
+		<entry name="Detail_EN"  type="string"  size="MAX_SERVER_PARAM_LEN"  cname="简介_英文"  desc="简介_英文"/>
+		
+		<entry name="RuneConfigId" type="int"  count="RES_RACE_RUNE_RECOMMEND_COUNT"  cname="战旗id" desc="战旗id"/>
+	</struct>
+
+	<struct name="ResHeroRunePageUnlock" version="1"  sortkey="ResID" desc="英雄战旗页开启" >
+		<entry name="ResID"   type="int"   cname="战旗页ID"   desc="战旗页ID"/>
+		
+		<entry name="Name_SCN"  type="string"  size="MAX_NAME_LEN"  cname="战旗页名称_简中"  desc="战旗页名称_简中"/>
+		<entry name="Name_FCN"  type="string"  size="MAX_NAME_LEN"  cname="战旗页名称_繁中"  desc="战旗页名称_繁中"/>
+		<entry name="Name_EN"  type="string"  size="MAX_NAME_LEN"  cname="战旗页名称_英文"  desc="战旗页名称_英文"/>
+		
+		<entry name="IsDefultUnLock"          type="int8"    cname="是否默认开启"  desc="是否默认开启"/>
+		<entry name="MoneyConsume" type="ResMoneyConsume"      cname="消耗货币" desc="消耗货币"/>
+	</struct>
+
+	<struct name="ResRaceRunePageUnlock" version="1"  sortkey="ResID" desc="种族战旗页开启" >
+		<entry name="ResID"   type="int"   cname="战旗页ID"   desc="战旗页ID"/>
+		
+		<entry name="Name_SCN"  type="string"  size="MAX_NAME_LEN"  cname="战旗页名称_简中"  desc="战旗页名称_简中"/>
+		<entry name="Name_FCN"  type="string"  size="MAX_NAME_LEN"  cname="战旗页名称_繁中"  desc="战旗页名称_繁中"/>
+		<entry name="Name_EN"  type="string"  size="MAX_NAME_LEN"  cname="战旗页名称_英文"  desc="战旗页名称_英文"/>
+		
+		<entry name="IsDefultUnLock"          type="int8"    cname="是否默认开启"  desc="是否默认开启"/>
+		<entry name="MoneyConsume" type="ResMoneyConsume"      cname="消耗货币" desc="消耗货币"/>
+	</struct>
+	
+	<struct name="ResChargeBack" version="1"  sortkey="ResID" desc="付费测试充值返还" >
+	    <entry name="ResID"   type="int"   cname="ID"   desc="ID"/>
+		<entry name="Username"   type="string"   size="MAX_DESC_LEN"  cname="玩家渠道名"  desc="玩家渠道名"/>
+		<entry name="Charge"   type="int"   cname="充值"   desc="充值"/>
+		<entry name="Back"   type="int"   cname="返还"   desc="返还"/>
+	</struct>
+	
+	<struct name="ResHallBox" version="1"  sortkey="ResID" desc="大厅宝箱表" >
+	    <entry name="ResID"   type="int"   cname="ID"   desc="ID"/>
+		
+		<entry name="BoxName_SCN"   type="string"   size="MAX_DESC_LEN"  cname="宝箱名称_简中"  desc="宝箱名称_简中"/>
+		<entry name="BoxName_FCN"   type="string"   size="MAX_DESC_LEN"  cname="宝箱名称_繁中"  desc="宝箱名称_繁中"/>
+		<entry name="BoxName_EN"   type="string"   size="MAX_DESC_LEN"  cname="宝箱名称_英文"  desc="宝箱名称_英文"/>
+		
+		<entry name="Layer"   type="int"   cname="领取层数"   desc="领取层数"/>
+		<entry name="MaxPoint"   type="int"   cname="最大进度积分"   desc="最大进度积分"/>
+		<entry name="CoolDown"   type="int"  cname="领取CD间隔"  desc=" 领取CD间隔"/>
+		<entry name="HeroRune"   type="int"   cname="英雄战旗碎片"   desc="英雄战旗碎片"/>
+		<entry name="RaceRune"   type="int"   cname="种族战旗碎片"   desc="种族战旗碎片"/>
+		<entry name="Diamond"   type="int"   cname="魂石"   desc="魂石"/>
+		<entry name="Gold"   type="int"   cname="金币"   desc="金币"/>
+		<entry name="RandomItemID"   type="int"   cname="随机道具ID"   desc="随机道具ID"/>
+		<entry name="RandomItemNum"   type="int"   cname="随机道具数量"   desc="随机道具数量"/>
+		<entry name="RandomItemRate"   type="int"   cname="随机道具概率"   desc="随机道具概率"/>
+		<entry name="RandomItemMaxCount"   type="int"   cname="随机道具必出次数"   desc="随机道具必出次数"/>
+		<entry name="SkinItems"   type="int"  count="RES_SKIN_ITEM_COUNT" cname="皮肤体验卡"   desc="皮肤体验卡"/>
+		<entry name="RandomRuneLevel"   type="int"   cname="随机战旗等级"   desc="随机战旗等级"/>
+	</struct>
+
+	<!--==========================多语言key=================================-->
+	
+	<struct name="ResSystemLanguageDesc" version="1" sortkey="ID" desc="多语言ID">
+		<entry name="ID" type="int" cname="ID" desc="ID"/>
+		<entry name="SCN" type="string" size="5120" cname="简体中文" desc="任务名称_简中"/>
+		<entry name="EN" type="string" size="5120" cname="英文" desc="任务名称_英文"/>
+		<entry name="FCN" type="string" size="5120" cname="繁体中文" desc="任务名称_繁中"/>
+		
+	</struct>
+	
+	<struct name="ResServerErrorKeyDesc" version="1" sortkey="ID" desc="服务器错误码">
+		<entry name="ID" type="int" cname="序号" desc="序号"/>
+		<entry name="Key" type="string" size="MAX_DESC_LONGLEN" cname="关键字" desc="关键字"/>
+		<entry name="SCN" type="string" size="MAX_DESC_LONGLEN" cname="简体中文" desc="任务名称_简中"/>
+		<entry name="EN" type="string" size="MAX_DESC_LONGLEN" cname="英文" desc="任务名称_英文"/>
+		<entry name="FCN" type="string" size="MAX_DESC_LONGLEN" cname="繁体中文" desc="任务名称_繁中"/>
+		
+	</struct>
+
+
+  </metalib>

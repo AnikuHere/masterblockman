@@ -1,0 +1,2176 @@
+<?xml version="1.0" encoding="GBK" standalone="yes" ?>
+<metalib tagsetversion="1" name="MobaResDBMeta" version="1" >
+
+  <macro cname="是" value="1" name="RES_YES" desc="是"/>
+  <macro cname="否" value="0" name="RES_NO" desc="否"/>
+
+  <macro cname="有" value="1" name="RES_HAVE" desc="有"/>
+  <macro cname="无" value="0" name="RES_NOTHING" desc="无"/>
+
+  <macro cname="能" value="1" name="CAN" />
+  <macro cname="不能" value="0" name="CANNOT" />
+  
+  <macro cname="类型最大值" value="1" name="RES_MAX" />
+  <macro cname="类型最小值" value="0" name="RES_MIN" />
+
+  <macro cname="显示" value="1" name="VISIBLE" />
+  <macro cname="隐藏" value="0" name="UNVISIBLE" />
+
+  <macro cname="全性别" value="0" name="ALLSEX" />
+  <macro cname="男" value="1" name="MALE" />
+  <macro cname="女" value="2" name="FEMALE" />
+
+  <macrosgroup name="ResDataOperate" desc="数据操作类型">
+    <macro cname="固定数值" value="1" name="ResDataOperate_INT" desc="固定数值" />
+    <macro cname="万分比" value="2" name="ResDataOperate_10K" desc="万分比" />
+  </macrosgroup> 
+  
+  <macrosgroup name="ResDataSet" desc="数据操作类型">
+    <macro cname="数据覆盖" value="0" name="RESDATASET_SET" desc="数据覆盖" />
+    <macro cname="数据加法" value="1" name="RESDATASET_ADD" desc="数据加法" />
+    <macro cname="数据减法" value="2" name="RESDATASET_SUB" desc="数据减法" />
+  </macrosgroup> 
+  
+  <macrosgroup name="ATTRADDTYPE" desc="属性加成类型">
+    <macro cname="基础属性" value="1" name="ATTRADD_BASE" desc="基础属性" />
+    <macro cname="加成属性" value="2" name="ATTRADD_UPADD" desc="加成属性(固定数值)" />
+	<macro cname="基础属性乘法" value="3" name="ATTRADD_BASEMUL" desc="基础属性乘法(万分比)" />
+	<macro cname="加成属性乘法" value="4" name="ATTRADD_UPADDMUL" desc="加成属性乘法(万分比)" />
+	<macro cname="所有属性乘法" value="5" name="ATTRADD_ALLMUL" desc="所有属性乘法(万分比)" />
+  </macrosgroup> 
+  
+   <macrosgroup name="ATTRDATATYPE" desc="属性数值类型">
+    <macro cname="当前最大生命值" value="1" name="ATTRDATA_HPMAX" desc="当前最大生命值(固定值)" />
+    <macro cname="当前生命值" value="2" name="ATTRHPDATA_HPCUR" desc="当前生命值(固定值)" />
+	<macro cname="损失生命值" value="3" name="ATTRHPDATA_HPLOSE" desc="损失生命值(固定值)" />
+	<macro cname="损失生命值万分比" value="4" name="ATTRHPDATA_HPLOSEPRECENT" desc="损失生命值万分比" />
+	<macro cname="当前最大法术值" value="5" name="ATTRDATA_MMAX" desc="当前最大法术值(固定值)" />
+    <macro cname="当前法术值" value="6" name="ATTRHPDATA_MCUR" desc="当前法术值(固定值)" />
+	<macro cname="损失法术值" value="7" name="ATTRHPDATA_MLOSE" desc="损失法术值(固定值)" />
+  </macrosgroup> 
+
+  <macrosgroup name="LOGICOPTTYPE" desc="逻辑运算符">
+  	<macro cname="小于" 	value="0" 	name="LOGICOPT_LESS" 		desc="小于" />
+  	<macro cname="小于等于" value="1" 	name="LOGICOPT_LESS_EQ" 	desc="小于等于" />
+  	<macro cname="大于" 	value="2" 	name="LOGICOPT_GREAT" 		desc="大于" />
+  	<macro cname="大于等于" value="3" 	name="LOGICOPT_GREAT_EQ" 	desc="大于等于" />
+  	<macro cname="等于" 	value="4" 	name="LOGICOPT_EQUAL" 		desc="等于" />
+    <macro cname="不等于"   value="5"   name="LOGICOPT_NOT_EQUAL"     desc="不等于" />
+  	<macro cname="逻辑与" 	value="6" 	name="LOGICOPT_AND" 		desc="逻辑与" />
+  	<macro cname="逻辑或" 	value="7" 	name="LOGICOPT_OR" 			desc="逻辑或" />
+  </macrosgroup>  
+  
+  <!--种族-->
+  <macrosgroup name="RaceType" desc="种族">
+	<macro cname="中立种族" value="0" 	name="RACE_NEUTRAL" 	desc="中立种族" />
+    <macro cname="人族" 	value="1" 	name="RACE_HUMAN" 	desc="人族" />
+    <macro cname="兽族" 	value="2" 	name="RACE_ORC" 	desc="兽族" />
+	<macro cname="亡灵" 	value="3" 	name="RACE_GHOST" 	desc="亡灵" />
+	<macro cname="精灵" 	value="4" 	name="RACE_ELF" 	desc="精灵" />
+	
+	<macro cname="种族最大值" 	value="5" 	name="RACE_MAX" 		desc="种族最大值" />
+  </macrosgroup> 
+  
+  <macrosgroup name="LegionType" desc="军团类型">
+    <macro cname="中立军团" 	value="0" 	name="LEGION_NEUTRAL" 	desc="中立军团" />
+	<macro cname="正义军团" 	value="1" 	name="LEGION_JUSTICE" desc="正义军团" />
+    <macro cname="邪恶军团" 	value="2" 	name="LEGION_EVIL" 	desc="邪恶军团" />
+	<macro cname="军团最大值" 	value="3" 	name="LEGION_MAX" 		desc="军团最大值" />
+  </macrosgroup> 
+  
+  
+  <!--英雄-->
+  <macrosgroup name="ResHeroCapacityType" desc="英雄能力类别">
+    <macro cname="战士" value="1" name="ResHeroCapatyType_FIGHTER" desc="战士" />
+    <macro cname="法师" value="2" name="ResHeroAttrType_MAGE" desc="法师" />
+    <macro cname="辅助"   value="3" name="ResHeroAttrType_SUP" desc="辅助" />
+    <macro cname="射手"   value="4" name="ResHeroAttrType_SHOOTER" desc="射手" />
+	<macro cname="坦克"   value="5" name="ResHeroAttrType_TANK" desc="坦克" />
+	<macro cname="能力类别Max"    value="6" name="ResHeroAttrType_MAX" desc="Max"  />
+  </macrosgroup>
+
+   <macrosgroup name="ResWeaponType" desc="武器类型">
+    <macro cname="近战" value="0" name="RESWEAPONTYPE_DISTANCE" />
+    <macro cname="远程" value="1" name="RESWEAPONTYPE_LONGDISTANCE" />
+  </macrosgroup>
+  
+  <macrosgroup name="BattleTeamType" desc="队伍类型">
+    <macro cname="白方队伍" value="0" name="WHITE" desc="白方队伍" />
+	<macro cname="红方队伍" value="1" name="RED" desc="红方队伍" />
+    <macro cname="蓝方队伍" value="2" name="BLUE" desc="蓝方队伍" />
+	<macro cname="紫方队伍" value="3" name="PURPLE" desc="紫方队伍" />
+	<macro cname="绿方队伍" value="4" name="GREEN" desc="绿方队伍" />
+	<macro cname="粉方队伍" value="5" name="PINK" desc="粉方队伍" />
+	<macro cname="黄方队伍" value="6" name="YELLOW" desc="黄方队伍" />
+	<macro cname="队伍数量" value="7" name="TEAM_MAX" desc="队伍数量" />
+  </macrosgroup>
+  
+  <macrosgroup name="TeamLegionType" desc="阵营类型">
+	<macro cname="阵营友军" value="0" name="LEGION_FRIEND" desc="阵营友军" />
+    <macro cname="阵营敌军" value="1" name="LEGION_ENEMY" desc="阵营敌军" />
+	<macro cname="所有阵营单位" value="2" name="LEGION_ALLL" desc="所有阵营单位" />
+  </macrosgroup>
+  
+  <macrosgroup name="BattleActorType" desc="单位类型">
+	<macro cname="普通单位" value="0" name="COMMON" desc="普通单位" />
+    <macro cname="英雄" value="1" name="HERO" desc="英雄" />
+    <macro cname="士兵" value="2" name="DOGFACE" desc="士兵" />
+	<macro cname="野怪"   value="3" name="MONSTER" desc="野怪" />
+	<macro cname="防御塔"   value="4" name="TOWER" desc="防御塔" />
+	<macro cname="金矿"   value="5" name="GOLDMINE" desc="金矿" />
+	<macro cname="基地"   value="6" name="BASE" desc="基地" />
+	<macro cname="副基地"   value="7" name="SUBBASE" desc="副基地" />
+	<macro cname="静止陷阱"   value="8" name="STASISTRAP" desc="静止陷阱" />
+	<macro cname="场景物件"   value="9" name="SCENEOBJECT" desc="场景物件" />
+	<macro cname="跟宠"   value="10" name="ACTORPET" desc="跟宠" />	
+	<macro cname="机械单位"   value="11" name="MECHINE" desc="机械单位" />	
+	<macro cname="场景传送门"   value="12" name="TRANSFERDOOR" desc="场景传送门" />	
+    <macro cname="单位类型MAX"    value="13" name="ACTORTYPE_MAX" desc="MAX"  />
+  </macrosgroup>
+  
+   <macrosgroup name="BattleActorSubType" desc="单位子类型">
+    <macro cname="无类型" value="0" name="SUBTYPE_NONE" desc="无类型" />
+	<macro cname="科技建造士兵" value="1" name="SUBTYPE_TECHDOGFACE" desc="科技建造士兵" />
+	<macro cname="魅惑符咒士兵" value="2" name="SUBTYPE_CHARMDOGFACE" desc="魅惑符咒士兵" />
+	<macro cname="野外泉水" value="3" name="SUBTYPE_WILD_SPRING" desc="野外泉水" />
+	<macro cname="回血蓝符" value="4" name="SUBTYPE_HPMP_RUNE" desc="回血蓝符" />
+	<macro cname="野怪精英_大龙" value="5" name="SUBTYPE_BIGDRAGON" desc="野怪精英_大龙" />
+	<macro cname="野怪精英_小龙" value="6" name="SUBTYPE_SMALLDRAGON" desc="野怪精英_小龙" />
+	<macro cname="侦查守卫" value="7" name="SUBTYPE_WARD" desc="侦查守卫" />
+	<macro cname="治疗守卫" value="8" name="SUBTYPE_RELIFE" desc="治疗守卫" />
+	<macro cname="大龙召唤物" value="9" name="SUBTYPE_SUMMONEDBIGDRAGON" desc="大龙召唤物" />
+	<macro cname="英雄技能陷阱" value="10" name="SUBTYPE_HEROTRAP" desc="英雄技能陷阱" />
+	<macro cname="队伍灵魂控制者" value="11" name="SUBTYPE_TEAMGROUPGHOST" desc="队伍灵魂控制者" />
+	<macro cname="野怪精英_泰坦" value="12" name="SUBTYPE_BIGTITAN" desc="野怪精英_泰坦" />
+	<macro cname="野怪精英_小泰坦" value="13" name="SUBTYPE_SMALLTITAN" desc="野怪精英_小泰坦" />	
+  </macrosgroup>
+  
+  <macrosgroup name="BattleActorSummonedType" desc="召唤物类型">
+    <macro cname="非召唤物" value="0" name="BATTLEACTORSUMMONEDTYPE_NONE" desc="非召唤物" />
+	<macro cname="生物召唤物" value="1" name="BATTLEACTORSUMMONEDTYPE_CREATURES" desc="生物召唤物" />
+	<macro cname="静止召唤物" value="2" name="BATTLEACTORSUMMONEDTYPE_STILL" desc="静止召唤物" />
+	<macro cname="魅惑符咒召唤物" value="3" name="BATTLEACTORSUMMONEDTYPE_CHARM" desc="魅惑符咒召唤物(不可驱散)" />
+  </macrosgroup>
+  
+   <macrosgroup name="BattleDeadBodyType" desc="尸体类型">
+    <macro cname="单位死亡尸体" value="0" name="BATTLEDEADBODYTYOE_ACTOR" desc="单位死亡尸体" />
+	<macro cname="载具召唤尸体" value="1" name="BATTLEDEADBODYTYOE_CARRY" desc="载具召唤尸体" />
+	<macro cname="腐地召唤尸体" value="2" name="BATTLEDEADBODYTYOE_UDSPAWN" desc="腐地召唤尸体" />
+  </macrosgroup>
+  
+  <macrosgroup name="BattleRusult" desc="战斗结果类型">
+	<macro cname="无结果" value="0" name="RESULT_NONE" desc="无结果" />
+    <macro cname="正义胜利" value="1" name="JUSTICE_WIN" desc="正义胜利" />
+	<macro cname="邪恶胜利" value="2" name="EVIL_WIN" desc="邪恶胜利" />
+	<macro cname="平局" value="3" name="NO_WIN" desc="平局" />
+  </macrosgroup>
+  
+  <!--护甲-->
+  <macrosgroup name="ArmorType" desc="护甲类型">
+	<macro cname="轻型护甲"  		value="0" name="ARMORTYPE_LIGHT" desc="轻型护甲"  />
+	<macro cname="中型护甲"  		value="1" name="ARMORTYPE_MIDDLE" desc="中型护甲"  />
+	<macro cname="重型护甲"  		value="2" name="ARMORTYPE_HEAVY" desc="重型护甲"  />
+	<macro cname="城型护甲"  		value="3" name="ARMORTYPE_CITY" desc="城型护甲"  />
+	<macro cname="英雄护甲"  		value="4" name="ARMORTYPE_HERO" desc="英雄护甲"  />
+	<macro cname="建筑建造中护甲"  	value="5" name="ARMORTYPE_BUILDING" desc="建筑建造中护甲"  />
+  </macrosgroup>
+  
+  <!--攻击-->
+  <macrosgroup name="SkillAttackType" desc="攻击类型">
+    <macro cname="攻击类型_无"  		value="0" name="ATTACK_TYPR_NONE" desc="攻击类型_无"  />
+	<macro cname="攻击类型_普通"  		value="1" name="ATTACK_TYPR_NORMAL" desc="攻击类型_普通"  />
+	<macro cname="攻击类型_穿刺"  		value="2" name="ATTACK_TYPR_INSERT" desc="攻击类型_穿刺"  />
+	<macro cname="攻击类型_能量"  		value="3" name="ATTACK_TYPR_ENERGY" desc="攻击类型_能量"  />
+	<macro cname="攻击类型_攻城"  		value="4" name="ATTACK_TYPR_CITY" desc="攻击类型_攻城"  />
+	<macro cname="攻击类型_英雄"  		value="5" name="ATTACK_TYPR_HERO" desc="攻击类型_英雄"  />
+	<macro cname="攻击类型_神圣"  		value="6" name="ATTACK_TYPR_GOD" desc="攻击类型_神圣"  />
+	<macro cname="攻击类型_max"  		value="7" name="ATTACK_TYPR_MAX" desc="攻击类型_max"  />
+  </macrosgroup>
+  
+   <!--速度-->
+  <macrosgroup name="SpeedType" desc="速度类型">
+	<macro cname="无速度"  		value="0" name="SPEED_NONE" desc="无速度"  />
+	<macro cname="快"  		value="1" name="SPEED_FAST" desc="快"  />
+	<macro cname="中"  		value="2" name="SPEED_MIDDLE" desc="中"  />
+	<macro cname="慢"  		value="3" name="SPEED_SLOW" desc="慢"  />
+  </macrosgroup>
+  
+  <macrosgroup name="ResFogViewType" desc="迷雾视野类型"> 
+	<macro name="RESFOGVIEWTYPE_GROUND" value="0" cname="迷雾视野_地面" desc="迷雾视野_地面"/>
+	<macro name="RESFOGVIEWTYPE_AIR" 	value="1" cname="迷雾视野_高空" desc="迷雾视野_高空"/>
+  </macrosgroup>
+  
+  <!--=============怪物=============-->
+  
+  <!--怪物攻击类型-->
+  <macrosgroup name="AIAttackType" desc="AI攻击类型">
+    <macro cname="主动攻击AI" value="0" name="AIATKTYPE_AUTO" desc="主动攻击AI"/>
+    <macro cname="被动攻击AI" value="1" name="AIATKTYPE_PASSIVE" desc="被动攻击AI"/>
+	<macro cname="静止攻击AI" value="2" name="AIATKTYPE_STATICAUTO" desc="静止攻击AI,视野小半径，触发打开AI"/>
+  </macrosgroup>
+
+  <!--死亡触发事件类型-->
+  <macrosgroup name="ActorDeadTrigEventType" desc="死亡触发事件类型">
+	<macro name="ACTORDEADTRIGEVENT_SPAWNDOGFACE" value="1" cname="死亡基地刷小兵"  desc="死亡基地刷小兵"/>
+	<macro name="ACTORDEADTRIGEVENT_MAPSPAWNGROUP" value="2" cname="地图孵化一组怪物"  desc="地图孵化一组怪物"/>
+	<macro name="ACTORDEADTRIGEVENT_KILLERADDBUFF" value="3" cname="死亡给目标方增加BUFF"  desc="死亡给目标方增加BUFF"/>
+  </macrosgroup>
+  
+  <macrosgroup name="KillerTargetType" desc="击杀者作用对象类型">
+	<macro cname="击杀者自身" value="1" name="SKILLERTARGETTYPE_SELF" desc="击杀者自身" />
+	<macro cname="击杀者队伍所有英雄" value="2" name="SKILLERTARGETTYPE_TEAMHERO" desc="击杀者队伍所有英雄" />
+    <macro cname="击杀者阵营所有英雄" value="3" name="SKILLERTARGETTYPE_LEGIONHERO" desc="击杀者阵营所有英雄" />
+	<macro cname="击杀者阵营所有英雄和士兵" value="4" name="SKILLERTARGETTYPE_LEGIONALL" desc="击杀者阵营所有英雄和士兵" />
+  </macrosgroup> 
+  
+  
+  <macrosgroup name="ResActorMoveType" desc="单位移动类型"> 
+	<macro name="ACTORMOVETYPE_GROUND" value="0" cname="地面移动单位" desc="地面移动单位"/>
+	<macro name="ACTORMOVETYPE_AIR" value="1" cname="空中移动单位" desc="空中移动单位"/>
+  </macrosgroup>
+  
+  
+  <macrosgroup name="ResActrorAITargetType" desc="AI优先攻击目标类型">
+	<macro cname="AI目标_任意单位" value="0" name="ACTORAITARGETTYPE_ALL" desc="AI目标_任意单位" />
+	<macro cname="AI目标_无单位" value="1" name="ACTORAITARGETTYPE_NONE" desc="AI目标_无单位" />
+	<macro cname="AI目标_敌方英雄" value="2" name="ACTORAITARGETTYPE_ENEMYHERO" desc="AI目标_敌方英雄" />
+    <macro cname="AI目标_敌方士兵" value="3" name="ACTORAITARGETTYPE_ENEMYDOGFACE" desc="AI目标_敌方士兵" />
+	<macro cname="AI目标_敌方建筑" value="4" name="ACTORAITARGETTYPE_ENEMYBUILD" desc="AI目标_敌方建筑,统称" />
+	<macro cname="AI目标_野怪" value="5" name="ACTORAITARGETTYPE_MONSTER" desc="AI目标_野怪" />
+	<macro cname="AI目标_召唤生物" value="6" name="ACTORAITARGETTYPE_SUMMONED" desc="AI目标_召唤生物" />
+	<macro cname="AI目标_最大值" value="7" name="ACTORAITARGETTYPE_MAX" desc="AI目标_最大值" />
+	
+  </macrosgroup> 
+  
+   <!-- =============Moba属性============== -->
+   <macrosgroup name="ResAttrType" desc="属性类型" >
+    <macro name="EN_ATTR_MIN"          			value="0"	cname="属性最小值" desc="属性最小值" />
+    <macro name="EN_ATTR_HP"     				value="1"   cname="生命值" desc="生命值(计算后)"/>
+    <macro name="EN_ATTR_MAX_HP"       			value="2"   cname="最大生命值" desc="最大生命值"/>
+    <macro name="EN_ATTR_HP_RECOVERY"  			value="3"   cname="生命回复/5s" desc="生命回复/5s"/>
+    <macro name="EN_ATTR_HP_RECOVERY_RATE"  	value="4"   cname="生命回复率" desc="生命回复率(万分比/5s)"/>
+	<macro name="EN_ATTR_MAX_MP"       			value="5"   cname="最大法术值" desc="最大法术值"/>
+	<macro name="EN_ATTR_MP"       				value="6"   cname="法术值" desc="法术值(计算后)"/>
+	<macro name="EN_ATTR_MP_RECOVER"       		value="7"   cname="法术回复/5s" desc="法术回复/5s"/>
+    <macro name="EN_ATTR_ATK"     				value="8"   cname="攻击力" desc="攻击力"/>
+    <macro name="EN_ATTR_ARMOR"     			value="9"   cname="护甲值" desc="护甲值"/>
+    <macro name="EN_ATTR_ARMOR_PIERCE"       	value="10"   cname="护甲穿透" desc="护甲穿透"/>
+    <macro name="EN_ATTR_ARMOR_PIERCE_RATE"  	value="11"  cname="护甲穿透率" desc="护甲穿透率(万分比)"/>
+	<macro name="EN_ATTR_ATK_SPEED"     		value="12"  cname="攻击速度" desc="攻击速度(1万代表1s)"/>
+	<macro name="EN_ATTR_ATK_STEAL_RATE"		value="13"	cname="生命偷取率" desc="生命偷取率(万分比)"/>
+	<macro name="EN_ATTR_CRI_RATE"       		value="14"  cname="暴击率" desc="暴击率(万分比)"/>
+	<macro name="EN_ATTR_CRI_DAM_RATE"       	value="15"  cname="暴击伤害率" desc="暴击伤害率(万分比)"/>
+	<macro name="EN_ATTR_MAGIC"       			value="16"  cname="法术强度" desc="法术强度"/>
+	<macro name="EN_ATTR_MAGIC_DEF"       		value="17"  cname="法术抗性" desc="法术抗性"/>
+	<macro name="EN_ATTR_MD_PIERCE"       		value="18"  cname="法术穿透" desc="法术穿透"/>
+	<macro name="EN_ATTR_MD_PIERCE_RATE"     	value="19"  cname="法术穿透率" desc="法术穿透率(万分比)"/>
+	<macro name="EN_ATTR_AP_STEAL_RATE"       	value="20"  cname="法术吸血率" desc="法术吸血率(万分比)"/>
+	<macro name="EN_ATTR_TENACITY_RATE"			value="21"	cname="韧性率" desc="韧性率(万分比)"/>
+	<macro name="EN_ATTR_CD_REDUCTION"       	value="22"  cname="冷却缩减" desc="冷却缩减(万分比)"/>
+	<macro name="EN_ATTR_MOVE_SPEED"			value="23"	cname="移动速度" desc="移动速度(1万代表1M)"/>
+	<macro name="EN_ATTR_EVASION_RATE"       	value="24"  cname="闪避值" desc="闪避值(万分比)"/>
+	<macro name="EN_ATTR_MAX_HP_LV"       		value="25"  cname="生命值成长" desc="生命值成长"/>
+	<macro name="EN_ATTR_HP_RECOVER_LV"       	value="26"  cname="生命回复成长" desc="生命回复成长(/5s)"/>
+	<macro name="EN_ATTR_ATK_LV"       			value="27"  cname="攻击力成长" desc="攻击力成长"/>
+	<macro name="EN_ATTR_MAGIC_LV"       		value="28"  cname="法术强度成长" desc="法术强度成长"/>
+	<macro name="EN_ATTR_ARMOR_LV"       		value="29"  cname="护甲成长" desc="护甲成长"/>
+	<macro name="EN_ATTR_MAGIC_DEF_LV"       	value="30"  cname="法术抗性成长" desc="法术抗性成长"/>
+	<macro name="EN_ATTR_MAX_MP_LV"       		value="31"  cname="法术值成长" desc="法术值成长"/>
+	<macro name="EN_ATTR_MP_RECOVER_LV"       	value="32"  cname="法术值回复成长" desc="法术值回复成长(/5s)"/>
+	<macro name="EN_ATTR_REB_DAMAGE"       		value="33"  cname="反伤值" desc="反弹值"/>
+	<macro name="EN_ATTR_REB_DAMAGE_RATE"       value="34"  cname="反伤率" desc="反伤率(万分比)"/>
+	<macro name="EN_ATTR_ATKMISS_RATE"       	value="35"  cname="攻击丢失率" desc="攻击丢失率(万分比)"/>
+	<macro name="EN_ATTR_COLLIDERRADIUS"        value="36"  cname="碰撞体积" desc="碰撞体积"/>
+	<macro name="EN_ATTR_VISIONRADIUS"          value="37"  cname="视野半径" desc="视野半径"/>
+	<macro name="EN_ATTR_WARNRADIUS"            value="38"  cname="警戒半径" desc="警戒半径"/>
+	<macro name="EN_ATTR_FOWRADIUS"            	value="39"  cname="迷雾半径" desc="迷雾半径"/>
+	
+	<!--伤害计算-->
+	<macro name="EN_ATTR_MAGIC_ATK_IMM"       	value="40"  cname="物理伤害减免" desc="物理伤害减免"/>
+	<macro name="EN_ATTR_MAGIC_MGIC_IMM"       	value="41"  cname="法术伤害减免" desc="法术伤害减免"/>
+	<macro name="EN_ATTR_ATK_DMG_RATE"       	value="42"  cname="物理伤害万分比" desc="物理伤害百分比(万分比,计算完后)"/>
+	<macro name="EN_ATTR_AP_DMG_RATE"       	value="43"  cname="法术伤害万分比" desc="法术伤害百分比(万分比,计算完后)"/>
+	<macro name="EN_ATTR_ATK_GET_DMG_RATE"   	value="44"  cname="受到物理伤害万分比" desc="受到物理伤害率(万分比,计算完后)"/>
+	<macro name="EN_ATTR_AP_GET_DMG_RATE"    	value="45"  cname="受到法术伤害万分比" desc="受到法术伤害率(万分比,计算完后)"/>
+	<macro name="EN_ATTR_NORMALDMG_IMM"   		value="46"  cname="被普通攻击伤害减免值" desc="被普通攻击伤害减免值"/>
+    <macro name="EN_ATTR_NORMALDMG_IMM_RATE"   	value="47"  cname="被普通攻击伤害减免率" desc="被普通攻击伤害减免率(万分比)"/>
+	<macro name="EN_ATTR_FARNORMALDMG_IMM_RATE" value="48"  cname="被远程普通攻击伤害减免率" desc="被远程普通攻击伤害减免率(万分比)"/>
+	<macro name="EN_ATTR_MONSTERDMG_ADD"   		value="49"  cname="对野怪伤害加成值" desc="对野怪伤害加成值"/>
+    <macro name="EN_ATTR_MONSTERDMG_ADD_COE"   	value="50"  cname="对野怪伤害加成系数" desc="对野怪伤害加成系数(万分比)"/>
+	<macro name="EN_ATTR_AI_ATKDMG_COE"	        value="51"	cname="AI攻击伤害系数" desc="AI攻击伤害系数"/>
+	<macro name="EN_ATTR_AI_DEFDMG_COE"	        value="52"	cname="AI防御伤害系数" desc="AI防御伤害系数"/>
+	<macro name="EN_ATTR_BUILDING_COE"	        value="53"	cname="对建筑伤害系数" desc="对建筑伤害系数(万分比,计算完后)"/>
+	<macro name="EN_ATTR_BUILDING_BECOE"	    value="54"	cname="被建筑伤害系数" desc="被建筑伤害系数(万分比,计算完后)"/>
+	
+	<macro name="EN_ATTR_BUFFRESTADD_CORE"      value="55"  cname="BUFF回属性加成系数" desc="BUFF回属性加成系数"/>
+	<macro name="EN_ATTR_BASERECOVERYADD_CORE"  value="56"  cname="基础回复加成系数" desc="基础回复加成系数"/>
+	<macro name="EN_ATTR_NSATKDIS_ADD"          value="57"  cname="普攻半径加成" desc="普攻半径加成"/>
+	
+	<macro name="EN_ATTR_MAX"         			value="58"  desc="最大值" />
+  </macrosgroup>
+  
+  <!-- =============buff============== -->
+  
+   <macrosgroup name="BuffPropertyType" desc="BUFF属性类型">
+    <macro cname="天赋BUFF"       value="1"   name="BUFFPROPERTYTYPE_TALENT"  desc="天赋BUFF" />
+	<macro cname="系统BUFF"       value="2"   name="BUFFPROPERTYTYPE_SYSTEM" desc="系统BUFF" />
+    <macro cname="数值增益BUFF"   value="3"   name="BUFFPROPERTYTYPE_USEFUL"  desc="数值增益BUFF" />
+	<macro cname="数值减益BUFF"   value="4"   name="BUFFPROPERTYTYPE_UNUSEFUL" desc="数值减益BUFF" />
+	<macro cname="控制BUFF"       value="5"   name="BUFFPROPERTYTYPE_HARMFUL" desc="控制BUFF" />
+	<macro cname="免疫控制BUFF"   value="6"   name="BUFFPROPERTYTYPE_UNHARMFUL" desc="免疫控制BUFF" />
+	<macro cname="触发技能BUFF"   value="7"   name="BUFFPROPERTYTYPE_TRIGSKILL" desc="触发技能BUFF" />
+	<macro cname="触发BUFF"       value="8"   name="BUFFPROPERTYTYPE_TRIGBUFF" desc="触发BUFF" />
+	<macro cname="上帝BUFF"       value="9"   name="BUFFPROPERTYTYPE_GODBUFF" desc="上帝BUFF" />
+  </macrosgroup>
+  
+  <macrosgroup name="BuffPropertySubType" desc="BUFF属性子类型">
+    <macro cname="眩晕类子类型"   value="1"   name="BUFFPROPERTYSUBTYPE_SWIM"  desc="眩晕类子类型" />
+	<macro cname="减速类子类型"   value="2"   name="BUFFPROPERTYSUBTYPE_DELSPEED" desc="减速类子类型" />
+    <macro cname="沉默类子类型"   value="3"   name="BUFFPROPERTYSUBTYPE_SILENT"  desc="沉默类子类型" />
+	<macro cname="击飞击退类子类型"  value="4"   name="BUFFPROPERTYSUBTYPE_BEATBACK" desc="击飞击退类子类型" />
+	<macro cname="X空间类子类型"     value="5"   name="BUFFPROPERTYSUBTYPE_XSPACE" desc="X空间类子类型" />
+	<macro cname="法术值增减益子类型"  value="6"   name="BUFFPROPERTYSUBTYPE_MPOP" desc="法术值增减益子类型" />
+  </macrosgroup>
+ 
+  
+   <macrosgroup name="BuffMergeType" desc="BUFF叠加规则">
+    <macro cname="无法合并"       value="0"   name="BUFFERMERGRES_NONE"  desc="无法合并" />
+	<macro cname="BUFF堆叠(施法者)"  value="1"   name="BUFFERMERGRES_CASTERSTACK" desc="BUFF堆叠(施法者)" />
+	<macro cname="BUFF堆叠(组ID)"    value="2"   name="BUFFERMERGRES_GROUPSTACK" desc="BUFF堆叠(组ID)" />
+    <macro cname="替换旧的BUFF(施法者)"   value="3"   name="BUFFERMERGRES_CASTERREPLACE"  desc="替换旧的BUFF（同一施法者，高等级替换低等级，同等级刷数据）" />
+	<macro cname="新Buff被排斥(施法者)"   value="4"   name="BUFFERMERGRES_CASTERMUTEX" desc="新Buff被排斥(施法者)" />
+	<macro cname="新Buff被排斥(组ID)"   value="5"   name="BUFFERMERGRES_GROUPIDMUTEX" desc="新Buff被排斥(组ID)" />
+	<macro cname="替换旧的BUFF(组ID)"   value="6"   name="BUFFERMERGRES_GROUPIDREPLACE" desc="替换旧的BUFF（只按组ID）" />
+	<macro cname="不同施法者并行BUFF"   value="7"   name="BUFFERMERGRES_UNCASTERREPLACE" desc="不同施法者并行BUFF,同一施法者替换旧的BUFF,不同施法者无法合并但是生效" />
+  </macrosgroup>
+  
+  <macrosgroup name="BuffOp" desc="BUFF操作类型" >
+	<macro name="BUFF_OP_ADD" value="1" desc="添加buff操作"/>
+	<macro name="BUFF_OP_DEL" value="2" desc="移除buff操作"/>
+	<macro name="BUFF_OP_OVERLAY" value="3" desc="覆盖buff操作"/>
+	<macro name="BUFF_OP_INTERRUPT" value="4" desc="中断buff操作"/>
+  </macrosgroup>
+  
+  <macrosgroup name="BuffRemoveType" desc="BUFF外部移除类型">
+	<macro cname="任意移除Buff"       value="0"   name="BUFFREMOVETYPE_DEFUALT" desc="任意移除Buff" />
+	<macro cname="死亡移除Buff"       value="1"   name="BUFFREMOVETYPE_DEAD" desc="死亡移除Buff" />
+	<macro cname="上帝移除Buff"       value="2"   name="BUFFREMOVETYPE_GOD" desc="上帝移除Buff" />
+  </macrosgroup>
+  
+    <macrosgroup name="BuffEndType" desc="BUFF结束类型">
+    <macro cname="Buff自然结束"   value="0"   name="BUFFENDTYPE_ENC"  desc="Buff自然结束" />
+	<macro cname="Buff被动清除"   value="1"   name="BUFFENDTYPE_BECLEAR" desc="Buff被动清除" />
+	<macro cname="Buff死亡清除"   value="2"   name="BUFFENDTYPE_DEADCLEAR" desc="Buff死亡清除" />
+  </macrosgroup>
+  
+ 
+  <macrosgroup name="BuffEffectType" desc="Buff效果类型">
+    <macro cname="属性修改"   value="1"   name="BUFFEFFECTTYPE_ATTROPE"      desc="属性修改" />
+    <macro cname="回属性"     value="2"   name="BUFFEFFECTTYPE_SETATTR"      desc="回属性" />
+	<macro cname="泉水回属性" value="3"   name="BUFFEFFECTTYPE_SPRINGSETATTR"      desc="泉水回属性" />
+    <macro cname="吸收伤害"   value="4"   name="BUFFEFFECTTYPE_DMGABSORB"    desc="吸收伤害" />
+	<macro cname="眩晕"       value="5"   name="BUFFEFFECTTYPE_SWIM"         desc="眩晕" />
+    <macro cname="沉默"       value="6"  name="BUFFEFFECTTYPE_SILENT"       desc="沉默" />
+    <macro cname="拉扯"       value="7"  name="BUFFEFFECTTYPE_DRAG"      desc="拉扯" />   
+	<macro cname="击飞击退"       value="8"  name="BUFFEFFECTTYPE_BEATBACK"          desc="击飞击退" /> 
+	<macro cname="嘲讽"   value="9"  name="BUFFEFFECTTYPE_SNEER"          desc="嘲讽" />
+	<macro cname="恐惧效果"   value="10"  name="BUFFEFFECTTYPE_FEAR"          desc="恐惧效果" />
+	<macro cname="龙卷风效果"   value="11"  name="BUFFEFFECTTYPE_CYCLONE"          desc="龙卷风效果" />
+	
+	<macro cname="物理免疫"   value="12"  name="BUFFEFFECTTYPE_PHYIMM"          desc="物理免疫" />	
+	<macro cname="魔法免疫"   value="13"  name="BUFFEFFECTTYPE_MGCIMM"          desc="魔法免疫" />
+	<macro cname="无敌"       value="14"  name="BUFFEFFECTTYPE_GOD"          desc="无敌" />
+	<macro cname="清除BUFF"   value="15"   name="BUFFEFFECTTYPE_DELBUFF"    desc="清除BUFF" />
+	<macro cname="免疫DEBUFF"   value="16"   name="BUFFEFFECTTYPE_IMMDELBUFF"    desc="免疫DEBUFF" />
+	<macro cname="霸体BUFF"   value="17"   name="BUFFEFFECTTYPE_SUPERBODY"    desc="霸体BUFF" />
+	<macro cname="进入X空间"   value="18"   name="BUFFEFFECTTYPE_XSPACE"    desc="进入X空间" />
+	<macro cname="BUFF金身"   value="19"   name="BUFFEFFECTTYPE_GOLDENBODY"    desc="BUFF金身" />
+	
+	<macro cname="触发变体技能" value="20" name="BUFFEFFECTTYPE_ADDAVATARSKILL"    desc="触发变体技能" />
+	<macro cname="解除变体技能" value="21" name="BUFFEFFECTTYPE_DELAVATARSKILL"    desc="解除变体技能" />
+	<macro cname="永久修改属性"   value="22"   name="BUFFEFFECTTYPE_FOEVERATTROPE"      desc="永久修改属性" />
+	<macro cname="清空技能释放次数"   value="23"   name="BUFFEFFECTTYPE_CLEARSKILCASTCNT"      desc="清空技能释放次数" />
+	<macro cname="触发添加技能"   value="24"   name="BUFFEFFECTTYPE_ADDSKILL"      desc="触发添加技能" />
+	<macro cname="触发技能阶段效果"   value="25"   name="BUFFEFFECTTYPE_TRIGSKILLPHASE_EFFECT" desc="触发技能阶段效果" />
+	<macro cname="触发技能阶段搜索和效果"   value="26"   name="BUFFEFFECTTYPE_TRIGSKILLPHASE_SERACHEFFECT" desc="触发技能阶段搜索和效果" />
+	<macro cname="BUFF增加金钱"   value="27"   name="BUFFEFFECTTYPE_ADDGOLD" desc="BUFF增加金钱" />
+	<macro cname="BUFF增加经验"   value="28"   name="BUFFEFFECTTYPE_ADDEXP" desc="BUFF增加经验" />
+	
+	<macro cname="烟幕失明效果"   value="29"   name="BUFFEFFECTTYPE_BLINDNESS" desc="烟幕失明效果" />
+	<macro cname="BUFF修改召唤物存活时间"   value="30"   name="BUFFEFFECTTYPE_SUMMONEDLIFETIME" desc="BUFF修改召唤物存活时间" />
+	
+	<macro cname="灵魂锁链"   value="31"   name="BUFFEFFECTTYPE_SOULFETTER" desc="灵魂锁链" />
+	<macro cname="撒网诱捕"   value="32"   name="BUFFEFFECTTYPE_NETTRAP" desc="撒网诱捕" />
+	<macro cname="回城吟唱"   value="33"   name="BUFFEFFECTTYPE_TPCHAT" desc="回城吟唱" />
+	<macro cname="BUFF隐身"   value="34"   name="BUFFEFFECTTYPE_STEALTH" desc="BUFF隐身" />
+	<macro cname="BUFF反隐身"   value="35"   name="BUFFEFFECTTYPE_ANTISTEALTH" desc="BUFF反隐身" />
+	<macro cname="BUFF目标视野"   value="36"   name="BUFFEFFECTTYPE_TARGETVISION" desc="BUFF目标视野" />
+	<macro cname="BUFF变身"   value="37"   name="BUFFEFFECTTYPE_CHANGEAVATAR" desc="BUFF变身" />
+	<macro cname="BUFF普攻暴击"   value="38"   name="BUFFEFFECTTYPE_ATKCRI" desc="BUFF普攻暴击" />
+	<macro cname="BUFF薄葬"   value="39"   name="BUFFEFFECTTYPE_FLIMSYBURYING" desc="BUFF薄葬" />
+	<macro cname="BUFF变形术"   value="40"   name="BUFFEFFECTTYPE_POLYMORPH" desc="BUFF变形术" />
+	<macro cname="BUFF禁锢"   value="41"   name="BUFFEFFECTTYPE_IMPRISON" desc="BUFF禁锢" />
+	<macro cname="BUFF光之女圈内友军"   value="42"   name="BUFFEFFECTTYPE_LIGHTGIRLFRIEND" desc="BUFF光之女圈内友军(定制)" />
+	<macro cname="BUFF光之女圈内敌军"   value="43"   name="BUFFEFFECTTYPE_LIGHTGIRLENEMY" desc="BUFF光之女圈内敌军(定制)" />
+	
+	<macro cname="BUFF伤害转移"   value="44"   name="BUFFEFFECTTYPE_DMGTOTRANSFER" desc="BUFF伤害转移" />
+	<macro cname="BUFF伤害麻木"   	value="45"   name="BUFFEFFECTTYPE_DMGNUMB" desc="BUFF伤害麻木(船长船游)" />
+	<macro cname="圣盾"   	value="46"   name="BUFFEFFECTTYPE_DIVINESHIELD" desc="圣盾(无敌但能被选中)" />
+	<macro cname="BUFF魔法护盾"   	value="47"   name="BUFFEFFECTTYPE_SPELLSHIELD" desc="BUFF魔法护盾" />
+	
+	<macro cname="Buff效果最大值" value="48" name="BUFFEFFECTTYPE_MAX"    desc="Buff效果最大值" />
+
+  </macrosgroup>
+  
+ 
+  <macrosgroup name="BuffEffectAddExpGoldType" desc="BUFF增加经验金钱类型">
+	<macro cname="BUFF固定数值增加"   value="0"   name="BUFFEFFADDEXPMONEYTYPE_DEFAULT" desc="BUFF固定数值增加" />
+	<macro cname="BUFF游戏时间增加"   value="1"   name="BUFFEFFADDEXPMONEYTYPE_GAMETIME" desc="BUFF游戏时间增加" />
+  </macrosgroup>
+  
+   <macrosgroup name="BuffEffectRemoveBuffType" desc="BUFF效果清除BUFF类型">
+	<macro cname="根据BUFF组清除BUFF"       value="0"   name="BUFFEFFCTREMOVEBUFFTYPE_GROUPID" desc="根据BUFF组清除BUFF" />
+	<macro cname="根据BUFF类型清除BUFF"     value="1"   name="BUFFEFFCTREMOVEBUFFTYPE_BUFFTYPE" desc="根据BUFF类型清除BUFF" />
+	<macro cname="根据BUFF子类型清除BUFF"   value="2"   name="BUFFEFFCTREMOVEBUFFTYPE_SUBBUFFTYPE" desc="根据BUFF子类型清除BUFF" />
+  </macrosgroup>
+ 
+  <macrosgroup name="BuffEftSetAttrType" desc="BUFF回属性参数">
+    <macro cname="回属性HP"         value="1"   name="BUFFSETATTRPARAM_HP"  desc="回属性HP" />
+    <macro cname="回属性MP"         value="2"   name="BUFFSETATTRPARAM_MP" desc="回属性MP" />
+	<macro cname="回属性怒气"       value="3"   name="BUFFSETATTRPARAM_ENERGY" desc="回属性怒气" />
+  </macrosgroup>
+  
+   <macrosgroup name="BuffEffectCoefType" desc="BUFF效果作用系数类型" >
+    <macro name="BUFFEFFECTCOEFTYPE_DEFAULT"   value="0"    	cname="BUFF效默认效果系数" desc="BUFF效默认效果系数"/>
+	<macro name="BUFFEFFECTCOEFTYPE_HEROLEVEL" value="1"     	cname="BUFF效果施法者等级系数" desc="BUFF效果施法者等级系数"/>
+  </macrosgroup>
+  
+   <macrosgroup name="BuffEftBeatBackType" desc="BUFF效果击飞击退类型">
+    <macro cname="击飞击退_施法者"         	value="0"   name="BUFFBEATBACKTYPE_CASTER"  desc="击飞击退_施法者" />
+    <macro cname="击飞击退_技能目标点"    	value="1"   name="BUFFBEATBACKTYPE_SKILLPOS" desc="击飞击退_技能目标点(对点释放)" />
+	<macro cname="击飞击退_施法者固定距离"  value="2"   name="BUFFBEATBACKTYPE_CASTERFIXEDDISTANCE" desc="击飞击退_施法者固定距离(动态计算VEC/ACC)" />
+  </macrosgroup>
+  
+
+  <macrosgroup name="BuffEffectTrigType" desc="BUFF效果生效条件">
+	<macro cname="BUFF效果时间周期生效"       value="0"   name="BUFFTRIGTYPE_TIME" desc="BUFF效果时间周期生效" />
+	<macro cname="死亡生效"       value="1"   name="BUFFTRIGTYPE_DEAD" desc="死亡生效" />
+    <macro cname="普通攻击命中单个生效"   value="2"   name="BUFFTRIGTYPE_NORMALEACHHIT"  desc="普通攻击命中单个生效" />
+	<macro cname="释放技能生效"   value="3"   name="BUFFTRIGTYPE_CASTSKILL" desc="释放技能生效" />
+	<macro cname="释放普攻技能生效"   value="4"   name="BUFFTRIGTYPE_CASTNORMALSKILL" desc="释放普攻技能生效" />
+	<macro cname="释放技能前摇结束生效"   value="5"   name="BUFFTRIGTYPE_CASTSKILLROLLEND" desc="释放技能前摇结束生效" />
+	<macro cname="被伤害生效"       value="6"   name="BUFFTRIGTYPE_BEHIT" desc="被伤害生效" />
+	<macro cname="被伤害暴击生效"   value="7"   name="BUFFTRIGTYPE_BEHITCRI" desc="被伤害暴击生效" />
+	<macro cname="击杀单位生效"   value="8"   name="BUFFTRIGTYPE_KILLACTOR" desc="击杀单位生效" />
+	<macro cname="指定技能释放次数生效"   value="9"   name="BUFFTRIGTYPE_CASTSKILLCNT" desc="指定技能释放次数生效(技能前摇完)" />
+	<macro cname="被致命一击生效"   value="10"   name="BUFFTRIGTYPE_BECRITHIT" desc="被致命一击生效" />
+	<macro cname="普通攻击命中生效"   value="11"   name="BUFFTRIGTYPE_NORMALHIT"  desc="普通攻击命中生效" />
+	<macro cname="被特定单位QWER技能伤害生效"   value="12"   name="BUFFTRIGTYPE_SPECQWERSKILLHIT"  desc="被特定单位QWER伤害生效" />
+	<macro cname="被特定单位普攻伤害生效"   value="13"   name="BUFFTRIGTYPE_SPECACTORNORMALSKILLHIT"  desc="被特定单位普攻伤害生效" />
+	<macro cname="当前Buff堆叠指定层级生效"       value="14"   name="BUFFTRIGTYPE_BUFFOVERLAY" desc="当前Buff堆叠生效" />
+ </macrosgroup>
+  
+  <macrosgroup name="BuffEventType" desc="BUFF事件类型">
+	<macro cname="当前BUFF移除"       value="1"   name="BUFFEVENTTYPE_REMOVESELF" desc="当前BUFF移除" />
+	<macro cname="当前BUFF层级改变"   value="2"   name="BUFFEVENTTYPE_LAYERCHANGE" desc="当前BUFF层级改变" />
+	<macro cname="当前BUFF层级重置"   value="3"   name="BUFFEVENTTYPE_LAYERRESET" desc="当前BUFF层级重置" />
+	<macro cname="当前BUFF释放BUFF"   value="4"   name="BUFFEVENTTYPE_CASTBUFF" desc="当前BUFF释放BUFF" />
+	<macro cname="当前BUFF反弹伤害"   value="5"   name="BUFFEVENTTYPE_REDAMAGE" desc="当前BUFF反弹伤害" />
+	<macro cname="当前BUFF伤害麻木触发"   value="6"   name="BUFFEVENTTYPE_DMGNUMBEND" desc="当前BUFF伤害麻木触发" />
+	<macro cname="当前BUFF反馈施法者"   value="7"   name="BUFFEVENTTYPE_FEEDBACKCASTER" desc="当前BUFF反馈施法者" />
+  </macrosgroup>
+  
+   <macrosgroup name="BuffEventTrigType" desc="BUFF事件触发类型">
+	<macro cname="受到伤害触发BUFF事件"      value="1"   name="BUFFEVENTTRIGTYPE_BEDAMAGE" desc="受到伤害触发BUFF事件" />
+	<macro cname="对目标造成伤害触发BUFF事件" value="2"   name="BUFFEVENTTRIGTYPE_DMGTARGET" desc="对目标造成伤害触发BUFF事件" />
+	<macro cname="技能释放次数触发BUFF事件"  value="3"   name="BUFFEVENTTRIGTYPE_SKILLCASTCNT" desc="技能释放次数触发BUFF事件" />
+	<macro cname="普通攻击命中触发BUFF事件"  value="4"   name="BUFFEVENTTRIGTYPE_NORMALSKILLHIT" desc="普通攻击命中触发BUFF事件" />
+	<macro cname="生命值改变触发BUFF事件"    value="5"   name="BUFFEVENTTRIGTYPE_ATTRHPCHANGE" desc="生命值改变触发BUFF事件" />
+	<macro cname="受到普攻伤害触发BUFF事件"  value="6"   name="BUFFEVENTTRIGTYPE_BENORMALSKILLDAMAGE" desc="受到普攻伤害触发BUFF事件" />
+	<macro cname="受到物理伤害触发BUFF事件"  value="7"   name="BUFFEVENTTRIGTYPE_BENOPHYDAMAGE" desc="受到物理伤害触发BUFF事件" />
+	<macro cname="隐身移除事件集合事件"      value="8"   name="BUFFEVENTTRIGTYPE_STEALUNIONS"  desc="隐身移除事件集合事件,攻击,被伤害，建造，使用道具" />
+	<macro cname="剑圣隐身移除事件集合事件"  value="9"   name="BUFFEVENTTRIGTYPE_BMSTEALUNIONS"  desc="剑圣隐身移除事件集合事件,攻击,建造，使用道具" />
+	<macro cname="受普通攻击触发反弹BUFF事件"  value="10"   name="BUFFEVENTTRIGTYPE_NORMALSKILLREDAMGE" desc="受普通攻击触发反弹BUFF事件" />
+	<macro cname="切换到白天触发BUFF事件"  		value="11"   name="BUFFEVENTTRIGTYPE_CHANGEDAY" desc="切换到白天触发BUFF事件" />
+	<macro cname="精灵族通用天赋BUFF移除事件"  value="12"   name="BUFFEVENTTRIGTYPE_ELFTALENTBUFFREMOVE" desc="精灵族通用天赋BUFF移除事件" />
+	<macro cname="魔法护盾抵消触发BUFF事件"  value="13"   name="BUFFEVENTTRIGTYPE_SPELLFIELDDO" desc="魔法护盾抵消触发BUFF事件" />
+	
+	<macro cname="释放QWER技能触发BUFF事件" value="14"   name="BUFFEVENTTRIGTYPE_CASTQWERSKILL" desc="释放QWER技能触发BUFF事件" />
+	
+	<macro cname="当前BUFF生效触发BUFF事件"  value="15"   name="BUFFEVENTTRIGTYPE_BUFFTRIG" desc="当前BUFF生效触发BUFF事件" />
+	<macro cname="当前BUFF结束触发BUFF事件"  value="16"   name="BUFFEVENTTRIGTYPE_BUFFEND" desc="当前BUFF结束触发BUFF事件" />
+  </macrosgroup>
+  
+   <macrosgroup name="BuffEventEffectType" desc="BUFF事件效果系数">
+	<macro cname="BUFF事件生命值效果系数"      value="1"   name="BUFFEVENTEFFECTTYPE_HP" desc="BUFF事件生命值效果系数" />
+  </macrosgroup>
+  
+    <macrosgroup name="BuffEventFeedBackCaterType" desc="BUFF反馈施法者类型">
+	<macro cname="BUFF事件反馈施法者_技能魔法闪耀"  value="1"   name="BUFFEVENTFEEDBACKCATERTYPE_MANAFLARE" desc="BUFF事件反馈施法者_技能魔法闪耀" />
+	<macro cname="BUFF事件反馈施法者_添加BUFF"   	value="2"   name="BUFFEVENTFEEDBACKCATERTYPE_ADDBUFF" desc="BUFF事件反馈施法者_添加BUFF" />
+	<macro cname="BUFF事件反馈施法者_技能反馈"  value="3"   name="BUFFEVENTFEEDBACKCATERTYPE_SKILL" desc="BUFF事件反馈施法者_技能反馈" />
+  </macrosgroup>
+  
+  
+  <!--==========技能=============-->
+
+  <macrosgroup name="SkillType" desc="技能类型">
+    <macro cname="普通攻击"   value="1" name="SKILLTYPE_NORMAL" desc="普通攻击" />
+    <macro cname="主动技能"   value="2" name="SKILLTYPE_AUTO" desc="主动技能" />
+	<macro cname="主动二段技能"   value="3" name="SKILLTYPE_AUTO2" desc="主动二段技能" />
+	<macro cname="主动三段技能"   value="4" name="SKILLTYPE_AUTO3" desc="主动三段技能" />
+	<macro cname="主动开关技能"   value="5" name="SKILLTYPE_SWITCH"  desc="主动开关技能(一个需设置技能栏一个无)"   />
+    <macro cname="被动技能"   value="6" name="SKILLTYPE_PASSIVE"  desc="被动技能" />
+  </macrosgroup>
+  
+  <macrosgroup name="SkillSubType" desc="技能子类型">
+    <macro cname="普通技能"   value="1" name="SKILLSUBTYPE_NORMALATTACK"  desc="普通技能"  />
+    <macro cname="攻击技能"   value="2" name="SKILLSUBTYPE_ATTACK"  desc="攻击技能"  />
+    <macro cname="辅助BUFF技能" value="3" name="SKILLSUBTYPE_SUBBUFF" desc="辅助BUFF技能"  />
+	<macro cname="辅助回血技能" value="4" name="SKILLSUBTYPE_SUBRESHP" desc="辅助回血技能"  />
+    <macro cname="基础回血技能" value="5" name="SKILLSUBTYPE_RESHP" desc="基础回血技能"  />
+    <macro cname="基础回程技能"   value="6" name="SKILLSUBTYPE_TP"  desc="基础回程技能"   />
+	<macro cname="变体技能"   value="7" name="SKILLSUBTYPE_AVATAR"  desc="变体技能"   />
+	<macro cname="召唤师技能"   value="8" name="SKILLSUBTYPE_SUMMONED"  desc="召唤师技能"   />
+	<macro cname="基础传送技能" value="9" name="SKILLSUBTYPE_POSTRANSFORM"  desc="基础传送技能"   />
+	<macro cname="重生复活技能" value="10" name="SKILLSUBTYPE_SELFREVIVAL"  desc="重生复活技能，复活自身"   />
+	<macro cname="召唤复活技能" value="11" name="SKILLSUBTYPE_SUMMONREVIVAL"  desc="召唤复活技能，复活他人"   />
+	<macro cname="充能技能" 	value="12" name="SKILLSUBTYPE_ENERGY"  desc="充能技能"   />
+  </macrosgroup>
+  
+  <macrosgroup name="SkillAICastType" desc="AI释放技能类型">
+    <macro cname="AI技能类型_治疗"   value="1" name="SKILLAICASTTYPE_REHP"  desc="AI技能类型_治疗"  />
+    <macro cname="AI技能类型_控制"   value="2" name="SKILLSUBTYPE_CTR"  desc="AI技能类型_控制"  />
+	<macro cname="AI技能类型_增益"   value="3" name="SKILLSUBTYPE_USEFUL"  desc="AI技能类型_增益"  />
+	<macro cname="AI技能类型_减益"   value="4" name="SKILLSUBTYPE_UNUSEFUL"  desc="AI技能类型_减益"  />
+	<macro cname="AI技能类型_伤害"   value="5" name="SKILLSUBTYPE_DMG"  desc="AI技能类型_伤害"  />
+  </macrosgroup>
+  
+   <macrosgroup name="SkillBarType" desc="技能栏位类型">
+	<macro cname="技能栏无"   value="0" name="SKILLBARTYPE_NONE" desc="技能栏无"  />
+    <macro cname="技能栏Q"   value="1" name="SKILLBARTYPE_Q" desc="技能栏Q"  />
+	<macro cname="技能栏W"   value="2" name="SKILLBARTYPE_W" desc="技能栏W" />
+	<macro cname="技能栏E"   value="3" name="SKILLBARTYPE_E" desc="技能栏E" />
+	<macro cname="技能栏R"   value="4" name="SKILLBARTYPE_R" desc="技能栏R" />
+	<macro cname="技能栏A"   value="5" name="SKILLBARTYPE_A" desc="技能栏A" />
+	<macro cname="技能栏F1"   value="6" name="SKILLBARTYPE_F1" desc="技能栏F1" />
+	<macro cname="技能栏F2"   value="7" name="SKILLBARTYPE_F2" desc="技能栏F2" />
+	<macro cname="技能栏F3"   value="8" name="SKILLBARTYPE_F3" desc="技能栏F3" />
+	<macro cname="技能栏F4"   value="9" name="SKILLBARTYPE_F4" desc="技能栏F4" />
+	<macro cname="技能栏普攻1"   value="10" name="SKILLBARTYPE_NORMAL1" desc="技能栏普攻1" />
+	<macro cname="技能栏普攻2"   value="11" name="SKILLBARTYPE_NORMAL2" desc="技能栏普攻2" />
+	<macro cname="技能栏天赋"   value="12" name="SKILLBARTYPE_TALENT" desc="技能栏天赋" />	
+	<macro cname="技能栏种族眼"   value="13" name="SKILLBARTYPE_RANCEEYE" desc="技能栏种族眼" />	
+	<macro cname="技能栏最大值"   value="14" name="SKILLBARTYPE_MAX" desc="技能栏最大值" />
+  </macrosgroup>
+  
+  <macrosgroup name="SkillTrigCastType" desc="技能触发释放类型">
+    <macro cname="主动释放触发"       value="0"   name="SKILLTRIGTYPE_AUTOCAST"  desc="主动释放触发" />
+	<macro cname="技能天赋触发"       value="1"   name="SKILLTRIGTYPE_TALENT"  desc="技能天赋触发" />
+	<macro cname="技能被动无触发"   value="2"   name="SKILLTRIGTYPE_NOOTHER"  desc="被动无触发" />
+	<macro cname="单位死亡触发"       value="3"   name="SKILLTRIGTYPE_DEAD" desc="单位死亡触发" />
+	<macro cname="时间周期触发"   value="4"   name="SKILLTRIGTYPE_TIMEDURA" desc="时间周期触发" />
+	
+	<macro cname="普通攻击命中锁定目标触发"   value="5"   name="SKILLTRIGTYPE_NORMALHIT"  desc="普通攻击命中锁定目标触发(第一个目标)" />
+	<macro cname="被普通攻击命中触发"   value="6"   name="SKILLTRIGTYPE_BENORMALHIT"  desc="被普通攻击命中触发" />
+	
+	<macro cname="释放普攻技能触发"   value="7"   name="SKILLTRIGTYPE_CASTNORMALSKILL" desc="释放普攻技能触发" />
+	<macro cname="释放QWER技能触发"   	value="8"   name="SKILLTRIGTYPE_CASTAUTOSKILL" desc="释放QWER技能触发" />
+	<macro cname="释放技能前摇结束触发"   value="9"   name="SKILLTRIGTYPE_CASTSKILLROLLEND" desc="释放技能前摇结束触发" />
+	
+	<macro cname="被任意伤害触发"       value="10"   name="SKILLTRIGTYPE_BEHIT" desc="被任意伤害触发" />
+	<macro cname="被普攻伤害触发"       value="11"   name="SKILLTRIGTYPE_NORMALSKILLBEHIT" desc="被普攻伤害触发" />
+	<macro cname="被主动技能伤害触发"   value="12"   name="SKILLTRIGTYPE_AUTOSKILLBEHIT" desc="被主动技能伤害触发" />
+	<macro cname="被物理攻击伤害触发"   value="13"   name="SKILLTRIGTYPE_PHYDMGHIT"  desc="被物理攻击伤害触发" />
+	<macro cname="被穿刺类攻击伤害触发"  value="14"   name="SKILLTRIGTYPE_INSERTDMGHIT"  desc="被穿刺类攻击伤害触发" />
+	<macro cname="被致命一击伤害触发"   value="15"   name="SKILLTRIGTYPE_BECRITHIT" desc="被致命一击伤害触发" />
+	
+	<macro cname="非被动技能造成伤害触发"  value="16"   name="SKILLTRIGTYPE_UNPASSIVESKILLDAMAGE" desc="非被动技能造成伤害触发" />
+	<macro cname="QWER技能造成伤害触发"  value="17"   name="SKILLTRIGTYPE_QWERSKILLDAMAGE" desc="QWER技能造成伤害触发" />
+	<macro cname="普通攻击伤害目标触发"  value="18"   name="SKILLTRIGTYPE_NORMALEACHHIT"  desc="普通攻击伤害目标触发（AOE）" />
+	<macro cname="击杀目标触发"   		 value="19"   name="SKILLTRIGTYPE_KILLTARGET" desc="击杀目标触发" />
+	
+	<macro cname="Buff效果魔法闪耀触发"   value="20"   name="SKILLTRIGTYPE_BUFFEFFECTMANAFLARE" desc="Buff效果魔法闪耀触发" />
+	<macro cname="角色等级提升触发"   value="21"   name="SKILLTRIGTYPE_LEVELUP" desc="角色等级提升触发" />
+	
+	<macro cname="切换到夜晚触发"      value="22"   name="SKILLTRIGTYPE_Day2NIGHT"  desc="切换到夜晚触发" />
+	<macro cname="切换到白天触发"      value="23"   name="SKILLTRIGTYPE_NIGHT2DAY"  desc="切换到白天触发" />
+	
+	<macro cname="召唤召唤物触发"  value="24"   name="SKILLTRIGTYPE_CALLSUMMONED"  desc="召唤召唤物触发" />
+	<macro cname="召唤物死亡触发"  value="25"   name="SKILLTRIGTYPE_SUMMONEDDEAD"  desc="召唤物死亡触发" />
+  </macrosgroup>
+  
+   <macrosgroup name="SkillTrigCastCondType" desc="技能释放条件类型">
+	<macro cname="一定时间内未受伤害"       value="1"  name="SKILLTRIGCONDTYPE_DURANOTDAMAGE"  desc="一定时间内未受伤害" />
+	<macro cname="一定时间内未释放普攻"     value="2"  name="SKILLTRIGCONDTYPE_DURANOTNORMALSKILL"  desc="一定时间内未释放普攻(包括变体普攻)" />
+	<macro cname="一定时间内未受伤害和未释放普攻"     value="3"  name="SKILLTRIGCONDTYPE_DURANOTBEDAMAGEANDNORMALSKILL"  desc="一定时间内未受伤害和未释放普攻" />
+	<macro cname="一定随机概率"       		value="4"   name="SKILLTRIGCONDTYPE_RANDOM"  desc="一定随机概率" />
+	<macro cname="生命值低于一定值"     value="5"  name="SKILLTRIGCONDTYPE_LESSHP"  desc="生命值低于一定值" />
+	<macro cname="指定一个技能组ID"     value="6"  name="SKILLTRIGCONDTYPE_SELECTSKILLGROUPID"  desc="指定一个技能组ID(主动技能不支持)" />
+	<macro cname="指定一个目标类型"     value="7"  name="SKILLTRIGCONDTYPE_SELECTACTORTYPE"  desc="指定一个目标类型(主动技能不支持)" />
+	<macro cname="技能攻击范围内存在友军尸体"     value="8"  name="SKILLTRIGCONDTYPE_RANGEEXITTEAMDEADBODY"  desc="技能攻击范围内存在友军尸体" />
+	<macro cname="技能攻击范围内存在任意尸体"     value="9"  name="SKILLTRIGCONDTYPE_RANGEEXITANYDEADBODY"  desc="技能攻击范围内存在任意尸体(被动技能不支持)" />
+	<macro cname="技能攻击范围内存在尸体且召唤数目限制"  value="10"  name="SKILLTRIGCONDTYPE_RANGEEXITANYDEADBODYANDACTORNUMLIMIT"  desc="技能攻击范围内存在尸体且召唤数目限制(被动技能不支持)" />
+	<macro cname="队伍指定单位数量上限限制"     value="11"  name="SKILLTRIGCONDTYPE_TEAMACTORNUMMAXLIMIT"  desc="队伍指定单位数量上限限制(被动技能不支持)" />
+	<macro cname="技能条件所需夜晚"       		value="12"   name="SKILLTRIGCONDTYPE_NIGHT"  desc="技能条件所需夜晚" />
+	<macro cname="无复活技能或道具"       		value="13"   name="SKILLTRIGCONDTYPE_NOREVIVAL"  desc="无复活技能或道具" />
+	<macro cname="精灵族夜晚天赋效果触发条件"     value="14"  name="SKILLTRIGCONDTYPE_ELFNIGHTTALENTTIRG"  desc="精灵族夜晚天赋效果触发条件" />
+	<macro cname="技能X标记点距离条件"     value="15"  name="SKILLTRIGCONDTYPE_SKILLXPOSMARKDIS"  desc="技能X标记点距离条件" />
+	<macro cname="指定召唤召唤物怪物ID条件"     value="16"  name="SKILLTRIGCONDTYPE_SELECTSUMMONRESID"  desc="指定召唤召唤物怪物ID条件" />
+	<macro cname="不死灵魂战车尸体未满条件"     value="17"  name="SKILLTRIGCONDTYPE_UDDEADBODYNOTFULL"  desc="不死灵魂战车尸体未满条件" />
+  </macrosgroup>
+  
+   <macrosgroup name="SkillTrigRevivalParamType" desc="技能复活参数类型">
+	<macro cname="技能复活血蓝固定值"  value="0"  name="SKILLTRIGREVIVALTYPE_INT"  desc="技能复活血蓝固定值" />
+	<macro cname="技能复活血蓝万分比"  value="1"  name="SKILLTRIGPARAMTYPE_10K"  desc="技能复活血蓝万分比" />
+	<macro cname="技能复活血蓝等级系数" value="2"  name="SKILLTRIGPARAMTYPE_LEVEL"  desc="技能复活血蓝等级系数" />
+   </macrosgroup>
+ 
+    <macrosgroup name="SkillTargetType" desc="技能作用对象类型">
+	<macro cname="所有单位" value="0" name="SKILL_TARGETTYPE_ALL" desc="所有单位" />
+	<macro cname="自身" value="1" name="SKILL_TARGETTYPE_SELF" desc="自身" />
+    <macro cname="所有敌方" value="2" name="SKILL_TARGETTYPE_ALLENEMY" desc="所有敌方" />
+	<macro cname="所有己方" value="3" name="SKILL_TARGETTYPE_ALLSELF" desc="所有己方" />
+    <macro cname="我方英雄" value="4" name="SKILL_TARGETTYPE_MYHERO" desc="我方英雄" />
+	<macro cname="我方士兵" value="5" name="SKILL_TARGETTYPE_MYDOGFACE" desc="我方士兵" />
+	<macro cname="我方建筑" value="6" name="SKILL_TARGETTYPE_MYBUILD" desc="我方建筑" />
+	<macro cname="敌方英雄" value="7" name="SKILL_TARGETTYPE_ENEMYHERO" desc="敌方英雄" />
+	<macro cname="敌方士兵" value="8" name="SKILL_TARGETTYPE_ENEMYDOGFACE" desc="敌方士兵" />
+	<macro cname="敌方建筑" value="9" name="SKILL_TARGETTYPE_ENEMYBUILD" desc="敌方建筑" />
+	<macro cname="自身队伍召唤物" value="10" name="SKILL_TARGETTYPE_MYTEAMCALLER" desc="自身队伍召唤物" />
+	<macro cname="敌方召唤物" value="11" name="SKILL_TARGETTYPE_ENEMYCALLER" desc="敌方召唤物" />
+	<macro cname="所有己方除建筑"         value="12" name="SKILL_TARGETTYPE_MYALLNOTBUILD" desc="所有己方除建筑" />
+	<macro cname="所有己方除建筑除施法者" value="13" name="SKILL_TARGETTYPE_MYALLNOTBUILDANDME" desc="所有己方除建筑除施法者" />
+	<macro cname="所有敌方除建筑"         value="14" name="SKILL_TARGETTYPE_ALLENEMTNOTBUILD" desc="所有敌方除建筑" />
+	<macro cname="所有敌方除英雄和建筑"   value="15" name="SKILL_TARGETTYPE_ALLENEMTNOTHEROANDBUILD" desc="所有敌方除英雄和建筑" />
+	<macro cname="所有己方远程除建筑"     value="16" name="SKILL_TARGETTYPE_MYLONGACTORNOTBUILD" desc="所有己方远程除建筑" />
+	<macro cname="所有己方近战除建筑"     value="17" name="SKILL_TARGETTYPE_MYNEARACTORNOTBUILD" desc="所有己方近战除建筑" />
+	<macro cname="所有敌方除建筑和野怪"   value="18" name="SKILL_TARGETTYPE_ALLENEMTNOTBUILDANDMONSTER" desc="所有敌方除建筑和野怪" />
+	<macro cname="所有己方队伍除建筑"     value="19" name="SKILL_TARGETTYPE_MYTEAMALLNOTBUILD" desc="所有己方队伍除建筑" />
+	<macro cname="所有己方队伍远程除建筑" value="20" name="SKILL_TARGETTYPE_MYTEAMLONGACTORNOTBUILD" desc="所有己方队伍远程除建筑" />
+	<macro cname="所有士兵及野怪除召唤物" value="21" name="SKILL_TARGETTYPE_ALLDOGFACEANDMONSTRENOTSUMM" desc="所有士兵及野怪除召唤物" />
+	
+	<macro cname="目标阵营单位" 	      value="22" name="SKILL_TARGETTYPE_ALLTARGETLEGIONACTOR" desc="目标阵营单位" />
+	<macro cname="目标阵营所有英雄"       value="23" name="SKILL_TARGETTYPE_ALLTARGETLEGIONHERO" desc="目标阵营所有英雄(无范围搜索)" />
+	<macro cname="目标阵营所有英雄和士兵" value="24" name="SKILL_TARGETTYPE_ALLTARGETLEGIONHERODOGFACE" desc="目标阵营所有英雄和士兵(无范围搜索)" />
+	<macro cname="目标队伍所有英雄"       value="25" name="SKILL_TARGETTYPE_ALLTARGETTEAMHERO" desc="目标队伍所有英雄(无范围搜索)" />
+	<macro cname="施法者敌对阵营所有英雄" value="26" name="SKILL_TARGETTYPE_CASTERHOLEGIONALLHERO" desc="施法者敌对阵营所有英雄(无范围搜索)" />
+	
+	<macro cname="所有野怪" value="27" name="SKILL_TARGETTYPE_ALLMONSTER" desc="所有野怪" />
+	<macro cname="我方队伍英雄" value="28" name="SKILL_TARGETTYPE_MYTEAMHERO" desc="我方队伍英雄" />
+
+  </macrosgroup> 
+  
+  
+   <macrosgroup name="SkillDeadbodyTargetType" desc="技能作用尸体对象类型">
+	<macro cname="所有单位尸体" value="0" name="SKILLDEADBODYTARGETTYPE_ALLACTOR" desc="所有单位尸体" />
+	<macro cname="所有己方队伍尸体" value="1" name="SKILLDEADBODYTARGETTYPE_MYTEAM" desc="所有己方队伍尸体" />
+	<macro cname="所有己方阵营尸体" value="2" name="SKILLDEADBODYTARGETTYPE_MYLEGION" desc="所有己方阵营尸体" />	
+	<macro cname="所有单位和载具尸体" value="3" name="SKILLDEADBODYTARGETTYPE_ALLACTORADNCARRDY" desc="所有单位和载具尸体" />	
+  </macrosgroup> 
+	
+ 
+  <macrosgroup name="SkillDmgType" desc="技能伤害类型">
+    <macro cname="物理伤害"   value="1" name="SKILLDMGTYPE_PHY" desc="物理伤害" />
+    <macro cname="法术伤害"   value="2" name="SKILLDMGTYPE_MGC" desc="法术伤害" />
+	<macro cname="全额伤害"   value="3" name="SKILLDMGTYPE_ALL" desc="全额伤害" />
+  </macrosgroup>
+  
+  <macrosgroup name="SkillDistanceType" desc="技能距离类型">
+    <macro cname="近战技能"   value="0" name="SKILLDISTANCETYPE_NEARA" desc="近战技能" />
+    <macro cname="远程技能"   value="1" name="SKILLDISTANCETYPE_FAR" desc="远程技能" />
+  </macrosgroup>
+  
+  <macrosgroup name="SkillAtkActorType" desc="技能攻击单位类型"> 
+	<macro name="SKILLATKACTORTYPE_GROUND" value="0" cname="攻击地面单位" desc="攻击地面单位"/>
+	<macro name="SKILLATKACTORTYPE_AIR" value="1" cname="攻击空中单位" desc="攻击空中单位"/>
+	<macro name="SKILLATKACTORTYPE_AIRANDGROUND" value="2" cname="攻击空地单位" desc="攻击空地单位"/>
+  </macrosgroup>
+  
+  <macrosgroup name="SkillPassiveBreakType" desc="技能被动打断类型(向下包含)">
+	<macro cname="任意打断"   value="1" name="SKILLPASSIVEBREAKTYPE_ALL" desc="任意打断(1.受攻击)" />
+	<macro cname="软控Buff打断"   value="2" name="SKILLPASSIVEBREAKTYPE_SOFTBUFF" desc="软控Buff打断" />
+	<macro cname="硬控Buff打断"   value="3" name="SKILLPASSIVEBREAKTYPE_DEBUFF" desc="硬控Buff打断" />
+	<macro cname="死亡打断"   value="4" name="SKILLPASSIVEBREAKTYPE_DEAD" desc="死亡打断" />
+	<macro cname="上帝打断"   value="5" name="SKILLPASSIVEBREAKTYPE_GOD" desc="上帝模式，能够打断所有(程序保护用)" />
+  </macrosgroup>
+  
+   <macrosgroup name="SkillAutoBreakBehaviType" desc="技能主动打断行为类型(不填表)">
+	<macro  value="1" name="SKILLAUTOBREAKBEHAVITYPE_SKILLBEFOREROLL" desc="技能前摇打断" />
+	<macro  value="2" name="SKILLAUTOBREAKBEHAVITYPE_AUTOCASTSKILL" desc="主动释放技能打断" />
+	<macro  value="3" name="SKILLAUTOBREAKBEHAVITYPE_USEITEM" desc="使用道具打断" />
+	<macro  value="4" name="SKILLAUTOBREAKBEHAVITYPE_BUILD" desc="建造打断" />
+	<macro  value="5" name="SKILLAUTOBREAKBEHAVITYPE_MOVE" desc="移动打断" />
+  </macrosgroup>
+  
+  <macrosgroup name="SkillAutoBreakType" desc="技能主动打断类型(无优先级)">
+	<macro cname="技能前摇打断"   		value="1" name="SKILLAUTOBREAKTYPE_LV1" desc="技能前摇打断" />
+	<macro cname="建造和使用道具打断"   value="2" name="SKILLAUTOBREAKTYPE_LV2" desc="建造和使用道具打断" />
+	<macro cname="技能前摇和移动打断"   value="3" name="SKILLAUTOBREAKTYPE_LV3" desc="技能前摇和移动打断" />
+	<macro cname="建造和使用道具和移动打断" value="4" name="SKILLAUTOBREAKTYPE_LV4" desc="建造和使用道具和移动打断" />
+	<macro cname="主动使用技能打断" 	value="5" name="SKILLAUTOBREAKTYPE_LV5" desc="主动使用技能打断" />
+	<macro cname="主动使用技能和使用道具和移动打断" 	value="6" name="SKILLAUTOBREAKTYPE_LV6" desc="主动使用技能和使用道具和移动打断" />
+  </macrosgroup>
+  
+  <macrosgroup name="SkillInputOpType" desc="技能释放操控类型">
+    <macro cname="操控类型_无"   		value="0" name="SKILLINPUTOPTYPE_NONE" desc="操控类型_无" />
+    <macro cname="操控类型_控制朝向"   value="1" name="SKILLINPUTOPTYPE_DIR" desc="操控类型_控制朝向" />
+  </macrosgroup>
+  
+  <macrosgroup name="SkillCooldownType" desc="技能冷却类型">
+	<macro cname="无冷却"   value="0" name="SKILLCOOLDOWNTYPE_NONE" desc="无冷却" />
+	<macro cname="时间冷却"   value="1" name="SKILLCOOLDOWNTYPE_TIME" desc="时间冷却" />
+  </macrosgroup>
+  
+   <macrosgroup name="SkillCDStartType" desc="技能CD启动类型">
+	<macro cname="释放技能启动"   value="0" name="SKILLCDSTARTTYPE_CASTSKILL" desc="释放技能启动" />
+	<macro cname="技能前摇结束启动"   value="1" name="SKILLCDSTARTTYPE_SKILLROLLEND" desc="技能前摇结束启动" />
+	<macro cname="技能攻击状态结束启动"   value="2" name="SKILLCDSTARTTYPE_SKILATKEND" desc="技能后摇结束启动" />
+  </macrosgroup>
+  
+   <macrosgroup name="SkillCostType" desc="技能消耗类型">
+	<macro cname="无消耗"   value="0" name="SKILLCOSTYPE_NONE" desc="无消耗" />
+	<macro cname="法术值消耗"   value="1" name="SKILLCOSTYPE_MP" desc="法术值消耗" />
+	<macro cname="计数能量点消耗"   value="2" name="SKILLCOSTYPE_ENERGY" desc="计数能量点" />
+	<macro cname="技能充能点消耗"   value="3" name="SKILLCOSTYPE_SKILLPT" desc="技能充能点" />
+	<macro cname="道具消耗"   value="4" name="SKILLCOSTYPE_ITEM" desc="道具" />
+  </macrosgroup>
+  
+  <macrosgroup name="SkillPointType" desc="技能指向类型">
+    <macro cname="选择自身" value="0" name="SKILLPOINTTYPE_SLFE" desc="自身" />
+	<macro cname="选择自身位置" value="1" name="SKILLPOINTTYPE_SLFEPOS" desc="自身位置" />	
+	<macro cname="选择目标" value="2" name="SKILLPOINTTYPE_TARGET" desc="选择目标" />
+    <macro cname="选择朝向" value="3" name="SKILLPOINTTYPE_DIRECTION" desc="选择朝向" />
+	<macro cname="选择区域" value="4" name="SKILLPOINTTYPE_AREA" desc="选择区域" />
+	<macro cname="选择区域目标" value="5" name="SKILLPOINTTYPE_AREATARGET" desc="选择区域目标" />
+	<macro cname="选择地图区域" value="6" name="SKILLPOINTTYPE_MAPAREA" desc="选择地图区域" />
+	<macro cname="选择地图目标" value="7" name="SKILLPOINTTYPE_MAPTARGET" desc="选择地图目标" />	
+	<macro cname="选择区域并镜头跟随" value="8" name="SKILLPOINTTYPE_AREACAMERAFOLLOW" desc="选择区域并镜头跟随" />
+  </macrosgroup>
+  
+  <macrosgroup name="SkillPointAreaType" desc="技能指向区域类型">
+    <macro cname="无区域" value="0" name="SKILLPOINTAREA_NONE" desc="无区域" />
+    <macro cname="矩形" value="1" name="ASKILLPOINTAREA_RECTANGLE" desc="矩形" />
+	<macro cname="圆形" value="2" name="SKILLPOINTAREA_CIRCLE" desc="圆形" />
+	<macro cname="扇形" value="3" name="SKILLPOINTAREA_CIRCULAR" desc="扇形" />
+  </macrosgroup> 
+  
+   <macrosgroup name="SkillAttkRollBuffType" desc="技能前摇效果类型">
+	<macro cname="前摇效果_无" value="0" name="SKILLATKROLLBUFFTYPE_NONE" desc="前摇效果_无" />
+    <macro cname="前摇效果_移动" value="1" name="SKILLATKROLLBUFFTYPE_MOVE" desc="前摇效果_移动" />
+	<macro cname="前摇效果_眩晕" value="2" name="SKILLATKROLLBUFFTYPE_SWIM" desc="前摇效果_眩晕" />
+    <macro cname="前摇效果_沉默" value="3" name="SKILLATKROLLBUFFTYPE_SILENT" desc="前摇效果_沉默" />
+	<macro cname="前摇效果_嘲讽" value="4" name="SKILLATKROLLBUFFTYPE_SNEER" desc="前摇效果_嘲讽" />
+	<macro cname="前摇效果_被动位移" value="5" name="SKILLATKROLLBUFFTYPE_PASSIVEMOVE" desc="前摇效果_被动位移" />
+	<macro cname="前摇效果_物理免疫" value="6" name="SKILLATKROLLBUFFTYPE_PHYIMM" desc="前摇效果_物理免疫" />
+	<macro cname="前摇效果_魔法免疫" value="7" name="SKILLATKROLLBUFFTYPE_MGCIMM" desc="前摇效果_魔法免疫" />
+	<macro cname="前摇效果_无敌" value="8" name="SKILLATKROLLBUFFTYPE_GOD" desc="前摇效果_无敌" />
+	<macro cname="前摇效果_Max" value="9" name="SKILLATKROLLBUFFTYPE_TYPEMAX" desc="前摇效果_Max" />
+  </macrosgroup> 
+  
+  
+   <macrosgroup name="SkillCtrCastType" desc="技能受控制释放类型">
+    <macro cname="有前摇通过AI释放" value="0" name="SKILLCTRCASTTYPE_AIATKROLLCAST" desc="有前摇通过AI释放" />
+	<macro cname="无前摇通过AI释放" value="1" name="SKILLCTRCASTTYPE_AINOTATKCASTCAST" desc="无前摇通过AI释放" />
+    <macro cname="无前摇不通过AI释放" value="2" name="SKILLCTRCASTTYPE_DIRECT" desc="无前摇不通过AI受控制释放" />
+	<macro cname="上帝释放" value="3" name="SKILLCTRCASTTYPE_GOD" desc="上帝释放(不通过AI,任何状态可放，无前摇)" />
+	<macro cname="被动技能直接释放" value="4" name="SKILLCTRCASTTYPE_PASSIVECAST" desc="被动技能直接释放" />
+	
+  </macrosgroup> 
+  
+  <macrosgroup name="SkillBeforeRollType" desc="技能前摇类型">
+    <macro cname="固定时间前摇" value="0" name="SKILLBEFOREROLLTYPE_FIXTIME" desc="固定时间前摇" />
+    <macro cname="动态时间前摇" value="1" name="SKILLBEFOREROLLTYPE_DYNTIME" desc="动态时间前摇" />
+  </macrosgroup> 
+  
+  <macrosgroup name="SkillBeforeRollMoveFaceType" desc="技能前摇移动朝向类型">
+    <macro cname="技能前摇移动任意朝向" value="0" name="SKILLBEFOREROLLMOVEFACETYPE_NONE" desc="技能前摇移动任意朝向" />
+    <macro cname="技能前摇移动释放朝向" value="1" name="SKILLBEFOREROLLMOVEFACETYPE_CAST" desc="技能前摇移动释放朝向" />
+  </macrosgroup> 
+  
+  <macrosgroup name="SkillBattleCastType" desc="技能战斗释放类型">
+    <macro cname="战斗状态释放" value="0" name="SKILLBATTLECASTTYPE_IN" desc="战斗状态释放" />
+    <macro cname="任意状态释放" value="1" name="SKILLBATTLECASTTYPE_ALL" desc="任意状态释放" />
+  </macrosgroup> 
+  
+  <macrosgroup name="SkillCastMutexType" desc="技能释放互斥类型">
+	<macro cname="无目标互斥" value="0" name="SKILLCASTMUTEX_NONE" desc="无目标互斥" />
+    <macro cname="对同一目标互斥" value="1" name="SKILLCASTMUTEX_SAMETARGET" desc="对同一目标互斥" />
+    <macro cname="对同一队伍排斥" value="2" name="SKILLCASTMUTEX_SAMETEAM" desc="对同一队伍排斥" />
+  </macrosgroup> 
+  
+  <macrosgroup name="SkillLastTargetCondType" desc="技能上次目标有效条件">
+    <macro cname="技能目标仍在技能范围内"   value="1" name="SKILLLASTTARGETCONDTYPE_SKLLAREA" desc="技能目标仍在技能范围内" />
+  </macrosgroup>
+  
+   <macrosgroup name="SkillTargetStatusCullType" desc="技能目标状态排除条件">
+    <macro cname="技能目标命中BUFF组ID"   value="1" name="SKILLTTARGETSTATUSCULLYPE_BUFFGROUP" desc="技能目标命中BUFF组ID" />
+	<macro cname="技能目标血量满"   value="2" name="SKILLTTARGETSTATUSCULLYPE_FULLHP" desc="技能目标血量满" />
+	<macro cname="技能目标命中法术场组ID"   value="3" name="SKILLTTARGETSTATUSCULLYPE_SKILLFIELD" desc="技能目标命中法术场组ID" />
+  </macrosgroup>
+  
+   <macrosgroup name="SkillTargetFilterType" desc="技能目标筛选条件类型">
+    <macro cname="技能目标筛选_目标类型"   value="1" name="SKILLTARGETFILTERTYPE_ACTORTYPE" desc="技能目标筛选_目标类型" />
+	<macro cname="技能目标筛选_血量"   value="2" name="SKILLTARGETFILTERTYPE_HP" desc="技能目标筛选_血量" />
+	<macro cname="技能目标筛选_距离"   value="3" name="SKILLTARGETFILTERTYPE_DISTANCE" desc="技能目标筛选_距离" />
+	<macro cname="技能目标筛选_魔法盗取"   value="4" name="SKILLTARGETFILTERTYPE_SPELLSTEAL" desc="技能目标筛选_魔法盗取" />	
+	<macro cname="技能目标筛选_驱散魔法"   value="5" name="SKILLTARGETFILTERTYPE_DISPELMAGIC" desc="技能目标筛选_驱散魔法" />
+	<macro cname="技能目标筛选_龙卷风"   value="6" name="SKILLTARGETFILTERTYPE_CYCLONE" desc="技能目标筛选_龙卷风" />		
+  </macrosgroup>
+  
+   <macrosgroup name="SkillTargetFilterActorType" desc="技能目标筛选目标类型">
+    <macro cname="目标筛选_英雄"   value="1" name="SKILLTARGETFILTERACTORTYPE_HERO" desc="目标筛选_英雄" />
+	<macro cname="目标筛选_小兵"   value="2" name="SKILLTARGETFILTERACTORTYPE_DOGFACE" desc="目标筛选_小兵" />
+	<macro cname="目标筛选_建筑"   value="3" name="SKILLTARGETFILTERACTORTYPE_BUILD" desc="目标筛选_建筑" />
+	<macro cname="目标筛选_近战单位" value="4" name="SKILLTARGETFILTERACTORTYPE_WEAPONTYPENEAR" desc="目标筛选_近战单位" />
+	<macro cname="目标筛选_远程单位" value="5" name="SKILLTARGETFILTERACTORTYPE_WEAPONTYPEFAR" desc="目标筛选_远程单位" />
+  </macrosgroup>
+  
+  <macrosgroup name="SkillTargetFilterDispelMagicType" desc="驱散魔法参数优先级">
+    <macro cname="驱散优先_敌方增益BUFF"   value="0" name="SKILLTARGETFILTERDISPELMAGICTYPE_ENEMYUSEFULBUFF" desc="驱散优先_敌方增益BUFF" />
+	<macro cname="驱散优先_我方减益BUFF"   value="1" name="SKILLTARGETFILTERDISPELMAGICTYPE_MYUNUSEFUL" desc="驱散优先_我方减益BUFF" />
+	<macro cname="驱散优先_召唤物"   	  value="2" name="SKILLTARGETFILTERDISPELMAGICTYPE_SUMMONED" desc="驱散优先_召唤物" />
+  </macrosgroup>
+  
+  
+   <!--==========技能阶段=============-->
+   <macrosgroup name="SkillEffectType" desc="技能效果类型" >
+    <macro name="SKILLEFFECT_NONE"     	value="0"    	cname="无特殊效果" desc="无特殊效果"/>
+    <macro name="SET_ADD_BUFF"     		value="1"     	cname="添加buff"    desc="添加buff"/>
+	<macro name="REMOVE_BUFF"           value="2"     	cname="移除buff"    desc="移除buff"/>
+	<macro name="CHANGE_BUFFLAYER"     	value="3"     	cname="修改buff层数"   desc="修改buff层数"/>
+	<macro name="SET_HURT"   			value="4"     	cname="造成伤害"    desc="造成伤害"/>
+	<macro name="SET_KILLHURT"   		value="5"     	cname="造成致命伤害"    desc="造成致命伤害"/>
+	<macro name="SKILL_ADDFIELD"     	value="6"     	cname="召唤法术场" 		 desc="召唤法术场"/>
+	<macro name="SKILL_REMOVEFIELD"    	value="7"     	cname="技能移除法术场" 		 desc="技能移除法术场"/>
+	<macro name="SPAWN_SUMMONED"     	value="8"     	cname="召唤怪物" 		 desc="召唤怪物"/>
+	<macro name="SKILL_TP"     			value="9"     	cname="技能回城" 		 desc="技能回城"/>
+	<macro name="SET_REBHURT"   		value="10"    	cname="造成反弹伤害"    desc="造成反弹伤害"/>
+	<macro name="SKILL_DISPEL"     		value="11"      cname="技能驱散"  desc="技能驱散"/>
+	<macro name="SpellSteal"     		value="12"  	cname="魔法盗取阶段效果"  desc="魔法盗取阶段效果"/>	
+	<macro name="RESETHP"     			value="13"     	cname="技能阶段加血" 		 desc="技能阶段加血"/>	
+	<macro name="OPDEADBODY"     		value="14"     	cname="技能操控尸体" 		 desc="技能操控尸体"/>
+	<macro name="CHANGESKILLENERGY"     value="15"     	cname="修改计数能量点" 		 desc="修改计数能量点"/>
+	<macro name="BREAKSKILL"     		value="16"     	cname="中断释放中技能" 		 desc="中断释放中技能"/>
+	<macro name="SKILLSPAWNDEADBODY"    value="17"     	cname="技能产生尸体" 		 desc="技能产生尸体"/>
+	<macro name="SKILLMANABREAK"     	value="18"     	cname="技能法力损毁" 		 desc="技能法力损毁"/>
+	<macro name="OPCASTSKILLCD"     	value="19"     	cname="修改当前释放技能CD" 		 desc="修改当前释放技能CD"/>
+	<macro name="EXORCISMSUCKHP"     	value="20"     	cname="驱使恶灵吸血" 		 desc="驱使恶灵吸血"/>
+	<macro name="SUMMONEDLIFETIME" 		value="21"      cname="技能修改召唤物存活时间"    desc="技能修改召唤物存活时间" />
+	<macro name="DEVOUR_MAGIC"   		value="22"   	cname="吞噬魔法"   desc="吞噬魔法"/>
+	<macro name="SKILL_CHARM"   		value="23"   	cname="魅惑符咒"   desc="魅惑符咒"/>
+	<macro name="SKILL_XPOSMARK"   		value="24"   	cname="技能X位置标记"   desc="技能X位置标记"/>
+	<macro name="SKILLBACK_XPOSMARK"   	value="25"  	cname="技能X标记返回"   desc="技能X标记返回"/>
+	<macro name="SPYFOWPOSITION"  		value="26"  	cname="技能侦查迷雾位置"  desc="技能侦查迷雾位置"/>
+	<macro name="RESETITEMCD"  			value="27"  	cname="重置道具CD"  desc="重置道具CD"/>
+	<macro name="UDGROUNDSPAWNDEADBODY" value="28"  	cname="腐地生成尸体"  desc="腐地生成尸体"/>
+	<macro name="NETREESTANDBY" 		value="29"  	cname="精灵树坐地"  desc="精灵树坐地"/>
+	<macro name="ATKPLUNDERGOLD"   		value="30"     	cname="攻击掠夺金钱"    desc="攻击掠夺金钱"/>
+	<macro name="SET_MAX"   			value="31"   	cname="技能效果类型最大值" desc="技能效果类型最大值"/>
+	                                   
+  </macrosgroup>
+ 
+  
+   <macrosgroup name="SkillEffectTargetType" desc="技能效果目标类型" >
+    <macro name="SKILLEFFECTTARGET_SELFTEAM"   value="0"    	cname="己方单位" desc="己方单位"/>
+    <macro name="SKILLEFFECTTARGET_OPPTEAM"   value="1"     	cname="敌方单位" desc="敌方单位"/>
+  </macrosgroup>
+  
+   <macrosgroup name="SkillEffectDamageType" desc="技能阶段伤害系数类型" >
+    <macro name="SKILLEFFECTDAMGETYPE_DEFAULT"   value="0"    	cname="技能阶段默认效果系数" desc="技能阶段默认效果系数"/>
+    <macro name="SKILLEFFECTDAMGETYPE_DISTANCE"   value="1"     	cname="距离效果系数" desc="距离效果系数"/>
+	<macro name="SKILLEFFECTDAMGETYPE_HP"   value="2"     	cname="生命值效果固定值" desc="生命值效果固定值"/>
+	<macro name="SKILLEFFECTDAMGETYPE_MP"   value="3"     	cname="法术值效果固定值" desc="法术值效果固定值"/>
+	<macro name="SKILLEFFECTDAMGETYPE_SKILLENERGY"   value="4"   cname="计数能量点系数" desc="计数能量点系数"/>
+	<macro name="SKILLEFFECTDAMGETYPE_HEROLEVEL"   value="5"    cname="角色等级系数" desc="角色等级系数"/>
+	<macro name="SKILLEFFECTDAMGETYPE_BUFFLAYER"   value="6"    cname="BUFF层级系数" desc="BUFF层级系数"/>
+	<macro name="SKILLEFFECTDAMGETYPE_ATTRARMOR"   value="7"    cname="护甲数值系数" desc="护甲数值系数"/>
+	<macro name="SKILLEFFECTDAMGETYPE_HITINDEX"   value="8"    cname="技能受击排序系数" desc="技能受击排序系数"/>
+	<macro name="SKILLEFFECTDAMGETYPE_HITTARGETCNT_OP"   value="9"  cname="技能击中目标数目操作数系数" desc="技能击中目标数目操作数系数"/>
+	<macro name="SKILLEFFECTDAMGETYPE_HITTARGETCNT_ATTR"   value="10"  cname="技能击中目标数目属性系数" desc="技能击中目标数目属性系数"/>
+	<macro name="SKILLEFFECTDAMGETYPE_HPANDBLOOM"   value="11"  cname="生命值效果固定值附带吸血效果" desc="生命值效果固定值附带吸血效果"/>
+	<macro name="SKILLEFFECTDAMGETYPE_MAX"   value="12"     	cname="技能阶段效果系数最大值" desc="技能阶段效果系数最大值"/>
+  </macrosgroup>
+  
+   <macrosgroup name="SkillEffectSummonedType" desc="技能阶段召唤物召唤类型" >
+    <macro name="SKILLEFFECTSUMMON_TARGETPOS"     	value="0"    cname="当前目标位置召唤" desc="当前目标位置召唤"/>
+	<macro name="SKILLEFFECTSUMMON_FRONTPOS"     	value="1"    cname="当前目标朝向位置召唤" desc="当前目标朝向位置召唤"/>
+  </macrosgroup>
+  
+  <macrosgroup name="SkillEffectAddBuffCondType" desc="技能阶段BUFF添加条件和效果" >
+	<macro name="SKILLEFFECTADDBUFFCOND_SKILLENGRGYCNT"   value="1"    cname="技能阶段所需计数能量点数目" desc="技能阶段所需计数能量点数目,条件"/>
+	<macro name="SKILLEFFECTADDBUFFCOND_HITTARGETCNTBUFFLAYER"   value="2"    cname="技能阶段击中目标数添加BUFF层" desc="技能阶段击中目标数添加BUFF层,添加层级"/>
+	<macro name="SKILLEFFECTADDBUFFCOND_GIVERLEVELBUFFLAYER"   value="3"    cname="技能阶段施法者等级添加BUFF层" desc="技能阶段施法者等级添加BUFF层,添加层级"/>
+	<macro name="SKILLEFFECTADDBUFFCOND_REGIONFREINDACTORCNTBUFFLAYER"   value="4"    cname="技能阶段范围内特定友军单位数目添加BUFF层" desc="技能阶段范围内特定友军单位数目添加BUFF层,添加层级"/>
+ </macrosgroup>
+  
+  <macrosgroup name="SkillEffectTPType" desc="技能阶段回城类型" >
+    <macro name="SKILLEFFECTTPTYPE_MAPTPPOS"     	value="0"    cname="回城到地图传送点" desc="回城到地图传送点"/>
+	<macro name="SKILLEFFECTTPTYPE_TEAM"     	value="1"    cname="群体传送到单位位置" desc="群体传送到单位位置"/>
+  </macrosgroup>
+  
+
+  
+   <macrosgroup name="SkillEffectOpDeadBodyType" desc="技能阶段操控尸体类型" >
+    <macro name="SKILLEFFECTOPDEADBODYTYPE_REVIVAL"    value="0"    cname="操控尸体复活" desc="操控尸体复活"/>
+	<macro name="SKILLEFFECTOPDEADBODYTYPE_CALLER"     	value="1"    cname="操控尸体召唤" desc="操控尸体召唤"/>
+  </macrosgroup>
+  
+   <macrosgroup name="SkillEffectDispelType" desc="技能阶段驱散类型" >
+    <macro name="SKILLEFFECTDISPELTYPE_ALL"    value="0"    cname="技能驱散_所有" desc="技能驱散_所有"/>
+	<macro name="SKILLEFFECTDISPELTYPE_LEGION" value="1"    cname="技能驱散_阵营优先" desc="技能驱散_阵营优先"/>
+  </macrosgroup>
+  
+   <macrosgroup name="SkillEffectDoDamageType" desc="技能造成伤害类型" >
+    <macro name="SKILLEFFECTDODAMAGE_DIRECT"   value="0"    	cname="直接造成伤害" desc="直接造成伤害"/>
+    <macro name="SKILLEFFECTDODAMAGE_REBORT"   value="1"     	cname="反弹造成伤害" desc="反弹造成伤害"/>
+  </macrosgroup>
+  
+   <macrosgroup name="SkillEffectSkillCdOpType" desc="技能阶段技能CD操作类型" >
+    <macro name="SKILLEFFECTSKILLCDOPTYPE_SKILLCD" value="0"    cname="技能阶段效果_修改技能CD" desc="技能阶段效果_修改技能CD,分子时间"/>
+    <macro name="SKILLEFFECTSKILLCDOPTYPE_INSKILLCD"    value="1"    cname="技能阶段效果_技能进入CD" desc="技能阶段效果_技能进入CD"/>
+  </macrosgroup>
+  
+   <macrosgroup name="SkillEffectHitLimitType" desc="技能阶段受击数目上限类型" >
+	<macro name="SKILLEFFECTHITLIMITTYPE_ALL"   value="0"   cname="累计受击数目上限" desc="累计受击数目上限"/>
+    <macro name="SKILLEFFECTHITLIMITTYPE_ONCE"  value="1"   cname="单次受击数目上限" desc="单次受击数目上限"/>
+  </macrosgroup>
+  
+ 
+ 
+   <!--==========战场数值=============-->
+   <macrosgroup name="ResExpType" desc="经验类型" >
+    <macro name="RESEXPTYPE_SYSTEM"   value="0"    	cname="系统经验" desc="系统经验"/>
+    <macro name="RESEXPTYPE_MONSTER"   value="1"     	cname="野怪经验" desc="野怪经验"/>
+	<macro name="RESEXPTYPE_LEGION"   value="2"     	cname="英雄士兵经验" desc="英雄士兵经验"/>
+  </macrosgroup>
+  
+   <macrosgroup name="ResMoneyAddType" desc="金钱获取类型" >
+    <macro name="RESMONEYADDTYPE_SYSTEM"   value="0"    	 desc="系统奖励金钱"/>
+    <macro name="RESMONEYADDTYPE_GOLDMINE"   value="1"      desc="金矿开采金钱"/>
+	<macro name="RESMONEYADDTYPE_KILLACTOR"   value="2"     	 desc="击杀战斗单位金钱"/>
+	<macro name="RESMONEYADDTYPE_KILLMONSTER"   value="3"      desc="击杀野怪金钱"/>
+	
+	<macro name="RESMONEYADDTYPE_REPLAIRCOST"   value="4"     	 desc="维修费消耗"/>
+	<macro name="RESMONEYADDTYPE_BUILDACTORCOST"   value="5"     	desc="造兵消耗"/>
+	<macro name="RESMONEYADDTYPE_BUILDOTHERCOST"   value="6"     	desc="造塔或金矿消耗"/>
+	<macro name="RESMONEYADDTYPE_TECHUPCOST"   value="7"     	desc="科技升级消耗"/>
+	<macro name="RESMONEYADDTYPE_SELLEQUIP"   value="8"     	desc="出售装备"/>
+	
+	<macro name="RESMONEYADDTYPE_GM"   value="10"     	desc="GM命令"/>
+	
+  </macrosgroup>
+  
+   <macrosgroup name="ResRepairCostType" desc="维修费用类型" >
+    <macro name="RESREPAIRCOSTTYPE_NONE"   value="0"    	cname="无维修费用" desc="无维修费用"/>
+    <macro name="RESREPAIRCOSTTYPE_LOW"   value="1"     	cname="低维修费用" desc="低维修费用"/>
+	<macro name="RESREPAIRCOSTTYPE_HIGHT"   value="2"     	cname="高维修费用" desc="高维修费用"/>
+  </macrosgroup>
+
+
+ 
+   <!--==========法术场相关=============-->
+  <macrosgroup name="SkillFieldType" desc="法术场类型">
+    <macro cname="触碰消失法术场"  value="0" name="SKILLFIELD_TYPE_TRIGGER_ONCE" desc="触碰消失放技能"/>
+    <macro cname="进加出减法术场"  value="1" name="SKILLFIELD_TYPE_COMMON_FIELD" desc="进加出减法术场"/>
+	<macro cname="只加不减法术场"  value="2" name="SKILLFIELD_ONLY_ADD" desc="进加出不减法术场"/>
+	<macro cname="血瓶触碰法术场"  value="3" name="SKILLFIELD_TRIGGER_HP" desc="血瓶触碰法术场"/>
+	<macro cname="法术场类型最大值"  value="4" name="SKILLFIELD_TYPE_MAX" desc="法术场类型最大值"/>
+  </macrosgroup>
+  
+  <macrosgroup name="SkillFieldShape" desc="法术场形状">
+    <macro cname="圆形场"  value="0" name="SKILLFIELD_SHAPE_CIRCLE" desc="圆形场"/>
+    <macro cname="矩形场"  value="1" name="SKILLFIELD_SHAPE_RECT" desc="矩形场"/>
+  </macrosgroup>
+  
+   <macrosgroup name="SkillFieldShapeChangeType" desc="法术场形状变化类型">
+	<macro cname="范围内法术场无变化"  value="0" name="SKILLFIELDSHAPECHANGETYPE_NONE" desc="范围内法术场无变化"/>
+    <macro cname="范围内矩形长度变化"  value="1" name="SKILLFIELDSHAPECHANGETYPE_RECTWIDTH" desc="范围内矩形长度变化"/>
+    <macro cname="范围内矩形宽度变化"  value="2" name="SKILLFIELDSHAPECHANGETYPE_RECTHEIGHT" desc="范围内矩形宽度变化"/>
+	<macro cname="范围内圆形半径变化"  value="3" name="SKILLFIELDSHAPECHANGETYPE_CIRCLE" desc="范围内圆形半径变化"/>
+  </macrosgroup>
+  
+  <macrosgroup name="SkillFieldParamType" desc="法术场触发参数类型">
+    <macro cname="法术场触发Buff"  value="1" name="SKILLFIELD_PARAM_TYPE_BUFF" desc="法术场触发Buff"/>
+	<macro cname="法术场触发技能阶段"  value="2" name="SKILLFIELD_PARAM_TYPE_SKILL_PHASE" desc="法术场触发技能阶段"/>
+  </macrosgroup>
+  
+  <macrosgroup name="SkillFieldTargetFilterType" desc="法术场目标筛选类型">
+    <macro cname="法术场_一定时间内未受伤害筛选"  value="1" name="SKILLFIELD_FILTER_DURADAMAGE" desc="法术场_一定时间内未受伤害筛选"/>
+	<macro cname="法术场_一定时间内未受到伤害或主动攻击筛选"  value="2" name="SKILLFIELD_FILTER_DURADAMAGEORATTACK" desc="法术场_一定时间内未受到伤害或主动攻击筛选"/>
+	<macro cname="法术场_最近距离的几个"  value="3" name="SKILLFIELD_FILTER_NEAR" desc="法术场_最近距离的几个"/>
+	<macro cname="法术场_无指定BUFF组ID"  value="4" name="SKILLFIELD_FILTER_NOBUFF" desc="法术场_无指定BUFF组ID"  />
+	<macro cname="法术场_触发者范围内搜寻"  value="5" name="SKILLFIELD_FILTER_TRIGERRECTACTOR" desc="法术场_触发者范围内搜寻"/>	
+  </macrosgroup>
+  
+   <macrosgroup name="SkillFieldRemoveEventType" desc="法术场移除事件类型">
+	<macro cname="法术场移除事件_NONE"  	value="0" name="SKILLFIELDREMOVEEVENTTYPE_NONE" desc="法术场移除事件_NONE"  />
+    <macro cname="法术场施法者使用技能移除"  	value="1" name="SKILLFIELDREMOVEEVENTTYPE_CASTERCASTSKILL" desc="法术场施法者使用技能移除"  />
+	<macro cname="法术场施法者受到伤害移除"  	value="2" name="SKILLFIELDREMOVEEVENTTYPE_CASTERBEHIT" desc="法术场施法者受到伤害移除"  />
+	<macro cname="法术场被技能子弹碰撞移除"  	value="3" name="SKILLFIELDREMOVEEVENTTYPE_BESKILLNODEHIT" desc="法术场被技能子弹碰撞移除"  />
+  </macrosgroup>
+  
+  
+  <!--==========AI相关=============-->
+  <macrosgroup name="BattleModeType" desc="战场模式类型">
+    <macro cname="默认模式战场局"  value="0" name="BATTLEMODETYPE_DEFUALT" desc="默认模式战场局"/>
+    <macro cname="新手模式战场局"  value="1" name="BATTLEMODETYPE_GUIDE" desc="新手模式战场局"/>
+  </macrosgroup>
+  
+   <!--建造AI-->
+  <macrosgroup name="BuildAIType" desc="建造AI类型">
+  	<macro cname="建造AI_建造单位" 		value="1" 	name="BUILDAI_ACTOR" 		desc="建造AI_建造单位" />
+  	<macro cname="建造AI_升级单位科技" 	value="2" 	name="BUILDAI_ACTOR_TECH" 	desc="建造AI_升级单位科技" />
+  	<macro cname="建造AI_升级队伍科技" 	value="3" 	name="BUILDAI_TEAM_TECH" 	desc="建造AI_升级队伍科技" />
+	<macro cname="建造AI_建造分矿攒钱" 	value="4" 	name="BUILDAI_BUILDGOLDMINEGOLD" 	desc="建造AI_建造分矿攒钱" />
+	<macro cname="建造AI_取消分矿攒钱" 	value="5" 	name="BUILDAI_CANCELGOLDMINEGOLD" 	desc="建造AI_取消分矿攒钱" />
+  </macrosgroup> 
+  
+  <macrosgroup name="BuildAITargetType" desc="建造AI目标类型">
+  	<macro cname="建造AI_无目标" 			value="0" 	name="BUILDAITARGET_NONE" 					desc="建造AI_无目标" />
+  	<macro cname="建造AI_常量" 				value="1" 	name="BUILDAITARGET_CONST" 					desc="建造AI_常量" />
+  	<macro cname="建造AI_条件变量" 			value="2" 	name="BUILDAITARGET_VAR" 					desc="建造AI_条件变量" />
+  	<macro cname="建造AI_子条件" 			value="3" 	name="BUILDAITARGET_SUB_COND" 				desc="建造AI_子条件" />
+  	<macro cname="建造AI_单位数量" 			value="4" 	name="BUILDAITARGET_ACTOR_CNT" 				desc="建造AI_单位数量" />
+  	<macro cname="建造AI_建造中单位数量" 	value="5" 	name="BUILDAITARGET_BUILDING_ACTOR_CNT" 	desc="建造AI_建造中单位数量" />
+  	<macro cname="建造AI_基地等级" 			value="6" 	name="BUILDAITARGET_BASE_LVL" 				desc="建造AI_基地等级" />
+  	<macro cname="建造AI_人口数量" 			value="7" 	name="BUILDAITARGET_FOOD_CNT" 				desc="建造AI_人口数量" />
+  	<macro cname="建造AI_最大人口数量" 		value="8" 	name="BUILDAITARGET_MAX_FOOD_CNT" 			desc="建造AI_最大人口数量" />
+    <macro cname="建造AI_待开采金矿数"    value="9"   name="BUILDAITARGET_NEED_GOLD_MINE_CNT"       desc="建造AI_待开采金矿数" />
+    <macro cname="建造AI_待建造防御塔数"    value="10"   name="BUILDAITARGET_NEED_TOWER_CNT"       desc="建造AI_待建造防御塔数" />
+    <macro cname="建造AI_科技等级"    value="11"   name="BUILDAITARGET_TECH_LVL"       desc="建造AI_科技等级" />
+
+  	<macro cname="建造AI目标类型最大值" 	value="12" 	name="BUILDAITARGET_MAX" 					desc="建造AI目标类型最大值" />
+  </macrosgroup> 
+
+  
+  <!--科技树特殊功能-->
+  
+  <macrosgroup name="BaseTechLevelType" desc="基地科技等级类型">
+	<macro cname="无科技基地"  value="0" name="BASETECHLEVEL_LEVEL0" desc="无科技基地"/>
+    <macro cname="一本科技基地"  value="1" name="BASETECHLEVEL_LEVEL1" desc="一本科技基地"/>
+	<macro cname="二本科技基地"  value="2" name="BASETECHLEVEL_LEVEL2" desc="二本科技基地"/>
+    <macro cname="三本科技基地"  value="3" name="BASETECHLEVEL_LEVEL3" desc="三本科技基地"/>
+  </macrosgroup>
+  
+  <macrosgroup name="TechLevelType" desc="科技类型">
+	<macro cname="单位科技"  value="0" name="TECHTYPE_ACTOR" desc="单位科技"/>
+    <macro cname="团队科技"  value="1" name="TECHTYPE_TEAM" desc="团队科技"/>
+  </macrosgroup>
+  
+   <macrosgroup name="TechLevelSubType" desc="科技子类型">
+	<macro cname="科技子类型_NONE"  value="0" name="TECHSUBTYPE_NONE" desc="科技子类型_NONE"/>
+	<macro cname="单位基地升级科技"  value="1" name="TECHSUBTYPE_BASEUP" desc="单位基地升级科技"/>
+	<macro cname="单位变身科技"  	value="2" name="TECHSUBTYPE_ACTORAVATAR" desc="单位变身科技"/>
+	<macro cname="单位金矿建造科技"  value="3" name="TECHSUBTYPE_BUILDGOLDMINE" desc="单位金矿建造科技"/>	
+	<macro cname="单位防御塔建造科技"  value="4" name="TECHSUBTYPE_BUILDTOWER" desc="单位防御塔建造科技"/>	
+	<macro cname="单位训练科技"  	value="5" name="TECHSUBTYPE_CONSTRUCTARMY" desc="单位训练科技"/>	
+    <macro cname="团队攻击升级科技"  value="6" name="TECHSUBTYPE_ATKUP" desc="团队攻击升级科技"/>
+	<macro cname="团队防御升级科技"  value="7" name="TECHSUBTYPE_DEFENCEUP" desc="团队防御升级科技"/>
+	<macro cname="团队人口升级科技"  value="8" name="TECHSUBTYPE_FOODUP" desc="团队人口升级科技"/>	
+  </macrosgroup>
+  
+  <macrosgroup name="TechEffectType" desc="科技效果类型">
+    <macro cname="科技效果_解锁单位技能" value="1" name="TECHEFFECTTYPE_UNLOCKUNITSKILL" desc="科技效果_解锁单位技能" />
+    <macro cname="科技效果_提升最大人口" value="2" name="TECHEFFECTTYPE_UPDATEMAXFOOD" desc="科技效果_提升最大人口" />
+    <macro cname="科技效果_提升单位攻防属性" value="3" name="TECHEFFECTTYPE_UPDATEUNITATTR" desc="科技效果_提升单位攻防属性" />
+    <macro cname="科技效果_基地科技升级" value="4" name="TECHEFFECTTYPE_UPDATEBASE" desc="科技效果_基地科技升级" />
+	<macro cname="科技效果_孵化单位" value="5" name="TECHEFFECTTYPE_SPAWNACTOR" desc="科技效果_孵化单位" />
+	<macro cname="科技效果_增加英雄技能" value="6" name="TECHEFFECTTYPE_ADDHEROSKILL" desc="科技效果_增加英雄技能" />
+  </macrosgroup>
+
+  <macrosgroup name="TechStatusType" desc="科技状态类型">
+    <macro cname="科技状态_不可用" value="0" name="TECHSTATUSTYPE_INVALID" desc="科技状态_不可用" />
+	<macro cname="科技状态_锁定中" value="1" name="TECHSTATUSTYPE_LOCK" desc="科技状态_不可用" />
+    <macro cname="科技状态_可研究" value="2" name="TECHSTATUSTYPE_READY" desc="科技状态_可研究" />
+    <macro cname="科技状态_研究中" value="3" name="TECHSTATUSTYPE_RESEARCHING" desc="科技状态_研究中" />
+    <macro cname="科技状态_研究完成" value="4" name="TECHSTATUSTYPE_FINISH" desc="科技状态_研究完成" />
+  </macrosgroup> 
+  
+  
+  <macrosgroup name="TechTreeType" desc="科技树类型">
+    <macro cname="科技树类型1" value="1" name="TECHTREETYPE_LEVEL1" desc="科技树类型1" />
+	<macro cname="科技树类型2" value="2" name="TECHTREETYPE_LEVEL2" desc="科技树类型2" />
+    <macro cname="科技树类型3" value="3" name="TECHTREETYPE_LEVEL3" desc="科技树类型3" />
+    <macro cname="科技树类型4" value="4" name="TECHTREETYPE_LEVEL4" desc="科技树类型3" />
+    <macro cname="科技树类型5" value="5" name="TECHTREETYPE_LEVEL5" desc="科技树类型4" />
+	<macro cname="科技树类型MAX" value="10" name="TECHTREETYPE_MAX" desc="科技树类型MAX" />
+  </macrosgroup> 
+  
+  
+  <!--==========道具类型=============-->
+
+  <macrosgroup name="BattleGoodsItemType" desc="物品道具类型">
+	<macro cname="物品道具无类型"  value="0" name="BATTLEGOODSITEMTYPE_NONE" desc="物品道具无类型"/>
+    <macro cname="回程类物品道具"  value="1" name="BATTLEGOODSITEMTYPE_RETURNTOBASE" desc="回程类物品道具"/>
+	<macro cname="金币类物品道具"  value="2" name="BATTLEGOODSITEMTYPE_GOLD" desc="金币类物品道具"/>
+    <macro cname="书籍类物品道具"  value="3" name="BATTLEGOODSITEMTYPE_ATTRBOOK" desc="书籍类物品道具"/>
+	<macro cname="卷轴类物品道具"  value="4" name="BATTLEGOODSITEMTYPE_SCROLLS" desc="卷轴类物品道具"/>
+	<macro cname="药剂类物品道具"  value="5" name="BATTLEGOODSITEMTYPE_POTION" desc="药剂类物品道具"/>
+	<macro cname="神符类物品道具"  value="6" name="BATTLEGOODSITEMTYPE_RUNE" desc="神符类物品道具"/>
+	<macro cname="侦查类物品道具"  value="7" name="BATTLEGOODSITEMTYPE_WARD" desc="侦查类物品道具"/>
+	<macro cname="装备类物品道具"  value="8" name="BATTLEGOODSITEMTYPE_EQUIP" desc="装备类物品道具"/>	
+	<macro cname="召唤单位类物品道具"  value="9" name="BATTLEGOODSITEMTYPE_SUMMONEDACTOR" desc="召唤单位类物品道具"/>	
+	
+	<macro cname="物品道具类型最大值"  value="10" name="BATTLEGOODSITEMTYPE_MAX" desc="物品道具类型最大值"/>
+  </macrosgroup>
+  
+    <macrosgroup name="ItemQualityType" desc="道具品质类型">
+	<macro cname="道具品质_白"  value="0" name="ITEMQUALITYTYPE_WHITE" desc="道具品质_白"  />
+	<macro cname="道具品质_绿"  value="1" name="ITEMQUALITYTYPE_GREEN" desc="道具品质_绿"  />
+	<macro cname="道具品质_蓝"  value="2" name="ITEMQUALITYTYPE_BLUE" desc="道具品质_蓝"  />
+	<macro cname="道具品质_紫"  value="3" name="ITEMQUALITYTYPE_PURPLE" desc="道具品质_紫"  />
+	<macro cname="道具品质_橙"  value="4" name="ITEMQUALITYTYPE_ORANGE" desc="道具品质_橙"  />
+  </macrosgroup>
+  
+  <macrosgroup name="ItemPickType" desc="道具拾取类型">
+	<macro cname="道具自动拾取"  value="0" name="ITEMPICKTYPE_AUTO" desc="道具自动拾取"/>
+	<macro cname="道具点击拾取"  value="1" name="ITEMPICKTYPE_MANUAL" desc="道具点击拾取"/>
+	<macro cname="道具吟唱拾取"  value="2" name="ITEMPICKTYPE_CHAT" desc="道具吟唱拾取"/>
+
+  </macrosgroup>
+
+  <macrosgroup name="ItemUseType" desc="道具使用类型">
+	<macro cname="道具不可使用"  value="0" name="ITEMUSETYPE_NONE" desc="道具不可使用"/>
+	<macro cname="道具点击使用"  value="1" name="ITEMUSETYPE_MANUAL" desc="道具点击使用"/>
+	<macro cname="道具自动使用"  value="2" name="ITEMUSETYPE_AUTO" desc="道具自动使用"/>
+
+  </macrosgroup> 
+  
+   <macrosgroup name="ItemCostType" desc="道具消耗类型">
+	<macro cname="道具使用立即消耗"  value="0" name="ITEMCOSTTYPE_IMM" desc="道具使用立即消耗"/>
+	<macro cname="道具技能前摇结束消耗"  value="1" name="ITEMCOSTTYPE_SKILLROLL" desc="道具技能前摇结束消耗，技能必须配置前摇和道具消耗"/>
+  </macrosgroup> 
+ 
+  <macrosgroup name="EquipBarType" desc="装备栏位类型">
+	<macro cname="装备栏位1"  value="0" name="EQUIPBARTYPE_1" desc="装备栏位1"/>
+	<macro cname="装备栏位2"  value="1" name="EQUIPBARTYPE_2" desc="装备栏位2"/>
+	<macro cname="装备栏位3"  value="2" name="EQUIPBARTYPE_3" desc="装备栏位3"/>
+	<macro cname="装备栏位4"  value="3" name="EQUIPBARTYPE_4" desc="装备栏位4"/>
+	<macro cname="装备栏位5"  value="4" name="EQUIPBARTYPE_5" desc="装备栏位5"/>
+	<macro cname="装备栏位6"  value="5" name="EQUIPBARTYPE_6" desc="装备栏位6"/>
+	
+	<macro cname="装备栏位最大值"  value="6" name="EQUIPBARTYPE_MAX" desc="装备栏位最大值"/>
+  </macrosgroup>
+  
+  
+  <macrosgroup name="BattleItemEffectType" desc="道具效果类型">
+    <macro cname="道具触发释放技能"  value="1" name="BATTLEITEMEFFECTTYPE_CASTSKILL" desc="道具触发释放技能"/>
+	<macro cname="道具触发添加BUFF"  value="2" name="BATTLEITEMEFFECTTYPE_ADDBUFF" desc="道具触发添加BUFF"/>
+	<macro cname="道具使用增加金币"  value="3" name="BATTLEITEMEFFECTTYPE_ADDGOLD" desc="道具使用增加金币"/>
+	<macro cname="道具使用穿戴装备"  value="4" name="BATTLEITEMEFFECTTYPE_ADDEQUIP" desc="道具使用穿戴装备"/>
+  </macrosgroup>
+  
+    <macrosgroup name="ItemMapTpPosType" desc="道具回城点类型" >
+		<macro name="ITEMMAPTPPOSTYPE_MYLEGION"   value="0"  cname="我方阵营所有回城点"   desc="我方阵营所有回城点"/>
+		<macro name="ITEMMAPTPPOSTYPE_MYBASE"      value="1"   cname="我方队伍基地回城点"  desc="我方队伍基地回城点"/>
+
+	</macrosgroup>
+  
+  
+    <!--============战场配置项================-->
+
+	<macrosgroup name="BaseProtectType" desc="基地保护类型">
+	<macro cname="主基地团队保护"  value="0" name="BASEPROTECTTYPE_LEGION" desc="主基地团队保护"/>
+    <macro cname="主基地队伍保护"  value="1" name="BASEPROTECTTYPE_TEAM" desc="主基地队伍保护"/>
+	</macrosgroup>
+	
+	<macrosgroup name="BattleEndJudgeType" desc="战斗比赛结束判定类型">
+	<macro cname="摧毁所有主基地定战斗胜负"  value="0" name="BATTLEENDJUDGETYPE_KILLALLBASE" desc="摧毁所有主基地定战斗胜负"/>
+    <macro cname="外部判定定战斗胜负"  value="1" name="BATTLEENDJUDGETYPE_OTHERCMD" desc="外部判定定战斗胜负"/>
+	</macrosgroup>
+
+	
+   <macrosgroup name="BattleCongfigType" desc="战场设置表">
+	<macro cname="建造塔最少满足距离"  value="1" name="BATTLECONFIGTYPE_BUILDTOWERDIS" desc="建造塔最少满足距离"  />
+	<macro cname="单位死亡变成尸体时间"  value="2" name="BATTLECONFIGTYPE_ACTORDEADBODY_TIME" desc="单位死亡变成尸体时间"  />
+	<macro cname="队伍操作时间集"  value="3" name="BATTLECONFIGTYPE_OP_TIME" desc="队伍操作时间集"  />
+	<macro cname="队伍区域距离范围"  value="4" name="BATTLECONFIGTYPE_TEAM_REGION" desc="队伍区域距离范围"  />
+	<macro cname="队伍英雄死亡锁定操作时间"  value="5" name="BATTLECONFIGTYPE_TEAMLOCKOPTIME" desc="队伍英雄死亡锁定操作时间"  />
+	<macro cname="队伍英雄复活归队距离"  value="6" name="BATTLECONFIGTYPE_HEROFOLLOWTEAMGOURO" desc="队伍英雄复活归队距离"  />
+	<macro cname="单位归队加速BUFF"  value="7" name="BATTLECONFIGTYPE_BACKTEAM_MOVEBUFF" desc="单位归队加速BUFF"  />
+	<macro cname="掉落拾取半径范围"  value="8" name="BATTLECONFIGTYPE_DROPPICKUP_RANGE" desc="掉落拾取半径范围"  />
+	<macro cname="遣散士兵有效范围"  value="9" name="BATTLECONFIGTYPE_REPATRI_RANGE" desc="遣散士兵有效范围"  />
+	<macro cname="隐身提示检测范围"  value="10" name="BATTLECONFIGTYPE_STEALWARN_RANGE" desc="隐身提示检测范围"  />
+	<macro cname="草丛渐隐参数"  value="11" name="BATTLECONFIGTYPE_GRASSPARAM" desc="草丛渐隐参数"/>
+	<macro cname="装备拾取参数"  value="12" name="BATTLECONFIGTYPE_EQUIPPICKUP" desc="装备拾取参数"/>	
+	<macro cname="AI跟随参数"  value="13" name="BATTLECONFIGTYPE_AIFLLOWPARAM" desc="AI跟随参数"/>	
+	<macro cname="Gank击杀事件参数"  value="14" name="BATTLECONFIGTYPE_GANKKILLEVENTPARAM" desc="Gank击杀事件参数"/>
+	<macro cname="击杀小兵事件参数"  value="15" name="BATTLECONFIGTYPE_KILLDOGFACEEVENTPARAM" desc="击杀小兵事件参数"/>	
+	<macro cname="挂机托管参数"  value="16" name="BATTLECONFIGTYPE_HOSTPARAM" desc="挂机托管参数"/>	
+	<macro cname="网络延迟参数"  value="17" name="BATTLECONFIGTYPE_NETPARAM" desc="网络延迟参数"/>	
+ </macrosgroup>
+  
+    <macrosgroup name="NightDayType" desc="昼夜类型">
+		<macro cname="昼夜_白天"  value="0" name="NIGHTDAYTYPE_DAYTIME" desc="昼夜_白天"/>
+		<macro cname="昼夜_晚上"  value="1" name="NIGHTDAYTYPE_NIGHT" desc="昼夜_晚上"/>
+	</macrosgroup>
+	
+	<macrosgroup name="AiConfigType" desc="AI难度">
+		<macro cname="AI难度_托管"   value="0" name="AICONFIGTYPE_ASSIT"    desc="AI难度_托管" />
+		<macro cname="AI难度_消极"   value="1" name="AICONFIGTYPE_PASSIVE" desc="AI难度_消极" />
+		<macro cname="AI难度_简单"   value="2" name="AICONFIGTYPE_EASY"    desc="AI难度_简单" />
+		<macro cname="AI难度_中等"   value="3" name="AICONFIGTYPE_NORMAL"  desc="AI难度_中等" />
+		<macro cname="AI难度_困难"   value="4" name="AICONFIGTYPE_HARD"    desc="AI难度_困难" />
+		<macro cname="AI难度_疯狂"   value="5" name="AICONFIGTYPE_CRAZY"   desc="AI难度_疯狂" />
+		<macro cname="AI难度_弱引导"   value="6" name="AICONFIGTYPE_GUIDE"   desc="AI难度_弱引导" />	
+		<macro cname="AI难度_新手"   value="7" name="AICONFIGTYPE_NEWBEE"   desc="AI难度_新手" />	
+		<macro cname="AI难度_MAX"   value="8" name="AICONFIGTYPE_MAX"   desc="AI难度_MAX" />
+	</macrosgroup> 
+
+  
+  <!--============战场LOD项================-->
+  
+   <macrosgroup name="BattleSceneType" desc="战斗场景模式">
+    <macro cname="战斗场景_通用" value="0" name="BATTLESCENETYPE_COMMON" desc="战斗场景_通用" />
+    <macro cname="战斗场景_通用1V1"  value="1" name="BATTLESCENETYPE_COMMON1V1" desc="战斗场景_通用1V1" />
+	<macro cname="战斗场景_通用2V2"  value="2" name="BATTLESCENETYPE_COMMON2V2" desc="战斗场景_通用2V2" />
+    <macro cname="战斗场景_通用3V3"  value="3" name="BATTLESCENETYPE_COMMON3V3" desc="战斗场景_通用3V3" />
+	
+	<macro cname="战斗场景_新手PVE1"  value="4" name="BATTLESCENETYPE_GUIDEPVE1" desc="战斗场景_新手PVE1" />
+	<macro cname="战斗场景_新手PVE2"  value="5" name="BATTLESCENETYPE_GUIDEPVE2" desc="战斗场景_新手PVE2" />
+	<macro cname="战斗场景_新手PVE3"  value="6" name="BATTLESCENETYPE_GUIDEPVE3" desc="战斗场景_新手PVE3" />
+	<macro cname="战斗场景_新手PVE4"  value="7" name="BATTLESCENETYPE_GUIDEPVE4" desc="战斗场景_新手PVE4" />
+  </macrosgroup>
+  
+  <macrosgroup name="LODType" desc="LOD类型">
+	<macro cname="LOD低配"  	value="0" name="LODTYPE_LOW" desc="LOD低配"  />
+	<macro cname="LOD中配"  	value="1" name="LODTYPE_MID" desc="LOD中配"  />
+	<macro cname="LOD高配"  	value="2" name="LODTYPE_HIGHT" desc="LOD高配"  />
+	<macro cname="LOD_MAX"  	value="3" name="LODTYPE_MAX" desc="LOD_MAX"  />
+  </macrosgroup>
+  
+  <macrosgroup name="LODTargetType" desc="LOD对象类型">
+	<macro cname="LOD对象_自身"  	value="0" name="LODTARGETTYPE_SELF" desc="LOD对象_自身"  />
+	<macro cname="LOD对象_友军"  	value="1" name="LODTARGETTYPE_FRIENDD" desc="LOD对象_友军"  />
+	<macro cname="LOD对象_敌军"  	value="2" name="LODTARGETTYPE_ENEMY" desc="LOD对象_敌军"  />
+	<macro cname="LOD对象_MAX"  	value="3" name="LODTARGETTYPE_MAX" desc="LOD对象_MAX"  />
+  </macrosgroup>
+  
+  <macrosgroup name="LODEffectType" desc="LOD特效类型">
+	<macro cname="LOD近战攻击特效"  	value="0" name="LODEFFECTTYPE_ATTACKEFFECT_NEAR" desc="LOD近战攻击特效"  />
+	<macro cname="LOD飞行攻击特效"  	value="1" name="LODEFFECTTYPE_ATTACKEFFECT_FLY" desc="LOD飞行攻击特效"  />
+	<macro cname="LOD受击特效"  	value="2" name="LODEFFECTTYPE_HITEFFECT" desc="LOD受击特效"  />
+	<macro cname="LOD技能识别圈特效"  	value="3" name="LODEFFECTTYPE_SKILLHITRING" desc="LOD技能识别圈特效"  />
+	<macro cname="LOD技能辅助特效"  	value="4" name="LODEFFECTTYPE_SKILLOTHER" desc="LOD技能辅助特效"  />
+	
+	<macro cname="LODBUFF特效"  	value="5" name="LODEFFECTTYPE_BUFF" desc="LODBUFF特效"  />
+	<macro cname="LOD道具特效"  	value="6" name="LODEFFECTTYPE_ITEM" desc="LOD道具特效"  />
+	<macro cname="LOD法术场特效"  	value="7" name="LODEFFECTTYPE_SKILLFIELD" desc="LOD法术场特效"  />
+	
+	<macro cname="LOD角色特效"  	value="8" name="LODEFFECTTYPE_ACTOR" desc="LOD角色特效"  />
+	<macro cname="LOD场景特效"  	value="9" name="LODEFFECTTYPE_SCENE" desc="LOD场景特效"  />
+	
+	<macro cname="LOD特效MAX"  	value="10" name="LODEFFECTTYPE_MAX" desc="LOD特效MAX"  />
+  </macrosgroup>
+  
+   <macrosgroup name="LODEffectSetType" desc="LOD设置项">
+	<macro cname="敌方单位LOD数目"  value="1" name="LODEFFECTSETTYPE_ENEMYCNT" desc="敌方单位LOD数目"  />
+	<macro cname="友方单位LOD数目"  value="2" name="LODEFFECTSETTYPE_FRIENDCNT" desc="友方单位LOD数目"  />
+	
+  </macrosgroup>
+  
+  
+  <!--============系统道具配置项================-->
+  
+   <macrosgroup name="LanguageDefine" desc="语言类型">
+	<macro  value="0"  name="NONE"	 desc="无" />
+    <macro  value="1"  name="SIM_CHINESE"	 desc="简体中文" />
+    <macro  value="2"  name="FON_CHINESE"	 desc="繁体中文" />
+	<macro  value="3"  name="ENGLISH"	 desc="英文" />
+  </macrosgroup>
+	
+   <macrosgroup name="SystemItemType" desc="系统道具类型">
+	<macro cname="隐藏道具"  value="0" name="SYSYTEMITEMTYPE_HIDDES" desc="隐藏道具"  />
+	<macro cname="系统道具_道具"  value="1" name="SYSYTEMITEMTYPE_ITEM" desc="系统道具_道具"  />
+	<macro cname="系统道具_体验卡"  value="2" name="SYSYTEMITEMTYPE_EXPERIENCE" desc="系统道具_体验卡"  />
+	<macro cname="系统道具_符文"  value="3" name="SYSYTEMITEMTYPE_RUNE" desc="系统道具_符文"  />
+
+  </macrosgroup>
+  
+   <macrosgroup name="SystemItemSubType" desc="系统道具子类型">
+	<macro cname="道具子类型_EXP"  value="1" name="SYSYTEMITEMSUBTYPE_EXP" desc="道具子类型_EXP"  />
+	<macro cname="道具子类型_点券"  value="2" name="SYSYTEMITEMSUBTYPE_RMB" desc="道具子类型_点券"  />
+	<macro cname="道具子类型_金币"  value="3" name="SYSYTEMITEMSUBTYPE_GOLD" desc="道具子类型_金币"  />
+	<macro cname="道具子类型_钻石"  value="4" name="SYSYTEMITEMSUBTYPE_DIAM" desc="道具子类型_钻石"  />
+	<macro cname="道具子类型_喇叭"  value="5" name="SYSYTEMITEMSUBTYPE_SPEAK" desc="道具子类型_喇叭"  />
+	<macro cname="道具子类型_礼包"  value="6" name="SYSYTEMITEMSUBTYPE_PACKAGE" desc="道具子类型_礼包"  />
+	<macro cname="道具子类型_经验卡"  value="7" name="SYSYTEMITEMSUBTYPE_EXPCARD" desc="道具子类型_经验卡"  />
+	<macro cname="道具子类型_金币卡"  value="8" name="SYSYTEMITEMSUBTYPE_GOLDCARD" desc="道具子类型_金币卡"  />
+	<macro cname="道具子类型_改名卡"  value="9" name="SYSYTEMITEMSUBTYPE_NAMECARD" desc="道具子类型_改名卡"  />
+	<macro cname="道具子类型_英雄碎片"  value="10" name="SYSYTEMITEMSUBTYPE_HEROPIECE" desc="道具子类型_英雄碎片"  />
+	<macro cname="道具子类型_皮肤碎片"  value="11" name="SYSYTEMITEMSUBTYPE_SKINPIECE" desc="道具子类型_皮肤碎片"  />
+	<macro cname="道具子类型_英雄体验卡"  value="12" name="SYSYTEMITEMSUBTYPE_HEROEXP" desc="道具子类型_英雄体验卡"  />
+	<macro cname="道具子类型_皮肤体验卡"  value="13" name="SYSYTEMITEMSUBTYPE_SKINEXP" desc="道具子类型_皮肤体验卡"  />
+	<macro cname="道具子类型_符文"  value="14" name="SYSYTEMITEMSUBTYPE_RUNE" desc="道具子类型_符文"  />
+	<macro cname="道具子类型_活跃"  value="15" name="SYSYTEMITEMSUBTYPE_ACTIVE" desc="道具子类型_活跃"  />
+	<macro cname="道具子类型_纹章"  value="16" name="SYSYTEMITEMSUBTYPE_RUNES" desc="道具子类型_纹章"  />
+	<macro cname="道具子类型_英雄"  value="17" name="SYSYTEMITEMSUBTYPE_HERO" desc="道具子类型_英雄"  />
+	<macro cname="道具子类型_皮肤"  value="18" name="SYSYTEMITEMSUBTYPE_SKIN" desc="道具子类型_皮肤"  />
+	<macro cname="道具子类型_成就点数"  value="19" name="SYSYTEMITEMSUBTYPE_ACHPOINT" desc="道具子类型_成就点数"  />
+	<macro cname="道具子类型_头像"    value="20" name="SYSYTEMITEMSUBTYPE_HEAD" desc="道具子类型_头像"  />
+	<macro cname="道具子类型_头像框"  value="21" name="SYSYTEMITEMSUBTYPE_HEADFRAME" desc="道具子类型_头像框"  />
+	<macro cname="道具子类型_抽奖"  value="22" name="SYSYTEMITEMSUBTYPE_RAFFLE" desc="道具子类型_抽奖"  />
+	<macro cname="道具子类型_勋章商店"  value="23" name="SYSYTEMITEMSUBTYPE_MEDAL" desc="道具子类型_勋章商店"  />
+	<macro cname="道具子类型_竞技场积分"  value="24" name="SYSYTEMITEMSUBTYPE_ARENA" desc="道具子类型_竞技场积分"  />
+	<macro cname="道具子类型_活动道具"  value="25" name="SYSYTEMITEMSUBTYPE_ACTIVITY" desc="道具子类型_活动道具"  />
+	<macro cname="道具子类型_英雄符文碎片" value="26" name="SYSYTEMITEMSUBTYPE_HERO_RUNE_FRAGMENT" desc="道具子类型_英雄符文碎片"/>
+	<macro cname="道具子类型_种族符文碎片" value="27" name="SYSYTEMITEMSUBTYPE_RACE_RUNE_FRAGMENT" desc="道具子类型_种族符文碎片"/>
+	
+  </macrosgroup>
+  
+ 
+  
+  
+  <macrosgroup name="SystemItemEffectType" desc="系统道具效果">
+	<macro cname="增加召唤师经验"  value="1" name="SYSYTEFFECTTYPE_ADDEXP" desc="增加召唤师经验"  />
+	<macro cname="增加召唤师点券"  value="2" name="SYSYTEFFECTTYPE_ADDCOUPON" desc="增加召唤师点券"  />
+	<macro cname="增加召唤师金币"  value="3" name="SYSYTEFFECTTYPE_ADDGOLD" desc="增加召唤师金币"  />
+	<macro cname="增加召唤师钻石"  value="4" name="SYSYTEFFECTTYPE_ADDDIAM" desc="增加召唤师钻石"  />
+	<macro cname="增加召唤师活跃"  value="5" name="SYSYTEFFECTTYPE_ACTIVE" desc="增加召唤师活跃"  />
+	<macro cname="增加英雄"  value="6" name="SYSYTEFFECTTYPE_HERO" desc="增加英雄"  />
+	<macro cname="增加皮肤"  value="7" name="SYSYTEFFECTTYPE_SKIN" desc="增加皮肤"  />
+	<macro cname="增加召唤师成就点数"  value="8" name="SYSYTEFFECTTYPE_ADDACHPOINT" desc="增加召唤师成就点数"  />
+	<macro cname="增加双倍经验时间"  value="9" name="SYSYTEFFECTTYPE_ADD_DOUBLEEXP_TIME" desc="增加双倍经验时间"  />
+	<macro cname="增加双倍金币时间"  value="10" name="SYSYTEFFECTTYPE_ADD_DOUBLEGOLD_TIME" desc="增加双倍金币时间"  />
+	<macro cname="增加体验英雄"  value="11" name="SYSYTEFFECTTYPE_EXPER_HERO" desc="增加体验英雄"  />
+	<macro cname="增加体验皮肤"  value="12" name="SYSYTEFFECTTYPE_EXPER_SKIN" desc="增加体验皮肤"  />
+	<macro cname="增加胜利获得双倍经验次数"  value="13" name="SYSYTEFFECTTYPE_ADD_DOUBLEEXP_WIN_NUM" desc="增加胜利获得双倍经验次数"  />
+	<macro cname="增加胜利获得双倍金币次数"  value="14" name="SYSYTEFFECTTYPE_ADD_DOUBLEGOLD_WIN_NUM" desc="增加胜利获得双倍金币次数"  />
+	<macro cname="解锁系统头像"  value="15" name="SYSYTEFFECTTYPE_UNLOCKHEAD" desc="解锁系统头像"  />
+	<macro cname="解锁系统头像框"  value="16" name="SYSYTEFFECTTYPE_UNLOCKHEADFRAME" desc="解锁系统头像框"  />
+	<macro cname="增加召唤师种族符文碎片" value="17" name="SYSYTEFFECTTYPE_ADD_RACE_RUNE_FRAGMENT" desc="增加召唤师种族符文碎片"/>
+	<macro cname="增加召唤师英雄符文碎片" value="18" name="SYSYTEFFECTTYPE_ADD_HERO_RUNE_FRAGMENT" desc="增加召唤师英雄符文碎片"/>
+  </macrosgroup>
+  
+
+  
+     <!--============系统任务配置项================-->
+  <macrosgroup name="SystemTaskType" desc="系统任务类型">
+	<macro cname="任务_每日任务"  value="1" name="SYSYTEMTASKTYPE_DAY" desc="每日任务"  />
+	<macro cname="任务_成长任务"  value="2" name="SYSYTEMTASKTYPE_LEVEL" desc="成长任务"  />
+	<macro cname="任务_每周任务"  value="3" name="SYSYTEMTASKTYPE_WEEK" desc="任务_每周任务"  />
+	<macro cname="任务_新手引导任务"  value="4" name="SYSYTEMTASKTYPE_NEWGUIDE" desc="任务_新手引导任务"  />
+	<macro cname="任务_基础任务"  value="5" name="SYSYTEMTASKTYPE_BASIC" desc="任务_基础任务"  />
+	<macro cname="任务_条件任务"  value="6" name="SYSYTEMTASKTYPE_CONDITION" desc="任务_条件任务"  />
+  </macrosgroup>
+  
+    <macrosgroup name="SystemTaskCountType" desc="系统任务计数类型">
+	<macro cname="任务_单局"  value="1" name="SYSYTEMTASKCOUNTTYPE_SINGLE" desc="任务_单局"  />
+	<macro cname="任务_日累计"  value="2" name="SYSYTEMTASKCOUNTTYPE_DAY" desc="任务_日累计"  />
+	<macro cname="任务_周累计"  value="3" name="SYSYTEMTASKCOUNTTYPE_WEEK" desc="任务_周累计" /> 
+	<macro cname="任务_永久"  value="4" name="SYSYTEMTASKCOUNTTYPE_FOREVER" desc="任务_永久"  />
+  </macrosgroup>
+  
+ <macrosgroup name="SystemTaskNeedActType" desc="系统任务行为需求类型">
+	<macro cname="任务_登陆游戏"  value="1" name="SYSTEMTASKNEEDACTTYPE_LOGIN" desc="登陆游戏"  />
+	<macro cname="任务_单局击杀英雄数量"  value="2" name="SYSTEMTASKNEEDACTTYPE_KILLHERO" desc="单局击杀英雄数量"  />
+	<macro cname="任务_单局击杀野怪数量"  value="3" name="SYSTEMTASKNEEDACTTYPE_KILLMOS" desc="单局击杀野怪数量"  />
+	<macro cname="任务_单局击杀小兵数量"  value="4" name="SYSTEMTASKNEEDACTTYPE_KILLSOLDIER" desc="单局击杀小兵数量"  />
+	<macro cname="任务_连续赢得积分赛场次"  value="5" name="SYSTEMTASKNEEDACTTYPE_CONTINWININT" desc="连续赢得积分赛场次"  />
+	<macro cname="任务_连续赢得对战比赛场次"  value="6" name="SYSTEMTASKNEEDACTTYPE_CONTINWIN" desc="连续赢得对战比赛场次"  />
+	<macro cname="任务_当日累计花费金币"  value="7" name="SYSTEMTASKNEEDACTTYPE_GOLD" desc="当日累计花费金币"  />
+	<macro cname="任务_当日参加对战比赛场次"  value="8" name="SYSTEMTASKNEEDACTTYPE_JOINBATTLE" desc="当日参加对战比赛场次"  />
+	<macro cname="任务_当日对战中累计造塔数量"  value="9" name="SYSTEMTASKNEEDACTTYPE_TOWER" desc="当日对战中累计造塔数量"  />
+	<macro cname="任务_单局内开分矿次数"  value="10" name="SYSTEMTASKNEEDACTTYPE_MINE" desc="单局内开分矿次数"  />
+	<macro cname="任务_当日对战中杀龙次数"  value="11" name="SYSTEMTASKNEEDACTTYPE_KILLDRAGEON" desc="当日对战中杀龙次数"  />
+	<macro cname="任务_当日对战胜利场次"  value="12" name="SYSTEMTASKNEEDACTTYPE_WINNUM" desc="当日对战胜利场次"  />
+	<macro cname="任务_日活跃度点数"  value="13" name="SYSTEMTASKNEEDACTTYPE_DAY" desc="日活跃度点数"  />
+	<macro cname="任务_周活跃度点数"  value="14" name="SYSTEMTASKNEEDACTTYPE_WEEK" desc="周活跃度点数"  />
+	<macro cname="任务_购买一个英雄"  value="15" name="SYSTEMTASKNEEDACTTYPE_BUYHERO" desc="购买一个英雄"  />
+	<macro cname="任务_小兵升级一次"  value="16" name="SYSTEMTASKNEEDACTTYPE_SOLDIERLEVELUP" desc="小兵升级一次"  />
+	<macro cname="任务_购买任意一个皮肤"  value="17" name="SYSTEMTASKNEEDACTTYPE_BUYSKIN" desc="购买任意一个皮肤"  />
+	<macro cname="任务_召唤师技能升级一次"  value="18" name="SYSTEMTASKNEEDACTTYPE_SKILLLEVELUP" desc="召唤师技能升级一次"  />
+	<macro cname="任务_新手通关基础教学"  value="19" name="SYSTEMTASKNEEDACTTYPE_NEWGUIDEBASICS" desc="任务_新手通关基础教学"  />	
+	
+	<macro cname="任务_单局建造步兵数量"  value="20" name="SYSTEMTASKNEEDACTTYPE_BUILD_INFANTRY_NUM" desc="任务_单局建造步兵数量"  />	
+	<macro cname="任务_单局建造弩兵数量"  value="21" name="SYSTEMTASKNEEDACTTYPE_BUILD_CROSSBOWMAN" desc="任务_单局建造弩兵数量"  />	
+	<macro cname="任务_单局升级人口次数"  value="22" name="SYSTEMTASKNEEDACTTYPE_LEVEL_UP_FARM" desc="任务_单局升级人口次数"  />	
+	<macro cname="任务_单局升级基地次数"  value="23" name="SYSTEMTASKNEEDACTTYPE_LEVEL_UP_BASE" desc="任务_单局升级基地次数"  />	
+	<macro cname="任务_单局使用召唤师技能次数"  value="24" name="SYSTEMTASKNEEDACTTYPE_USE_SUMMON_SKILL" desc="任务_单局使用召唤师技能次数"  />	
+	<macro cname="任务_单局摧毁防御塔数量"  value="25" name="SYSTEMTASKNEEDACTTYPE_DESTORY_TOWER" desc="任务_单局摧毁防御塔数量"  />	
+	<macro cname="任务_单局移动目标"  value="26" name="SYSTEMTASKNEEDACTTYPE_MOVE_TARGET" desc="任务_单局移动目标"  />	
+	<macro cname="任务_单局建造修女数量"  value="27" name="SYSTEMTASKNEEDACTTYPE_BUILD_NUN_NUM" desc="任务_单局建造修女数量"  />	
+	<macro cname="任务_观看任意技巧教学"  value="28" name="SYSTEMTASKNEEDACTTYPE_WATCHANYVIDEO" desc="任务_观看任意技巧教学"  />	
+	
+	<macro	cname="任务_完成单个技能教学"	value="51"	name="SYSTEMTASKNEEDACTTYPE_COMPLETE_GUIDESKILL"	desc="任务_完成单个技能教学"/>
+	<macro	cname="任务_完成全部技能教学"	value="52"	name="SYSTEMTASKNEEDACTTYPE_COMPLETE_ALL_GUIDESKILL"	desc="任务_完成全部技能教学"/>
+	<macro	cname="任务_参加排位赛"	value="53"	name="SYSTEMTASKNEEDACTTYPE_PLAY_RANK"	desc="任务_参加排位赛"/>
+	<macro 	cname="任务_邀请好友上线"  value="54"  name="SYSTEMTASKNEEDACTTYPE_INVITE_FRIEND_START_GAME" desc="任务_邀请好友上线"/>
+	<macro	cname="任务_每日分享"		value="55"	name="SYSTEMTASKNEEDACTTYPE_DAILY_SHARE_GAME"	 desc="任务_每日分享"/>
+	<macro	cname="任务_击杀黑暗泰坦或烈焰战神" value="56"	name="SYSTEMTASKNEEDACTTYPE_KILL_BOSS"	desc="任务_击杀黑暗泰坦或烈焰战神"/>
+	
+	<macro	cname="任务_竞技场升级" value="57"	name="SYSTEMTASKNEEDACTTYPE_ARENA_LEVEL_UP"	desc="任务_竞技场升级"/>
+	<macro	cname="任务_充值" value="58"	name="SYSTEMTASKNEEDACTTYPE_PAY"	desc="任务_充值"/>
+	<macro	cname="任务_抽钻石宝箱" value="59"	name="SYSTEMTASKNEEDACTTYPE_DIAMOND_LOTTERY"	desc="任务_抽钻石宝箱"/>
+	<macro	cname="任务_抽点券宝箱" value="60"	name="SYSTEMTASKNEEDACTTYPE_TICKET_LOTTERY"	desc="任务_抽点券宝箱"/>
+	<macro	cname="任务_击杀烈焰战神"	value="61"	name="SYSTEMTASKNEEDACTTYPE_KILL_SMALL_BOSS"	desc="任务_击杀烈焰战神"/>
+	<macro	cname="任务_击杀黑暗泰坦"	value="62"	name="SYSTEMTASKNEEDACTTYPE_KILL_BIG_BOSS"	desc="任务_击杀黑暗泰坦"/>
+	<macro cname="任务_当日使用某英雄参加对战比赛场次"  value="63" name="SYSTEMTASKNEEDACTTYPE_JOINBATTLE_BYHERO" desc="任务_当日使用某英雄参加对战比赛场次"  />
+	<macro cname="任务_购买指定物品"  value="64" name="SYSTEMTASKNEEDACTTYPE_BUY_APPOINT_ITEM" desc="任务_购买指定物品"  />
+	<macro cname="任务_购买指定英雄"  value="65" name="SYSTEMTASKNEEDACTTYPE_BUY_APPOINT_HERO" desc="任务_购买指定英雄"  />
+	<macro cname="任务_分享游戏"  value="66" name="SYSTEMTASKNEEDACTTYPE_SHARE_GAME" desc="任务_分享游戏"  />
+	
+	<macro cname="成就_玩家等级"  value="101" name="SYSTEMTASKNEEDACTTYPE_PLAYER_LEVEL" desc="成就_玩家等级" />
+	<macro cname="成就_MVP"  value="102" name="SYSTEMTASKNEEDACTTYPE_MVP" desc="成就_MVP" />
+	<macro cname="成就_种族"  value="103" name="SYSTEMTASKNEEDACTTYPE_RACE_TYPE" desc="成就_种族" />
+	<macro cname="成就_多人模式"  value="104" name="SYSTEMTASKNEEDACTTYPE_MULTI_MODE" desc="成就_多人模式" />
+	<macro cname="成就_训练小兵"  value="105" name="SYSTEMTASKNEEDACTTYPE_DOGFACE_STAT" desc="成就_训练小兵" />
+	<macro cname="成就_段位"  value="106" name="SYSTEMTASKNEEDACTTYPE_RANK_LEVEL" desc="成就_段位" />
+	<macro cname="成就_头像框"  value="107" name="SYSTEMTASKNEEDACTTYPE_ICON_EDGE" desc="成就_头像框" />
+	<macro cname="成就_获得英雄"  value="108" name="SYSTEMTASKNEEDACTTYPE_ADD_HERO" desc="成就_获得英雄" />
+	<macro cname="成就_获得皮肤"  value="109" name="SYSTEMTASKNEEDACTTYPE_ADD_SKIN" desc="成就_获得皮肤" />
+	<macro cname="成就_获得货币"  value="110" name="SYSTEMTASKNEEDACTTYPE_ADD_MONEY" desc="成就_获得货币" />
+	<macro cname="成就_英雄传说"  value="111" name="SYSTEMTASKNEEDACTTYPE_HERO_LEGEND" desc="成就_英雄传说" />
+	<macro cname="成就_组队游戏"  value="112" name="SYSTEMTASKNEEDACTTYPE_TEAM_GAME" desc="成就_组队游戏" />
+	<macro cname="成就_击杀大龙"  value="113" name="SYSTEMTASKNEEDACTTYPE_KILL_BIG_DRAGON" desc="成就_击杀大龙" />
+	<macro cname="成就_击杀小龙"  value="114" name="SYSTEMTASKNEEDACTTYPE_KILL_SMALL_DRAGON" desc="成就_击杀小龙" />
+	
+	<macro cname="成就_连续赢得对战比赛场次"  value="115" name="SYSTEMTASKNEEDACTTYPE_ACH_CONTINWIN" desc="连续赢得对战比赛场次"  />
+	<macro cname="成就_单局击杀英雄数量"  value="116" name="SYSTEMTASKNEEDACTTYPE_ACH_KILLHERO" desc="单局击杀英雄数量"  />
+	<macro cname="成就_单局击杀小兵数量"  value="117" name="SYSTEMTASKNEEDACTTYPE_ACH_KILLSOLDIER" desc="单局击杀小兵数量"  />
+	<macro cname="成就_最高段位"  		   value="118" name="SYSTEMTASKNEEDACTTYPE_MAX_RANK_LEVEL" desc="成就_最高段位" />
+  </macrosgroup>
+
+   <macrosgroup name="AchievementCounterType" desc="成就计数类型">
+		<macro cname="成就计数类型_累加"  		value="0" name="ACHCOUNTERTYPE_INC" 		desc="成就计数类型_累加" />
+		<macro cname="成就计数类型_最大更新"  	value="1" name="ACHCOUNTERTYPE_MAXUPDATE" 	desc="成就计数类型_最大更新" />
+   </macrosgroup>
+  
+   <macrosgroup name="UIInterfaceSkipType" desc="系统界面跳转类型">
+	<macro cname="界面跳转_无"  value="0" name="UIINTERFACESKIPTYPE_NONE" desc="界面跳转_无"  />
+	
+	<macro cname="界面跳转_种族"  value="1" name="UIINTERFACESKIPTYPE_RACE" desc="界面跳转_种族"  />
+	<macro cname="界面跳转_人族概况"  value="2" name="UIINTERFACESKIPTYPE_RACE_HUMAN_PROFILE" desc="界面跳转_人族概况"  />
+	<macro cname="界面跳转_人族小兵"  value="3" name="UIINTERFACESKIPTYPE_RACE_HUMAN_DOGFACE" desc="界面跳转_人族小兵"  />
+	<macro cname="界面跳转_人族天赋"  value="4" name="UIINTERFACESKIPTYPE_RACE_HUMAN_TALENT" desc="界面跳转_人族天赋"  />
+	<macro cname="界面跳转_兽族概况"  value="5" name="UIINTERFACESKIPTYPE_RACE_ORC_PROFILE" desc="界面跳转_兽族概况"  />
+	<macro cname="界面跳转_兽族小兵"  value="6" name="UIINTERFACESKIPTYPE_RACE_ORC_DOGFACE" desc="界面跳转_兽族小兵"  />
+	<macro cname="界面跳转_兽族天赋"  value="7" name="UIINTERFACESKIPTYPE_RACE_ORC_TALENT" desc="界面跳转_兽族天赋"  />
+	<macro cname="界面跳转_亡灵概况"  value="8" name="UIINTERFACESKIPTYPE_RACE_GHOST_PROFILE" desc="界面跳转_亡灵概况"  />
+	<macro cname="界面跳转_亡灵小兵"  value="9" name="UIINTERFACESKIPTYPE_RACE_GHOST_DOGFACE" desc="界面跳转_亡灵小兵"  />
+	<macro cname="界面跳转_亡灵天赋"  value="10" name="UIINTERFACESKIPTYPE_RACE_GHOST_TALENT" desc="界面跳转_亡灵天赋"  />
+	<macro cname="界面跳转_精灵概况"  value="11" name="UIINTERFACESKIPTYPE_RACE_ELF_PROFILE" desc="界面跳转_精灵概况"  />
+	<macro cname="界面跳转_精灵小兵"  value="12" name="UIINTERFACESKIPTYPE_RACE_ELF_DOGFACE" desc="界面跳转_精灵小兵"  />
+	<macro cname="界面跳转_精灵天赋"  value="13" name="UIINTERFACESKIPTYPE_RACE_ELF_TALENT" desc="界面跳转_精灵天赋"  />
+	<macro cname="界面跳转_种族攻略"  value="14" name="UIINTERFACESKIPTYPE_STRATEGY" desc="界面跳转_种族攻略"  />
+	
+	<macro cname="界面跳转_英雄"  value="20" name="UIINTERFACESKIPTYPE_HERO" desc="界面跳转_英雄"  />
+	<macro cname="界面跳转_英雄战士"  value="21" name="UIINTERFACESKIPTYPE_HERO_FIGHTER" desc="界面跳转_英雄战士"  />
+	<macro cname="界面跳转_英雄坦克"  value="22" name="UIINTERFACESKIPTYPE_HERO_TANK" desc="界面跳转_英雄坦克"  />
+	<macro cname="界面跳转_英雄法师"  value="23" name="UIINTERFACESKIPTYPE_HERO_MASTER" desc="界面跳转_英雄法师"  />
+	<macro cname="界面跳转_英雄射手"  value="24" name="UIINTERFACESKIPTYPE_HERO_SHOOTER" desc="界面跳转_英雄射手"  />
+	<macro cname="界面跳转_英雄辅助"  value="25" name="UIINTERFACESKIPTYPE_HERO_SUPPORTER" desc="界面跳转_英雄辅助"  />
+	
+	<macro cname="界面跳转_快捷出兵"  value="31" name="UIINTERFACESKIPTYPE_DOGFACESETTING" desc="界面跳转_快捷出兵"  />
+	<macro cname="界面跳转_快捷消息"  value="32" name="UIINTERFACESKIPTYPE_MESSAGESETTING" desc="界面跳转_快捷消息"  />
+	
+	<macro cname="界面跳转_成就"  value="40" name="UIINTERFACESKIPTYPE_ACHIEVE" desc="界面跳转_成就"  />
+	<macro cname="界面跳转_成就未达成"  value="41" name="UIINTERFACESKIPTYPE_ACHIEVE_UNREACHED" desc="界面跳转_成就未达成"  />
+	
+	<macro cname="界面跳转_背包"  value="50" name="UIINTERFACESKIPTYPE_BAG" desc="界面跳转_背包"  />
+	<macro cname="界面跳转_背包道具"  value="51" name="UIINTERFACESKIPTYPE_BAG_PROP" desc="界面跳转_背包道具"  />
+	<macro cname="界面跳转_背包体验卡"  value="52" name="UIINTERFACESKIPTYPE_BAG_CARD" desc="界面跳转_背包体验卡"  />
+	
+	<macro cname="界面跳转_任务"  value="60" name="UIINTERFACESKIPTYPE_TASK" desc="界面跳转_任务"  />
+	<macro cname="界面跳转_成长任务"  value="61" name="UIINTERFACESKIPTYPE_TASK_GROWUP" desc="界面跳转_成长任务"  />
+	<macro cname="界面跳转_我要变强"  value="62" name="UIINTERFACESKIPTYPE_TASK_STRONGER" desc="界面跳转_我要变强"  />
+	
+	<macro cname="界面跳转_对战"  value="70" name="UIINTERFACESKIPTYPE_BATTLE" desc="界面跳转_对战"  />
+	<macro cname="界面跳转_娱乐模式"  value="71" name="UIINTERFACESKIPTYPE_FORFUN" desc="界面跳转_娱乐模式"  />
+	<macro cname="界面跳转_人机练习"  value="72" name="UIINTERFACESKIPTYPE_PVC" desc="界面跳转_人机练习"  />
+	<macro cname="界面跳转_开房间"  value="73" name="UIINTERFACESKIPTYPE_CUSTOM" desc="界面跳转_开房间"  />
+	
+	<macro cname="界面跳转_排位1V1"  value="80" name="UIINTERFACESKIPTYPE_RANK1V1" desc="界面跳转_排位1V1"  />
+	<macro cname="界面跳转_排位2V2"  value="81" name="UIINTERFACESKIPTYPE_RANK2V2" desc="界面跳转_排位2V2"  />
+	
+	<macro cname="界面跳转_训练营"  value="90" name="UIINTERFACESKIPTYPE_TRAINING" desc="界面跳转_训练营"  />
+	<macro cname="界面跳转_技巧教学"  value="91" name="UIINTERFACESKIPTYPE_TECHNIC" desc="界面跳转_技巧教学"  />
+	
+	<macro cname="界面跳转_商城"  value="100" name="UIINTERFACESKIPTYPE_SHOP" desc="界面跳转_商城"  />
+	<macro cname="界面跳转_皮肤商城"  value="101" name="UIINTERFACESKIPTYPE_SHOPSKIN" desc="界面跳转_皮肤商城"  />
+	<macro cname="界面跳转_皮肤碎片商城"  value="102" name="UIINTERFACESKIPTYPE_SHOPSKINFARGMENT" desc="界面跳转_皮肤碎片商城"  />
+	<macro cname="界面跳转_道具商城"  value="103" name="UIINTERFACESKIPTYPE_SHOPPROP" desc="界面跳转_道具商城"  />
+	<macro cname="界面跳转_特权卡"  value="104" name="UIINTERFACESKIPTYPE_SHOPCARD" desc="界面跳转_特权卡"  />
+	<macro cname="界面跳转_战争祭坛"  value="105" name="UIINTERFACESKIPTYPE_SHOPRAFFLE" desc="界面跳转_战争祭坛"  />
+	<macro cname="界面跳转_战争勋章商店"  value="106" name="UIINTERFACESKIPTYPE_SHOPMEDALWAR" desc="界面跳转_战争勋章商店"  />
+	<macro cname="界面跳转_怒吼勋章商店"  value="107" name="UIINTERFACESKIPTYPE_SHOPMEDALROAR" desc="界面跳转_怒吼勋章商店"  />
+	<macro cname="界面跳转_英雄碎片商城"  value="108" name="UIINTERFACESKIPTYPE_SHOPHEROFARGMENT" desc="界面跳转_英雄碎片商城"  />
+	
+	<macro cname="界面跳转_直播"  value="110" name="UIINTERFACESKIPTYPE_LIVE" desc="界面跳转_直播"  />
+	
+	<macro cname="界面跳转_回看录像"  value="120" name="UIINTERFACESKIPTYPE_REPLAY" desc="界面跳转_回看录像"  />
+    <macro cname="界面跳转_高手观战"  value="121" name="UIINTERFACESKIPTYPE_GREATREPLAY" desc="界面跳转_高手观战"  />
+    
+    
+	<macro cname="界面跳转_活动"  value="130" name="UIINTERFACESKIPTYPE_ACTIVITY" desc="界面跳转_活动"  />
+	<macro cname="界面跳转_七日登录"  value="131" name="UIINTERFACESKIPTYPE_SEVENDAYLOGIN" desc="界面跳转_七日登录"  />
+	
+	<macro cname="界面跳转_设置"  value="140" name="UIINTERFACESKIPTYPE_SETTING" desc="界面跳转_设置"  />
+	<macro cname="界面跳转_操做设置"  value="141" name="UIINTERFACESKIPTYPE_OPERATESETTING" desc="界面跳转_操做设置"  />
+	<macro cname="界面跳转_声音设置"  value="142" name="UIINTERFACESKIPTYPE_VOICESETTING" desc="界面跳转_声音设置"  />
+	<macro cname="界面跳转_网络诊断"  value="143" name="UIINTERFACESKIPTYPE_NETWORKSETTING" desc="界面跳转_网络诊断"  />
+	
+	<macro cname="界面跳转_好友"  value="150" name="UIINTERFACESKIPTYPE_FRIEND" desc="界面跳转_好友"  />
+	<macro cname="界面跳转_添加好友"  value="151" name="UIINTERFACESKIPTYPE_ADDFRIEND" desc="界面跳转_添加好友"  />
+	<macro cname="界面跳转_好友申请"  value="152" name="UIINTERFACESKIPTYPE_FRIENDAPPLY" desc="界面跳转_好友申请"  />
+	
+	<macro cname="界面跳转_充值"  value="160" name="UIINTERFACESKIPTYPE_RECHARGE" desc="界面跳转_充值"  />
+	<macro cname="界面跳转_首冲"  value="161" name="UIINTERFACESKIPTYPE_FIRSTRECHARGE" desc="界面跳转_首冲"  />
+	
+	<macro cname="界面跳转_战旗"  value="162" name="UIINTERFACESKIPTYPE_RUNE" desc="界面跳转_战旗"  />
+    
+  </macrosgroup>
+  
+    <macrosgroup name="SystemGrowthGuidanceType" desc="系统成长指导类型">
+	<macro cname="指导_获取金币"  value="1" name="SYSTEMGROWTHGUID_GOLD" desc="指导_获取金币"  />
+	<macro cname="指导_获取英雄"  value="2" name="SYSTEMGROWTHGUID_HERO" desc="指导_获取英雄"  />
+	<macro cname="指导_我要变强"  value="3" name="SYSTEMGROWTHGUID_STRONG" desc="指导_我要变强"  />
+  </macrosgroup>
+  
+  
+   <!--============新手引导配置项================-->
+
+  <macrosgroup name="MainGuideID" desc="新手教学主流程">
+	<macro  cname="新手_PVE关卡1" value="1" name="MAINGUIDEID_PVE1" desc="新手_PVE关卡1"  />
+	<macro  cname="新手_PVE关卡2" value="2" name="MAINGUIDEID_PVE2" desc="新手_PVE关卡2"  />
+	<macro  cname="新手_PVE关卡3" value="3" name="MAINGUIDEID_PVE3" desc="新手_PVE关卡3"  />
+	<macro  cname="新手_PVE关卡4" value="4" name="MAINGUIDEID_PVE4" desc="新手_PVE关卡4"  />
+    
+	<macro  cname="新手_解锁匹配" value="5" name="MAINGUIDEID_MATCH" desc="新手_解锁匹配"  />
+	<macro  cname="新手_匹配教学" value="6" name="MAINGUIDEID_TEACH_MATCH" desc="新手_匹配教学"  />
+	<macro  cname="新手_解锁七日登录" value="7" name="MAINGUIDEID_SEVENDAYLOGIN" desc="新手_解锁七日登录"  />
+	<macro  cname="新手_解锁首冲"  value="8" name="MAINGUIDEID_FIRSTRECHARGE" desc="新手_解锁首冲"  />
+	<macro  cname="新手_解锁活动"  value="9" name="MAINGUIDEID_ACTIVITY" desc="新手_解锁活动"  />
+	<macro  cname="新手_解锁任务" value="10" name="MAINGUIDEID_TASK" desc="新手_解锁任务"  />
+    <macro  cname="新手_解锁训练营" value="11" name="MAINGUIDEID_TRAIN" desc="新手_解锁训练营"  />
+    <macro  cname="新手_解锁商城" value="12" name="MAINGUIDEID_SHOP" desc="新手_解锁商城"  />
+	<macro  cname="新手_解锁成就" value="13" name="MAINGUIDEID_ACHIEVE" desc="新手_解锁成就"  />
+    <macro  cname="新手_解锁快捷出兵" value="14" name="MAINGUIDEID_ARMYSETTING" desc="新手_解锁快捷出兵"  />
+    <macro  cname="新手_解锁战旗" value="15" name="MAINGUIDEID_RUNE" desc="新手_解锁战旗"  />
+	
+	<macro cname="新手_最大值"  value="18" name="MAINGUIDEID_MAX" desc="新手_最大值"  />
+  </macrosgroup>
+ 
+  
+  <macrosgroup name="NewGuideEventType" desc="新手教学事件定义">
+	<macro   value="0" name="NEWGUIDE_CLICK_NONE" cname="无新手教学事件"  />
+	
+	<macro   value="1" name="NEWGUIDE_MOVE_JOYSTICK" cname="新手教学转动转盘" desc="新手教学转动转盘" />
+	<macro   value="2" name="NEWGUIDE_CLICK_CONVERGE" cname="新手教学点击集火" desc="新手教学点击集火" />
+    <macro   value="3" name="NEWGUIDE_CLICK_RETREAT" cname="新手教学点击撤退" desc="新手教学点击撤退" />
+	<macro	 value="4" name="NEWGUIDE_CLICK_NORMALSKILL" cname="新手教学点击攻击" desc="新手教学点击攻击" />
+	<macro	 value="5" name="NEWGUIDE_COVER" cname="新手教学透明蒙板" desc="新手教学透明蒙板" />
+	<macro   value="6" name="NEWGUIDE_SHOW_CONVERGE_EFFECT" cname="显示集火特效" desc="显示集火特效" />
+	<macro   value="7" name="NEWGUIDE_SHOW_RETREAT_EFFECT" cname="显示撤退特效" desc="显示撤退特效" />
+	<macro   value="8" name="NEWGUIDE_RETREAT_INTRODUCE" cname="撤退说明" desc="撤退说明" />
+	<macro   value="9" name="NEWGUIDE_MOVE_JOYSTICK_RETREAT" cname="转动轮盘撤退" desc="转动轮盘撤退" />
+	<macro   value="10" name="NEWGUIDE_RETREAT_NOTICE" cname="撤退提示" desc="撤退提示" />
+	
+
+	<macro   value="11" name="NEWGUIDE_CLICK_TECH_VIEW" cname="点击科技界面" desc="点击科技界面" />
+	<macro   value="12" name="NEWGUIDE_CLICK_ARM" cname="点击士兵头像"  desc="点击士兵头像"/>
+	<macro   value="13" name="NEWGUIDE_CLICK_TRAIN_DWARFINFANTRY" cname="点击训练矮人步兵" desc="点击训练矮人步兵" />
+	<macro   value="14" name="NEWGUIDE_SHOW_TRAIN_PROGRESS" cname="显示训练进度" desc="显示训练进度" />
+	<macro   value="15" name="NEWGUIDE_CLICK_TECH_TOGGLE" cname="点击科技页签" desc="点击科技页签" />
+	<macro   value="16" name="NEWGUIDE_CLICK_FOOD_ICON" cname="点击人口图标" desc="点击人口图标"  />
+	<macro   value="17" name="NEWGUIDE_CLICK_LEVEL_UP_BTN" cname="点击升级按钮" desc="点击升级按钮" />
+	<macro   value="18" name="NEWGUIDE_SHOW_FOOD_CHANGE" cname="显示人口变化"  desc="显示人口变化"/>
+	<macro   value="19" name="NEWGUIDE_CLICK_TRAIN_TOGGLE" cname="点击训练页签"  desc="点击训练页签"/>
+	<macro   value="20" name="NEWGUIDE_CLICK_TRAIN_CROSSBOWMAN" cname="点击训练弩手" desc="点击训练弩手" />
+	<macro   value="21" name="NEWGUIDE_CLICK_CLOSE_TRAIN_VIEW" cname="点击关闭训练界面"  desc="点击关闭训练界面" />
+	
+	<macro   value="31" name="NEWGUIDE_CLICK_NORMAL_ATTACK" cname="点击普攻(弱引导)" desc="点击普攻(弱引导)" />
+	<macro   value="32" name="NEWGUIDE_BUILD_GOLD_MINE" cname="点击金矿建造" desc="点击金矿建造" />
+	<macro   value="33" name="NEWGUIDE_GOLD_MINE_STATE" cname="金矿建造状态" desc="金矿建造状态" />
+	<macro   value="34" name="NEWGUIDE_CLICK_TOWER_BAR" cname="点击防御塔栏" desc="点击防御塔栏" />
+	<macro   value="35" name="NEWGUIDE_CLICK_BUILD_TOWER" cname="点击建造防御塔" desc="点击建造防御塔" />
+	<macro   value="36" name="NEWGUIDE_CLICK_REPAIR_BTN" cname="点击维修按钮" desc="点击维修按钮" />
+	
+	<macro   value="41" name="NEWGUIDE_CLICK_CASTLE" cname="点击城堡图标" desc="点击城堡图标" />
+	<macro   value="42" name="NEWGUIDE_CLICK_CASTLE_LEVELUP" cname="点击城堡升级按钮" desc="点击城堡升级按钮" />
+	<macro   value="43" name="NEWGUIDE_CLICK_TRAIN_CURE" cname="点击修女训练图标" desc="点击修女训练图标" />
+	<macro   value="44" name="NEWGUIDE_CLICK_CURE_TRAIN_BTN" cname="点击训练修女" desc="点击训练修女" />
+	<macro   value="45" name="NEWGUIDE_SHOW_SMALL_DRAGON" cname="标注小龙位置" desc="标注小龙位置" />
+	<macro   value="46" name="NEWGUIDE_CLICK_EQUIP" cname="点击装备拾取栏"  desc="点击装备拾取栏"  />
+	<macro   value="47" name="NEWGUIDE_SHOW_ENEMY_BASE" cname="标注敌方基地"  desc="标注敌方基地"/>
+	<macro   value="48" name="NEWGUIDE_GET_BIG_DRAGON_NOTIFY" cname="获取统帅之刃提示" desc="获取统帅之刃提示" />
+	<macro   value="49" name="NEWGUIDE_GET_BIG_DRAGON" cname="获取统帅之刃"  desc="获取统帅之刃"/>
+
+	<macro   value="120" name="NEWGUIDE_SHOW_MATCH_DESC" cname="显示匹配描述"  desc="显示匹配描述" />
+	<macro   value="121" name="NEWGUIDE_CLICK_MATCH_BUTTON" cname="点击匹配按钮" desc="点击匹配按钮" />
+	<macro   value="122" name="NEWGUIDE_SHOW_ARENA_DESC" cname="显示竞技场描述"  desc="显示竞技场描述" />
+	<macro   value="123" name="NEWGUIDE_CLICK_ARENA_BUTTON" cname="点击竞技场按钮"  desc="点击竞技场按钮" />
+	
+    <macro   value="130" name="NEWGUIDE_CLICK_TASK_BUTTON" cname="点击任务按钮" desc="点击任务按钮" />
+    <macro   value="131" name="NEWGUIDE_SHOW_LEVEL_UNLOCK" cname="标注等级解锁新功能" desc="标注等级解锁新功能" />
+    <macro   value="132" name="NEWGUIDE_CLICK_LEVEL_REWARD_BUTTON" cname="点击等级奖励领取按钮" desc="点击等级奖励领取按钮" />
+    
+    <macro   value="140" name="NEWGUIDE_CLICK_TRAINCAMP_BUTTON" cname="点击训练营按钮" desc="点击训练营按钮" />
+    <macro   value="141" name="NEWGUIDE_CLICK_GUIDE_SKILL_BUTTON" cname="点击技巧教学按钮" desc="点击技巧教学按钮" />
+    <macro   value="142" name="NEWGUIDE_CLICK_GUIDE_SKILL_PLAY_BUTTON" cname="点击开始播放按钮" desc="点击开始播放按钮" />
+    
+    <macro   value="150" name="NEWGUIDE_CLICK_SHOP_BUTTON" cname="点击商城按钮" desc="点击商城按钮" />
+    <macro   value="151" name="NEWGUIDE_SHOW_SHOP_DESC" cname="显示商城描述" desc="显示商城描述" />
+    
+    <macro   value="160" name="NEWGUIDE_SHOW_ACHIEVE_DESC" cname="显示成就描述"  desc="显示成就描述" />
+    <macro   value="161" name="NEWGUIDE_CLICK_ACHIEVE_BUTTON" cname="点击成就按钮" desc="点击成就按钮" />
+    <macro   value="162" name="NEWGUIDE_CLICK_ACHIEVE_REWARD_BUTTON" cname="点击成就奖励领取按钮" desc="点击成就奖励领取按钮" />
+    
+    <macro   value="170" name="NEWGUIDE_CLICK_PREPAREFORWAR_BUTTON" cname="点击备战按钮" desc="点击备战按钮" />
+    <macro   value="171" name="NEWGUIDE_CLICK_ARMYSETTING_BUTTON" cname="点击快捷出兵按钮" desc="点击快捷出兵按钮" />
+    <macro   value="172" name="NEWGUIDE_PLAY_ARMYSETTING_VIDEO" cname="播放快捷出兵视频" desc="播放快捷出兵视频" />
+	
+	<macro   value="180" name="NEWGUIDE_SHOW_SEVENDAYLOGIN" cname="显示七日登录界面" desc="显示七日登录界面" />
+	<macro   value="181" name="NEWGUIDE_HIDE_SEVENDAYLOGIN" cname="关闭七日登录界面"  desc="关闭七日登录界面"/>
+	
+	<macro   value="190" name="NEWGUIDE_SHOW_FIRSTRECHARGE" cname="显示首冲界面" desc="显示首冲界面" />
+	<macro   value="191" name="NEWGUIDE_HIDE_FIRSTRECHARGE" cname="关闭首冲界面"  desc="关闭首冲界面"/>
+	
+	<macro   value="200" name="NEWGUIDE_SHOW_ACTIVITY" cname="显示活动界面" desc="显示活动界面" />
+	<macro   value="201" name="NEWGUIDE_HIDE_ACTIVITY" cname="关闭活动界面" desc="关闭活动界面" />
+	
+	<macro   value="210" name="NEWGUIDE_CLICK_BEGIN_BUTTON" cname="点击开始匹配按钮" desc="点击开始匹配按钮"  />
+	<macro   value="211" name="NEWGUIDE_CLICK_READY_BUTTON" cname="点击准备按钮" desc="点击准备按钮"  />
+	<macro   value="212" name="NEWGUIDE_CLICK_RACE_BUTTON" cname="点击种族" desc="点击种族"  />
+	<macro   value="213" name="NEWGUIDE_CLICK_RACE_SKILL" cname="点击种族技能" desc="点击种族技能"  />
+	<macro   value="214" name="NEWGUIDE_SELECT_HERO_NOTIFY" cname="英雄选择提示" desc="英雄选择提示"  />
+	<macro   value="215" name="NEWGUIDE_CLICK_HERO_BUTTON" cname="点击英雄" desc="点击英雄"  />
+	<macro   value="216" name="NEWGUIDE_CLICK_HERO_SKILL" cname="点击英雄技能" desc="点击英雄技能"  />
+	<macro   value="217" name="NEWGUIDE_HERO_SURE_NOTIFY" cname="英雄确定提示" desc="英雄确定提示"  />
+	<macro   value="218" name="NEWGUIDE_CLICK_HERO_SURE" cname="确定英雄" desc="确定英雄"  />
+	<macro   value="219" name="NEWGUIDE_VICTORY_CONDITION" cname="胜利条件提示" desc="胜利条件提示"  />
+	<macro   value="220" name="NEWGUIDE_MAP_INTRODUCE" cname="地图介绍" desc="地图介绍"  />
+	<macro   value="221" name="NEWGUIDE_FIGHT_WILD_NOTIFY" cname="打野路线提示" desc="打野路线提示"  />
+	<macro   value="222" name="NEWGUIDE_PICK_EQUIPMENT" cname="拾取装备提示" desc="拾取装备提示"  />
+	<macro   value="223" name="NEWGUIDE_ATTACK_GOLDMINE" cname="进攻金矿提示" desc="进攻金矿提示"  />
+	<macro   value="224" name="NEWGUIDE_TRAIN_DOGFACE" cname="训练小兵提示" desc="训练小兵提示"  />
+	<macro   value="225" name="NEWGUIDE_CLICK_OPEN_TECH_BUTTON" cname="点击打开科技界面按钮" desc="点击打开科技界面按钮"  />
+	<macro   value="226" name="NEWGUIDE_CLICK_DOGFACE" cname="点击小兵" desc="点击小兵"  />
+	<macro   value="227" name="NEWGUIDE_CLICK_TRAIN_BUTTON" cname="点击训练按钮" desc="点击训练按钮"  />
+	<macro   value="228" name="NEWGUIDE_REPAIR_COST_NOTIFY" cname="高维修费用通知" desc="高维修费用通知"  />
+	<macro   value="229" name="NEWGUIDE_GOLDMINE_INTRODUCE" cname="金矿介绍" desc="金矿介绍"  />
+	<macro   value="230" name="NEWGUIDE_CLICK_GOLDMINE_BUTTON" cname="点击金矿建造按钮" desc="点击金矿建造按钮" />
+	<macro   value="231" name="NEWGUIDE_CLICK_TOWERBAR_BUTTON" cname="点击防御塔栏按钮" desc="点击防御塔栏" />
+	<macro   value="232" name="NEWGUIDE_BIG_DRAGON_SPAWN" cname="大龙出生提示" desc="大龙出生提示"  />
+	<macro   value="233" name="NEWGUIDE_BIG_DRAGON_INTRODUCE" cname="大龙介绍" desc="大龙介绍"  />
+	<macro   value="234" name="NEWGUIDE_USE_BIG_DRAGON" cname="召唤大龙" desc="召唤大龙"  />
+	<macro   value="235" name="NEWGUIDE_CLICK_TP_BUTTON" cname="点击回城按钮" desc="点击回城按钮"  />
+	<macro   value="236" name="NEWGUIDE_SMALL_DRAGON_SPAWN" cname="小龙出生提示" desc="小龙出生提示"  />
+	<macro   value="237" name="NEWGUIDE_SMALL_DRAGON_INTRODUCE" cname="小龙介绍" desc="小龙介绍"  />
+	<macro   value="238" name="NEWGUIDE_ATTACK_BASE_NOTIFY" cname="进攻敌方基地" desc="进攻敌方基地"  />
+	<macro   value="239" name="NEWGUIDE_PICK_DRAGON_EGG" cname="拾取统帅之刃" desc="拾取统帅之刃"  />
+	<macro   value="240" name="NEWGUIDE_CAST_DRAGON_EGG" cname="使用统帅之刃" desc="使用统帅之刃"  />
+	<macro   value="241" name="NEWGUIDE_UPGRADE_FOOD" cname="升级人口提示" desc="升级人口提示"  />
+	<macro   value="242" name="NEWGUIDE_UPGRADE_BASE" cname="升级基地提示" desc="升级基地提示"  />
+	<macro   value="243" name="NEWGUIDE_WELCOME_TO_GAME" cname="欢迎来到战争怒吼" desc="欢迎来到战争怒吼"  />
+	<macro   value="244" name="NEWGUIDE_MONSTER_INTRODUCE" cname="野怪介绍" desc="野怪介绍"  />
+	<macro   value="245" name="NEWGUIDE_BASE_PROTECT" cname="主基地保护机制" desc="主基地保护机制"  />
+	
+	<macro   value="260" name="NEWGUIDE_CLICK_RUNE" cname="点击战旗按钮" desc="点击战旗按钮"  />
+	<macro   value="261" name="NEWGUIDE_CLICK_RUNE_SHOP" cname="点击战旗室按钮" desc="点击战旗室按钮"  />
+	<macro   value="262" name="NEWGUIDE_CLICK_RUNE_ICON" cname="点击战旗图标" desc="点击战旗图标"  />
+	<macro   value="263" name="NEWGUIDE_CLICK_RUNE_BUY" cname="点击战旗购买按钮" desc="点击战旗购买按钮"  />
+	<macro   value="264" name="NEWGUIDE_CLICK_RUNE_SURE" cname="点击战旗确定按钮" desc="点击战旗确定按钮"  />
+	<macro   value="265" name="NEWGUIDE_CLICK_RUNE_FIT" cname="点击战旗装配按钮" desc="点击战旗装配按钮"  />
+	<macro   value="266" name="NEWGUIDE_CLICK_RUNE_SLOT" cname="点击战旗插槽" desc="点击战旗插槽"  />
+	<macro   value="267" name="NEWGUIDE_CLICK_RUNE_SET" cname="点击镶嵌战旗" desc="点击镶嵌战旗"  />
+	<macro   value="268" name="NEWGUIDE_SHOW_RUNE_DESC" cname="展示战旗描述" desc="展示战旗描述"  />
+  </macrosgroup>
+  
+  
+  <macrosgroup name="SystemVoicer" desc="播报者">
+	<macro cname="播报者_英雄"  value="0" name="SystemVoicer_HERO" desc="播报者_英雄"  />
+	<macro cname="播报者_声优"  value="1" name="SystemVoicer_ACTOR" desc="播报者_声优"  />
+  </macrosgroup>
+  
+  <!--===========新手任务系统===============-->
+  
+  <macrosgroup name="ResTastType" desc="任务系统类型">
+	<macro cname="支线任务"  value="0" name="RESTASKTYPE_BRANCH" desc="支线任务"  />
+	<macro cname="主线任务"  value="1" name="RESTASKTYPE_TRUNK" desc="主线任务"  />
+  </macrosgroup>
+  
+  <macrosgroup name="ResGuideBattleTastActiveType" desc="新手战斗任务激活类型">
+	<macro cname="新手战斗任务激活类型_进入战斗"  	 value="1" name="RESGUIDEBATTLETASTACTIVETYPE_ENTERBATTLE" desc="新手战斗任务激活类型_进入战斗" />
+	<macro cname="新手战斗任务激活类型_前置任务完成" value="2" name="RESGUIDEBATTLETASTACTIVETYPE_BFTASKCOMPLETE" desc="新手战斗任务激活类型_前置任务完成" />
+	
+	<macro cname="新手战斗任务激活类型_GOD"  value="10" name="RESGUIDEBATTLETASTACTIVETYPE_GOD" desc="新手战斗任务激活类型_GOD,默认激活" />
+  </macrosgroup>
+  
+   <macrosgroup name="ResGuideBattleTastCompleteType" desc="新手战斗任务完成类型">
+	<macro cname="新手战斗任务完成类型_击杀指定怪物"  	 value="1" name="RESGUIDEBATTLETASTCOMPLETETYPE_KILLACTOR" desc="新手战斗任务完成类型_击杀指定怪物" />
+	<macro cname="新手战斗任务完成类型_训练指定单位"  	 value="2" name="RESGUIDEBATTLETASTCOMPLETETYPE_TRAINACTOR" desc="新手战斗任务完成类型_训练指定单位" />
+	<macro cname="新手战斗任务完成类型_击杀指定怪物组"  	 value="3" name="RESGUIDEBATTLETASTCOMPLETETYPE_KILLACTORGROUP" desc="新手战斗任务完成类型_击杀指定怪物组" />
+	<macro cname="新手战斗任务完成类型_研究指定科技"  	 value="4" name="RESGUIDEBATTLETASTCOMPLETETYPE_STUDYACTORTECH" desc="新手战斗任务完成类型_研究指定科技" />
+	<macro cname="新手战斗任务完成类型_建筑建造完成"  	 value="5" name="RESGUIDEBATTLETASTCOMPLETETYPE_BUILDCOMPLETE" desc="新手战斗任务完成类型_建筑建造完成" />
+	<macro cname="新手战斗任务完成类型_维修指定单位"  	 value="6" name="RESGUIDEBATTLETASTCOMPLETETYPE_REPAIR" desc="新手战斗任务完成类型_维修指定单位" />
+	<macro cname="新手战斗任务完成类型_躲避技能攻击"  	 value="7" name="RESGUIDEBATTLETASTCOMPLETETYPE_MISSKILATK" desc="新手战斗任务完成类型_躲避技能攻击" />
+	<macro cname="新手战斗任务完成类型_金矿开采数量"  	 value="8" name="RESGUIDEBATTLETASTCOMPLETETYPE_BUILD_ORE_GOLDNUM" desc="新手战斗任务完成类型_金矿开采数量" />
+	
+	<macro cname="新手战斗任务完成类型_GOD"  value="10" name="RESGUIDEBATTLETASTCOMPLETETYPE_GOLD" desc="新手战斗任务完成类型_GOD,默认激活" />
+  </macrosgroup>
+  
+	<macrosgroup name="StoryBreakType" desc="新手剧情终止类型">
+		<macro cname="不可跳过"  value="0" name="RESSTORYBREAKTYPE_NOTSKIP" desc="不可跳过"  />
+		<macro cname="跳过剧情组"  value="1" name="RESSTORYBREAKTYPE_SKIPGROUP" desc="跳过剧情组"  />
+	</macrosgroup>
+	
+
+	<macrosgroup name="ResGuideUnLockSystemType" desc="新手解锁系统类型">
+		<macro cname="新手解锁系统_无"  	value="0" name="RESGUIDEUNLOCKSYSTEMTYPE_NONE" desc="新手解锁系统_无"  />
+        
+        <macro cname="新手解锁系统_任务"  	value="1" name="RESGUIDEUNLOCKSYSTEMTYPE_TASK" desc="新手解锁系统_任务"  />
+		<macro cname="新手解锁系统_训练营"  value="2" name="RESGUIDEUNLOCKSYSTEMTYPE_TRAIN" desc="新手解锁系统_训练营"  />
+		<macro cname="新手解锁系统_商城"  	value="3" name="RESGUIDEUNLOCKSYSTEMTYPE_SHOP" desc="新手解锁系统_商城"  />
+		<macro cname="新手解锁系统_成就"  	value="4" name="RESGUIDEUNLOCKSYSTEMTYPE_ACHIEVE" desc="新手解锁系统_成就"  />
+		<macro cname="新手解锁系统_快捷出兵"  value="5" name="RESGUIDEUNLOCKSYSTEMTYPE_ARMYSETTING" desc="新手解锁系统_快捷出兵"  />
+        
+		<macro cname="新手解锁系统_排位"  value="6" name="RESGUIDEUNLOCKSYSTEMTYPE_RANK" desc="新手解锁系统_排位"  />
+		<macro cname="新手解锁系统_排位1V1"  value="7" name="RESGUIDEUNLOCKSYSTEMTYPE_RANK1V1" desc="新手解锁系统_排位1V1"  />
+		<macro cname="新手解锁系统_排位2V2"  value="8" name="RESGUIDEUNLOCKSYSTEMTYPE_RANK2V2" desc="新手解锁系统_排位2V2"  />
+        
+        <macro cname="新手解锁系统_匹配"  value="9" name="RESGUIDEUNLOCKSYSTEMTYPE_MATCH" desc="新手解锁系统_匹配"  />
+		<macro cname="新手解锁系统_匹配1V1"  value="10" name="RESGUIDEUNLOCKSYSTEMTYPE_MATCH1V1" desc="新手解锁系统_匹配1V1"  />
+		<macro cname="新手解锁系统_匹配2V2"  value="11" name="RESGUIDEUNLOCKSYSTEMTYPE_MATCH2V2" desc="新手解锁系统_匹配2V2"  />
+        
+        <macro cname="新手解锁系统_人机"  value="12" name="RESGUIDEUNLOCKSYSTEMTYPE_PVC" desc="新手解锁系统_人机"  />
+		<macro cname="新手解锁系统_人机1V1"  value="13" name="RESGUIDEUNLOCKSYSTEMTYPE_PVC1V1" desc="新手解锁系统_人机1V1"  />
+		<macro cname="新手解锁系统_人机2V2"  value="14" name="RESGUIDEUNLOCKSYSTEMTYPE_PVC2V2" desc="新手解锁系统_人机2V2"  />
+        
+        <macro cname="新手解锁系统_娱乐"  value="15" name="RESGUIDEUNLOCKSYSTEMTYPE_FORFUN" desc="新手解锁系统_娱乐"  />
+		<macro cname="新手解锁系统_娱乐1V1"  value="16" name="RESGUIDEUNLOCKSYSTEMTYPE_FORFUN1V1" desc="新手解锁系统_娱乐1V1"  />
+		<macro cname="新手解锁系统_娱乐2V2"  value="17" name="RESGUIDEUNLOCKSYSTEMTYPE_FORFUN2V2" desc="新手解锁系统_娱乐2V2"  />
+		<macro cname="新手解锁系统_娱乐3V3"  value="18" name="RESGUIDEUNLOCKSYSTEMTYPE_FORFUN3V3" desc="新手解锁系统_娱乐2V2"  />
+        
+        <macro cname="新手解锁系统_开房间"  value="19" name="RESGUIDEUNLOCKSYSTEMTYPE_CUSTOM" desc="新手解锁系统_开房间"  />
+		<macro cname="新手解锁系统_开房间1V1"  value="20" name="RESGUIDEUNLOCKSYSTEMTYPE_CUSTOM1V1" desc="新手解锁系统_开房间1V1"  />
+		<macro cname="新手解锁系统_开房间2V2"  value="21" name="RESGUIDEUNLOCKSYSTEMTYPE_CUSTOM2V2" desc="新手解锁系统_开房间2V2"  />
+		
+		<macro cname="新手解锁系统_七日登录"  value="22" name="RESGUIDEUNLOCKSYSTEMTYPE_SEVENDAYLOGIN" desc="新手解锁系统_七日登录"  />
+		<macro cname="新手解锁系统_首冲"  value="23" name="RESGUIDEUNLOCKSYSTEMTYPE_FIRSTRECHARGE" desc="新手解锁系统_首冲"  />
+		<macro cname="新手解锁系统_活动"  value="24" name="RESGUIDEUNLOCKSYSTEMTYPE_ACTIVITY" desc="新手解锁系统_活动"  />
+		
+		<macro cname="新手解锁系统_陨落遗迹"  value="25" name="RESGUIDEUNLOCKSYSTEMTYPE_FALLRUINS" desc="新手解锁系统_陨落遗迹"  />
+		<macro cname="新手解锁系统_迷失沙漠"  value="26" name="RESGUIDEUNLOCKSYSTEMTYPE_LOSTDESERT" desc="新手解锁系统_迷失沙漠"  />
+		
+		<macro cname="新手解锁系统_战旗"  value="27" name="RESGUIDEUNLOCKSYSTEMTYPE_RUNE" desc="新手解锁系统_战旗"  />
+		<macro cname="新手解锁系统_观战"  value="28" name="RESGUIDEUNLOCKSYSTEMTYPE_VIDEO" desc="新手解锁系统_观战"  />
+		<macro cname="新手解锁系统_直播"  value="29" name="RESGUIDEUNLOCKSYSTEMTYPE_LIVE" desc="新手解锁系统_直播"  />
+	</macrosgroup>
+  
+   <!--============================-->
+  
+  <macrosgroup name="GiftOpenWay" desc="礼包打开方式">
+	<macro cname="礼包_道具"  value="1" name="GiftOpenWay_OnlyItem" desc="礼包_道具"  />
+	<macro cname="礼包_英雄"  value="2" name="GiftOpenWay_IncludeHero" desc="礼包_英雄"  />
+	<macro cname="礼包_其他"  value="3" name="GiftOpenWay_Other" desc="礼包_其他"  />
+  </macrosgroup>
+  
+  
+   <macrosgroup name="MoneyType" desc="货币类型">
+	<macro cname="金币"  value="1" name="MONEYTYPE_GOLD" desc="金币"  />
+	<macro cname="钻石"  value="2" name="MONEYTYPE_DIAMOND" desc="钻石"  />
+	<macro cname="点券"  value="3" name="MONEYTYPE_TICKET" desc="点券"  />
+	<macro cname="日活跃度"  value="4" name="MONEYTYPE_DAY_ACTIVE_POINT" desc="日活跃度"  />
+	<macro cname="周活跃度"  value="5" name="MONEYTYPE_WEEK_ACTIVE_POINT" desc="周活跃度"  />
+	<macro cname="纹章碎片"  value="6" name="MONEYTYPE_SIGNET_FRAGMENT" desc="纹章碎片"  />
+	<macro cname="英雄碎片"  value="7" name="MONEYTYPE_HERO_FRAGMENT" desc="英雄碎片(道具)"  />
+	<macro cname="皮肤碎片"  value="8" name="MONEYTYPE_SKIN_FRAGMENT" desc="皮肤碎片(道具)"  />
+	<macro cname="战争勋章"  value="9" name="MONEYTYPE_WAR_MEDAL" desc="战争勋章"  />
+	<macro cname="怒吼勋章"  value="10" name="MONEYTYPE_ROAR_MEDAL" desc="怒吼勋章"  />
+	<macro cname="英雄符文碎片" value="11" name="MONEYTYPE_HERO_RUNE_FRAGMENT" desc="英雄符文碎片" />
+	<macro cname="种族符文碎片" value="12" name="MONEYTYPE_RACE_RUNE_FRAGMENT" 	desc="种族符文碎片" />
+  </macrosgroup>
+  
+  <macrosgroup name="ChatChannelType" desc="聊天频道">
+	<macro cname="聊天频道_大喇叭"  value="1" name="CHATCHANNEL_BIG_HORN" desc="聊天频道_大喇叭"  />
+	<macro cname="聊天频道_小喇叭"  value="2" name="CHATCHANNEL_SMALL_HORN" desc="聊天频道_小喇叭"  />
+	<macro cname="聊天频道_大厅频道"  value="3" name="CHATCHANNEL_HALL" desc="聊天频道_大厅频道"  />
+	<macro cname="聊天频道_好友频道"  value="4" name="CHATCHANNEL_FRIENDS" desc="聊天频道_好友频道"  />
+	<macro cname="聊天频道_公会频道"  value="5" name="CHATCHANNEL_TONG" desc="聊天频道_公会频道"  />
+	<macro cname="聊天频道_战斗队伍频道"  value="6" name="CHATCHANNEL_BATTLE_TEAM" desc="聊天频道_战斗队伍频道"  />
+	<macro cname="聊天频道_战斗全局频道"  value="7" name="CHATCHANNEL_BATTLE_ALL" desc="聊天频道_战斗全局频道"  />
+	<macro cname="聊天频道_系统公告"  value="8" name="CHATCHANNEL_SYSTEM" desc="聊天频道_系统公告"  />
+  <macro cname="聊天频道_匹配队伍频道"  value="9" name="CHATCHANNEL_MATCH_TEAM" desc="聊天频道_匹配队伍频道"  />
+  <macro cname="聊天频道_开房间频道"  value="10" name="CHATCHANNEL_CUSTOM_ROOM" desc="聊天频道_开房间频道"  />
+  </macrosgroup>
+  
+    <macrosgroup name="GlobalParameterType" desc="游戏全局参数类型">
+	<macro cname="每周通过对战获得金币初始上限"  value="1" name="GLOBALPARAMETERE_WEEK_BATTLE_GOLD_TOPLIMIT" desc="每周通过对战获得金币初始上限"  />
+	<macro cname="每周金币绝对上限"  value="2" name="GLOBALPARAMETERE_WEEK_ALL_GOLD_TOPLIMIT" desc="每周金币绝对上限"  />
+	<macro cname="每周经验绝对上限"  value="3" name="GLOBALPARAMETERE_WEEK_ALL_EXP_TOPLIMIT" desc="每周经验绝对上限"  />
+	<macro cname="对战信用奖励对战获得金币上限"  value="4" name="GLOBALPARAMETERE_CREDIT_ADD_WEEK_BATTLE_GOLD_TOPLIMIT" desc="对战信用奖励对战获得金币上限"  />
+	<macro cname="对战信用降低对战获得金币上限"  value="5" name="GLOBALPARAMETERE_CREDIT_REDUCE_WEEK_BATTLE_GOLD_TOPLIMIT" desc="对战信用降低对战获得金币上限"  />
+	<macro cname="大喇叭"  value="6" name="GLOBALPARAMETERE_BIG_HORN" desc="大喇叭"  />
+	<macro cname="小喇叭"  value="7" name="GLOBALPARAMETERE_SMALL_HORN" desc="小喇叭"  />
+	<macro cname="大厅聊天冷却CD"  value="8" name="GLOBALPARAMETERE_CHAT_HALL_CD" desc="大厅聊天冷却CD"  />
+	<macro cname="英雄熟练度上限"  value="9" name="GLOBALPARAMETERE_HERO_MASTERY_TOPLIMIT" desc="英雄熟练度上限"  />
+	<macro cname="实名认证奖励"  value="10" name="GLOBALPARAMETERE_REAL_AUTH_REWARD" desc="英雄熟练度上限"  />
+	<macro cname="首充奖励"  value="11" name="GLOBALPARAMETERE_FIRST_PAY" desc="首充奖励"  />
+	<macro cname="新手活动时间"  value="12" name="GLOBALPARAMETERE_NEWBIE_TIME" desc="新手活动时间"  />
+	<macro cname="新号第一把温暖局" value="13" name="GLOBALPARAMETERE_WARMGAME_1ST" desc="新号第一把温暖局"  />
+	<macro cname="新号第二把温暖局" value="14" name="GLOBALPARAMETERE_WARMGAME_2ND" desc="新号第二把温暖局"  />
+	<macro cname="购买战旗价格"	value="15" name="GLOBALPARAMETERE_RUNE_PRICE"	desc="购买战旗价格"/>
+	
+  </macrosgroup>
+  
+  <macrosgroup name="ServerParameterType" desc="服务器参数类型">
+	<macro cname="客户端苹果版本号"  value="1" name="SERVERPARAMETERE_IOS_CLIENT_VERSION" desc="客户端苹果版本号"  />
+	<macro cname="客户端安卓版本号"  value="2" name="SERVERPARAMETERE_ANDROID_CLIENT_VERSION" desc="客户端安卓版本号"  />
+	
+  </macrosgroup>
+  
+  <macrosgroup name="BasicState" desc="玩家基础状态">
+    <macro cname="大厅中"        value="0" name="BASICSTATE_LOBBY"        desc="大厅中" />
+    <macro cname="组队中"        value="1" name="BASICSTATE_QUEUE"        desc="组队中" />
+    <macro cname="选人中"        value="2" name="BASICSTATE_ROOM"         desc="选人中" />
+    <macro cname="游戏中"        value="3" name="BASICSTATE_BATTLE"       desc="游戏中" />
+    <macro cname="游戏结算中"    value="4" name="BASICSTATE_BATTLE_AWARD" desc="游戏结算中" />
+    <macro cname="新手教学中"    value="5" name="BASICSTATE_NEW_GUIDE"    desc="新手教学中" />
+    <macro cname="无网络游戏中"  value="6" name="BASICSTATE_NONET_BATTLE" desc="无网络游戏中" />
+    <macro cname="观看录像中"    value="7" name="BASICSTATE_WATCH_RECORD" desc="观看录像中" />
+	<macro cname="开黑中"    	  value="8" name="BASICSTATE_BATTLE_GROUPING" desc="开黑中" />
+  </macrosgroup>
+  
+   <macrosgroup name="GameType" desc="比赛类型">
+    <macro cname="匹配比赛"  value="0"   name="GAMETYPE_MATCH"  desc="匹配比赛" />
+    <macro cname="排位比赛"  value="1"   name="GAMETYPE_RANK"   desc="排位比赛" />
+  </macrosgroup>  
+  
+  <macrosgroup name="SystemVsMode" desc="对战模式">
+	<macro  value="0" name="SYSTEMVSMODE_ALL"  cname="对战模式_所有"  desc="对战模式_所有" />
+	<macro  value="1" name="SYSTEMVSMODE_RANK"  cname="对战模式_排位"  desc="对战模式_排位" />
+	<macro  value="2" name="SYSTEMVSMODE_MATCH"  cname="对战模式_匹配"  desc="对战模式_匹配" />
+	<macro  value="3" name="SYSTEMVSMODE_PVC"  	cname="对战模式_人机"  desc="对战模式_人机" />
+	<macro  value="4" name="SYSTEMVSMODE_CUSTOM"  cname="对战模式_自定义"  desc="对战模式_自定义" />
+	<macro  value="5" name="SYSTEMVSMODE_FORFUN"  cname="对战模式_娱乐模式"  desc="对战模式_娱乐模式" />
+  </macrosgroup>  
+  
+  <macrosgroup name="SystemMutiPlayMode" desc="对战人数模式">
+    <macro  value="0" name="SYTEMVSMUTIPLAYMODE_ALL"  cname="对战人数模式_所有"  desc="对战人数模式_所有" />
+	<macro  value="1" name="SYTEMVSMUTIPLAYMODE_1V1"  cname="对战人数模式_1V1"  desc="对战人数模式_1V1" />
+	<macro  value="2" name="SYTEMVSMUTIPLAYMODE_2V2"  cname="对战人数模式_2V2"  desc="对战人数模式_2V2" />
+	<macro  value="3" name="SYTEMVSMUTIPLAYMODE_3V3"  cname="对战人数模式_3V3"  desc="对战人数模式_3V3" />
+  </macrosgroup>  
+
+  <macrosgroup name="CustomRoomMode" desc="开房间模式">
+    <macro  value="1" name="CUSTOMROOMMODE_1v1"   desc="1v1" />
+    <macro  value="2" name="CUSTOMROOMMODE_2v2"  desc="2v2" />
+    <macro  value="3" name="CUSTOMROOMMODE_3v3"  desc="3v3" />
+  </macrosgroup>  
+
+  <macrosgroup name="FriendSyncType" desc="好友状态同步类型">
+    <macro cname="在线状态"   value="1" name="FRIENDSYNCTYPE_ONLINE"    desc="在线状态" />
+    <macro cname="游戏状态"   value="2" name="FRIENDSYNCTYPE_STATE"     desc="游戏状态" />
+    <macro cname="头像"       value="3" name="FRIENDSYNCTYPE_ICON"      desc="头像" />
+    <macro cname="头像框"     value="4" name="FRIENDSYNCTYPE_ICON_EDGE"   desc="头像框" />
+    <macro cname="国籍"       value="5" name="FRIENDSYNCTYPE_COUNTRY"     desc="国籍" />
+    <macro cname="段位"       value="6" name="FRIENDSYNCTYPE_RANK_LEVEL"  desc="段位" />
+    <macro cname="登出时间"   value="7" name="FRIENDSYNCTYPE_LOGOUT_TIME" desc="登出时间" />
+    <macro cname="等级"       value="8" name="FRIENDSYNCTYPE_LEVEL"       desc="等级" />
+  </macrosgroup> 
+  
+
+  <macrosgroup name="RoleType" desc="角色类型">
+    <macro cname="角色类型_玩家"     value="1" name="ROLETYPE_PLAYER"     desc="角色类型_玩家" />
+    <macro cname="角色类型_电脑"     value="2" name="ROLETYPE_COMPUTER"   desc="角色类型_电脑" />
+    <macro cname="角色类型_虚拟人"   value="3" name="ROLETYPE_VIRTUAL"    desc="角色类型_虚拟人" />
+  </macrosgroup> 
+  
+  <macrosgroup name="SystemPackageUseType" desc="礼包使用类型"> 
+	<macro name="SYSTEMPACKAGE_MANUALUSE" value="0" cname="手动使用" desc="手动使用"/>
+	<macro name="SYSTEMPACKAGE_AUTOUSE" value="1" cname="自动使用" desc="自动使用"/>
+  </macrosgroup>
+  
+  <macrosgroup name="SystemPackageRandomType" desc="礼包随机类型"> 
+	<macro name="SYSTEMPACKAGE_RANDOM_ALL" value="0" cname="全概率抽取" desc="全概率抽取"/>
+	<macro name="SYSTEMPACKAGE_RANDOM_SINGLE" value="1" cname="独立概率抽取" desc="独立概率抽取"/>
+  </macrosgroup>
+
+  <macrosgroup name="CreditReportType" desc="信用投票类型">
+    <macro cname="信用投票类型_恶意挂机"    value="1" name="CREDITREPORTTYPE_HANGUP"      desc="信用投票类型_恶意挂机" />
+    <macro cname="信用投票类型_消极游戏"    value="2" name="CREDITREPORTTYPE_PASSIVE"     desc="信用投票类型_消极游戏" />
+    <macro cname="信用投票类型_言语辱骂"    value="4" name="CREDITREPORTTYPE_ABUSE"       desc="信用投票类型_言语辱骂" />
+    <macro cname="信用投票类型_使用外挂"    value="8" name="CREDITREPORTTYPE_CHEAT"       desc="信用投票类型_使用外挂" />
+  </macrosgroup>
+
+  <macrosgroup name="MailMainType" desc="邮件主类型">
+    <macro cname="邮件主类型_系统"    value="1" name="MAILMAINTYPE_SYSTEM"      desc="邮件主类型_系统" />
+    <macro cname="邮件主类型_公会"    value="2" name="MAILMAINTYPE_SOCIATY"     desc="邮件主类型_公会" />
+    <macro cname="邮件主类型_好友"    value="3" name="MAILMAINTYPE_FRIEND"      desc="邮件主类型_好友" />
+    <macro cname="邮件主类型_排位赛"  value="4" name="MAILMAINTYPE_QUALIFIER"   desc="邮件主类型_排位赛" />
+    <macro cname="邮件主类型_消息"    value="5" name="MAILMAINTYPE_MESSAGE"     desc="邮件主类型_消息" />
+  </macrosgroup> 
+  
+    <macrosgroup name="MailSubType" desc="邮件子类型">
+    <macro cname="邮件子类型_服务器通知"    	value="1"  name="MAILSUBTYPE_SERVERNOTIFY"      desc="邮件子类型_服务器通知" />
+    <macro cname="邮件子类型_节日奖励"    		value="2"  name="MAILSUBTYPE_FESTIVALAWARDS"     desc="邮件子类型_节日奖励" />
+    <macro cname="邮件子类型_VIP周礼包"    		value="3"  name="MAILSUBTYPE_VIPRITESPACKAGE"      desc="邮件子类型_VIP周礼包" />
+    <macro cname="邮件子类型_VIP一次性奖励"  	value="4"  name="MAILSUBTYPE_VIPONETIMEREWARD"   desc="邮件子类型_VIP一次性奖励" />
+    <macro cname="邮件子类型_英雄体验卡失效"   value="5"  name="MAILSUBTYPE_HEROCARDFAILS"     desc="邮件子类型_英雄体验卡失效" />
+    <macro cname="邮件子类型_皮肤体验卡失效"   value="6"  name="MAILSUBTYPE_SKINCARDFAILS"     desc="邮件子类型_皮肤体验卡失效" />
+    <macro cname="邮件子类型_对战信用扣分"    	value="7"  name="MAILSUBTYPE_CREDITSCORE"     desc="邮件子类型_对战信用扣分" />
+    <macro cname="邮件子类型_禁赛通知"    		value="8"  name="MAILSUBTYPE_SUSPENDNOTICE"     desc="邮件子类型_禁赛通知" />
+    <macro cname="邮件子类型_成功举报"    		value="9"  name="MAILSUBTYPE_REPORTSUCCESS"     desc="邮件子类型_成功举报" />
+    <macro cname="邮件子类型_举报反馈"    		value="10" name="MAILSUBTYPE_REPORTFEEDBACK"     desc="邮件子类型_举报反馈" />
+    <macro cname="邮件子类型_公会奖励"    		value="11" name="MAILSUBTYPE_GUILDREWARD"     desc="邮件子类型_公会奖励" />
+    <macro cname="邮件子类型_公会周报"    		value="12" name="MAILSUBTYPE_GUILDWEEKLY"     desc="邮件子类型_公会周报" />
+    <macro cname="邮件子类型_好友赠送金币"    	value="13" name="MAILSUBTYPE_FRIENDSGIVEGOLD"     desc="邮件子类型_好友赠送金币" />
+    <macro cname="邮件子类型_排位赛奖励领取"   value="14" name="MAILSUBTYPE_RECEIVEQUALIFIERAWARD"     desc="邮件子类型_排位赛奖励领取" />
+    <macro cname="邮件子类型_邀请组队"    		value="15" name="MAILSUBTYPE_SQUADINVITE"     desc="邮件子类型_邀请组队" />
+  </macrosgroup> 
+  
+    <macrosgroup name="RankType" desc="排行榜类型">
+    <macro cname="1v1排位赛榜单"    value="1" name="RANKTYPE_QUALIFYING_1v1"      desc="1v1排位赛榜单" />
+	<macro cname="2v2排位赛榜单"    value="2" name="RANKTYPE_QUALIFYING_2v2"      desc="2v2排位赛榜单" />
+	<macro cname="好友榜单"    value="3" name="RANKTYPE_FRIEND"      desc="好友榜单" />
+  </macrosgroup>
+  
+	<macrosgroup name="GuideSkillType"	desc="技巧类型">
+	<macro	cname="技巧类型_基础"	value="1"	name="GUIDE_SKILL_BASICS"	desc="技巧类型_基础"/>
+	<macro	cname="技巧类型_进阶"	value="2"	name="GUIDE_SKILL_MIDDLE"	desc="技巧类型_进阶"/>
+	<macro	cname="技巧类型_高级"	value="3"	name="GUIDE_SKILL_HIGH"	desc="技巧类型_高级"/>
+	</macrosgroup>
+    
+  <macrosgroup name="RaceSkillType"	desc="种族技能类型">
+	<macro	cname="种族天赋技能"	value="1"	name="RACE_SKILL_TALENT"	desc="种族天赋技能"/>
+	<macro	cname="种族侦查技能"	value="2"	name="RACE_SKILL_SPY"	desc="种族侦查技能"/>
+  </macrosgroup>
+  
+  <macrosgroup name="MonthCardType"	desc="月卡类型">
+	<macro	cname="白银月卡"	value="1"	name="MONTH_CARD_SILVER"	desc="白银月卡"/>
+	<macro	cname="黄金月卡"	value="2"	name="MONTH_CARD_GOLD"	desc="黄金月卡"/>
+  </macrosgroup>
+  
+  
+  <macrosgroup name="MatchOpenTimeType"	desc="赛事开放时间类型">
+	<macro	cname="赛事开放时间_全开"	value="0"	name="MATCHOPENTIMETYPE_ALL"	desc="赛事开放时间_全开"/>
+	<macro	cname="赛事开放时间_天"	    value="1"	name="MATCHOPENTIMETYPE_DAY"	desc="赛事开放时间_天"/>
+	<macro	cname="赛事开放时间_周"	    value="2"	name="MATCHOPENTIMETYPE_WEEK"	desc="赛事开放时间_周"/>
+  </macrosgroup>
+  
+  <!--商城分页-->
+  <macrosgroup name="ShopSheet" desc="商城分页">
+    <macro cname="商城分页_英雄"      value="1"   name="SHOPSHEET_HERO"     desc="商城分页_英雄" />
+    <macro cname="商城分页_皮肤"      value="2"   name="SHOPSHEET_SKIN"     desc="商城分页_皮肤" />
+    <macro cname="商城分页_道具"      value="3"   name="SHOPSHEET_ITEM"     desc="商城分页_道具" />
+    <macro cname="商城分页_折扣"      value="4"   name="SHOPSHEET_DISCOUNT" desc="商城分页_折扣" />
+    <macro cname="商城分页_新手礼包"  value="5"   name="SHOPSHEET_NEWBIE"   desc="商城分页_新手礼包" />
+	<macro cname="商城分页_英雄碎片"  value="6"   name="SHOPSHEET_HEROFARGMENT"   desc="商城分页_英雄碎片" />
+	<macro cname="商城分页_皮肤碎片"  value="7"   name="SHOPSHEET_SKINFARGMENT"   desc="商城分页_皮肤碎片" />
+	<macro cname="商城分页_战争勋章"  value="8"   name="SHOPSHEET_RAFFLEWARMEDAL"   desc="商城分页_战争勋章" />
+	<macro cname="商城分页_怒吼勋章"  value="9"   name="SHOPSHEET_RAFFLEROARMEDAL"   desc="商城分页_怒吼勋章" />
+  </macrosgroup>
+
+  <!--商城限购周期-->
+  <macrosgroup name="ShopLimitType" desc="商城限购周期">
+	<macro cname="商城限购周期_无"        value="0"   name="SHOPLIMITTYPE_NONE"     desc="商城限购周期_无" />
+    <macro cname="商城限购周期_每日"      value="1"   name="SHOPLIMITTYPE_DAILY"     desc="商城限购周期_每日" />
+    <macro cname="商城限购周期_每周"      value="2"   name="SHOPLIMITTYPE_WEEKLY"    desc="商城限购周期_每周" />
+    <macro cname="商城限购周期_永久"      value="3"   name="SHOPLIMITTYPE_FOREVER"   desc="商城限购周期_永久" />
+	<macro cname="商城限购周期_每月"	   value="4"   name="SHOPLIMITTYPE_MONTH"	  desc="商城限购周期_每月" />
+  </macrosgroup>
+  
+  <macrosgroup name="SeasonReward"	desc="赛季奖励">
+	<macro	cname="S1赛季1v1奖励"	value="1"	name="S1_1V1"	desc="S1赛季1v1奖励"/>
+	<macro	cname="S2赛季1v1奖励"	value="2"	name="S2_1V1"	desc="S2赛季1v1奖励"/>
+	<macro	cname="S3赛季1v1奖励"	value="3"	name="S3_1V1"	desc="S3赛季1v1奖励"/>
+	<macro	cname="S4赛季1v1奖励"	value="4"	name="S4_1V1"	desc="S4赛季1v1奖励"/>
+	<macro	cname="S5赛季1v1奖励"	value="5"	name="S5_1V1"	desc="S5赛季1v1奖励"/>
+	<macro	cname="S6赛季1v1奖励"	value="6"	name="S6_1V1"	desc="S6赛季1v1奖励"/>
+	<macro	cname="S7赛季1v1奖励"	value="7"	name="S7_1V1"	desc="S7赛季1v1奖励"/>
+	<macro	cname="S8赛季1v1奖励"	value="8"	name="S8_1V1"	desc="S8赛季1v1奖励"/>
+	<macro	cname="S9赛季1v1奖励"	value="9"	name="S9_1V1"	desc="S9赛季1v1奖励"/>
+	<macro	cname="S10赛季1v1奖励"	value="10"	name="S10_1V1"	desc="S10赛季1v1奖励"/>
+	<macro	cname="S11赛季1v1奖励"	value="11"	name="S11_1V1"	desc="S11赛季1v1奖励"/>
+	<macro	cname="S12赛季1v1奖励"	value="12"	name="S12_1V1"	desc="S12赛季1v1奖励"/>
+	
+	<macro	cname="S1赛季2v2奖励"	value="13"	name="S1_2V2"	desc="S1赛季2v2奖励"/>
+	<macro	cname="S2赛季2v2奖励"	value="14"	name="S2_2V2"	desc="S2赛季2v2奖励"/>
+	<macro	cname="S3赛季2v2奖励"	value="15"	name="S3_2V2"	desc="S3赛季2v2奖励"/>
+	<macro	cname="S4赛季2v2奖励"	value="16"	name="S4_2V2"	desc="S4赛季2v2奖励"/>
+	<macro	cname="S5赛季2v2奖励"	value="17"	name="S5_2V2"	desc="S5赛季2v2奖励"/>
+	<macro	cname="S6赛季2v2奖励"	value="18"	name="S6_2V2"	desc="S6赛季2v2奖励"/>
+	<macro	cname="S7赛季2v2奖励"	value="19"	name="S7_2V2"	desc="S7赛季2v2奖励"/>
+	<macro	cname="S8赛季2v2奖励"	value="20"	name="S8_2V2"	desc="S8赛季2v2奖励"/>
+	<macro	cname="S9赛季2v2奖励"	value="21"	name="S9_2V2"	desc="S9赛季2v2奖励"/>
+	<macro	cname="S10赛季2v2奖励"	value="22"	name="S10_2V2"	desc="S10赛季2v2奖励"/>
+	<macro	cname="S11赛季2v2奖励"	value="23"	name="S11_2V2"	desc="S11赛季2v2奖励"/>
+	<macro	cname="S12赛季2v2奖励"	value="24"	name="S12_2V2"	desc="S12赛季2v2奖励"/>
+	<macro	cname="赛季首冲"	value="25"	name="First_Recharge"	desc="赛季首冲"/>
+	<macro	cname="勋章兑换"	value="26"	name="MEDAL_EXCHANGE"	desc="勋章兑换"/>
+	<macro	cname="技巧教学奖励"	value="27"	name="SkillTECHNIC_REWARD"	desc="技巧教学奖励"/>
+	<macro	cname="英雄碎片兑换"	value="28"	name="HERO_FRAGMENT"	desc="英雄碎片兑换"/>
+	<macro	cname="皮肤碎片兑换"	value="29"	name="SKIN_FRAGMENT"	desc="皮肤碎片兑换"/>
+  </macrosgroup>
+  
+   <!--============系统抽奖  ================-->
+   
+   <macrosgroup name="SystemLotteryType" desc="系统抽奖类型">
+   
+	<macro cname="系统钻石首抽"        value="1"  name="SYSTEMLOTTERYTYPE_DIAMONDFRIST"     desc="系统钻石首抽" />
+	<macro cname="系统钻石单抽"        value="2"  name="SYSTEMLOTTERYTYPE_DIAMONDSOLO"     desc="系统钻石单抽" />
+    <macro cname="系统钻石连抽"        value="3" name="SYSTEMLOTTERYTYPE_DIAMONDFIVE"     desc="系统钻石连抽" />
+    <macro cname="系统钻石单抽保底"    value="4"  name="SYSTEMLOTTERYTYPE_DIAMONDSOLOGOD"    desc="系统钻石单抽保底" />
+    <macro cname="系统钻石连抽保底"    value="5"  name="SYSTEMLOTTERYTYPE_DIAMONDFIVEGOD"   desc="系统钻石连抽保底" />
+	
+	
+	<macro cname="系统点券首抽"        value="6"  name="SYSTEMLOTTERYTYPE_COUPONFRIST"     desc="系统点券首抽" />
+	<macro cname="系统点券单抽"        value="7"  name="SYSTEMLOTTERYTYPE_COUPONSOLO"     desc="系统点券单抽" />
+    <macro cname="系统点券连抽"        value="8" name="SYSTEMLOTTERYTYPE_COUPONFIVE"     desc="系统点券连抽" />
+    <macro cname="系统点券单抽保底"    value="9"  name="SYSTEMLOTTERYTYPE_COUPONSOLOGOD"    desc="系统点券单抽保底" />
+    <macro cname="系统点券连抽保底"    value="10"  name="SYSTEMLOTTERYTYPE_COUPONFIVEGOD"   desc="系统点券连抽保底" />
+	
+	<macro cname="系统英雄符文钻石首抽"        value="11"  name="SYSTEMLOTTERYTYPE_HERO_RUNE_DIAMONDFRIST"     desc="系统英雄符文钻石首抽" />
+	<macro cname="系统英雄符文钻石单抽"        value="12"  name="SYSTEMLOTTERYTYPE_HERO_RUNE_DIAMONDSOLO"     desc="系统英雄符文钻石单抽" />
+    <macro cname="系统英雄符文钻石连抽"        value="13" name="SYSTEMLOTTERYTYPE_HERO_RUNE_DIAMONDFIVE"     desc="系统英雄符文钻石连抽" />
+    <macro cname="系统英雄符文钻石单抽保底"    value="14"  name="SYSTEMLOTTERYTYPE_HERO_RUNE_DIAMONDSOLOGOD"    desc="系统英雄符文钻石单抽保底" />
+    <macro cname="系统英雄符文钻石连抽保底"    value="15"  name="SYSTEMLOTTERYTYPE_HERO_RUNE_DIAMONDFIVEGOD"   desc="系统英雄符文钻石连抽保底" />
+	
+	
+	<macro cname="系统英雄符文金币首抽"        value="16"  name="SYSTEMLOTTERYTYPE_HERO_RUNE_GOLDFRIST"     desc="系统英雄符文金币首抽" />
+	<macro cname="系统英雄符文金币单抽"        value="17"  name="SYSTEMLOTTERYTYPE_HERO_RUNE_GOLDSOLO"     desc="系统英雄符文金币单抽" />
+    <macro cname="系统英雄符文金币连抽"        value="18" name="SYSTEMLOTTERYTYPE_HERO_RUNE_GOLDFIVE"     desc="系统英雄符文金币连抽" />
+    <macro cname="系统英雄符文金币单抽保底"    value="19"  name="SYSTEMLOTTERYTYPE_HERO_RUNE_GOLDSOLOGOD"    desc="系统英雄符文金币单抽保底" />
+    <macro cname="系统英雄符文金币连抽保底"    value="20"  name="SYSTEMLOTTERYTYPE_HERO_RUNE_GOLDFIVEGOD"   desc="系统英雄符文金币连抽保底" />
+	
+	<macro cname="系统种族符文钻石首抽"        value="21"  name="SYSTEMLOTTERYTYPE_RACE_RUNE_DIAMONDFRIST"     desc="系统种族符文钻石首抽" />
+	<macro cname="系统种族符文钻石单抽"        value="22"  name="SYSTEMLOTTERYTYPE_RACE_RUNE_DIAMONDSOLO"     desc="系统种族符文钻石单抽" />
+    <macro cname="系统种族符文钻石连抽"        value="23" name="SYSTEMLOTTERYTYPE_RACE_RUNE_DIAMONDFIVE"     desc="系统种族符文钻石连抽" />
+    <macro cname="系统种族符文钻石单抽保底"    value="24"  name="SYSTEMLOTTERYTYPE_RACE_RUNE_DIAMONDSOLOGOD"    desc="系统种族符文钻石单抽保底" />
+    <macro cname="系统种族符文钻石连抽保底"    value="25"  name="SYSTEMLOTTERYTYPE_RACE_RUNE_DIAMONDFIVEGOD"   desc="系统种族符文钻石连抽保底" />
+	
+	
+	<macro cname="系统种族符文金币首抽"        value="26"  name="SYSTEMLOTTERYTYPE_RACE_RUNE_GOLDFRIST"     desc="系统种族符文金币首抽" />
+	<macro cname="系统种族符文金币单抽"        value="27"  name="SYSTEMLOTTERYTYPE_RACE_RUNE_GOLDSOLO"     desc="系统种族符文金币单抽" />
+    <macro cname="系统种族符文金币连抽"        value="28" name="SYSTEMLOTTERYTYPE_RACE_RUNE_GOLDFIVE"     desc="系统种族符文金币连抽" />
+    <macro cname="系统种族符文金币单抽保底"    value="29"  name="SYSTEMLOTTERYTYPE_RACE_RUNE_GOLDSOLOGOD"    desc="系统种族符文金币单抽保底" />
+    <macro cname="系统种族符文金币连抽保底"    value="30"  name="SYSTEMLOTTERYTYPE_RACE_RUNE_GOLDFIVEGOD"   desc="系统种族符文金币连抽保底" />
+	
+	
+  </macrosgroup>
+   
+  <!--============商城  ================-->
+
+  <macrosgroup name="ShopDiscountType" desc="商城折扣类型">
+    <macro cname="商城折扣类型_无折扣"        value="0"  name="SHOPDISCOUNTTYPE_NONE"       desc="商城折扣类型_无折扣" />
+    <macro cname="商城折扣类型_限时折扣"      value="1"  name="SHOPDISCOUNTTYPE_LIMITTIME"  desc="商城折扣类型_限时折扣" />
+    <macro cname="商城折扣类型_新手折扣"      value="2"  name="SHOPDISCOUNTTYPE_NEWBIE"     desc="商城折扣类型_新手折扣" />
+  </macrosgroup>
+  
+  
+  <macrosgroup name="TeamInviteFromType" desc="组队邀请类型">
+    <macro cname="组队邀请类型_好友"      value="0"  name="TEAMINVITEFROMTYPE_FRIEND"	desc="组队邀请类型_好友" />
+    <macro cname="组队邀请类型_近期"      value="1"  name="TEAMINVITEFROMTYPE_RECENT"	desc="组队邀请类型_近期" />
+    <macro cname="组队邀请类型_聊天"      value="2"  name="TEAMINVITEFROMTYPE_CHAT"		desc="组队邀请类型_聊天" />
+  </macrosgroup>
+  
+  <!--============活动  ================-->
+  <macrosgroup name="ActivityAcquireType" desc="活动获得类型">
+    <macro cname="活动获得类型_首次登录"  value="0"  name="ACTIVITYACQUIRETYPE_FIRSTLOGIN"	desc="活动获得类型_首次登录" />
+	<macro cname="活动获得类型_限时获得"  value="1"  name="ACTIVITYACQUIRETYPE_LIMITTIME"	desc="活动获得类型_限时获得" />
+	<macro cname="活动获得类型_每周获得"  value="2"  name="ACTIVITYACQUIRETYPE_WEEKDAY"	desc="活动获得类型_每周获得" />
+	<macro cname="活动获得类型_每月获得"  value="3"  name="ACTIVITYACQUIRETYPE_MONTHDAY"	desc="活动获得类型_每月获得" />
+  </macrosgroup>
+  
+  <macrosgroup name="ActivityDurationType" desc="活动时间类型">
+    <macro cname="活动时间类型_每周时间段"  value="0"  name="ACTIVITYDURATIONTYPE_WEEKDAY"	desc="活动时间类型_每周时间段" />
+    <macro cname="活动时间类型_新手期"      value="1"  name="ACTIVITYDURATIONTYPE_NEWBIE"	desc="活动时间类型_新手期" />
+    <macro cname="活动时间类型_固定时间段"  value="2"  name="ACTIVITYDURATIONTYPE_PERIOD"	desc="活动时间类型_固定时间段" />
+	<macro cname="活动时间类型_每月时间段"  value="3"  name="ACTIVITYDURATIONTYPE_MONTHDAY"	desc="活动时间类型_每月时间段" />
+  </macrosgroup>
+  
+  <macrosgroup name="ActivityCounterType" desc="活动计数器类型">
+    <macro cname="活动计数器类型_无"          value="0"  name="ACTIVITYCOUNTERTYPE_NONE"	    	desc="活动计数器类型_无" />
+    <macro cname="活动计数器类型_时间段登录"  value="1"  name="ACTIVITYCOUNTERTYPE_LOGIN_INTIME"	desc="活动计数器类型_时间段登录" />
+    <macro cname="活动计数器类型_每日登录"    value="2"  name="ACTIVITYCOUNTERTYPE_LOGIN_TOTALDAY"	desc="活动计数器类型_每日登录" />
+	<macro cname="活动计数器类型_充值"        value="3"  name="ACTIVITYCOUNTERTYPE_PAY_TOTAL"	    desc="活动计数器类型_充值" />
+	<macro cname="活动计数器类型_新手登录"    value="4"  name="ACTIVITYCOUNTERTYPE_NEWBIE_LOGIN"	desc="活动计数器类型_新手登录" />
+  </macrosgroup>
+  
+  <macrosgroup name="ActivityCounterResetType" desc="活动计数器重置类型">
+    <macro cname="活动计数器重置类型_不重置"     value="0"  name="ACTIVITYCOUNTERRESETTYPE_NONE"	     desc="活动计数器重置类型_不重置" />
+    <macro cname="活动计数器重置类型_每天重置"   value="1"  name="ACTIVITYCOUNTERRESETTYPE_EVERYDAY"	 desc="活动计数器重置类型_每天重置" />
+    <macro cname="活动计数器重置类型_每周重置"   value="2"  name="ACTIVITYCOUNTERRESETTYPE_EVERYWEEK"	 desc="活动计数器重置类型_每周重置" />
+	<macro cname="活动计数器重置类型_每月重置"   value="3"  name="ACTIVITYCOUNTERRESETTYPE_EVERYMONTH"	 desc="活动计数器重置类型_每月重置" />
+  </macrosgroup>
+  
+  <macrosgroup name="ActivityQuestState" desc="活动任务状态">
+    <macro cname="活动任务状态_未完成"     value="0"  name="ACTIVITYQUESTSTATE_UNFINISH"	 desc="活动任务状态_未完成" />
+    <macro cname="活动任务状态_已完成"     value="1"  name="ACTIVITYQUESTSTATE_FINISH"	     desc="活动任务状态_已完成" />
+	<macro cname="活动任务状态_已领奖"     value="2"  name="ACTIVITYQUESTSTATE_REWARDED"	 desc="活动任务状态_已领奖" />
+  </macrosgroup>
+  
+  <!--============符文 荣耀战旗================-->
+  <macrosgroup name="ResActorRuneAttrType" desc="单位符文属性类型(服务器存储,不可改动ID)" >
+  
+	<!--============以下ID值禁止改动================-->
+  
+    <macro name="RUNE_ATTR_MIN"          		value="0"	desc="符文_属性最小值" />
+    <macro name="RUNE_ATTR_MAX_HP"       		value="2"   cname="符文_最大生命值" desc="符文_最大生命值"/>
+    <macro name="RUNE_ATTR_HP_RECOVERY"  		value="3"   cname="符文_生命回复/5s" desc="符文_生命回复/5s"/>
+	<macro name="RUNE_ATTR_MAX_MP"       		value="5"   cname="符文_最大法术值" desc="符文_最大法术值"/>
+	<macro name="RUNE_ATTR_MP_RECOVER"       	value="7"   cname="符文_法术回复/5s" desc="符文_法术回复/5s"/>
+    <macro name="RUNE_ATTR_ATK"     			value="8"   cname="符文_攻击力" desc="符文_攻击力"/>
+    <macro name="RUNE_ATTR_ARMOR"     			value="9"   cname="符文_护甲值" desc="符文_护甲值"/>
+    <macro name="RUNE_ATTR_ARMOR_PIERCE"       	value="10"  cname="符文_护甲穿透" desc="符文_护甲穿透"/>
+	<macro name="RUNE_ATTR_ATK_SPEED"     		value="12"  cname="符文_攻击速度" desc="符文_攻击速度(1万代表1s)"/>
+	<macro name="RUNE_ATTR_ATK_STEAL_RATE"		value="13"	cname="符文_生命偷取率" desc="符文_生命偷取率(万分比)"/>
+	<macro name="RUNE_ATTR_CRI_RATE"       		value="14"  cname="符文_暴击率" desc="符文_暴击率(万分比)"/>
+	<macro name="RUNE_ATTR_CRI_DAM_RATE"       	value="15"  cname="符文_暴击伤害率" desc="符文_暴击伤害率(万分比)"/>
+	<macro name="RUNE_ATTR_MAGIC"       		value="16"  cname="符文_法术强度" desc="符文_法术强度"/>
+	<macro name="RUNE_ATTR_MAGIC_DEF"       	value="17"  cname="符文_法术抗性" desc="符文_法术抗性"/>
+	<macro name="RUNE_ATTR_MD_PIERCE"       	value="18"  cname="符文_法术穿透" desc="符文_法术穿透"/>
+	<macro name="RUNE_ATTR_AP_STEAL_RATE"       value="20"  cname="符文_法术吸血率" desc="符文_法术吸血率(万分比)"/>
+	<macro name="RUNE_ATTR_TENACITY_RATE"		value="21"	cname="符文_韧性率" desc="符文_韧性率(万分比)"/>
+	<macro name="RUNE_ATTR_CD_REDUCTION"       	value="22"  cname="符文_冷却缩减" desc="符文_冷却缩减(万分比)"/>
+	<macro name="RUNE_ATTR_EVASION_RATE"       	value="24"  cname="符文_闪避值" desc="符文_闪避值(万分比)"/>
+	
+	
+	<macro name="RUNE_ATTR_MAX"         		value="26"  desc="符文_属性最大值" />
+  </macrosgroup>
+  
+  <macrosgroup name="ResTeamRuneAttrType" desc="队伍符文属性类型(服务器存储,不可改动ID)" >
+	<macro name="TEAMRUNE_ATTR_MIN"         value="0"	desc="符文_队伍属性最小值" />
+	<macro name="TEAMRUNE_ATTR_MFGOLD"    	value="1"  cname="符文_打野额外金钱" desc="符文_打野额外金钱(万分比)"/>
+	<macro name="TEAMRUNE_ATTR_MFEXP"    	value="2"  cname="符文_打野额外经验" desc="符文_打野额外经验(万分比)"/>
+	<macro name="TEAMRUNE_ATTR_PKEXP"    	value="3"  cname="符文_击杀士兵额外经验" desc="符文_击杀士兵额外经验(万分比)"/>
+	<macro name="TEAMRUNE_ATTR_BUILDGOLDTIME" value="4"  cname="符文_分矿建造时间" desc="符文_分矿建造时间(毫秒)"/>
+	<macro name="TEAMRUNE_ATTR_BUILDTOWERTIME" value="5"  cname="符文_防御塔建造时间" desc="符文_防御塔建造时间(毫秒)"/>
+	<macro name="TEAMRUNE_ATTR_UPBASETIME"    value="6"  cname="符文_升级基地时间" desc="符文_升级基地时间(万分比)"/>
+	<macro name="TEAMRUNE_ATTR_CONSTRUCTARMYCOST"   value="7"  cname="符文_训练士兵费用" desc="符文_训练士兵费用(万分比)"/>
+	<macro name="TEAMRUNE_ATTR_REPARISPEED"  value="8"  cname="符文_修理建筑速度" desc="符文_修理建筑速度(万分比)"/>
+	<macro name="TEAMRUNE_ATTR_SPAWNGOLD"    value="9"  cname="符文_出生携带金币" desc="符文_出生携带金币"/>
+	<macro name="TEAMRUNE_ATTR_TRANFERCD"    value="10"  cname="符文_传送冷却时间" desc="符文_传送冷却时间(毫秒)"/>
+	<macro name="TEAMRUNE_ATTR_GRASSHPRECOVER"   value="11"  cname="符文_草丛生命回复" desc="符文_草丛生命回复(万分比)"/>
+	<macro name="TEAMRUNE_ATTR_SPRINGHPRECOVER"  value="12"  cname="符文_泉水生命回复" desc="符文_泉水生命回复(万分比)"/>
+				
+	<macro name="TEAMRUNE_ATTR_MAX"        value="13"  desc="符文_队伍属性最大值" />
+  </macrosgroup>
+  
+  <macrosgroup name="RuneMosaicType" desc="符文镶嵌类型">
+    <macro cname="攻击向符文"     value="0"  name="RuneMosaicType_Attack"	 desc="攻击向符文" />
+    <macro cname="防御向符文"     value="1"  name="RuneMosaicType_Defense"	 desc="防御向符文" />
+    <macro cname="辅助向符文"     value="2"  name="RuneMosaicType_Buff"	 desc="辅助向符文" />
+    <macro cname="特殊向符文"     value="3"  name="RuneMosaicType_Specially"	 desc="特殊向符文" />
+    <macro cname="任意位置符文"     value="4"  name="RuneMosaicType_AnyWhere"	 desc="任意位置符文" />
+  </macrosgroup>
+  
+    <macrosgroup name="RuneAttrType" desc="符文属性类型">
+    <macro cname="单位属性符文"     value="0"  name="RUNEATTRTYPE_ACTOR"	 desc="单位属性符文" />
+    <macro cname="队伍属性符文"     value="1"  name="RUNEATTRTYPE_TEAM"	 desc="队伍属性符文" />
+  </macrosgroup>
+  
+  <macrosgroup name="RunePackageType" desc="符文类型">
+    <macro cname="英雄符文背包"     value="1"  name="RUNEPACKAGETYPE_HERO"	 desc="英雄符文背包" />
+    <macro cname="种族符文背包"     value="2"  name="RUNEPACKAGETYPE_RACE"	 desc="种族符文背包" />
+  </macrosgroup>
+  
+  <!--============游戏分享类型================-->
+  <macrosgroup name="GameShareType" desc="分享类型">
+    <macro name="SHARE_BATTLESETTLE"         value="0"	desc="分享游戏战绩" />
+	<macro name="SHARE_ACTIVITY"         value="1"	desc="分享活动" />
+  </macrosgroup>
+  
+</metalib>

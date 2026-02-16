@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+
+<metalib tagsetversion="1" name="BattleProtocol" version="1" >
+
+	<macro name="CLIENT_FRONT_LEN"                     value="2"            desc="服务器头字节" /> 
+	<macro name="CLIENT_FLUSH_FRONT_LEN"               value="4"            desc="压缩格式头字节" /> 
+	<macro name="MSGID_FRONT_LEN"                      value="6"            desc="服务器头结构字节" /> 
+	
+
+	<macro name="RET_CODE_OK"                      value="0"            desc="正常" /> 
+	<macro name="MAX_NAME_LEN"   					value="64"  desc="名称最大长度"/>
+	<macro name="MAX_MD5_LEN"   					value="64"  desc="md5最大长度"/>
+	<macro name="MAX_TOKEN_LEN"                    value="256"          desc="token长度"/>
+	<macro name="MAX_GM_LEN"                       value="256"          desc="gm长度"/>
+	<macro name="MAX_DUMP_LEN"                     value="17"          desc="dump"/>
+	<macro name="MAX_FRAME_CMD_LEN"                value="128"          desc="帧通用指令长度"/>
+	
+	<macro name="MAX_BATTLEFRAMECMD_LEN"          value="256"          desc="帧指令最大数组长度"/>
+	<macro name="MAX_BATTLEFRAMECMD_MAXCNT"       value="60"          desc="帧指令最大指令长度"/>
+	<macro name="MAX_BATTLEFRAMECMDARRAY_MAXSIZE"       value="8096"          desc="重连帧指令数组最大长度"/>
+
+
+	<macro name="MAX_ROLENAME_LEN"	value="128"		desc="名字最大长度"/>
+	
+	<macro name="MAX_BATTLEPLAYER_COUNT" value="10" desc="战场对阵玩家最大数目"/>
+	<macro name="MAX_BATTLESYSTEM_COUNT" value="12" desc="游戏系统设置最大数目"/>
+	
+	<macro name="MAX_RACESKILL_COUNT"	value="4"		desc="种族技能最大个数"/>
+	<macro name="MAX_ACTORRUNEATTR_COUNT"	value="26"		desc="创建单位符文属性最大个数"/>
+	<macro name="MAX_TEAMRUNEATTR_COUNT"	value="12"		desc="创建队伍符文属性最大个数"/>
+	
+	<macro name="MAX_BATTLTEDUMPATTR_MAX_COUNT"	value="60"		desc="Dump属性最大个数"/>
+	<macro name="MAX_BATTLTEBUFF_MAX_COUNT"	value="16"		desc="Dump BUFF最大个数"/>
+	<macro name="MAX_BATTLTACTOR_MAX_COUNT"	value="256"		desc="Dump Actor最大个数"/>
+	<macro name="MAX_BATTLTEAM_MAX_COUNT"	value="8"		desc="队伍最大个数"/>
+	
+	<macro name="MAX_BATTLSTATISSTICD_TECHSKILLS_MAX_COUNT"	value="16"		desc="战斗统计科技技能最大个数"/>
+	<macro name="MAX_BATTLSTATISSTICD_TECHDOGFACE_MAX_COUNT"	value="32"		desc="战斗统计科技兵种最大个数"/>
+	<macro name="MAX_BATTLSTATISSTIC_SKILLBARDMG_MAX_COUNT"	value="4"		desc="统计技能伤害个数"/>
+	<macro name="MAX_BATTLSTATISSTIC_GOLDMINE_MAX_COUNT"	value="3"		desc="统计分矿个数"/>
+	<macro name="MAX_BATTLSTATISSTIC_GOLDGET_MAX_COUNT"	value="6"		desc="统计金币信息"/>
+	<macro name="MAX_BATTLSTATISSTIC_EQUIP_MAX_COUNT"	value="6"		desc="最大装备数目信息"/>
+	<macro name="MAX_BATTLSTATISSTIC_MONSTER_GROUP_KILL_MAX_COUNT"	value="32"		desc="最大野怪组击杀个数"/>
+	<macro name="MAX_BATTLSTATISSTIC_DROP_ITEM_MAX_COUNT"	value="12"		desc="最大掉落道具数目信息"/>
+	
+	
+	<struct name="CSFlushMsgHead" version="1"  >
+		<entry name="DataLen"	   type="uint16"    desc="数据长度"  />
+		<entry name="LzoLen"	   type="uint16"    desc="压缩后的长度，为0表示未压缩"  />
+	</struct>
+
+    <struct name="CSMsgHead" version="1"  >
+		<entry name="Frame"    type="int"       desc="帧号" />
+		<entry name="SubMsgID"	   type="uint16"    desc="子协议编号"  />
+	</struct>
+	
+	<struct name="CSUpMsgHead" version="1"  >
+		<entry name="SubMsgID"	   type="uint16"    desc="子协议编号"  />
+	</struct>
+ 
+	
+	<macrosgroup name="CS_MAIN_MSGID" desc="CS消息编号" >
+		<macro name="CS_MSG_MAIN_LOGIN"				value="0"           desc="登录服务器"/>
+		<macro name="CS_MSG_MAIN_LOGIC"				value="1"           desc="逻辑服务器"/>
+		<macro name="CS_MSG_MAIN_BATTLE"			value="2"           desc="战斗服务器"/> 
+	</macrosgroup>   
+	
+	
+	 <!-- 战斗服务器消息定义 -->
+  <macrosgroup name="CS_SUB_MSGID_BATTLESVR"		 desc="Battlesvr子消息">
+	<macro name="CS_SUB_MSGID_BATTLESVR_LOGIN_REQ"				value="1"       desc="登陆请求"/>
+    <macro name="CS_SUB_MSGID_BATTLESVR_LOGIN_RSP"				value="2"       desc="登陆回包"/>
+	
+	<macro name="CS_SUB_MSGID_MAPLOAD_PROGRESS_REQ"  			value="4"	desc="地图加载进度上报"/>
+	<macro name="CS_SUB_MSGID_MAPLOAD_PROGRESS_NOTIFY"  		value="5"	desc="地图加载进度通知"/>	
+	<macro name="CS_SUB_MSGID_BATTLESVR_FINISH_LOADMAP_REQ"		value="6"		desc="完成地图加载消息上报"/>
+	
+	<macro name="CS_SUB_MSGID_BATTLESVR_GAMESTART_NOTIFY"	    value="7"		desc="开始游戏通知消广播"/>
+	<macro name="CS_SUB_MSGID_BATTLESVR_GAMEEND_REQ"	        value="8"		desc="游戏结束通知上报"/>
+	<macro name="CS_SUB_MSGID_BATTLESVR_GAMEEND_NOTIFY"	        value="9"		desc="游戏结束通知通知"/>
+	
+	<macro name="CS_SUB_MSGID_BATTLESVR_GAMERESTART_REQ"	    value="10"		desc="重连请求服务器数据"/>
+	<macro name="CS_SUB_MSGID_BATTLESVR_GAMERESTART_RSP"	    value="11"		desc="重连请求服务器数据完成"/>
+	<macro name="CS_SUB_MSGID_BATTLE_HEARTBEAT_REQ"     value="12"		desc="心跳包请求"/>
+	<macro name="CS_SUB_MSGID_BATTLE_HEARTBEAT_RSP"     value="13"		desc="心跳包请求回复"/>
+	
+	<macro name="CS_SUB_MSGID_BATTLE_MAPEVENT_REQ"     value="15"		desc="战斗地图信息号请求"/>
+	<macro name="CS_SUB_MSGID_BATTLE_MAPEVENT_RSP"     value="16"		desc="战斗地图信息号请求回包"/>
+	<macro name="CS_SUB_MSGID_BATTLE_MAPEVENT_NOTIFY"     value="17"		desc="战斗地图信息号广播"/>
+	
+	<macro name="CS_SUB_MSGID_BATTLESVR_FRAME_REQ"	        value="30"	    desc="1帧指令请求"/>
+	<macro name="CS_SUB_MSGID_BATTLESVR_FRAME_NOTIFY"  		value="31"      desc="1帧指令通知"/>
+
+	<macro name="CS_SUB_MSGID_MINIMAP_EVENT_REQ"  value="32"   desc="小地图事件请求"/>
+	<macro name="CS_SUB_MSGID_MINIMAP_EVENT_NOTIFY"  value="33"   desc="小地图事件通知"/>
+	
+	<macro name="CS_SUB_MSGID_SURRENDER_REQ"  value="34"   desc="投降请求"/>
+	<macro name="CS_SUB_MSGID_SURRENDER_AGREE"  value="36"   desc="同意投降"/>
+	<macro name="CS_SUB_MSGID_SURRENDER_REFUSE"  value="37"   desc="拒绝投降"/>
+	
+	<macro name="CS_SUB_MSGID_SURRENDER_AGREE_NOTIFY"  value="38"   desc="同意投降通知"/>
+	<macro name="CS_SUB_MSGID_SURRENDER_REFUSE_NOTIFY"  value="39"   desc="拒绝投降通知"/>
+	<macro name="CS_SUB_MSGID_SURRENDER_NOTIFY"  value="40"   desc="投降请求通知"/>
+	<macro name="CS_SUB_MSGID_SURRENDER_RESULT_NOTIFY"  value="41"   desc="投降结果通知"/>
+	
+	<macro name="CS_SUB_MSGID_FETCH_FRAME_DATA_REQ"  value="42"   desc="请求重连数据"/>
+	<macro name="CS_SUB_MSGID_PLAYER_CONNECT_NOTIFY"  value="43"   desc="玩家上下线通知"/>
+	
+	<macro name="CS_SUB_MSGID_NEW_PLAYER_INFO"  value="50"   desc="新玩家加入"/>
+	
+	<macro name="CS_SUB_MSGID_GM_COMMAND"  value="900"   desc="gm指令"/>
+	<macro name="CS_SUB_MSGID_DUMP_INFO"  value="901"   desc="客户端dumpinfo"/>
+	<macro name="CS_SUB_MSGID_DUMP_INFO_RET"  value="902"   desc="客户端dumpinfo校验结果"/>
+	
+	
+	<macro name="CS_SUB_MSGID_REPLAY_SVR_NEW_BATTLE_REQ"		value="910"       desc="新的战斗"/>
+	<macro name="CS_SUB_MSGID_REPLAY_SVR_FRAME_MD5_REQ"			value="911"       desc="帧md5"/>
+	<macro name="CS_SUB_MSGID_REPLAY_SVR_BATTLE_RESULT_NOTIFY"	value="912"       desc="结果通知"/>
+	<macro name="CS_SUB_MSGID_REPLAY_SVR_SURRENDER_RESULT_NOTIFY"	value="913"   desc="投降结果通知"/>
+
+	<macro name="CS_SUB_MSGID_BATTLESVR_MAX"      		value="1000"		desc="MAX"/>
+
+  </macrosgroup>
+  
+	
+   <macrosgroup name="ErrCodeDefine" desc="通用错误码" >
+   	<!-- 0到100 通用错误码 -->
+   	 <macro name="ERR_SUCCESS"                     					value="0"     		desc="成功"/>
+   	 <macro name="ERR_PARAM_INV"                     			    value="1"     		desc="参数错误"/>
+	 <macro name="ERR_POINTER_NULL"                     			value="2"     		desc="指针为空"/>
+	 
+	 <macro name="ERR_BATTLESVR_MONEYNOTENUGH"    value="10"       desc="金钱不够"/>
+	  
+	  
+	 <macro name="ERR_BATTLESVR_LOGIN_FAILED_BATTLEFINISHED"        value="100"       desc="登录服务器，战斗已经结束"/>
+
+     <!-- 200到300  技能错误码 -->
+	 <macro name="ERR_BATTLESVR_CASTSKILL_COMMONERRO"    value="200"       desc="技能参数错误"/>
+	 <macro name="ERR_BATTLESVR_CASTSKILL_PARAMERROR"    value="201"       desc="技能参数错误"/>
+	 <macro name="ERR_BATTLESVR_CASTSKILL_SKILLLOCK"    value="202"       desc="技能未解锁"/>
+	 <macro name="ERR_BATTLESVR_CASTSKILL_COLINGDOWN"    value="203"       desc="技能CD冷却中"/>
+	 <macro name="ERR_BATTLESVR_CASTSKILL_DISTANCE_NOTENOUGH"    value="204"       desc="不满足释放距离"/>
+	 <macro name="ERR_BATTLESVR_CASTSKILL_CONSUME_NOTENOUGH"    value="205"       desc="技能消耗不足"/>
+	 <macro name="ERR_BATTLESVR_CASTSKILL_TARGET_INAVALID"    value="206"       desc="当前目标非法"/>
+	 <macro name="ERR_BATTLESVR_CASTSKILL_SELFSTATE_INAVALIABLE"    value="207"       desc="自身状态非法"/>
+	 <macro name="ERR_BATTLESVR_CASTSKILL_SELFSTATE_HPISFULL"    value="208"       desc="使用基础加血技能,当前自身血量已满"/>
+	 <macro name="ERR_BATTLESVR_CASTSKILL_AICLOSE"    value="209"       desc="服务器AI关闭"/>
+	 <macro name="ERR_BATTLESVR_CASTSKILL_SKILLBEFOREROLL"    value="210"       desc="技能处于前摇中"/>
+	 <macro name="ERR_BATTLESVR_CASTSKILL_INDEBUFF"    value="211"       desc="处于DEBUFF中无法释放"/>
+	 <macro name="ERR_BATTLESVR_CASTSKILL_AVATARSKILLNOTEQUIP"    value="212"       desc="变体技能未挂载"/>
+	 <macro name="ERR_BATTLESVR_CASTSKILL_MOVINGNOTCAST"    value="213"       desc="移动中普攻技能无法释放"/>
+	 
+	 <macro name="ERR_BATTLESVR_OPEQUIP_NOTFINDEQUIP"    value="300"       desc="找不到对应装备"/>
+	 <macro name="ERR_BATTLESVR_OPEQUIP_EQUIPBARFULL"    value="301"       desc="装备栏位不足"/>
+	 
+     <macro name="ERR_SYSTEM_SERVER_OBJ_NULL"                     	value="10001"       desc="系统错误,服务器发现空指针"/>
+   </macrosgroup> 
+ 
+	<macrosgroup name="PlatformType" desc="平台类型" >
+	  <macro name="EN_PLATFORMTYPE_NONE"       value="0"     desc="未知" />   
+	  <macro name="EN_PLATFORMTYPE_QQ"         value="1"     desc="QQ" /> 
+	  <macro name="EN_PLATFORMTYPE_WX"         value="2"     desc="微信" />
+	  <macro name="EN_PLATFORMTYPE_GUEST"	   value="3"	 desc="游客模式" />
+	</macrosgroup>  
+	
+	<macrosgroup name="OSType" desc="客户端系统类型">
+		<macro name="OSTYPE_IOS" value="1" desc="IOS"  />
+		<macro name="OSTYPE_ANDROID" value="2" desc="Android"  />
+		<macro name="OSTYPE_WINDOWS" value="3" desc="PC"  />
+    </macrosgroup>
+	
+	<macrosgroup name="LoginConnectType" desc="登录连接返回类型" >
+	  <macro name="EN_LOGINRECONNECT_NONE"       value="0"     desc="正常登录" />   
+	  <macro name="EN_LOGINRECONNECT_FLASH"         value="1"     desc="闪断重连" /> 
+	  <macro name="EN_LOGINRECONNECT_BREAK"         value="2"     desc="长断重连" />
+	</macrosgroup>  
+
+	
+	<macrosgroup name="BattleMode" desc="战场类型" >
+		<macro name="EN_BT_PVP"   	  value="1"    desc="PVP" />
+		<macro name="EN_BT_PVE"       value="2"    desc="PVE" />    
+		<macro name="EN_BT_ALL"       value="3"    desc="所有战场" /> 
+	</macrosgroup>
+	
+	<macrosgroup name="BattleVSMode" desc="比赛类型" >
+		<macro name="BT_QUALIFYING_1V1"   	   	value="1"     	desc="BT_QUALIFYING_1V1" />
+		<macro name="BT_QUALIFYING_3V3"        	value="2"     	desc="BT_QUALIFYING_3V3" />
+		<macro name="BT_MATCH_1V1"   	   		value="3"     	desc="BT_MATCH_1V1" />
+		<macro name="BT_MATCH_3V3"        		value="4"     	desc="BT_MATCH_3V3" />
+		<macro name="BT_ROOM"        		    value="5"     	desc="BT_ROOM" />
+		<macro name="BT_PVC"        		    value="6"     	desc="BT_PVC" />
+		<macro name="BT_QUALIFYING_2V2"   	   	value="7"     	desc="BT_QUALIFYING_2V2" />
+		<macro name="BT_MATCH_2V2"        		value="8"     	desc="BT_MATCH_2V2" />
+		<macro name="BT_ALL"       				value="9"    	desc="所有战场" /> 
+	</macrosgroup>
+	
+	
+	<macrosgroup name="BattleEvilMatchTeamType" desc="邪恶方队伍颜色分配" >
+		<macro name="TEAMTYPE_RED"   	value="1"    desc="红方队伍" />
+		<macro name="TEAMTYPE_PURPLE"   value="3"    desc="紫方队伍" />    
+		<macro name="TEAMTYPE_PINK"     value="5"    desc="粉方队伍" />
+	</macrosgroup>
+  
+  
+	<macrosgroup name="BattleJusticeMatchTeamType" desc="正义方队伍颜色分配" >
+		<macro name="TEAMTYPE_BLUE"   	value="2"    desc="蓝方队伍" />
+		<macro name="TEAMTYPE_GREEN"    value="4"    desc="绿方队伍" />    
+		<macro name="TEAMTYPE_YELLOW"   value="6"    desc="黄方队伍" />
+	</macrosgroup>
+  
+  
+   <macrosgroup name="CSClientOpenFlag" desc="客户端功能开关" >
+    <macro name="CS_CLENTOPENFLAG_SHOP"     value="0"    desc="商城" />
+    <macro name="CS_CLENTOPENFLAG_CHAT"     value="1"    desc="聊天" />    
+	<macro name="CS_CLENTOPENFLAG_MAIL"     value="2"    desc="邮件" />    
+	<macro name="CS_CLENTOPENFLAG_LIVE"     value="3"    desc="直播" />    
+	<macro name="CS_CLENTOPENFLAG_REPLAYS"  value="4"    desc="录像回看" />
+	<macro name="CS_CLENTOPENFLAG_FRIEND"   value="5"    desc="好友" />
+	<macro name="CS_CLENTOPENFLAG_ACHIEVE"  value="6"    desc="成就" />
+	<macro name="CS_CLENTOPENFLAG_TASK"   	value="7"    desc="任务" />
+	<macro name="CS_CLENTOPENFLAG_ACTIVITY" value="8"    desc="活动" />
+	
+	<macro name="CS_CLENTOPENFLAG_MAX"   	value="9"    desc="MAX" />
+  </macrosgroup>
+  
+   <macrosgroup name="CSBattleGankKillEvent" desc="战场击杀玩家事件类型">
+	<macro name="CS_GANK_KILLEVENT_NONE" value="0"  desc="无"/>
+    <macro name="CS_GANK_KILLEVENT_FIRST_BLOOD" value="1"  desc="首杀"/>
+    <macro name="CS_GANK_KILLEVENT_DOMINATING" value="2"  desc="主宰战场"/>
+    <macro name="CS_GANK_KILLEVENT_UNSTOPPABLE" value="3"  desc="无人能挡"/>
+    <macro name="CS_GANK_KILLEVENT_LEGENDARY" 	value="4"  desc="王者再临"/>
+	<macro name="CS_GANK_KILLEVENT_KILLENEMYHERO" 	value="5"  desc="击杀英雄"/>
+	</macrosgroup>
+	
+	<macrosgroup name="CSBattleKillDogfaceEvent" desc="战场击杀小兵事件类型">
+	<macro name="CS_KILLDOGFACEEVENT_NONE" value="0"  desc="无"/>
+    <macro name="CS_KILLDOGFACEEVENT_GODLIKE" value="1"  desc="杀小兵超神(连续击杀)"/>
+	</macrosgroup>
+  
+  
+  <macrosgroup name="BattleActorState" desc="单位状态" >
+    <macro name="EN_ACTORSTATE_FREEZE"   	value="0"    desc="冻结状态" />
+    <macro name="EN_ACTORSTATE_ALIVE"       value="1"    desc="活着" />  
+    <macro name="EN_ACTORSTATE_DEATH"       value="2"    desc="死亡" />
+	<macro name="EN_ACTORSTATE_RECYCLE"     value="3"    desc="死亡回收中，用于清理" /> 	
+  </macrosgroup>
+  
+   <macrosgroup name="BattleActorRevivalType" desc="单位复活类型">
+	<macro name="EN_ACTORREVIVALTYPE_DEAD"	       value="0"		desc="死亡复活"/>
+	<macro name="EN_ACTORREVIVALTYPE_SKILL"	   value="1"		desc="技能重生复活"/>
+  </macrosgroup>
+  
+  
+  <macrosgroup name="SkillCastInputMode" desc="技能释放输入模式" >
+    <macro name="EN_SKILLINPUT_ACTOR"     value="0"    desc="朝着目标" />
+    <macro name="EN_SKILLINPUT_POS"       value="1"    desc="朝点" />    
+  </macrosgroup>
+  
+    <macrosgroup name="BattleStatisticsEventType" desc="战斗统计事件类型">
+	<macro  name="BATTLEEVENTTYPE_KILLHERO"  value="1" desc="击杀英雄 "  />
+	<macro  name="BATTLEEVENTTYPE_KILLMONSTER" value="2" desc="击杀野怪"  />
+	<macro name="BATTLEEVENTTYPE_KILLDOGFACE" value="3" desc="击杀士兵"  />
+	<macro name="BATTLEEVENTTYPE_BUILDMINE" value="4" desc="造矿"  />
+	<macro name="BATTLEEVENTTYPE_KILLDRAGON" value="5" desc="杀大龙"  />
+	<macro name="BATTLEEVENTTYPE_BUILDTOWER" value="6" desc="造塔"  />
+  </macrosgroup>
+  
+ 
+  
+   <macrosgroup name="RoomStepType"	desc="房间所处的步骤">
+	<macro name="ROOM_STEP_BATTLEREADY"		value="1"		desc="战斗准备中"/>
+	<macro name="ROOM_STEP_SELECTHERO"		value="2"		desc="选择英雄中"/>
+	<macro name="ROOM_STEP_LOADINGMAP"		value="3"		desc="等待地图加载中"/>
+	<macro name="ROOM_STEP_WAITING"			value="4"		desc="等待战斗开始"/>
+	<macro name="ROOM_STEP_BATTLESTART"		value="5"		desc="战场已经开始"/>
+	<macro name="ROOM_STEP_BATTLEEND"		value="6"		desc="战斗已经结束"/>
+	<macro name="ROOM_STEP_NOTEXIST"		value="7"		desc="房间不存在"/>
+  </macrosgroup>
+  
+   <macrosgroup name="RoomPlayerrStepType"	desc="玩家在房间所处的步骤">
+	<macro name="ROOMPLAYER_STEP_MATCH_OK"			value="1"		desc="匹配到队伍"/>
+	<macro name="ROOMPLAYER_STEP_BATTLEREADY"		value="2"		desc="点了战斗准备"/>
+	<macro name="ROOMPLAYER_STEP_SELECTHEROEND"		value="3"		desc="已经选好英雄"/>
+	<macro name="ROOMPLAYER_STEP_LOADINGMAP"		value="4"		desc="正在加载地图"/>
+	<macro name="ROOMPLAYER_STEP_ENDLOADINGMAP"		value="5"		desc="加载地图完成"/>
+	<macro name="ROOMPLAYER_STEP_BATTLESTART"		value="6"		desc="战场已经开始"/>
+	<macro name="ROOMPLAYER_STEP_BATTLEEND"		value="7"		desc="战斗已经结束"/>
+  </macrosgroup>
+ 
+   <macrosgroup name="EquipOpType" desc="装备操作类型">
+	<macro name="EQUIPOPTYPE_ADD"	       value="0"		desc="添加装备"/>
+	<macro name="EQUIPOPTYPE_REMOVE"	   value="1"		desc="移除装备"/>
+	<macro name="EQUIPOPTYPE_SELL"	   	    value="2"		desc="出售装备"/>
+  </macrosgroup>
+  
+   <macrosgroup name="CSBattleSystemType" desc="游戏系统设置类型">
+	<macro name="CSBATTLESYTEMTYPE_HEROFORMATIONPOS" value="1"	desc="队伍英雄站位,0=居中,1=队伍前,默认=0"/>
+	<macro name="CSBATTLESYTEMTYPE_NEARASSISTED"	value="2"	desc="普攻近战集火开关,0=关,1=开,默认=0"/>
+	<macro name="CSBATTLESYTEMTYPE_FARASSISTED"		value="3"	desc="普攻远程集火开关,0=关,1=开,默认=0"/>
+	<macro name="CSBATTLESYTEMTYPE_MUTEXTREATTYPE"	value="4"	desc="治疗目标方式,0=互斥治疗,1=不互斥治疗,默认=0"/>
+	<macro name="CSBATTLESYTEMTYPE_KEEPDIS"			value="5"	desc="最小首次攻击距离,0=关,1=开,默认=1"/>
+	<macro name="CSBATTLESYTEMTYPE_CTRSKILLTOMONSTER"	value="6"	desc="控制技能对野怪施放,0=关,1=开,默认=0"/>
+	<macro name="CSBATTLESYTEMTYPE_TEAMGROUPREGIONMAX"	value="7"	desc="队伍区域距离最大范围,距离"/>
+	<macro name="CSBATTLESYTEMTYPE_ESCAPEHPPRECENT"	value="8"	desc="士兵受攻击时主动后撤血量,距离"/>
+	<macro name="CSBATTLESYTEMTYPE_MAX"	value="9"	 			desc="最大值"/>
+  </macrosgroup>
+  
+   <macrosgroup name="CSBattleEventType" desc="游戏事件通知类型">
+	<macro name="CSBATTLEEVENTTYPE_HOST_CTRL"  	value="1"	desc="进入托管模式"/>
+  </macrosgroup>
+
+   <macrosgroup name="CSBattleFrameEventType" desc="帧同步指令类型">
+   
+	<macro name="BATTLEFRAMEEVENT_ACTOR_CASTSKILL"	     value="1"    	desc="单位释放技能"/>
+	<macro name="BATTLEFRAMEEVENT_ACTOR_SKILLEVENT"	  	 value="2"    	desc="单位技能释放事件"/>
+	<macro name="BATTLEFRAMEEVENT_ACTOR_ADDSKILLPOINIT"	 value="3"    	desc="单位技能加点"/>
+	<macro name="BATTLEFRAMEEVENT_ACTOR_EQUIPOP"	  	 value="4"    	desc="单位装备操作"/>
+   
+    <macro name="BATTLEFRAMEEVENT_BATTLE_STARTMOVE"	  	  value="10"		desc="开始移动"/>
+    <macro name="BATTLEFRAMEEVENT_BATTLE_STOPMOVE"	  	  value="11"		desc="停止移动"/>
+	<macro name="BATTLEFRAMEEVENT_BATTLE_JUMP"	  	      value="12"		desc="跳跃"/>
+	<macro name="BATTLEFRAMEEVENT_BATTLE_WALK"	  	      value="13"		desc="设置走路状态"/>
+	<macro name="BATTLEFRAMEEVENT_BATTLE_FACE_DIR"	  	  value="14"		desc="玩家转向"/>
+	
+	
+	<macro name="BATTLEFRAMEEVENT_BATTLE_TEAMCONFIG"	  value="30"    	desc="同步玩家游戏设置"/>
+	<macro name="BATTLEFRAMEEVENT_BATTLE_EVENTNOTIFY"	  value="31"    	desc="游戏通用事件通知"/>
+	<macro name="BATTLEFRAMEEVENT_BATTLE_SET_HOTBAR_INDEX"	  value="32"    	desc="切换快捷栏"/>
+	<macro name="BATTLEFRAMEEVENT_BATTLE_SWAP_ITEM_SLOT"	  value="33"    	desc="物品栏交换"/>
+
+	<macro name="BATTLEFRAMEEVENT_BATTLE_GM_CMD"	            value="100"    	desc="gm指令"/>
+    <macro name="BATTLEFRAMEEVENT_BATTLE_GM_SCALE_TIME_CMD"	    value="101"    	desc="gm指令修改服务器时间缩放"/>
+    <macro name="BATTLEFRAMEEVENT_BATTLE_GAME_END_NOTIFY" 		value="102"		desc="服务器主动结束战斗通知"/>
+  </macrosgroup>
+  
+  <macrosgroup name="CSMiniMapEvent" desc="">
+    <macro name="MINIMAPEVENT_NONE"	 value="0"		desc=""/>
+	<macro name="MINIMAPEVENT_STICKTOGETHER"	 value="1"		desc="集合"/>
+	<macro name="MINIMAPEVENT_WITHDRAW"	   value="2"		desc="撤退"/>
+	<macro name="MINIMAPEVENT_ATTACK"	   value="3"		desc="进攻"/>
+  </macrosgroup>
+  
+  <macrosgroup name="GameReStartState" desc="玩家重连服务器状态">
+	<macro name="GAMERESTARTSTATE_NONE"	 	value="0"		desc="未重连"/>
+	<macro name="GAMERESTARTSTATE_SYNC"	 	value="1"		desc="同步中"/>
+    <macro name="GAMERESTARTSTATE_QUEUED"	value="2"		desc="排队中"/>
+  </macrosgroup>
+</metalib>

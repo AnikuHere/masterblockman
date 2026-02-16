@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="GBK" standalone="yes" ?>
+<metalib tagsetversion="1" name="MobaConfigDBMeta" version="1" >
+  
+  <!-- =============PVP种怪文件============== -->
+  
+  <macro name="RES_PVPCONFIG_MAX_PATHPOINT_LEN"  value="18"  desc="最大路径点"/>
+	<macro name="RES_PVPCONFIG_MAX_PATHLIST_LEN"  value="12"  desc="最大路径个数"/>
+	<macro name="RES_PVPCONFIG_MAX_GROUP_LEN"  value="36"  desc="中立最大怪物组长度"/>
+	<macro name="RES_PVPCONFIG_MAX_PLAYERGROUP_LEN"  value="12"  desc="玩家最大怪物组长度"/>
+	<macro name="RES_PVPCONFIG_MAX_BATCH_LEN"  value="8"  desc="最大批长度"/>
+	<macro name="RES_PVPCONFIG_MAX_RACE_LEN"    value="6"      desc="种族最大长度"/>
+	<macro name="RES_PVPCONFIG_MAX_RACERITH_LEN" desc="最大玩家出生点数目" value="8"/>
+	<macro name="RES_PVPCONFIG_MAX_EVENT_LEN" 	desc="刷怪事件最大长度" 	value="4"/>
+	<macro name="RES_PVPCONFIG_GOLDMINE_MAX_NUM"    value="16"      desc="金矿最大长度"/>
+	
+	<macro name="RES_PVPCONFIG_MAX_BUILDTOWERPOS_LEN" 	desc="分矿造塔点最大长度" 	value="2"/>
+	
+	<macro name="RES_PVPCONFIG_MAX_MAPAREA_LEN" 	desc="区域最大长度" 	value="6"/>
+	<macro name="RES_PVPCONFIG_MAX_ARETRANSFER_LEN" 	desc="区域传送点最大长度" 	value="4"/>
+	
+	<macro name="RES_PVPCONFIG_DROPITEMCONDTION_NUM"    value="5"      desc="掉落栏最大条件个数"/>
+	<macro name="RES_PVPCONFIG_DROPITEM_NUM"    value="3"      desc="掉落栏最大个数"/>
+	
+	<macrosgroup name="MobaSpawnType" desc="刷新类型" >
+		<macro name="SPAWN_TYPE_ONCE" value="0"     cname="单次刷新"/>
+		<macro name="SPAWN_TYPE_TIME"    value="1"     cname="固定间隔刷新"/>
+		<macro name="SPAWN_TYPE_DEAD"    value="2"     cname="死亡刷新"/>
+		<macro name="SPAWN_TYPE_EVENTTRIG" value="3"     cname="事件触发刷新"/>
+	</macrosgroup>
+
+	
+	<macrosgroup name="GroupDescType" desc="怪物组描述类型" >
+		<macro name="GROUPDESCTYPE_MONSTER"    value="1"     desc="野怪描述类型"/>
+		<macro name="GROUPDESCTYPE_GOLDMINE"    value="2"     desc="金矿描述类型"/>
+		<macro name="GROUPDESCTYPE_BASE"    value="3"     desc="基地描述类型"/>
+		<macro name="GROUPDESCTYPE_SUBBASE"    value="4"     desc="副基地描述类型"/>
+		<macro name="GROUPDESCTYPE_SPRING"    value="5"     desc="中立泉水描述类型"/>
+		<macro name="GROUPDESCTYPE_BASEREHP"    value="6"     desc="基地恢复符描述类型"/>
+	</macrosgroup>
+	
+	<macrosgroup name="GroupMonsterHardLevel" desc="怪物组难度等级" >
+		<macro name="GROUPMONSTERHARDLEVEL_LEVEL0"    value="0"     desc="1级难度"/>
+		<macro name="GROUPMONSTERHARDLEVEL_LEVEL1"    value="1"     desc="2级难度"/>
+		<macro name="GROUPMONSTERHARDLEVEL_LEVEL2"    value="2"     desc="3级难度"/>
+		<macro name="GROUPMONSTERHARDLEVEL_LEVEL3"    value="3"     desc="4级难度,小龙"/>
+		<macro name="GROUPMONSTERHARDLEVEL_LEVEL4"    value="4"     desc="5级难度,大龙"/>
+	</macrosgroup>
+	
+	<macrosgroup name="GoldMineType" desc="金矿类型" >
+		<macro name="GOLDMINETYPE_BASE"    value="0"     desc="基地金矿"/>
+		<macro name="GOLDMINETYPE_NEUTRALMAINLAND"    value="1"  desc="中立金矿"/>
+		<macro name="GOLDMINETYPE_NEUTRALISLAND"    value="2"  desc="中立岛矿"/>
+	</macrosgroup>
+	
+
+	
+	<macrosgroup name="SpawnItemDropsType" desc="怪物掉落类型" >
+		<macro name="ITEMDROPSTYPE_NONE"    value="0"     desc="无掉落"/>
+		<macro name="ITEMDROPSTYPE_FIXEDONE"    value="1"     desc="固定掉落"/>
+		<macro name="ITEMDROPSTYPE_RANDOM"    value="2"     desc="随机掉落"/>
+	</macrosgroup>
+	
+	<macrosgroup name="MapPlayerControlType" desc="玩家控制者类型" >
+		<macro name="MAPPLAYERCONTROLTYPE_NONE"    value="0"     desc="无"/>
+		<macro name="MAPPLAYERCONTROLTYPE_PLAYER"  value="1"     desc="玩家"/>
+		<macro name="MAPPLAYERCONTROLTYPE_AI"      value="2"     desc="电脑"/>
+		<macro name="MAPPLAYERCONTROLTYPE_NEUTRAL"  value="3"     desc="中立"/>
+	</macrosgroup>
+	
+	<macrosgroup name="MapAreaType" desc="地图区域类型" >
+		<macro name="ARAETYPE_MAIN"    value="0"     desc="主区域"/>
+		<macro name="ARAETYPE_ISLAND"  value="1"     desc="子区域"/>
+	</macrosgroup>
+	
+	
+	<macrosgroup name="PvpSpawnEventType" desc="PVP触发事件类型" >
+		<macro name="PVP_SPAWN_ONE_GROUP_DIE"    value="1"     cname="指定的一组怪死亡" desc="指定的一组怪死亡" />
+		<macro name="PVP_SPAWN_SELF_GROUP_DIE"    value="2"     cname="本组怪全部死亡" desc="本组怪全部死亡" />
+		<macro name="PVE_SPAWN_SKILSEQ_DIE"    value="3"     cname="指定的序号怪死亡" desc="指定的序号怪死亡" />
+		<macro name="PVE_SPAWN_TIMEDIFF"    value="4"     cname="固定时间比较" desc="固定时间比较" />
+		<macro name="PVE_SPAWN_TIMELOOPDIFF"    value="5"     cname="循环时间比较" desc="循环时间比较" />
+		<macro name="PVP_SPAWN_ONE_GROUP_NOTDIE"    value="6"     cname="指定一组怪未全部死亡" desc="指定一组怪未全部死亡" />
+		<macro name="PVP_SPAWN_ACTOR_SPAWN"    value="7"     cname="单位出生" desc="单位出生" />
+		<macro name="PVP_SPAWN_ACTOR_DEAD"    value="8"     cname="单位死亡" desc="单位死亡" />
+	</macrosgroup>
+	
+	<macrosgroup name="PvPSpawnTrigEventType" desc="PVP处理事件类型" >
+		<macro name="PVE_SPAWN_TRIG_CGDIALOG"    value="1"     cname="触发剧情对话"/>
+		<macro name="PVE_SPAWN_TRIG_SAYAWORD"    value="2"     cname="触发气泡喊话"/>
+		<macro name="PVE_SPAWN_TRIG_SHOW_SCENEEFFECT"    value="3"     cname="播放场景特效"/>
+		<macro name="PVE_SPAWN_TRIG_HIDE_SCENEEFFECT"    value="4"     cname="隐藏场景特效"/>
+		<macro name="PVE_SPAWN_TRIG_MOVECAMERA"    value="5"     cname="移动相机"/>
+	</macrosgroup>
+	
+	<struct name="PvpSpawnEventCfg" version="1" >
+		<entry name="EventID"  cname="事件ID" type="int" desc="事件ID"/>
+		<entry name="Param1"  cname="参数1" type="int" desc="参数1"/>
+		<entry name="Param2"  cname="参数2" type="int" desc="参数2"/>
+		<entry name="Param3"  cname="参数3" type="int" desc="参数3"/>
+		<entry name="Param4"  cname="参数4" type="int" desc="参数4"/>
+	</struct>
+	
+	<!--向量定义-->
+	<struct name="MobaVector3" version="1" >
+		<entry name="X"  cname="X分量" type="int" desc="X分量"/>
+		<entry name="Y"  cname="Y分量" type="int" desc="Y分量"/>
+		<entry name="Z"  cname="Z分量" type="int" desc="Z分量"/>
+	</struct>
+	
+	<!--路径定义-->
+	<struct name="PathConfig" version="1" >
+		<entry name="ID"  cname="ID" type="int" desc="ID"/>
+		<entry name="PositionCnt" type="int" cname="路径点数目" desc="路径点数目"/>
+		<entry name="PositionList" type="MobaVector3" count="RES_PVPCONFIG_MAX_PATHPOINT_LEN" cname="路径点列表" desc="路径点列表"/>
+	</struct>
+	
+	
+	<!--掉落定义-->
+	
+	<struct name="ItemDropsOneCond" version="1" desc="掉落条件" >
+		<entry name="Random"   type="int" desc="掉落概率"/>
+		<entry name="DropType" type="int8"  desc="掉落类型"/>
+		<entry name="FixedItemResID"   type="int" desc="固定掉落物品ID"/>
+		<entry name="RandomItemLv"   type="int8" desc="随机掉落物品等级,0表示任意"/>
+		<entry name="RandomItemType"   type="int8" desc="随机掉落物品类型"/>
+	</struct>
+
+	<struct name="ItemDropsOneConfig" version="1" desc="单1物品掉落">
+		<entry name="CondsCnt"   type="int" desc="掉落条件个数"/>
+		<entry name="ItemDropsConds" type="ItemDropsOneCond" count="RES_PVPCONFIG_DROPITEMCONDTION_NUM" desc="掉落条件"/>
+	</struct>
+	
+	
+	<!--批定义-->
+	<struct name="BatchConfig" version="1" >
+		<entry name="DelayTime"  cname="延迟刷新时间" type="int" desc="延迟刷新时间(ms)"/>
+		<entry name="ResID"  cname="资源ID" type="int" desc="资源ID"/>
+		<entry name="UseRaceResID"  cname="使用种族资源ID" type="int8" desc="使用种族资源ID 1：是"/>
+		<entry name="RaceResID"  cname="种族资源ID" type="int" count="RES_PVPCONFIG_MAX_RACE_LEN" desc="种族资源ID"/>
+		
+		<entry name="Position" type="MobaVector3" cname="刷新位置" desc="刷新位置"/>
+		<entry name="Rotation" type="MobaVector3" cname="旋转角度" desc="旋转角度"/>
+		
+		<entry name="SpawnPathID"  type="int" desc="出生路径ID"/>
+		
+		<entry name="ItemDropsCnt"  type="int" desc="掉落栏数目"/>
+		<entry name="ItemDropsList" type="ItemDropsOneConfig" count="RES_PVPCONFIG_DROPITEM_NUM" desc="掉落栏列表" />
+
+	</struct>
+	
+	<!--怪物组定义-->
+	<struct name="GroupConfig" version="1" >
+		<entry name="GroupType"  cname="怪物组类型" type="int8" desc="怪物组类型"/>
+		<entry name="MonsterHardLevel"  cname="野怪难度" type="int8" desc="野怪难度"/>
+		
+		<entry name="BrithTime"  cname="出生时间" type="int" desc="出生时间（ms）"/>
+		<entry name="CenterPos" type="MobaVector3" cname="中心位置" desc="中心位置"/>
+		
+		<entry name="SpawnType"  cname="刷新类型" type="int" desc="刷新类型"/>
+		<entry name="RefreshInterval"  cname="刷新间隔" type="int" desc="刷新间隔(ms,只有循环刷新有效)"/>
+		
+		<entry name="EventNum"	type="int8"  cname="刷新条件数量"		desc="刷新条件数量"/>
+		<entry name="EventList"	 type="PvpSpawnEventCfg"  cname="刷新条件列表" 	count="RES_PVPCONFIG_MAX_EVENT_LEN" desc="刷新条件列表"/>
+		<entry name="BatchCnt" type="int8" cname="批次数目" desc="批次数目"/>
+		<entry name="BatchList" type="BatchConfig" count="RES_PVPCONFIG_MAX_BATCH_LEN" cname="批次列表" desc="批次列表"/>
+		
+	</struct>
+	
+	
+	<struct version="1" name="SpawnTransform"> 
+		<entry name="Position" desc="位置" type="MobaVector3" cname="位置"/> 
+		<entry name="Rotation" desc="旋转角度" type="MobaVector3" cname="旋转角度"/>
+	</struct>
+	
+	
+	<!-- 回城点 -->
+	<struct name="SpawnTpConfig" version="1" >
+		<entry name="MapTPPos"   type="MobaVector3" desc="回城点"/>
+		<entry name="RangeRadius"  type="int" desc="随机半径范围"/>
+	</struct>
+	
+	<struct name="SpawnBuildTowerConfig" version="1" >
+		<entry name="BuildTowerPos" type="MobaVector3" count="RES_PVPCONFIG_MAX_BUILDTOWERPOS_LEN" desc="造塔点"/>
+	</struct>
+
+	<!--矿点定义-->
+	<struct name="GoldMineConfig" version="1" >
+		<entry name="Type"   type="int8" desc="金矿类型"/>
+		<entry name="TeamType"  type="int8" desc="基地金矿占领方" /> 
+		<entry name="RaceResID" type="int" count="RES_PVPCONFIG_MAX_RACE_LEN" desc="金矿种族资源ID"/>
+		<entry name="GodMineSpawnTransform" type="SpawnTransform" desc="金矿出生点" />
+		<entry name="TpConfig" type="SpawnTpConfig" desc="金矿回城点" />
+		<entry name="BuildTowerConfig" type="SpawnBuildTowerConfig" desc="金矿造塔配置" />
+		<entry name="GuardGroupID"   type="int" desc="守矿野怪组"/>
+		<entry name="GoldMineGroupID"   type="int" desc="金矿组ID"/>
+		<entry name="Interval"   type="int" desc="addgold间隔"/>
+		<entry name="AddGold"   type="int" desc="每次增加的gold"/>
+		<entry name="MaxGold"   type="int" desc="金币上限"/>
+	</struct>
+
+	
+	<struct version="1" name="PlayerBaseRegConfig" desc="基地区域范围"> 
+		<entry name="Position"  type="MobaVector3" desc="中心点"/> 
+		<entry name="Radius"  type="int" desc="半径" />
+	</struct>
+	
+	<struct version="1" name="MapPlayerConfig" desc="玩家属性"> 
+		<entry name="TeamType"  type="int8" desc="队伍颜色类型" /> 
+		<entry name="IsFixedStartPos"  type="int8" desc="是否固定开始点" /> 
+		<entry name="CtrType"  type="int8" desc="玩家控制者类型" /> 
+		<entry name="TpConfig" type="SpawnTpConfig" desc="回城点" />
+		<entry name="ActorSpawnTransform" type="SpawnTransform" desc="单位出生点" />
+		<entry name="GoldMineIndex"  type="int8" desc="出生占矿索引" /> 
+		<entry name="GourpCnt" type="int8"  desc="怪物组数目"/>
+		<entry name="GourpList" type="GroupConfig" count="RES_PVPCONFIG_MAX_PLAYERGROUP_LEN" desc="怪物组数目"/>
+		<entry name="BaseRegConfig" type="PlayerBaseRegConfig" desc="基地区域范围"/>
+	</struct>
+	
+	<struct version="1" name="MapAreaTransferConfig" desc="地图区域传送门设置"> 
+		<entry name="TransferOutAreaID"  type="int8" desc="传送目标区域ID"/> 
+		<entry name="TransferInPos"   type="MobaVector3" desc="传送点入口"/>
+		<entry name="TransferOutPos"  type="MobaVector3" desc="传送点出口"/> 	
+		
+		<entry name="TransferGroupID"   type="int" desc="传送关联怪物组ID"/>
+		<entry name="Radius"  type="int" desc="传送区域半径" />
+		<entry name="CheckTime"  type="int" desc="传送延迟时间" />			
+	</struct>
+	
+	<struct version="1" name="MapAreaConfig" desc="地图区域设置"> 
+		<entry name="MapAreaType"  type="int8" desc="区域类型" />
+		<entry name="AreaID"  type="int8" desc="区域ID,0默认主区域" />
+		<entry name="CenterPos"  type="MobaVector3" desc="中心点"/> 
+		<entry name="Radius"  type="int" desc="半径" />
+		<entry name="TransferCnt" type="int8"  desc="出口传送点数目"/>
+		<entry name="Transfers" type="MapAreaTransferConfig" count="RES_PVPCONFIG_MAX_ARETRANSFER_LEN" desc="传送点"/>
+	</struct>
+	
+	
+	<struct version="1" name="MapNeutralConfig" desc="地图中立配置"> 
+		<entry name="GourpCnt" type="int8"  desc="怪物组数目"/>
+		<entry name="GourpList" type="GroupConfig" count="RES_PVPCONFIG_MAX_GROUP_LEN" desc="怪物组数目"/>
+		<entry name="GoldMineCnt" type="int8"  desc="金矿数目"/>
+		<entry name="GoldMineList" type="GoldMineConfig" count="RES_PVPCONFIG_GOLDMINE_MAX_NUM" desc="金矿列表"/>
+		
+		<entry name="AreaCnt" type="int8"  desc="地图区域个数"/>
+		<entry name="AreaConfigs" type="MapAreaConfig" count="RES_PVPCONFIG_MAX_MAPAREA_LEN" desc="地图区域个数"/>
+	</struct>
+	
+	<struct name="MobaPvpConfig" version="1" sortkey="ResID">
+		<entry name="ResID" type="int"  desc="ID"/>
+		<entry name="PathCnt" type="int8"  desc="路径数目"/>
+		<entry name="PathList" type="PathConfig" count="RES_PVPCONFIG_MAX_PATHLIST_LEN"  desc="路径列表"/>
+		
+		<entry name="NeutralConfig" type="MapNeutralConfig"  desc="地图中立配置"/>
+		
+		<entry name="PlayerNum"  type="int8" desc="玩家个数"/>
+		<entry name="PlayerConfigs" type="MapPlayerConfig" count="RES_PVPCONFIG_MAX_RACERITH_LEN" desc="玩家列表" />
+
+	</struct>
+	
+ 
+  
+</metalib>
