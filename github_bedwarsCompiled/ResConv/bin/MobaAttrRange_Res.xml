@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<ResMobaAttrRange_Tab>
+<TResHeadAll version="5">
+    <resHead type="TResHead">
+        <Magic>1397052237 </Magic>
+        <Version>6 </Version>
+        <Unit>12 </Unit>
+        <Count>58 </Count>
+        <MetalibHash>531d5b4a397ad5b3c0fbfb5cc8059e55</MetalibHash>
+        <ResVersion>0 </ResVersion>
+        <CreateTime>2023-04-19 20:42:30</CreateTime>
+        <ResEncording>UTF-8</ResEncording>
+        <ContentHash>9b7fc5e3c7f444856dfed11547696476</ContentHash>
+    </resHead>
+    <resHeadExt type="TResHeadExt">
+        <DataOffset>136 </DataOffset>
+    </resHeadExt>
+</TResHeadAll>
+<ResMobaAttrRange version="1">
+    <AttrID>0 </AttrID>
+    <MinVal>0 </MinVal>
+    <MaxVal>0 </MaxVal>
+</ResMobaAttrRange>
+<ResMobaAttrRange version="1">
+    <AttrID>1 </AttrID>
+    <MinVal>0 </MinVal>
+    <MaxVal>999999999 </MaxVal>
+</ResMobaAttrRange>
+<ResMobaAttrRange version="1">
+    <AttrID>2 </AttrID>
+    <MinVal>0 </MinVal>
+    <MaxVal>999999999 </MaxVal>
+</ResMobaAttrRange>
+<ResMobaAttrRange version="1">
+    <AttrID>3 </AttrID>
+    <MinVal>0 </MinVal>
+    <MaxVal>999999999 </MaxVal>
+</ResMobaAttrRange>
+<ResMobaAttrRange version="1">
+    <AttrID>4 </AttrID>
+    <MinVal>0 </MinVal>
+    <MaxVal>999999999 </MaxVal>
+</ResMobaAttrRange>
+<ResMobaAttrRange version="1">
+    <AttrID>5 </AttrID>
+    <MinVal>0 </MinVal>
+    <MaxVal>999999999 </MaxVal>
+</ResMobaAttrRange>
+<ResMobaAttrRange version="1">
+    <AttrID>6 </AttrID>
+    <MinVal>0 </MinVal>
+    <MaxVal>999999999 </MaxVal>
+</ResMobaAttrRange>
+<ResMobaAttrRange version="1">
+    <AttrID>7 </AttrID>
+    <MinVal>0 </MinVal>
+    <MaxVal>999999999 </MaxVal>
+</ResMobaAttrRange>
+<ResMobaAttrRange version="1">
+    <AttrID>8 </AttrID>
+    <MinVal>-999999999 </MinVal>
+    <MaxVal>999999999 </MaxVal>
+</ResMobaAttrRange>
+<ResMobaAttrRange version="1">
+    <AttrID>9 </AttrID>
+    <MinVal>-999999999 </MinVal>
+    <MaxVal>999999999 </MaxVal>
+</ResMobaAttrRange>
+<ResMobaAttrRange version="1">
+    <AttrID>10 </AttrID>
+    <MinVal>0 </MinVal>
+    <MaxVal>999999999 </MaxVal>
+</ResMobaAttrRange>
+<ResMobaAttrRange version="1">
+    <AttrID>11 </AttrID>
+    <MinVal>0 </MinVal>
+    <MaxVal>10000 </MaxVal>
+</ResMobaAttrRange>
+<ResMobaAttrRange version="1">
+    <AttrID>12 </AttrID>
+    <MinVal>3000 </MinVal>
+    <MaxVal>30000 </MaxVal>
+</ResMobaAttrRange>
+<ResMobaAttrRange version="1">
+    <AttrID>13 </AttrID>
+    <MinVal>0 </MinVal>
+    <MaxVal>10000 </MaxVal>
+</ResMobaAttrRange>
+<ResMobaAttrRange version="1">
+    <AttrID>14 </AttrID>
+    <MinVal>0 </MinVal>
+    <MaxVal>7000 </MaxVal>
+</ResMobaAttrRange>
+<ResMobaAttrRange version="1">
+    <AttrID>15 </AttrID>
+    <MinVal>0 </MinVal>
+    <MaxVal>999999999 </MaxVal>
+</ResMobaAttrRange>
+<ResMobaAttrRange version="1">
+    <AttrID>16 </AttrID>
+    <MinVal>0 </MinVal>
+    <MaxVal>999999999 </MaxVal>
+</ResMobaAttrRange>
+<ResMobaAttrRange version="1">
+    <AttrID>17 </AttrID>
+    <MinVal>-999999999 </MinVal>
+    <MaxVal>999999999 </MaxVal>
+</ResMobaAttrRange>
+<ResMobaAttrRange version="1">
+    <AttrID>18 </AttrID>
+    <MinVal>0 </MinVal>
+    <MaxVal>999999999 </MaxVal>
+</ResMobaAttrRange>
+<ResMobaAttrRange version="1">
+    <AttrID>19 </AttrID>
+    <MinVal>0 </MinVal>
+    <MaxVal>10000 </MaxVal>
+</ResMobaAttrRange>
+<ResMobaAttrRange version="1">
+    <AttrID>20 </AttrID>
+    <MinVal>0 </MinVal>
+    <MaxVal>10000 </MaxVal>
+</ResMobaAttrRange>
+<ResMobaAttrRange version="1">
+    <AttrID>21 </AttrID>
+    <MinVal>0 </MinVal>
+    <MaxVal>6000 </MaxVal>
+</ResMobaAttrRange>
+<ResMobaAttrRange version="1">
+    <AttrID>22 </AttrID>
+    <MinVal>0 </MinVal>
+    <MaxVal>4000 </MaxVal>
+</ResMobaAttrRange>
+<ResMobaAttrRange version="1">
+    <AttrID>23 </AttrID>
+    <MinVal>100 </MinVal>
+    <MaxVal>1000 </MaxVal>
+</ResMobaAttrRange>
+<ResMobaAttrRange version="1">
+    <AttrID>24 </AttrID>
+    <MinVal>0 </MinVal>
+    <MaxVal>10000 </MaxVal>
+</ResMobaAttrRange>
+<ResMobaAttrRange version="1">
+    <AttrID>25 </AttrID>
+    <MinVal>0 </MinVal>
+    <MaxVal>999999999 </MaxVal>
+</ResMobaAttrRange>
+<ResMobaAttrRange version="1">
+    <AttrID>26 </AttrID>
+    <MinVal>0 </MinVal>
+    <MaxVal>999999999 </MaxVal>
+</ResMobaAttrRange>
+<ResMobaAttrRange version="1">
+    <AttrID>27 </AttrID>
+    <MinVal>0 </MinVal>
+    <MaxVal>999999999 </MaxVal>
+</ResMobaAttrRange>
+<ResMobaAttrRange version="1">
+    <AttrID>28 </AttrID>
+    <MinVal>0 </MinVal>
+    <MaxVal>999999999 </MaxVal>
+</ResMobaAttrRange>
+<ResMobaAttrRange version="1">
+    <AttrID>29 </AttrID>
+    <MinVal>0 </MinVal>
+    <MaxVal>999999999 </MaxVal>
+</ResMobaAttrRange>
+<ResMobaAttrRange version="1">
+    <AttrID>30 </AttrID>
+    <MinVal>0 </MinVal>
+    <MaxVal>999999999 </MaxVal>
+</ResMobaAttrRange>
+<ResMobaAttrRange version="1">
+    <AttrID>31 </AttrID>
+    <MinVal>0 </MinVal>
+    <MaxVal>999999999 </MaxVal>
+</ResMobaAttrRange>
+<ResMobaAttrRange version="1">
+    <AttrID>32 </AttrID>
+    <MinVal>0 </MinVal>
+    <MaxVal>999999999 </MaxVal>
+</ResMobaAttrRange>
+<ResMobaAttrRange version="1">
+    <AttrID>33 </AttrID>
+    <MinVal>0 </MinVal>
+    <MaxVal>999999999 </MaxVal>
+</ResMobaAttrRange>
+<ResMobaAttrRange version="1">
+    <AttrID>34 </AttrID>
+    <MinVal>-999999999 </MinVal>
+    <MaxVal>999999999 </MaxVal>
+</ResMobaAttrRange>
+<ResMobaAttrRange version="1">
+    <AttrID>35 </AttrID>
+    <MinVal>0 </MinVal>
+    <MaxVal>10000 </MaxVal>
+</ResMobaAttrRange>
+<ResMobaAttrRange version="1">
+    <AttrID>36 </AttrID>
+    <MinVal>0 </MinVal>
+    <MaxVal>999999999 </MaxVal>
+</ResMobaAttrRange>
+<ResMobaAttrRange version="1">
+    <AttrID>37 </AttrID>
+    <MinVal>0 </MinVal>
+    <MaxVal>999999999 </MaxVal>
+</ResMobaAttrRange>
+<ResMobaAttrRange version="1">
+    <AttrID>38 </AttrID>
+    <MinVal>0 </MinVal>
+    <MaxVal>999999999 </MaxVal>
+</ResMobaAttrRange>
+<ResMobaAttrRange version="1">
+    <AttrID>39 </AttrID>
+    <MinVal>0 </MinVal>
+    <MaxVal>1000000 </MaxVal>
+</ResMobaAttrRange>
+<ResMobaAttrRange version="1">
+    <AttrID>40 </AttrID>
+    <MinVal>0 </MinVal>
+    <MaxVal>999999999 </MaxVal>
+</ResMobaAttrRange>
+<ResMobaAttrRange version="1">
+    <AttrID>41 </AttrID>
+    <MinVal>0 </MinVal>
+    <MaxVal>999999999 </MaxVal>
+</ResMobaAttrRange>
+<ResMobaAttrRange version="1">
+    <AttrID>42 </AttrID>
+    <MinVal>-999999999 </MinVal>
+    <MaxVal>999999999 </MaxVal>
+</ResMobaAttrRange>
+<ResMobaAttrRange version="1">
+    <AttrID>43 </AttrID>
+    <MinVal>-999999999 </MinVal>
+    <MaxVal>999999999 </MaxVal>
+</ResMobaAttrRange>
+<ResMobaAttrRange version="1">
+    <AttrID>44 </AttrID>
+    <MinVal>-999999999 </MinVal>
+    <MaxVal>999999999 </MaxVal>
+</ResMobaAttrRange>
+<ResMobaAttrRange version="1">
+    <AttrID>45 </AttrID>
+    <MinVal>-999999999 </MinVal>
+    <MaxVal>999999999 </MaxVal>
+</ResMobaAttrRange>
+<ResMobaAttrRange version="1">
+    <AttrID>46 </AttrID>
+    <MinVal>-999999999 </MinVal>
+    <MaxVal>999999999 </MaxVal>
+</ResMobaAttrRange>
+<ResMobaAttrRange version="1">
+    <AttrID>47 </AttrID>
+    <MinVal>-999999999 </MinVal>
+    <MaxVal>999999999 </MaxVal>
+</ResMobaAttrRange>
+<ResMobaAttrRange version="1">
+    <AttrID>48 </AttrID>
+    <MinVal>0 </MinVal>
+    <MaxVal>10000 </MaxVal>
+</ResMobaAttrRange>
+<ResMobaAttrRange version="1">
+    <AttrID>49 </AttrID>
+    <MinVal>-999999999 </MinVal>
+    <MaxVal>999999999 </MaxVal>
+</ResMobaAttrRange>
+<ResMobaAttrRange version="1">
+    <AttrID>50 </AttrID>
+    <MinVal>-999999999 </MinVal>
+    <MaxVal>999999999 </MaxVal>
+</ResMobaAttrRange>
+<ResMobaAttrRange version="1">
+    <AttrID>51 </AttrID>
+    <MinVal>-999999999 </MinVal>
+    <MaxVal>999999999 </MaxVal>
+</ResMobaAttrRange>
+<ResMobaAttrRange version="1">
+    <AttrID>52 </AttrID>
+    <MinVal>-999999999 </MinVal>
+    <MaxVal>999999999 </MaxVal>
+</ResMobaAttrRange>
+<ResMobaAttrRange version="1">
+    <AttrID>53 </AttrID>
+    <MinVal>-999999999 </MinVal>
+    <MaxVal>999999999 </MaxVal>
+</ResMobaAttrRange>
+<ResMobaAttrRange version="1">
+    <AttrID>54 </AttrID>
+    <MinVal>-999999999 </MinVal>
+    <MaxVal>999999999 </MaxVal>
+</ResMobaAttrRange>
+<ResMobaAttrRange version="1">
+    <AttrID>55 </AttrID>
+    <MinVal>-999999999 </MinVal>
+    <MaxVal>999999999 </MaxVal>
+</ResMobaAttrRange>
+<ResMobaAttrRange version="1">
+    <AttrID>56 </AttrID>
+    <MinVal>-999999999 </MinVal>
+    <MaxVal>999999999 </MaxVal>
+</ResMobaAttrRange>
+<ResMobaAttrRange version="1">
+    <AttrID>57 </AttrID>
+    <MinVal>0 </MinVal>
+    <MaxVal>500000 </MaxVal>
+</ResMobaAttrRange>
+</ResMobaAttrRange_Tab>

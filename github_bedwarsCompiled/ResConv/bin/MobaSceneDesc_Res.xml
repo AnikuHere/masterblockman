@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<ResMobaSceneDesc_Tab>
+<TResHeadAll version="5">
+    <resHead type="TResHead">
+        <Magic>1397052237 </Magic>
+        <Version>6 </Version>
+        <Unit>1123 </Unit>
+        <Count>1 </Count>
+        <MetalibHash>531d5b4a397ad5b3c0fbfb5cc8059e55</MetalibHash>
+        <ResVersion>0 </ResVersion>
+        <CreateTime>2023-04-19 20:42:30</CreateTime>
+        <ResEncording>UTF-8</ResEncording>
+        <ContentHash>c2bfb4d796201ef7e9665bd60bcddb9c</ContentHash>
+    </resHead>
+    <resHeadExt type="TResHeadExt">
+        <DataOffset>136 </DataOffset>
+    </resHeadExt>
+</TResHeadAll>
+<ResMobaSceneDesc version="1">
+    <SceneID>1008 </SceneID>
+    <SpawnPath>data/Spawner/Moba/1004</SpawnPath>
+    <BattleSceneType>3 </BattleSceneType>
+    <Name_SCN>方块测试</Name_SCN>
+    <Name_FCN>陨落遗迹</Name_FCN>
+    <Name_EN>Fallen Ruins</Name_EN>
+    <SpawnName>BlockScene</SpawnName>
+    <MinMapIcon>UITexture/system/ditu/T_ICON_ditu2v2b_LT</MinMapIcon>
+    <BattleEndJudgeType>0 </BattleEndJudgeType>
+    <BaseProtectType>1 </BaseProtectType>
+    <BaseProtectScore>20000 </BaseProtectScore>
+    <BaseScore>10000 </BaseScore>
+    <SubBaseScore>10000 </SubBaseScore>
+    <SurrenderBeginTime>300000 </SurrenderBeginTime>
+    <SurrenderVoteTime>30000 </SurrenderVoteTime>
+    <SurrenderCD>90000 </SurrenderCD>
+    <RedCameraPath>prefab/camera/Battle_Camera_Blue_Rts_3v3</RedCameraPath>
+    <BlueCameraPath>prefab/camera/Battle_Camera_Blue_Rts_3v3</BlueCameraPath>
+    <MiniMapPath>prefab/ui/battle/Map/UIMiniMap_1004</MiniMapPath>
+    <NavMeshName>data/map/Scene04_TileCache</NavMeshName>
+    <CellName>data/map/Scene04_Cell</CellName>
+    <FormationName>data/Spawner/Formation/Formation</FormationName>
+    <FogPath>data/map/Scene04_Fog</FogPath>
+    <NightDayTime>180000 </NightDayTime>
+</ResMobaSceneDesc>
+</ResMobaSceneDesc_Tab>

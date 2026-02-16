@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<ResAudioEffect_Tab>
+<TResHeadAll version="5">
+    <resHead type="TResHead">
+        <Magic>1397052237 </Magic>
+        <Version>6 </Version>
+        <Unit>1540 </Unit>
+        <Count>5 </Count>
+        <MetalibHash>531d5b4a397ad5b3c0fbfb5cc8059e55</MetalibHash>
+        <ResVersion>0 </ResVersion>
+        <CreateTime>2023-04-19 20:42:31</CreateTime>
+        <ResEncording>UTF-8</ResEncording>
+        <ContentHash>4ac72c4853d334f0523bb47bbb5bfe22</ContentHash>
+    </resHead>
+    <resHeadExt type="TResHeadExt">
+        <DataOffset>136 </DataOffset>
+    </resHeadExt>
+</TResHeadAll>
+<ResAudioEffect version="1">
+    <ID>0 </ID>
+    <BGMusic>audio/bg/ingameCommonBGM</BGMusic>
+    <AudioEffect type="AudioEffect">
+        <AudioPath>audio/system/hum/nogold</AudioPath>
+    </AudioEffect>
+    <AudioEffect type="AudioEffect">
+        <AudioPath>audio/system/hum/nofood</AudioPath>
+    </AudioEffect>
+    <AudioEffect type="AudioEffect">
+        <AudioPath>audio/system/hum/noenergy</AudioPath>
+    </AudioEffect>
+    <AudioEffect type="AudioEffect">
+        <AudioPath>audio/system/hum/goldminecollapsed</AudioPath>
+    </AudioEffect>
+    <AudioEffect type="AudioEffect">
+        <AudioPath>audio/system/hum/townattack</AudioPath>
+    </AudioEffect>
+    <AudioEffect type="AudioEffect">
+        <AudioPath>audio/system/hum/researchcomplete</AudioPath>
+    </AudioEffect>
+    <AudioEffect type="AudioEffect">
+        <AudioPath>audio/system/hum/upgradecomplete</AudioPath>
+    </AudioEffect>
+    <AudioEffect type="AudioEffect">
+        <AudioPath></AudioPath>
+    </AudioEffect>
+    <AudioEffect type="AudioEffect">
+        <AudioPath>audio/system/hum/UnitAttack</AudioPath>
+    </AudioEffect>
+    <AudioEffect type="AudioEffect">
+        <AudioPath>audio/system/attack</AudioPath>
+    </AudioEffect>
+    <AudioEffect type="AudioEffect">
+        <AudioPath>audio/system/warning</AudioPath>
+    </AudioEffect>
+</ResAudioEffect>
+<ResAudioEffect version="1">
+    <ID>1 </ID>
+    <BGMusic>audio/bg/ingameCommonBGM</BGMusic>
+    <AudioEffect type="AudioEffect">
+        <AudioPath>audio/system/hum/nogold</AudioPath>
+    </AudioEffect>
+    <AudioEffect type="AudioEffect">
+        <AudioPath>audio/system/hum/nofood</AudioPath>
+    </AudioEffect>
+    <AudioEffect type="AudioEffect">
+        <AudioPath>audio/system/hum/noenergy</AudioPath>
+    </AudioEffect>
+    <AudioEffect type="AudioEffect">
+        <AudioPath>audio/system/hum/goldminecollapsed</AudioPath>
+    </AudioEffect>
+    <AudioEffect type="AudioEffect">
+        <AudioPath>audio/system/hum/townattack</AudioPath>
+    </AudioEffect>
+    <AudioEffect type="AudioEffect">
+        <AudioPath>audio/system/hum/researchcomplete</AudioPath>
+    </AudioEffect>
+    <AudioEffect type="AudioEffect">
+        <AudioPath>audio/system/hum/upgradecomplete</AudioPath>
+    </AudioEffect>
+    <AudioEffect type="AudioEffect">
+        <AudioPath></AudioPath>
+    </AudioEffect>
+    <AudioEffect type="AudioEffect">
+        <AudioPath>audio/system/hum/UnitAttack</AudioPath>
+    </AudioEffect>
+    <AudioEffect type="AudioEffect">
+        <AudioPath>audio/system/attack</AudioPath>
+    </AudioEffect>
+    <AudioEffect type="AudioEffect">
+        <AudioPath>audio/system/warning</AudioPath>
+    </AudioEffect>
+</ResAudioEffect>
+<ResAudioEffect version="1">
+    <ID>2 </ID>
+    <BGMusic>audio/bg/ingameCommonBGM</BGMusic>
+    <AudioEffect type="AudioEffect">
+        <AudioPath>audio/system/orc/nogold</AudioPath>
+    </AudioEffect>
+    <AudioEffect type="AudioEffect">
+        <AudioPath>audio/system/orc/nofood</AudioPath>
+    </AudioEffect>
+    <AudioEffect type="AudioEffect">
+        <AudioPath>audio/system/orc/noenergy</AudioPath>
+    </AudioEffect>
+    <AudioEffect type="AudioEffect">
+        <AudioPath>audio/system/orc/goldminecollapsed</AudioPath>
+    </AudioEffect>
+    <AudioEffect type="AudioEffect">
+        <AudioPath>audio/system/orc/townattack</AudioPath>
+    </AudioEffect>
+    <AudioEffect type="AudioEffect">
+        <AudioPath>audio/system/orc/researchcomplete</AudioPath>
+    </AudioEffect>
+    <AudioEffect type="AudioEffect">
+        <AudioPath>audio/system/orc/upgradecomplete</AudioPath>
+    </AudioEffect>
+    <AudioEffect type="AudioEffect">
+        <AudioPath></AudioPath>
+    </AudioEffect>
+    <AudioEffect type="AudioEffect">
+        <AudioPath>audio/system/orc/UnitAttack</AudioPath>
+    </AudioEffect>
+    <AudioEffect type="AudioEffect">
+        <AudioPath>audio/system/attack</AudioPath>
+    </AudioEffect>
+    <AudioEffect type="AudioEffect">
+        <AudioPath>audio/system/warning</AudioPath>
+    </AudioEffect>
+</ResAudioEffect>
+<ResAudioEffect version="1">
+    <ID>3 </ID>
+    <BGMusic>audio/bg/ingameCommonBGM</BGMusic>
+    <AudioEffect type="AudioEffect">
+        <AudioPath>audio/system/hum/nogold</AudioPath>
+    </AudioEffect>
+    <AudioEffect type="AudioEffect">
+        <AudioPath>audio/system/hum/nofood</AudioPath>
+    </AudioEffect>
+    <AudioEffect type="AudioEffect">
+        <AudioPath>audio/system/hum/noenergy</AudioPath>
+    </AudioEffect>
+    <AudioEffect type="AudioEffect">
+        <AudioPath>audio/system/hum/goldminecollapsed</AudioPath>
+    </AudioEffect>
+    <AudioEffect type="AudioEffect">
+        <AudioPath>audio/system/hum/townattack</AudioPath>
+    </AudioEffect>
+    <AudioEffect type="AudioEffect">
+        <AudioPath>audio/system/hum/researchcomplete</AudioPath>
+    </AudioEffect>
+    <AudioEffect type="AudioEffect">
+        <AudioPath>audio/system/hum/upgradecomplete</AudioPath>
+    </AudioEffect>
+    <AudioEffect type="AudioEffect">
+        <AudioPath></AudioPath>
+    </AudioEffect>
+    <AudioEffect type="AudioEffect">
+        <AudioPath>audio/system/hum/UnitAttack</AudioPath>
+    </AudioEffect>
+    <AudioEffect type="AudioEffect">
+        <AudioPath>audio/system/attack</AudioPath>
+    </AudioEffect>
+    <AudioEffect type="AudioEffect">
+        <AudioPath>audio/system/warning</AudioPath>
+    </AudioEffect>
+</ResAudioEffect>
+<ResAudioEffect version="1">
+    <ID>4 </ID>
+    <BGMusic>audio/bg/ingameCommonBGM</BGMusic>
+    <AudioEffect type="AudioEffect">
+        <AudioPath>audio/system/orc/nogold</AudioPath>
+    </AudioEffect>
+    <AudioEffect type="AudioEffect">
+        <AudioPath>audio/system/orc/nofood</AudioPath>
+    </AudioEffect>
+    <AudioEffect type="AudioEffect">
+        <AudioPath>audio/system/orc/noenergy</AudioPath>
+    </AudioEffect>
+    <AudioEffect type="AudioEffect">
+        <AudioPath>audio/system/orc/goldminecollapsed</AudioPath>
+    </AudioEffect>
+    <AudioEffect type="AudioEffect">
+        <AudioPath>audio/system/orc/townattack</AudioPath>
+    </AudioEffect>
+    <AudioEffect type="AudioEffect">
+        <AudioPath>audio/system/orc/researchcomplete</AudioPath>
+    </AudioEffect>
+    <AudioEffect type="AudioEffect">
+        <AudioPath>audio/system/orc/upgradecomplete</AudioPath>
+    </AudioEffect>
+    <AudioEffect type="AudioEffect">
+        <AudioPath></AudioPath>
+    </AudioEffect>
+    <AudioEffect type="AudioEffect">
+        <AudioPath>audio/system/orc/UnitAttack</AudioPath>
+    </AudioEffect>
+    <AudioEffect type="AudioEffect">
+        <AudioPath>audio/system/attack</AudioPath>
+    </AudioEffect>
+    <AudioEffect type="AudioEffect">
+        <AudioPath>audio/system/warning</AudioPath>
+    </AudioEffect>
+</ResAudioEffect>
+</ResAudioEffect_Tab>

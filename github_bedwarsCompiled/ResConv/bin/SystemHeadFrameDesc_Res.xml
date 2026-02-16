@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<ResSystemHeadFrameDesc_Tab>
+<TResHeadAll version="5">
+    <resHead type="TResHead">
+        <Magic>1397052237 </Magic>
+        <Version>6 </Version>
+        <Unit>1097 </Unit>
+        <Count>4 </Count>
+        <MetalibHash>531d5b4a397ad5b3c0fbfb5cc8059e55</MetalibHash>
+        <ResVersion>0 </ResVersion>
+        <CreateTime>2023-04-19 20:42:33</CreateTime>
+        <ResEncording>UTF-8</ResEncording>
+        <ContentHash>7af0abad817134178d8369a096be1b4f</ContentHash>
+    </resHead>
+    <resHeadExt type="TResHeadExt">
+        <DataOffset>136 </DataOffset>
+    </resHeadExt>
+</TResHeadAll>
+<ResSystemHeadFrameDesc version="1">
+    <ResID>1 </ResID>
+    <IsHave>1 </IsHave>
+    <Icon>UITexture/systemtexture/touxiang/touxiangkuang/T_ICON_wanjiakuang_001</Icon>
+    <Time>0 </Time>
+    <Name_SCN>金色头像框</Name_SCN>
+    <Name_FCN>金色头像框</Name_FCN>
+    <Name_EN>Golden Avatar Frame</Name_EN>
+    <Desc_SCN>金色头像框</Desc_SCN>
+    <Desc_FCN>金色头像框</Desc_FCN>
+    <Desc_EN>Golden Avatar Frame</Desc_EN>
+</ResSystemHeadFrameDesc>
+<ResSystemHeadFrameDesc version="1">
+    <ResID>2 </ResID>
+    <IsHave>1 </IsHave>
+    <Icon>UITexture/systemtexture/touxiang/touxiangkuang/T_ICON_wanjiakuang_002</Icon>
+    <Time>0 </Time>
+    <Name_SCN>红色头像框</Name_SCN>
+    <Name_FCN>红色头像框</Name_FCN>
+    <Name_EN>Red Avatar Frame</Name_EN>
+    <Desc_SCN>红色头像框</Desc_SCN>
+    <Desc_FCN>红色头像框</Desc_FCN>
+    <Desc_EN>Red Avatar Frame</Desc_EN>
+</ResSystemHeadFrameDesc>
+<ResSystemHeadFrameDesc version="1">
+    <ResID>3 </ResID>
+    <IsHave>1 </IsHave>
+    <Icon>UITexture/systemtexture/touxiang/touxiangkuang/T_ICON_wanjiakuang_003</Icon>
+    <Time>0 </Time>
+    <Name_SCN>蓝色头像框</Name_SCN>
+    <Name_FCN>蓝色头像框</Name_FCN>
+    <Name_EN>Blue Avatar Frame</Name_EN>
+    <Desc_SCN>蓝色头像框</Desc_SCN>
+    <Desc_FCN>蓝色头像框</Desc_FCN>
+    <Desc_EN>Blue Avatar Frame</Desc_EN>
+</ResSystemHeadFrameDesc>
+<ResSystemHeadFrameDesc version="1">
+    <ResID>4 </ResID>
+    <IsHave>0 </IsHave>
+    <Icon>UITexture/systemtexture/touxiang/touxiangkuang/T_ICON_guoqingkuang_new</Icon>
+    <Time>0 </Time>
+    <Name_SCN>闪耀红星</Name_SCN>
+    <Name_FCN>闪耀红星</Name_FCN>
+    <Name_EN>Radiant Pentacle</Name_EN>
+    <Desc_SCN>国庆活动获取</Desc_SCN>
+    <Desc_FCN>国庆活动获取</Desc_FCN>
+    <Desc_EN>Radiant Pentacle</Desc_EN>
+</ResSystemHeadFrameDesc>
+</ResSystemHeadFrameDesc_Tab>

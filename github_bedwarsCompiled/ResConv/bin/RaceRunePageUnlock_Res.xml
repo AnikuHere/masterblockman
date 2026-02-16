@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<ResRaceRunePageUnlock_Tab>
+<TResHeadAll version="5">
+    <resHead type="TResHead">
+        <Magic>1397052237 </Magic>
+        <Version>6 </Version>
+        <Unit>205 </Unit>
+        <Count>20 </Count>
+        <MetalibHash>531d5b4a397ad5b3c0fbfb5cc8059e55</MetalibHash>
+        <ResVersion>0 </ResVersion>
+        <CreateTime>2023-04-19 20:42:38</CreateTime>
+        <ResEncording>UTF-8</ResEncording>
+        <ContentHash>629c1fc5e5cd586b88a8978d3c352c44</ContentHash>
+    </resHead>
+    <resHeadExt type="TResHeadExt">
+        <DataOffset>136 </DataOffset>
+    </resHeadExt>
+</TResHeadAll>
+<ResRaceRunePageUnlock version="1">
+    <ResID>1 </ResID>
+    <Name_SCN>战旗页1</Name_SCN>
+    <Name_FCN></Name_FCN>
+    <Name_EN></Name_EN>
+    <IsDefultUnLock>1 </IsDefultUnLock>
+    <MoneyConsume type="ResMoneyConsume">
+        <Type>0 </Type>
+        <Num>0 </Num>
+    </MoneyConsume>
+</ResRaceRunePageUnlock>
+<ResRaceRunePageUnlock version="1">
+    <ResID>2 </ResID>
+    <Name_SCN>战旗页2</Name_SCN>
+    <Name_FCN></Name_FCN>
+    <Name_EN></Name_EN>
+    <IsDefultUnLock>1 </IsDefultUnLock>
+    <MoneyConsume type="ResMoneyConsume">
+        <Type>0 </Type>
+        <Num>0 </Num>
+    </MoneyConsume>
+</ResRaceRunePageUnlock>
+<ResRaceRunePageUnlock version="1">
+    <ResID>3 </ResID>
+    <Name_SCN>战旗页3</Name_SCN>
+    <Name_FCN></Name_FCN>
+    <Name_EN></Name_EN>
+    <IsDefultUnLock>0 </IsDefultUnLock>
+    <MoneyConsume type="ResMoneyConsume">
+        <Type>2 </Type>
+        <Num>400 </Num>
+    </MoneyConsume>
+</ResRaceRunePageUnlock>
+<ResRaceRunePageUnlock version="1">
+    <ResID>4 </ResID>
+    <Name_SCN>战旗页4</Name_SCN>
+    <Name_FCN></Name_FCN>
+    <Name_EN></Name_EN>
+    <IsDefultUnLock>0 </IsDefultUnLock>
+    <MoneyConsume type="ResMoneyConsume">
+        <Type>2 </Type>
+        <Num>400 </Num>
+    </MoneyConsume>
+</ResRaceRunePageUnlock>
+<ResRaceRunePageUnlock version="1">
+    <ResID>5 </ResID>
+    <Name_SCN>战旗页5</Name_SCN>
+    <Name_FCN></Name_FCN>
+    <Name_EN></Name_EN>
+    <IsDefultUnLock>0 </IsDefultUnLock>
+    <MoneyConsume type="ResMoneyConsume">
+        <Type>2 </Type>
+        <Num>400 </Num>
+    </MoneyConsume>
+</ResRaceRunePageUnlock>
+<ResRaceRunePageUnlock version="1">
+    <ResID>6 </ResID>
+    <Name_SCN>战旗页6</Name_SCN>
+    <Name_FCN></Name_FCN>
+    <Name_EN></Name_EN>
+    <IsDefultUnLock>0 </IsDefultUnLock>
+    <MoneyConsume type="ResMoneyConsume">
+        <Type>2 </Type>
+        <Num>400 </Num>
+    </MoneyConsume>
+</ResRaceRunePageUnlock>
+<ResRaceRunePageUnlock version="1">
+    <ResID>7 </ResID>
+    <Name_SCN>战旗页7</Name_SCN>
+    <Name_FCN></Name_FCN>
+    <Name_EN></Name_EN>
+    <IsDefultUnLock>0 </IsDefultUnLock>
+    <MoneyConsume type="ResMoneyConsume">
+        <Type>2 </Type>
+        <Num>400 </Num>
+    </MoneyConsume>
+</ResRaceRunePageUnlock>
+<ResRaceRunePageUnlock version="1">
+    <ResID>8 </ResID>
+    <Name_SCN>战旗页8</Name_SCN>
+    <Name_FCN></Name_FCN>
+    <Name_EN></Name_EN>
+    <IsDefultUnLock>0 </IsDefultUnLock>
+    <MoneyConsume type="ResMoneyConsume">
+        <Type>2 </Type>
+        <Num>400 </Num>
+    </MoneyConsume>
+</ResRaceRunePageUnlock>
+<ResRaceRunePageUnlock version="1">
+    <ResID>9 </ResID>
+    <Name_SCN>战旗页9</Name_SCN>
+    <Name_FCN></Name_FCN>
+    <Name_EN></Name_EN>
+    <IsDefultUnLock>0 </IsDefultUnLock>
+    <MoneyConsume type="ResMoneyConsume">
+        <Type>2 </Type>
+        <Num>400 </Num>
+    </MoneyConsume>
+</ResRaceRunePageUnlock>
+<ResRaceRunePageUnlock version="1">
+    <ResID>10 </ResID>
+    <Name_SCN>战旗页10</Name_SCN>
+    <Name_FCN></Name_FCN>
+    <Name_EN></Name_EN>
+    <IsDefultUnLock>0 </IsDefultUnLock>
+    <MoneyConsume type="ResMoneyConsume">
+        <Type>2 </Type>
+        <Num>400 </Num>
+    </MoneyConsume>
+</ResRaceRunePageUnlock>
+<ResRaceRunePageUnlock version="1">
+    <ResID>11 </ResID>
+    <Name_SCN>战旗页11</Name_SCN>
+    <Name_FCN></Name_FCN>
+    <Name_EN></Name_EN>
+    <IsDefultUnLock>0 </IsDefultUnLock>
+    <MoneyConsume type="ResMoneyConsume">
+        <Type>2 </Type>
+        <Num>400 </Num>
+    </MoneyConsume>
+</ResRaceRunePageUnlock>
+<ResRaceRunePageUnlock version="1">
+    <ResID>12 </ResID>
+    <Name_SCN>战旗页12</Name_SCN>
+    <Name_FCN></Name_FCN>
+    <Name_EN></Name_EN>
+    <IsDefultUnLock>0 </IsDefultUnLock>
+    <MoneyConsume type="ResMoneyConsume">
+        <Type>2 </Type>
+        <Num>400 </Num>
+    </MoneyConsume>
+</ResRaceRunePageUnlock>
+<ResRaceRunePageUnlock version="1">
+    <ResID>13 </ResID>
+    <Name_SCN>战旗页13</Name_SCN>
+    <Name_FCN></Name_FCN>
+    <Name_EN></Name_EN>
+    <IsDefultUnLock>0 </IsDefultUnLock>
+    <MoneyConsume type="ResMoneyConsume">
+        <Type>2 </Type>
+        <Num>400 </Num>
+    </MoneyConsume>
+</ResRaceRunePageUnlock>
+<ResRaceRunePageUnlock version="1">
+    <ResID>14 </ResID>
+    <Name_SCN>战旗页14</Name_SCN>
+    <Name_FCN></Name_FCN>
+    <Name_EN></Name_EN>
+    <IsDefultUnLock>0 </IsDefultUnLock>
+    <MoneyConsume type="ResMoneyConsume">
+        <Type>2 </Type>
+        <Num>400 </Num>
+    </MoneyConsume>
+</ResRaceRunePageUnlock>
+<ResRaceRunePageUnlock version="1">
+    <ResID>15 </ResID>
+    <Name_SCN>战旗页15</Name_SCN>
+    <Name_FCN></Name_FCN>
+    <Name_EN></Name_EN>
+    <IsDefultUnLock>0 </IsDefultUnLock>
+    <MoneyConsume type="ResMoneyConsume">
+        <Type>2 </Type>
+        <Num>400 </Num>
+    </MoneyConsume>
+</ResRaceRunePageUnlock>
+<ResRaceRunePageUnlock version="1">
+    <ResID>16 </ResID>
+    <Name_SCN>战旗页16</Name_SCN>
+    <Name_FCN></Name_FCN>
+    <Name_EN></Name_EN>
+    <IsDefultUnLock>0 </IsDefultUnLock>
+    <MoneyConsume type="ResMoneyConsume">
+        <Type>2 </Type>
+        <Num>400 </Num>
+    </MoneyConsume>
+</ResRaceRunePageUnlock>
+<ResRaceRunePageUnlock version="1">
+    <ResID>17 </ResID>
+    <Name_SCN>战旗页17</Name_SCN>
+    <Name_FCN></Name_FCN>
+    <Name_EN></Name_EN>
+    <IsDefultUnLock>0 </IsDefultUnLock>
+    <MoneyConsume type="ResMoneyConsume">
+        <Type>2 </Type>
+        <Num>400 </Num>
+    </MoneyConsume>
+</ResRaceRunePageUnlock>
+<ResRaceRunePageUnlock version="1">
+    <ResID>18 </ResID>
+    <Name_SCN>战旗页18</Name_SCN>
+    <Name_FCN></Name_FCN>
+    <Name_EN></Name_EN>
+    <IsDefultUnLock>0 </IsDefultUnLock>
+    <MoneyConsume type="ResMoneyConsume">
+        <Type>2 </Type>
+        <Num>400 </Num>
+    </MoneyConsume>
+</ResRaceRunePageUnlock>
+<ResRaceRunePageUnlock version="1">
+    <ResID>19 </ResID>
+    <Name_SCN>战旗页19</Name_SCN>
+    <Name_FCN></Name_FCN>
+    <Name_EN></Name_EN>
+    <IsDefultUnLock>0 </IsDefultUnLock>
+    <MoneyConsume type="ResMoneyConsume">
+        <Type>2 </Type>
+        <Num>400 </Num>
+    </MoneyConsume>
+</ResRaceRunePageUnlock>
+<ResRaceRunePageUnlock version="1">
+    <ResID>20 </ResID>
+    <Name_SCN>战旗页20</Name_SCN>
+    <Name_FCN></Name_FCN>
+    <Name_EN></Name_EN>
+    <IsDefultUnLock>0 </IsDefultUnLock>
+    <MoneyConsume type="ResMoneyConsume">
+        <Type>2 </Type>
+        <Num>400 </Num>
+    </MoneyConsume>
+</ResRaceRunePageUnlock>
+</ResRaceRunePageUnlock_Tab>

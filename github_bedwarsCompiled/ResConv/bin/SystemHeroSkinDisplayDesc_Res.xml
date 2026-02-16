@@ -1,0 +1,904 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<ResSystemHeroSkinDisplayDesc_Tab>
+<TResHeadAll version="5">
+    <resHead type="TResHead">
+        <Magic>1397052237 </Magic>
+        <Version>6 </Version>
+        <Unit>1924 </Unit>
+        <Count>59 </Count>
+        <MetalibHash>531d5b4a397ad5b3c0fbfb5cc8059e55</MetalibHash>
+        <ResVersion>0 </ResVersion>
+        <CreateTime>2023-04-19 20:42:38</CreateTime>
+        <ResEncording>UTF-8</ResEncording>
+        <ContentHash>6fab9adb573f408e258ef572788db5c1</ContentHash>
+    </resHead>
+    <resHeadExt type="TResHeadExt">
+        <DataOffset>136 </DataOffset>
+    </resHeadExt>
+</TResHeadAll>
+<ResSystemHeroSkinDisplayDesc version="1">
+    <ResID>1000001 </ResID>
+    <SkinTitle_SCN>安东尼</SkinTitle_SCN>
+    <SkinTitle_EN>Anthony</SkinTitle_EN>
+    <SkinTitle_FCN>安东尼</SkinTitle_FCN>
+    <Name_SCN>守护者</Name_SCN>
+    <Name_EN>The Guardian</Name_EN>
+    <Name_FCN>守护者</Name_FCN>
+    <SkinDescOne_SCN>恐惧与魄力并存的恶魔</SkinDescOne_SCN>
+    <SkinDescOne_EN>Scary, yet compelling.</SkinDescOne_EN>
+    <SkinDescOne_FCN>恐惧与魄力并存的恶魔</SkinDescOne_FCN>
+    <SkinDescTwo_SCN></SkinDescTwo_SCN>
+    <SkinDescTwo_EN></SkinDescTwo_EN>
+    <SkinDescTwo_FCN></SkinDescTwo_FCN>
+</ResSystemHeroSkinDisplayDesc>
+<ResSystemHeroSkinDisplayDesc version="1">
+    <ResID>1001001 </ResID>
+    <SkinTitle_SCN>安东尼</SkinTitle_SCN>
+    <SkinTitle_EN>Anthony</SkinTitle_EN>
+    <SkinTitle_FCN>安东尼</SkinTitle_FCN>
+    <Name_SCN>守护者</Name_SCN>
+    <Name_EN>The Guardian</Name_EN>
+    <Name_FCN>守护者</Name_FCN>
+    <SkinDescOne_SCN>恐惧与魄力并存的恶魔</SkinDescOne_SCN>
+    <SkinDescOne_EN>Scary, yet compelling.</SkinDescOne_EN>
+    <SkinDescOne_FCN>恐惧与魄力并存的恶魔</SkinDescOne_FCN>
+    <SkinDescTwo_SCN></SkinDescTwo_SCN>
+    <SkinDescTwo_EN></SkinDescTwo_EN>
+    <SkinDescTwo_FCN></SkinDescTwo_FCN>
+</ResSystemHeroSkinDisplayDesc>
+<ResSystemHeroSkinDisplayDesc version="1">
+    <ResID>1001002 </ResID>
+    <SkinTitle_SCN>安东尼</SkinTitle_SCN>
+    <SkinTitle_EN>Anthony</SkinTitle_EN>
+    <SkinTitle_FCN>安东尼</SkinTitle_FCN>
+    <Name_SCN>精灵王</Name_SCN>
+    <Name_EN>Elven Lord</Name_EN>
+    <Name_FCN>精灵王</Name_FCN>
+    <SkinDescOne_SCN>这片森林，现在有守护者了。</SkinDescOne_SCN>
+    <SkinDescOne_EN>These woods shall have peace.</SkinDescOne_EN>
+    <SkinDescOne_FCN>这片森林，现在有守护者了。</SkinDescOne_FCN>
+    <SkinDescTwo_SCN>海誓山盟的约定之音</SkinDescTwo_SCN>
+    <SkinDescTwo_EN>海誓山盟的约定之音</SkinDescTwo_EN>
+    <SkinDescTwo_FCN>海誓山盟的约定之音</SkinDescTwo_FCN>
+</ResSystemHeroSkinDisplayDesc>
+<ResSystemHeroSkinDisplayDesc version="1">
+    <ResID>1001003 </ResID>
+    <SkinTitle_SCN>安东尼</SkinTitle_SCN>
+    <SkinTitle_EN>Anthony</SkinTitle_EN>
+    <SkinTitle_FCN>安东尼</SkinTitle_FCN>
+    <Name_SCN>英仙座</Name_SCN>
+    <Name_EN>Perseus</Name_EN>
+    <Name_FCN>英仙座</Name_FCN>
+    <SkinDescOne_SCN>受到智慧女神祝福的安东尼，化身为苍穹中最耀眼的星光。</SkinDescOne_SCN>
+    <SkinDescOne_EN>You did not ask for this burden, but it is what fate has deemed.</SkinDescOne_EN>
+    <SkinDescOne_FCN>受到智慧女神祝福的安东尼，化身为苍穹中最耀眼的星光。</SkinDescOne_FCN>
+    <SkinDescTwo_SCN></SkinDescTwo_SCN>
+    <SkinDescTwo_EN></SkinDescTwo_EN>
+    <SkinDescTwo_FCN></SkinDescTwo_FCN>
+</ResSystemHeroSkinDisplayDesc>
+<ResSystemHeroSkinDisplayDesc version="1">
+    <ResID>1002001 </ResID>
+    <SkinTitle_SCN>奥丁</SkinTitle_SCN>
+    <SkinTitle_EN>Odin</SkinTitle_EN>
+    <SkinTitle_FCN>奥丁</SkinTitle_FCN>
+    <Name_SCN>神灵之锤</Name_SCN>
+    <Name_EN>The High Hammer</Name_EN>
+    <Name_FCN>神灵之锤</Name_FCN>
+    <SkinDescOne_SCN>暴力金属的摇滚范</SkinDescOne_SCN>
+    <SkinDescOne_EN>暴力金属的摇滚范</SkinDescOne_EN>
+    <SkinDescOne_FCN>暴力金属的摇滚范</SkinDescOne_FCN>
+    <SkinDescTwo_SCN></SkinDescTwo_SCN>
+    <SkinDescTwo_EN></SkinDescTwo_EN>
+    <SkinDescTwo_FCN></SkinDescTwo_FCN>
+</ResSystemHeroSkinDisplayDesc>
+<ResSystemHeroSkinDisplayDesc version="1">
+    <ResID>1002002 </ResID>
+    <SkinTitle_SCN>奥丁</SkinTitle_SCN>
+    <SkinTitle_EN>Odin</SkinTitle_EN>
+    <SkinTitle_FCN>奥丁</SkinTitle_FCN>
+    <Name_SCN>奥林匹斯之王</Name_SCN>
+    <Name_EN>King of Olympus</Name_EN>
+    <Name_FCN>奥林匹斯之王</Name_FCN>
+    <SkinDescOne_SCN>惹恼众神之王的人，将要承受奥林匹斯无尽的怒火。</SkinDescOne_SCN>
+    <SkinDescOne_EN>The fury of Olympus is about to be unleashed.</SkinDescOne_EN>
+    <SkinDescOne_FCN>惹恼众神之王的人，将要承受奥林匹斯无尽的怒火。</SkinDescOne_FCN>
+    <SkinDescTwo_SCN>TEST</SkinDescTwo_SCN>
+    <SkinDescTwo_EN>TEST</SkinDescTwo_EN>
+    <SkinDescTwo_FCN>TEST</SkinDescTwo_FCN>
+</ResSystemHeroSkinDisplayDesc>
+<ResSystemHeroSkinDisplayDesc version="1">
+    <ResID>1003001 </ResID>
+    <SkinTitle_SCN>帕拉丁</SkinTitle_SCN>
+    <SkinTitle_EN>Pallidus</SkinTitle_EN>
+    <SkinTitle_FCN>帕拉丁</SkinTitle_FCN>
+    <Name_SCN>圣职者</Name_SCN>
+    <Name_EN>High Priest</Name_EN>
+    <Name_FCN>圣职者</Name_FCN>
+    <SkinDescOne_SCN>洁白与粉色交织的唯美礼装</SkinDescOne_SCN>
+    <SkinDescOne_EN>When white meets pink.</SkinDescOne_EN>
+    <SkinDescOne_FCN>洁白与粉色交织的唯美礼装</SkinDescOne_FCN>
+    <SkinDescTwo_SCN></SkinDescTwo_SCN>
+    <SkinDescTwo_EN></SkinDescTwo_EN>
+    <SkinDescTwo_FCN></SkinDescTwo_FCN>
+</ResSystemHeroSkinDisplayDesc>
+<ResSystemHeroSkinDisplayDesc version="1">
+    <ResID>1003002 </ResID>
+    <SkinTitle_SCN>帕拉丁</SkinTitle_SCN>
+    <SkinTitle_EN>Pallidus</SkinTitle_EN>
+    <SkinTitle_FCN>帕拉丁</SkinTitle_FCN>
+    <Name_SCN>至高之誓</Name_SCN>
+    <Name_EN>Oathkeeper</Name_EN>
+    <Name_FCN>至高之誓</Name_FCN>
+    <SkinDescOne_SCN>我会守护你，以我的生命起誓！</SkinDescOne_SCN>
+    <SkinDescOne_EN>I&apos;ve sworn a sacred oath.</SkinDescOne_EN>
+    <SkinDescOne_FCN>我会守护你，以我的生命起誓！</SkinDescOne_FCN>
+    <SkinDescTwo_SCN></SkinDescTwo_SCN>
+    <SkinDescTwo_EN></SkinDescTwo_EN>
+    <SkinDescTwo_FCN></SkinDescTwo_FCN>
+</ResSystemHeroSkinDisplayDesc>
+<ResSystemHeroSkinDisplayDesc version="1">
+    <ResID>1101001 </ResID>
+    <SkinTitle_SCN>索伦</SkinTitle_SCN>
+    <SkinTitle_EN>Rothol</SkinTitle_EN>
+    <SkinTitle_FCN>索伦</SkinTitle_FCN>
+    <Name_SCN>先知</Name_SCN>
+    <Name_EN>The Seer</Name_EN>
+    <Name_FCN>先知</Name_FCN>
+    <SkinDescOne_SCN>迷人的造型，把持不住</SkinDescOne_SCN>
+    <SkinDescOne_EN>迷人的造型，把持不住</SkinDescOne_EN>
+    <SkinDescOne_FCN>迷人的造型，把持不住</SkinDescOne_FCN>
+    <SkinDescTwo_SCN></SkinDescTwo_SCN>
+    <SkinDescTwo_EN></SkinDescTwo_EN>
+    <SkinDescTwo_FCN></SkinDescTwo_FCN>
+</ResSystemHeroSkinDisplayDesc>
+<ResSystemHeroSkinDisplayDesc version="1">
+    <ResID>1101002 </ResID>
+    <SkinTitle_SCN>索伦</SkinTitle_SCN>
+    <SkinTitle_EN>Rothol</SkinTitle_EN>
+    <SkinTitle_FCN>索伦</SkinTitle_FCN>
+    <Name_SCN>灾祸之源</Name_SCN>
+    <Name_EN>Banebringer</Name_EN>
+    <Name_FCN>灾祸之源</Name_FCN>
+    <SkinDescOne_SCN>对力量的追求，让索伦不惜投身于祸乱的源头。</SkinDescOne_SCN>
+    <SkinDescOne_EN>Rothol will stop at nothing to seek greater power.</SkinDescOne_EN>
+    <SkinDescOne_FCN>对力量的追求，让索伦不惜投身于祸乱的源头。</SkinDescOne_FCN>
+    <SkinDescTwo_SCN></SkinDescTwo_SCN>
+    <SkinDescTwo_EN></SkinDescTwo_EN>
+    <SkinDescTwo_FCN></SkinDescTwo_FCN>
+</ResSystemHeroSkinDisplayDesc>
+<ResSystemHeroSkinDisplayDesc version="1">
+    <ResID>1102001 </ResID>
+    <SkinTitle_SCN>哥布林</SkinTitle_SCN>
+    <SkinTitle_EN>Garoth</SkinTitle_EN>
+    <SkinTitle_FCN>哥布林</SkinTitle_FCN>
+    <Name_SCN>嗜血领主</Name_SCN>
+    <Name_EN>Blood Seeker</Name_EN>
+    <Name_FCN>嗜血领主</Name_FCN>
+    <SkinDescOne_SCN>电玩风格语音</SkinDescOne_SCN>
+    <SkinDescOne_EN>电玩风格语音</SkinDescOne_EN>
+    <SkinDescOne_FCN>电玩风格语音</SkinDescOne_FCN>
+    <SkinDescTwo_SCN></SkinDescTwo_SCN>
+    <SkinDescTwo_EN></SkinDescTwo_EN>
+    <SkinDescTwo_FCN></SkinDescTwo_FCN>
+</ResSystemHeroSkinDisplayDesc>
+<ResSystemHeroSkinDisplayDesc version="1">
+    <ResID>1102002 </ResID>
+    <SkinTitle_SCN>哥布林</SkinTitle_SCN>
+    <SkinTitle_EN>Garoth</SkinTitle_EN>
+    <SkinTitle_FCN>哥布林</SkinTitle_FCN>
+    <Name_SCN>科学怪人</Name_SCN>
+    <Name_EN>科学怪人</Name_EN>
+    <Name_FCN>科学怪人</Name_FCN>
+    <SkinDescOne_SCN>头脑！才是最强的力量！</SkinDescOne_SCN>
+    <SkinDescOne_EN>头脑！才是最强的力量！</SkinDescOne_EN>
+    <SkinDescOne_FCN>头脑！才是最强的力量！</SkinDescOne_FCN>
+    <SkinDescTwo_SCN></SkinDescTwo_SCN>
+    <SkinDescTwo_EN></SkinDescTwo_EN>
+    <SkinDescTwo_FCN></SkinDescTwo_FCN>
+</ResSystemHeroSkinDisplayDesc>
+<ResSystemHeroSkinDisplayDesc version="1">
+    <ResID>1201001 </ResID>
+    <SkinTitle_SCN>凯撒</SkinTitle_SCN>
+    <SkinTitle_EN>Gaius</SkinTitle_EN>
+    <SkinTitle_FCN>凯撒</SkinTitle_FCN>
+    <Name_SCN>亡魂之主</Name_SCN>
+    <Name_EN>King of Underworld</Name_EN>
+    <Name_FCN>亡魂之主</Name_FCN>
+    <SkinDescOne_SCN>恶魔的化身，透露邪恶的力量</SkinDescOne_SCN>
+    <SkinDescOne_EN>A demonic avatar made of pure evilness.</SkinDescOne_EN>
+    <SkinDescOne_FCN>恶魔的化身，透露邪恶的力量</SkinDescOne_FCN>
+    <SkinDescTwo_SCN></SkinDescTwo_SCN>
+    <SkinDescTwo_EN></SkinDescTwo_EN>
+    <SkinDescTwo_FCN></SkinDescTwo_FCN>
+</ResSystemHeroSkinDisplayDesc>
+<ResSystemHeroSkinDisplayDesc version="1">
+    <ResID>1201002 </ResID>
+    <SkinTitle_SCN>凯撒</SkinTitle_SCN>
+    <SkinTitle_EN>Gaius</SkinTitle_EN>
+    <SkinTitle_FCN>凯撒</SkinTitle_FCN>
+    <Name_SCN>煞星</Name_SCN>
+    <Name_EN>Woebringer</Name_EN>
+    <Name_FCN>煞星</Name_FCN>
+    <SkinDescOne_SCN>无尽的灾祸，预示着煞星的降临。</SkinDescOne_SCN>
+    <SkinDescOne_EN>Woe betide those who stand against him.</SkinDescOne_EN>
+    <SkinDescOne_FCN>无尽的灾祸，预示着煞星的降临。</SkinDescOne_FCN>
+    <SkinDescTwo_SCN></SkinDescTwo_SCN>
+    <SkinDescTwo_EN></SkinDescTwo_EN>
+    <SkinDescTwo_FCN></SkinDescTwo_FCN>
+</ResSystemHeroSkinDisplayDesc>
+<ResSystemHeroSkinDisplayDesc version="1">
+    <ResID>1202001 </ResID>
+    <SkinTitle_SCN>潘多拉</SkinTitle_SCN>
+    <SkinTitle_EN>Pandora</SkinTitle_EN>
+    <SkinTitle_FCN>潘多拉</SkinTitle_FCN>
+    <Name_SCN>死灵女巫</Name_SCN>
+    <Name_EN>The Necromancer</Name_EN>
+    <Name_FCN>死灵女巫</Name_FCN>
+    <SkinDescOne_SCN>暴力金属的摇滚范</SkinDescOne_SCN>
+    <SkinDescOne_EN>暴力金属的摇滚范</SkinDescOne_EN>
+    <SkinDescOne_FCN>暴力金属的摇滚范</SkinDescOne_FCN>
+    <SkinDescTwo_SCN></SkinDescTwo_SCN>
+    <SkinDescTwo_EN></SkinDescTwo_EN>
+    <SkinDescTwo_FCN></SkinDescTwo_FCN>
+</ResSystemHeroSkinDisplayDesc>
+<ResSystemHeroSkinDisplayDesc version="1">
+    <ResID>1202002 </ResID>
+    <SkinTitle_SCN>潘多拉</SkinTitle_SCN>
+    <SkinTitle_EN>Pandora</SkinTitle_EN>
+    <SkinTitle_FCN>潘多拉</SkinTitle_FCN>
+    <Name_SCN>金色曼陀罗</Name_SCN>
+    <Name_EN>Golden Datura</Name_EN>
+    <Name_FCN>金色曼陀罗</Name_FCN>
+    <SkinDescOne_SCN>一朵金色的冷艳之花，绽放的代价，便是敌人生命的凋零！</SkinDescOne_SCN>
+    <SkinDescOne_EN>As this flower blooms, her foes shall wither.</SkinDescOne_EN>
+    <SkinDescOne_FCN>一朵金色的冷艳之花，绽放的代价，便是敌人生命的凋零！</SkinDescOne_FCN>
+    <SkinDescTwo_SCN>一朵金色的冷艳之花，绽放的代价，便是敌人生命的凋零！</SkinDescTwo_SCN>
+    <SkinDescTwo_EN></SkinDescTwo_EN>
+    <SkinDescTwo_FCN></SkinDescTwo_FCN>
+</ResSystemHeroSkinDisplayDesc>
+<ResSystemHeroSkinDisplayDesc version="1">
+    <ResID>1203001 </ResID>
+    <SkinTitle_SCN>哈迪斯</SkinTitle_SCN>
+    <SkinTitle_EN>Mot</SkinTitle_EN>
+    <SkinTitle_FCN>哈迪斯</SkinTitle_FCN>
+    <Name_SCN>镰刀死神</Name_SCN>
+    <Name_EN>Death Incarnate</Name_EN>
+    <Name_FCN>镰刀死神</Name_FCN>
+    <SkinDescOne_SCN>暴力金属的摇滚范</SkinDescOne_SCN>
+    <SkinDescOne_EN>暴力金属的摇滚范</SkinDescOne_EN>
+    <SkinDescOne_FCN>暴力金属的摇滚范</SkinDescOne_FCN>
+    <SkinDescTwo_SCN></SkinDescTwo_SCN>
+    <SkinDescTwo_EN></SkinDescTwo_EN>
+    <SkinDescTwo_FCN></SkinDescTwo_FCN>
+</ResSystemHeroSkinDisplayDesc>
+<ResSystemHeroSkinDisplayDesc version="1">
+    <ResID>1203002 </ResID>
+    <SkinTitle_SCN>哈迪斯</SkinTitle_SCN>
+    <SkinTitle_EN>Mot</SkinTitle_EN>
+    <SkinTitle_FCN>哈迪斯</SkinTitle_FCN>
+    <Name_SCN>舞会绅士</Name_SCN>
+    <Name_EN>Party Prince</Name_EN>
+    <Name_FCN>舞会绅士</Name_FCN>
+    <SkinDescOne_SCN>帅气的舞会造型，冥王也是很绅士的</SkinDescOne_SCN>
+    <SkinDescOne_EN>The go-to build for party attenders.</SkinDescOne_EN>
+    <SkinDescOne_FCN>帅气的舞会造型，冥王也是很绅士的</SkinDescOne_FCN>
+    <SkinDescTwo_SCN></SkinDescTwo_SCN>
+    <SkinDescTwo_EN></SkinDescTwo_EN>
+    <SkinDescTwo_FCN></SkinDescTwo_FCN>
+</ResSystemHeroSkinDisplayDesc>
+<ResSystemHeroSkinDisplayDesc version="1">
+    <ResID>1301001 </ResID>
+    <SkinTitle_SCN>但丁</SkinTitle_SCN>
+    <SkinTitle_EN>Dante</SkinTitle_EN>
+    <SkinTitle_FCN>但丁</SkinTitle_FCN>
+    <Name_SCN>追猎者</Name_SCN>
+    <Name_EN>The Stalker</Name_EN>
+    <Name_FCN>追猎者</Name_FCN>
+    <SkinDescOne_SCN>暴力金属的摇滚范</SkinDescOne_SCN>
+    <SkinDescOne_EN>暴力金属的摇滚范</SkinDescOne_EN>
+    <SkinDescOne_FCN>暴力金属的摇滚范</SkinDescOne_FCN>
+    <SkinDescTwo_SCN></SkinDescTwo_SCN>
+    <SkinDescTwo_EN></SkinDescTwo_EN>
+    <SkinDescTwo_FCN></SkinDescTwo_FCN>
+</ResSystemHeroSkinDisplayDesc>
+<ResSystemHeroSkinDisplayDesc version="1">
+    <ResID>1301002 </ResID>
+    <SkinTitle_SCN>但丁</SkinTitle_SCN>
+    <SkinTitle_EN>Dante</SkinTitle_EN>
+    <SkinTitle_FCN>但丁</SkinTitle_FCN>
+    <Name_SCN>恶魔之力</Name_SCN>
+    <Name_EN>Demon Hunter</Name_EN>
+    <Name_FCN>恶魔之力</Name_FCN>
+    <SkinDescOne_SCN>用恶魔之力追击恶魔，这可是但丁的拿手好戏。</SkinDescOne_SCN>
+    <SkinDescOne_EN>Time to turn their own power against them.</SkinDescOne_EN>
+    <SkinDescOne_FCN>用恶魔之力追击恶魔，这可是但丁的拿手好戏。</SkinDescOne_FCN>
+    <SkinDescTwo_SCN></SkinDescTwo_SCN>
+    <SkinDescTwo_EN></SkinDescTwo_EN>
+    <SkinDescTwo_FCN></SkinDescTwo_FCN>
+</ResSystemHeroSkinDisplayDesc>
+<ResSystemHeroSkinDisplayDesc version="1">
+    <ResID>1302001 </ResID>
+    <SkinTitle_SCN>艾米</SkinTitle_SCN>
+    <SkinTitle_EN>Aimee</SkinTitle_EN>
+    <SkinTitle_FCN>艾米</SkinTitle_FCN>
+    <Name_SCN>自然之箭</Name_SCN>
+    <Name_EN>Highborne</Name_EN>
+    <Name_FCN>自然之箭</Name_FCN>
+    <SkinDescOne_SCN>暴力金属的摇滚范</SkinDescOne_SCN>
+    <SkinDescOne_EN>暴力金属的摇滚范</SkinDescOne_EN>
+    <SkinDescOne_FCN>暴力金属的摇滚范</SkinDescOne_FCN>
+    <SkinDescTwo_SCN></SkinDescTwo_SCN>
+    <SkinDescTwo_EN></SkinDescTwo_EN>
+    <SkinDescTwo_FCN></SkinDescTwo_FCN>
+</ResSystemHeroSkinDisplayDesc>
+<ResSystemHeroSkinDisplayDesc version="1">
+    <ResID>1302002 </ResID>
+    <SkinTitle_SCN>艾米</SkinTitle_SCN>
+    <SkinTitle_EN>Aimee</SkinTitle_EN>
+    <SkinTitle_FCN>艾米</SkinTitle_FCN>
+    <Name_SCN>翎羽箭神</Name_SCN>
+    <Name_EN>Scarlet Regalia</Name_EN>
+    <Name_FCN>翎羽箭神</Name_FCN>
+    <SkinDescOne_SCN>就算是骑着灵猫，一个好的射手依然能百发百中。</SkinDescOne_SCN>
+    <SkinDescOne_EN>It&apos;s unclear whether this mount lets out a roar, or a meow.</SkinDescOne_EN>
+    <SkinDescOne_FCN>就算是骑着灵猫，一个好的射手依然能百发百中。</SkinDescOne_FCN>
+    <SkinDescTwo_SCN></SkinDescTwo_SCN>
+    <SkinDescTwo_EN></SkinDescTwo_EN>
+    <SkinDescTwo_FCN></SkinDescTwo_FCN>
+</ResSystemHeroSkinDisplayDesc>
+<ResSystemHeroSkinDisplayDesc version="1">
+    <ResID>1302003 </ResID>
+    <SkinTitle_SCN>艾米</SkinTitle_SCN>
+    <SkinTitle_EN>Aimee</SkinTitle_EN>
+    <SkinTitle_FCN>艾米</SkinTitle_FCN>
+    <Name_SCN>翎羽箭神</Name_SCN>
+    <Name_EN>Scarlet Regalia</Name_EN>
+    <Name_FCN>翎羽箭神</Name_FCN>
+    <SkinDescOne_SCN>就算是骑着灵猫，一个好的射手依然能百发百中。</SkinDescOne_SCN>
+    <SkinDescOne_EN>It&apos;s unclear whether this mount lets out a roar, or a meow.</SkinDescOne_EN>
+    <SkinDescOne_FCN>就算是骑着灵猫，一个好的射手依然能百发百中。</SkinDescOne_FCN>
+    <SkinDescTwo_SCN></SkinDescTwo_SCN>
+    <SkinDescTwo_EN></SkinDescTwo_EN>
+    <SkinDescTwo_FCN></SkinDescTwo_FCN>
+</ResSystemHeroSkinDisplayDesc>
+<ResSystemHeroSkinDisplayDesc version="1">
+    <ResID>1305001 </ResID>
+    <SkinTitle_SCN>但丁</SkinTitle_SCN>
+    <SkinTitle_EN>Dante</SkinTitle_EN>
+    <SkinTitle_FCN>但丁</SkinTitle_FCN>
+    <Name_SCN>追猎者</Name_SCN>
+    <Name_EN>The Stalker</Name_EN>
+    <Name_FCN>追猎者</Name_FCN>
+    <SkinDescOne_SCN>暴力金属的摇滚范</SkinDescOne_SCN>
+    <SkinDescOne_EN>暴力金属的摇滚范</SkinDescOne_EN>
+    <SkinDescOne_FCN>暴力金属的摇滚范</SkinDescOne_FCN>
+    <SkinDescTwo_SCN></SkinDescTwo_SCN>
+    <SkinDescTwo_EN></SkinDescTwo_EN>
+    <SkinDescTwo_FCN></SkinDescTwo_FCN>
+</ResSystemHeroSkinDisplayDesc>
+<ResSystemHeroSkinDisplayDesc version="1">
+    <ResID>1401001 </ResID>
+    <SkinTitle_SCN>罗刹</SkinTitle_SCN>
+    <SkinTitle_EN>Asuka</SkinTitle_EN>
+    <SkinTitle_FCN>罗刹</SkinTitle_FCN>
+    <Name_SCN>绯影剑姬</Name_SCN>
+    <Name_EN>Crimson Phantom</Name_EN>
+    <Name_FCN>绯影剑姬</Name_FCN>
+    <SkinDescOne_SCN>暴力金属的摇滚范</SkinDescOne_SCN>
+    <SkinDescOne_EN>暴力金属的摇滚范</SkinDescOne_EN>
+    <SkinDescOne_FCN>暴力金属的摇滚范</SkinDescOne_FCN>
+    <SkinDescTwo_SCN></SkinDescTwo_SCN>
+    <SkinDescTwo_EN></SkinDescTwo_EN>
+    <SkinDescTwo_FCN></SkinDescTwo_FCN>
+</ResSystemHeroSkinDisplayDesc>
+<ResSystemHeroSkinDisplayDesc version="1">
+    <ResID>1401002 </ResID>
+    <SkinTitle_SCN>罗刹</SkinTitle_SCN>
+    <SkinTitle_EN>Asuka</SkinTitle_EN>
+    <SkinTitle_FCN>罗刹</SkinTitle_FCN>
+    <Name_SCN>剑意</Name_SCN>
+    <Name_EN>Blade&apos;s Will</Name_EN>
+    <Name_FCN>剑意</Name_FCN>
+    <SkinDescOne_SCN>不用出手，千雪散发出的剑意就已足够令人胆寒。</SkinDescOne_SCN>
+    <SkinDescOne_EN>The presence of the blade&apos;s will itself makes your skin crawl.</SkinDescOne_EN>
+    <SkinDescOne_FCN>不用出手，千雪散发出的剑意就已足够令人胆寒。</SkinDescOne_FCN>
+    <SkinDescTwo_SCN></SkinDescTwo_SCN>
+    <SkinDescTwo_EN></SkinDescTwo_EN>
+    <SkinDescTwo_FCN></SkinDescTwo_FCN>
+</ResSystemHeroSkinDisplayDesc>
+<ResSystemHeroSkinDisplayDesc version="1">
+    <ResID>1401003 </ResID>
+    <SkinTitle_SCN>罗刹</SkinTitle_SCN>
+    <SkinTitle_EN>Asuka</SkinTitle_EN>
+    <SkinTitle_FCN>罗刹</SkinTitle_FCN>
+    <Name_SCN>头号玩家</Name_SCN>
+    <Name_EN>E-Sports Champion</Name_EN>
+    <Name_FCN>头号玩家</Name_FCN>
+    <SkinDescOne_SCN>在这个游戏里，罗刹永远都是赢家！</SkinDescOne_SCN>
+    <SkinDescOne_EN>In this game, Asuka always wins.</SkinDescOne_EN>
+    <SkinDescOne_FCN>在这个游戏里，罗刹永远都是赢家！</SkinDescOne_FCN>
+    <SkinDescTwo_SCN></SkinDescTwo_SCN>
+    <SkinDescTwo_EN></SkinDescTwo_EN>
+    <SkinDescTwo_FCN></SkinDescTwo_FCN>
+</ResSystemHeroSkinDisplayDesc>
+<ResSystemHeroSkinDisplayDesc version="1">
+    <ResID>1402001 </ResID>
+    <SkinTitle_SCN>撒旦</SkinTitle_SCN>
+    <SkinTitle_EN>Infernius</SkinTitle_EN>
+    <SkinTitle_FCN>撒旦</SkinTitle_FCN>
+    <Name_SCN>异界魔王</Name_SCN>
+    <Name_EN>Diabolic</Name_EN>
+    <Name_FCN>异界魔王</Name_FCN>
+    <SkinDescOne_SCN>暴力金属的摇滚范</SkinDescOne_SCN>
+    <SkinDescOne_EN>暴力金属的摇滚范</SkinDescOne_EN>
+    <SkinDescOne_FCN>暴力金属的摇滚范</SkinDescOne_FCN>
+    <SkinDescTwo_SCN></SkinDescTwo_SCN>
+    <SkinDescTwo_EN></SkinDescTwo_EN>
+    <SkinDescTwo_FCN></SkinDescTwo_FCN>
+</ResSystemHeroSkinDisplayDesc>
+<ResSystemHeroSkinDisplayDesc version="1">
+    <ResID>1402002 </ResID>
+    <SkinTitle_SCN>撒旦</SkinTitle_SCN>
+    <SkinTitle_EN>Infernius</SkinTitle_EN>
+    <SkinTitle_FCN>撒旦</SkinTitle_FCN>
+    <Name_SCN>冰霜巨兽</Name_SCN>
+    <Name_EN>Ice Giant</Name_EN>
+    <Name_FCN>冰霜巨兽</Name_FCN>
+    <SkinDescOne_SCN>这个地狱现在刺骨冰寒！</SkinDescOne_SCN>
+    <SkinDescOne_EN>这个地狱现在刺骨冰寒！</SkinDescOne_EN>
+    <SkinDescOne_FCN>这个地狱现在刺骨冰寒！</SkinDescOne_FCN>
+    <SkinDescTwo_SCN></SkinDescTwo_SCN>
+    <SkinDescTwo_EN></SkinDescTwo_EN>
+    <SkinDescTwo_FCN></SkinDescTwo_FCN>
+</ResSystemHeroSkinDisplayDesc>
+<ResSystemHeroSkinDisplayDesc version="1">
+    <ResID>1403001 </ResID>
+    <SkinTitle_SCN>贝奥武夫</SkinTitle_SCN>
+    <SkinTitle_EN>Hogarth</SkinTitle_EN>
+    <SkinTitle_FCN>贝奥武夫</SkinTitle_FCN>
+    <Name_SCN>维京斗士</Name_SCN>
+    <Name_EN>Viking Legend</Name_EN>
+    <Name_FCN>维京斗士</Name_FCN>
+    <SkinDescOne_SCN>暴力金属的摇滚范</SkinDescOne_SCN>
+    <SkinDescOne_EN>暴力金属的摇滚范</SkinDescOne_EN>
+    <SkinDescOne_FCN>暴力金属的摇滚范</SkinDescOne_FCN>
+    <SkinDescTwo_SCN></SkinDescTwo_SCN>
+    <SkinDescTwo_EN></SkinDescTwo_EN>
+    <SkinDescTwo_FCN></SkinDescTwo_FCN>
+</ResSystemHeroSkinDisplayDesc>
+<ResSystemHeroSkinDisplayDesc version="1">
+    <ResID>1403002 </ResID>
+    <SkinTitle_SCN>贝奥武夫</SkinTitle_SCN>
+    <SkinTitle_EN>Hogarth</SkinTitle_EN>
+    <SkinTitle_FCN>贝奥武夫</SkinTitle_FCN>
+    <Name_SCN>熔岩之怒</Name_SCN>
+    <Name_EN>Raging Lava</Name_EN>
+    <Name_FCN>熔岩之怒</Name_FCN>
+    <SkinDescOne_SCN>伴着滚烫的熔岩，敌人也许更能感受到贝奥武夫的怒火。</SkinDescOne_SCN>
+    <SkinDescOne_EN>Hogarth&apos;s fury runs in the fizzy lava.</SkinDescOne_EN>
+    <SkinDescOne_FCN>伴着滚烫的熔岩，敌人也许更能感受到贝奥武夫的怒火。</SkinDescOne_FCN>
+    <SkinDescTwo_SCN></SkinDescTwo_SCN>
+    <SkinDescTwo_EN></SkinDescTwo_EN>
+    <SkinDescTwo_FCN></SkinDescTwo_FCN>
+</ResSystemHeroSkinDisplayDesc>
+<ResSystemHeroSkinDisplayDesc version="1">
+    <ResID>1404001 </ResID>
+    <SkinTitle_SCN>安娜</SkinTitle_SCN>
+    <SkinTitle_EN>Nara</SkinTitle_EN>
+    <SkinTitle_FCN>安娜</SkinTitle_FCN>
+    <Name_SCN>魔力之羽</Name_SCN>
+    <Name_EN>The Enchanting Quill</Name_EN>
+    <Name_FCN>魔力之羽</Name_FCN>
+    <SkinDescOne_SCN>TEST</SkinDescOne_SCN>
+    <SkinDescOne_EN>TEST</SkinDescOne_EN>
+    <SkinDescOne_FCN>TEST</SkinDescOne_FCN>
+    <SkinDescTwo_SCN></SkinDescTwo_SCN>
+    <SkinDescTwo_EN></SkinDescTwo_EN>
+    <SkinDescTwo_FCN></SkinDescTwo_FCN>
+</ResSystemHeroSkinDisplayDesc>
+<ResSystemHeroSkinDisplayDesc version="1">
+    <ResID>1404002 </ResID>
+    <SkinTitle_SCN>安娜</SkinTitle_SCN>
+    <SkinTitle_EN>Nara</SkinTitle_EN>
+    <SkinTitle_FCN>安娜</SkinTitle_FCN>
+    <Name_SCN>密林侠盗</Name_SCN>
+    <Name_EN>Jungle Strider</Name_EN>
+    <Name_FCN>密林侠盗</Name_FCN>
+    <SkinDescOne_SCN>这片密林是安娜的地盘。</SkinDescOne_SCN>
+    <SkinDescOne_EN>Nara is the master in this jungle.</SkinDescOne_EN>
+    <SkinDescOne_FCN>这片密林是安娜的地盘。</SkinDescOne_FCN>
+    <SkinDescTwo_SCN></SkinDescTwo_SCN>
+    <SkinDescTwo_EN></SkinDescTwo_EN>
+    <SkinDescTwo_FCN></SkinDescTwo_FCN>
+</ResSystemHeroSkinDisplayDesc>
+<ResSystemHeroSkinDisplayDesc version="1">
+    <ResID>1405001 </ResID>
+    <SkinTitle_SCN>蕾拉</SkinTitle_SCN>
+    <SkinTitle_EN>Layla</SkinTitle_EN>
+    <SkinTitle_FCN>蕾拉</SkinTitle_FCN>
+    <Name_SCN>恐龙骑手</Name_SCN>
+    <Name_EN>Dragoon</Name_EN>
+    <Name_FCN>恐龙骑手</Name_FCN>
+    <SkinDescOne_SCN>暴力金属的摇滚范</SkinDescOne_SCN>
+    <SkinDescOne_EN>暴力金属的摇滚范</SkinDescOne_EN>
+    <SkinDescOne_FCN>暴力金属的摇滚范</SkinDescOne_FCN>
+    <SkinDescTwo_SCN></SkinDescTwo_SCN>
+    <SkinDescTwo_EN></SkinDescTwo_EN>
+    <SkinDescTwo_FCN></SkinDescTwo_FCN>
+</ResSystemHeroSkinDisplayDesc>
+<ResSystemHeroSkinDisplayDesc version="1">
+    <ResID>1405002 </ResID>
+    <SkinTitle_SCN>蕾拉</SkinTitle_SCN>
+    <SkinTitle_EN>Layla</SkinTitle_EN>
+    <SkinTitle_FCN>蕾拉</SkinTitle_FCN>
+    <Name_SCN>粉红角斗士</Name_SCN>
+    <Name_EN>Cherry Contender</Name_EN>
+    <Name_FCN>粉红角斗士</Name_FCN>
+    <SkinDescOne_SCN>“巴克！揍他！”</SkinDescOne_SCN>
+    <SkinDescOne_EN>&quot;Buck, get him!&quot;</SkinDescOne_EN>
+    <SkinDescOne_FCN>“巴克！揍他！”</SkinDescOne_FCN>
+    <SkinDescTwo_SCN></SkinDescTwo_SCN>
+    <SkinDescTwo_EN></SkinDescTwo_EN>
+    <SkinDescTwo_FCN></SkinDescTwo_FCN>
+</ResSystemHeroSkinDisplayDesc>
+<ResSystemHeroSkinDisplayDesc version="1">
+    <ResID>1406001 </ResID>
+    <SkinTitle_SCN>特斯拉</SkinTitle_SCN>
+    <SkinTitle_EN>Titanius</SkinTitle_EN>
+    <SkinTitle_FCN>特斯拉</SkinTitle_FCN>
+    <Name_SCN>合金机器人</Name_SCN>
+    <Name_EN>Metal Gear</Name_EN>
+    <Name_FCN>合金机器人</Name_FCN>
+    <SkinDescOne_SCN>暴力金属的摇滚范</SkinDescOne_SCN>
+    <SkinDescOne_EN>暴力金属的摇滚范</SkinDescOne_EN>
+    <SkinDescOne_FCN>暴力金属的摇滚范</SkinDescOne_FCN>
+    <SkinDescTwo_SCN></SkinDescTwo_SCN>
+    <SkinDescTwo_EN></SkinDescTwo_EN>
+    <SkinDescTwo_FCN></SkinDescTwo_FCN>
+</ResSystemHeroSkinDisplayDesc>
+<ResSystemHeroSkinDisplayDesc version="1">
+    <ResID>1406002 </ResID>
+    <SkinTitle_SCN>特斯拉</SkinTitle_SCN>
+    <SkinTitle_EN>Titanius</SkinTitle_EN>
+    <SkinTitle_FCN>特斯拉</SkinTitle_FCN>
+    <Name_SCN>机械危机</Name_SCN>
+    <Name_EN>Power Surging</Name_EN>
+    <Name_FCN>机械危机</Name_FCN>
+    <SkinDescOne_SCN>机器的零件也会与时俱进！</SkinDescOne_SCN>
+    <SkinDescOne_EN>A machine gotta stay up-to-date!</SkinDescOne_EN>
+    <SkinDescOne_FCN>机器的零件也会与时俱进！</SkinDescOne_FCN>
+    <SkinDescTwo_SCN></SkinDescTwo_SCN>
+    <SkinDescTwo_EN></SkinDescTwo_EN>
+    <SkinDescTwo_FCN></SkinDescTwo_FCN>
+</ResSystemHeroSkinDisplayDesc>
+<ResSystemHeroSkinDisplayDesc version="1">
+    <ResID>1407001 </ResID>
+    <SkinTitle_SCN>泷</SkinTitle_SCN>
+    <SkinTitle_EN>Raine</SkinTitle_EN>
+    <SkinTitle_FCN>泷</SkinTitle_FCN>
+    <Name_SCN>影武者</Name_SCN>
+    <Name_EN>Shadow Tactics</Name_EN>
+    <Name_FCN>影武者</Name_FCN>
+    <SkinDescOne_SCN>TEST</SkinDescOne_SCN>
+    <SkinDescOne_EN>TEST</SkinDescOne_EN>
+    <SkinDescOne_FCN>TEST</SkinDescOne_FCN>
+    <SkinDescTwo_SCN></SkinDescTwo_SCN>
+    <SkinDescTwo_EN></SkinDescTwo_EN>
+    <SkinDescTwo_FCN></SkinDescTwo_FCN>
+</ResSystemHeroSkinDisplayDesc>
+<ResSystemHeroSkinDisplayDesc version="1">
+    <ResID>1407002 </ResID>
+    <SkinTitle_SCN>忍者</SkinTitle_SCN>
+    <SkinTitle_EN>Raine</SkinTitle_EN>
+    <SkinTitle_FCN>忍者</SkinTitle_FCN>
+    <Name_SCN>禁军之影</Name_SCN>
+    <Name_EN>Imperial Blade</Name_EN>
+    <Name_FCN>禁军之影</Name_FCN>
+    <SkinDescOne_SCN>为了禁军的荣耀！</SkinDescOne_SCN>
+    <SkinDescOne_EN>The Emperor protects!</SkinDescOne_EN>
+    <SkinDescOne_FCN>为了禁军的荣耀！</SkinDescOne_FCN>
+    <SkinDescTwo_SCN></SkinDescTwo_SCN>
+    <SkinDescTwo_EN></SkinDescTwo_EN>
+    <SkinDescTwo_FCN></SkinDescTwo_FCN>
+</ResSystemHeroSkinDisplayDesc>
+<ResSystemHeroSkinDisplayDesc version="1">
+    <ResID>1408001 </ResID>
+    <SkinTitle_SCN>天宝</SkinTitle_SCN>
+    <SkinTitle_EN>Yao</SkinTitle_EN>
+    <SkinTitle_FCN>天宝</SkinTitle_FCN>
+    <Name_SCN>暴走熊猫</Name_SCN>
+    <Name_EN>Loose Panda</Name_EN>
+    <Name_FCN>暴走熊猫</Name_FCN>
+    <SkinDescOne_SCN>暴力金属的摇滚范</SkinDescOne_SCN>
+    <SkinDescOne_EN>暴力金属的摇滚范</SkinDescOne_EN>
+    <SkinDescOne_FCN>暴力金属的摇滚范</SkinDescOne_FCN>
+    <SkinDescTwo_SCN></SkinDescTwo_SCN>
+    <SkinDescTwo_EN></SkinDescTwo_EN>
+    <SkinDescTwo_FCN></SkinDescTwo_FCN>
+</ResSystemHeroSkinDisplayDesc>
+<ResSystemHeroSkinDisplayDesc version="1">
+    <ResID>1408002 </ResID>
+    <SkinTitle_SCN>天宝</SkinTitle_SCN>
+    <SkinTitle_EN>Yao</SkinTitle_EN>
+    <SkinTitle_FCN>天宝</SkinTitle_FCN>
+    <Name_SCN>功夫大师</Name_SCN>
+    <Name_EN>Kung Fu Panda</Name_EN>
+    <Name_FCN>功夫大师</Name_FCN>
+    <SkinDescOne_SCN>熊猫会功夫，没人挡得住</SkinDescOne_SCN>
+    <SkinDescOne_EN>Don&apos;t even think about stopping a Kung Fu panda!</SkinDescOne_EN>
+    <SkinDescOne_FCN>熊猫会功夫，没人挡得住</SkinDescOne_FCN>
+    <SkinDescTwo_SCN>TEST</SkinDescTwo_SCN>
+    <SkinDescTwo_EN>TEST</SkinDescTwo_EN>
+    <SkinDescTwo_FCN>TEST</SkinDescTwo_FCN>
+</ResSystemHeroSkinDisplayDesc>
+<ResSystemHeroSkinDisplayDesc version="1">
+    <ResID>1409001 </ResID>
+    <SkinTitle_SCN>欧若拉</SkinTitle_SCN>
+    <SkinTitle_EN>Angelica</SkinTitle_EN>
+    <SkinTitle_FCN>欧若拉</SkinTitle_FCN>
+    <Name_SCN>圣洁之翼</Name_SCN>
+    <Name_EN>Wings of Sanctity</Name_EN>
+    <Name_FCN>圣洁之翼</Name_FCN>
+    <SkinDescOne_SCN>暴力金属的摇滚范</SkinDescOne_SCN>
+    <SkinDescOne_EN>暴力金属的摇滚范</SkinDescOne_EN>
+    <SkinDescOne_FCN>暴力金属的摇滚范</SkinDescOne_FCN>
+    <SkinDescTwo_SCN></SkinDescTwo_SCN>
+    <SkinDescTwo_EN></SkinDescTwo_EN>
+    <SkinDescTwo_FCN></SkinDescTwo_FCN>
+</ResSystemHeroSkinDisplayDesc>
+<ResSystemHeroSkinDisplayDesc version="1">
+    <ResID>1409002 </ResID>
+    <SkinTitle_SCN>欧若拉</SkinTitle_SCN>
+    <SkinTitle_EN>Angelica</SkinTitle_EN>
+    <SkinTitle_FCN>欧若拉</SkinTitle_FCN>
+    <Name_SCN>收割之镰</Name_SCN>
+    <Name_EN>Reaper of Souls</Name_EN>
+    <Name_FCN>收割之镰</Name_FCN>
+    <SkinDescOne_SCN>就算是天使，偶尔也会代班死神的工作。</SkinDescOne_SCN>
+    <SkinDescOne_EN>This is what happens when angels work double shifts.</SkinDescOne_EN>
+    <SkinDescOne_FCN>就算是天使，偶尔也会代班死神的工作。</SkinDescOne_FCN>
+    <SkinDescTwo_SCN></SkinDescTwo_SCN>
+    <SkinDescTwo_EN></SkinDescTwo_EN>
+    <SkinDescTwo_FCN></SkinDescTwo_FCN>
+</ResSystemHeroSkinDisplayDesc>
+<ResSystemHeroSkinDisplayDesc version="1">
+    <ResID>1410001 </ResID>
+    <SkinTitle_SCN>爱丽丝</SkinTitle_SCN>
+    <SkinTitle_EN>Sierra</SkinTitle_EN>
+    <SkinTitle_FCN>爱丽丝</SkinTitle_FCN>
+    <Name_SCN>魅影游侠</Name_SCN>
+    <Name_EN>The Elusive Gunner</Name_EN>
+    <Name_FCN>魅影游侠</Name_FCN>
+    <SkinDescOne_SCN>暴力金属的摇滚范</SkinDescOne_SCN>
+    <SkinDescOne_EN>暴力金属的摇滚范</SkinDescOne_EN>
+    <SkinDescOne_FCN>暴力金属的摇滚范</SkinDescOne_FCN>
+    <SkinDescTwo_SCN></SkinDescTwo_SCN>
+    <SkinDescTwo_EN></SkinDescTwo_EN>
+    <SkinDescTwo_FCN></SkinDescTwo_FCN>
+</ResSystemHeroSkinDisplayDesc>
+<ResSystemHeroSkinDisplayDesc version="1">
+    <ResID>1410002 </ResID>
+    <SkinTitle_SCN>爱丽丝</SkinTitle_SCN>
+    <SkinTitle_EN>Sierra</SkinTitle_EN>
+    <SkinTitle_FCN>爱丽丝</SkinTitle_FCN>
+    <Name_SCN>战场女武神</Name_SCN>
+    <Name_EN>Task Force</Name_EN>
+    <Name_FCN>战场女武神</Name_FCN>
+    <SkinDescOne_SCN>这个战场，有我就够了！</SkinDescOne_SCN>
+    <SkinDescOne_EN>I alone will finish this!</SkinDescOne_EN>
+    <SkinDescOne_FCN>这个战场，有我就够了！</SkinDescOne_FCN>
+    <SkinDescTwo_SCN></SkinDescTwo_SCN>
+    <SkinDescTwo_EN></SkinDescTwo_EN>
+    <SkinDescTwo_FCN></SkinDescTwo_FCN>
+</ResSystemHeroSkinDisplayDesc>
+<ResSystemHeroSkinDisplayDesc version="1">
+    <ResID>1411001 </ResID>
+    <SkinTitle_SCN>骁</SkinTitle_SCN>
+    <SkinTitle_EN>Kensei</SkinTitle_EN>
+    <SkinTitle_FCN>骁</SkinTitle_FCN>
+    <Name_SCN>鬼影狂刀</Name_SCN>
+    <Name_EN>The Kensei</Name_EN>
+    <Name_FCN>鬼影狂刀</Name_FCN>
+    <SkinDescOne_SCN>TEST</SkinDescOne_SCN>
+    <SkinDescOne_EN>TEST</SkinDescOne_EN>
+    <SkinDescOne_FCN>TEST</SkinDescOne_FCN>
+    <SkinDescTwo_SCN></SkinDescTwo_SCN>
+    <SkinDescTwo_EN></SkinDescTwo_EN>
+    <SkinDescTwo_FCN></SkinDescTwo_FCN>
+</ResSystemHeroSkinDisplayDesc>
+<ResSystemHeroSkinDisplayDesc version="1">
+    <ResID>1411002 </ResID>
+    <SkinTitle_SCN>骁</SkinTitle_SCN>
+    <SkinTitle_EN>Kensei</SkinTitle_EN>
+    <SkinTitle_FCN>骁</SkinTitle_FCN>
+    <Name_SCN>最后的武士</Name_SCN>
+    <Name_EN>The Last Samurai</Name_EN>
+    <Name_FCN>最后的武士</Name_FCN>
+    <SkinDescOne_SCN>在乱世之中，也要谨守武士之道！</SkinDescOne_SCN>
+    <SkinDescOne_EN>在乱世之中，也要谨守武士之道！</SkinDescOne_EN>
+    <SkinDescOne_FCN>在乱世之中，也要谨守武士之道！</SkinDescOne_FCN>
+    <SkinDescTwo_SCN></SkinDescTwo_SCN>
+    <SkinDescTwo_EN></SkinDescTwo_EN>
+    <SkinDescTwo_FCN></SkinDescTwo_FCN>
+</ResSystemHeroSkinDisplayDesc>
+<ResSystemHeroSkinDisplayDesc version="1">
+    <ResID>1412001 </ResID>
+    <SkinTitle_SCN>丸子</SkinTitle_SCN>
+    <SkinTitle_EN>Wuli</SkinTitle_EN>
+    <SkinTitle_FCN>丸子</SkinTitle_FCN>
+    <Name_SCN>红莲灯使</Name_SCN>
+    <Name_EN>The Lotus Herald</Name_EN>
+    <Name_FCN>红莲灯使</Name_FCN>
+    <SkinDescOne_SCN>TEST</SkinDescOne_SCN>
+    <SkinDescOne_EN>TEST</SkinDescOne_EN>
+    <SkinDescOne_FCN></SkinDescOne_FCN>
+    <SkinDescTwo_SCN></SkinDescTwo_SCN>
+    <SkinDescTwo_EN></SkinDescTwo_EN>
+    <SkinDescTwo_FCN></SkinDescTwo_FCN>
+</ResSystemHeroSkinDisplayDesc>
+<ResSystemHeroSkinDisplayDesc version="1">
+    <ResID>1412002 </ResID>
+    <SkinTitle_SCN>丸子</SkinTitle_SCN>
+    <SkinTitle_EN>Wuli</SkinTitle_EN>
+    <SkinTitle_FCN>丸子</SkinTitle_FCN>
+    <Name_SCN>万圣节女巫</Name_SCN>
+    <Name_EN>Trick or Treat</Name_EN>
+    <Name_FCN>万圣节女巫</Name_FCN>
+    <SkinDescOne_SCN>来一起参加万圣节派对吧！</SkinDescOne_SCN>
+    <SkinDescOne_EN>Join my Halloween party, folks!</SkinDescOne_EN>
+    <SkinDescOne_FCN>来一起参加万圣节派对吧！</SkinDescOne_FCN>
+    <SkinDescTwo_SCN></SkinDescTwo_SCN>
+    <SkinDescTwo_EN></SkinDescTwo_EN>
+    <SkinDescTwo_FCN></SkinDescTwo_FCN>
+</ResSystemHeroSkinDisplayDesc>
+<ResSystemHeroSkinDisplayDesc version="1">
+    <ResID>1413001 </ResID>
+    <SkinTitle_SCN>伊娃</SkinTitle_SCN>
+    <SkinTitle_EN>Leah</SkinTitle_EN>
+    <SkinTitle_FCN>伊娃</SkinTitle_FCN>
+    <Name_SCN>光之女</Name_SCN>
+    <Name_EN>The Maiden of Light</Name_EN>
+    <Name_FCN>光之女</Name_FCN>
+    <SkinDescOne_SCN>TEST</SkinDescOne_SCN>
+    <SkinDescOne_EN>TEST</SkinDescOne_EN>
+    <SkinDescOne_FCN>TEST</SkinDescOne_FCN>
+    <SkinDescTwo_SCN></SkinDescTwo_SCN>
+    <SkinDescTwo_EN></SkinDescTwo_EN>
+    <SkinDescTwo_FCN></SkinDescTwo_FCN>
+</ResSystemHeroSkinDisplayDesc>
+<ResSystemHeroSkinDisplayDesc version="1">
+    <ResID>1413002 </ResID>
+    <SkinTitle_SCN>伊娃</SkinTitle_SCN>
+    <SkinTitle_EN>Leah</SkinTitle_EN>
+    <SkinTitle_FCN>伊娃</SkinTitle_FCN>
+    <Name_SCN>学院甜心</Name_SCN>
+    <Name_EN>School Day</Name_EN>
+    <Name_FCN>学院甜心</Name_FCN>
+    <SkinDescOne_SCN>即使在校园里，伊娃依然是光芒四射的少女。</SkinDescOne_SCN>
+    <SkinDescOne_EN>Leah&apos;s light had started to manifest itself even before she graduated.</SkinDescOne_EN>
+    <SkinDescOne_FCN>即使在校园里，伊娃依然是光芒四射的少女。</SkinDescOne_FCN>
+    <SkinDescTwo_SCN></SkinDescTwo_SCN>
+    <SkinDescTwo_EN></SkinDescTwo_EN>
+    <SkinDescTwo_FCN></SkinDescTwo_FCN>
+</ResSystemHeroSkinDisplayDesc>
+<ResSystemHeroSkinDisplayDesc version="1">
+    <ResID>1414001 </ResID>
+    <SkinTitle_SCN>阿灵</SkinTitle_SCN>
+    <SkinTitle_EN>Zore</SkinTitle_EN>
+    <SkinTitle_FCN>阿灵</SkinTitle_FCN>
+    <Name_SCN>驭风之影</Name_SCN>
+    <Name_EN>Wind Sprite</Name_EN>
+    <Name_FCN>驭风之影</Name_FCN>
+    <SkinDescOne_SCN>TEST</SkinDescOne_SCN>
+    <SkinDescOne_EN>TEST</SkinDescOne_EN>
+    <SkinDescOne_FCN>TEST</SkinDescOne_FCN>
+    <SkinDescTwo_SCN></SkinDescTwo_SCN>
+    <SkinDescTwo_EN></SkinDescTwo_EN>
+    <SkinDescTwo_FCN></SkinDescTwo_FCN>
+</ResSystemHeroSkinDisplayDesc>
+<ResSystemHeroSkinDisplayDesc version="1">
+    <ResID>1414002 </ResID>
+    <SkinTitle_SCN>阿灵</SkinTitle_SCN>
+    <SkinTitle_EN>Zore</SkinTitle_EN>
+    <SkinTitle_FCN>阿灵</SkinTitle_FCN>
+    <Name_SCN>皇家猎手</Name_SCN>
+    <Name_EN>Royal Hunter</Name_EN>
+    <Name_FCN>皇家猎手</Name_FCN>
+    <SkinDescOne_SCN>王国的敌人，一个都别想逃！</SkinDescOne_SCN>
+    <SkinDescOne_EN>Our enemies will have nowhere to hide!</SkinDescOne_EN>
+    <SkinDescOne_FCN>王国的敌人，一个都别想逃！</SkinDescOne_FCN>
+    <SkinDescTwo_SCN></SkinDescTwo_SCN>
+    <SkinDescTwo_EN></SkinDescTwo_EN>
+    <SkinDescTwo_FCN></SkinDescTwo_FCN>
+</ResSystemHeroSkinDisplayDesc>
+<ResSystemHeroSkinDisplayDesc version="1">
+    <ResID>1415001 </ResID>
+    <SkinTitle_SCN>白龙</SkinTitle_SCN>
+    <SkinTitle_EN>Bai</SkinTitle_EN>
+    <SkinTitle_FCN>白龙</SkinTitle_FCN>
+    <Name_SCN>金羽鹤仙</Name_SCN>
+    <Name_EN>Golden Quills</Name_EN>
+    <Name_FCN>金羽鹤仙</Name_FCN>
+    <SkinDescOne_SCN>TEST</SkinDescOne_SCN>
+    <SkinDescOne_EN>TEST</SkinDescOne_EN>
+    <SkinDescOne_FCN>TEST</SkinDescOne_FCN>
+    <SkinDescTwo_SCN></SkinDescTwo_SCN>
+    <SkinDescTwo_EN></SkinDescTwo_EN>
+    <SkinDescTwo_FCN></SkinDescTwo_FCN>
+</ResSystemHeroSkinDisplayDesc>
+<ResSystemHeroSkinDisplayDesc version="1">
+    <ResID>1416001 </ResID>
+    <SkinTitle_SCN>貂蝉</SkinTitle_SCN>
+    <SkinTitle_EN>Diao</SkinTitle_EN>
+    <SkinTitle_FCN>貂蝉</SkinTitle_FCN>
+    <Name_SCN>绝代舞姬</Name_SCN>
+    <Name_EN>Choreography</Name_EN>
+    <Name_FCN>绝代舞姬</Name_FCN>
+    <SkinDescOne_SCN>TEST</SkinDescOne_SCN>
+    <SkinDescOne_EN>TEST</SkinDescOne_EN>
+    <SkinDescOne_FCN>TEST</SkinDescOne_FCN>
+    <SkinDescTwo_SCN></SkinDescTwo_SCN>
+    <SkinDescTwo_EN></SkinDescTwo_EN>
+    <SkinDescTwo_FCN></SkinDescTwo_FCN>
+</ResSystemHeroSkinDisplayDesc>
+<ResSystemHeroSkinDisplayDesc version="1">
+    <ResID>1416002 </ResID>
+    <SkinTitle_SCN>貂蝉</SkinTitle_SCN>
+    <SkinTitle_EN>Diao</SkinTitle_EN>
+    <SkinTitle_FCN>貂蝉</SkinTitle_FCN>
+    <Name_SCN>闭月之姿</Name_SCN>
+    <Name_EN>Charming Crush</Name_EN>
+    <Name_FCN>闭月之姿</Name_FCN>
+    <SkinDescOne_SCN>一顾倾人城，再顾倾人国</SkinDescOne_SCN>
+    <SkinDescOne_EN>Such look allows you to capture an entire city with just a wink.</SkinDescOne_EN>
+    <SkinDescOne_FCN>一顾倾人城，再顾倾人国</SkinDescOne_FCN>
+    <SkinDescTwo_SCN></SkinDescTwo_SCN>
+    <SkinDescTwo_EN></SkinDescTwo_EN>
+    <SkinDescTwo_FCN></SkinDescTwo_FCN>
+</ResSystemHeroSkinDisplayDesc>
+<ResSystemHeroSkinDisplayDesc version="1">
+    <ResID>1417001 </ResID>
+    <SkinTitle_SCN>米琪</SkinTitle_SCN>
+    <SkinTitle_EN>Hilda</SkinTitle_EN>
+    <SkinTitle_FCN>米琪</SkinTitle_FCN>
+    <Name_SCN>风灵猎手</Name_SCN>
+    <Name_EN>Windrunner</Name_EN>
+    <Name_FCN>风灵猎手</Name_FCN>
+    <SkinDescOne_SCN>暴力金属的摇滚范</SkinDescOne_SCN>
+    <SkinDescOne_EN>暴力金属的摇滚范</SkinDescOne_EN>
+    <SkinDescOne_FCN>暴力金属的摇滚范</SkinDescOne_FCN>
+    <SkinDescTwo_SCN></SkinDescTwo_SCN>
+    <SkinDescTwo_EN></SkinDescTwo_EN>
+    <SkinDescTwo_FCN></SkinDescTwo_FCN>
+</ResSystemHeroSkinDisplayDesc>
+<ResSystemHeroSkinDisplayDesc version="1">
+    <ResID>1417002 </ResID>
+    <SkinTitle_SCN>米琪</SkinTitle_SCN>
+    <SkinTitle_EN>Hilda</SkinTitle_EN>
+    <SkinTitle_FCN>米琪</SkinTitle_FCN>
+    <Name_SCN>海盗船长</Name_SCN>
+    <Name_EN>Pirate Captain</Name_EN>
+    <Name_FCN>海盗船长</Name_FCN>
+    <SkinDescOne_SCN>就算到了海上，猎物依然逃不出猎手的掌心！</SkinDescOne_SCN>
+    <SkinDescOne_EN>Nothing escapes my hands, even at sea!</SkinDescOne_EN>
+    <SkinDescOne_FCN>就算到了海上，猎物依然逃不出猎手的掌心！</SkinDescOne_FCN>
+    <SkinDescTwo_SCN></SkinDescTwo_SCN>
+    <SkinDescTwo_EN></SkinDescTwo_EN>
+    <SkinDescTwo_FCN></SkinDescTwo_FCN>
+</ResSystemHeroSkinDisplayDesc>
+<ResSystemHeroSkinDisplayDesc version="1">
+    <ResID>1601001 </ResID>
+    <SkinTitle_SCN>test</SkinTitle_SCN>
+    <SkinTitle_EN>test</SkinTitle_EN>
+    <SkinTitle_FCN>test</SkinTitle_FCN>
+    <Name_SCN>test</Name_SCN>
+    <Name_EN>test</Name_EN>
+    <Name_FCN>test</Name_FCN>
+    <SkinDescOne_SCN>暴力金属的摇滚范</SkinDescOne_SCN>
+    <SkinDescOne_EN>暴力金属的摇滚范</SkinDescOne_EN>
+    <SkinDescOne_FCN>暴力金属的摇滚范</SkinDescOne_FCN>
+    <SkinDescTwo_SCN></SkinDescTwo_SCN>
+    <SkinDescTwo_EN></SkinDescTwo_EN>
+    <SkinDescTwo_FCN></SkinDescTwo_FCN>
+</ResSystemHeroSkinDisplayDesc>
+</ResSystemHeroSkinDisplayDesc_Tab>

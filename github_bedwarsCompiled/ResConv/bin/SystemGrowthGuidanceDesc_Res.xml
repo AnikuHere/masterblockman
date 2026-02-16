@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<ResSystemGrowthGuidanceDesc_Tab>
+<TResHeadAll version="5">
+    <resHead type="TResHead">
+        <Magic>1397052237 </Magic>
+        <Version>6 </Version>
+        <Unit>1031 </Unit>
+        <Count>7 </Count>
+        <MetalibHash>531d5b4a397ad5b3c0fbfb5cc8059e55</MetalibHash>
+        <ResVersion>0 </ResVersion>
+        <CreateTime>2023-04-19 20:42:32</CreateTime>
+        <ResEncording>UTF-8</ResEncording>
+        <ContentHash>d1dca52be32822b9f91290a533f1627c</ContentHash>
+    </resHead>
+    <resHeadExt type="TResHeadExt">
+        <DataOffset>136 </DataOffset>
+    </resHeadExt>
+</TResHeadAll>
+<ResSystemGrowthGuidanceDesc version="1">
+    <ResID>1 </ResID>
+    <Icon>UITexture/system/duanwei/T_ICON_duanwei_07</Icon>
+    <Name_SCN>实战对抗</Name_SCN>
+    <Name_FCN>实战对抗</Name_FCN>
+    <Name_EN>Real Combat</Name_EN>
+    <Desc_SCN>和海量玩家实时匹配对抗，或者参与排位竞技，无论胜负均可获得大量金币！</Desc_SCN>
+    <Desc_FCN>和海量玩家实时匹配对抗，或者参与排位竞技，无论胜负均可获得大量金币！</Desc_FCN>
+    <Desc_EN>Join millions of players in Quick Play or Ranked matches to win Hero Coins matter you win or lose!</Desc_EN>
+    <Type>1 </Type>
+    <UISkipType>70 </UISkipType>
+</ResSystemGrowthGuidanceDesc>
+<ResSystemGrowthGuidanceDesc version="1">
+    <ResID>2 </ResID>
+    <Icon>UITexture/system/duanwei/T_ICON_duanwei_07</Icon>
+    <Name_SCN>日常任务</Name_SCN>
+    <Name_FCN>日常任务</Name_FCN>
+    <Name_EN>Daily Task</Name_EN>
+    <Desc_SCN>完成日常任务可以从活跃度宝箱中获得海量金币！</Desc_SCN>
+    <Desc_FCN>完成日常任务可以从活跃度宝箱中获得海量金币！</Desc_FCN>
+    <Desc_EN>Win a big amount of Hero Coins by completing daily tasks and obtaining Activity Chests!</Desc_EN>
+    <Type>1 </Type>
+    <UISkipType>60 </UISkipType>
+</ResSystemGrowthGuidanceDesc>
+<ResSystemGrowthGuidanceDesc version="1">
+    <ResID>3 </ResID>
+    <Icon>UITexture/system/duanwei/T_ICON_duanwei_07</Icon>
+    <Name_SCN>商城购买</Name_SCN>
+    <Name_FCN>商城购买</Name_FCN>
+    <Name_EN>Go Shopping</Name_EN>
+    <Desc_SCN>花费金币、魂石、战魂币可以在商城中购买绝大多数的英雄！</Desc_SCN>
+    <Desc_FCN>花费金币、魂石、战魂币可以在商城中购买绝大多数的英雄！</Desc_FCN>
+    <Desc_EN>You can buy most of the Heroes with Hero Coins, Gems, and Tickets in the Shop!</Desc_EN>
+    <Type>2 </Type>
+    <UISkipType>100 </UISkipType>
+</ResSystemGrowthGuidanceDesc>
+<ResSystemGrowthGuidanceDesc version="1">
+    <ResID>4 </ResID>
+    <Icon>UITexture/system/renwu/T_ICON_renwu_huikanluxiang_new</Icon>
+    <Name_SCN>回看录像</Name_SCN>
+    <Name_FCN>回看录像</Name_FCN>
+    <Name_EN>Watch Reply</Name_EN>
+    <Desc_SCN>知己知彼，百战不败！观看录像了解对手的战术技巧</Desc_SCN>
+    <Desc_FCN>知己知彼，百战不败！观看录像了解对手的战术技巧</Desc_FCN>
+    <Desc_EN>Know yourself, know your enemies! View the comprehensive advanced guide!</Desc_EN>
+    <Type>3 </Type>
+    <UISkipType>120 </UISkipType>
+</ResSystemGrowthGuidanceDesc>
+<ResSystemGrowthGuidanceDesc version="1">
+    <ResID>5 </ResID>
+    <Icon>UITexture/system/renwu/T_ICON_renwu_yingxionggonglue_new</Icon>
+    <Name_SCN>技巧教学</Name_SCN>
+    <Name_FCN>技巧教学</Name_FCN>
+    <Name_EN>Advanced Guide</Name_EN>
+    <Desc_SCN>大量视频攻略，带你熟悉各种操作</Desc_SCN>
+    <Desc_FCN>大量视频攻略，带你熟悉各种操作</Desc_FCN>
+    <Desc_EN>We offer a myriad of tutorials to walk you through all kinds of tricks and tips.</Desc_EN>
+    <Type>3 </Type>
+    <UISkipType>91 </UISkipType>
+</ResSystemGrowthGuidanceDesc>
+<ResSystemGrowthGuidanceDesc version="1">
+    <ResID>6 </ResID>
+    <Icon>UITexture/system/renwu/T_ICON_renwu_zhongzugonglue_new</Icon>
+    <Name_SCN>种族攻略</Name_SCN>
+    <Name_FCN>种族攻略</Name_FCN>
+    <Name_EN>Racial Guide</Name_EN>
+    <Desc_SCN>领略各个种族的精彩，享受不同的游戏体验</Desc_SCN>
+    <Desc_FCN>领略各个种族的精彩，享受不同的游戏体验</Desc_FCN>
+    <Desc_EN>Explore four races with distinctive traits to enjoy a diverse game experience.</Desc_EN>
+    <Type>3 </Type>
+    <UISkipType>14 </UISkipType>
+</ResSystemGrowthGuidanceDesc>
+<ResSystemGrowthGuidanceDesc version="1">
+    <ResID>7 </ResID>
+    <Icon>UITexture/system/renwu/T_ICON_renwu_xunlianying_new</Icon>
+    <Name_SCN>训练营</Name_SCN>
+    <Name_FCN>训练营</Name_FCN>
+    <Name_EN>Training</Name_EN>
+    <Desc_SCN>免费英雄模拟实战训练，全面的技巧教学让你的操作更加犀利</Desc_SCN>
+    <Desc_FCN>免费英雄模拟实战训练，全面的技巧教学让你的操作更加犀利</Desc_FCN>
+    <Desc_EN>Free Hero trials in Training with plenty of advanced guides. You&apos;ll be a pro in no time!</Desc_EN>
+    <Type>3 </Type>
+    <UISkipType>90 </UISkipType>
+</ResSystemGrowthGuidanceDesc>
+</ResSystemGrowthGuidanceDesc_Tab>

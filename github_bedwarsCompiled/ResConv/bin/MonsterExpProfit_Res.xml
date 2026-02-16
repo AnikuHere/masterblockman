@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<ResMonsterExpProfit_Tab>
+<TResHeadAll version="5">
+    <resHead type="TResHead">
+        <Magic>1397052237 </Magic>
+        <Version>6 </Version>
+        <Unit>8 </Unit>
+        <Count>10 </Count>
+        <MetalibHash>531d5b4a397ad5b3c0fbfb5cc8059e55</MetalibHash>
+        <ResVersion>0 </ResVersion>
+        <CreateTime>2023-04-19 20:42:30</CreateTime>
+        <ResEncording>UTF-8</ResEncording>
+        <ContentHash>f792f657137a198383afa9ab2a1551a0</ContentHash>
+    </resHead>
+    <resHeadExt type="TResHeadExt">
+        <DataOffset>136 </DataOffset>
+    </resHeadExt>
+</TResHeadAll>
+<ResMonsterExpProfit version="1">
+    <HeroLv>1 </HeroLv>
+    <AddExpRat>8000 </AddExpRat>
+</ResMonsterExpProfit>
+<ResMonsterExpProfit version="1">
+    <HeroLv>2 </HeroLv>
+    <AddExpRat>7000 </AddExpRat>
+</ResMonsterExpProfit>
+<ResMonsterExpProfit version="1">
+    <HeroLv>3 </HeroLv>
+    <AddExpRat>6200 </AddExpRat>
+</ResMonsterExpProfit>
+<ResMonsterExpProfit version="1">
+    <HeroLv>4 </HeroLv>
+    <AddExpRat>5500 </AddExpRat>
+</ResMonsterExpProfit>
+<ResMonsterExpProfit version="1">
+    <HeroLv>5 </HeroLv>
+    <AddExpRat>5000 </AddExpRat>
+</ResMonsterExpProfit>
+<ResMonsterExpProfit version="1">
+    <HeroLv>6 </HeroLv>
+    <AddExpRat>5000 </AddExpRat>
+</ResMonsterExpProfit>
+<ResMonsterExpProfit version="1">
+    <HeroLv>7 </HeroLv>
+    <AddExpRat>5000 </AddExpRat>
+</ResMonsterExpProfit>
+<ResMonsterExpProfit version="1">
+    <HeroLv>8 </HeroLv>
+    <AddExpRat>5000 </AddExpRat>
+</ResMonsterExpProfit>
+<ResMonsterExpProfit version="1">
+    <HeroLv>9 </HeroLv>
+    <AddExpRat>5000 </AddExpRat>
+</ResMonsterExpProfit>
+<ResMonsterExpProfit version="1">
+    <HeroLv>10 </HeroLv>
+    <AddExpRat>5000 </AddExpRat>
+</ResMonsterExpProfit>
+</ResMonsterExpProfit_Tab>

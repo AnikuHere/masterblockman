@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<ResRechargeDesc_Tab>
+<TResHeadAll version="5">
+    <resHead type="TResHead">
+        <Magic>1397052237 </Magic>
+        <Version>6 </Version>
+        <Unit>272 </Unit>
+        <Count>8 </Count>
+        <MetalibHash>531d5b4a397ad5b3c0fbfb5cc8059e55</MetalibHash>
+        <ResVersion>0 </ResVersion>
+        <CreateTime>2023-04-19 20:42:35</CreateTime>
+        <ResEncording>UTF-8</ResEncording>
+        <ContentHash>8a68c88b2edeb15c6818be6a8c1a2f76</ContentHash>
+    </resHead>
+    <resHeadExt type="TResHeadExt">
+        <DataOffset>136 </DataOffset>
+    </resHeadExt>
+</TResHeadAll>
+<ResRechargeDesc version="1">
+    <ID>1 </ID>
+    <GoodsID>ma76.10dianquan</GoodsID>
+    <Desc>10战魂币</Desc>
+    <Price>1 </Price>
+    <GetRecharge>10 </GetRecharge>
+    <AppendRecharge>0 </AppendRecharge>
+    <IconPath></IconPath>
+</ResRechargeDesc>
+<ResRechargeDesc version="1">
+    <ID>2 </ID>
+    <GoodsID>ma76.60dianquan</GoodsID>
+    <Desc>60战魂币</Desc>
+    <Price>6 </Price>
+    <GetRecharge>60 </GetRecharge>
+    <AppendRecharge>0 </AppendRecharge>
+    <IconPath></IconPath>
+</ResRechargeDesc>
+<ResRechargeDesc version="1">
+    <ID>3 </ID>
+    <GoodsID>ma76.450dianquan</GoodsID>
+    <Desc>450战魂币</Desc>
+    <Price>45 </Price>
+    <GetRecharge>450 </GetRecharge>
+    <AppendRecharge>25 </AppendRecharge>
+    <IconPath></IconPath>
+</ResRechargeDesc>
+<ResRechargeDesc version="1">
+    <ID>4 </ID>
+    <GoodsID>ma76.680dianquan</GoodsID>
+    <Desc>680战魂币</Desc>
+    <Price>68 </Price>
+    <GetRecharge>680 </GetRecharge>
+    <AppendRecharge>35 </AppendRecharge>
+    <IconPath></IconPath>
+</ResRechargeDesc>
+<ResRechargeDesc version="1">
+    <ID>5 </ID>
+    <GoodsID>ma76.1180dianquan</GoodsID>
+    <Desc>1180战魂币</Desc>
+    <Price>118 </Price>
+    <GetRecharge>1180 </GetRecharge>
+    <AppendRecharge>60 </AppendRecharge>
+    <IconPath></IconPath>
+</ResRechargeDesc>
+<ResRechargeDesc version="1">
+    <ID>6 </ID>
+    <GoodsID>ma76.1980dianquan</GoodsID>
+    <Desc>1980战魂币</Desc>
+    <Price>198 </Price>
+    <GetRecharge>1980 </GetRecharge>
+    <AppendRecharge>120 </AppendRecharge>
+    <IconPath></IconPath>
+</ResRechargeDesc>
+<ResRechargeDesc version="1">
+    <ID>7 </ID>
+    <GoodsID>ma76.3480dianquan</GoodsID>
+    <Desc>3480战魂币</Desc>
+    <Price>348 </Price>
+    <GetRecharge>3480 </GetRecharge>
+    <AppendRecharge>210 </AppendRecharge>
+    <IconPath></IconPath>
+</ResRechargeDesc>
+<ResRechargeDesc version="1">
+    <ID>8 </ID>
+    <GoodsID>ma76.6480dianquan</GoodsID>
+    <Desc>6480战魂币</Desc>
+    <Price>648 </Price>
+    <GetRecharge>6480 </GetRecharge>
+    <AppendRecharge>388 </AppendRecharge>
+    <IconPath></IconPath>
+</ResRechargeDesc>
+</ResRechargeDesc_Tab>

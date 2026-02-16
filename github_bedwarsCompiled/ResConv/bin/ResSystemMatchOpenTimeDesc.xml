@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<ResSystemMatchOpenTimeDesc_Tab>
+<TResHeadAll version="5">
+    <resHead type="TResHead">
+        <Magic>1397052237 </Magic>
+        <Version>6 </Version>
+        <Unit>536 </Unit>
+        <Count>15 </Count>
+        <MetalibHash>531d5b4a397ad5b3c0fbfb5cc8059e55</MetalibHash>
+        <ResVersion>0 </ResVersion>
+        <CreateTime>2023-04-19 20:42:34</CreateTime>
+        <ResEncording>UTF-8</ResEncording>
+        <ContentHash>61e5e344dc65a8ea0a3ea0b3923f69a5</ContentHash>
+    </resHead>
+    <resHeadExt type="TResHeadExt">
+        <DataOffset>136 </DataOffset>
+    </resHeadExt>
+</TResHeadAll>
+<ResSystemMatchOpenTimeDesc version="1">
+    <VsMode>1 </VsMode>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Maps type="ResSystemMatchOpenOne">
+        <Type>1 </Type>
+        <Week>0 </Week>
+        <DayStartTime>12-00-00</DayStartTime>
+        <DayEndTime>14-00-00</DayEndTime>
+    </Maps>
+    <Maps type="ResSystemMatchOpenOne">
+        <Type>1 </Type>
+        <Week>0 </Week>
+        <DayStartTime>18-00-00</DayStartTime>
+        <DayEndTime>1-00-00</DayEndTime>
+    </Maps>
+    <Maps type="ResSystemMatchOpenOne">
+        <Type>0 </Type>
+        <Week>0 </Week>
+        <DayStartTime></DayStartTime>
+        <DayEndTime></DayEndTime>
+    </Maps>
+    <Maps type="ResSystemMatchOpenOne">
+        <Type>0 </Type>
+        <Week>0 </Week>
+        <DayStartTime></DayStartTime>
+        <DayEndTime></DayEndTime>
+    </Maps>
+    <OwnHeroCount>3 </OwnHeroCount>
+    <PlayerLevel>6 </PlayerLevel>
+</ResSystemMatchOpenTimeDesc>
+<ResSystemMatchOpenTimeDesc version="1">
+    <VsMode>1 </VsMode>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Maps type="ResSystemMatchOpenOne">
+        <Type>0 </Type>
+        <Week>0 </Week>
+        <DayStartTime></DayStartTime>
+        <DayEndTime></DayEndTime>
+    </Maps>
+    <Maps type="ResSystemMatchOpenOne">
+        <Type>0 </Type>
+        <Week>0 </Week>
+        <DayStartTime></DayStartTime>
+        <DayEndTime></DayEndTime>
+    </Maps>
+    <Maps type="ResSystemMatchOpenOne">
+        <Type>0 </Type>
+        <Week>0 </Week>
+        <DayStartTime></DayStartTime>
+        <DayEndTime></DayEndTime>
+    </Maps>
+    <Maps type="ResSystemMatchOpenOne">
+        <Type>0 </Type>
+        <Week>0 </Week>
+        <DayStartTime></DayStartTime>
+        <DayEndTime></DayEndTime>
+    </Maps>
+    <OwnHeroCount>3 </OwnHeroCount>
+    <PlayerLevel>6 </PlayerLevel>
+</ResSystemMatchOpenTimeDesc>
+<ResSystemMatchOpenTimeDesc version="1">
+    <VsMode>1 </VsMode>
+    <MutiPlayMode>3 </MutiPlayMode>
+    <Maps type="ResSystemMatchOpenOne">
+        <Type>0 </Type>
+        <Week>0 </Week>
+        <DayStartTime></DayStartTime>
+        <DayEndTime></DayEndTime>
+    </Maps>
+    <Maps type="ResSystemMatchOpenOne">
+        <Type>0 </Type>
+        <Week>0 </Week>
+        <DayStartTime></DayStartTime>
+        <DayEndTime></DayEndTime>
+    </Maps>
+    <Maps type="ResSystemMatchOpenOne">
+        <Type>0 </Type>
+        <Week>0 </Week>
+        <DayStartTime></DayStartTime>
+        <DayEndTime></DayEndTime>
+    </Maps>
+    <Maps type="ResSystemMatchOpenOne">
+        <Type>0 </Type>
+        <Week>0 </Week>
+        <DayStartTime></DayStartTime>
+        <DayEndTime></DayEndTime>
+    </Maps>
+    <OwnHeroCount>3 </OwnHeroCount>
+    <PlayerLevel>6 </PlayerLevel>
+</ResSystemMatchOpenTimeDesc>
+<ResSystemMatchOpenTimeDesc version="1">
+    <VsMode>2 </VsMode>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Maps type="ResSystemMatchOpenOne">
+        <Type>0 </Type>
+        <Week>0 </Week>
+        <DayStartTime></DayStartTime>
+        <DayEndTime></DayEndTime>
+    </Maps>
+    <Maps type="ResSystemMatchOpenOne">
+        <Type>0 </Type>
+        <Week>0 </Week>
+        <DayStartTime></DayStartTime>
+        <DayEndTime></DayEndTime>
+    </Maps>
+    <Maps type="ResSystemMatchOpenOne">
+        <Type>0 </Type>
+        <Week>0 </Week>
+        <DayStartTime></DayStartTime>
+        <DayEndTime></DayEndTime>
+    </Maps>
+    <Maps type="ResSystemMatchOpenOne">
+        <Type>0 </Type>
+        <Week>0 </Week>
+        <DayStartTime></DayStartTime>
+        <DayEndTime></DayEndTime>
+    </Maps>
+    <OwnHeroCount>3 </OwnHeroCount>
+    <PlayerLevel>6 </PlayerLevel>
+</ResSystemMatchOpenTimeDesc>
+<ResSystemMatchOpenTimeDesc version="1">
+    <VsMode>2 </VsMode>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Maps type="ResSystemMatchOpenOne">
+        <Type>0 </Type>
+        <Week>0 </Week>
+        <DayStartTime></DayStartTime>
+        <DayEndTime></DayEndTime>
+    </Maps>
+    <Maps type="ResSystemMatchOpenOne">
+        <Type>0 </Type>
+        <Week>0 </Week>
+        <DayStartTime></DayStartTime>
+        <DayEndTime></DayEndTime>
+    </Maps>
+    <Maps type="ResSystemMatchOpenOne">
+        <Type>0 </Type>
+        <Week>0 </Week>
+        <DayStartTime></DayStartTime>
+        <DayEndTime></DayEndTime>
+    </Maps>
+    <Maps type="ResSystemMatchOpenOne">
+        <Type>0 </Type>
+        <Week>0 </Week>
+        <DayStartTime></DayStartTime>
+        <DayEndTime></DayEndTime>
+    </Maps>
+    <OwnHeroCount>3 </OwnHeroCount>
+    <PlayerLevel>6 </PlayerLevel>
+</ResSystemMatchOpenTimeDesc>
+<ResSystemMatchOpenTimeDesc version="1">
+    <VsMode>2 </VsMode>
+    <MutiPlayMode>3 </MutiPlayMode>
+    <Maps type="ResSystemMatchOpenOne">
+        <Type>0 </Type>
+        <Week>0 </Week>
+        <DayStartTime></DayStartTime>
+        <DayEndTime></DayEndTime>
+    </Maps>
+    <Maps type="ResSystemMatchOpenOne">
+        <Type>0 </Type>
+        <Week>0 </Week>
+        <DayStartTime></DayStartTime>
+        <DayEndTime></DayEndTime>
+    </Maps>
+    <Maps type="ResSystemMatchOpenOne">
+        <Type>0 </Type>
+        <Week>0 </Week>
+        <DayStartTime></DayStartTime>
+        <DayEndTime></DayEndTime>
+    </Maps>
+    <Maps type="ResSystemMatchOpenOne">
+        <Type>0 </Type>
+        <Week>0 </Week>
+        <DayStartTime></DayStartTime>
+        <DayEndTime></DayEndTime>
+    </Maps>
+    <OwnHeroCount>3 </OwnHeroCount>
+    <PlayerLevel>6 </PlayerLevel>
+</ResSystemMatchOpenTimeDesc>
+<ResSystemMatchOpenTimeDesc version="1">
+    <VsMode>3 </VsMode>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Maps type="ResSystemMatchOpenOne">
+        <Type>0 </Type>
+        <Week>0 </Week>
+        <DayStartTime></DayStartTime>
+        <DayEndTime></DayEndTime>
+    </Maps>
+    <Maps type="ResSystemMatchOpenOne">
+        <Type>0 </Type>
+        <Week>0 </Week>
+        <DayStartTime></DayStartTime>
+        <DayEndTime></DayEndTime>
+    </Maps>
+    <Maps type="ResSystemMatchOpenOne">
+        <Type>0 </Type>
+        <Week>0 </Week>
+        <DayStartTime></DayStartTime>
+        <DayEndTime></DayEndTime>
+    </Maps>
+    <Maps type="ResSystemMatchOpenOne">
+        <Type>0 </Type>
+        <Week>0 </Week>
+        <DayStartTime></DayStartTime>
+        <DayEndTime></DayEndTime>
+    </Maps>
+    <OwnHeroCount>3 </OwnHeroCount>
+    <PlayerLevel>6 </PlayerLevel>
+</ResSystemMatchOpenTimeDesc>
+<ResSystemMatchOpenTimeDesc version="1">
+    <VsMode>3 </VsMode>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Maps type="ResSystemMatchOpenOne">
+        <Type>0 </Type>
+        <Week>0 </Week>
+        <DayStartTime></DayStartTime>
+        <DayEndTime></DayEndTime>
+    </Maps>
+    <Maps type="ResSystemMatchOpenOne">
+        <Type>0 </Type>
+        <Week>0 </Week>
+        <DayStartTime></DayStartTime>
+        <DayEndTime></DayEndTime>
+    </Maps>
+    <Maps type="ResSystemMatchOpenOne">
+        <Type>0 </Type>
+        <Week>0 </Week>
+        <DayStartTime></DayStartTime>
+        <DayEndTime></DayEndTime>
+    </Maps>
+    <Maps type="ResSystemMatchOpenOne">
+        <Type>0 </Type>
+        <Week>0 </Week>
+        <DayStartTime></DayStartTime>
+        <DayEndTime></DayEndTime>
+    </Maps>
+    <OwnHeroCount>3 </OwnHeroCount>
+    <PlayerLevel>6 </PlayerLevel>
+</ResSystemMatchOpenTimeDesc>
+<ResSystemMatchOpenTimeDesc version="1">
+    <VsMode>3 </VsMode>
+    <MutiPlayMode>3 </MutiPlayMode>
+    <Maps type="ResSystemMatchOpenOne">
+        <Type>0 </Type>
+        <Week>0 </Week>
+        <DayStartTime></DayStartTime>
+        <DayEndTime></DayEndTime>
+    </Maps>
+    <Maps type="ResSystemMatchOpenOne">
+        <Type>0 </Type>
+        <Week>0 </Week>
+        <DayStartTime></DayStartTime>
+        <DayEndTime></DayEndTime>
+    </Maps>
+    <Maps type="ResSystemMatchOpenOne">
+        <Type>0 </Type>
+        <Week>0 </Week>
+        <DayStartTime></DayStartTime>
+        <DayEndTime></DayEndTime>
+    </Maps>
+    <Maps type="ResSystemMatchOpenOne">
+        <Type>0 </Type>
+        <Week>0 </Week>
+        <DayStartTime></DayStartTime>
+        <DayEndTime></DayEndTime>
+    </Maps>
+    <OwnHeroCount>3 </OwnHeroCount>
+    <PlayerLevel>6 </PlayerLevel>
+</ResSystemMatchOpenTimeDesc>
+<ResSystemMatchOpenTimeDesc version="1">
+    <VsMode>4 </VsMode>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Maps type="ResSystemMatchOpenOne">
+        <Type>0 </Type>
+        <Week>0 </Week>
+        <DayStartTime></DayStartTime>
+        <DayEndTime></DayEndTime>
+    </Maps>
+    <Maps type="ResSystemMatchOpenOne">
+        <Type>0 </Type>
+        <Week>0 </Week>
+        <DayStartTime></DayStartTime>
+        <DayEndTime></DayEndTime>
+    </Maps>
+    <Maps type="ResSystemMatchOpenOne">
+        <Type>0 </Type>
+        <Week>0 </Week>
+        <DayStartTime></DayStartTime>
+        <DayEndTime></DayEndTime>
+    </Maps>
+    <Maps type="ResSystemMatchOpenOne">
+        <Type>0 </Type>
+        <Week>0 </Week>
+        <DayStartTime></DayStartTime>
+        <DayEndTime></DayEndTime>
+    </Maps>
+    <OwnHeroCount>3 </OwnHeroCount>
+    <PlayerLevel>6 </PlayerLevel>
+</ResSystemMatchOpenTimeDesc>
+<ResSystemMatchOpenTimeDesc version="1">
+    <VsMode>4 </VsMode>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Maps type="ResSystemMatchOpenOne">
+        <Type>0 </Type>
+        <Week>0 </Week>
+        <DayStartTime></DayStartTime>
+        <DayEndTime></DayEndTime>
+    </Maps>
+    <Maps type="ResSystemMatchOpenOne">
+        <Type>0 </Type>
+        <Week>0 </Week>
+        <DayStartTime></DayStartTime>
+        <DayEndTime></DayEndTime>
+    </Maps>
+    <Maps type="ResSystemMatchOpenOne">
+        <Type>0 </Type>
+        <Week>0 </Week>
+        <DayStartTime></DayStartTime>
+        <DayEndTime></DayEndTime>
+    </Maps>
+    <Maps type="ResSystemMatchOpenOne">
+        <Type>0 </Type>
+        <Week>0 </Week>
+        <DayStartTime></DayStartTime>
+        <DayEndTime></DayEndTime>
+    </Maps>
+    <OwnHeroCount>3 </OwnHeroCount>
+    <PlayerLevel>6 </PlayerLevel>
+</ResSystemMatchOpenTimeDesc>
+<ResSystemMatchOpenTimeDesc version="1">
+    <VsMode>4 </VsMode>
+    <MutiPlayMode>3 </MutiPlayMode>
+    <Maps type="ResSystemMatchOpenOne">
+        <Type>0 </Type>
+        <Week>0 </Week>
+        <DayStartTime></DayStartTime>
+        <DayEndTime></DayEndTime>
+    </Maps>
+    <Maps type="ResSystemMatchOpenOne">
+        <Type>0 </Type>
+        <Week>0 </Week>
+        <DayStartTime></DayStartTime>
+        <DayEndTime></DayEndTime>
+    </Maps>
+    <Maps type="ResSystemMatchOpenOne">
+        <Type>0 </Type>
+        <Week>0 </Week>
+        <DayStartTime></DayStartTime>
+        <DayEndTime></DayEndTime>
+    </Maps>
+    <Maps type="ResSystemMatchOpenOne">
+        <Type>0 </Type>
+        <Week>0 </Week>
+        <DayStartTime></DayStartTime>
+        <DayEndTime></DayEndTime>
+    </Maps>
+    <OwnHeroCount>3 </OwnHeroCount>
+    <PlayerLevel>6 </PlayerLevel>
+</ResSystemMatchOpenTimeDesc>
+<ResSystemMatchOpenTimeDesc version="1">
+    <VsMode>5 </VsMode>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Maps type="ResSystemMatchOpenOne">
+        <Type>0 </Type>
+        <Week>0 </Week>
+        <DayStartTime></DayStartTime>
+        <DayEndTime></DayEndTime>
+    </Maps>
+    <Maps type="ResSystemMatchOpenOne">
+        <Type>0 </Type>
+        <Week>0 </Week>
+        <DayStartTime></DayStartTime>
+        <DayEndTime></DayEndTime>
+    </Maps>
+    <Maps type="ResSystemMatchOpenOne">
+        <Type>0 </Type>
+        <Week>0 </Week>
+        <DayStartTime></DayStartTime>
+        <DayEndTime></DayEndTime>
+    </Maps>
+    <Maps type="ResSystemMatchOpenOne">
+        <Type>0 </Type>
+        <Week>0 </Week>
+        <DayStartTime></DayStartTime>
+        <DayEndTime></DayEndTime>
+    </Maps>
+    <OwnHeroCount>3 </OwnHeroCount>
+    <PlayerLevel>6 </PlayerLevel>
+</ResSystemMatchOpenTimeDesc>
+<ResSystemMatchOpenTimeDesc version="1">
+    <VsMode>5 </VsMode>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Maps type="ResSystemMatchOpenOne">
+        <Type>0 </Type>
+        <Week>0 </Week>
+        <DayStartTime></DayStartTime>
+        <DayEndTime></DayEndTime>
+    </Maps>
+    <Maps type="ResSystemMatchOpenOne">
+        <Type>0 </Type>
+        <Week>0 </Week>
+        <DayStartTime></DayStartTime>
+        <DayEndTime></DayEndTime>
+    </Maps>
+    <Maps type="ResSystemMatchOpenOne">
+        <Type>0 </Type>
+        <Week>0 </Week>
+        <DayStartTime></DayStartTime>
+        <DayEndTime></DayEndTime>
+    </Maps>
+    <Maps type="ResSystemMatchOpenOne">
+        <Type>0 </Type>
+        <Week>0 </Week>
+        <DayStartTime></DayStartTime>
+        <DayEndTime></DayEndTime>
+    </Maps>
+    <OwnHeroCount>3 </OwnHeroCount>
+    <PlayerLevel>6 </PlayerLevel>
+</ResSystemMatchOpenTimeDesc>
+<ResSystemMatchOpenTimeDesc version="1">
+    <VsMode>5 </VsMode>
+    <MutiPlayMode>3 </MutiPlayMode>
+    <Maps type="ResSystemMatchOpenOne">
+        <Type>0 </Type>
+        <Week>0 </Week>
+        <DayStartTime></DayStartTime>
+        <DayEndTime></DayEndTime>
+    </Maps>
+    <Maps type="ResSystemMatchOpenOne">
+        <Type>0 </Type>
+        <Week>0 </Week>
+        <DayStartTime></DayStartTime>
+        <DayEndTime></DayEndTime>
+    </Maps>
+    <Maps type="ResSystemMatchOpenOne">
+        <Type>0 </Type>
+        <Week>0 </Week>
+        <DayStartTime></DayStartTime>
+        <DayEndTime></DayEndTime>
+    </Maps>
+    <Maps type="ResSystemMatchOpenOne">
+        <Type>0 </Type>
+        <Week>0 </Week>
+        <DayStartTime></DayStartTime>
+        <DayEndTime></DayEndTime>
+    </Maps>
+    <OwnHeroCount>3 </OwnHeroCount>
+    <PlayerLevel>6 </PlayerLevel>
+</ResSystemMatchOpenTimeDesc>
+</ResSystemMatchOpenTimeDesc_Tab>

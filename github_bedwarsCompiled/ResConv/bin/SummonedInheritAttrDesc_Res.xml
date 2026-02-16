@@ -1,0 +1,1111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<SummonedInheritAttrDesc_Tab>
+<TResHeadAll version="5">
+    <resHead type="TResHead">
+        <Magic>1397052237 </Magic>
+        <Version>6 </Version>
+        <Unit>108 </Unit>
+        <Count>28 </Count>
+        <MetalibHash>531d5b4a397ad5b3c0fbfb5cc8059e55</MetalibHash>
+        <ResVersion>0 </ResVersion>
+        <CreateTime>2023-04-19 20:42:26</CreateTime>
+        <ResEncording>UTF-8</ResEncording>
+        <ContentHash>ab660d9fdcdc78cb87ab10917f615ce0</ContentHash>
+    </resHead>
+    <resHeadExt type="TResHeadExt">
+        <DataOffset>136 </DataOffset>
+    </resHeadExt>
+</TResHeadAll>
+<SummonedInheritAttrDesc version="1">
+    <ResID>20000121 </ResID>
+    <InheritAttr type="InheritAttrDesc">
+        <AttrType>16 </AttrType>
+        <subAttrType>8 2 0 0 </subAttrType>
+        <subAttrVal>1500 10000 0 0 </subAttrVal>
+    </InheritAttr>
+    <InheritAttr type="InheritAttrDesc">
+        <AttrType>0 </AttrType>
+        <subAttrType>0 0 0 0 </subAttrType>
+        <subAttrVal>0 0 0 0 </subAttrVal>
+    </InheritAttr>
+    <InheritAttr type="InheritAttrDesc">
+        <AttrType>0 </AttrType>
+        <subAttrType>0 0 0 0 </subAttrType>
+        <subAttrVal>0 0 0 0 </subAttrVal>
+    </InheritAttr>
+    <InheritAttr type="InheritAttrDesc">
+        <AttrType>0 </AttrType>
+        <subAttrType>0 0 0 0 </subAttrType>
+        <subAttrVal>0 0 0 0 </subAttrVal>
+    </InheritAttr>
+    <LevelAttr type="InheritLevelAttrDesc">
+        <subAttrType>0 </subAttrType>
+        <subAttrVal>0 </subAttrVal>
+    </LevelAttr>
+    <LevelAttr type="InheritLevelAttrDesc">
+        <subAttrType>0 </subAttrType>
+        <subAttrVal>0 </subAttrVal>
+    </LevelAttr>
+    <LevelAttr type="InheritLevelAttrDesc">
+        <subAttrType>0 </subAttrType>
+        <subAttrVal>0 </subAttrVal>
+    </LevelAttr>
+    <LevelAttr type="InheritLevelAttrDesc">
+        <subAttrType>0 </subAttrType>
+        <subAttrVal>0 </subAttrVal>
+    </LevelAttr>
+</SummonedInheritAttrDesc>
+<SummonedInheritAttrDesc version="1">
+    <ResID>20000122 </ResID>
+    <InheritAttr type="InheritAttrDesc">
+        <AttrType>16 </AttrType>
+        <subAttrType>8 2 0 0 </subAttrType>
+        <subAttrVal>1500 10000 0 0 </subAttrVal>
+    </InheritAttr>
+    <InheritAttr type="InheritAttrDesc">
+        <AttrType>0 </AttrType>
+        <subAttrType>0 0 0 0 </subAttrType>
+        <subAttrVal>0 0 0 0 </subAttrVal>
+    </InheritAttr>
+    <InheritAttr type="InheritAttrDesc">
+        <AttrType>0 </AttrType>
+        <subAttrType>0 0 0 0 </subAttrType>
+        <subAttrVal>0 0 0 0 </subAttrVal>
+    </InheritAttr>
+    <InheritAttr type="InheritAttrDesc">
+        <AttrType>0 </AttrType>
+        <subAttrType>0 0 0 0 </subAttrType>
+        <subAttrVal>0 0 0 0 </subAttrVal>
+    </InheritAttr>
+    <LevelAttr type="InheritLevelAttrDesc">
+        <subAttrType>0 </subAttrType>
+        <subAttrVal>0 </subAttrVal>
+    </LevelAttr>
+    <LevelAttr type="InheritLevelAttrDesc">
+        <subAttrType>0 </subAttrType>
+        <subAttrVal>0 </subAttrVal>
+    </LevelAttr>
+    <LevelAttr type="InheritLevelAttrDesc">
+        <subAttrType>0 </subAttrType>
+        <subAttrVal>0 </subAttrVal>
+    </LevelAttr>
+    <LevelAttr type="InheritLevelAttrDesc">
+        <subAttrType>0 </subAttrType>
+        <subAttrVal>0 </subAttrVal>
+    </LevelAttr>
+</SummonedInheritAttrDesc>
+<SummonedInheritAttrDesc version="1">
+    <ResID>20000123 </ResID>
+    <InheritAttr type="InheritAttrDesc">
+        <AttrType>16 </AttrType>
+        <subAttrType>8 2 0 0 </subAttrType>
+        <subAttrVal>1500 10000 0 0 </subAttrVal>
+    </InheritAttr>
+    <InheritAttr type="InheritAttrDesc">
+        <AttrType>0 </AttrType>
+        <subAttrType>0 0 0 0 </subAttrType>
+        <subAttrVal>0 0 0 0 </subAttrVal>
+    </InheritAttr>
+    <InheritAttr type="InheritAttrDesc">
+        <AttrType>0 </AttrType>
+        <subAttrType>0 0 0 0 </subAttrType>
+        <subAttrVal>0 0 0 0 </subAttrVal>
+    </InheritAttr>
+    <InheritAttr type="InheritAttrDesc">
+        <AttrType>0 </AttrType>
+        <subAttrType>0 0 0 0 </subAttrType>
+        <subAttrVal>0 0 0 0 </subAttrVal>
+    </InheritAttr>
+    <LevelAttr type="InheritLevelAttrDesc">
+        <subAttrType>0 </subAttrType>
+        <subAttrVal>0 </subAttrVal>
+    </LevelAttr>
+    <LevelAttr type="InheritLevelAttrDesc">
+        <subAttrType>0 </subAttrType>
+        <subAttrVal>0 </subAttrVal>
+    </LevelAttr>
+    <LevelAttr type="InheritLevelAttrDesc">
+        <subAttrType>0 </subAttrType>
+        <subAttrVal>0 </subAttrVal>
+    </LevelAttr>
+    <LevelAttr type="InheritLevelAttrDesc">
+        <subAttrType>0 </subAttrType>
+        <subAttrVal>0 </subAttrVal>
+    </LevelAttr>
+</SummonedInheritAttrDesc>
+<SummonedInheritAttrDesc version="1">
+    <ResID>20000130 </ResID>
+    <InheritAttr type="InheritAttrDesc">
+        <AttrType>16 </AttrType>
+        <subAttrType>8 2 0 0 </subAttrType>
+        <subAttrVal>1500 10000 0 0 </subAttrVal>
+    </InheritAttr>
+    <InheritAttr type="InheritAttrDesc">
+        <AttrType>0 </AttrType>
+        <subAttrType>0 0 0 0 </subAttrType>
+        <subAttrVal>0 0 0 0 </subAttrVal>
+    </InheritAttr>
+    <InheritAttr type="InheritAttrDesc">
+        <AttrType>0 </AttrType>
+        <subAttrType>0 0 0 0 </subAttrType>
+        <subAttrVal>0 0 0 0 </subAttrVal>
+    </InheritAttr>
+    <InheritAttr type="InheritAttrDesc">
+        <AttrType>0 </AttrType>
+        <subAttrType>0 0 0 0 </subAttrType>
+        <subAttrVal>0 0 0 0 </subAttrVal>
+    </InheritAttr>
+    <LevelAttr type="InheritLevelAttrDesc">
+        <subAttrType>0 </subAttrType>
+        <subAttrVal>0 </subAttrVal>
+    </LevelAttr>
+    <LevelAttr type="InheritLevelAttrDesc">
+        <subAttrType>0 </subAttrType>
+        <subAttrVal>0 </subAttrVal>
+    </LevelAttr>
+    <LevelAttr type="InheritLevelAttrDesc">
+        <subAttrType>0 </subAttrType>
+        <subAttrVal>0 </subAttrVal>
+    </LevelAttr>
+    <LevelAttr type="InheritLevelAttrDesc">
+        <subAttrType>0 </subAttrType>
+        <subAttrVal>0 </subAttrVal>
+    </LevelAttr>
+</SummonedInheritAttrDesc>
+<SummonedInheritAttrDesc version="1">
+    <ResID>20000221 </ResID>
+    <InheritAttr type="InheritAttrDesc">
+        <AttrType>16 </AttrType>
+        <subAttrType>8 2 0 0 </subAttrType>
+        <subAttrVal>1000 6000 0 0 </subAttrVal>
+    </InheritAttr>
+    <InheritAttr type="InheritAttrDesc">
+        <AttrType>0 </AttrType>
+        <subAttrType>0 0 0 0 </subAttrType>
+        <subAttrVal>0 0 0 0 </subAttrVal>
+    </InheritAttr>
+    <InheritAttr type="InheritAttrDesc">
+        <AttrType>0 </AttrType>
+        <subAttrType>0 0 0 0 </subAttrType>
+        <subAttrVal>0 0 0 0 </subAttrVal>
+    </InheritAttr>
+    <InheritAttr type="InheritAttrDesc">
+        <AttrType>0 </AttrType>
+        <subAttrType>0 0 0 0 </subAttrType>
+        <subAttrVal>0 0 0 0 </subAttrVal>
+    </InheritAttr>
+    <LevelAttr type="InheritLevelAttrDesc">
+        <subAttrType>0 </subAttrType>
+        <subAttrVal>0 </subAttrVal>
+    </LevelAttr>
+    <LevelAttr type="InheritLevelAttrDesc">
+        <subAttrType>0 </subAttrType>
+        <subAttrVal>0 </subAttrVal>
+    </LevelAttr>
+    <LevelAttr type="InheritLevelAttrDesc">
+        <subAttrType>0 </subAttrType>
+        <subAttrVal>0 </subAttrVal>
+    </LevelAttr>
+    <LevelAttr type="InheritLevelAttrDesc">
+        <subAttrType>0 </subAttrType>
+        <subAttrVal>0 </subAttrVal>
+    </LevelAttr>
+</SummonedInheritAttrDesc>
+<SummonedInheritAttrDesc version="1">
+    <ResID>20000222 </ResID>
+    <InheritAttr type="InheritAttrDesc">
+        <AttrType>16 </AttrType>
+        <subAttrType>8 2 0 0 </subAttrType>
+        <subAttrVal>1000 6000 0 0 </subAttrVal>
+    </InheritAttr>
+    <InheritAttr type="InheritAttrDesc">
+        <AttrType>0 </AttrType>
+        <subAttrType>0 0 0 0 </subAttrType>
+        <subAttrVal>0 0 0 0 </subAttrVal>
+    </InheritAttr>
+    <InheritAttr type="InheritAttrDesc">
+        <AttrType>0 </AttrType>
+        <subAttrType>0 0 0 0 </subAttrType>
+        <subAttrVal>0 0 0 0 </subAttrVal>
+    </InheritAttr>
+    <InheritAttr type="InheritAttrDesc">
+        <AttrType>0 </AttrType>
+        <subAttrType>0 0 0 0 </subAttrType>
+        <subAttrVal>0 0 0 0 </subAttrVal>
+    </InheritAttr>
+    <LevelAttr type="InheritLevelAttrDesc">
+        <subAttrType>0 </subAttrType>
+        <subAttrVal>0 </subAttrVal>
+    </LevelAttr>
+    <LevelAttr type="InheritLevelAttrDesc">
+        <subAttrType>0 </subAttrType>
+        <subAttrVal>0 </subAttrVal>
+    </LevelAttr>
+    <LevelAttr type="InheritLevelAttrDesc">
+        <subAttrType>0 </subAttrType>
+        <subAttrVal>0 </subAttrVal>
+    </LevelAttr>
+    <LevelAttr type="InheritLevelAttrDesc">
+        <subAttrType>0 </subAttrType>
+        <subAttrVal>0 </subAttrVal>
+    </LevelAttr>
+</SummonedInheritAttrDesc>
+<SummonedInheritAttrDesc version="1">
+    <ResID>20000223 </ResID>
+    <InheritAttr type="InheritAttrDesc">
+        <AttrType>16 </AttrType>
+        <subAttrType>8 2 0 0 </subAttrType>
+        <subAttrVal>1000 6000 0 0 </subAttrVal>
+    </InheritAttr>
+    <InheritAttr type="InheritAttrDesc">
+        <AttrType>0 </AttrType>
+        <subAttrType>0 0 0 0 </subAttrType>
+        <subAttrVal>0 0 0 0 </subAttrVal>
+    </InheritAttr>
+    <InheritAttr type="InheritAttrDesc">
+        <AttrType>0 </AttrType>
+        <subAttrType>0 0 0 0 </subAttrType>
+        <subAttrVal>0 0 0 0 </subAttrVal>
+    </InheritAttr>
+    <InheritAttr type="InheritAttrDesc">
+        <AttrType>0 </AttrType>
+        <subAttrType>0 0 0 0 </subAttrType>
+        <subAttrVal>0 0 0 0 </subAttrVal>
+    </InheritAttr>
+    <LevelAttr type="InheritLevelAttrDesc">
+        <subAttrType>0 </subAttrType>
+        <subAttrVal>0 </subAttrVal>
+    </LevelAttr>
+    <LevelAttr type="InheritLevelAttrDesc">
+        <subAttrType>0 </subAttrType>
+        <subAttrVal>0 </subAttrVal>
+    </LevelAttr>
+    <LevelAttr type="InheritLevelAttrDesc">
+        <subAttrType>0 </subAttrType>
+        <subAttrVal>0 </subAttrVal>
+    </LevelAttr>
+    <LevelAttr type="InheritLevelAttrDesc">
+        <subAttrType>0 </subAttrType>
+        <subAttrVal>0 </subAttrVal>
+    </LevelAttr>
+</SummonedInheritAttrDesc>
+<SummonedInheritAttrDesc version="1">
+    <ResID>20000224 </ResID>
+    <InheritAttr type="InheritAttrDesc">
+        <AttrType>16 </AttrType>
+        <subAttrType>16 2 0 0 </subAttrType>
+        <subAttrVal>10000 15000 0 0 </subAttrVal>
+    </InheritAttr>
+    <InheritAttr type="InheritAttrDesc">
+        <AttrType>0 </AttrType>
+        <subAttrType>0 0 0 0 </subAttrType>
+        <subAttrVal>0 0 0 0 </subAttrVal>
+    </InheritAttr>
+    <InheritAttr type="InheritAttrDesc">
+        <AttrType>0 </AttrType>
+        <subAttrType>0 0 0 0 </subAttrType>
+        <subAttrVal>0 0 0 0 </subAttrVal>
+    </InheritAttr>
+    <InheritAttr type="InheritAttrDesc">
+        <AttrType>0 </AttrType>
+        <subAttrType>0 0 0 0 </subAttrType>
+        <subAttrVal>0 0 0 0 </subAttrVal>
+    </InheritAttr>
+    <LevelAttr type="InheritLevelAttrDesc">
+        <subAttrType>0 </subAttrType>
+        <subAttrVal>0 </subAttrVal>
+    </LevelAttr>
+    <LevelAttr type="InheritLevelAttrDesc">
+        <subAttrType>0 </subAttrType>
+        <subAttrVal>0 </subAttrVal>
+    </LevelAttr>
+    <LevelAttr type="InheritLevelAttrDesc">
+        <subAttrType>0 </subAttrType>
+        <subAttrVal>0 </subAttrVal>
+    </LevelAttr>
+    <LevelAttr type="InheritLevelAttrDesc">
+        <subAttrType>0 </subAttrType>
+        <subAttrVal>0 </subAttrVal>
+    </LevelAttr>
+</SummonedInheritAttrDesc>
+<SummonedInheritAttrDesc version="1">
+    <ResID>20000231 </ResID>
+    <InheritAttr type="InheritAttrDesc">
+        <AttrType>16 </AttrType>
+        <subAttrType>8 2 0 0 </subAttrType>
+        <subAttrVal>1000 6000 0 0 </subAttrVal>
+    </InheritAttr>
+    <InheritAttr type="InheritAttrDesc">
+        <AttrType>0 </AttrType>
+        <subAttrType>0 0 0 0 </subAttrType>
+        <subAttrVal>0 0 0 0 </subAttrVal>
+    </InheritAttr>
+    <InheritAttr type="InheritAttrDesc">
+        <AttrType>0 </AttrType>
+        <subAttrType>0 0 0 0 </subAttrType>
+        <subAttrVal>0 0 0 0 </subAttrVal>
+    </InheritAttr>
+    <InheritAttr type="InheritAttrDesc">
+        <AttrType>0 </AttrType>
+        <subAttrType>0 0 0 0 </subAttrType>
+        <subAttrVal>0 0 0 0 </subAttrVal>
+    </InheritAttr>
+    <LevelAttr type="InheritLevelAttrDesc">
+        <subAttrType>0 </subAttrType>
+        <subAttrVal>0 </subAttrVal>
+    </LevelAttr>
+    <LevelAttr type="InheritLevelAttrDesc">
+        <subAttrType>0 </subAttrType>
+        <subAttrVal>0 </subAttrVal>
+    </LevelAttr>
+    <LevelAttr type="InheritLevelAttrDesc">
+        <subAttrType>0 </subAttrType>
+        <subAttrVal>0 </subAttrVal>
+    </LevelAttr>
+    <LevelAttr type="InheritLevelAttrDesc">
+        <subAttrType>0 </subAttrType>
+        <subAttrVal>0 </subAttrVal>
+    </LevelAttr>
+</SummonedInheritAttrDesc>
+<SummonedInheritAttrDesc version="1">
+    <ResID>20000232 </ResID>
+    <InheritAttr type="InheritAttrDesc">
+        <AttrType>16 </AttrType>
+        <subAttrType>16 2 0 0 </subAttrType>
+        <subAttrVal>10000 15000 0 0 </subAttrVal>
+    </InheritAttr>
+    <InheritAttr type="InheritAttrDesc">
+        <AttrType>0 </AttrType>
+        <subAttrType>0 0 0 0 </subAttrType>
+        <subAttrVal>0 0 0 0 </subAttrVal>
+    </InheritAttr>
+    <InheritAttr type="InheritAttrDesc">
+        <AttrType>0 </AttrType>
+        <subAttrType>0 0 0 0 </subAttrType>
+        <subAttrVal>0 0 0 0 </subAttrVal>
+    </InheritAttr>
+    <InheritAttr type="InheritAttrDesc">
+        <AttrType>0 </AttrType>
+        <subAttrType>0 0 0 0 </subAttrType>
+        <subAttrVal>0 0 0 0 </subAttrVal>
+    </InheritAttr>
+    <LevelAttr type="InheritLevelAttrDesc">
+        <subAttrType>0 </subAttrType>
+        <subAttrVal>0 </subAttrVal>
+    </LevelAttr>
+    <LevelAttr type="InheritLevelAttrDesc">
+        <subAttrType>0 </subAttrType>
+        <subAttrVal>0 </subAttrVal>
+    </LevelAttr>
+    <LevelAttr type="InheritLevelAttrDesc">
+        <subAttrType>0 </subAttrType>
+        <subAttrVal>0 </subAttrVal>
+    </LevelAttr>
+    <LevelAttr type="InheritLevelAttrDesc">
+        <subAttrType>0 </subAttrType>
+        <subAttrVal>0 </subAttrVal>
+    </LevelAttr>
+</SummonedInheritAttrDesc>
+<SummonedInheritAttrDesc version="1">
+    <ResID>20000818 </ResID>
+    <InheritAttr type="InheritAttrDesc">
+        <AttrType>16 </AttrType>
+        <subAttrType>16 2 0 0 </subAttrType>
+        <subAttrVal>10000 15000 0 0 </subAttrVal>
+    </InheritAttr>
+    <InheritAttr type="InheritAttrDesc">
+        <AttrType>0 </AttrType>
+        <subAttrType>0 0 0 0 </subAttrType>
+        <subAttrVal>0 0 0 0 </subAttrVal>
+    </InheritAttr>
+    <InheritAttr type="InheritAttrDesc">
+        <AttrType>0 </AttrType>
+        <subAttrType>0 0 0 0 </subAttrType>
+        <subAttrVal>0 0 0 0 </subAttrVal>
+    </InheritAttr>
+    <InheritAttr type="InheritAttrDesc">
+        <AttrType>0 </AttrType>
+        <subAttrType>0 0 0 0 </subAttrType>
+        <subAttrVal>0 0 0 0 </subAttrVal>
+    </InheritAttr>
+    <LevelAttr type="InheritLevelAttrDesc">
+        <subAttrType>0 </subAttrType>
+        <subAttrVal>0 </subAttrVal>
+    </LevelAttr>
+    <LevelAttr type="InheritLevelAttrDesc">
+        <subAttrType>0 </subAttrType>
+        <subAttrVal>0 </subAttrVal>
+    </LevelAttr>
+    <LevelAttr type="InheritLevelAttrDesc">
+        <subAttrType>0 </subAttrType>
+        <subAttrVal>0 </subAttrVal>
+    </LevelAttr>
+    <LevelAttr type="InheritLevelAttrDesc">
+        <subAttrType>0 </subAttrType>
+        <subAttrVal>0 </subAttrVal>
+    </LevelAttr>
+</SummonedInheritAttrDesc>
+<SummonedInheritAttrDesc version="1">
+    <ResID>20000819 </ResID>
+    <InheritAttr type="InheritAttrDesc">
+        <AttrType>16 </AttrType>
+        <subAttrType>16 2 0 0 </subAttrType>
+        <subAttrVal>10000 15000 0 0 </subAttrVal>
+    </InheritAttr>
+    <InheritAttr type="InheritAttrDesc">
+        <AttrType>0 </AttrType>
+        <subAttrType>0 0 0 0 </subAttrType>
+        <subAttrVal>0 0 0 0 </subAttrVal>
+    </InheritAttr>
+    <InheritAttr type="InheritAttrDesc">
+        <AttrType>0 </AttrType>
+        <subAttrType>0 0 0 0 </subAttrType>
+        <subAttrVal>0 0 0 0 </subAttrVal>
+    </InheritAttr>
+    <InheritAttr type="InheritAttrDesc">
+        <AttrType>0 </AttrType>
+        <subAttrType>0 0 0 0 </subAttrType>
+        <subAttrVal>0 0 0 0 </subAttrVal>
+    </InheritAttr>
+    <LevelAttr type="InheritLevelAttrDesc">
+        <subAttrType>0 </subAttrType>
+        <subAttrVal>0 </subAttrVal>
+    </LevelAttr>
+    <LevelAttr type="InheritLevelAttrDesc">
+        <subAttrType>0 </subAttrType>
+        <subAttrVal>0 </subAttrVal>
+    </LevelAttr>
+    <LevelAttr type="InheritLevelAttrDesc">
+        <subAttrType>0 </subAttrType>
+        <subAttrVal>0 </subAttrVal>
+    </LevelAttr>
+    <LevelAttr type="InheritLevelAttrDesc">
+        <subAttrType>0 </subAttrType>
+        <subAttrVal>0 </subAttrVal>
+    </LevelAttr>
+</SummonedInheritAttrDesc>
+<SummonedInheritAttrDesc version="1">
+    <ResID>20000820 </ResID>
+    <InheritAttr type="InheritAttrDesc">
+        <AttrType>8 </AttrType>
+        <subAttrType>8 0 0 0 </subAttrType>
+        <subAttrVal>1000 0 0 0 </subAttrVal>
+    </InheritAttr>
+    <InheritAttr type="InheritAttrDesc">
+        <AttrType>0 </AttrType>
+        <subAttrType>0 0 0 0 </subAttrType>
+        <subAttrVal>0 0 0 0 </subAttrVal>
+    </InheritAttr>
+    <InheritAttr type="InheritAttrDesc">
+        <AttrType>0 </AttrType>
+        <subAttrType>0 0 0 0 </subAttrType>
+        <subAttrVal>0 0 0 0 </subAttrVal>
+    </InheritAttr>
+    <InheritAttr type="InheritAttrDesc">
+        <AttrType>0 </AttrType>
+        <subAttrType>0 0 0 0 </subAttrType>
+        <subAttrVal>0 0 0 0 </subAttrVal>
+    </InheritAttr>
+    <LevelAttr type="InheritLevelAttrDesc">
+        <subAttrType>0 </subAttrType>
+        <subAttrVal>0 </subAttrVal>
+    </LevelAttr>
+    <LevelAttr type="InheritLevelAttrDesc">
+        <subAttrType>0 </subAttrType>
+        <subAttrVal>0 </subAttrVal>
+    </LevelAttr>
+    <LevelAttr type="InheritLevelAttrDesc">
+        <subAttrType>0 </subAttrType>
+        <subAttrVal>0 </subAttrVal>
+    </LevelAttr>
+    <LevelAttr type="InheritLevelAttrDesc">
+        <subAttrType>0 </subAttrType>
+        <subAttrVal>0 </subAttrVal>
+    </LevelAttr>
+</SummonedInheritAttrDesc>
+<SummonedInheritAttrDesc version="1">
+    <ResID>20000821 </ResID>
+    <InheritAttr type="InheritAttrDesc">
+        <AttrType>8 </AttrType>
+        <subAttrType>8 0 0 0 </subAttrType>
+        <subAttrVal>1000 0 0 0 </subAttrVal>
+    </InheritAttr>
+    <InheritAttr type="InheritAttrDesc">
+        <AttrType>0 </AttrType>
+        <subAttrType>0 0 0 0 </subAttrType>
+        <subAttrVal>0 0 0 0 </subAttrVal>
+    </InheritAttr>
+    <InheritAttr type="InheritAttrDesc">
+        <AttrType>0 </AttrType>
+        <subAttrType>0 0 0 0 </subAttrType>
+        <subAttrVal>0 0 0 0 </subAttrVal>
+    </InheritAttr>
+    <InheritAttr type="InheritAttrDesc">
+        <AttrType>0 </AttrType>
+        <subAttrType>0 0 0 0 </subAttrType>
+        <subAttrVal>0 0 0 0 </subAttrVal>
+    </InheritAttr>
+    <LevelAttr type="InheritLevelAttrDesc">
+        <subAttrType>0 </subAttrType>
+        <subAttrVal>0 </subAttrVal>
+    </LevelAttr>
+    <LevelAttr type="InheritLevelAttrDesc">
+        <subAttrType>0 </subAttrType>
+        <subAttrVal>0 </subAttrVal>
+    </LevelAttr>
+    <LevelAttr type="InheritLevelAttrDesc">
+        <subAttrType>0 </subAttrType>
+        <subAttrVal>0 </subAttrVal>
+    </LevelAttr>
+    <LevelAttr type="InheritLevelAttrDesc">
+        <subAttrType>0 </subAttrType>
+        <subAttrVal>0 </subAttrVal>
+    </LevelAttr>
+</SummonedInheritAttrDesc>
+<SummonedInheritAttrDesc version="1">
+    <ResID>20000822 </ResID>
+    <InheritAttr type="InheritAttrDesc">
+        <AttrType>8 </AttrType>
+        <subAttrType>8 0 0 0 </subAttrType>
+        <subAttrVal>1000 0 0 0 </subAttrVal>
+    </InheritAttr>
+    <InheritAttr type="InheritAttrDesc">
+        <AttrType>0 </AttrType>
+        <subAttrType>0 0 0 0 </subAttrType>
+        <subAttrVal>0 0 0 0 </subAttrVal>
+    </InheritAttr>
+    <InheritAttr type="InheritAttrDesc">
+        <AttrType>0 </AttrType>
+        <subAttrType>0 0 0 0 </subAttrType>
+        <subAttrVal>0 0 0 0 </subAttrVal>
+    </InheritAttr>
+    <InheritAttr type="InheritAttrDesc">
+        <AttrType>0 </AttrType>
+        <subAttrType>0 0 0 0 </subAttrType>
+        <subAttrVal>0 0 0 0 </subAttrVal>
+    </InheritAttr>
+    <LevelAttr type="InheritLevelAttrDesc">
+        <subAttrType>0 </subAttrType>
+        <subAttrVal>0 </subAttrVal>
+    </LevelAttr>
+    <LevelAttr type="InheritLevelAttrDesc">
+        <subAttrType>0 </subAttrType>
+        <subAttrVal>0 </subAttrVal>
+    </LevelAttr>
+    <LevelAttr type="InheritLevelAttrDesc">
+        <subAttrType>0 </subAttrType>
+        <subAttrVal>0 </subAttrVal>
+    </LevelAttr>
+    <LevelAttr type="InheritLevelAttrDesc">
+        <subAttrType>0 </subAttrType>
+        <subAttrVal>0 </subAttrVal>
+    </LevelAttr>
+</SummonedInheritAttrDesc>
+<SummonedInheritAttrDesc version="1">
+    <ResID>20000823 </ResID>
+    <InheritAttr type="InheritAttrDesc">
+        <AttrType>8 </AttrType>
+        <subAttrType>8 0 0 0 </subAttrType>
+        <subAttrVal>1000 0 0 0 </subAttrVal>
+    </InheritAttr>
+    <InheritAttr type="InheritAttrDesc">
+        <AttrType>0 </AttrType>
+        <subAttrType>0 0 0 0 </subAttrType>
+        <subAttrVal>0 0 0 0 </subAttrVal>
+    </InheritAttr>
+    <InheritAttr type="InheritAttrDesc">
+        <AttrType>0 </AttrType>
+        <subAttrType>0 0 0 0 </subAttrType>
+        <subAttrVal>0 0 0 0 </subAttrVal>
+    </InheritAttr>
+    <InheritAttr type="InheritAttrDesc">
+        <AttrType>0 </AttrType>
+        <subAttrType>0 0 0 0 </subAttrType>
+        <subAttrVal>0 0 0 0 </subAttrVal>
+    </InheritAttr>
+    <LevelAttr type="InheritLevelAttrDesc">
+        <subAttrType>0 </subAttrType>
+        <subAttrVal>0 </subAttrVal>
+    </LevelAttr>
+    <LevelAttr type="InheritLevelAttrDesc">
+        <subAttrType>0 </subAttrType>
+        <subAttrVal>0 </subAttrVal>
+    </LevelAttr>
+    <LevelAttr type="InheritLevelAttrDesc">
+        <subAttrType>0 </subAttrType>
+        <subAttrVal>0 </subAttrVal>
+    </LevelAttr>
+    <LevelAttr type="InheritLevelAttrDesc">
+        <subAttrType>0 </subAttrType>
+        <subAttrVal>0 </subAttrVal>
+    </LevelAttr>
+</SummonedInheritAttrDesc>
+<SummonedInheritAttrDesc version="1">
+    <ResID>20000824 </ResID>
+    <InheritAttr type="InheritAttrDesc">
+        <AttrType>8 </AttrType>
+        <subAttrType>8 0 0 0 </subAttrType>
+        <subAttrVal>1500 0 0 0 </subAttrVal>
+    </InheritAttr>
+    <InheritAttr type="InheritAttrDesc">
+        <AttrType>0 </AttrType>
+        <subAttrType>0 0 0 0 </subAttrType>
+        <subAttrVal>0 0 0 0 </subAttrVal>
+    </InheritAttr>
+    <InheritAttr type="InheritAttrDesc">
+        <AttrType>0 </AttrType>
+        <subAttrType>0 0 0 0 </subAttrType>
+        <subAttrVal>0 0 0 0 </subAttrVal>
+    </InheritAttr>
+    <InheritAttr type="InheritAttrDesc">
+        <AttrType>0 </AttrType>
+        <subAttrType>0 0 0 0 </subAttrType>
+        <subAttrVal>0 0 0 0 </subAttrVal>
+    </InheritAttr>
+    <LevelAttr type="InheritLevelAttrDesc">
+        <subAttrType>0 </subAttrType>
+        <subAttrVal>0 </subAttrVal>
+    </LevelAttr>
+    <LevelAttr type="InheritLevelAttrDesc">
+        <subAttrType>0 </subAttrType>
+        <subAttrVal>0 </subAttrVal>
+    </LevelAttr>
+    <LevelAttr type="InheritLevelAttrDesc">
+        <subAttrType>0 </subAttrType>
+        <subAttrVal>0 </subAttrVal>
+    </LevelAttr>
+    <LevelAttr type="InheritLevelAttrDesc">
+        <subAttrType>0 </subAttrType>
+        <subAttrVal>0 </subAttrVal>
+    </LevelAttr>
+</SummonedInheritAttrDesc>
+<SummonedInheritAttrDesc version="1">
+    <ResID>20000825 </ResID>
+    <InheritAttr type="InheritAttrDesc">
+        <AttrType>8 </AttrType>
+        <subAttrType>8 2 0 0 </subAttrType>
+        <subAttrVal>1500 10000 0 0 </subAttrVal>
+    </InheritAttr>
+    <InheritAttr type="InheritAttrDesc">
+        <AttrType>0 </AttrType>
+        <subAttrType>0 0 0 0 </subAttrType>
+        <subAttrVal>0 0 0 0 </subAttrVal>
+    </InheritAttr>
+    <InheritAttr type="InheritAttrDesc">
+        <AttrType>0 </AttrType>
+        <subAttrType>0 0 0 0 </subAttrType>
+        <subAttrVal>0 0 0 0 </subAttrVal>
+    </InheritAttr>
+    <InheritAttr type="InheritAttrDesc">
+        <AttrType>0 </AttrType>
+        <subAttrType>0 0 0 0 </subAttrType>
+        <subAttrVal>0 0 0 0 </subAttrVal>
+    </InheritAttr>
+    <LevelAttr type="InheritLevelAttrDesc">
+        <subAttrType>0 </subAttrType>
+        <subAttrVal>0 </subAttrVal>
+    </LevelAttr>
+    <LevelAttr type="InheritLevelAttrDesc">
+        <subAttrType>0 </subAttrType>
+        <subAttrVal>0 </subAttrVal>
+    </LevelAttr>
+    <LevelAttr type="InheritLevelAttrDesc">
+        <subAttrType>0 </subAttrType>
+        <subAttrVal>0 </subAttrVal>
+    </LevelAttr>
+    <LevelAttr type="InheritLevelAttrDesc">
+        <subAttrType>0 </subAttrType>
+        <subAttrVal>0 </subAttrVal>
+    </LevelAttr>
+</SummonedInheritAttrDesc>
+<SummonedInheritAttrDesc version="1">
+    <ResID>20000826 </ResID>
+    <InheritAttr type="InheritAttrDesc">
+        <AttrType>8 </AttrType>
+        <subAttrType>8 2 0 0 </subAttrType>
+        <subAttrVal>1500 10000 0 0 </subAttrVal>
+    </InheritAttr>
+    <InheritAttr type="InheritAttrDesc">
+        <AttrType>0 </AttrType>
+        <subAttrType>0 0 0 0 </subAttrType>
+        <subAttrVal>0 0 0 0 </subAttrVal>
+    </InheritAttr>
+    <InheritAttr type="InheritAttrDesc">
+        <AttrType>0 </AttrType>
+        <subAttrType>0 0 0 0 </subAttrType>
+        <subAttrVal>0 0 0 0 </subAttrVal>
+    </InheritAttr>
+    <InheritAttr type="InheritAttrDesc">
+        <AttrType>0 </AttrType>
+        <subAttrType>0 0 0 0 </subAttrType>
+        <subAttrVal>0 0 0 0 </subAttrVal>
+    </InheritAttr>
+    <LevelAttr type="InheritLevelAttrDesc">
+        <subAttrType>0 </subAttrType>
+        <subAttrVal>0 </subAttrVal>
+    </LevelAttr>
+    <LevelAttr type="InheritLevelAttrDesc">
+        <subAttrType>0 </subAttrType>
+        <subAttrVal>0 </subAttrVal>
+    </LevelAttr>
+    <LevelAttr type="InheritLevelAttrDesc">
+        <subAttrType>0 </subAttrType>
+        <subAttrVal>0 </subAttrVal>
+    </LevelAttr>
+    <LevelAttr type="InheritLevelAttrDesc">
+        <subAttrType>0 </subAttrType>
+        <subAttrVal>0 </subAttrVal>
+    </LevelAttr>
+</SummonedInheritAttrDesc>
+<SummonedInheritAttrDesc version="1">
+    <ResID>20000827 </ResID>
+    <InheritAttr type="InheritAttrDesc">
+        <AttrType>8 </AttrType>
+        <subAttrType>8 2 0 0 </subAttrType>
+        <subAttrVal>1500 10000 0 0 </subAttrVal>
+    </InheritAttr>
+    <InheritAttr type="InheritAttrDesc">
+        <AttrType>0 </AttrType>
+        <subAttrType>0 0 0 0 </subAttrType>
+        <subAttrVal>0 0 0 0 </subAttrVal>
+    </InheritAttr>
+    <InheritAttr type="InheritAttrDesc">
+        <AttrType>0 </AttrType>
+        <subAttrType>0 0 0 0 </subAttrType>
+        <subAttrVal>0 0 0 0 </subAttrVal>
+    </InheritAttr>
+    <InheritAttr type="InheritAttrDesc">
+        <AttrType>0 </AttrType>
+        <subAttrType>0 0 0 0 </subAttrType>
+        <subAttrVal>0 0 0 0 </subAttrVal>
+    </InheritAttr>
+    <LevelAttr type="InheritLevelAttrDesc">
+        <subAttrType>0 </subAttrType>
+        <subAttrVal>0 </subAttrVal>
+    </LevelAttr>
+    <LevelAttr type="InheritLevelAttrDesc">
+        <subAttrType>0 </subAttrType>
+        <subAttrVal>0 </subAttrVal>
+    </LevelAttr>
+    <LevelAttr type="InheritLevelAttrDesc">
+        <subAttrType>0 </subAttrType>
+        <subAttrVal>0 </subAttrVal>
+    </LevelAttr>
+    <LevelAttr type="InheritLevelAttrDesc">
+        <subAttrType>0 </subAttrType>
+        <subAttrVal>0 </subAttrVal>
+    </LevelAttr>
+</SummonedInheritAttrDesc>
+<SummonedInheritAttrDesc version="1">
+    <ResID>20000828 </ResID>
+    <InheritAttr type="InheritAttrDesc">
+        <AttrType>8 </AttrType>
+        <subAttrType>8 2 0 0 </subAttrType>
+        <subAttrVal>1500 10000 0 0 </subAttrVal>
+    </InheritAttr>
+    <InheritAttr type="InheritAttrDesc">
+        <AttrType>0 </AttrType>
+        <subAttrType>0 0 0 0 </subAttrType>
+        <subAttrVal>0 0 0 0 </subAttrVal>
+    </InheritAttr>
+    <InheritAttr type="InheritAttrDesc">
+        <AttrType>0 </AttrType>
+        <subAttrType>0 0 0 0 </subAttrType>
+        <subAttrVal>0 0 0 0 </subAttrVal>
+    </InheritAttr>
+    <InheritAttr type="InheritAttrDesc">
+        <AttrType>0 </AttrType>
+        <subAttrType>0 0 0 0 </subAttrType>
+        <subAttrVal>0 0 0 0 </subAttrVal>
+    </InheritAttr>
+    <LevelAttr type="InheritLevelAttrDesc">
+        <subAttrType>0 </subAttrType>
+        <subAttrVal>0 </subAttrVal>
+    </LevelAttr>
+    <LevelAttr type="InheritLevelAttrDesc">
+        <subAttrType>0 </subAttrType>
+        <subAttrVal>0 </subAttrVal>
+    </LevelAttr>
+    <LevelAttr type="InheritLevelAttrDesc">
+        <subAttrType>0 </subAttrType>
+        <subAttrVal>0 </subAttrVal>
+    </LevelAttr>
+    <LevelAttr type="InheritLevelAttrDesc">
+        <subAttrType>0 </subAttrType>
+        <subAttrVal>0 </subAttrVal>
+    </LevelAttr>
+</SummonedInheritAttrDesc>
+<SummonedInheritAttrDesc version="1">
+    <ResID>20000829 </ResID>
+    <InheritAttr type="InheritAttrDesc">
+        <AttrType>8 </AttrType>
+        <subAttrType>2 0 0 0 </subAttrType>
+        <subAttrVal>20000 0 0 0 </subAttrVal>
+    </InheritAttr>
+    <InheritAttr type="InheritAttrDesc">
+        <AttrType>0 </AttrType>
+        <subAttrType>0 0 0 0 </subAttrType>
+        <subAttrVal>0 0 0 0 </subAttrVal>
+    </InheritAttr>
+    <InheritAttr type="InheritAttrDesc">
+        <AttrType>0 </AttrType>
+        <subAttrType>0 0 0 0 </subAttrType>
+        <subAttrVal>0 0 0 0 </subAttrVal>
+    </InheritAttr>
+    <InheritAttr type="InheritAttrDesc">
+        <AttrType>0 </AttrType>
+        <subAttrType>0 0 0 0 </subAttrType>
+        <subAttrVal>0 0 0 0 </subAttrVal>
+    </InheritAttr>
+    <LevelAttr type="InheritLevelAttrDesc">
+        <subAttrType>0 </subAttrType>
+        <subAttrVal>0 </subAttrVal>
+    </LevelAttr>
+    <LevelAttr type="InheritLevelAttrDesc">
+        <subAttrType>0 </subAttrType>
+        <subAttrVal>0 </subAttrVal>
+    </LevelAttr>
+    <LevelAttr type="InheritLevelAttrDesc">
+        <subAttrType>0 </subAttrType>
+        <subAttrVal>0 </subAttrVal>
+    </LevelAttr>
+    <LevelAttr type="InheritLevelAttrDesc">
+        <subAttrType>0 </subAttrType>
+        <subAttrVal>0 </subAttrVal>
+    </LevelAttr>
+</SummonedInheritAttrDesc>
+<SummonedInheritAttrDesc version="1">
+    <ResID>20000830 </ResID>
+    <InheritAttr type="InheritAttrDesc">
+        <AttrType>8 </AttrType>
+        <subAttrType>2 0 0 0 </subAttrType>
+        <subAttrVal>20000 0 0 0 </subAttrVal>
+    </InheritAttr>
+    <InheritAttr type="InheritAttrDesc">
+        <AttrType>0 </AttrType>
+        <subAttrType>0 0 0 0 </subAttrType>
+        <subAttrVal>0 0 0 0 </subAttrVal>
+    </InheritAttr>
+    <InheritAttr type="InheritAttrDesc">
+        <AttrType>0 </AttrType>
+        <subAttrType>0 0 0 0 </subAttrType>
+        <subAttrVal>0 0 0 0 </subAttrVal>
+    </InheritAttr>
+    <InheritAttr type="InheritAttrDesc">
+        <AttrType>0 </AttrType>
+        <subAttrType>0 0 0 0 </subAttrType>
+        <subAttrVal>0 0 0 0 </subAttrVal>
+    </InheritAttr>
+    <LevelAttr type="InheritLevelAttrDesc">
+        <subAttrType>0 </subAttrType>
+        <subAttrVal>0 </subAttrVal>
+    </LevelAttr>
+    <LevelAttr type="InheritLevelAttrDesc">
+        <subAttrType>0 </subAttrType>
+        <subAttrVal>0 </subAttrVal>
+    </LevelAttr>
+    <LevelAttr type="InheritLevelAttrDesc">
+        <subAttrType>0 </subAttrType>
+        <subAttrVal>0 </subAttrVal>
+    </LevelAttr>
+    <LevelAttr type="InheritLevelAttrDesc">
+        <subAttrType>0 </subAttrType>
+        <subAttrVal>0 </subAttrVal>
+    </LevelAttr>
+</SummonedInheritAttrDesc>
+<SummonedInheritAttrDesc version="1">
+    <ResID>20000831 </ResID>
+    <InheritAttr type="InheritAttrDesc">
+        <AttrType>16 </AttrType>
+        <subAttrType>8 0 0 0 </subAttrType>
+        <subAttrVal>3000 0 0 0 </subAttrVal>
+    </InheritAttr>
+    <InheritAttr type="InheritAttrDesc">
+        <AttrType>0 </AttrType>
+        <subAttrType>0 0 0 0 </subAttrType>
+        <subAttrVal>0 0 0 0 </subAttrVal>
+    </InheritAttr>
+    <InheritAttr type="InheritAttrDesc">
+        <AttrType>0 </AttrType>
+        <subAttrType>0 0 0 0 </subAttrType>
+        <subAttrVal>0 0 0 0 </subAttrVal>
+    </InheritAttr>
+    <InheritAttr type="InheritAttrDesc">
+        <AttrType>0 </AttrType>
+        <subAttrType>0 0 0 0 </subAttrType>
+        <subAttrVal>0 0 0 0 </subAttrVal>
+    </InheritAttr>
+    <LevelAttr type="InheritLevelAttrDesc">
+        <subAttrType>0 </subAttrType>
+        <subAttrVal>0 </subAttrVal>
+    </LevelAttr>
+    <LevelAttr type="InheritLevelAttrDesc">
+        <subAttrType>0 </subAttrType>
+        <subAttrVal>0 </subAttrVal>
+    </LevelAttr>
+    <LevelAttr type="InheritLevelAttrDesc">
+        <subAttrType>0 </subAttrType>
+        <subAttrVal>0 </subAttrVal>
+    </LevelAttr>
+    <LevelAttr type="InheritLevelAttrDesc">
+        <subAttrType>0 </subAttrType>
+        <subAttrVal>0 </subAttrVal>
+    </LevelAttr>
+</SummonedInheritAttrDesc>
+<SummonedInheritAttrDesc version="1">
+    <ResID>20000832 </ResID>
+    <InheritAttr type="InheritAttrDesc">
+        <AttrType>16 </AttrType>
+        <subAttrType>8 0 0 0 </subAttrType>
+        <subAttrVal>3000 0 0 0 </subAttrVal>
+    </InheritAttr>
+    <InheritAttr type="InheritAttrDesc">
+        <AttrType>0 </AttrType>
+        <subAttrType>0 0 0 0 </subAttrType>
+        <subAttrVal>0 0 0 0 </subAttrVal>
+    </InheritAttr>
+    <InheritAttr type="InheritAttrDesc">
+        <AttrType>0 </AttrType>
+        <subAttrType>0 0 0 0 </subAttrType>
+        <subAttrVal>0 0 0 0 </subAttrVal>
+    </InheritAttr>
+    <InheritAttr type="InheritAttrDesc">
+        <AttrType>0 </AttrType>
+        <subAttrType>0 0 0 0 </subAttrType>
+        <subAttrVal>0 0 0 0 </subAttrVal>
+    </InheritAttr>
+    <LevelAttr type="InheritLevelAttrDesc">
+        <subAttrType>0 </subAttrType>
+        <subAttrVal>0 </subAttrVal>
+    </LevelAttr>
+    <LevelAttr type="InheritLevelAttrDesc">
+        <subAttrType>0 </subAttrType>
+        <subAttrVal>0 </subAttrVal>
+    </LevelAttr>
+    <LevelAttr type="InheritLevelAttrDesc">
+        <subAttrType>0 </subAttrType>
+        <subAttrVal>0 </subAttrVal>
+    </LevelAttr>
+    <LevelAttr type="InheritLevelAttrDesc">
+        <subAttrType>0 </subAttrType>
+        <subAttrVal>0 </subAttrVal>
+    </LevelAttr>
+</SummonedInheritAttrDesc>
+<SummonedInheritAttrDesc version="1">
+    <ResID>20000833 </ResID>
+    <InheritAttr type="InheritAttrDesc">
+        <AttrType>16 </AttrType>
+        <subAttrType>8 0 0 0 </subAttrType>
+        <subAttrVal>3000 0 0 0 </subAttrVal>
+    </InheritAttr>
+    <InheritAttr type="InheritAttrDesc">
+        <AttrType>0 </AttrType>
+        <subAttrType>0 0 0 0 </subAttrType>
+        <subAttrVal>0 0 0 0 </subAttrVal>
+    </InheritAttr>
+    <InheritAttr type="InheritAttrDesc">
+        <AttrType>0 </AttrType>
+        <subAttrType>0 0 0 0 </subAttrType>
+        <subAttrVal>0 0 0 0 </subAttrVal>
+    </InheritAttr>
+    <InheritAttr type="InheritAttrDesc">
+        <AttrType>0 </AttrType>
+        <subAttrType>0 0 0 0 </subAttrType>
+        <subAttrVal>0 0 0 0 </subAttrVal>
+    </InheritAttr>
+    <LevelAttr type="InheritLevelAttrDesc">
+        <subAttrType>0 </subAttrType>
+        <subAttrVal>0 </subAttrVal>
+    </LevelAttr>
+    <LevelAttr type="InheritLevelAttrDesc">
+        <subAttrType>0 </subAttrType>
+        <subAttrVal>0 </subAttrVal>
+    </LevelAttr>
+    <LevelAttr type="InheritLevelAttrDesc">
+        <subAttrType>0 </subAttrType>
+        <subAttrVal>0 </subAttrVal>
+    </LevelAttr>
+    <LevelAttr type="InheritLevelAttrDesc">
+        <subAttrType>0 </subAttrType>
+        <subAttrVal>0 </subAttrVal>
+    </LevelAttr>
+</SummonedInheritAttrDesc>
+<SummonedInheritAttrDesc version="1">
+    <ResID>20000834 </ResID>
+    <InheritAttr type="InheritAttrDesc">
+        <AttrType>16 </AttrType>
+        <subAttrType>8 0 0 0 </subAttrType>
+        <subAttrVal>3000 0 0 0 </subAttrVal>
+    </InheritAttr>
+    <InheritAttr type="InheritAttrDesc">
+        <AttrType>0 </AttrType>
+        <subAttrType>0 0 0 0 </subAttrType>
+        <subAttrVal>0 0 0 0 </subAttrVal>
+    </InheritAttr>
+    <InheritAttr type="InheritAttrDesc">
+        <AttrType>0 </AttrType>
+        <subAttrType>0 0 0 0 </subAttrType>
+        <subAttrVal>0 0 0 0 </subAttrVal>
+    </InheritAttr>
+    <InheritAttr type="InheritAttrDesc">
+        <AttrType>0 </AttrType>
+        <subAttrType>0 0 0 0 </subAttrType>
+        <subAttrVal>0 0 0 0 </subAttrVal>
+    </InheritAttr>
+    <LevelAttr type="InheritLevelAttrDesc">
+        <subAttrType>0 </subAttrType>
+        <subAttrVal>0 </subAttrVal>
+    </LevelAttr>
+    <LevelAttr type="InheritLevelAttrDesc">
+        <subAttrType>0 </subAttrType>
+        <subAttrVal>0 </subAttrVal>
+    </LevelAttr>
+    <LevelAttr type="InheritLevelAttrDesc">
+        <subAttrType>0 </subAttrType>
+        <subAttrVal>0 </subAttrVal>
+    </LevelAttr>
+    <LevelAttr type="InheritLevelAttrDesc">
+        <subAttrType>0 </subAttrType>
+        <subAttrVal>0 </subAttrVal>
+    </LevelAttr>
+</SummonedInheritAttrDesc>
+<SummonedInheritAttrDesc version="1">
+    <ResID>20000837 </ResID>
+    <InheritAttr type="InheritAttrDesc">
+        <AttrType>8 </AttrType>
+        <subAttrType>8 2 0 0 </subAttrType>
+        <subAttrVal>1000 2000 0 0 </subAttrVal>
+    </InheritAttr>
+    <InheritAttr type="InheritAttrDesc">
+        <AttrType>0 </AttrType>
+        <subAttrType>0 0 0 0 </subAttrType>
+        <subAttrVal>0 0 0 0 </subAttrVal>
+    </InheritAttr>
+    <InheritAttr type="InheritAttrDesc">
+        <AttrType>0 </AttrType>
+        <subAttrType>0 0 0 0 </subAttrType>
+        <subAttrVal>0 0 0 0 </subAttrVal>
+    </InheritAttr>
+    <InheritAttr type="InheritAttrDesc">
+        <AttrType>0 </AttrType>
+        <subAttrType>0 0 0 0 </subAttrType>
+        <subAttrVal>0 0 0 0 </subAttrVal>
+    </InheritAttr>
+    <LevelAttr type="InheritLevelAttrDesc">
+        <subAttrType>0 </subAttrType>
+        <subAttrVal>0 </subAttrVal>
+    </LevelAttr>
+    <LevelAttr type="InheritLevelAttrDesc">
+        <subAttrType>0 </subAttrType>
+        <subAttrVal>0 </subAttrVal>
+    </LevelAttr>
+    <LevelAttr type="InheritLevelAttrDesc">
+        <subAttrType>0 </subAttrType>
+        <subAttrVal>0 </subAttrVal>
+    </LevelAttr>
+    <LevelAttr type="InheritLevelAttrDesc">
+        <subAttrType>0 </subAttrType>
+        <subAttrVal>0 </subAttrVal>
+    </LevelAttr>
+</SummonedInheritAttrDesc>
+</SummonedInheritAttrDesc_Tab>

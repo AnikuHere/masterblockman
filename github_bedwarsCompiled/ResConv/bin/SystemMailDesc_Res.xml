@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<ResSystemMailDesc_Tab>
+<TResHeadAll version="5">
+    <resHead type="TResHead">
+        <Magic>1397052237 </Magic>
+        <Version>6 </Version>
+        <Unit>972 </Unit>
+        <Count>12 </Count>
+        <MetalibHash>531d5b4a397ad5b3c0fbfb5cc8059e55</MetalibHash>
+        <ResVersion>0 </ResVersion>
+        <CreateTime>2023-04-19 20:42:35</CreateTime>
+        <ResEncording>UTF-8</ResEncording>
+        <ContentHash>a4393781a9a6a0965fc3f5c33bc17d4d</ContentHash>
+    </resHead>
+    <resHeadExt type="TResHeadExt">
+        <DataOffset>136 </DataOffset>
+    </resHeadExt>
+</TResHeadAll>
+<ResSystemMailDesc version="1">
+    <ID>1 </ID>
+    <MainType>1 </MainType>
+    <SubType>7 </SubType>
+    <Title_SCN>信用积分</Title_SCN>
+    <Title_FCN>信用积分</Title_FCN>
+    <Title_EN>信用积分</Title_EN>
+    <Body_SCN>由于您在{0}的匹配成功后没有确定进入游戏， 对战信用扣分{1}，当对战信用过低时，将受到相应的惩罚，请认真对待每场对战。</Body_SCN>
+    <Body_FCN>由于您在{0}的匹配成功后没有确定进入游戏， 对战信用扣分{1}，当对战信用过低时，将受到相应的惩罚，请认真对待每场对战。</Body_FCN>
+    <Body_EN>由于您在{0}的匹配成功后没有确定进入游戏， 对战信用扣分{1}，当对战信用过低时，将受到相应的惩罚，请认真对待每场对战。</Body_EN>
+</ResSystemMailDesc>
+<ResSystemMailDesc version="1">
+    <ID>2 </ID>
+    <MainType>1 </MainType>
+    <SubType>7 </SubType>
+    <Title_SCN>信用积分</Title_SCN>
+    <Title_FCN>信用积分</Title_FCN>
+    <Title_EN>信用积分</Title_EN>
+    <Body_SCN>由于您在{0}的比赛中挂机或者掉线时间过长， 对战信用扣分{1}，当对战信用过低时，将受到相应的惩罚，请认真对待每场对战。</Body_SCN>
+    <Body_FCN>由于您在{0}的比赛中挂机或者掉线时间过长， 对战信用扣分{1}，当对战信用过低时，将受到相应的惩罚，请认真对待每场对战。</Body_FCN>
+    <Body_EN>由于您在{0}的比赛中挂机或者掉线时间过长， 对战信用扣分{1}，当对战信用过低时，将受到相应的惩罚，请认真对待每场对战。</Body_EN>
+</ResSystemMailDesc>
+<ResSystemMailDesc version="1">
+    <ID>3 </ID>
+    <MainType>1 </MainType>
+    <SubType>9 </SubType>
+    <Title_SCN>信用积分</Title_SCN>
+    <Title_FCN>信用积分</Title_FCN>
+    <Title_EN>信用积分</Title_EN>
+    <Body_SCN>收到您在{0}提交的对玩家{1}的举报， 我们将严惩破坏游戏坏境的玩家。谢谢您的举报信息。我们对破坏游戏环境的行为绝不姑息！</Body_SCN>
+    <Body_FCN>收到您在{0}提交的对玩家{1}的举报， 我们将严惩破坏游戏坏境的玩家。谢谢您的举报信息。我们对破坏游戏环境的行为绝不姑息！</Body_FCN>
+    <Body_EN>收到您在{0}提交的对玩家{1}的举报， 我们将严惩破坏游戏坏境的玩家。谢谢您的举报信息。我们对破坏游戏环境的行为绝不姑息！</Body_EN>
+</ResSystemMailDesc>
+<ResSystemMailDesc version="1">
+    <ID>4 </ID>
+    <MainType>1 </MainType>
+    <SubType>10 </SubType>
+    <Title_SCN>信用积分</Title_SCN>
+    <Title_FCN>信用积分</Title_FCN>
+    <Title_EN>信用积分</Title_EN>
+    <Body_SCN>收到您在{0}提交的对玩家{1}的举报， 经系统判断，可信度极高。该玩家已经被扣分{2}，谢谢您的举报信息。</Body_SCN>
+    <Body_FCN>收到您在{0}提交的对玩家{1}的举报， 经系统判断，可信度极高。该玩家已经被扣分{2}，谢谢您的举报信息。</Body_FCN>
+    <Body_EN>收到您在{0}提交的对玩家{1}的举报， 经系统判断，可信度极高。该玩家已经被扣分{2}，谢谢您的举报信息。</Body_EN>
+</ResSystemMailDesc>
+<ResSystemMailDesc version="1">
+    <ID>5 </ID>
+    <MainType>1 </MainType>
+    <SubType>10 </SubType>
+    <Title_SCN>信用积分</Title_SCN>
+    <Title_FCN>信用积分</Title_FCN>
+    <Title_EN>信用积分</Title_EN>
+    <Body_SCN>收到您在{0}提交的对玩家{1}的举报， 经系统判断，可信度极高。该玩家已经被系统扣分{2}，并禁赛{3}小时，谢谢您的举报信息。</Body_SCN>
+    <Body_FCN>收到您在{0}提交的对玩家{1}的举报， 经系统判断，可信度极高。该玩家已经被系统扣分{2}，并禁赛{3}小时，谢谢您的举报信息。</Body_FCN>
+    <Body_EN>收到您在{0}提交的对玩家{1}的举报， 经系统判断，可信度极高。该玩家已经被系统扣分{2}，并禁赛{3}小时，谢谢您的举报信息。</Body_EN>
+</ResSystemMailDesc>
+<ResSystemMailDesc version="1">
+    <ID>6 </ID>
+    <MainType>1 </MainType>
+    <SubType>8 </SubType>
+    <Title_SCN>信用积分</Title_SCN>
+    <Title_FCN>信用积分</Title_FCN>
+    <Title_EN>信用积分</Title_EN>
+    <Body_SCN>您在最近的游戏中，对战信用累计扣分过多，将面临禁赛的惩罚，请认真对待每场对战！</Body_SCN>
+    <Body_FCN>您在最近的游戏中，对战信用累计扣分过多，将面临禁赛的惩罚，请认真对待每场对战！</Body_FCN>
+    <Body_EN>您在最近的游戏中，对战信用累计扣分过多，将面临禁赛的惩罚，请认真对待每场对战！</Body_EN>
+</ResSystemMailDesc>
+<ResSystemMailDesc version="1">
+    <ID>7 </ID>
+    <MainType>1 </MainType>
+    <SubType>8 </SubType>
+    <Title_SCN>信用积分</Title_SCN>
+    <Title_FCN>信用积分</Title_FCN>
+    <Title_EN>信用积分</Title_EN>
+    <Body_SCN>您在最近的游戏中，对战信用累计扣分超过{0}分，将被禁止参加多人对战{1}小时。请认真对待每场对战。</Body_SCN>
+    <Body_FCN>您在最近的游戏中，对战信用累计扣分超过{0}分，将被禁止参加多人对战{1}小时。请认真对待每场对战。</Body_FCN>
+    <Body_EN>您在最近的游戏中，对战信用累计扣分超过{0}分，将被禁止参加多人对战{1}小时。请认真对待每场对战。</Body_EN>
+</ResSystemMailDesc>
+<ResSystemMailDesc version="1">
+    <ID>8 </ID>
+    <MainType>1 </MainType>
+    <SubType>7 </SubType>
+    <Title_SCN>信用积分</Title_SCN>
+    <Title_FCN>信用积分</Title_FCN>
+    <Title_EN>信用积分</Title_EN>
+    <Body_SCN>由于您在{0}的比赛中受到多名玩家同时举报， 经系统检测判断认为情况属实，对战信用扣除{1}。</Body_SCN>
+    <Body_FCN>由于您在{0}的比赛中受到多名玩家同时举报， 经系统检测判断认为情况属实，对战信用扣除{1}。</Body_FCN>
+    <Body_EN>由于您在{0}的比赛中受到多名玩家同时举报， 经系统检测判断认为情况属实，对战信用扣除{1}。</Body_EN>
+</ResSystemMailDesc>
+<ResSystemMailDesc version="1">
+    <ID>9 </ID>
+    <MainType>1 </MainType>
+    <SubType>14 </SubType>
+    <Title_SCN>赛季结算奖励</Title_SCN>
+    <Title_FCN>赛季结算奖励</Title_FCN>
+    <Title_EN>赛季结算奖励</Title_EN>
+    <Body_SCN>亲爱的领主大人，鉴于您在本赛季{0}排位赛的优异表现， 我们决定对于您的行为给予奖励，望您再接再厉！</Body_SCN>
+    <Body_FCN>亲爱的领主大人，鉴于您在本赛季{0}排位赛的优异表现， 我们决定对于您的行为给予奖励，望您再接再厉！</Body_FCN>
+    <Body_EN>亲爱的领主大人，鉴于您在本赛季{0}排位赛的优异表现， 我们决定对于您的行为给予奖励，望您再接再厉！</Body_EN>
+</ResSystemMailDesc>
+<ResSystemMailDesc version="1">
+    <ID>10 </ID>
+    <MainType>1 </MainType>
+    <SubType>1 </SubType>
+    <Title_SCN>实名认证奖励</Title_SCN>
+    <Title_FCN>实名认证奖励</Title_FCN>
+    <Title_EN>实名认证奖励</Title_EN>
+    <Body_SCN>恭喜您已经实名认证成功！请领取您的认证奖励。</Body_SCN>
+    <Body_FCN>恭喜您已经实名认证成功！请领取您的认证奖励。</Body_FCN>
+    <Body_EN>恭喜您已经实名认证成功！请领取您的认证奖励。</Body_EN>
+</ResSystemMailDesc>
+<ResSystemMailDesc version="1">
+    <ID>11 </ID>
+    <MainType>1 </MainType>
+    <SubType>1 </SubType>
+    <Title_SCN>排位扣星通知</Title_SCN>
+    <Title_FCN>排位扣星通知</Title_FCN>
+    <Title_EN>排位扣星通知</Title_EN>
+    <Body_SCN>由于您长时间没有进行{0}排位赛，系统自动扣除{1}星。最强王者段位后，系统会每隔7天进行一次检验，如果在7天不进行排位赛，系统将扣除1颗星。请合理安排游戏时间，永做最强王者。</Body_SCN>
+    <Body_FCN>由于您长时间没有进行{0}排位赛，系统自动扣除{1}星。最强王者段位后，系统会每隔7天进行一次检验，如果在7天不进行排位赛，系统将扣除1颗星。请合理安排游戏时间，永做最强王者。</Body_FCN>
+    <Body_EN>由于您长时间没有进行{0}排位赛，系统自动扣除{1}星。最强王者段位后，系统会每隔7天进行一次检验，如果在7天不进行排位赛，系统将扣除1颗星。请合理安排游戏时间，永做最强王者。</Body_EN>
+</ResSystemMailDesc>
+<ResSystemMailDesc version="1">
+    <ID>12 </ID>
+    <MainType>1 </MainType>
+    <SubType>1 </SubType>
+    <Title_SCN>充值返还奖励</Title_SCN>
+    <Title_FCN>充值返还奖励</Title_FCN>
+    <Title_EN>充值返还奖励</Title_EN>
+    <Body_SCN>亲爱的领主大人，以下是您在删档付费测试期间，充值行为获得的返还奖励，请查收！</Body_SCN>
+    <Body_FCN>亲爱的领主大人，以下是您在删档付费测试期间，充值行为获得的返还奖励，请查收！</Body_FCN>
+    <Body_EN>亲爱的领主大人，以下是您在删档付费测试期间，充值行为获得的返还奖励，请查收！</Body_EN>
+</ResSystemMailDesc>
+</ResSystemMailDesc_Tab>

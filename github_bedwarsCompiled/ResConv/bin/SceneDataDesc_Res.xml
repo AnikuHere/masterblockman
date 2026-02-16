@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<ResSceneDataDesc_Tab>
+<TResHeadAll version="5">
+    <resHead type="TResHead">
+        <Magic>1397052237 </Magic>
+        <Version>6 </Version>
+        <Unit>266 </Unit>
+        <Count>1 </Count>
+        <MetalibHash>531d5b4a397ad5b3c0fbfb5cc8059e55</MetalibHash>
+        <ResVersion>0 </ResVersion>
+        <CreateTime>2023-04-19 20:42:30</CreateTime>
+        <ResEncording>UTF-8</ResEncording>
+        <ContentHash>daab36e636e8499956ec309a2aa388dc</ContentHash>
+    </resHead>
+    <resHeadExt type="TResHeadExt">
+        <DataOffset>136 </DataOffset>
+    </resHeadExt>
+</TResHeadAll>
+<ResSceneDataDesc version="1">
+    <ResID>1008 </ResID>
+    <InitAddGold>0 </InitAddGold>
+    <Gold>10 </Gold>
+    <GoldSendTime>1000 </GoldSendTime>
+    <PunishSystemGoldScore>2 </PunishSystemGoldScore>
+    <PunishGoldMineGoldScore>2 </PunishGoldMineGoldScore>
+    <InitAddExp>0 </InitAddExp>
+    <Exp>4 </Exp>
+    <ExpSendTime>2000 </ExpSendTime>
+    <ExpDelayTime>10000 </ExpDelayTime>
+    <ExpPeriod>0 </ExpPeriod>
+    <ExpAdd>0 </ExpAdd>
+    <ExpMuti>0 </ExpMuti>
+    <ExpMax>99999 </ExpMax>
+    <ExpGoldRange>400000 </ExpGoldRange>
+    <EnemyHeroLvExp>100 120 160 220 300 400 500 600 700 800 </EnemyHeroLvExp>
+    <HeroBeenKilledGold>200 150 100 50 50 </HeroBeenKilledGold>
+    <KillEnemyHeroGold>200 300 450 600 600 </KillEnemyHeroGold>
+    <LegionKillHeroAddExp>7000 3500 2100 </LegionKillHeroAddExp>
+    <LegionKillDogfaceAddExp>7000 3500 2100 </LegionKillDogfaceAddExp>
+    <LegionKillMonsterAddExp>10000 2500 1500 </LegionKillMonsterAddExp>
+    <LegionAddAttParam1>300000 </LegionAddAttParam1>
+    <LegionAddAttParam2>5000 </LegionAddAttParam2>
+    <LegionKillHeroAddGold>10000 5000 3333 </LegionKillHeroAddGold>
+    <LegionKillDogfaceAddGold>10000 5000 3333 </LegionKillDogfaceAddGold>
+    <LegionKillMonsterAddGold>10000 5000 3333 </LegionKillMonsterAddGold>
+    <repiarCost type="ResRepiarCost">
+        <Type>2 </Type>
+        <Params>20 4000 </Params>
+    </repiarCost>
+    <repiarCost type="ResRepiarCost">
+        <Type>0 </Type>
+        <Params>0 0 </Params>
+    </repiarCost>
+    <GoldMimeMaxGold>18000 </GoldMimeMaxGold>
+    <GoldMimeAddGold>10 </GoldMimeAddGold>
+    <GoldMimeAddParam1>20000 </GoldMimeAddParam1>
+    <GoldMimeAddParam2>2 </GoldMimeAddParam2>
+    <RevivalLevelCoef>3 </RevivalLevelCoef>
+    <RevivalTimeCoef>500 </RevivalTimeCoef>
+    <RevivalTimeMax>60000 </RevivalTimeMax>
+</ResSceneDataDesc>
+</ResSceneDataDesc_Tab>

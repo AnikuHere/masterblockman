@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<ResRankScoreRuleDesc_Tab>
+<TResHeadAll version="5">
+    <resHead type="TResHead">
+        <Magic>1397052237 </Magic>
+        <Version>6 </Version>
+        <Unit>40 </Unit>
+        <Count>3 </Count>
+        <MetalibHash>531d5b4a397ad5b3c0fbfb5cc8059e55</MetalibHash>
+        <ResVersion>0 </ResVersion>
+        <CreateTime>2023-04-19 20:42:34</CreateTime>
+        <ResEncording>UTF-8</ResEncording>
+        <ContentHash>05c418cf88de77325a3e157c6d2cc370</ContentHash>
+    </resHead>
+    <resHeadExt type="TResHeadExt">
+        <DataOffset>136 </DataOffset>
+    </resHeadExt>
+</TResHeadAll>
+<ResRankScoreRuleDesc version="1">
+    <PlayerNum>1 </PlayerNum>
+    <NoCheat>3 </NoCheat>
+    <SeqNum>3 0 0 </SeqNum>
+    <WinStreat>0 0 1 2 3 </WinStreat>
+</ResRankScoreRuleDesc>
+<ResRankScoreRuleDesc version="1">
+    <PlayerNum>2 </PlayerNum>
+    <NoCheat>3 </NoCheat>
+    <SeqNum>6 4 2 </SeqNum>
+    <WinStreat>0 2 4 5 7 </WinStreat>
+</ResRankScoreRuleDesc>
+<ResRankScoreRuleDesc version="1">
+    <PlayerNum>3 </PlayerNum>
+    <NoCheat>3 </NoCheat>
+    <SeqNum>6 4 2 </SeqNum>
+    <WinStreat>0 2 4 5 7 </WinStreat>
+</ResRankScoreRuleDesc>
+</ResRankScoreRuleDesc_Tab>

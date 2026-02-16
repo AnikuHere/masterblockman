@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<ResMobaLevelExp_Tab>
+<TResHeadAll version="5">
+    <resHead type="TResHead">
+        <Magic>1397052237 </Magic>
+        <Version>6 </Version>
+        <Unit>8 </Unit>
+        <Count>14 </Count>
+        <MetalibHash>531d5b4a397ad5b3c0fbfb5cc8059e55</MetalibHash>
+        <ResVersion>0 </ResVersion>
+        <CreateTime>2023-04-19 20:42:30</CreateTime>
+        <ResEncording>UTF-8</ResEncording>
+        <ContentHash>8b7a06e832cba13b0b3646bd568b06c9</ContentHash>
+    </resHead>
+    <resHeadExt type="TResHeadExt">
+        <DataOffset>136 </DataOffset>
+    </resHeadExt>
+</TResHeadAll>
+<ResMobaLevelExp version="1">
+    <Level>2 </Level>
+    <NeedExp>200 </NeedExp>
+</ResMobaLevelExp>
+<ResMobaLevelExp version="1">
+    <Level>3 </Level>
+    <NeedExp>300 </NeedExp>
+</ResMobaLevelExp>
+<ResMobaLevelExp version="1">
+    <Level>4 </Level>
+    <NeedExp>400 </NeedExp>
+</ResMobaLevelExp>
+<ResMobaLevelExp version="1">
+    <Level>5 </Level>
+    <NeedExp>550 </NeedExp>
+</ResMobaLevelExp>
+<ResMobaLevelExp version="1">
+    <Level>6 </Level>
+    <NeedExp>700 </NeedExp>
+</ResMobaLevelExp>
+<ResMobaLevelExp version="1">
+    <Level>7 </Level>
+    <NeedExp>850 </NeedExp>
+</ResMobaLevelExp>
+<ResMobaLevelExp version="1">
+    <Level>8 </Level>
+    <NeedExp>1000 </NeedExp>
+</ResMobaLevelExp>
+<ResMobaLevelExp version="1">
+    <Level>9 </Level>
+    <NeedExp>1200 </NeedExp>
+</ResMobaLevelExp>
+<ResMobaLevelExp version="1">
+    <Level>10 </Level>
+    <NeedExp>1400 </NeedExp>
+</ResMobaLevelExp>
+<ResMobaLevelExp version="1">
+    <Level>11 </Level>
+    <NeedExp>1700 </NeedExp>
+</ResMobaLevelExp>
+<ResMobaLevelExp version="1">
+    <Level>12 </Level>
+    <NeedExp>1900 </NeedExp>
+</ResMobaLevelExp>
+<ResMobaLevelExp version="1">
+    <Level>13 </Level>
+    <NeedExp>2100 </NeedExp>
+</ResMobaLevelExp>
+<ResMobaLevelExp version="1">
+    <Level>14 </Level>
+    <NeedExp>2300 </NeedExp>
+</ResMobaLevelExp>
+<ResMobaLevelExp version="1">
+    <Level>15 </Level>
+    <NeedExp>2500 </NeedExp>
+</ResMobaLevelExp>
+</ResMobaLevelExp_Tab>

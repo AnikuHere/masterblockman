@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<ResRaceUnlockDesc_Tab>
+<TResHeadAll version="5">
+    <resHead type="TResHead">
+        <Magic>1397052237 </Magic>
+        <Version>6 </Version>
+        <Unit>21 </Unit>
+        <Count>4 </Count>
+        <MetalibHash>531d5b4a397ad5b3c0fbfb5cc8059e55</MetalibHash>
+        <ResVersion>0 </ResVersion>
+        <CreateTime>2023-04-19 20:42:34</CreateTime>
+        <ResEncording>UTF-8</ResEncording>
+        <ContentHash>a41e412c8292f10d125c27881c07295b</ContentHash>
+    </resHead>
+    <resHeadExt type="TResHeadExt">
+        <DataOffset>136 </DataOffset>
+    </resHeadExt>
+</TResHeadAll>
+<ResRaceUnlockDesc version="1">
+    <RaceType>1 </RaceType>
+    <UnlockLevel>0 </UnlockLevel>
+    <UnlockGold>0 </UnlockGold>
+    <UnlockDiamond>0 </UnlockDiamond>
+    <UnlockTicket>0 </UnlockTicket>
+    <UnlockTechTree>1 </UnlockTechTree>
+</ResRaceUnlockDesc>
+<ResRaceUnlockDesc version="1">
+    <RaceType>2 </RaceType>
+    <UnlockLevel>0 </UnlockLevel>
+    <UnlockGold>0 </UnlockGold>
+    <UnlockDiamond>0 </UnlockDiamond>
+    <UnlockTicket>0 </UnlockTicket>
+    <UnlockTechTree>1 </UnlockTechTree>
+</ResRaceUnlockDesc>
+<ResRaceUnlockDesc version="1">
+    <RaceType>3 </RaceType>
+    <UnlockLevel>0 </UnlockLevel>
+    <UnlockGold>0 </UnlockGold>
+    <UnlockDiamond>0 </UnlockDiamond>
+    <UnlockTicket>0 </UnlockTicket>
+    <UnlockTechTree>1 </UnlockTechTree>
+</ResRaceUnlockDesc>
+<ResRaceUnlockDesc version="1">
+    <RaceType>4 </RaceType>
+    <UnlockLevel>0 </UnlockLevel>
+    <UnlockGold>0 </UnlockGold>
+    <UnlockDiamond>0 </UnlockDiamond>
+    <UnlockTicket>0 </UnlockTicket>
+    <UnlockTechTree>1 </UnlockTechTree>
+</ResRaceUnlockDesc>
+</ResRaceUnlockDesc_Tab>

@@ -1,0 +1,727 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<ResAchievementLevelDesc_Tab>
+<TResHeadAll version="5">
+    <resHead type="TResHead">
+        <Magic>1397052237 </Magic>
+        <Version>6 </Version>
+        <Unit>24 </Unit>
+        <Count>59 </Count>
+        <MetalibHash>531d5b4a397ad5b3c0fbfb5cc8059e55</MetalibHash>
+        <ResVersion>0 </ResVersion>
+        <CreateTime>2023-04-19 20:42:35</CreateTime>
+        <ResEncording>UTF-8</ResEncording>
+        <ContentHash>7539e8491a365ed87f323b90f9effc48</ContentHash>
+    </resHead>
+    <resHeadExt type="TResHeadExt">
+        <DataOffset>136 </DataOffset>
+    </resHeadExt>
+</TResHeadAll>
+<ResAchievementLevelDesc version="1">
+    <Level>1 </Level>
+    <Point>10 </Point>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResAchievementLevelDesc>
+<ResAchievementLevelDesc version="1">
+    <Level>2 </Level>
+    <Point>20 </Point>
+    <Reward type="ItemReward">
+        <ItemID>4 </ItemID>
+        <ItemNum>50 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResAchievementLevelDesc>
+<ResAchievementLevelDesc version="1">
+    <Level>3 </Level>
+    <Point>30 </Point>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResAchievementLevelDesc>
+<ResAchievementLevelDesc version="1">
+    <Level>4 </Level>
+    <Point>40 </Point>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResAchievementLevelDesc>
+<ResAchievementLevelDesc version="1">
+    <Level>5 </Level>
+    <Point>50 </Point>
+    <Reward type="ItemReward">
+        <ItemID>4 </ItemID>
+        <ItemNum>50 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResAchievementLevelDesc>
+<ResAchievementLevelDesc version="1">
+    <Level>6 </Level>
+    <Point>60 </Point>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResAchievementLevelDesc>
+<ResAchievementLevelDesc version="1">
+    <Level>7 </Level>
+    <Point>70 </Point>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResAchievementLevelDesc>
+<ResAchievementLevelDesc version="1">
+    <Level>8 </Level>
+    <Point>80 </Point>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResAchievementLevelDesc>
+<ResAchievementLevelDesc version="1">
+    <Level>9 </Level>
+    <Point>90 </Point>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResAchievementLevelDesc>
+<ResAchievementLevelDesc version="1">
+    <Level>10 </Level>
+    <Point>100 </Point>
+    <Reward type="ItemReward">
+        <ItemID>4 </ItemID>
+        <ItemNum>100 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResAchievementLevelDesc>
+<ResAchievementLevelDesc version="1">
+    <Level>11 </Level>
+    <Point>100 </Point>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResAchievementLevelDesc>
+<ResAchievementLevelDesc version="1">
+    <Level>12 </Level>
+    <Point>100 </Point>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResAchievementLevelDesc>
+<ResAchievementLevelDesc version="1">
+    <Level>13 </Level>
+    <Point>100 </Point>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResAchievementLevelDesc>
+<ResAchievementLevelDesc version="1">
+    <Level>14 </Level>
+    <Point>100 </Point>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResAchievementLevelDesc>
+<ResAchievementLevelDesc version="1">
+    <Level>15 </Level>
+    <Point>100 </Point>
+    <Reward type="ItemReward">
+        <ItemID>4 </ItemID>
+        <ItemNum>100 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResAchievementLevelDesc>
+<ResAchievementLevelDesc version="1">
+    <Level>16 </Level>
+    <Point>100 </Point>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResAchievementLevelDesc>
+<ResAchievementLevelDesc version="1">
+    <Level>17 </Level>
+    <Point>100 </Point>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResAchievementLevelDesc>
+<ResAchievementLevelDesc version="1">
+    <Level>18 </Level>
+    <Point>100 </Point>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResAchievementLevelDesc>
+<ResAchievementLevelDesc version="1">
+    <Level>19 </Level>
+    <Point>100 </Point>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResAchievementLevelDesc>
+<ResAchievementLevelDesc version="1">
+    <Level>20 </Level>
+    <Point>100 </Point>
+    <Reward type="ItemReward">
+        <ItemID>4 </ItemID>
+        <ItemNum>200 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResAchievementLevelDesc>
+<ResAchievementLevelDesc version="1">
+    <Level>21 </Level>
+    <Point>100 </Point>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResAchievementLevelDesc>
+<ResAchievementLevelDesc version="1">
+    <Level>22 </Level>
+    <Point>100 </Point>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResAchievementLevelDesc>
+<ResAchievementLevelDesc version="1">
+    <Level>23 </Level>
+    <Point>100 </Point>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResAchievementLevelDesc>
+<ResAchievementLevelDesc version="1">
+    <Level>24 </Level>
+    <Point>100 </Point>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResAchievementLevelDesc>
+<ResAchievementLevelDesc version="1">
+    <Level>25 </Level>
+    <Point>100 </Point>
+    <Reward type="ItemReward">
+        <ItemID>4 </ItemID>
+        <ItemNum>200 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResAchievementLevelDesc>
+<ResAchievementLevelDesc version="1">
+    <Level>26 </Level>
+    <Point>100 </Point>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResAchievementLevelDesc>
+<ResAchievementLevelDesc version="1">
+    <Level>27 </Level>
+    <Point>100 </Point>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResAchievementLevelDesc>
+<ResAchievementLevelDesc version="1">
+    <Level>28 </Level>
+    <Point>100 </Point>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResAchievementLevelDesc>
+<ResAchievementLevelDesc version="1">
+    <Level>29 </Level>
+    <Point>100 </Point>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResAchievementLevelDesc>
+<ResAchievementLevelDesc version="1">
+    <Level>30 </Level>
+    <Point>100 </Point>
+    <Reward type="ItemReward">
+        <ItemID>4 </ItemID>
+        <ItemNum>300 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResAchievementLevelDesc>
+<ResAchievementLevelDesc version="1">
+    <Level>31 </Level>
+    <Point>200 </Point>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResAchievementLevelDesc>
+<ResAchievementLevelDesc version="1">
+    <Level>32 </Level>
+    <Point>200 </Point>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResAchievementLevelDesc>
+<ResAchievementLevelDesc version="1">
+    <Level>33 </Level>
+    <Point>200 </Point>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResAchievementLevelDesc>
+<ResAchievementLevelDesc version="1">
+    <Level>34 </Level>
+    <Point>200 </Point>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResAchievementLevelDesc>
+<ResAchievementLevelDesc version="1">
+    <Level>35 </Level>
+    <Point>200 </Point>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResAchievementLevelDesc>
+<ResAchievementLevelDesc version="1">
+    <Level>36 </Level>
+    <Point>250 </Point>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResAchievementLevelDesc>
+<ResAchievementLevelDesc version="1">
+    <Level>37 </Level>
+    <Point>250 </Point>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResAchievementLevelDesc>
+<ResAchievementLevelDesc version="1">
+    <Level>38 </Level>
+    <Point>250 </Point>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResAchievementLevelDesc>
+<ResAchievementLevelDesc version="1">
+    <Level>39 </Level>
+    <Point>250 </Point>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResAchievementLevelDesc>
+<ResAchievementLevelDesc version="1">
+    <Level>40 </Level>
+    <Point>250 </Point>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResAchievementLevelDesc>
+<ResAchievementLevelDesc version="1">
+    <Level>41 </Level>
+    <Point>300 </Point>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResAchievementLevelDesc>
+<ResAchievementLevelDesc version="1">
+    <Level>42 </Level>
+    <Point>300 </Point>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResAchievementLevelDesc>
+<ResAchievementLevelDesc version="1">
+    <Level>43 </Level>
+    <Point>300 </Point>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResAchievementLevelDesc>
+<ResAchievementLevelDesc version="1">
+    <Level>44 </Level>
+    <Point>300 </Point>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResAchievementLevelDesc>
+<ResAchievementLevelDesc version="1">
+    <Level>45 </Level>
+    <Point>300 </Point>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResAchievementLevelDesc>
+<ResAchievementLevelDesc version="1">
+    <Level>46 </Level>
+    <Point>350 </Point>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResAchievementLevelDesc>
+<ResAchievementLevelDesc version="1">
+    <Level>47 </Level>
+    <Point>350 </Point>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResAchievementLevelDesc>
+<ResAchievementLevelDesc version="1">
+    <Level>48 </Level>
+    <Point>350 </Point>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResAchievementLevelDesc>
+<ResAchievementLevelDesc version="1">
+    <Level>49 </Level>
+    <Point>350 </Point>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResAchievementLevelDesc>
+<ResAchievementLevelDesc version="1">
+    <Level>50 </Level>
+    <Point>350 </Point>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResAchievementLevelDesc>
+<ResAchievementLevelDesc version="1">
+    <Level>51 </Level>
+    <Point>300 </Point>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResAchievementLevelDesc>
+<ResAchievementLevelDesc version="1">
+    <Level>52 </Level>
+    <Point>300 </Point>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResAchievementLevelDesc>
+<ResAchievementLevelDesc version="1">
+    <Level>53 </Level>
+    <Point>300 </Point>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResAchievementLevelDesc>
+<ResAchievementLevelDesc version="1">
+    <Level>54 </Level>
+    <Point>300 </Point>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResAchievementLevelDesc>
+<ResAchievementLevelDesc version="1">
+    <Level>55 </Level>
+    <Point>300 </Point>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResAchievementLevelDesc>
+<ResAchievementLevelDesc version="1">
+    <Level>56 </Level>
+    <Point>300 </Point>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResAchievementLevelDesc>
+<ResAchievementLevelDesc version="1">
+    <Level>57 </Level>
+    <Point>300 </Point>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResAchievementLevelDesc>
+<ResAchievementLevelDesc version="1">
+    <Level>58 </Level>
+    <Point>300 </Point>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResAchievementLevelDesc>
+<ResAchievementLevelDesc version="1">
+    <Level>59 </Level>
+    <Point>300 </Point>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResAchievementLevelDesc>
+</ResAchievementLevelDesc_Tab>

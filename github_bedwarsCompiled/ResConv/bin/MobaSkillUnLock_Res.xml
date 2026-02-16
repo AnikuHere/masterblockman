@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<ResMobaSkillUnLock_Tab>
+<TResHeadAll version="5">
+    <resHead type="TResHead">
+        <Magic>1397052237 </Magic>
+        <Version>6 </Version>
+        <Unit>5 </Unit>
+        <Count>13 </Count>
+        <MetalibHash>531d5b4a397ad5b3c0fbfb5cc8059e55</MetalibHash>
+        <ResVersion>0 </ResVersion>
+        <CreateTime>2023-04-19 20:42:30</CreateTime>
+        <ResEncording>UTF-8</ResEncording>
+        <ContentHash>43beda4ff6ff0890f54564561fefb62a</ContentHash>
+    </resHead>
+    <resHeadExt type="TResHeadExt">
+        <DataOffset>136 </DataOffset>
+    </resHeadExt>
+</TResHeadAll>
+<ResMobaSkillUnLock version="1">
+    <SkillBarType>1 </SkillBarType>
+    <SkillLevel>1 </SkillLevel>
+    <NeedLevel>1 </NeedLevel>
+</ResMobaSkillUnLock>
+<ResMobaSkillUnLock version="1">
+    <SkillBarType>1 </SkillBarType>
+    <SkillLevel>2 </SkillLevel>
+    <NeedLevel>3 </NeedLevel>
+</ResMobaSkillUnLock>
+<ResMobaSkillUnLock version="1">
+    <SkillBarType>1 </SkillBarType>
+    <SkillLevel>3 </SkillLevel>
+    <NeedLevel>5 </NeedLevel>
+</ResMobaSkillUnLock>
+<ResMobaSkillUnLock version="1">
+    <SkillBarType>1 </SkillBarType>
+    <SkillLevel>4 </SkillLevel>
+    <NeedLevel>7 </NeedLevel>
+</ResMobaSkillUnLock>
+<ResMobaSkillUnLock version="1">
+    <SkillBarType>2 </SkillBarType>
+    <SkillLevel>1 </SkillLevel>
+    <NeedLevel>1 </NeedLevel>
+</ResMobaSkillUnLock>
+<ResMobaSkillUnLock version="1">
+    <SkillBarType>2 </SkillBarType>
+    <SkillLevel>2 </SkillLevel>
+    <NeedLevel>3 </NeedLevel>
+</ResMobaSkillUnLock>
+<ResMobaSkillUnLock version="1">
+    <SkillBarType>2 </SkillBarType>
+    <SkillLevel>3 </SkillLevel>
+    <NeedLevel>5 </NeedLevel>
+</ResMobaSkillUnLock>
+<ResMobaSkillUnLock version="1">
+    <SkillBarType>2 </SkillBarType>
+    <SkillLevel>4 </SkillLevel>
+    <NeedLevel>7 </NeedLevel>
+</ResMobaSkillUnLock>
+<ResMobaSkillUnLock version="1">
+    <SkillBarType>4 </SkillBarType>
+    <SkillLevel>1 </SkillLevel>
+    <NeedLevel>4 </NeedLevel>
+</ResMobaSkillUnLock>
+<ResMobaSkillUnLock version="1">
+    <SkillBarType>4 </SkillBarType>
+    <SkillLevel>2 </SkillLevel>
+    <NeedLevel>8 </NeedLevel>
+</ResMobaSkillUnLock>
+<ResMobaSkillUnLock version="1">
+    <SkillBarType>12 </SkillBarType>
+    <SkillLevel>1 </SkillLevel>
+    <NeedLevel>1 </NeedLevel>
+</ResMobaSkillUnLock>
+<ResMobaSkillUnLock version="1">
+    <SkillBarType>12 </SkillBarType>
+    <SkillLevel>2 </SkillLevel>
+    <NeedLevel>4 </NeedLevel>
+</ResMobaSkillUnLock>
+<ResMobaSkillUnLock version="1">
+    <SkillBarType>12 </SkillBarType>
+    <SkillLevel>3 </SkillLevel>
+    <NeedLevel>8 </NeedLevel>
+</ResMobaSkillUnLock>
+</ResMobaSkillUnLock_Tab>

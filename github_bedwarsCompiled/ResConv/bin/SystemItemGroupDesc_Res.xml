@@ -1,0 +1,1216 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<ResSystemItemGroupDesc_Tab>
+<TResHeadAll version="5">
+    <resHead type="TResHead">
+        <Magic>1397052237 </Magic>
+        <Version>6 </Version>
+        <Unit>164 </Unit>
+        <Count>19 </Count>
+        <MetalibHash>531d5b4a397ad5b3c0fbfb5cc8059e55</MetalibHash>
+        <ResVersion>0 </ResVersion>
+        <CreateTime>2023-04-19 20:42:35</CreateTime>
+        <ResEncording>UTF-8</ResEncording>
+        <ContentHash>b4dc41257c09fa61c715452b1daf7b64</ContentHash>
+    </resHead>
+    <resHeadExt type="TResHeadExt">
+        <DataOffset>136 </DataOffset>
+    </resHeadExt>
+</TResHeadAll>
+<ResSystemItemGroupDesc version="1">
+    <ID>1 </ID>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>3 </ID>
+        <Num>588 </Num>
+        <Probability>300000 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>4 </ID>
+        <Num>60 </Num>
+        <Probability>700000 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>0 </ID>
+        <Num>0 </Num>
+        <Probability>0 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>0 </ID>
+        <Num>0 </Num>
+        <Probability>0 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>0 </ID>
+        <Num>0 </Num>
+        <Probability>0 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>0 </ID>
+        <Num>0 </Num>
+        <Probability>0 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>0 </ID>
+        <Num>0 </Num>
+        <Probability>0 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>0 </ID>
+        <Num>0 </Num>
+        <Probability>0 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>0 </ID>
+        <Num>0 </Num>
+        <Probability>0 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>0 </ID>
+        <Num>0 </Num>
+        <Probability>0 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+</ResSystemItemGroupDesc>
+<ResSystemItemGroupDesc version="1">
+    <ID>2 </ID>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>3 </ID>
+        <Num>30 </Num>
+        <Probability>1000000 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>9 </ID>
+        <Num>5 </Num>
+        <Probability>1000000 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>10 </ID>
+        <Num>5 </Num>
+        <Probability>1000000 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>4 </ID>
+        <Num>0 </Num>
+        <Probability>0 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>0 </ID>
+        <Num>0 </Num>
+        <Probability>0 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>0 </ID>
+        <Num>0 </Num>
+        <Probability>0 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>0 </ID>
+        <Num>0 </Num>
+        <Probability>0 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>0 </ID>
+        <Num>0 </Num>
+        <Probability>0 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>0 </ID>
+        <Num>0 </Num>
+        <Probability>0 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>0 </ID>
+        <Num>0 </Num>
+        <Probability>0 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+</ResSystemItemGroupDesc>
+<ResSystemItemGroupDesc version="1">
+    <ID>3 </ID>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>3 </ID>
+        <Num>45 </Num>
+        <Probability>1000000 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>9 </ID>
+        <Num>5 </Num>
+        <Probability>1000000 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>10 </ID>
+        <Num>5 </Num>
+        <Probability>1000000 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>4 </ID>
+        <Num>0 </Num>
+        <Probability>0 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>0 </ID>
+        <Num>0 </Num>
+        <Probability>0 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>0 </ID>
+        <Num>0 </Num>
+        <Probability>0 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>0 </ID>
+        <Num>0 </Num>
+        <Probability>0 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>0 </ID>
+        <Num>0 </Num>
+        <Probability>0 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>0 </ID>
+        <Num>0 </Num>
+        <Probability>0 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>0 </ID>
+        <Num>0 </Num>
+        <Probability>0 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+</ResSystemItemGroupDesc>
+<ResSystemItemGroupDesc version="1">
+    <ID>4 </ID>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>3 </ID>
+        <Num>60 </Num>
+        <Probability>1000000 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>9 </ID>
+        <Num>5 </Num>
+        <Probability>1000000 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>10 </ID>
+        <Num>5 </Num>
+        <Probability>1000000 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>4 </ID>
+        <Num>0 </Num>
+        <Probability>0 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>0 </ID>
+        <Num>0 </Num>
+        <Probability>0 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>0 </ID>
+        <Num>0 </Num>
+        <Probability>0 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>0 </ID>
+        <Num>0 </Num>
+        <Probability>0 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>0 </ID>
+        <Num>0 </Num>
+        <Probability>0 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>0 </ID>
+        <Num>0 </Num>
+        <Probability>0 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>0 </ID>
+        <Num>0 </Num>
+        <Probability>0 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+</ResSystemItemGroupDesc>
+<ResSystemItemGroupDesc version="1">
+    <ID>5 </ID>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>3 </ID>
+        <Num>90 </Num>
+        <Probability>1000000 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>9 </ID>
+        <Num>15 </Num>
+        <Probability>1000000 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>10 </ID>
+        <Num>15 </Num>
+        <Probability>1000000 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>4 </ID>
+        <Num>0 </Num>
+        <Probability>0 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>0 </ID>
+        <Num>0 </Num>
+        <Probability>0 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>0 </ID>
+        <Num>0 </Num>
+        <Probability>0 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>0 </ID>
+        <Num>0 </Num>
+        <Probability>0 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>0 </ID>
+        <Num>0 </Num>
+        <Probability>0 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>0 </ID>
+        <Num>0 </Num>
+        <Probability>0 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>0 </ID>
+        <Num>0 </Num>
+        <Probability>0 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+</ResSystemItemGroupDesc>
+<ResSystemItemGroupDesc version="1">
+    <ID>6 </ID>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>3 </ID>
+        <Num>100 </Num>
+        <Probability>1000000 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>9 </ID>
+        <Num>20 </Num>
+        <Probability>1000000 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>10 </ID>
+        <Num>20 </Num>
+        <Probability>1000000 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>4 </ID>
+        <Num>50 </Num>
+        <Probability>100000 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>0 </ID>
+        <Num>0 </Num>
+        <Probability>0 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>0 </ID>
+        <Num>0 </Num>
+        <Probability>0 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>0 </ID>
+        <Num>0 </Num>
+        <Probability>0 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>0 </ID>
+        <Num>0 </Num>
+        <Probability>0 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>0 </ID>
+        <Num>0 </Num>
+        <Probability>0 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>0 </ID>
+        <Num>0 </Num>
+        <Probability>0 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+</ResSystemItemGroupDesc>
+<ResSystemItemGroupDesc version="1">
+    <ID>7 </ID>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>3 </ID>
+        <Num>200 </Num>
+        <Probability>1000000 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>9 </ID>
+        <Num>100 </Num>
+        <Probability>1000000 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>10 </ID>
+        <Num>100 </Num>
+        <Probability>1000000 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>4 </ID>
+        <Num>100 </Num>
+        <Probability>200000 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>0 </ID>
+        <Num>0 </Num>
+        <Probability>0 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>0 </ID>
+        <Num>0 </Num>
+        <Probability>0 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>0 </ID>
+        <Num>0 </Num>
+        <Probability>0 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>0 </ID>
+        <Num>0 </Num>
+        <Probability>0 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>0 </ID>
+        <Num>0 </Num>
+        <Probability>0 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>0 </ID>
+        <Num>0 </Num>
+        <Probability>0 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+</ResSystemItemGroupDesc>
+<ResSystemItemGroupDesc version="1">
+    <ID>8 </ID>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>3 </ID>
+        <Num>500 </Num>
+        <Probability>1000000 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>9 </ID>
+        <Num>200 </Num>
+        <Probability>1000000 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>10 </ID>
+        <Num>200 </Num>
+        <Probability>1000000 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>4 </ID>
+        <Num>200 </Num>
+        <Probability>500000 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>0 </ID>
+        <Num>0 </Num>
+        <Probability>0 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>0 </ID>
+        <Num>0 </Num>
+        <Probability>0 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>0 </ID>
+        <Num>0 </Num>
+        <Probability>0 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>0 </ID>
+        <Num>0 </Num>
+        <Probability>0 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>0 </ID>
+        <Num>0 </Num>
+        <Probability>0 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>0 </ID>
+        <Num>0 </Num>
+        <Probability>0 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+</ResSystemItemGroupDesc>
+<ResSystemItemGroupDesc version="1">
+    <ID>9 </ID>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>4 </ID>
+        <Num>10 </Num>
+        <Probability>1000000 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>31100001 </ID>
+        <Num>1 </Num>
+        <Probability>100000 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>0 </ID>
+        <Num>0 </Num>
+        <Probability>0 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>0 </ID>
+        <Num>0 </Num>
+        <Probability>0 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>0 </ID>
+        <Num>0 </Num>
+        <Probability>0 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>0 </ID>
+        <Num>0 </Num>
+        <Probability>0 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>0 </ID>
+        <Num>0 </Num>
+        <Probability>0 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>0 </ID>
+        <Num>0 </Num>
+        <Probability>0 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>0 </ID>
+        <Num>0 </Num>
+        <Probability>0 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>0 </ID>
+        <Num>0 </Num>
+        <Probability>0 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+</ResSystemItemGroupDesc>
+<ResSystemItemGroupDesc version="1">
+    <ID>10 </ID>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>9 </ID>
+        <Num>10 </Num>
+        <Probability>450000 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>10 </ID>
+        <Num>10 </Num>
+        <Probability>450000 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>9 </ID>
+        <Num>50 </Num>
+        <Probability>50000 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>10 </ID>
+        <Num>50 </Num>
+        <Probability>50000 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>0 </ID>
+        <Num>0 </Num>
+        <Probability>0 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>0 </ID>
+        <Num>0 </Num>
+        <Probability>0 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>0 </ID>
+        <Num>0 </Num>
+        <Probability>0 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>0 </ID>
+        <Num>0 </Num>
+        <Probability>0 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>0 </ID>
+        <Num>0 </Num>
+        <Probability>0 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>0 </ID>
+        <Num>0 </Num>
+        <Probability>0 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+</ResSystemItemGroupDesc>
+<ResSystemItemGroupDesc version="1">
+    <ID>11 </ID>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>4 </ID>
+        <Num>3 </Num>
+        <Probability>1000000 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>0 </ID>
+        <Num>0 </Num>
+        <Probability>0 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>0 </ID>
+        <Num>0 </Num>
+        <Probability>0 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>0 </ID>
+        <Num>0 </Num>
+        <Probability>0 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>0 </ID>
+        <Num>0 </Num>
+        <Probability>0 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>0 </ID>
+        <Num>0 </Num>
+        <Probability>0 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>0 </ID>
+        <Num>0 </Num>
+        <Probability>0 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>0 </ID>
+        <Num>0 </Num>
+        <Probability>0 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>0 </ID>
+        <Num>0 </Num>
+        <Probability>0 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>0 </ID>
+        <Num>0 </Num>
+        <Probability>0 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+</ResSystemItemGroupDesc>
+<ResSystemItemGroupDesc version="1">
+    <ID>12 </ID>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>31030020 </ID>
+        <Num>1 </Num>
+        <Probability>1000000 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>4 </ID>
+        <Num>50 </Num>
+        <Probability>1000000 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>0 </ID>
+        <Num>0 </Num>
+        <Probability>0 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>0 </ID>
+        <Num>0 </Num>
+        <Probability>0 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>0 </ID>
+        <Num>0 </Num>
+        <Probability>0 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>0 </ID>
+        <Num>0 </Num>
+        <Probability>0 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>0 </ID>
+        <Num>0 </Num>
+        <Probability>0 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>0 </ID>
+        <Num>0 </Num>
+        <Probability>0 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>0 </ID>
+        <Num>0 </Num>
+        <Probability>0 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>0 </ID>
+        <Num>0 </Num>
+        <Probability>0 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+</ResSystemItemGroupDesc>
+<ResSystemItemGroupDesc version="1">
+    <ID>13 </ID>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>31100002 </ID>
+        <Num>2 </Num>
+        <Probability>1000000 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>31100004 </ID>
+        <Num>1 </Num>
+        <Probability>1000000 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>0 </ID>
+        <Num>0 </Num>
+        <Probability>0 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>0 </ID>
+        <Num>0 </Num>
+        <Probability>0 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>0 </ID>
+        <Num>0 </Num>
+        <Probability>0 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>0 </ID>
+        <Num>0 </Num>
+        <Probability>0 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>0 </ID>
+        <Num>0 </Num>
+        <Probability>0 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>0 </ID>
+        <Num>0 </Num>
+        <Probability>0 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>0 </ID>
+        <Num>0 </Num>
+        <Probability>0 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>0 </ID>
+        <Num>0 </Num>
+        <Probability>0 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+</ResSystemItemGroupDesc>
+<ResSystemItemGroupDesc version="1">
+    <ID>14 </ID>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>47410002 </ID>
+        <Num>1 </Num>
+        <Probability>250000 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>47301002 </ID>
+        <Num>1 </Num>
+        <Probability>250000 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>47202002 </ID>
+        <Num>1 </Num>
+        <Probability>250000 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>47404002 </ID>
+        <Num>1 </Num>
+        <Probability>250000 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>0 </ID>
+        <Num>0 </Num>
+        <Probability>0 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>0 </ID>
+        <Num>0 </Num>
+        <Probability>0 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>0 </ID>
+        <Num>0 </Num>
+        <Probability>0 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>0 </ID>
+        <Num>0 </Num>
+        <Probability>0 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>0 </ID>
+        <Num>0 </Num>
+        <Probability>0 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>0 </ID>
+        <Num>0 </Num>
+        <Probability>0 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+</ResSystemItemGroupDesc>
+<ResSystemItemGroupDesc version="1">
+    <ID>15 </ID>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>31130404 </ID>
+        <Num>1 </Num>
+        <Probability>1000000 </Probability>
+        <Price>388 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>31144041 </ID>
+        <Num>1 </Num>
+        <Probability>1000000 </Probability>
+        <Price>788 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>31070002 </ID>
+        <Num>1 </Num>
+        <Probability>1000000 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>0 </ID>
+        <Num>0 </Num>
+        <Probability>0 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>0 </ID>
+        <Num>0 </Num>
+        <Probability>0 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>0 </ID>
+        <Num>0 </Num>
+        <Probability>0 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>0 </ID>
+        <Num>0 </Num>
+        <Probability>0 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>0 </ID>
+        <Num>0 </Num>
+        <Probability>0 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>0 </ID>
+        <Num>0 </Num>
+        <Probability>0 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>0 </ID>
+        <Num>0 </Num>
+        <Probability>0 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+</ResSystemItemGroupDesc>
+<ResSystemItemGroupDesc version="1">
+    <ID>16 </ID>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>31070001 </ID>
+        <Num>1 </Num>
+        <Probability>1000000 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>31070002 </ID>
+        <Num>1 </Num>
+        <Probability>1000000 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>31070003 </ID>
+        <Num>1 </Num>
+        <Probability>1000000 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>0 </ID>
+        <Num>0 </Num>
+        <Probability>0 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>0 </ID>
+        <Num>0 </Num>
+        <Probability>0 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>0 </ID>
+        <Num>0 </Num>
+        <Probability>0 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>0 </ID>
+        <Num>0 </Num>
+        <Probability>0 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>0 </ID>
+        <Num>0 </Num>
+        <Probability>0 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>0 </ID>
+        <Num>0 </Num>
+        <Probability>0 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>0 </ID>
+        <Num>0 </Num>
+        <Probability>0 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+</ResSystemItemGroupDesc>
+<ResSystemItemGroupDesc version="1">
+    <ID>17 </ID>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>31080001 </ID>
+        <Num>1 </Num>
+        <Probability>300000 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>31080002 </ID>
+        <Num>1 </Num>
+        <Probability>300000 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>31080003 </ID>
+        <Num>1 </Num>
+        <Probability>400000 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>0 </ID>
+        <Num>0 </Num>
+        <Probability>0 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>0 </ID>
+        <Num>0 </Num>
+        <Probability>0 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>0 </ID>
+        <Num>0 </Num>
+        <Probability>0 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>0 </ID>
+        <Num>0 </Num>
+        <Probability>0 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>0 </ID>
+        <Num>0 </Num>
+        <Probability>0 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>0 </ID>
+        <Num>0 </Num>
+        <Probability>0 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>0 </ID>
+        <Num>0 </Num>
+        <Probability>0 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+</ResSystemItemGroupDesc>
+<ResSystemItemGroupDesc version="1">
+    <ID>18 </ID>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>31130401 </ID>
+        <Num>1 </Num>
+        <Probability>300000 </Probability>
+        <Price>20 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>31130409 </ID>
+        <Num>1 </Num>
+        <Probability>300000 </Probability>
+        <Price>20 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>31070001 </ID>
+        <Num>1 </Num>
+        <Probability>400000 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>0 </ID>
+        <Num>0 </Num>
+        <Probability>0 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>0 </ID>
+        <Num>0 </Num>
+        <Probability>0 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>0 </ID>
+        <Num>0 </Num>
+        <Probability>0 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>0 </ID>
+        <Num>0 </Num>
+        <Probability>0 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>0 </ID>
+        <Num>0 </Num>
+        <Probability>0 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>0 </ID>
+        <Num>0 </Num>
+        <Probability>0 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>0 </ID>
+        <Num>0 </Num>
+        <Probability>0 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+</ResSystemItemGroupDesc>
+<ResSystemItemGroupDesc version="1">
+    <ID>19 </ID>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>31151407 </ID>
+        <Num>1 </Num>
+        <Probability>250000 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>31151409 </ID>
+        <Num>1 </Num>
+        <Probability>250000 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>31151102 </ID>
+        <Num>1 </Num>
+        <Probability>250000 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>31151417 </ID>
+        <Num>1 </Num>
+        <Probability>250000 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>0 </ID>
+        <Num>0 </Num>
+        <Probability>0 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>0 </ID>
+        <Num>0 </Num>
+        <Probability>0 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>0 </ID>
+        <Num>0 </Num>
+        <Probability>0 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>0 </ID>
+        <Num>0 </Num>
+        <Probability>0 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>0 </ID>
+        <Num>0 </Num>
+        <Probability>0 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemPackageItemDesc">
+        <ID>0 </ID>
+        <Num>0 </Num>
+        <Probability>0 </Probability>
+        <Price>0 </Price>
+    </ItemGroupDesc>
+</ResSystemItemGroupDesc>
+</ResSystemItemGroupDesc_Tab>

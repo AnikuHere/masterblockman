@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<ResMonthCardDesc_Tab>
+<TResHeadAll version="5">
+    <resHead type="TResHead">
+        <Magic>1397052237 </Magic>
+        <Version>6 </Version>
+        <Unit>40 </Unit>
+        <Count>2 </Count>
+        <MetalibHash>531d5b4a397ad5b3c0fbfb5cc8059e55</MetalibHash>
+        <ResVersion>0 </ResVersion>
+        <CreateTime>2023-04-19 20:42:35</CreateTime>
+        <ResEncording>UTF-8</ResEncording>
+        <ContentHash>6e513d80855517d6da5f02e66593d152</ContentHash>
+    </resHead>
+    <resHeadExt type="TResHeadExt">
+        <DataOffset>136 </DataOffset>
+    </resHeadExt>
+</TResHeadAll>
+<ResMonthCardDesc version="1">
+    <ID>1 </ID>
+    <Type>1 </Type>
+    <NeedPay>68 </NeedPay>
+    <Day>7 </Day>
+    <Reward type="ItemReward">
+        <ItemID>4 </ItemID>
+        <ItemNum>35 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResMonthCardDesc>
+<ResMonthCardDesc version="1">
+    <ID>2 </ID>
+    <Type>2 </Type>
+    <NeedPay>288 </NeedPay>
+    <Day>30 </Day>
+    <Reward type="ItemReward">
+        <ItemID>4 </ItemID>
+        <ItemNum>45 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResMonthCardDesc>
+</ResMonthCardDesc_Tab>

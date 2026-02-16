@@ -1,0 +1,2323 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<ResMobaMonsterSkinDesc_Tab>
+<TResHeadAll version="5">
+    <resHead type="TResHead">
+        <Magic>1397052237 </Magic>
+        <Version>6 </Version>
+        <Unit>580 </Unit>
+        <Count>256 </Count>
+        <MetalibHash>531d5b4a397ad5b3c0fbfb5cc8059e55</MetalibHash>
+        <ResVersion>0 </ResVersion>
+        <CreateTime>2023-04-19 20:42:32</CreateTime>
+        <ResEncording>UTF-8</ResEncording>
+        <ContentHash>58b4b0e134ab6e3004fa11f34dc3bddb</ContentHash>
+    </resHead>
+    <resHeadExt type="TResHeadExt">
+        <DataOffset>136 </DataOffset>
+    </resHeadExt>
+</TResHeadAll>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2101001 </ResID>
+    <ModePath>prefab/character/human/hum_army01/hum_army01_M_pre</ModePath>
+    <ShowIcon>UITexture/Charactar/renlei/pifu/hum_army01</ShowIcon>
+    <CircleIcon>UITexture/Charactar/renlei/hum_yuan_army01</CircleIcon>
+    <SquareIcon>UITexture/Charactar/renlei/hum_army01</SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath></DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2102001 </ResID>
+    <ModePath>prefab/character/human/hum_army02/hum_army02_M_pre</ModePath>
+    <ShowIcon>UITexture/Charactar/renlei/pifu/hum_army02</ShowIcon>
+    <CircleIcon>UITexture/Charactar/renlei/hum_yuan_army02</CircleIcon>
+    <SquareIcon>UITexture/Charactar/renlei/hum_army02</SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath></DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2103001 </ResID>
+    <ModePath>prefab/character/human/hum_army03/hum_army03_M_pre</ModePath>
+    <ShowIcon>UITexture/Charactar/renlei/pifu/hum_army03</ShowIcon>
+    <CircleIcon>UITexture/Charactar/renlei/hum_yuan_army03</CircleIcon>
+    <SquareIcon>UITexture/Charactar/renlei/hum_army03</SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath></DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2104001 </ResID>
+    <ModePath>prefab/character/human/hum_army04/hum_army04_M_pre</ModePath>
+    <ShowIcon>UITexture/Charactar/renlei/pifu/hum_army04</ShowIcon>
+    <CircleIcon>UITexture/Charactar/renlei/hum_yuan_army04</CircleIcon>
+    <SquareIcon>UITexture/Charactar/renlei/hum_army04</SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath></DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2105001 </ResID>
+    <ModePath>prefab/character/human/hum_army05/hum_army05_M_pre</ModePath>
+    <ShowIcon>UITexture/Charactar/renlei/pifu/hum_army05</ShowIcon>
+    <CircleIcon>UITexture/Charactar/renlei/hum_yuan_army05</CircleIcon>
+    <SquareIcon>UITexture/Charactar/renlei/hum_army05</SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath>data/skillflow/rts/human/army/army05_die</DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2106001 </ResID>
+    <ModePath>prefab/character/human/hum_army06/hum_army06_M_pre</ModePath>
+    <ShowIcon>UITexture/Charactar/renlei/pifu/hum_army06</ShowIcon>
+    <CircleIcon>UITexture/Charactar/renlei/hum_yuan_army06</CircleIcon>
+    <SquareIcon>UITexture/Charactar/renlei/hum_army06</SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath></DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2107001 </ResID>
+    <ModePath>prefab/character/human/hum_army07/hum_army07_M_pre</ModePath>
+    <ShowIcon>UITexture/Charactar/renlei/pifu/hum_army07</ShowIcon>
+    <CircleIcon>UITexture/Charactar/renlei/hum_yuan_army07</CircleIcon>
+    <SquareIcon>UITexture/Charactar/renlei/hum_army07</SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath>data/skillflow/rts/human/army/army07_die</DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2108001 </ResID>
+    <ModePath>prefab/character/human/hum_army08/hum_army08_M_pre</ModePath>
+    <ShowIcon>UITexture/Charactar/renlei/pifu/hum_army08</ShowIcon>
+    <CircleIcon>UITexture/Charactar/renlei/hum_yuan_army08</CircleIcon>
+    <SquareIcon>UITexture/Charactar/renlei/hum_army08</SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath></DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2109001 </ResID>
+    <ModePath>prefab/character/human/hum_army09/hum_army09_M_pre</ModePath>
+    <ShowIcon>UITexture/Charactar/renlei/pifu/hum_army09</ShowIcon>
+    <CircleIcon>UITexture/Charactar/renlei/hum_yuan_army09</CircleIcon>
+    <SquareIcon>UITexture/Charactar/renlei/hum_army09</SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath>data/skillflow/rts/human/army/army09_die</DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2110001 </ResID>
+    <ModePath>prefab/character/human/hum_army10/hum_army10_M_pre</ModePath>
+    <ShowIcon>UITexture/Charactar/renlei/pifu/hum_army10</ShowIcon>
+    <CircleIcon>UITexture/Charactar/renlei/hum_yuan_army10</CircleIcon>
+    <SquareIcon>UITexture/Charactar/renlei/hum_army10</SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath>data/skillflow/rts/human/army/army10_die</DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2111001 </ResID>
+    <ModePath>prefab/character/human/hum_goldmine/hum_goldmine_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/Charactar/renlei/hum_yuan_goldmine</CircleIcon>
+    <SquareIcon>UITexture/Charactar/renlei/hum_goldmine</SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath>data/skillflow/rts/human/building/goldmine_death</DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2112001 </ResID>
+    <ModePath>prefab/character/human/hum_subbase/hum_subbase01_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/Charactar/renlei/hum_yuan_subbase01</CircleIcon>
+    <SquareIcon></SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath>data/skillflow/rts/human/building/subbase01_death</DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2113001 </ResID>
+    <ModePath>prefab/character/human/hum_subbase/hum_subbase02_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/Charactar/renlei/hum_yuan_subbase02</CircleIcon>
+    <SquareIcon></SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath>data/skillflow/rts/human/building/subbase02_death</DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2114001 </ResID>
+    <ModePath>prefab/character/human/hum_subbase/hum_subbase03_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/Charactar/renlei/hum_yuan_subbase03</CircleIcon>
+    <SquareIcon></SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath>data/skillflow/rts/human/building/subbase03_death</DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2115001 </ResID>
+    <ModePath>prefab/character/human/hum_tower/hum_tower01_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/Charactar/renlei/hum_yuan_tower01</CircleIcon>
+    <SquareIcon>UITexture/Charactar/renlei/hum_tower01</SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath>data/skillflow/rts/human/building/tower01_death</DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2116001 </ResID>
+    <ModePath>prefab/character/human/hum_tower/hum_tower02_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon></CircleIcon>
+    <SquareIcon></SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath></DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2117001 </ResID>
+    <ModePath>prefab/character/human/hum_base/hum_base01_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/Charactar/renlei/hum_yuan_base01</CircleIcon>
+    <SquareIcon>UITexture/Charactar/keji/1</SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath>data/skillflow/rts/human/building/base01_death</DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2118001 </ResID>
+    <ModePath>prefab/character/human/hum_base/hum_base02_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/Charactar/renlei/hum_yuan_base02</CircleIcon>
+    <SquareIcon>UITexture/Charactar/keji/2</SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath>data/skillflow/rts/human/building/base02_death</DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2119001 </ResID>
+    <ModePath>prefab/character/human/hum_base/hum_base03_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/Charactar/renlei/hum_yuan_base03</CircleIcon>
+    <SquareIcon>UITexture/Charactar/keji/3</SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath>data/skillflow/rts/human/building/base03_death</DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2120001 </ResID>
+    <ModePath>prefab/character/neu/empty/empty</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon></CircleIcon>
+    <SquareIcon></SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath></DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2121001 </ResID>
+    <ModePath>prefab/character/human/hum_hero001/hum_hero001_baby01_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/Charactar/yeguai/hum_hero002_baby</CircleIcon>
+    <SquareIcon></SquareIcon>
+    <SpawnEffectPath>data/skillflow/hero/10000002/skill02_shuiyuansu</SpawnEffectPath>
+    <DeathEffectPath>data/skillflow/hero/10000002/skill02_shuiyuansu_die</DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2121002 </ResID>
+    <ModePath>prefab/character/human/hum_hero001/hum_hero001_skin02/hum_hero001_baby01_skin02_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon></CircleIcon>
+    <SquareIcon></SquareIcon>
+    <SpawnEffectPath>data/skillflow/hero/10000002/skill02_shuiyuansu</SpawnEffectPath>
+    <DeathEffectPath>data/skillflow/hero/10000002/skill02_shuiyuansu_die</DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2122001 </ResID>
+    <ModePath>prefab/character/human/hum_hero001/hum_hero001_baby02_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/Charactar/yeguai/hum_hero002_baby</CircleIcon>
+    <SquareIcon></SquareIcon>
+    <SpawnEffectPath>data/skillflow/hero/10000002/skill02_shuiyuansu</SpawnEffectPath>
+    <DeathEffectPath>data/skillflow/hero/10000002/skill02_shuiyuansu_die</DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2122002 </ResID>
+    <ModePath>prefab/character/human/hum_hero001/hum_hero001_skin02/hum_hero001_baby02_skin02_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon></CircleIcon>
+    <SquareIcon></SquareIcon>
+    <SpawnEffectPath>data/skillflow/hero/10000002/skill02_shuiyuansu</SpawnEffectPath>
+    <DeathEffectPath>data/skillflow/hero/10000002/skill02_shuiyuansu_die</DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2123001 </ResID>
+    <ModePath>prefab/character/human/hum_hero001/hum_hero001_baby03_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/Charactar/yeguai/hum_hero002_baby</CircleIcon>
+    <SquareIcon></SquareIcon>
+    <SpawnEffectPath>data/skillflow/hero/10000002/skill02_shuiyuansu</SpawnEffectPath>
+    <DeathEffectPath>data/skillflow/hero/10000002/skill02_shuiyuansu_die</DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2123002 </ResID>
+    <ModePath>prefab/character/human/hum_hero001/hum_hero001_skin02/hum_hero001_baby03_skin02_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon></CircleIcon>
+    <SquareIcon></SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath></DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2124001 </ResID>
+    <ModePath>prefab/character/human/hum_subbase/hum_subbase01_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/Charactar/renlei/hum_yuan_subbase01</CircleIcon>
+    <SquareIcon></SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath>data/skillflow/rts/human/building/subbase01_death</DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2125001 </ResID>
+    <ModePath>prefab/character/human/hum_subbase/hum_subbase02_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/Charactar/renlei/hum_yuan_subbase02</CircleIcon>
+    <SquareIcon></SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath>data/skillflow/rts/human/building/subbase02_death</DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2126001 </ResID>
+    <ModePath>prefab/character/human/hum_subbase/hum_subbase03_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/Charactar/renlei/hum_yuan_subbase03</CircleIcon>
+    <SquareIcon></SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath>data/skillflow/rts/human/building/subbase03_death</DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2127001 </ResID>
+    <ModePath>prefab/character/human/hum_base/hum_base01_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/Charactar/renlei/hum_yuan_base01</CircleIcon>
+    <SquareIcon>UITexture/Charactar/keji/1</SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath>data/skillflow/rts/human/building/base01_death</DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2128001 </ResID>
+    <ModePath>prefab/character/human/hum_base/hum_base02_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/Charactar/renlei/hum_yuan_base02</CircleIcon>
+    <SquareIcon>UITexture/Charactar/keji/2</SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath>data/skillflow/rts/human/building/base02_death</DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2129001 </ResID>
+    <ModePath>prefab/character/human/hum_base/hum_base03_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/Charactar/renlei/hum_yuan_base03</CircleIcon>
+    <SquareIcon>UITexture/Charactar/keji/3</SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath>data/skillflow/rts/human/building/base03_death</DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2130001 </ResID>
+    <ModePath>prefab/character/human/hum_hero001/hum_hero001_baby03_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/Charactar/yeguai/hum_hero002_baby</CircleIcon>
+    <SquareIcon></SquareIcon>
+    <SpawnEffectPath>data/skillflow/hero/10000002/skill02_shuiyuansu</SpawnEffectPath>
+    <DeathEffectPath>data/skillflow/hero/10000002/skill02_shuiyuansu_die</DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2130002 </ResID>
+    <ModePath>prefab/character/human/hum_hero001/hum_hero001_skin02/hum_hero001_baby03_skin02_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon></CircleIcon>
+    <SquareIcon></SquareIcon>
+    <SpawnEffectPath>data/skillflow/hero/10000002/skill02_shuiyuansu</SpawnEffectPath>
+    <DeathEffectPath>data/skillflow/hero/10000002/skill02_shuiyuansu_die</DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2201001 </ResID>
+    <ModePath>prefab/character/orc/orc_army01/orc_army01_M_pre</ModePath>
+    <ShowIcon>UITexture/Charactar/shouzu/pifu/orc_army01</ShowIcon>
+    <CircleIcon>UITexture/Charactar/shouzu/orc_yuan_army01</CircleIcon>
+    <SquareIcon>UITexture/Charactar/shouzu/orc_army01</SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath></DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2202001 </ResID>
+    <ModePath>prefab/character/orc/orc_army02/orc_army02_M_pre</ModePath>
+    <ShowIcon>UITexture/Charactar/shouzu/pifu/orc_army02</ShowIcon>
+    <CircleIcon>UITexture/Charactar/shouzu/orc_yuan_army02</CircleIcon>
+    <SquareIcon>UITexture/Charactar/shouzu/orc_army02</SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath></DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2203001 </ResID>
+    <ModePath>prefab/character/orc/orc_army03/orc_army03_M_pre</ModePath>
+    <ShowIcon>UITexture/Charactar/shouzu/pifu/orc_army03</ShowIcon>
+    <CircleIcon>UITexture/Charactar/shouzu/orc_yuan_army03</CircleIcon>
+    <SquareIcon>UITexture/Charactar/shouzu/orc_army03</SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath></DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2204001 </ResID>
+    <ModePath>prefab/character/orc/orc_army04/orc_army04_M_pre</ModePath>
+    <ShowIcon>UITexture/Charactar/shouzu/pifu/orc_army04</ShowIcon>
+    <CircleIcon>UITexture/Charactar/shouzu/orc_yuan_army04</CircleIcon>
+    <SquareIcon>UITexture/Charactar/shouzu/orc_army04</SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath></DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2205001 </ResID>
+    <ModePath>prefab/character/orc/orc_army05/orc_army05_M_pre</ModePath>
+    <ShowIcon>UITexture/Charactar/shouzu/pifu/orc_army05</ShowIcon>
+    <CircleIcon>UITexture/Charactar/shouzu/orc_yuan_army05</CircleIcon>
+    <SquareIcon>UITexture/Charactar/shouzu/orc_army05</SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath></DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2206001 </ResID>
+    <ModePath>prefab/character/orc/orc_army06/orc_army06_M_pre</ModePath>
+    <ShowIcon>UITexture/Charactar/shouzu/pifu/orc_army06</ShowIcon>
+    <CircleIcon>UITexture/Charactar/shouzu/orc_yuan_army06</CircleIcon>
+    <SquareIcon>UITexture/Charactar/shouzu/orc_army06</SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath></DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2207001 </ResID>
+    <ModePath>prefab/character/orc/orc_army07/orc_army07_M_pre</ModePath>
+    <ShowIcon>UITexture/Charactar/shouzu/pifu/orc_army07</ShowIcon>
+    <CircleIcon>UITexture/Charactar/shouzu/orc_yuan_army07</CircleIcon>
+    <SquareIcon>UITexture/Charactar/shouzu/orc_army07</SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath>data/skillflow/rts/orc/army/army07_die</DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2208001 </ResID>
+    <ModePath>prefab/character/orc/orc_army08/orc_army08_M_pre</ModePath>
+    <ShowIcon>UITexture/Charactar/shouzu/pifu/orc_army08</ShowIcon>
+    <CircleIcon>UITexture/Charactar/shouzu/orc_yuan_army08</CircleIcon>
+    <SquareIcon>UITexture/Charactar/shouzu/orc_army08</SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath>data/skillflow/rts/orc/army/army08_die</DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2209001 </ResID>
+    <ModePath>prefab/character/orc/orc_army09/orc_army09_M_pre</ModePath>
+    <ShowIcon>UITexture/Charactar/shouzu/pifu/orc_army09</ShowIcon>
+    <CircleIcon>UITexture/Charactar/shouzu/orc_yuan_army09</CircleIcon>
+    <SquareIcon>UITexture/Charactar/shouzu/orc_army09</SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath>data/skillflow/rts/orc/army/army09_die</DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2210001 </ResID>
+    <ModePath>prefab/character/orc/orc_army10/orc_army10_M_pre</ModePath>
+    <ShowIcon>UITexture/Charactar/shouzu/pifu/orc_army10</ShowIcon>
+    <CircleIcon>UITexture/Charactar/shouzu/orc_yuan_army10</CircleIcon>
+    <SquareIcon>UITexture/Charactar/shouzu/orc_army10</SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath></DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2211001 </ResID>
+    <ModePath>prefab/character/orc/orc_goldmine/orc_goldmine_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/Charactar/shouzu/orc_yuan_goldmine</CircleIcon>
+    <SquareIcon>UITexture/Charactar/shouzu/orc_goldmine</SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath>data/skillflow/rts/orc/building/goldmine_death</DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2212001 </ResID>
+    <ModePath>prefab/character/orc/orc_subbase/orc_subbase01_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/Charactar/shouzu/orc_yuan_subbase01</CircleIcon>
+    <SquareIcon></SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath>data/skillflow/rts/orc/building/subbase01_death</DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2213001 </ResID>
+    <ModePath>prefab/character/orc/orc_subbase/orc_subbase02_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/Charactar/shouzu/orc_yuan_subbase02</CircleIcon>
+    <SquareIcon></SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath>data/skillflow/rts/orc/building/subbase02_death</DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2214001 </ResID>
+    <ModePath>prefab/character/orc/orc_subbase/orc_subbase03_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/Charactar/shouzu/orc_yuan_subbase03</CircleIcon>
+    <SquareIcon></SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath>data/skillflow/rts/orc/building/subbase03_death</DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2215001 </ResID>
+    <ModePath>prefab/character/orc/orc_tower/orc_tower01_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/Charactar/shouzu/orc_yuan_tower01</CircleIcon>
+    <SquareIcon>UITexture/Charactar/shouzu/orc_tower01</SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath>data/skillflow/rts/orc/building/tower01_death</DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2217001 </ResID>
+    <ModePath>prefab/character/orc/orc_base/orc_base01_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/Charactar/shouzu/orc_yuan_base01</CircleIcon>
+    <SquareIcon>UITexture/Charactar/keji/orc_1</SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath>data/skillflow/rts/orc/building/base01_death</DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2218001 </ResID>
+    <ModePath>prefab/character/orc/orc_base/orc_base02_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/Charactar/shouzu/orc_yuan_base02</CircleIcon>
+    <SquareIcon>UITexture/Charactar/keji/orc_2</SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath>data/skillflow/rts/orc/building/base02_death</DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2219001 </ResID>
+    <ModePath>prefab/character/orc/orc_base/orc_base03_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/Charactar/shouzu/orc_yuan_base03</CircleIcon>
+    <SquareIcon>UITexture/Charactar/keji/orc_3</SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath>data/skillflow/rts/orc/building/base03_death</DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2220001 </ResID>
+    <ModePath>prefab/character/neu/empty/empty</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon></CircleIcon>
+    <SquareIcon></SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath></DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2221001 </ResID>
+    <ModePath>prefab/character/orc/orc_hero001/orc_hero001_baby01_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/Charactar/yeguai/orc_hero001_baby</CircleIcon>
+    <SquareIcon></SquareIcon>
+    <SpawnEffectPath>data/skillflow/hero/10000101/skill02_youlinglang</SpawnEffectPath>
+    <DeathEffectPath>data/skillflow/hero/10000101/skill02_youlinglang_die</DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2222001 </ResID>
+    <ModePath>prefab/character/orc/orc_hero001/orc_hero001_baby02_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/Charactar/yeguai/orc_hero001_baby</CircleIcon>
+    <SquareIcon></SquareIcon>
+    <SpawnEffectPath>data/skillflow/hero/10000101/skill02_youlinglang</SpawnEffectPath>
+    <DeathEffectPath>data/skillflow/hero/10000101/skill02_youlinglang_die</DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2223001 </ResID>
+    <ModePath>prefab/character/orc/orc_hero001/orc_hero001_baby03_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/Charactar/yeguai/orc_hero001_baby</CircleIcon>
+    <SquareIcon></SquareIcon>
+    <SpawnEffectPath>data/skillflow/hero/10000101/skill02_youlinglang</SpawnEffectPath>
+    <DeathEffectPath>data/skillflow/hero/10000101/skill02_youlinglang_die</DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2224001 </ResID>
+    <ModePath>prefab/character/orc/orc_hero001/orc_hero001_skill4_dianqiu</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/Charactar/yeguai/orc_hero001_skill4</CircleIcon>
+    <SquareIcon></SquareIcon>
+    <SpawnEffectPath>data/skillflow/hero/10000101/skill04_shandianchang</SpawnEffectPath>
+    <DeathEffectPath>data/skillflow/hero/10000101/skill04_shandianchang_die</DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2225001 </ResID>
+    <ModePath>prefab/character/orc/orc_subbase/orc_subbase01_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/Charactar/shouzu/orc_yuan_subbase01</CircleIcon>
+    <SquareIcon></SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath>data/skillflow/rts/orc/building/subbase01_death</DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2226001 </ResID>
+    <ModePath>prefab/character/orc/orc_subbase/orc_subbase02_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/Charactar/shouzu/orc_yuan_subbase02</CircleIcon>
+    <SquareIcon></SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath>data/skillflow/rts/orc/building/subbase02_death</DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2227001 </ResID>
+    <ModePath>prefab/character/orc/orc_subbase/orc_subbase03_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/Charactar/shouzu/orc_yuan_subbase03</CircleIcon>
+    <SquareIcon></SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath>data/skillflow/rts/orc/building/subbase03_death</DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2228001 </ResID>
+    <ModePath>prefab/character/orc/orc_base/orc_base01_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/Charactar/shouzu/orc_yuan_base01</CircleIcon>
+    <SquareIcon>UITexture/Charactar/keji/orc_1</SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath>data/skillflow/rts/orc/building/base01_death</DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2229001 </ResID>
+    <ModePath>prefab/character/orc/orc_base/orc_base02_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/Charactar/shouzu/orc_yuan_base02</CircleIcon>
+    <SquareIcon>UITexture/Charactar/keji/orc_2</SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath>data/skillflow/rts/orc/building/base02_death</DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2230001 </ResID>
+    <ModePath>prefab/character/orc/orc_base/orc_base03_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/Charactar/shouzu/orc_yuan_base03</CircleIcon>
+    <SquareIcon>UITexture/Charactar/keji/orc_3</SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath>data/skillflow/rts/orc/building/base03_death</DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2231001 </ResID>
+    <ModePath>prefab/character/orc/orc_hero001/orc_hero001_baby03_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/Charactar/yeguai/orc_hero001_baby</CircleIcon>
+    <SquareIcon></SquareIcon>
+    <SpawnEffectPath>data/skillflow/hero/10000101/skill02_youlinglang</SpawnEffectPath>
+    <DeathEffectPath>data/skillflow/hero/10000101/skill02_youlinglang_die</DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2232001 </ResID>
+    <ModePath>prefab/character/orc/orc_hero001/orc_hero001_skill4_dianqiu</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/Charactar/yeguai/orc_hero001_skill4</CircleIcon>
+    <SquareIcon></SquareIcon>
+    <SpawnEffectPath>data/skillflow/hero/10000101/skill04_shandianchang</SpawnEffectPath>
+    <DeathEffectPath>data/skillflow/hero/10000101/skill04_shandianchang_die</DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2301001 </ResID>
+    <ModePath>prefab/character/ghost/gho_army01/gho_army01_M_pre</ModePath>
+    <ShowIcon>UITexture/Charactar/wangling/pifu/gho_army01</ShowIcon>
+    <CircleIcon>UITexture/Charactar/wangling/gho_yuan_army01</CircleIcon>
+    <SquareIcon>UITexture/Charactar/wangling/gho_army01</SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath></DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2302001 </ResID>
+    <ModePath>prefab/character/ghost/gho_army02/gho_army02_M_pre</ModePath>
+    <ShowIcon>UITexture/Charactar/wangling/pifu/gho_army02</ShowIcon>
+    <CircleIcon>UITexture/Charactar/wangling/gho_yuan_army02</CircleIcon>
+    <SquareIcon>UITexture/Charactar/wangling/gho_army02</SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath></DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2303001 </ResID>
+    <ModePath>prefab/character/ghost/gho_army03/gho_army03_M_pre</ModePath>
+    <ShowIcon>UITexture/Charactar/wangling/pifu/gho_army03</ShowIcon>
+    <CircleIcon>UITexture/Charactar/wangling/gho_yuan_army03</CircleIcon>
+    <SquareIcon>UITexture/Charactar/wangling/gho_army03</SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath></DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2304001 </ResID>
+    <ModePath>prefab/character/ghost/gho_army04/gho_army04_M_pre</ModePath>
+    <ShowIcon>UITexture/Charactar/wangling/pifu/gho_army04</ShowIcon>
+    <CircleIcon>UITexture/Charactar/wangling/gho_yuan_army04</CircleIcon>
+    <SquareIcon>UITexture/Charactar/wangling/gho_army04</SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath></DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2305001 </ResID>
+    <ModePath>prefab/character/ghost/gho_army05/gho_army05_M_pre</ModePath>
+    <ShowIcon>UITexture/Charactar/wangling/pifu/gho_army05</ShowIcon>
+    <CircleIcon>UITexture/Charactar/wangling/gho_yuan_army05</CircleIcon>
+    <SquareIcon>UITexture/Charactar/wangling/gho_army05</SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath></DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2306001 </ResID>
+    <ModePath>prefab/character/ghost/gho_army06/gho_army06_M_pre</ModePath>
+    <ShowIcon>UITexture/Charactar/wangling/pifu/gho_army06</ShowIcon>
+    <CircleIcon>UITexture/Charactar/wangling/gho_yuan_army06</CircleIcon>
+    <SquareIcon>UITexture/Charactar/wangling/gho_army06</SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath>data/skillflow/rts/ghost/army/army06_die</DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2307001 </ResID>
+    <ModePath>prefab/character/ghost/gho_army07/gho_army07_M_pre</ModePath>
+    <ShowIcon>UITexture/Charactar/wangling/pifu/gho_army07</ShowIcon>
+    <CircleIcon>UITexture/Charactar/wangling/gho_yuan_army07</CircleIcon>
+    <SquareIcon>UITexture/Charactar/wangling/gho_army07</SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath>data/skillflow/rts/ghost/army/army07_die</DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2308001 </ResID>
+    <ModePath>prefab/character/ghost/gho_army08/gho_army08_M_pre</ModePath>
+    <ShowIcon>UITexture/Charactar/wangling/pifu/gho_army08</ShowIcon>
+    <CircleIcon>UITexture/Charactar/wangling/gho_yuan_army08</CircleIcon>
+    <SquareIcon>UITexture/Charactar/wangling/gho_army08</SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath></DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2309001 </ResID>
+    <ModePath>prefab/character/ghost/gho_army09/gho_army09_M_pre</ModePath>
+    <ShowIcon>UITexture/Charactar/wangling/pifu/gho_army09</ShowIcon>
+    <CircleIcon>UITexture/Charactar/wangling/gho_yuan_army09</CircleIcon>
+    <SquareIcon>UITexture/Charactar/wangling/gho_army09</SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath>data/skillflow/rts/ghost/army/army09_die</DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2310001 </ResID>
+    <ModePath>prefab/character/ghost/gho_army10/gho_army10_M_pre</ModePath>
+    <ShowIcon>UITexture/Charactar/wangling/pifu/gho_army10</ShowIcon>
+    <CircleIcon>UITexture/Charactar/wangling/gho_yuan_army10</CircleIcon>
+    <SquareIcon>UITexture/Charactar/wangling/gho_army10</SquareIcon>
+    <SpawnEffectPath>data/skillflow/rts/ghost/army/army10_born</SpawnEffectPath>
+    <DeathEffectPath>data/skillflow/rts/ghost/army/army10_die</DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2311001 </ResID>
+    <ModePath>prefab/character/ghost/gho_goldmine/gho_goldmine_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/Charactar/wangling/gho_yuan_goldmine</CircleIcon>
+    <SquareIcon>UITexture/Charactar/wangling/gho_goldmine</SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath>data/skillflow/rts/ghost/building/goldmine_death</DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2312001 </ResID>
+    <ModePath>prefab/character/ghost/gho_subbase/gho_subbase01_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/Charactar/wangling/gho_yuan_subbase01</CircleIcon>
+    <SquareIcon></SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath>data/skillflow/rts/ghost/building/subbase01_death</DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2313001 </ResID>
+    <ModePath>prefab/character/ghost/gho_subbase/gho_subbase02_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/Charactar/wangling/gho_yuan_subbase02</CircleIcon>
+    <SquareIcon></SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath>data/skillflow/rts/ghost/building/subbase02_death</DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2314001 </ResID>
+    <ModePath>prefab/character/ghost/gho_subbase/gho_subbase03_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/Charactar/wangling/gho_yuan_subbase03</CircleIcon>
+    <SquareIcon></SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath>data/skillflow/rts/ghost/building/subbase03_death</DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2315001 </ResID>
+    <ModePath>prefab/character/ghost/gho_tower/gho_tower_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/Charactar/wangling/gho_yuan_tower01</CircleIcon>
+    <SquareIcon>UITexture/Charactar/wangling/gho_tower01</SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath>data/skillflow/rts/ghost/building/tower01_death</DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2316001 </ResID>
+    <ModePath>prefab/character/ghost/gho_base/gho_base01_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/Charactar/wangling/gho_yuan_base01</CircleIcon>
+    <SquareIcon>UITexture/Charactar/keji/gho_1</SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath>data/skillflow/rts/ghost/building/base01_death</DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2317001 </ResID>
+    <ModePath>prefab/character/ghost/gho_base/gho_base02_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/Charactar/wangling/gho_yuan_base02</CircleIcon>
+    <SquareIcon>UITexture/Charactar/keji/gho_2</SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath>data/skillflow/rts/ghost/building/base02_death</DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2318001 </ResID>
+    <ModePath>prefab/character/ghost/gho_base/gho_base03_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/Charactar/wangling/gho_yuan_base03</CircleIcon>
+    <SquareIcon>UITexture/Charactar/keji/gho_3</SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath>data/skillflow/rts/ghost/building/base03_death</DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2319001 </ResID>
+    <ModePath>prefab/character/neu/empty/empty</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon></CircleIcon>
+    <SquareIcon></SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath></DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2320001 </ResID>
+    <ModePath>prefab/character/ghost/gho_subbase/gho_subbase01_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/Charactar/wangling/gho_yuan_subbase01</CircleIcon>
+    <SquareIcon></SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath>data/skillflow/rts/ghost/building/subbase01_death</DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2321001 </ResID>
+    <ModePath>prefab/character/ghost/gho_subbase/gho_subbase02_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/Charactar/wangling/gho_yuan_subbase02</CircleIcon>
+    <SquareIcon></SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath>data/skillflow/rts/ghost/building/subbase02_death</DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2322001 </ResID>
+    <ModePath>prefab/character/ghost/gho_subbase/gho_subbase03_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/Charactar/wangling/gho_yuan_subbase03</CircleIcon>
+    <SquareIcon></SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath>data/skillflow/rts/ghost/building/subbase03_death</DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2323001 </ResID>
+    <ModePath>prefab/character/ghost/gho_base/gho_base01_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/Charactar/wangling/gho_yuan_base01</CircleIcon>
+    <SquareIcon>UITexture/Charactar/keji/gho_1</SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath>data/skillflow/rts/ghost/building/base01_death</DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2324001 </ResID>
+    <ModePath>prefab/character/ghost/gho_base/gho_base02_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/Charactar/wangling/gho_yuan_base02</CircleIcon>
+    <SquareIcon>UITexture/Charactar/keji/gho_2</SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath>data/skillflow/rts/ghost/building/base02_death</DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2325001 </ResID>
+    <ModePath>prefab/character/ghost/gho_base/gho_base03_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/Charactar/wangling/gho_yuan_base03</CircleIcon>
+    <SquareIcon>UITexture/Charactar/keji/gho_3</SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath>data/skillflow/rts/ghost/building/base03_death</DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2326001 </ResID>
+    <ModePath>prefab/character/ghost/gho_army04/gho_army04_baby01_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/Charactar/wangling/gho_yuan_army04_baby01</CircleIcon>
+    <SquareIcon></SquareIcon>
+    <SpawnEffectPath>data/skillflow/rts/ghost/army/army04_skill01_baby</SpawnEffectPath>
+    <DeathEffectPath>data/skillflow/rts/ghost/army/army04_skill01_baby_die</DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2327001 </ResID>
+    <ModePath>prefab/character/ghost/gho_army04/gho_army04_baby02_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/Charactar/wangling/gho_yuan_army04_baby02</CircleIcon>
+    <SquareIcon></SquareIcon>
+    <SpawnEffectPath>data/skillflow/rts/ghost/army/army04_skill01_baby</SpawnEffectPath>
+    <DeathEffectPath>data/skillflow/rts/ghost/army/army04_skill01_baby_die</DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2328001 </ResID>
+    <ModePath>prefab/character/ghost/gho_army04/gho_army04_skill2_model</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/Charactar/yeguai/gho_army04_skill2</CircleIcon>
+    <SquareIcon></SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath></DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2401001 </ResID>
+    <ModePath>prefab/character/elf/elf_army01/elf_army01_M_pre</ModePath>
+    <ShowIcon>UITexture/Charactar/jingling/pifu/elf_army01</ShowIcon>
+    <CircleIcon>UITexture/Charactar/jingling/elf_yuan_army01</CircleIcon>
+    <SquareIcon>UITexture/Charactar/jingling/elf_army01</SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath></DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2402001 </ResID>
+    <ModePath>prefab/character/elf/elf_army02/elf_army02_M_pre</ModePath>
+    <ShowIcon>UITexture/Charactar/jingling/pifu/elf_army02</ShowIcon>
+    <CircleIcon>UITexture/Charactar/jingling/elf_yuan_army02</CircleIcon>
+    <SquareIcon>UITexture/Charactar/jingling/elf_army02</SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath></DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2403001 </ResID>
+    <ModePath>prefab/character/elf/elf_army03/elf_army03_M_pre</ModePath>
+    <ShowIcon>UITexture/Charactar/jingling/pifu/elf_army03</ShowIcon>
+    <CircleIcon>UITexture/Charactar/jingling/elf_yuan_army03</CircleIcon>
+    <SquareIcon>UITexture/Charactar/jingling/elf_army03</SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath></DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2404001 </ResID>
+    <ModePath>prefab/character/elf/elf_army04/elf_army04_M_pre</ModePath>
+    <ShowIcon>UITexture/Charactar/jingling/pifu/elf_army04</ShowIcon>
+    <CircleIcon>UITexture/Charactar/jingling/elf_yuan_army04</CircleIcon>
+    <SquareIcon>UITexture/Charactar/jingling/elf_army04</SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath>data/skillflow/rts/elf/army/army04_die</DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2405001 </ResID>
+    <ModePath>prefab/character/elf/elf_army05/elf_army05_01_M_pre</ModePath>
+    <ShowIcon>UITexture/Charactar/jingling/pifu/elf_army05</ShowIcon>
+    <CircleIcon>UITexture/Charactar/jingling/elf_yuan_army05</CircleIcon>
+    <SquareIcon>UITexture/Charactar/jingling/elf_army05</SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath></DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2406001 </ResID>
+    <ModePath>prefab/character/elf/elf_army06/elf_army06_M_pre</ModePath>
+    <ShowIcon>UITexture/Charactar/jingling/pifu/elf_army06</ShowIcon>
+    <CircleIcon>UITexture/Charactar/jingling/elf_yuan_army06</CircleIcon>
+    <SquareIcon>UITexture/Charactar/jingling/elf_army06</SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath>data/skillflow/rts/elf/army/army06_die</DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2407001 </ResID>
+    <ModePath>prefab/character/elf/elf_army07/elf_army07_M_pre</ModePath>
+    <ShowIcon>UITexture/Charactar/jingling/pifu/elf_army07</ShowIcon>
+    <CircleIcon>UITexture/Charactar/jingling/elf_yuan_army07</CircleIcon>
+    <SquareIcon>UITexture/Charactar/jingling/elf_army07</SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath></DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2408001 </ResID>
+    <ModePath>prefab/character/elf/elf_army08/elf_army08_M_pre</ModePath>
+    <ShowIcon>UITexture/Charactar/jingling/pifu/elf_army08</ShowIcon>
+    <CircleIcon>UITexture/Charactar/jingling/elf_yuan_army08</CircleIcon>
+    <SquareIcon>UITexture/Charactar/jingling/elf_army08</SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath>data/skillflow/rts/elf/army/army08_die</DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2409001 </ResID>
+    <ModePath>prefab/character/elf/elf_army09/elf_army09_M_pre</ModePath>
+    <ShowIcon>UITexture/Charactar/jingling/pifu/elf_army09</ShowIcon>
+    <CircleIcon>UITexture/Charactar/jingling/elf_yuan_army09</CircleIcon>
+    <SquareIcon>UITexture/Charactar/jingling/elf_army09</SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath></DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2410001 </ResID>
+    <ModePath>prefab/character/elf/elf_army10/elf_army10_M_pre</ModePath>
+    <ShowIcon>UITexture/Charactar/jingling/pifu/elf_army10</ShowIcon>
+    <CircleIcon>UITexture/Charactar/jingling/elf_yuan_army10</CircleIcon>
+    <SquareIcon>UITexture/Charactar/jingling/elf_army10</SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath>data/skillflow/rts/elf/army/army10_die</DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2411001 </ResID>
+    <ModePath>prefab/character/elf/elf_goldmine/elf_goldmine_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/Charactar/jingling/elf_yuan_goldmine</CircleIcon>
+    <SquareIcon>UITexture/Charactar/jingling/elf_goldmine</SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath>data/skillflow/rts/elf/building/goldmine_death</DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2412001 </ResID>
+    <ModePath>prefab/character/elf/elf_subbase/elf_subbase01_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/Charactar/jingling/elf_yuan_subbase01</CircleIcon>
+    <SquareIcon></SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath>data/skillflow/rts/elf/building/subbase01_death</DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2413001 </ResID>
+    <ModePath>prefab/character/elf/elf_subbase/elf_subbase02_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/Charactar/jingling/elf_yuan_subbase02</CircleIcon>
+    <SquareIcon></SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath>data/skillflow/rts/elf/building/subbase02_death</DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2414001 </ResID>
+    <ModePath>prefab/character/elf/elf_subbase/elf_subbase03_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/Charactar/jingling/elf_yuan_subbase03</CircleIcon>
+    <SquareIcon></SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath>data/skillflow/rts/elf/building/subbase03_death</DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2415001 </ResID>
+    <ModePath>prefab/character/elf/elf_tower/elf_tower_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/Charactar/jingling/elf_yuan_tower01</CircleIcon>
+    <SquareIcon>UITexture/Charactar/jingling/elf_tower01</SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath>data/skillflow/rts/elf/building/tower01_death</DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2417001 </ResID>
+    <ModePath>prefab/character/elf/elf_base/elf_base01_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/Charactar/jingling/elf_yuan_base01</CircleIcon>
+    <SquareIcon>UITexture/Charactar/keji/elf_1</SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath>data/skillflow/rts/elf/building/base01_death</DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2418001 </ResID>
+    <ModePath>prefab/character/elf/elf_base/elf_base02_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/Charactar/jingling/elf_yuan_base02</CircleIcon>
+    <SquareIcon>UITexture/Charactar/keji/elf_2</SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath>data/skillflow/rts/elf/building/base02_death</DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2419001 </ResID>
+    <ModePath>prefab/character/elf/elf_base/elf_base03_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/Charactar/jingling/elf_yuan_base03</CircleIcon>
+    <SquareIcon>UITexture/Charactar/keji/elf_3</SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath>data/skillflow/rts/elf/building/base03_death</DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2420001 </ResID>
+    <ModePath>prefab/character/neu/empty/empty</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon></CircleIcon>
+    <SquareIcon></SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath></DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2425001 </ResID>
+    <ModePath>prefab/character/elf/elf_subbase/elf_subbase01_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/Charactar/jingling/elf_yuan_subbase01</CircleIcon>
+    <SquareIcon></SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath>data/skillflow/rts/elf/building/subbase01_death</DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2426001 </ResID>
+    <ModePath>prefab/character/elf/elf_subbase/elf_subbase02_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/Charactar/jingling/elf_yuan_subbase02</CircleIcon>
+    <SquareIcon></SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath>data/skillflow/rts/elf/building/subbase02_death</DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2427001 </ResID>
+    <ModePath>prefab/character/elf/elf_subbase/elf_subbase03_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/Charactar/jingling/elf_yuan_subbase03</CircleIcon>
+    <SquareIcon></SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath>data/skillflow/rts/elf/building/subbase03_death</DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2428001 </ResID>
+    <ModePath>prefab/character/elf/elf_base/elf_base01_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/Charactar/jingling/elf_yuan_base01</CircleIcon>
+    <SquareIcon>UITexture/Charactar/keji/elf_1</SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath>data/skillflow/rts/elf/building/base01_death</DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2429001 </ResID>
+    <ModePath>prefab/character/elf/elf_base/elf_base02_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/Charactar/jingling/elf_yuan_base02</CircleIcon>
+    <SquareIcon>UITexture/Charactar/keji/elf_2</SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath>data/skillflow/rts/elf/building/base02_death</DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2430001 </ResID>
+    <ModePath>prefab/character/elf/elf_base/elf_base03_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/Charactar/jingling/elf_yuan_base03</CircleIcon>
+    <SquareIcon>UITexture/Charactar/keji/elf_3</SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath>data/skillflow/rts/elf/building/base03_death</DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2701001 </ResID>
+    <ModePath>prefab/character/human/hum_subbase/hum_subbase01_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/Charactar/renlei/hum_yuan_subbase01</CircleIcon>
+    <SquareIcon></SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath>data/skillflow/rts/human/building/subbase01_death</DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2702001 </ResID>
+    <ModePath>prefab/character/human/hum_subbase/hum_subbase02_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/Charactar/renlei/hum_yuan_subbase02</CircleIcon>
+    <SquareIcon></SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath>data/skillflow/rts/human/building/subbase02_death</DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2703001 </ResID>
+    <ModePath>prefab/character/human/hum_subbase/hum_subbase03_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/Charactar/renlei/hum_yuan_subbase03</CircleIcon>
+    <SquareIcon></SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath>data/skillflow/rts/human/building/subbase03_death</DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2704001 </ResID>
+    <ModePath>prefab/character/human/hum_base/hum_base01_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/Charactar/renlei/hum_yuan_base01</CircleIcon>
+    <SquareIcon>UITexture/Charactar/keji/1</SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath>data/skillflow/rts/human/building/base01_death</DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2705001 </ResID>
+    <ModePath>prefab/character/human/hum_base/hum_base02_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/Charactar/renlei/hum_yuan_base02</CircleIcon>
+    <SquareIcon>UITexture/Charactar/keji/2</SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath>data/skillflow/rts/human/building/base02_death</DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2706001 </ResID>
+    <ModePath>prefab/character/human/hum_base/hum_base03_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/Charactar/renlei/hum_yuan_base03</CircleIcon>
+    <SquareIcon>UITexture/Charactar/keji/3</SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath>data/skillflow/rts/human/building/base03_death</DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2707001 </ResID>
+    <ModePath>prefab/character/human/hum_army01/hum_army01_M_pre</ModePath>
+    <ShowIcon>UITexture/Charactar/renlei/pifu/hum_army01</ShowIcon>
+    <CircleIcon>UITexture/Charactar/renlei/hum_yuan_army01</CircleIcon>
+    <SquareIcon>UITexture/Charactar/renlei/hum_army01</SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath></DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2708001 </ResID>
+    <ModePath>prefab/character/human/hum_army02/hum_army02_M_pre</ModePath>
+    <ShowIcon>UITexture/Charactar/renlei/pifu/hum_army02</ShowIcon>
+    <CircleIcon>UITexture/Charactar/renlei/hum_yuan_army02</CircleIcon>
+    <SquareIcon>UITexture/Charactar/renlei/hum_army02</SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath></DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2709001 </ResID>
+    <ModePath>prefab/character/human/hum_army03/hum_army03_M_pre</ModePath>
+    <ShowIcon>UITexture/Charactar/renlei/pifu/hum_army03</ShowIcon>
+    <CircleIcon>UITexture/Charactar/renlei/hum_yuan_army03</CircleIcon>
+    <SquareIcon>UITexture/Charactar/renlei/hum_army03</SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath></DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2710001 </ResID>
+    <ModePath>prefab/character/human/hum_army04/hum_army04_M_pre</ModePath>
+    <ShowIcon>UITexture/Charactar/renlei/pifu/hum_army04</ShowIcon>
+    <CircleIcon>UITexture/Charactar/renlei/hum_yuan_army04</CircleIcon>
+    <SquareIcon>UITexture/Charactar/renlei/hum_army04</SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath></DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2711001 </ResID>
+    <ModePath>prefab/character/human/hum_army05/hum_army05_M_pre</ModePath>
+    <ShowIcon>UITexture/Charactar/renlei/pifu/hum_army05</ShowIcon>
+    <CircleIcon>UITexture/Charactar/renlei/hum_yuan_army05</CircleIcon>
+    <SquareIcon>UITexture/Charactar/renlei/hum_army05</SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath>data/skillflow/rts/human/army/army05_die</DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2712001 </ResID>
+    <ModePath>prefab/character/human/hum_army06/hum_army06_M_pre</ModePath>
+    <ShowIcon>UITexture/Charactar/renlei/pifu/hum_army06</ShowIcon>
+    <CircleIcon>UITexture/Charactar/renlei/hum_yuan_army06</CircleIcon>
+    <SquareIcon>UITexture/Charactar/renlei/hum_army06</SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath></DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2713001 </ResID>
+    <ModePath>prefab/character/human/hum_army07/hum_army07_M_pre</ModePath>
+    <ShowIcon>UITexture/Charactar/renlei/pifu/hum_army07</ShowIcon>
+    <CircleIcon>UITexture/Charactar/renlei/hum_yuan_army07</CircleIcon>
+    <SquareIcon>UITexture/Charactar/renlei/hum_army07</SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath>data/skillflow/rts/human/army/army07_die</DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2714001 </ResID>
+    <ModePath>prefab/character/human/hum_army08/hum_army08_M_pre</ModePath>
+    <ShowIcon>UITexture/Charactar/renlei/pifu/hum_army08</ShowIcon>
+    <CircleIcon>UITexture/Charactar/renlei/hum_yuan_army08</CircleIcon>
+    <SquareIcon>UITexture/Charactar/renlei/hum_army08</SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath></DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2715001 </ResID>
+    <ModePath>prefab/character/human/hum_army09/hum_army09_M_pre</ModePath>
+    <ShowIcon>UITexture/Charactar/renlei/pifu/hum_army09</ShowIcon>
+    <CircleIcon>UITexture/Charactar/renlei/hum_yuan_army09</CircleIcon>
+    <SquareIcon>UITexture/Charactar/renlei/hum_army09</SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath>data/skillflow/rts/human/army/army09_die</DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2716001 </ResID>
+    <ModePath>prefab/character/human/hum_army10/hum_army10_M_pre</ModePath>
+    <ShowIcon>UITexture/Charactar/renlei/pifu/hum_army10</ShowIcon>
+    <CircleIcon>UITexture/Charactar/renlei/hum_yuan_army10</CircleIcon>
+    <SquareIcon>UITexture/Charactar/renlei/hum_army10</SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath>data/skillflow/rts/human/army/army10_die</DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2717001 </ResID>
+    <ModePath>prefab/character/human/hum_goldmine/hum_goldmine_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/Charactar/renlei/hum_yuan_goldmine</CircleIcon>
+    <SquareIcon>UITexture/Charactar/renlei/hum_goldmine</SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath>data/skillflow/rts/human/building/goldmine_death</DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2718001 </ResID>
+    <ModePath>prefab/character/human/hum_tower/hum_tower01_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/Charactar/renlei/hum_yuan_tower01</CircleIcon>
+    <SquareIcon>UITexture/Charactar/renlei/hum_tower01</SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath>data/skillflow/rts/human/building/tower01_death</DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2719001 </ResID>
+    <ModePath>prefab/character/human/hum_goldmine/hum_goldmine_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/Charactar/renlei/hum_yuan_goldmine</CircleIcon>
+    <SquareIcon>UITexture/Charactar/renlei/hum_goldmine</SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath>data/skillflow/rts/human/building/goldmine_death</DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2720001 </ResID>
+    <ModePath>prefab/character/human/hum_tower/hum_tower01_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/Charactar/renlei/hum_yuan_tower01</CircleIcon>
+    <SquareIcon>UITexture/Charactar/renlei/hum_tower01</SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath>data/skillflow/rts/human/building/tower01_death</DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2721001 </ResID>
+    <ModePath>prefab/character/orc/orc_subbase/orc_subbase01_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/Charactar/shouzu/orc_yuan_subbase01</CircleIcon>
+    <SquareIcon></SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath>data/skillflow/rts/orc/building/subbase01_death</DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2722001 </ResID>
+    <ModePath>prefab/character/orc/orc_subbase/orc_subbase02_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/Charactar/shouzu/orc_yuan_subbase02</CircleIcon>
+    <SquareIcon></SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath>data/skillflow/rts/orc/building/subbase02_death</DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2723001 </ResID>
+    <ModePath>prefab/character/orc/orc_subbase/orc_subbase03_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/Charactar/shouzu/orc_yuan_subbase03</CircleIcon>
+    <SquareIcon></SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath>data/skillflow/rts/orc/building/subbase03_death</DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2724001 </ResID>
+    <ModePath>prefab/character/orc/orc_base/orc_base01_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/Charactar/shouzu/orc_yuan_base01</CircleIcon>
+    <SquareIcon>UITexture/Charactar/keji/orc_1</SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath>data/skillflow/rts/orc/building/base01_death</DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2725001 </ResID>
+    <ModePath>prefab/character/orc/orc_base/orc_base02_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/Charactar/shouzu/orc_yuan_base02</CircleIcon>
+    <SquareIcon>UITexture/Charactar/keji/orc_2</SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath>data/skillflow/rts/orc/building/base02_death</DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2726001 </ResID>
+    <ModePath>prefab/character/orc/orc_base/orc_base03_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/Charactar/shouzu/orc_yuan_base03</CircleIcon>
+    <SquareIcon>UITexture/Charactar/keji/orc_3</SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath>data/skillflow/rts/orc/building/base03_death</DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2727001 </ResID>
+    <ModePath>prefab/character/orc/orc_army01/orc_army01_M_pre</ModePath>
+    <ShowIcon>UITexture/Charactar/shouzu/pifu/orc_army01</ShowIcon>
+    <CircleIcon>UITexture/Charactar/shouzu/orc_yuan_army01</CircleIcon>
+    <SquareIcon>UITexture/Charactar/shouzu/orc_army01</SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath></DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2728001 </ResID>
+    <ModePath>prefab/character/orc/orc_army02/orc_army02_M_pre</ModePath>
+    <ShowIcon>UITexture/Charactar/shouzu/pifu/orc_army02</ShowIcon>
+    <CircleIcon>UITexture/Charactar/shouzu/orc_yuan_army02</CircleIcon>
+    <SquareIcon>UITexture/Charactar/shouzu/orc_army02</SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath></DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2729001 </ResID>
+    <ModePath>prefab/character/orc/orc_army03/orc_army03_M_pre</ModePath>
+    <ShowIcon>UITexture/Charactar/shouzu/pifu/orc_army03</ShowIcon>
+    <CircleIcon>UITexture/Charactar/shouzu/orc_yuan_army03</CircleIcon>
+    <SquareIcon>UITexture/Charactar/shouzu/orc_army03</SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath></DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2730001 </ResID>
+    <ModePath>prefab/character/orc/orc_army04/orc_army04_M_pre</ModePath>
+    <ShowIcon>UITexture/Charactar/shouzu/pifu/orc_army04</ShowIcon>
+    <CircleIcon>UITexture/Charactar/shouzu/orc_yuan_army04</CircleIcon>
+    <SquareIcon>UITexture/Charactar/shouzu/orc_army04</SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath></DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2731001 </ResID>
+    <ModePath>prefab/character/orc/orc_army05/orc_army05_M_pre</ModePath>
+    <ShowIcon>UITexture/Charactar/shouzu/pifu/orc_army05</ShowIcon>
+    <CircleIcon>UITexture/Charactar/shouzu/orc_yuan_army05</CircleIcon>
+    <SquareIcon>UITexture/Charactar/shouzu/orc_army05</SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath></DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2732001 </ResID>
+    <ModePath>prefab/character/orc/orc_army06/orc_army06_M_pre</ModePath>
+    <ShowIcon>UITexture/Charactar/shouzu/pifu/orc_army06</ShowIcon>
+    <CircleIcon>UITexture/Charactar/shouzu/orc_yuan_army06</CircleIcon>
+    <SquareIcon>UITexture/Charactar/shouzu/orc_army06</SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath></DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2733001 </ResID>
+    <ModePath>prefab/character/orc/orc_army07/orc_army07_M_pre</ModePath>
+    <ShowIcon>UITexture/Charactar/shouzu/pifu/orc_army07</ShowIcon>
+    <CircleIcon>UITexture/Charactar/shouzu/orc_yuan_army07</CircleIcon>
+    <SquareIcon>UITexture/Charactar/shouzu/orc_army07</SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath>data/skillflow/rts/orc/army/army07_die</DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2734001 </ResID>
+    <ModePath>prefab/character/orc/orc_army08/orc_army08_M_pre</ModePath>
+    <ShowIcon>UITexture/Charactar/shouzu/pifu/orc_army08</ShowIcon>
+    <CircleIcon>UITexture/Charactar/shouzu/orc_yuan_army08</CircleIcon>
+    <SquareIcon>UITexture/Charactar/shouzu/orc_army08</SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath>data/skillflow/rts/orc/army/army08_die</DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2735001 </ResID>
+    <ModePath>prefab/character/orc/orc_army09/orc_army09_M_pre</ModePath>
+    <ShowIcon>UITexture/Charactar/shouzu/pifu/orc_army09</ShowIcon>
+    <CircleIcon>UITexture/Charactar/shouzu/orc_yuan_army09</CircleIcon>
+    <SquareIcon>UITexture/Charactar/shouzu/orc_army09</SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath>data/skillflow/rts/orc/army/army09_die</DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2736001 </ResID>
+    <ModePath>prefab/character/orc/orc_army10/orc_army10_M_pre</ModePath>
+    <ShowIcon>UITexture/Charactar/shouzu/pifu/orc_army10</ShowIcon>
+    <CircleIcon>UITexture/Charactar/shouzu/orc_yuan_army10</CircleIcon>
+    <SquareIcon>UITexture/Charactar/shouzu/orc_army10</SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath></DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2737001 </ResID>
+    <ModePath>prefab/character/orc/orc_goldmine/orc_goldmine_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/Charactar/shouzu/orc_yuan_goldmine</CircleIcon>
+    <SquareIcon></SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath></DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2738001 </ResID>
+    <ModePath>prefab/character/orc/orc_tower/orc_tower01_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/Charactar/shouzu/orc_yuan_tower01</CircleIcon>
+    <SquareIcon>UITexture/Charactar/shouzu/orc_tower01</SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath>data/skillflow/rts/orc/building/tower01_death</DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2741001 </ResID>
+    <ModePath>prefab/character/elf/elf_army02/guide_elf_army02_pre</ModePath>
+    <ShowIcon>UITexture/Charactar/jingling/pifu/elf_army02</ShowIcon>
+    <CircleIcon>UITexture/Charactar/jingling/elf_yuan_army02</CircleIcon>
+    <SquareIcon>UITexture/Charactar/jingling/elf_army02</SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath></DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2742001 </ResID>
+    <ModePath>prefab/character/neu/empty/empty</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon></CircleIcon>
+    <SquareIcon></SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath></DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2743001 </ResID>
+    <ModePath>prefab/character/monster/guide01/Guide01_ShuiJing_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/Charactar/yeguai/guide01_heianshuijing</CircleIcon>
+    <SquareIcon></SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath>data/skillflow/rts/monster/shuijing_die</DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2744001 </ResID>
+    <ModePath>prefab/character/monster/monster_red/monster_red_guide_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/Charactar/yeguai/monster_red</CircleIcon>
+    <SquareIcon></SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath></DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2745001 </ResID>
+    <ModePath>prefab/character/orc/orc_army01/orc_army01_M_pre</ModePath>
+    <ShowIcon>UITexture/Charactar/shouzu/pifu/orc_army01</ShowIcon>
+    <CircleIcon>UITexture/Charactar/shouzu/orc_yuan_army01</CircleIcon>
+    <SquareIcon>UITexture/Charactar/shouzu/orc_army01</SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath></DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2746001 </ResID>
+    <ModePath>prefab/character/orc/orc_army02/orc_army02_M_pre</ModePath>
+    <ShowIcon>UITexture/Charactar/shouzu/pifu/orc_army02</ShowIcon>
+    <CircleIcon>UITexture/Charactar/shouzu/orc_yuan_army02</CircleIcon>
+    <SquareIcon>UITexture/Charactar/shouzu/orc_army02</SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath></DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2747001 </ResID>
+    <ModePath>prefab/character/human/hum_army02/hum_army02_M_pre</ModePath>
+    <ShowIcon>UITexture/Charactar/renlei/pifu/hum_army02</ShowIcon>
+    <CircleIcon>UITexture/Charactar/renlei/hum_yuan_army02</CircleIcon>
+    <SquareIcon>UITexture/Charactar/renlei/hum_army02</SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath></DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2748001 </ResID>
+    <ModePath>prefab/character/monster/guide01/Guide01_JuMa_01_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/Charactar/yeguai/guide02_zhalan</CircleIcon>
+    <SquareIcon></SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath>data/skillflow/rts/monster/guide01_juma_die</DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2749001 </ResID>
+    <ModePath>prefab/character/neu/neu_goldmine/neu_goldmine_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon></CircleIcon>
+    <SquareIcon></SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath></DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2750001 </ResID>
+    <ModePath>prefab/character/ghost/gho_army01/gho_army01_M_pre</ModePath>
+    <ShowIcon>UITexture/Charactar/wangling/pifu/gho_army01</ShowIcon>
+    <CircleIcon>UITexture/Charactar/wangling/gho_yuan_army01</CircleIcon>
+    <SquareIcon>UITexture/Charactar/wangling/gho_army01</SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath></DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2751001 </ResID>
+    <ModePath>prefab/character/ghost/gho_army02/gho_army02_M_pre</ModePath>
+    <ShowIcon>UITexture/Charactar/wangling/pifu/gho_army02</ShowIcon>
+    <CircleIcon>UITexture/Charactar/wangling/gho_yuan_army02</CircleIcon>
+    <SquareIcon>UITexture/Charactar/wangling/gho_army02</SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath></DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2752001 </ResID>
+    <ModePath>prefab/character/monster/monster06/monster06_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/Charactar/yeguai/monster05</CircleIcon>
+    <SquareIcon></SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath></DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2753001 </ResID>
+    <ModePath>prefab/character/monster/monster05/monster05_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/Charactar/yeguai/monster04</CircleIcon>
+    <SquareIcon></SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath></DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2754001 </ResID>
+    <ModePath>prefab/character/monster/monster_yuan04/monster_yuan04_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/Charactar/yeguai/monster_yuan04</CircleIcon>
+    <SquareIcon></SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath></DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2755001 </ResID>
+    <ModePath>prefab/character/elf/elf_vision/elf_vision_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon></CircleIcon>
+    <SquareIcon></SquareIcon>
+    <SpawnEffectPath>data/skillflow/Summoner/elf_vision_born</SpawnEffectPath>
+    <DeathEffectPath>data/skillflow/Summoner/elf_vision_death</DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2756001 </ResID>
+    <ModePath>prefab/character/monster/monster_goldbug/monster_goldbug_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/Charactar/yeguai/monster_goldbug</CircleIcon>
+    <SquareIcon></SquareIcon>
+    <SpawnEffectPath>data/skillflow/rts/monster/guild_bugking_born_test</SpawnEffectPath>
+    <DeathEffectPath></DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2757001 </ResID>
+    <ModePath>prefab/character/monster/monster_sandking/monster_sandking_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/Charactar/yeguai/monster_sandking</CircleIcon>
+    <SquareIcon></SquareIcon>
+    <SpawnEffectPath>data/skillflow/rts/monster/guild_sandking_born</SpawnEffectPath>
+    <DeathEffectPath></DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2758001 </ResID>
+    <ModePath>prefab/character/monster/monster_sandking/sandking_baby_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/Charactar/yeguai/monster_sandking</CircleIcon>
+    <SquareIcon></SquareIcon>
+    <SpawnEffectPath>data/skillflow/rts/monster/guild_sandking_born</SpawnEffectPath>
+    <DeathEffectPath>data/skillflow/rts/monster/summonboss_sandking_die</DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2759001 </ResID>
+    <ModePath>prefab/character/monster/guide01/Guide01_shuijing_fazhen</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon></CircleIcon>
+    <SquareIcon></SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath>data/skillflow/rts/monster/fazhen_die</DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2760001 </ResID>
+    <ModePath>prefab/character/monster/guide01/Guide01_JuMa_01_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon></CircleIcon>
+    <SquareIcon></SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath>data/skillflow/rts/monster/guide01_juma_die</DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2761001 </ResID>
+    <ModePath>prefab/character/neu/empty/empty</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon></CircleIcon>
+    <SquareIcon></SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath></DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2762001 </ResID>
+    <ModePath>prefab/dldeffect/guide01_xinshou_fangta</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon></CircleIcon>
+    <SquareIcon></SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath></DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2763001 </ResID>
+    <ModePath>prefab/character/monster/guide01/Guide01_JuMa_posui_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon></CircleIcon>
+    <SquareIcon></SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath>data/skillflow/rts/monster/guide01_juma_die</DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2764001 </ResID>
+    <ModePath>prefab/character/monster/guide01/Guide04_dashujing_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon></CircleIcon>
+    <SquareIcon></SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath>data/skillflow/rts/monster/guide04_shuijing_die</DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2765001 </ResID>
+    <ModePath>prefab/character/monster/guide01/Guide03_shiqiang_02_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/Charactar/yeguai/guide04_shiqiang</CircleIcon>
+    <SquareIcon></SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath>data/skillflow/rts/monster/guide04_shiqiang_die</DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2766001 </ResID>
+    <ModePath>prefab/character/orc/orc_army07/orc_army07_M_pre</ModePath>
+    <ShowIcon>UITexture/Charactar/shouzu/pifu/orc_army07</ShowIcon>
+    <CircleIcon>UITexture/Charactar/shouzu/orc_yuan_army07</CircleIcon>
+    <SquareIcon>UITexture/Charactar/shouzu/orc_army07</SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath>data/skillflow/rts/orc/army/army07_die</DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2767001 </ResID>
+    <ModePath>prefab/character/monster/monster_red/monster_red_guide_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/Charactar/yeguai/monster_red</CircleIcon>
+    <SquareIcon></SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath></DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2768001 </ResID>
+    <ModePath>prefab/character/monster/guide01/Guide01_JuMa_01_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/Charactar/yeguai/guide02_zhalan</CircleIcon>
+    <SquareIcon></SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath>data/skillflow/rts/monster/guide01_juma_die</DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2769001 </ResID>
+    <ModePath>prefab/character/monster/guide01/Guide03_kuangche_01_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/Charactar/yeguai/guide03_kuangche</CircleIcon>
+    <SquareIcon></SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath></DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2770001 </ResID>
+    <ModePath>prefab/character/neu/empty/empty</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon></CircleIcon>
+    <SquareIcon></SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath></DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2771001 </ResID>
+    <ModePath>prefab/character/neu/empty/empty</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon></CircleIcon>
+    <SquareIcon></SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath></DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2772001 </ResID>
+    <ModePath>prefab/character/orc/orc_army01/orc_army01_M_pre</ModePath>
+    <ShowIcon>UITexture/Charactar/shouzu/pifu/orc_army01</ShowIcon>
+    <CircleIcon>UITexture/Charactar/shouzu/orc_yuan_army01</CircleIcon>
+    <SquareIcon>UITexture/Charactar/shouzu/orc_army01</SquareIcon>
+    <SpawnEffectPath>data/skillflow/rts/monster/guide_orc_army01_born</SpawnEffectPath>
+    <DeathEffectPath></DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2773001 </ResID>
+    <ModePath>prefab/character/orc/orc_army02/orc_army02_M_pre</ModePath>
+    <ShowIcon>UITexture/Charactar/shouzu/pifu/orc_army02</ShowIcon>
+    <CircleIcon>UITexture/Charactar/shouzu/orc_yuan_army02</CircleIcon>
+    <SquareIcon>UITexture/Charactar/shouzu/orc_army02</SquareIcon>
+    <SpawnEffectPath>data/skillflow/rts/monster/guide_orc_army01_born</SpawnEffectPath>
+    <DeathEffectPath></DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2774001 </ResID>
+    <ModePath>prefab/character/orc/orc_army01/orc_army01_M_pre</ModePath>
+    <ShowIcon>UITexture/Charactar/shouzu/pifu/orc_army01</ShowIcon>
+    <CircleIcon>UITexture/Charactar/shouzu/orc_yuan_army01</CircleIcon>
+    <SquareIcon>UITexture/Charactar/shouzu/orc_army01</SquareIcon>
+    <SpawnEffectPath>data/skillflow/rts/monster/guide_orc_army01_born</SpawnEffectPath>
+    <DeathEffectPath></DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2775001 </ResID>
+    <ModePath>prefab/character/orc/orc_army02/orc_army02_M_pre</ModePath>
+    <ShowIcon>UITexture/Charactar/shouzu/pifu/orc_army02</ShowIcon>
+    <CircleIcon>UITexture/Charactar/shouzu/orc_yuan_army02</CircleIcon>
+    <SquareIcon>UITexture/Charactar/shouzu/orc_army02</SquareIcon>
+    <SpawnEffectPath>data/skillflow/rts/monster/guide_orc_army01_born</SpawnEffectPath>
+    <DeathEffectPath></DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2776001 </ResID>
+    <ModePath>prefab/character/orc/orc_army03/orc_army03_M_pre</ModePath>
+    <ShowIcon>UITexture/Charactar/shouzu/pifu/orc_army03</ShowIcon>
+    <CircleIcon>UITexture/Charactar/shouzu/orc_yuan_army03</CircleIcon>
+    <SquareIcon>UITexture/Charactar/shouzu/orc_army03</SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath></DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2777001 </ResID>
+    <ModePath>prefab/character/orc/orc_hero001/orc_hero001_M_pre</ModePath>
+    <ShowIcon>UITexture/Charactar/shouzu/pifu/orc_army03</ShowIcon>
+    <CircleIcon>UITexture/hero/orc_hero001/orc_hero001_yuan</CircleIcon>
+    <SquareIcon>UITexture/hero/orc_hero001/orc_hero001</SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath></DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2800001 </ResID>
+    <ModePath>prefab/character/neu/empty/empty</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon></CircleIcon>
+    <SquareIcon></SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath></DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2801001 </ResID>
+    <ModePath>prefab/character/neu/neu_goldmine/neu_goldmine_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon></CircleIcon>
+    <SquareIcon></SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath></DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2802001 </ResID>
+    <ModePath>prefab/character/neu/empty/empty</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon></CircleIcon>
+    <SquareIcon></SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath></DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2803001 </ResID>
+    <ModePath>prefab/character/neu/empty/empty</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon></CircleIcon>
+    <SquareIcon></SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath></DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2804001 </ResID>
+    <ModePath>prefab/character/neu/empty/empty</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon></CircleIcon>
+    <SquareIcon></SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath></DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2818001 </ResID>
+    <ModePath>prefab/character/neu/neu_hero005/neu_hero005_baby_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/Charactar/yeguai/neu_hero005_baby</CircleIcon>
+    <SquareIcon></SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath>data/skillflow/hero/10000405/skill04_death</DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2819001 </ResID>
+    <ModePath>prefab/character/neu/neu_hero005/neu_hero005_baby_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/Charactar/yeguai/neu_hero005_baby</CircleIcon>
+    <SquareIcon></SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath>data/skillflow/hero/10000405/skill04_death</DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2820001 </ResID>
+    <ModePath>prefab/character/neu/neu_hero010/neu_hero010_skill2_fire</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/Charactar/yeguai/neu_hero010_trap</CircleIcon>
+    <SquareIcon></SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath></DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2821001 </ResID>
+    <ModePath>prefab/character/neu/neu_hero010/neu_hero010_skill2_fire</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/Charactar/yeguai/neu_hero010_trap</CircleIcon>
+    <SquareIcon></SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath></DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2822001 </ResID>
+    <ModePath>prefab/character/neu/neu_hero010/neu_hero010_skill2_fire</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/Charactar/yeguai/neu_hero010_trap</CircleIcon>
+    <SquareIcon></SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath></DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2823001 </ResID>
+    <ModePath>prefab/character/neu/neu_hero010/neu_hero010_skill2_fire</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/Charactar/yeguai/neu_hero010_trap</CircleIcon>
+    <SquareIcon></SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath></DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2824001 </ResID>
+    <ModePath>prefab/character/neu/neu_hero017/neu_hero017_baby_M_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon></CircleIcon>
+    <SquareIcon></SquareIcon>
+    <SpawnEffectPath>data/skillflow/hero/10000417/baby_birth</SpawnEffectPath>
+    <DeathEffectPath>data/skillflow/hero/10000417/baby_death</DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2825001 </ResID>
+    <ModePath>prefab/character/neu/neu_hero004/neu_hero004_baby01_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/Charactar/yeguai/neu_hero004_baby</CircleIcon>
+    <SquareIcon></SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath>data/skillflow/hero/10000404/baby_death</DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2826001 </ResID>
+    <ModePath>prefab/character/neu/neu_hero004/neu_hero004_baby02_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/Charactar/yeguai/neu_hero004_baby</CircleIcon>
+    <SquareIcon></SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath>data/skillflow/hero/10000404/baby_death</DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2827001 </ResID>
+    <ModePath>prefab/character/neu/neu_hero004/neu_hero004_baby03_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/Charactar/yeguai/neu_hero004_baby</CircleIcon>
+    <SquareIcon></SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath>data/skillflow/hero/10000404/baby_death</DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2828001 </ResID>
+    <ModePath>prefab/character/neu/neu_hero004/neu_hero004_baby03_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/Charactar/yeguai/neu_hero004_baby</CircleIcon>
+    <SquareIcon></SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath>data/skillflow/hero/10000404/baby_death</DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2829001 </ResID>
+    <ModePath>prefab/character/neu/neu_hero007/neu_hero007_sword_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/hero/neu_hero007/skill4</CircleIcon>
+    <SquareIcon></SquareIcon>
+    <SpawnEffectPath>data/skillflow/hero/10000407/baby_birth</SpawnEffectPath>
+    <DeathEffectPath>data/skillflow/hero/10000407/baby_death</DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2830001 </ResID>
+    <ModePath>prefab/character/neu/neu_hero007/neu_hero007_sword_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/hero/neu_hero007/skill4</CircleIcon>
+    <SquareIcon></SquareIcon>
+    <SpawnEffectPath>data/skillflow/hero/10000407/baby_birth</SpawnEffectPath>
+    <DeathEffectPath>data/skillflow/hero/10000407/baby_death</DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2831001 </ResID>
+    <ModePath>prefab/character/neu/neu_hero013/neu_hero013_baby01_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/hero/neu_hero013/skill3</CircleIcon>
+    <SquareIcon></SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath>data/skillflow/hero/10000413/baby01_death</DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2832001 </ResID>
+    <ModePath>prefab/character/neu/neu_hero013/neu_hero013_baby02_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/hero/neu_hero013/skill3</CircleIcon>
+    <SquareIcon></SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath>data/skillflow/hero/10000413/baby02_death</DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2833001 </ResID>
+    <ModePath>prefab/character/neu/neu_hero013/neu_hero013_baby03_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/hero/neu_hero013/skill3</CircleIcon>
+    <SquareIcon></SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath>data/skillflow/hero/10000413/baby03_death</DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2834001 </ResID>
+    <ModePath>prefab/character/neu/neu_hero013/neu_hero013_baby03_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/hero/neu_hero013/skill3</CircleIcon>
+    <SquareIcon></SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath>data/skillflow/hero/10000413/baby03_death</DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2835001 </ResID>
+    <ModePath>prefab/character/ghost/gho_hero003/gho_hero003_tomb_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/hero/gho_hero003/skill4</CircleIcon>
+    <SquareIcon></SquareIcon>
+    <SpawnEffectPath>data/skillflow/hero/10000203/tomb_birth</SpawnEffectPath>
+    <DeathEffectPath>data/skillflow/hero/10000203/tomb_death</DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2836001 </ResID>
+    <ModePath>prefab/character/ghost/gho_hero003/gho_hero003_tomb_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/hero/gho_hero003/skill4</CircleIcon>
+    <SquareIcon></SquareIcon>
+    <SpawnEffectPath>data/skillflow/hero/10000203/tomb_birth</SpawnEffectPath>
+    <DeathEffectPath>data/skillflow/hero/10000203/tomb_death</DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2837001 </ResID>
+    <ModePath>prefab/character/ghost/gho_hero003/gho_hero003_baby_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/hero/gho_hero003/skill4</CircleIcon>
+    <SquareIcon></SquareIcon>
+    <SpawnEffectPath>data/skillflow/hero/10000203/baby_birth</SpawnEffectPath>
+    <DeathEffectPath>data/skillflow/hero/10000203/baby_death</DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2838001 </ResID>
+    <ModePath>prefab/character/neu/empty/empty</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon></CircleIcon>
+    <SquareIcon></SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath></DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2839001 </ResID>
+    <ModePath>prefab/dldeffect/heroeffect/neu_hero007_skill2b_fire</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon></CircleIcon>
+    <SquareIcon></SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath></DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2880001 </ResID>
+    <ModePath>prefab/character/ghost/gho_vision/gho_vision_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/Charactar/yeguai/gho_youhun</CircleIcon>
+    <SquareIcon></SquareIcon>
+    <SpawnEffectPath>data/skillflow/Summoner/gho_vision_born</SpawnEffectPath>
+    <DeathEffectPath>data/skillflow/Summoner/gho_vision_death</DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2881001 </ResID>
+    <ModePath>prefab/character/elf/elf_vision/elf_vision_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/Charactar/yeguai/elf_maotouying</CircleIcon>
+    <SquareIcon></SquareIcon>
+    <SpawnEffectPath>data/skillflow/Summoner/elf_vision_born</SpawnEffectPath>
+    <DeathEffectPath>data/skillflow/Summoner/elf_vision_death</DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2882001 </ResID>
+    <ModePath>prefab/character/neu/empty/empty</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon></CircleIcon>
+    <SquareIcon></SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath></DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2883001 </ResID>
+    <ModePath>prefab/character/neu/empty/empty</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon></CircleIcon>
+    <SquareIcon></SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath></DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2884001 </ResID>
+    <ModePath>prefab/character/ghost/gho_army04/gho_army04_baby01_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/Charactar/wangling/gho_yuan_army04_baby01</CircleIcon>
+    <SquareIcon></SquareIcon>
+    <SpawnEffectPath>data/skillflow/Summoner/gho_xiaokulou_birth</SpawnEffectPath>
+    <DeathEffectPath>data/skillflow/Summoner/gho_xiaokulou_death</DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2885001 </ResID>
+    <ModePath>prefab/character/elf/elf_spring/elf_spring_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/Charactar/yeguai/elf_yueliangjing</CircleIcon>
+    <SquareIcon></SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath>data/skillflow/Summoner/elf_yueliangjing_death</DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2886001 </ResID>
+    <ModePath>prefab/character/elf/elf_ancienttree/elf_ancienttree01_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/Charactar/jingling/elf_yuan_army09</CircleIcon>
+    <SquareIcon></SquareIcon>
+    <SpawnEffectPath>data/skillflow/Summoner/elf_ancienttree01_born</SpawnEffectPath>
+    <DeathEffectPath></DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2887001 </ResID>
+    <ModePath>prefab/character/elf/elf_ancienttree/elf_ancienttree02_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/Charactar/jingling/elf_yuan_army09</CircleIcon>
+    <SquareIcon></SquareIcon>
+    <SpawnEffectPath>data/skillflow/Summoner/elf_ancienttree02_born</SpawnEffectPath>
+    <DeathEffectPath></DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2888001 </ResID>
+    <ModePath>prefab/character/ghost/gho_army04/gho_army04_baby02_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/Charactar/wangling/gho_yuan_army04_baby02</CircleIcon>
+    <SquareIcon></SquareIcon>
+    <SpawnEffectPath>data/skillflow/rts/ghost/army/army04_skill01_baby</SpawnEffectPath>
+    <DeathEffectPath>data/skillflow/rts/ghost/army/army04_skill01_baby_die</DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2897001 </ResID>
+    <ModePath>prefab/character/polymorph/monster_pig/monster_pig_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon></CircleIcon>
+    <SquareIcon></SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath></DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2898001 </ResID>
+    <ModePath>prefab/character/polymorph/monster_pig/monster_flypig_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon></CircleIcon>
+    <SquareIcon></SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath></DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2899001 </ResID>
+    <ModePath>prefab/character/human/hum_army01/hum_army01_M_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/Charactar/renlei/hum_yuan_army01</CircleIcon>
+    <SquareIcon></SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath></DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2901001 </ResID>
+    <ModePath>prefab/character/monster/monster01/monster01_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/Charactar/yeguai/monster01</CircleIcon>
+    <SquareIcon></SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath></DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2902001 </ResID>
+    <ModePath>prefab/character/monster/monster02/monster02_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/Charactar/yeguai/monster02</CircleIcon>
+    <SquareIcon></SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath></DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2903001 </ResID>
+    <ModePath>prefab/character/monster/monster04/monster04_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/Charactar/yeguai/monster03</CircleIcon>
+    <SquareIcon></SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath></DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2904001 </ResID>
+    <ModePath>prefab/character/monster/monster05/monster05_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/Charactar/yeguai/monster04</CircleIcon>
+    <SquareIcon></SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath></DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2905001 </ResID>
+    <ModePath>prefab/character/monster/monster06/monster06_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/Charactar/yeguai/monster05</CircleIcon>
+    <SquareIcon></SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath></DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2906001 </ResID>
+    <ModePath>prefab/character/monster/monster004/monster004_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/Charactar/yeguai/monster_titan</CircleIcon>
+    <SquareIcon></SquareIcon>
+    <SpawnEffectPath>data/skillflow/rts/monster/Titan_born</SpawnEffectPath>
+    <DeathEffectPath></DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2907001 </ResID>
+    <ModePath>prefab/character/monster/monster_yuan01/monster_yuan01_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/Charactar/yeguai/monster_yuan01</CircleIcon>
+    <SquareIcon></SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath></DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2908001 </ResID>
+    <ModePath>prefab/character/monster/monster_yuan03/monster_yuan03_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/Charactar/yeguai/monster_yuan03</CircleIcon>
+    <SquareIcon></SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath></DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2909001 </ResID>
+    <ModePath>prefab/character/monster/monster_yuan02/monster_yuan02_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/Charactar/yeguai/monster_yuan02</CircleIcon>
+    <SquareIcon></SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath></DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2910001 </ResID>
+    <ModePath>prefab/character/monster/monster_yuan04/monster_yuan04_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/Charactar/yeguai/monster_yuan04</CircleIcon>
+    <SquareIcon></SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath></DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2911001 </ResID>
+    <ModePath>prefab/character/monster/monster_yuan05/monster_yuan05_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/Charactar/yeguai/monster_yuan05</CircleIcon>
+    <SquareIcon></SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath></DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2912001 </ResID>
+    <ModePath>prefab/character/monster/monster_dragon/monster_dragon_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/Charactar/yeguai/monster_xiaolong</CircleIcon>
+    <SquareIcon></SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath></DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2913001 </ResID>
+    <ModePath>prefab/character/monster/monster_red/monster_red_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/Charactar/yeguai/monster_red</CircleIcon>
+    <SquareIcon></SquareIcon>
+    <SpawnEffectPath>data/skillflow/rts/monster/lieyanzhanshen_born</SpawnEffectPath>
+    <DeathEffectPath></DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2914001 </ResID>
+    <ModePath>prefab/character/monster/monster004/monster004_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/Charactar/yeguai/monster_titan</CircleIcon>
+    <SquareIcon></SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath></DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2915001 </ResID>
+    <ModePath>prefab/character/monster/monster_dragon/monster_dragon_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/Charactar/yeguai/monster_xiaolong</CircleIcon>
+    <SquareIcon></SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath></DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2916001 </ResID>
+    <ModePath>prefab/character/monster/monster_red/monster_red_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/Charactar/yeguai/monster_red</CircleIcon>
+    <SquareIcon></SquareIcon>
+    <SpawnEffectPath>data/skillflow/rts/monster/buff_red_born</SpawnEffectPath>
+    <DeathEffectPath></DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2917001 </ResID>
+    <ModePath>prefab/character/monster/monster_blue/monster_blue_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/Charactar/yeguai/monster_blue</CircleIcon>
+    <SquareIcon></SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath></DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2918001 </ResID>
+    <ModePath>prefab/dldeffect/buff_eye_2</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/Charactar/yeguai/item_yan</CircleIcon>
+    <SquareIcon></SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath></DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2919001 </ResID>
+    <ModePath>prefab/character/monster/monster_goldbug/monster_goldbug_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/Charactar/yeguai/monster_goldbug</CircleIcon>
+    <SquareIcon></SquareIcon>
+    <SpawnEffectPath>data/skillflow/rts/monster/bugking_born_test</SpawnEffectPath>
+    <DeathEffectPath></DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2920001 </ResID>
+    <ModePath>prefab/character/monster/monster_sandking/monster_sandking_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/Charactar/yeguai/monster_sandking</CircleIcon>
+    <SquareIcon></SquareIcon>
+    <SpawnEffectPath>data/skillflow/rts/monster/sandking_born</SpawnEffectPath>
+    <DeathEffectPath></DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2921001 </ResID>
+    <ModePath>prefab/character/monster/monster_sandking/sandking_baby_pre</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon>UITexture/Charactar/yeguai/monster_sandking</CircleIcon>
+    <SquareIcon></SquareIcon>
+    <SpawnEffectPath>data/skillflow/rts/monster/sandking_born</SpawnEffectPath>
+    <DeathEffectPath>data/skillflow/rts/monster/summonboss_sandking_die</DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2922001 </ResID>
+    <ModePath>prefab/character/neu/empty/chuansongmen</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon></CircleIcon>
+    <SquareIcon></SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath></DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2923001 </ResID>
+    <ModePath>prefab/character/neu/empty/empty</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon></CircleIcon>
+    <SquareIcon></SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath></DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+<ResMobaMonsterSkinDesc version="1">
+    <ResID>2924001 </ResID>
+    <ModePath>prefab/character/neu/empty/empty</ModePath>
+    <ShowIcon></ShowIcon>
+    <CircleIcon></CircleIcon>
+    <SquareIcon></SquareIcon>
+    <SpawnEffectPath></SpawnEffectPath>
+    <DeathEffectPath></DeathEffectPath>
+</ResMobaMonsterSkinDesc>
+</ResMobaMonsterSkinDesc_Tab>

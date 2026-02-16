@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<ResSystemVsModeMapPool_Tab>
+<TResHeadAll version="5">
+    <resHead type="TResHead">
+        <Magic>1397052237 </Magic>
+        <Version>6 </Version>
+        <Unit>60 </Unit>
+        <Count>9 </Count>
+        <MetalibHash>531d5b4a397ad5b3c0fbfb5cc8059e55</MetalibHash>
+        <ResVersion>0 </ResVersion>
+        <CreateTime>2023-04-19 20:42:34</CreateTime>
+        <ResEncording>UTF-8</ResEncording>
+        <ContentHash>7ff0bbed99a6de54aae2609062514e8b</ContentHash>
+    </resHead>
+    <resHeadExt type="TResHeadExt">
+        <DataOffset>136 </DataOffset>
+    </resHeadExt>
+</TResHeadAll>
+<ResSystemVsModeMapPool version="1">
+    <VsMode>1 </VsMode>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Maps type="ResSystemVsMapOne">
+        <ID>1002 </ID>
+        <Random>10000 </Random>
+    </Maps>
+    <Maps type="ResSystemVsMapOne">
+        <ID>0 </ID>
+        <Random>0 </Random>
+    </Maps>
+    <Maps type="ResSystemVsMapOne">
+        <ID>0 </ID>
+        <Random>0 </Random>
+    </Maps>
+    <Maps type="ResSystemVsMapOne">
+        <ID>0 </ID>
+        <Random>0 </Random>
+    </Maps>
+    <HighMap1>0 </HighMap1>
+    <HighMap2>0 </HighMap2>
+    <HighMap3>0 </HighMap3>
+    <ArenaUnlockLevel>3 </ArenaUnlockLevel>
+    <ArenaUnlockMap>1004 </ArenaUnlockMap>
+</ResSystemVsModeMapPool>
+<ResSystemVsModeMapPool version="1">
+    <VsMode>1 </VsMode>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Maps type="ResSystemVsMapOne">
+        <ID>1004 </ID>
+        <Random>5000 </Random>
+    </Maps>
+    <Maps type="ResSystemVsMapOne">
+        <ID>1005 </ID>
+        <Random>5000 </Random>
+    </Maps>
+    <Maps type="ResSystemVsMapOne">
+        <ID>0 </ID>
+        <Random>0 </Random>
+    </Maps>
+    <Maps type="ResSystemVsMapOne">
+        <ID>0 </ID>
+        <Random>0 </Random>
+    </Maps>
+    <HighMap1>0 </HighMap1>
+    <HighMap2>0 </HighMap2>
+    <HighMap3>0 </HighMap3>
+    <ArenaUnlockLevel>3 </ArenaUnlockLevel>
+    <ArenaUnlockMap>1004 </ArenaUnlockMap>
+</ResSystemVsModeMapPool>
+<ResSystemVsModeMapPool version="1">
+    <VsMode>2 </VsMode>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Maps type="ResSystemVsMapOne">
+        <ID>1002 </ID>
+        <Random>10000 </Random>
+    </Maps>
+    <Maps type="ResSystemVsMapOne">
+        <ID>0 </ID>
+        <Random>0 </Random>
+    </Maps>
+    <Maps type="ResSystemVsMapOne">
+        <ID>0 </ID>
+        <Random>0 </Random>
+    </Maps>
+    <Maps type="ResSystemVsMapOne">
+        <ID>0 </ID>
+        <Random>0 </Random>
+    </Maps>
+    <HighMap1>0 </HighMap1>
+    <HighMap2>0 </HighMap2>
+    <HighMap3>0 </HighMap3>
+    <ArenaUnlockLevel>3 </ArenaUnlockLevel>
+    <ArenaUnlockMap>1004 </ArenaUnlockMap>
+</ResSystemVsModeMapPool>
+<ResSystemVsModeMapPool version="1">
+    <VsMode>2 </VsMode>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Maps type="ResSystemVsMapOne">
+        <ID>1004 </ID>
+        <Random>5000 </Random>
+    </Maps>
+    <Maps type="ResSystemVsMapOne">
+        <ID>1005 </ID>
+        <Random>5000 </Random>
+    </Maps>
+    <Maps type="ResSystemVsMapOne">
+        <ID>0 </ID>
+        <Random>0 </Random>
+    </Maps>
+    <Maps type="ResSystemVsMapOne">
+        <ID>0 </ID>
+        <Random>0 </Random>
+    </Maps>
+    <HighMap1>0 </HighMap1>
+    <HighMap2>0 </HighMap2>
+    <HighMap3>0 </HighMap3>
+    <ArenaUnlockLevel>3 </ArenaUnlockLevel>
+    <ArenaUnlockMap>1004 </ArenaUnlockMap>
+</ResSystemVsModeMapPool>
+<ResSystemVsModeMapPool version="1">
+    <VsMode>3 </VsMode>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Maps type="ResSystemVsMapOne">
+        <ID>1002 </ID>
+        <Random>10000 </Random>
+    </Maps>
+    <Maps type="ResSystemVsMapOne">
+        <ID>0 </ID>
+        <Random>0 </Random>
+    </Maps>
+    <Maps type="ResSystemVsMapOne">
+        <ID>0 </ID>
+        <Random>0 </Random>
+    </Maps>
+    <Maps type="ResSystemVsMapOne">
+        <ID>0 </ID>
+        <Random>0 </Random>
+    </Maps>
+    <HighMap1>0 </HighMap1>
+    <HighMap2>0 </HighMap2>
+    <HighMap3>0 </HighMap3>
+    <ArenaUnlockLevel>3 </ArenaUnlockLevel>
+    <ArenaUnlockMap>1004 </ArenaUnlockMap>
+</ResSystemVsModeMapPool>
+<ResSystemVsModeMapPool version="1">
+    <VsMode>3 </VsMode>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Maps type="ResSystemVsMapOne">
+        <ID>1004 </ID>
+        <Random>5000 </Random>
+    </Maps>
+    <Maps type="ResSystemVsMapOne">
+        <ID>1005 </ID>
+        <Random>5000 </Random>
+    </Maps>
+    <Maps type="ResSystemVsMapOne">
+        <ID>0 </ID>
+        <Random>0 </Random>
+    </Maps>
+    <Maps type="ResSystemVsMapOne">
+        <ID>0 </ID>
+        <Random>0 </Random>
+    </Maps>
+    <HighMap1>0 </HighMap1>
+    <HighMap2>0 </HighMap2>
+    <HighMap3>0 </HighMap3>
+    <ArenaUnlockLevel>3 </ArenaUnlockLevel>
+    <ArenaUnlockMap>1004 </ArenaUnlockMap>
+</ResSystemVsModeMapPool>
+<ResSystemVsModeMapPool version="1">
+    <VsMode>4 </VsMode>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Maps type="ResSystemVsMapOne">
+        <ID>1002 </ID>
+        <Random>10000 </Random>
+    </Maps>
+    <Maps type="ResSystemVsMapOne">
+        <ID>0 </ID>
+        <Random>0 </Random>
+    </Maps>
+    <Maps type="ResSystemVsMapOne">
+        <ID>0 </ID>
+        <Random>0 </Random>
+    </Maps>
+    <Maps type="ResSystemVsMapOne">
+        <ID>0 </ID>
+        <Random>0 </Random>
+    </Maps>
+    <HighMap1>0 </HighMap1>
+    <HighMap2>0 </HighMap2>
+    <HighMap3>0 </HighMap3>
+    <ArenaUnlockLevel>3 </ArenaUnlockLevel>
+    <ArenaUnlockMap>1004 </ArenaUnlockMap>
+</ResSystemVsModeMapPool>
+<ResSystemVsModeMapPool version="1">
+    <VsMode>4 </VsMode>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Maps type="ResSystemVsMapOne">
+        <ID>1005 </ID>
+        <Random>5000 </Random>
+    </Maps>
+    <Maps type="ResSystemVsMapOne">
+        <ID>1004 </ID>
+        <Random>5000 </Random>
+    </Maps>
+    <Maps type="ResSystemVsMapOne">
+        <ID>0 </ID>
+        <Random>0 </Random>
+    </Maps>
+    <Maps type="ResSystemVsMapOne">
+        <ID>0 </ID>
+        <Random>0 </Random>
+    </Maps>
+    <HighMap1>0 </HighMap1>
+    <HighMap2>0 </HighMap2>
+    <HighMap3>0 </HighMap3>
+    <ArenaUnlockLevel>3 </ArenaUnlockLevel>
+    <ArenaUnlockMap>1004 </ArenaUnlockMap>
+</ResSystemVsModeMapPool>
+<ResSystemVsModeMapPool version="1">
+    <VsMode>5 </VsMode>
+    <MutiPlayMode>3 </MutiPlayMode>
+    <Maps type="ResSystemVsMapOne">
+        <ID>1003 </ID>
+        <Random>10000 </Random>
+    </Maps>
+    <Maps type="ResSystemVsMapOne">
+        <ID>0 </ID>
+        <Random>0 </Random>
+    </Maps>
+    <Maps type="ResSystemVsMapOne">
+        <ID>0 </ID>
+        <Random>0 </Random>
+    </Maps>
+    <Maps type="ResSystemVsMapOne">
+        <ID>0 </ID>
+        <Random>0 </Random>
+    </Maps>
+    <HighMap1>0 </HighMap1>
+    <HighMap2>0 </HighMap2>
+    <HighMap3>0 </HighMap3>
+    <ArenaUnlockLevel>3 </ArenaUnlockLevel>
+    <ArenaUnlockMap>1004 </ArenaUnlockMap>
+</ResSystemVsModeMapPool>
+</ResSystemVsModeMapPool_Tab>

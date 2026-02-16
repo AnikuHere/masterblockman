@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<ResRankLevelDesc_Tab>
+<TResHeadAll version="5">
+    <resHead type="TResHead">
+        <Magic>1397052237 </Magic>
+        <Version>6 </Version>
+        <Unit>856 </Unit>
+        <Count>25 </Count>
+        <MetalibHash>531d5b4a397ad5b3c0fbfb5cc8059e55</MetalibHash>
+        <ResVersion>0 </ResVersion>
+        <CreateTime>2023-04-19 20:42:34</CreateTime>
+        <ResEncording>UTF-8</ResEncording>
+        <ContentHash>6b923fcaca4ca1255b570efe54a5132b</ContentHash>
+    </resHead>
+    <resHeadExt type="TResHeadExt">
+        <DataOffset>136 </DataOffset>
+    </resHeadExt>
+</TResHeadAll>
+<ResRankLevelDesc version="1">
+    <Level>1 </Level>
+    <UpStar>2 </UpStar>
+    <LevelType>1 </LevelType>
+    <MaxScore>60 </MaxScore>
+    <ProtectScore>20 </ProtectScore>
+    <NextSeasonLevel>1 </NextSeasonLevel>
+    <Name_SCN>不屈青铜</Name_SCN>
+    <Name_FCN></Name_FCN>
+    <Name_EN></Name_EN>
+    <Icon>UITexture/system/duanwei/T_ICON_duanwei_01</Icon>
+    <ShowSubLevel>Ⅲ</ShowSubLevel>
+    <IconEdge>UITexture/system/duanwei/T_ICON_duanwei_huangjin00</IconEdge>
+    <IconNeck>UITexture/system/duanwei/T_ICON_duanwei_piaodai01</IconNeck>
+    <IconLevel>UITexture/system/duanwei/T_ICON_duanweidengji_3</IconLevel>
+</ResRankLevelDesc>
+<ResRankLevelDesc version="1">
+    <Level>2 </Level>
+    <UpStar>2 </UpStar>
+    <LevelType>1 </LevelType>
+    <MaxScore>60 </MaxScore>
+    <ProtectScore>20 </ProtectScore>
+    <NextSeasonLevel>2 </NextSeasonLevel>
+    <Name_SCN>不屈青铜</Name_SCN>
+    <Name_FCN></Name_FCN>
+    <Name_EN></Name_EN>
+    <Icon>UITexture/system/duanwei/T_ICON_duanwei_01</Icon>
+    <ShowSubLevel>Ⅱ</ShowSubLevel>
+    <IconEdge>UITexture/system/duanwei/T_ICON_duanwei_huangjin00</IconEdge>
+    <IconNeck>UITexture/system/duanwei/T_ICON_duanwei_piaodai01</IconNeck>
+    <IconLevel>UITexture/system/duanwei/T_ICON_duanweidengji_2</IconLevel>
+</ResRankLevelDesc>
+<ResRankLevelDesc version="1">
+    <Level>3 </Level>
+    <UpStar>2 </UpStar>
+    <LevelType>1 </LevelType>
+    <MaxScore>60 </MaxScore>
+    <ProtectScore>20 </ProtectScore>
+    <NextSeasonLevel>3 </NextSeasonLevel>
+    <Name_SCN>不屈青铜</Name_SCN>
+    <Name_FCN></Name_FCN>
+    <Name_EN></Name_EN>
+    <Icon>UITexture/system/duanwei/T_ICON_duanwei_01</Icon>
+    <ShowSubLevel>Ⅰ</ShowSubLevel>
+    <IconEdge>UITexture/system/duanwei/T_ICON_duanwei_huangjin00</IconEdge>
+    <IconNeck>UITexture/system/duanwei/T_ICON_duanwei_piaodai01</IconNeck>
+    <IconLevel>UITexture/system/duanwei/T_ICON_duanweidengji_1</IconLevel>
+</ResRankLevelDesc>
+<ResRankLevelDesc version="1">
+    <Level>4 </Level>
+    <UpStar>2 </UpStar>
+    <LevelType>2 </LevelType>
+    <MaxScore>70 </MaxScore>
+    <ProtectScore>20 </ProtectScore>
+    <NextSeasonLevel>3 </NextSeasonLevel>
+    <Name_SCN>闪亮白银</Name_SCN>
+    <Name_FCN></Name_FCN>
+    <Name_EN></Name_EN>
+    <Icon>UITexture/system/duanwei/T_ICON_duanwei_02</Icon>
+    <ShowSubLevel>Ⅲ</ShowSubLevel>
+    <IconEdge>UITexture/system/duanwei/T_ICON_duanwei_huangjin00</IconEdge>
+    <IconNeck>UITexture/system/duanwei/T_ICON_duanwei_piaodai01</IconNeck>
+    <IconLevel>UITexture/system/duanwei/T_ICON_duanweidengji_3</IconLevel>
+</ResRankLevelDesc>
+<ResRankLevelDesc version="1">
+    <Level>5 </Level>
+    <UpStar>2 </UpStar>
+    <LevelType>2 </LevelType>
+    <MaxScore>70 </MaxScore>
+    <ProtectScore>20 </ProtectScore>
+    <NextSeasonLevel>4 </NextSeasonLevel>
+    <Name_SCN>闪亮白银</Name_SCN>
+    <Name_FCN></Name_FCN>
+    <Name_EN></Name_EN>
+    <Icon>UITexture/system/duanwei/T_ICON_duanwei_02</Icon>
+    <ShowSubLevel>Ⅱ</ShowSubLevel>
+    <IconEdge>UITexture/system/duanwei/T_ICON_duanwei_huangjin00</IconEdge>
+    <IconNeck>UITexture/system/duanwei/T_ICON_duanwei_piaodai01</IconNeck>
+    <IconLevel>UITexture/system/duanwei/T_ICON_duanweidengji_2</IconLevel>
+</ResRankLevelDesc>
+<ResRankLevelDesc version="1">
+    <Level>6 </Level>
+    <UpStar>2 </UpStar>
+    <LevelType>2 </LevelType>
+    <MaxScore>70 </MaxScore>
+    <ProtectScore>20 </ProtectScore>
+    <NextSeasonLevel>4 </NextSeasonLevel>
+    <Name_SCN>闪亮白银</Name_SCN>
+    <Name_FCN></Name_FCN>
+    <Name_EN></Name_EN>
+    <Icon>UITexture/system/duanwei/T_ICON_duanwei_02</Icon>
+    <ShowSubLevel>Ⅰ</ShowSubLevel>
+    <IconEdge>UITexture/system/duanwei/T_ICON_duanwei_huangjin00</IconEdge>
+    <IconNeck>UITexture/system/duanwei/T_ICON_duanwei_piaodai01</IconNeck>
+    <IconLevel>UITexture/system/duanwei/T_ICON_duanweidengji_1</IconLevel>
+</ResRankLevelDesc>
+<ResRankLevelDesc version="1">
+    <Level>7 </Level>
+    <UpStar>3 </UpStar>
+    <LevelType>3 </LevelType>
+    <MaxScore>90 </MaxScore>
+    <ProtectScore>40 </ProtectScore>
+    <NextSeasonLevel>5 </NextSeasonLevel>
+    <Name_SCN>高贵黄金</Name_SCN>
+    <Name_FCN></Name_FCN>
+    <Name_EN></Name_EN>
+    <Icon>UITexture/system/duanwei/T_ICON_duanwei_03</Icon>
+    <ShowSubLevel>Ⅳ</ShowSubLevel>
+    <IconEdge>UITexture/system/duanwei/T_ICON_duanwei_huangjin00</IconEdge>
+    <IconNeck>UITexture/system/duanwei/T_ICON_duanwei_piaodai01</IconNeck>
+    <IconLevel>UITexture/system/duanwei/T_ICON_duanweidengji_4</IconLevel>
+</ResRankLevelDesc>
+<ResRankLevelDesc version="1">
+    <Level>8 </Level>
+    <UpStar>3 </UpStar>
+    <LevelType>3 </LevelType>
+    <MaxScore>90 </MaxScore>
+    <ProtectScore>40 </ProtectScore>
+    <NextSeasonLevel>5 </NextSeasonLevel>
+    <Name_SCN>高贵黄金</Name_SCN>
+    <Name_FCN></Name_FCN>
+    <Name_EN></Name_EN>
+    <Icon>UITexture/system/duanwei/T_ICON_duanwei_03</Icon>
+    <ShowSubLevel>Ⅲ</ShowSubLevel>
+    <IconEdge>UITexture/system/duanwei/T_ICON_duanwei_huangjin00</IconEdge>
+    <IconNeck>UITexture/system/duanwei/T_ICON_duanwei_piaodai01</IconNeck>
+    <IconLevel>UITexture/system/duanwei/T_ICON_duanweidengji_3</IconLevel>
+</ResRankLevelDesc>
+<ResRankLevelDesc version="1">
+    <Level>9 </Level>
+    <UpStar>3 </UpStar>
+    <LevelType>3 </LevelType>
+    <MaxScore>90 </MaxScore>
+    <ProtectScore>40 </ProtectScore>
+    <NextSeasonLevel>6 </NextSeasonLevel>
+    <Name_SCN>高贵黄金</Name_SCN>
+    <Name_FCN></Name_FCN>
+    <Name_EN></Name_EN>
+    <Icon>UITexture/system/duanwei/T_ICON_duanwei_03</Icon>
+    <ShowSubLevel>Ⅱ</ShowSubLevel>
+    <IconEdge>UITexture/system/duanwei/T_ICON_duanwei_huangjin00</IconEdge>
+    <IconNeck>UITexture/system/duanwei/T_ICON_duanwei_piaodai01</IconNeck>
+    <IconLevel>UITexture/system/duanwei/T_ICON_duanweidengji_2</IconLevel>
+</ResRankLevelDesc>
+<ResRankLevelDesc version="1">
+    <Level>10 </Level>
+    <UpStar>3 </UpStar>
+    <LevelType>3 </LevelType>
+    <MaxScore>90 </MaxScore>
+    <ProtectScore>40 </ProtectScore>
+    <NextSeasonLevel>6 </NextSeasonLevel>
+    <Name_SCN>高贵黄金</Name_SCN>
+    <Name_FCN></Name_FCN>
+    <Name_EN></Name_EN>
+    <Icon>UITexture/system/duanwei/T_ICON_duanwei_03</Icon>
+    <ShowSubLevel>Ⅰ</ShowSubLevel>
+    <IconEdge>UITexture/system/duanwei/T_ICON_duanwei_huangjin00</IconEdge>
+    <IconNeck>UITexture/system/duanwei/T_ICON_duanwei_piaodai01</IconNeck>
+    <IconLevel>UITexture/system/duanwei/T_ICON_duanweidengji_1</IconLevel>
+</ResRankLevelDesc>
+<ResRankLevelDesc version="1">
+    <Level>11 </Level>
+    <UpStar>4 </UpStar>
+    <LevelType>4 </LevelType>
+    <MaxScore>100 </MaxScore>
+    <ProtectScore>50 </ProtectScore>
+    <NextSeasonLevel>7 </NextSeasonLevel>
+    <Name_SCN>光辉铂金</Name_SCN>
+    <Name_FCN></Name_FCN>
+    <Name_EN></Name_EN>
+    <Icon>UITexture/system/duanwei/T_ICON_duanwei_04</Icon>
+    <ShowSubLevel>Ⅳ</ShowSubLevel>
+    <IconEdge>UITexture/system/duanwei/T_ICON_duanwei_huangjin00</IconEdge>
+    <IconNeck>UITexture/system/duanwei/T_ICON_duanwei_piaodai01</IconNeck>
+    <IconLevel>UITexture/system/duanwei/T_ICON_duanweidengji_4</IconLevel>
+</ResRankLevelDesc>
+<ResRankLevelDesc version="1">
+    <Level>12 </Level>
+    <UpStar>4 </UpStar>
+    <LevelType>4 </LevelType>
+    <MaxScore>100 </MaxScore>
+    <ProtectScore>50 </ProtectScore>
+    <NextSeasonLevel>7 </NextSeasonLevel>
+    <Name_SCN>光辉铂金</Name_SCN>
+    <Name_FCN></Name_FCN>
+    <Name_EN></Name_EN>
+    <Icon>UITexture/system/duanwei/T_ICON_duanwei_04</Icon>
+    <ShowSubLevel>Ⅲ</ShowSubLevel>
+    <IconEdge>UITexture/system/duanwei/T_ICON_duanwei_huangjin00</IconEdge>
+    <IconNeck>UITexture/system/duanwei/T_ICON_duanwei_piaodai01</IconNeck>
+    <IconLevel>UITexture/system/duanwei/T_ICON_duanweidengji_3</IconLevel>
+</ResRankLevelDesc>
+<ResRankLevelDesc version="1">
+    <Level>13 </Level>
+    <UpStar>4 </UpStar>
+    <LevelType>4 </LevelType>
+    <MaxScore>100 </MaxScore>
+    <ProtectScore>50 </ProtectScore>
+    <NextSeasonLevel>7 </NextSeasonLevel>
+    <Name_SCN>光辉铂金</Name_SCN>
+    <Name_FCN></Name_FCN>
+    <Name_EN></Name_EN>
+    <Icon>UITexture/system/duanwei/T_ICON_duanwei_04</Icon>
+    <ShowSubLevel>Ⅱ</ShowSubLevel>
+    <IconEdge>UITexture/system/duanwei/T_ICON_duanwei_huangjin00</IconEdge>
+    <IconNeck>UITexture/system/duanwei/T_ICON_duanwei_piaodai01</IconNeck>
+    <IconLevel>UITexture/system/duanwei/T_ICON_duanweidengji_2</IconLevel>
+</ResRankLevelDesc>
+<ResRankLevelDesc version="1">
+    <Level>14 </Level>
+    <UpStar>4 </UpStar>
+    <LevelType>4 </LevelType>
+    <MaxScore>100 </MaxScore>
+    <ProtectScore>50 </ProtectScore>
+    <NextSeasonLevel>8 </NextSeasonLevel>
+    <Name_SCN>光辉铂金</Name_SCN>
+    <Name_FCN></Name_FCN>
+    <Name_EN></Name_EN>
+    <Icon>UITexture/system/duanwei/T_ICON_duanwei_04</Icon>
+    <ShowSubLevel>Ⅰ</ShowSubLevel>
+    <IconEdge>UITexture/system/duanwei/T_ICON_duanwei_huangjin00</IconEdge>
+    <IconNeck>UITexture/system/duanwei/T_ICON_duanwei_piaodai01</IconNeck>
+    <IconLevel>UITexture/system/duanwei/T_ICON_duanweidengji_1</IconLevel>
+</ResRankLevelDesc>
+<ResRankLevelDesc version="1">
+    <Level>15 </Level>
+    <UpStar>4 </UpStar>
+    <LevelType>5 </LevelType>
+    <MaxScore>250 </MaxScore>
+    <ProtectScore>90 </ProtectScore>
+    <NextSeasonLevel>8 </NextSeasonLevel>
+    <Name_SCN>神圣钻石</Name_SCN>
+    <Name_FCN></Name_FCN>
+    <Name_EN></Name_EN>
+    <Icon>UITexture/system/duanwei/T_ICON_duanwei_05</Icon>
+    <ShowSubLevel>Ⅴ</ShowSubLevel>
+    <IconEdge>UITexture/system/duanwei/T_ICON_duanwei_huangjin00</IconEdge>
+    <IconNeck>UITexture/system/duanwei/T_ICON_duanwei_piaodai01</IconNeck>
+    <IconLevel>UITexture/system/duanwei/T_ICON_duanweidengji_5</IconLevel>
+</ResRankLevelDesc>
+<ResRankLevelDesc version="1">
+    <Level>16 </Level>
+    <UpStar>4 </UpStar>
+    <LevelType>5 </LevelType>
+    <MaxScore>250 </MaxScore>
+    <ProtectScore>90 </ProtectScore>
+    <NextSeasonLevel>9 </NextSeasonLevel>
+    <Name_SCN>神圣钻石</Name_SCN>
+    <Name_FCN></Name_FCN>
+    <Name_EN></Name_EN>
+    <Icon>UITexture/system/duanwei/T_ICON_duanwei_05</Icon>
+    <ShowSubLevel>Ⅳ</ShowSubLevel>
+    <IconEdge>UITexture/system/duanwei/T_ICON_duanwei_huangjin00</IconEdge>
+    <IconNeck>UITexture/system/duanwei/T_ICON_duanwei_piaodai01</IconNeck>
+    <IconLevel>UITexture/system/duanwei/T_ICON_duanweidengji_4</IconLevel>
+</ResRankLevelDesc>
+<ResRankLevelDesc version="1">
+    <Level>17 </Level>
+    <UpStar>4 </UpStar>
+    <LevelType>5 </LevelType>
+    <MaxScore>250 </MaxScore>
+    <ProtectScore>90 </ProtectScore>
+    <NextSeasonLevel>9 </NextSeasonLevel>
+    <Name_SCN>神圣钻石</Name_SCN>
+    <Name_FCN></Name_FCN>
+    <Name_EN></Name_EN>
+    <Icon>UITexture/system/duanwei/T_ICON_duanwei_05</Icon>
+    <ShowSubLevel>Ⅲ</ShowSubLevel>
+    <IconEdge>UITexture/system/duanwei/T_ICON_duanwei_huangjin00</IconEdge>
+    <IconNeck>UITexture/system/duanwei/T_ICON_duanwei_piaodai01</IconNeck>
+    <IconLevel>UITexture/system/duanwei/T_ICON_duanweidengji_3</IconLevel>
+</ResRankLevelDesc>
+<ResRankLevelDesc version="1">
+    <Level>18 </Level>
+    <UpStar>4 </UpStar>
+    <LevelType>5 </LevelType>
+    <MaxScore>250 </MaxScore>
+    <ProtectScore>90 </ProtectScore>
+    <NextSeasonLevel>9 </NextSeasonLevel>
+    <Name_SCN>神圣钻石</Name_SCN>
+    <Name_FCN></Name_FCN>
+    <Name_EN></Name_EN>
+    <Icon>UITexture/system/duanwei/T_ICON_duanwei_05</Icon>
+    <ShowSubLevel>Ⅱ</ShowSubLevel>
+    <IconEdge>UITexture/system/duanwei/T_ICON_duanwei_huangjin00</IconEdge>
+    <IconNeck>UITexture/system/duanwei/T_ICON_duanwei_piaodai01</IconNeck>
+    <IconLevel>UITexture/system/duanwei/T_ICON_duanweidengji_2</IconLevel>
+</ResRankLevelDesc>
+<ResRankLevelDesc version="1">
+    <Level>19 </Level>
+    <UpStar>4 </UpStar>
+    <LevelType>5 </LevelType>
+    <MaxScore>250 </MaxScore>
+    <ProtectScore>90 </ProtectScore>
+    <NextSeasonLevel>10 </NextSeasonLevel>
+    <Name_SCN>神圣钻石</Name_SCN>
+    <Name_FCN></Name_FCN>
+    <Name_EN></Name_EN>
+    <Icon>UITexture/system/duanwei/T_ICON_duanwei_05</Icon>
+    <ShowSubLevel>Ⅰ</ShowSubLevel>
+    <IconEdge>UITexture/system/duanwei/T_ICON_duanwei_huangjin00</IconEdge>
+    <IconNeck>UITexture/system/duanwei/T_ICON_duanwei_piaodai01</IconNeck>
+    <IconLevel>UITexture/system/duanwei/T_ICON_duanweidengji_1</IconLevel>
+</ResRankLevelDesc>
+<ResRankLevelDesc version="1">
+    <Level>20 </Level>
+    <UpStar>5 </UpStar>
+    <LevelType>6 </LevelType>
+    <MaxScore>350 </MaxScore>
+    <ProtectScore>110 </ProtectScore>
+    <NextSeasonLevel>11 </NextSeasonLevel>
+    <Name_SCN>永恒王者</Name_SCN>
+    <Name_FCN></Name_FCN>
+    <Name_EN></Name_EN>
+    <Icon>UITexture/system/duanwei/T_ICON_duanwei_06</Icon>
+    <ShowSubLevel>Ⅴ</ShowSubLevel>
+    <IconEdge>UITexture/system/duanwei/T_ICON_duanwei_huangjin00</IconEdge>
+    <IconNeck>UITexture/system/duanwei/T_ICON_duanwei_piaodai01</IconNeck>
+    <IconLevel>UITexture/system/duanwei/T_ICON_duanweidengji_5</IconLevel>
+</ResRankLevelDesc>
+<ResRankLevelDesc version="1">
+    <Level>21 </Level>
+    <UpStar>5 </UpStar>
+    <LevelType>6 </LevelType>
+    <MaxScore>350 </MaxScore>
+    <ProtectScore>110 </ProtectScore>
+    <NextSeasonLevel>11 </NextSeasonLevel>
+    <Name_SCN>永恒王者</Name_SCN>
+    <Name_FCN></Name_FCN>
+    <Name_EN></Name_EN>
+    <Icon>UITexture/system/duanwei/T_ICON_duanwei_06</Icon>
+    <ShowSubLevel>Ⅳ</ShowSubLevel>
+    <IconEdge>UITexture/system/duanwei/T_ICON_duanwei_huangjin00</IconEdge>
+    <IconNeck>UITexture/system/duanwei/T_ICON_duanwei_piaodai01</IconNeck>
+    <IconLevel>UITexture/system/duanwei/T_ICON_duanweidengji_4</IconLevel>
+</ResRankLevelDesc>
+<ResRankLevelDesc version="1">
+    <Level>22 </Level>
+    <UpStar>5 </UpStar>
+    <LevelType>6 </LevelType>
+    <MaxScore>350 </MaxScore>
+    <ProtectScore>110 </ProtectScore>
+    <NextSeasonLevel>12 </NextSeasonLevel>
+    <Name_SCN>永恒王者</Name_SCN>
+    <Name_FCN></Name_FCN>
+    <Name_EN></Name_EN>
+    <Icon>UITexture/system/duanwei/T_ICON_duanwei_06</Icon>
+    <ShowSubLevel>Ⅲ</ShowSubLevel>
+    <IconEdge>UITexture/system/duanwei/T_ICON_duanwei_huangjin00</IconEdge>
+    <IconNeck>UITexture/system/duanwei/T_ICON_duanwei_piaodai01</IconNeck>
+    <IconLevel>UITexture/system/duanwei/T_ICON_duanweidengji_3</IconLevel>
+</ResRankLevelDesc>
+<ResRankLevelDesc version="1">
+    <Level>23 </Level>
+    <UpStar>5 </UpStar>
+    <LevelType>6 </LevelType>
+    <MaxScore>350 </MaxScore>
+    <ProtectScore>110 </ProtectScore>
+    <NextSeasonLevel>13 </NextSeasonLevel>
+    <Name_SCN>永恒王者</Name_SCN>
+    <Name_FCN></Name_FCN>
+    <Name_EN></Name_EN>
+    <Icon>UITexture/system/duanwei/T_ICON_duanwei_06</Icon>
+    <ShowSubLevel>Ⅱ</ShowSubLevel>
+    <IconEdge>UITexture/system/duanwei/T_ICON_duanwei_huangjin00</IconEdge>
+    <IconNeck>UITexture/system/duanwei/T_ICON_duanwei_piaodai01</IconNeck>
+    <IconLevel>UITexture/system/duanwei/T_ICON_duanweidengji_2</IconLevel>
+</ResRankLevelDesc>
+<ResRankLevelDesc version="1">
+    <Level>24 </Level>
+    <UpStar>5 </UpStar>
+    <LevelType>6 </LevelType>
+    <MaxScore>350 </MaxScore>
+    <ProtectScore>110 </ProtectScore>
+    <NextSeasonLevel>14 </NextSeasonLevel>
+    <Name_SCN>永恒王者</Name_SCN>
+    <Name_FCN></Name_FCN>
+    <Name_EN></Name_EN>
+    <Icon>UITexture/system/duanwei/T_ICON_duanwei_06</Icon>
+    <ShowSubLevel>Ⅰ</ShowSubLevel>
+    <IconEdge>UITexture/system/duanwei/T_ICON_duanwei_huangjin00</IconEdge>
+    <IconNeck>UITexture/system/duanwei/T_ICON_duanwei_piaodai01</IconNeck>
+    <IconLevel>UITexture/system/duanwei/T_ICON_duanweidengji_1</IconLevel>
+</ResRankLevelDesc>
+<ResRankLevelDesc version="1">
+    <Level>25 </Level>
+    <UpStar>9999999 </UpStar>
+    <LevelType>7 </LevelType>
+    <MaxScore>400 </MaxScore>
+    <ProtectScore>170 </ProtectScore>
+    <NextSeasonLevel>15 </NextSeasonLevel>
+    <Name_SCN>最强王者</Name_SCN>
+    <Name_FCN></Name_FCN>
+    <Name_EN></Name_EN>
+    <Icon>UITexture/system/duanwei/T_ICON_duanwei_07</Icon>
+    <ShowSubLevel></ShowSubLevel>
+    <IconEdge>UITexture/system/duanwei/T_ICON_duanwei_huangjin00</IconEdge>
+    <IconNeck>UITexture/system/duanwei/T_ICON_duanwei_piaodai01</IconNeck>
+    <IconLevel></IconLevel>
+</ResRankLevelDesc>
+</ResRankLevelDesc_Tab>

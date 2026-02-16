@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<ResRaceRuneRecommendDesc_Tab>
+<TResHeadAll version="5">
+    <resHead type="TResHead">
+        <Magic>1397052237 </Magic>
+        <Version>6 </Version>
+        <Unit>1604 </Unit>
+        <Count>20 </Count>
+        <MetalibHash>531d5b4a397ad5b3c0fbfb5cc8059e55</MetalibHash>
+        <ResVersion>0 </ResVersion>
+        <CreateTime>2023-04-19 20:42:38</CreateTime>
+        <ResEncording>UTF-8</ResEncording>
+        <ContentHash>75871abf6cdbbd90fe9df2df7bf99811</ContentHash>
+    </resHead>
+    <resHeadExt type="TResHeadExt">
+        <DataOffset>136 </DataOffset>
+    </resHeadExt>
+</TResHeadAll>
+<ResRaceRuneRecommendDesc version="1">
+    <ResID>201010 </ResID>
+    <RuneLvl>1 </RuneLvl>
+    <Detail_SCN>极限攻击</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10001 10001 10001 20001 20001 20001 30001 30011 30001 10001 10001 10001 40011 40021 40031 </RuneConfigId>
+</ResRaceRuneRecommendDesc>
+<ResRaceRuneRecommendDesc version="1">
+    <ResID>201011 </ResID>
+    <RuneLvl>2 </RuneLvl>
+    <Detail_SCN>极限攻击</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10002 10002 10002 20002 20002 20002 30002 30012 30002 10002 10002 10002 40012 40022 40032 </RuneConfigId>
+</ResRaceRuneRecommendDesc>
+<ResRaceRuneRecommendDesc version="1">
+    <ResID>201012 </ResID>
+    <RuneLvl>3 </RuneLvl>
+    <Detail_SCN>极限攻击</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10003 10003 10003 20003 20003 20003 30003 30013 30003 10003 10003 10003 40013 40023 40033 </RuneConfigId>
+</ResRaceRuneRecommendDesc>
+<ResRaceRuneRecommendDesc version="1">
+    <ResID>201013 </ResID>
+    <RuneLvl>4 </RuneLvl>
+    <Detail_SCN>极限攻击</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10004 10004 10004 20004 20004 20004 30004 30014 30004 10004 10004 10004 40014 40024 40034 </RuneConfigId>
+</ResRaceRuneRecommendDesc>
+<ResRaceRuneRecommendDesc version="1">
+    <ResID>201014 </ResID>
+    <RuneLvl>5 </RuneLvl>
+    <Detail_SCN>极限攻击</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10005 10005 10005 20005 20005 20005 30005 30015 30005 10005 10005 10005 40015 40025 40035 </RuneConfigId>
+</ResRaceRuneRecommendDesc>
+<ResRaceRuneRecommendDesc version="1">
+    <ResID>201015 </ResID>
+    <RuneLvl>1 </RuneLvl>
+    <Detail_SCN>纯粹防御</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10001 10001 10001 20001 20001 20001 30001 30001 30001 20001 30001 30001 40001 40081 40111 </RuneConfigId>
+</ResRaceRuneRecommendDesc>
+<ResRaceRuneRecommendDesc version="1">
+    <ResID>201016 </ResID>
+    <RuneLvl>2 </RuneLvl>
+    <Detail_SCN>纯粹防御</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10002 10002 10002 20002 20002 20002 30002 30002 30002 20002 30002 30002 40002 40082 40112 </RuneConfigId>
+</ResRaceRuneRecommendDesc>
+<ResRaceRuneRecommendDesc version="1">
+    <ResID>201017 </ResID>
+    <RuneLvl>3 </RuneLvl>
+    <Detail_SCN>纯粹防御</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10003 10003 10003 20003 20003 20003 30003 30003 30003 20003 30003 30003 40003 40083 40113 </RuneConfigId>
+</ResRaceRuneRecommendDesc>
+<ResRaceRuneRecommendDesc version="1">
+    <ResID>201018 </ResID>
+    <RuneLvl>4 </RuneLvl>
+    <Detail_SCN>纯粹防御</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10004 10004 10004 20004 20004 20004 30004 30004 30004 20004 30004 30004 40004 40084 40114 </RuneConfigId>
+</ResRaceRuneRecommendDesc>
+<ResRaceRuneRecommendDesc version="1">
+    <ResID>201019 </ResID>
+    <RuneLvl>5 </RuneLvl>
+    <Detail_SCN>纯粹防御</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10005 10005 10005 20005 20005 20005 30005 30005 30005 20005 30005 30005 40005 40085 40115 </RuneConfigId>
+</ResRaceRuneRecommendDesc>
+<ResRaceRuneRecommendDesc version="1">
+    <ResID>201020 </ResID>
+    <RuneLvl>1 </RuneLvl>
+    <Detail_SCN>科技经营</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10001 10001 10001 20001 20001 20001 30001 30011 30001 10001 20001 30001 40041 40091 40101 </RuneConfigId>
+</ResRaceRuneRecommendDesc>
+<ResRaceRuneRecommendDesc version="1">
+    <ResID>201021 </ResID>
+    <RuneLvl>2 </RuneLvl>
+    <Detail_SCN>科技经营</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10002 10002 10002 20002 20002 20002 30002 30012 30002 10002 20002 30002 40042 40092 40102 </RuneConfigId>
+</ResRaceRuneRecommendDesc>
+<ResRaceRuneRecommendDesc version="1">
+    <ResID>201022 </ResID>
+    <RuneLvl>3 </RuneLvl>
+    <Detail_SCN>科技经营</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10003 10003 10003 20003 20003 20003 30003 30013 30003 10003 20003 30003 40043 40093 40103 </RuneConfigId>
+</ResRaceRuneRecommendDesc>
+<ResRaceRuneRecommendDesc version="1">
+    <ResID>201023 </ResID>
+    <RuneLvl>4 </RuneLvl>
+    <Detail_SCN>科技经营</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10004 10004 10004 20004 20004 20004 30004 30014 30004 10004 20004 30004 40044 40094 40104 </RuneConfigId>
+</ResRaceRuneRecommendDesc>
+<ResRaceRuneRecommendDesc version="1">
+    <ResID>201024 </ResID>
+    <RuneLvl>5 </RuneLvl>
+    <Detail_SCN>科技经营</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10005 10005 10005 20005 20005 20005 30005 30015 30005 10005 20005 30005 40045 40095 40105 </RuneConfigId>
+</ResRaceRuneRecommendDesc>
+<ResRaceRuneRecommendDesc version="1">
+    <ResID>201025 </ResID>
+    <RuneLvl>1 </RuneLvl>
+    <Detail_SCN>攻守兼备</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10001 10001 10001 20001 20001 20001 30001 30011 30001 10001 20001 30001 40081 40131 40141 </RuneConfigId>
+</ResRaceRuneRecommendDesc>
+<ResRaceRuneRecommendDesc version="1">
+    <ResID>201026 </ResID>
+    <RuneLvl>2 </RuneLvl>
+    <Detail_SCN>攻守兼备</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10002 10002 10002 20002 20002 20002 30002 30012 30002 10002 20002 30002 40082 40132 40142 </RuneConfigId>
+</ResRaceRuneRecommendDesc>
+<ResRaceRuneRecommendDesc version="1">
+    <ResID>201027 </ResID>
+    <RuneLvl>3 </RuneLvl>
+    <Detail_SCN>攻守兼备</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10003 10003 10003 20003 20003 20003 30003 30013 30003 10003 20003 30003 40083 40133 40143 </RuneConfigId>
+</ResRaceRuneRecommendDesc>
+<ResRaceRuneRecommendDesc version="1">
+    <ResID>201028 </ResID>
+    <RuneLvl>4 </RuneLvl>
+    <Detail_SCN>攻守兼备</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10004 10004 10004 20004 20004 20004 30004 30014 30004 10004 20004 30004 40084 40134 40144 </RuneConfigId>
+</ResRaceRuneRecommendDesc>
+<ResRaceRuneRecommendDesc version="1">
+    <ResID>201029 </ResID>
+    <RuneLvl>5 </RuneLvl>
+    <Detail_SCN>攻守兼备</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10005 10005 10005 20005 20005 20005 30005 30015 30005 10005 20005 30005 40085 40135 40145 </RuneConfigId>
+</ResRaceRuneRecommendDesc>
+</ResRaceRuneRecommendDesc_Tab>

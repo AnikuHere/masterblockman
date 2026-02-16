@@ -1,0 +1,4870 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<ResMobaSkillField_Tab>
+<TResHeadAll version="5">
+    <resHead type="TResHead">
+        <Magic>1397052237 </Magic>
+        <Version>6 </Version>
+        <Unit>402 </Unit>
+        <Count>99 </Count>
+        <MetalibHash>531d5b4a397ad5b3c0fbfb5cc8059e55</MetalibHash>
+        <ResVersion>0 </ResVersion>
+        <CreateTime>2023-04-19 20:42:30</CreateTime>
+        <ResEncording>UTF-8</ResEncording>
+        <ContentHash>2ad9039b50cd40aff5b63a6ff08ca43a</ContentHash>
+    </resHead>
+    <resHeadExt type="TResHeadExt">
+        <DataOffset>136 </DataOffset>
+    </resHeadExt>
+</TResHeadAll>
+<ResMobaSkillField version="1">
+    <SkillFieldID>10901001 </SkillFieldID>
+    <SkillFieldGroupID>109010 </SkillFieldGroupID>
+    <TimeLength>10000 </TimeLength>
+    <DelayTime>0 </DelayTime>
+    <CheckPeriod>500 </CheckPeriod>
+    <TargetType>9 </TargetType>
+    <TargetFilterType>0 </TargetFilterType>
+    <TargetFilterParam>0 0 </TargetFilterParam>
+    <FollowType>0 </FollowType>
+    <SkillFieldType>1 </SkillFieldType>
+    <SkillFieldShape>0 </SkillFieldShape>
+    <ShapeParam>45000 0 </ShapeParam>
+    <OffsetParam>0 0 </OffsetParam>
+    <ShapeChangeType>0 </ShapeChangeType>
+    <ShapeChangeParams>0 0 </ShapeChangeParams>
+    <Stealth>0 </Stealth>
+    <IMMSpell>0 </IMMSpell>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>1 </SkillFieldParamType>
+        <TriggerParam>109010101 0 0 </TriggerParam>
+    </TriggerEffect>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </TriggerEffect>
+    <SelfTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </SelfTriggerEffect>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <StartDisplay>data/skillflow/rts/human/army/army09_skill01_buff</StartDisplay>
+    <TrigDisplay></TrigDisplay>
+</ResMobaSkillField>
+<ResMobaSkillField version="1">
+    <SkillFieldID>12030001 </SkillFieldID>
+    <SkillFieldGroupID>120300 </SkillFieldGroupID>
+    <TimeLength>99999999 </TimeLength>
+    <DelayTime>0 </DelayTime>
+    <CheckPeriod>100 </CheckPeriod>
+    <TargetType>12 </TargetType>
+    <TargetFilterType>5 </TargetFilterType>
+    <TargetFilterParam>250000 12 </TargetFilterParam>
+    <FollowType>0 </FollowType>
+    <SkillFieldType>3 </SkillFieldType>
+    <SkillFieldShape>0 </SkillFieldShape>
+    <ShapeParam>30000 0 </ShapeParam>
+    <OffsetParam>0 0 </OffsetParam>
+    <ShapeChangeType>0 </ShapeChangeType>
+    <ShapeChangeParams>0 0 </ShapeChangeParams>
+    <Stealth>1 </Stealth>
+    <IMMSpell>0 </IMMSpell>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>1 </SkillFieldParamType>
+        <TriggerParam>120300201 0 0 </TriggerParam>
+    </TriggerEffect>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </TriggerEffect>
+    <SelfTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>2 </SkillFieldParamType>
+        <TriggerParam>1 0 0 </TriggerParam>
+    </SelfTriggerEffect>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <StartDisplay>data/skillflow/map/losttemple/buff_hedaofu_huifu</StartDisplay>
+    <TrigDisplay></TrigDisplay>
+</ResMobaSkillField>
+<ResMobaSkillField version="1">
+    <SkillFieldID>22030001 </SkillFieldID>
+    <SkillFieldGroupID>220300 </SkillFieldGroupID>
+    <TimeLength>99999999 </TimeLength>
+    <DelayTime>0 </DelayTime>
+    <CheckPeriod>100 </CheckPeriod>
+    <TargetType>12 </TargetType>
+    <TargetFilterType>5 </TargetFilterType>
+    <TargetFilterParam>250000 12 </TargetFilterParam>
+    <FollowType>0 </FollowType>
+    <SkillFieldType>3 </SkillFieldType>
+    <SkillFieldShape>0 </SkillFieldShape>
+    <ShapeParam>30000 0 </ShapeParam>
+    <OffsetParam>0 0 </OffsetParam>
+    <ShapeChangeType>0 </ShapeChangeType>
+    <ShapeChangeParams>0 0 </ShapeChangeParams>
+    <Stealth>1 </Stealth>
+    <IMMSpell>0 </IMMSpell>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>1 </SkillFieldParamType>
+        <TriggerParam>220300201 0 0 </TriggerParam>
+    </TriggerEffect>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </TriggerEffect>
+    <SelfTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>2 </SkillFieldParamType>
+        <TriggerParam>1 0 0 </TriggerParam>
+    </SelfTriggerEffect>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <StartDisplay>data/skillflow/map/losttemple/buff_hedaofu_huifu</StartDisplay>
+    <TrigDisplay></TrigDisplay>
+</ResMobaSkillField>
+<ResMobaSkillField version="1">
+    <SkillFieldID>23020001 </SkillFieldID>
+    <SkillFieldGroupID>230200 </SkillFieldGroupID>
+    <TimeLength>-1 </TimeLength>
+    <DelayTime>0 </DelayTime>
+    <CheckPeriod>100 </CheckPeriod>
+    <TargetType>14 </TargetType>
+    <TargetFilterType>0 </TargetFilterType>
+    <TargetFilterParam>0 0 </TargetFilterParam>
+    <FollowType>1 </FollowType>
+    <SkillFieldType>1 </SkillFieldType>
+    <SkillFieldShape>0 </SkillFieldShape>
+    <ShapeParam>180000 0 </ShapeParam>
+    <OffsetParam>0 0 </OffsetParam>
+    <ShapeChangeType>0 </ShapeChangeType>
+    <ShapeChangeParams>0 0 </ShapeChangeParams>
+    <Stealth>1 </Stealth>
+    <IMMSpell>0 </IMMSpell>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>1 </SkillFieldParamType>
+        <TriggerParam>230200101 0 0 </TriggerParam>
+    </TriggerEffect>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </TriggerEffect>
+    <SelfTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </SelfTriggerEffect>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <StartDisplay></StartDisplay>
+    <TrigDisplay></TrigDisplay>
+</ResMobaSkillField>
+<ResMobaSkillField version="1">
+    <SkillFieldID>30402001 </SkillFieldID>
+    <SkillFieldGroupID>304020 </SkillFieldGroupID>
+    <TimeLength>30000 </TimeLength>
+    <DelayTime>0 </DelayTime>
+    <CheckPeriod>2000 </CheckPeriod>
+    <TargetType>12 </TargetType>
+    <TargetFilterType>0 </TargetFilterType>
+    <TargetFilterParam>0 0 </TargetFilterParam>
+    <FollowType>1 </FollowType>
+    <SkillFieldType>1 </SkillFieldType>
+    <SkillFieldShape>0 </SkillFieldShape>
+    <ShapeParam>80000 0 </ShapeParam>
+    <OffsetParam>0 0 </OffsetParam>
+    <ShapeChangeType>0 </ShapeChangeType>
+    <ShapeChangeParams>0 0 </ShapeChangeParams>
+    <Stealth>1 </Stealth>
+    <IMMSpell>0 </IMMSpell>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>1 </SkillFieldParamType>
+        <TriggerParam>304020101 0 0 </TriggerParam>
+    </TriggerEffect>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </TriggerEffect>
+    <SelfTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </SelfTriggerEffect>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <StartDisplay>data/skillflow/rts/ghost/army/army04_skill02_field</StartDisplay>
+    <TrigDisplay></TrigDisplay>
+</ResMobaSkillField>
+<ResMobaSkillField version="1">
+    <SkillFieldID>30702001 </SkillFieldID>
+    <SkillFieldGroupID>307020 </SkillFieldGroupID>
+    <TimeLength>10000 </TimeLength>
+    <DelayTime>0 </DelayTime>
+    <CheckPeriod>1000 </CheckPeriod>
+    <TargetType>14 </TargetType>
+    <TargetFilterType>0 </TargetFilterType>
+    <TargetFilterParam>0 0 </TargetFilterParam>
+    <FollowType>0 </FollowType>
+    <SkillFieldType>2 </SkillFieldType>
+    <SkillFieldShape>0 </SkillFieldShape>
+    <ShapeParam>45000 0 </ShapeParam>
+    <OffsetParam>0 0 </OffsetParam>
+    <ShapeChangeType>0 </ShapeChangeType>
+    <ShapeChangeParams>0 0 </ShapeChangeParams>
+    <Stealth>1 </Stealth>
+    <IMMSpell>0 </IMMSpell>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>1 </SkillFieldParamType>
+        <TriggerParam>307020101 0 307020101 </TriggerParam>
+    </TriggerEffect>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>1 </SkillFieldParamType>
+        <TriggerParam>307020201 0 307020201 </TriggerParam>
+    </TriggerEffect>
+    <SelfTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </SelfTriggerEffect>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <StartDisplay>data/skillflow/rts/ghost/army/army07_skill01_field</StartDisplay>
+    <TrigDisplay></TrigDisplay>
+</ResMobaSkillField>
+<ResMobaSkillField version="1">
+    <SkillFieldID>30801001 </SkillFieldID>
+    <SkillFieldGroupID>308010 </SkillFieldGroupID>
+    <TimeLength>-1 </TimeLength>
+    <DelayTime>0 </DelayTime>
+    <CheckPeriod>1000 </CheckPeriod>
+    <TargetType>14 </TargetType>
+    <TargetFilterType>0 </TargetFilterType>
+    <TargetFilterParam>0 0 </TargetFilterParam>
+    <FollowType>1 </FollowType>
+    <SkillFieldType>2 </SkillFieldType>
+    <SkillFieldShape>0 </SkillFieldShape>
+    <ShapeParam>50000 0 </ShapeParam>
+    <OffsetParam>0 0 </OffsetParam>
+    <ShapeChangeType>0 </ShapeChangeType>
+    <ShapeChangeParams>0 0 </ShapeChangeParams>
+    <Stealth>1 </Stealth>
+    <IMMSpell>0 </IMMSpell>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>1 </SkillFieldParamType>
+        <TriggerParam>308010201 0 308010201 </TriggerParam>
+    </TriggerEffect>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>1 </SkillFieldParamType>
+        <TriggerParam>308010301 0 308010301 </TriggerParam>
+    </TriggerEffect>
+    <SelfTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </SelfTriggerEffect>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <StartDisplay>data/skillflow/rts/ghost/army/army08_skill01_field</StartDisplay>
+    <TrigDisplay></TrigDisplay>
+</ResMobaSkillField>
+<ResMobaSkillField version="1">
+    <SkillFieldID>40402001 </SkillFieldID>
+    <SkillFieldGroupID>404020 </SkillFieldGroupID>
+    <TimeLength>10000 </TimeLength>
+    <DelayTime>0 </DelayTime>
+    <CheckPeriod>100 </CheckPeriod>
+    <TargetType>14 </TargetType>
+    <TargetFilterType>0 </TargetFilterType>
+    <TargetFilterParam>0 0 </TargetFilterParam>
+    <FollowType>1 </FollowType>
+    <SkillFieldType>1 </SkillFieldType>
+    <SkillFieldShape>0 </SkillFieldShape>
+    <ShapeParam>150000 0 </ShapeParam>
+    <OffsetParam>0 0 </OffsetParam>
+    <ShapeChangeType>0 </ShapeChangeType>
+    <ShapeChangeParams>0 0 </ShapeChangeParams>
+    <Stealth>1 </Stealth>
+    <IMMSpell>0 </IMMSpell>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>1 </SkillFieldParamType>
+        <TriggerParam>404020101 0 0 </TriggerParam>
+    </TriggerEffect>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </TriggerEffect>
+    <SelfTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </SelfTriggerEffect>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <StartDisplay></StartDisplay>
+    <TrigDisplay></TrigDisplay>
+</ResMobaSkillField>
+<ResMobaSkillField version="1">
+    <SkillFieldID>60000101 </SkillFieldID>
+    <SkillFieldGroupID>600001 </SkillFieldGroupID>
+    <TimeLength>-1 </TimeLength>
+    <DelayTime>0 </DelayTime>
+    <CheckPeriod>1000 </CheckPeriod>
+    <TargetType>14 </TargetType>
+    <TargetFilterType>0 </TargetFilterType>
+    <TargetFilterParam>0 0 </TargetFilterParam>
+    <FollowType>1 </FollowType>
+    <SkillFieldType>2 </SkillFieldType>
+    <SkillFieldShape>0 </SkillFieldShape>
+    <ShapeParam>50000 0 </ShapeParam>
+    <OffsetParam>0 0 </OffsetParam>
+    <ShapeChangeType>0 </ShapeChangeType>
+    <ShapeChangeParams>0 0 </ShapeChangeParams>
+    <Stealth>1 </Stealth>
+    <IMMSpell>0 </IMMSpell>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>2 </SkillFieldParamType>
+        <TriggerParam>0 0 1 </TriggerParam>
+    </TriggerEffect>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </TriggerEffect>
+    <SelfTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </SelfTriggerEffect>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <StartDisplay></StartDisplay>
+    <TrigDisplay></TrigDisplay>
+</ResMobaSkillField>
+<ResMobaSkillField version="1">
+    <SkillFieldID>60000201 </SkillFieldID>
+    <SkillFieldGroupID>600002 </SkillFieldGroupID>
+    <TimeLength>-1 </TimeLength>
+    <DelayTime>0 </DelayTime>
+    <CheckPeriod>100 </CheckPeriod>
+    <TargetType>17 </TargetType>
+    <TargetFilterType>0 </TargetFilterType>
+    <TargetFilterParam>0 0 </TargetFilterParam>
+    <FollowType>1 </FollowType>
+    <SkillFieldType>1 </SkillFieldType>
+    <SkillFieldShape>0 </SkillFieldShape>
+    <ShapeParam>200000 0 </ShapeParam>
+    <OffsetParam>0 0 </OffsetParam>
+    <ShapeChangeType>0 </ShapeChangeType>
+    <ShapeChangeParams>0 0 </ShapeChangeParams>
+    <Stealth>1 </Stealth>
+    <IMMSpell>0 </IMMSpell>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>1 </SkillFieldParamType>
+        <TriggerParam>600002101 0 0 </TriggerParam>
+    </TriggerEffect>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </TriggerEffect>
+    <SelfTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </SelfTriggerEffect>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <StartDisplay></StartDisplay>
+    <TrigDisplay></TrigDisplay>
+</ResMobaSkillField>
+<ResMobaSkillField version="1">
+    <SkillFieldID>60000301 </SkillFieldID>
+    <SkillFieldGroupID>600003 </SkillFieldGroupID>
+    <TimeLength>-1 </TimeLength>
+    <DelayTime>0 </DelayTime>
+    <CheckPeriod>100 </CheckPeriod>
+    <TargetType>12 </TargetType>
+    <TargetFilterType>0 </TargetFilterType>
+    <TargetFilterParam>0 0 </TargetFilterParam>
+    <FollowType>1 </FollowType>
+    <SkillFieldType>1 </SkillFieldType>
+    <SkillFieldShape>0 </SkillFieldShape>
+    <ShapeParam>200000 0 </ShapeParam>
+    <OffsetParam>0 0 </OffsetParam>
+    <ShapeChangeType>0 </ShapeChangeType>
+    <ShapeChangeParams>0 0 </ShapeChangeParams>
+    <Stealth>1 </Stealth>
+    <IMMSpell>0 </IMMSpell>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>1 </SkillFieldParamType>
+        <TriggerParam>600003101 0 0 </TriggerParam>
+    </TriggerEffect>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </TriggerEffect>
+    <SelfTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </SelfTriggerEffect>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <StartDisplay></StartDisplay>
+    <TrigDisplay></TrigDisplay>
+</ResMobaSkillField>
+<ResMobaSkillField version="1">
+    <SkillFieldID>60000302 </SkillFieldID>
+    <SkillFieldGroupID>600003 </SkillFieldGroupID>
+    <TimeLength>-1 </TimeLength>
+    <DelayTime>0 </DelayTime>
+    <CheckPeriod>100 </CheckPeriod>
+    <TargetType>14 </TargetType>
+    <TargetFilterType>0 </TargetFilterType>
+    <TargetFilterParam>0 0 </TargetFilterParam>
+    <FollowType>1 </FollowType>
+    <SkillFieldType>1 </SkillFieldType>
+    <SkillFieldShape>0 </SkillFieldShape>
+    <ShapeParam>200000 0 </ShapeParam>
+    <OffsetParam>0 0 </OffsetParam>
+    <ShapeChangeType>0 </ShapeChangeType>
+    <ShapeChangeParams>0 0 </ShapeChangeParams>
+    <Stealth>1 </Stealth>
+    <IMMSpell>0 </IMMSpell>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>1 </SkillFieldParamType>
+        <TriggerParam>600003201 0 0 </TriggerParam>
+    </TriggerEffect>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </TriggerEffect>
+    <SelfTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </SelfTriggerEffect>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <StartDisplay></StartDisplay>
+    <TrigDisplay></TrigDisplay>
+</ResMobaSkillField>
+<ResMobaSkillField version="1">
+    <SkillFieldID>60000401 </SkillFieldID>
+    <SkillFieldGroupID>600004 </SkillFieldGroupID>
+    <TimeLength>-1 </TimeLength>
+    <DelayTime>0 </DelayTime>
+    <CheckPeriod>100 </CheckPeriod>
+    <TargetType>14 </TargetType>
+    <TargetFilterType>0 </TargetFilterType>
+    <TargetFilterParam>0 0 </TargetFilterParam>
+    <FollowType>1 </FollowType>
+    <SkillFieldType>1 </SkillFieldType>
+    <SkillFieldShape>0 </SkillFieldShape>
+    <ShapeParam>200000 0 </ShapeParam>
+    <OffsetParam>0 0 </OffsetParam>
+    <ShapeChangeType>0 </ShapeChangeType>
+    <ShapeChangeParams>0 0 </ShapeChangeParams>
+    <Stealth>1 </Stealth>
+    <IMMSpell>0 </IMMSpell>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>1 </SkillFieldParamType>
+        <TriggerParam>600004101 0 0 </TriggerParam>
+    </TriggerEffect>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </TriggerEffect>
+    <SelfTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </SelfTriggerEffect>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <StartDisplay></StartDisplay>
+    <TrigDisplay></TrigDisplay>
+</ResMobaSkillField>
+<ResMobaSkillField version="1">
+    <SkillFieldID>60000501 </SkillFieldID>
+    <SkillFieldGroupID>600005 </SkillFieldGroupID>
+    <TimeLength>-1 </TimeLength>
+    <DelayTime>0 </DelayTime>
+    <CheckPeriod>100 </CheckPeriod>
+    <TargetType>13 </TargetType>
+    <TargetFilterType>0 </TargetFilterType>
+    <TargetFilterParam>0 0 </TargetFilterParam>
+    <FollowType>1 </FollowType>
+    <SkillFieldType>1 </SkillFieldType>
+    <SkillFieldShape>0 </SkillFieldShape>
+    <ShapeParam>200000 0 </ShapeParam>
+    <OffsetParam>0 0 </OffsetParam>
+    <ShapeChangeType>0 </ShapeChangeType>
+    <ShapeChangeParams>0 0 </ShapeChangeParams>
+    <Stealth>1 </Stealth>
+    <IMMSpell>0 </IMMSpell>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>1 </SkillFieldParamType>
+        <TriggerParam>600005201 0 0 </TriggerParam>
+    </TriggerEffect>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </TriggerEffect>
+    <SelfTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </SelfTriggerEffect>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <StartDisplay></StartDisplay>
+    <TrigDisplay></TrigDisplay>
+</ResMobaSkillField>
+<ResMobaSkillField version="1">
+    <SkillFieldID>60001101 </SkillFieldID>
+    <SkillFieldGroupID>600011 </SkillFieldGroupID>
+    <TimeLength>5000 </TimeLength>
+    <DelayTime>0 </DelayTime>
+    <CheckPeriod>1000 </CheckPeriod>
+    <TargetType>14 </TargetType>
+    <TargetFilterType>0 </TargetFilterType>
+    <TargetFilterParam>0 0 </TargetFilterParam>
+    <FollowType>0 </FollowType>
+    <SkillFieldType>1 </SkillFieldType>
+    <SkillFieldShape>0 </SkillFieldShape>
+    <ShapeParam>200000 0 </ShapeParam>
+    <OffsetParam>0 0 </OffsetParam>
+    <ShapeChangeType>0 </ShapeChangeType>
+    <ShapeChangeParams>0 0 </ShapeChangeParams>
+    <Stealth>0 </Stealth>
+    <IMMSpell>0 </IMMSpell>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </TriggerEffect>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </TriggerEffect>
+    <SelfTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </SelfTriggerEffect>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <StartDisplay>data/skillflow/item/Ankh_skillfield</StartDisplay>
+    <TrigDisplay></TrigDisplay>
+</ResMobaSkillField>
+<ResMobaSkillField version="1">
+    <SkillFieldID>70003201 </SkillFieldID>
+    <SkillFieldGroupID>700032 </SkillFieldGroupID>
+    <TimeLength>8000 </TimeLength>
+    <DelayTime>0 </DelayTime>
+    <CheckPeriod>500 </CheckPeriod>
+    <TargetType>12 </TargetType>
+    <TargetFilterType>0 </TargetFilterType>
+    <TargetFilterParam>0 0 </TargetFilterParam>
+    <FollowType>0 </FollowType>
+    <SkillFieldType>1 </SkillFieldType>
+    <SkillFieldShape>0 </SkillFieldShape>
+    <ShapeParam>150000 0 </ShapeParam>
+    <OffsetParam>0 0 </OffsetParam>
+    <ShapeChangeType>0 </ShapeChangeType>
+    <ShapeChangeParams>0 0 </ShapeChangeParams>
+    <Stealth>1 </Stealth>
+    <IMMSpell>0 </IMMSpell>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>1 </SkillFieldParamType>
+        <TriggerParam>700032101 0 0 </TriggerParam>
+    </TriggerEffect>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </TriggerEffect>
+    <SelfTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </SelfTriggerEffect>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <StartDisplay>data/skillflow/Summoner/gho_huangwu_field</StartDisplay>
+    <TrigDisplay></TrigDisplay>
+</ResMobaSkillField>
+<ResMobaSkillField version="1">
+    <SkillFieldID>70008101 </SkillFieldID>
+    <SkillFieldGroupID>700081 </SkillFieldGroupID>
+    <TimeLength>10000 </TimeLength>
+    <DelayTime>0 </DelayTime>
+    <CheckPeriod>100 </CheckPeriod>
+    <TargetType>14 </TargetType>
+    <TargetFilterType>0 </TargetFilterType>
+    <TargetFilterParam>0 0 </TargetFilterParam>
+    <FollowType>0 </FollowType>
+    <SkillFieldType>1 </SkillFieldType>
+    <SkillFieldShape>0 </SkillFieldShape>
+    <ShapeParam>350000 0 </ShapeParam>
+    <OffsetParam>0 0 </OffsetParam>
+    <ShapeChangeType>0 </ShapeChangeType>
+    <ShapeChangeParams>0 0 </ShapeChangeParams>
+    <Stealth>1 </Stealth>
+    <IMMSpell>0 </IMMSpell>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>1 </SkillFieldParamType>
+        <TriggerParam>810001101 0 0 </TriggerParam>
+    </TriggerEffect>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </TriggerEffect>
+    <SelfTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </SelfTriggerEffect>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <StartDisplay></StartDisplay>
+    <TrigDisplay></TrigDisplay>
+</ResMobaSkillField>
+<ResMobaSkillField version="1">
+    <SkillFieldID>80030001 </SkillFieldID>
+    <SkillFieldGroupID>800300 </SkillFieldGroupID>
+    <TimeLength>-1 </TimeLength>
+    <DelayTime>0 </DelayTime>
+    <CheckPeriod>500 </CheckPeriod>
+    <TargetType>14 </TargetType>
+    <TargetFilterType>2 </TargetFilterType>
+    <TargetFilterParam>5000 5000 </TargetFilterParam>
+    <FollowType>0 </FollowType>
+    <SkillFieldType>1 </SkillFieldType>
+    <SkillFieldShape>0 </SkillFieldShape>
+    <ShapeParam>150000 0 </ShapeParam>
+    <OffsetParam>0 0 </OffsetParam>
+    <ShapeChangeType>0 </ShapeChangeType>
+    <ShapeChangeParams>0 0 </ShapeChangeParams>
+    <Stealth>1 </Stealth>
+    <IMMSpell>0 </IMMSpell>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>1 </SkillFieldParamType>
+        <TriggerParam>800300101 0 0 </TriggerParam>
+    </TriggerEffect>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </TriggerEffect>
+    <SelfTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </SelfTriggerEffect>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <StartDisplay></StartDisplay>
+    <TrigDisplay></TrigDisplay>
+</ResMobaSkillField>
+<ResMobaSkillField version="1">
+    <SkillFieldID>80230001 </SkillFieldID>
+    <SkillFieldGroupID>802300 </SkillFieldGroupID>
+    <TimeLength>-1 </TimeLength>
+    <DelayTime>0 </DelayTime>
+    <CheckPeriod>500 </CheckPeriod>
+    <TargetType>12 </TargetType>
+    <TargetFilterType>0 </TargetFilterType>
+    <TargetFilterParam>0 0 </TargetFilterParam>
+    <FollowType>0 </FollowType>
+    <SkillFieldType>1 </SkillFieldType>
+    <SkillFieldShape>0 </SkillFieldShape>
+    <ShapeParam>150000 0 </ShapeParam>
+    <OffsetParam>0 0 </OffsetParam>
+    <ShapeChangeType>0 </ShapeChangeType>
+    <ShapeChangeParams>0 0 </ShapeChangeParams>
+    <Stealth>1 </Stealth>
+    <IMMSpell>0 </IMMSpell>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>1 </SkillFieldParamType>
+        <TriggerParam>802300101 0 0 </TriggerParam>
+    </TriggerEffect>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </TriggerEffect>
+    <SelfTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </SelfTriggerEffect>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <StartDisplay></StartDisplay>
+    <TrigDisplay></TrigDisplay>
+</ResMobaSkillField>
+<ResMobaSkillField version="1">
+    <SkillFieldID>80230002 </SkillFieldID>
+    <SkillFieldGroupID>802300 </SkillFieldGroupID>
+    <TimeLength>-1 </TimeLength>
+    <DelayTime>0 </DelayTime>
+    <CheckPeriod>500 </CheckPeriod>
+    <TargetType>12 </TargetType>
+    <TargetFilterType>0 </TargetFilterType>
+    <TargetFilterParam>0 0 </TargetFilterParam>
+    <FollowType>0 </FollowType>
+    <SkillFieldType>2 </SkillFieldType>
+    <SkillFieldShape>0 </SkillFieldShape>
+    <ShapeParam>150000 0 </ShapeParam>
+    <OffsetParam>0 0 </OffsetParam>
+    <ShapeChangeType>0 </ShapeChangeType>
+    <ShapeChangeParams>0 0 </ShapeChangeParams>
+    <Stealth>1 </Stealth>
+    <IMMSpell>0 </IMMSpell>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>2 </SkillFieldParamType>
+        <TriggerParam>1 0 1 </TriggerParam>
+    </TriggerEffect>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </TriggerEffect>
+    <SelfTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </SelfTriggerEffect>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <StartDisplay></StartDisplay>
+    <TrigDisplay></TrigDisplay>
+</ResMobaSkillField>
+<ResMobaSkillField version="1">
+    <SkillFieldID>80330001 </SkillFieldID>
+    <SkillFieldGroupID>803300 </SkillFieldGroupID>
+    <TimeLength>-1 </TimeLength>
+    <DelayTime>0 </DelayTime>
+    <CheckPeriod>500 </CheckPeriod>
+    <TargetType>12 </TargetType>
+    <TargetFilterType>0 </TargetFilterType>
+    <TargetFilterParam>0 0 </TargetFilterParam>
+    <FollowType>0 </FollowType>
+    <SkillFieldType>1 </SkillFieldType>
+    <SkillFieldShape>0 </SkillFieldShape>
+    <ShapeParam>150000 0 </ShapeParam>
+    <OffsetParam>0 0 </OffsetParam>
+    <ShapeChangeType>0 </ShapeChangeType>
+    <ShapeChangeParams>0 0 </ShapeChangeParams>
+    <Stealth>1 </Stealth>
+    <IMMSpell>0 </IMMSpell>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>1 </SkillFieldParamType>
+        <TriggerParam>803300101 0 0 </TriggerParam>
+    </TriggerEffect>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </TriggerEffect>
+    <SelfTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </SelfTriggerEffect>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <StartDisplay></StartDisplay>
+    <TrigDisplay></TrigDisplay>
+</ResMobaSkillField>
+<ResMobaSkillField version="1">
+    <SkillFieldID>80330002 </SkillFieldID>
+    <SkillFieldGroupID>803300 </SkillFieldGroupID>
+    <TimeLength>-1 </TimeLength>
+    <DelayTime>0 </DelayTime>
+    <CheckPeriod>500 </CheckPeriod>
+    <TargetType>12 </TargetType>
+    <TargetFilterType>0 </TargetFilterType>
+    <TargetFilterParam>0 0 </TargetFilterParam>
+    <FollowType>0 </FollowType>
+    <SkillFieldType>2 </SkillFieldType>
+    <SkillFieldShape>0 </SkillFieldShape>
+    <ShapeParam>150000 0 </ShapeParam>
+    <OffsetParam>0 0 </OffsetParam>
+    <ShapeChangeType>0 </ShapeChangeType>
+    <ShapeChangeParams>0 0 </ShapeChangeParams>
+    <Stealth>1 </Stealth>
+    <IMMSpell>0 </IMMSpell>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>2 </SkillFieldParamType>
+        <TriggerParam>1 0 1 </TriggerParam>
+    </TriggerEffect>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </TriggerEffect>
+    <SelfTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </SelfTriggerEffect>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <StartDisplay></StartDisplay>
+    <TrigDisplay></TrigDisplay>
+</ResMobaSkillField>
+<ResMobaSkillField version="1">
+    <SkillFieldID>80430001 </SkillFieldID>
+    <SkillFieldGroupID>804300 </SkillFieldGroupID>
+    <TimeLength>99999999 </TimeLength>
+    <DelayTime>0 </DelayTime>
+    <CheckPeriod>100 </CheckPeriod>
+    <TargetType>2 </TargetType>
+    <TargetFilterType>5 </TargetFilterType>
+    <TargetFilterParam>250000 12 </TargetFilterParam>
+    <FollowType>0 </FollowType>
+    <SkillFieldType>0 </SkillFieldType>
+    <SkillFieldShape>0 </SkillFieldShape>
+    <ShapeParam>30000 0 </ShapeParam>
+    <OffsetParam>0 0 </OffsetParam>
+    <ShapeChangeType>0 </ShapeChangeType>
+    <ShapeChangeParams>0 0 </ShapeChangeParams>
+    <Stealth>1 </Stealth>
+    <IMMSpell>0 </IMMSpell>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>2 </SkillFieldParamType>
+        <TriggerParam>2 0 0 </TriggerParam>
+    </TriggerEffect>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </TriggerEffect>
+    <SelfTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>2 </SkillFieldParamType>
+        <TriggerParam>1 0 0 </TriggerParam>
+    </SelfTriggerEffect>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <StartDisplay>data/skillflow/map/3v3/buff_hedao_jiasu</StartDisplay>
+    <TrigDisplay>data/skillflow/map/3v3/buff_hedao_jiasu_attack</TrigDisplay>
+</ResMobaSkillField>
+<ResMobaSkillField version="1">
+    <SkillFieldID>81820001 </SkillFieldID>
+    <SkillFieldGroupID>818200 </SkillFieldGroupID>
+    <TimeLength>-1 </TimeLength>
+    <DelayTime>0 </DelayTime>
+    <CheckPeriod>1000 </CheckPeriod>
+    <TargetType>14 </TargetType>
+    <TargetFilterType>0 </TargetFilterType>
+    <TargetFilterParam>0 0 </TargetFilterParam>
+    <FollowType>1 </FollowType>
+    <SkillFieldType>2 </SkillFieldType>
+    <SkillFieldShape>0 </SkillFieldShape>
+    <ShapeParam>50000 0 </ShapeParam>
+    <OffsetParam>0 0 </OffsetParam>
+    <ShapeChangeType>0 </ShapeChangeType>
+    <ShapeChangeParams>0 0 </ShapeChangeParams>
+    <Stealth>1 </Stealth>
+    <IMMSpell>0 </IMMSpell>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>2 </SkillFieldParamType>
+        <TriggerParam>1 0 1 </TriggerParam>
+    </TriggerEffect>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </TriggerEffect>
+    <SelfTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </SelfTriggerEffect>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <StartDisplay></StartDisplay>
+    <TrigDisplay></TrigDisplay>
+</ResMobaSkillField>
+<ResMobaSkillField version="1">
+    <SkillFieldID>81920001 </SkillFieldID>
+    <SkillFieldGroupID>819200 </SkillFieldGroupID>
+    <TimeLength>-1 </TimeLength>
+    <DelayTime>0 </DelayTime>
+    <CheckPeriod>1000 </CheckPeriod>
+    <TargetType>14 </TargetType>
+    <TargetFilterType>0 </TargetFilterType>
+    <TargetFilterParam>0 0 </TargetFilterParam>
+    <FollowType>1 </FollowType>
+    <SkillFieldType>2 </SkillFieldType>
+    <SkillFieldShape>0 </SkillFieldShape>
+    <ShapeParam>50000 0 </ShapeParam>
+    <OffsetParam>0 0 </OffsetParam>
+    <ShapeChangeType>0 </ShapeChangeType>
+    <ShapeChangeParams>0 0 </ShapeChangeParams>
+    <Stealth>1 </Stealth>
+    <IMMSpell>0 </IMMSpell>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>2 </SkillFieldParamType>
+        <TriggerParam>1 0 1 </TriggerParam>
+    </TriggerEffect>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </TriggerEffect>
+    <SelfTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </SelfTriggerEffect>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <StartDisplay></StartDisplay>
+    <TrigDisplay></TrigDisplay>
+</ResMobaSkillField>
+<ResMobaSkillField version="1">
+    <SkillFieldID>82020001 </SkillFieldID>
+    <SkillFieldGroupID>820200 </SkillFieldGroupID>
+    <TimeLength>60000 </TimeLength>
+    <DelayTime>3000 </DelayTime>
+    <CheckPeriod>100 </CheckPeriod>
+    <TargetType>14 </TargetType>
+    <TargetFilterType>5 </TargetFilterType>
+    <TargetFilterParam>60000 12 </TargetFilterParam>
+    <FollowType>1 </FollowType>
+    <SkillFieldType>0 </SkillFieldType>
+    <SkillFieldShape>0 </SkillFieldShape>
+    <ShapeParam>30000 0 </ShapeParam>
+    <OffsetParam>0 0 </OffsetParam>
+    <ShapeChangeType>0 </ShapeChangeType>
+    <ShapeChangeParams>0 0 </ShapeChangeParams>
+    <Stealth>1 </Stealth>
+    <IMMSpell>0 </IMMSpell>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>2 </SkillFieldParamType>
+        <TriggerParam>1 0 0 </TriggerParam>
+    </TriggerEffect>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </TriggerEffect>
+    <SelfTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>2 </SkillFieldParamType>
+        <TriggerParam>2 0 0 </TriggerParam>
+    </SelfTriggerEffect>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <StartDisplay></StartDisplay>
+    <TrigDisplay>data/skillflow/hero/10000410/skill02_trap_attack</TrigDisplay>
+</ResMobaSkillField>
+<ResMobaSkillField version="1">
+    <SkillFieldID>82120001 </SkillFieldID>
+    <SkillFieldGroupID>821200 </SkillFieldGroupID>
+    <TimeLength>60000 </TimeLength>
+    <DelayTime>3000 </DelayTime>
+    <CheckPeriod>100 </CheckPeriod>
+    <TargetType>14 </TargetType>
+    <TargetFilterType>5 </TargetFilterType>
+    <TargetFilterParam>60000 12 </TargetFilterParam>
+    <FollowType>1 </FollowType>
+    <SkillFieldType>0 </SkillFieldType>
+    <SkillFieldShape>0 </SkillFieldShape>
+    <ShapeParam>30000 0 </ShapeParam>
+    <OffsetParam>0 0 </OffsetParam>
+    <ShapeChangeType>0 </ShapeChangeType>
+    <ShapeChangeParams>0 0 </ShapeChangeParams>
+    <Stealth>1 </Stealth>
+    <IMMSpell>0 </IMMSpell>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>2 </SkillFieldParamType>
+        <TriggerParam>1 0 0 </TriggerParam>
+    </TriggerEffect>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </TriggerEffect>
+    <SelfTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>2 </SkillFieldParamType>
+        <TriggerParam>2 0 0 </TriggerParam>
+    </SelfTriggerEffect>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <StartDisplay></StartDisplay>
+    <TrigDisplay>data/skillflow/hero/10000410/skill02_trap_attack</TrigDisplay>
+</ResMobaSkillField>
+<ResMobaSkillField version="1">
+    <SkillFieldID>82220001 </SkillFieldID>
+    <SkillFieldGroupID>822200 </SkillFieldGroupID>
+    <TimeLength>60000 </TimeLength>
+    <DelayTime>3000 </DelayTime>
+    <CheckPeriod>100 </CheckPeriod>
+    <TargetType>14 </TargetType>
+    <TargetFilterType>5 </TargetFilterType>
+    <TargetFilterParam>60000 12 </TargetFilterParam>
+    <FollowType>1 </FollowType>
+    <SkillFieldType>0 </SkillFieldType>
+    <SkillFieldShape>0 </SkillFieldShape>
+    <ShapeParam>30000 0 </ShapeParam>
+    <OffsetParam>0 0 </OffsetParam>
+    <ShapeChangeType>0 </ShapeChangeType>
+    <ShapeChangeParams>0 0 </ShapeChangeParams>
+    <Stealth>1 </Stealth>
+    <IMMSpell>0 </IMMSpell>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>2 </SkillFieldParamType>
+        <TriggerParam>1 0 0 </TriggerParam>
+    </TriggerEffect>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </TriggerEffect>
+    <SelfTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>2 </SkillFieldParamType>
+        <TriggerParam>2 0 0 </TriggerParam>
+    </SelfTriggerEffect>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <StartDisplay></StartDisplay>
+    <TrigDisplay>data/skillflow/hero/10000410/skill02_trap_attack</TrigDisplay>
+</ResMobaSkillField>
+<ResMobaSkillField version="1">
+    <SkillFieldID>82320001 </SkillFieldID>
+    <SkillFieldGroupID>823200 </SkillFieldGroupID>
+    <TimeLength>60000 </TimeLength>
+    <DelayTime>3000 </DelayTime>
+    <CheckPeriod>100 </CheckPeriod>
+    <TargetType>14 </TargetType>
+    <TargetFilterType>5 </TargetFilterType>
+    <TargetFilterParam>60000 12 </TargetFilterParam>
+    <FollowType>1 </FollowType>
+    <SkillFieldType>0 </SkillFieldType>
+    <SkillFieldShape>0 </SkillFieldShape>
+    <ShapeParam>30000 0 </ShapeParam>
+    <OffsetParam>0 0 </OffsetParam>
+    <ShapeChangeType>0 </ShapeChangeType>
+    <ShapeChangeParams>0 0 </ShapeChangeParams>
+    <Stealth>1 </Stealth>
+    <IMMSpell>0 </IMMSpell>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>2 </SkillFieldParamType>
+        <TriggerParam>1 0 0 </TriggerParam>
+    </TriggerEffect>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </TriggerEffect>
+    <SelfTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>2 </SkillFieldParamType>
+        <TriggerParam>2 0 0 </TriggerParam>
+    </SelfTriggerEffect>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <StartDisplay></StartDisplay>
+    <TrigDisplay>data/skillflow/hero/10000410/skill02_trap_attack</TrigDisplay>
+</ResMobaSkillField>
+<ResMobaSkillField version="1">
+    <SkillFieldID>83520001 </SkillFieldID>
+    <SkillFieldGroupID>835200 </SkillFieldGroupID>
+    <TimeLength>-1 </TimeLength>
+    <DelayTime>0 </DelayTime>
+    <CheckPeriod>100 </CheckPeriod>
+    <TargetType>14 </TargetType>
+    <TargetFilterType>0 </TargetFilterType>
+    <TargetFilterParam>0 0 </TargetFilterParam>
+    <FollowType>1 </FollowType>
+    <SkillFieldType>1 </SkillFieldType>
+    <SkillFieldShape>0 </SkillFieldShape>
+    <ShapeParam>200000 0 </ShapeParam>
+    <OffsetParam>0 0 </OffsetParam>
+    <ShapeChangeType>0 </ShapeChangeType>
+    <ShapeChangeParams>0 0 </ShapeChangeParams>
+    <Stealth>1 </Stealth>
+    <IMMSpell>0 </IMMSpell>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>1 </SkillFieldParamType>
+        <TriggerParam>835200101 0 835200101 </TriggerParam>
+    </TriggerEffect>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </TriggerEffect>
+    <SelfTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </SelfTriggerEffect>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <StartDisplay>data/skillflow/hero/10000203/tomb_field</StartDisplay>
+    <TrigDisplay></TrigDisplay>
+</ResMobaSkillField>
+<ResMobaSkillField version="1">
+    <SkillFieldID>83520002 </SkillFieldID>
+    <SkillFieldGroupID>835200 </SkillFieldGroupID>
+    <TimeLength>-1 </TimeLength>
+    <DelayTime>0 </DelayTime>
+    <CheckPeriod>100 </CheckPeriod>
+    <TargetType>21 </TargetType>
+    <TargetFilterType>0 </TargetFilterType>
+    <TargetFilterParam>0 0 </TargetFilterParam>
+    <FollowType>1 </FollowType>
+    <SkillFieldType>1 </SkillFieldType>
+    <SkillFieldShape>0 </SkillFieldShape>
+    <ShapeParam>200000 0 </ShapeParam>
+    <OffsetParam>0 0 </OffsetParam>
+    <ShapeChangeType>0 </ShapeChangeType>
+    <ShapeChangeParams>0 0 </ShapeChangeParams>
+    <Stealth>1 </Stealth>
+    <IMMSpell>0 </IMMSpell>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>1 </SkillFieldParamType>
+        <TriggerParam>835200201 0 835200201 </TriggerParam>
+    </TriggerEffect>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </TriggerEffect>
+    <SelfTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </SelfTriggerEffect>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <StartDisplay>data/skillflow/hero/10000203/tomb_field</StartDisplay>
+    <TrigDisplay></TrigDisplay>
+</ResMobaSkillField>
+<ResMobaSkillField version="1">
+    <SkillFieldID>83620001 </SkillFieldID>
+    <SkillFieldGroupID>836200 </SkillFieldGroupID>
+    <TimeLength>-1 </TimeLength>
+    <DelayTime>0 </DelayTime>
+    <CheckPeriod>100 </CheckPeriod>
+    <TargetType>14 </TargetType>
+    <TargetFilterType>0 </TargetFilterType>
+    <TargetFilterParam>0 0 </TargetFilterParam>
+    <FollowType>1 </FollowType>
+    <SkillFieldType>1 </SkillFieldType>
+    <SkillFieldShape>0 </SkillFieldShape>
+    <ShapeParam>200000 0 </ShapeParam>
+    <OffsetParam>0 0 </OffsetParam>
+    <ShapeChangeType>0 </ShapeChangeType>
+    <ShapeChangeParams>0 0 </ShapeChangeParams>
+    <Stealth>1 </Stealth>
+    <IMMSpell>0 </IMMSpell>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>1 </SkillFieldParamType>
+        <TriggerParam>836200101 0 836200101 </TriggerParam>
+    </TriggerEffect>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </TriggerEffect>
+    <SelfTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </SelfTriggerEffect>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <StartDisplay>data/skillflow/hero/10000203/tomb_field</StartDisplay>
+    <TrigDisplay></TrigDisplay>
+</ResMobaSkillField>
+<ResMobaSkillField version="1">
+    <SkillFieldID>83620002 </SkillFieldID>
+    <SkillFieldGroupID>836200 </SkillFieldGroupID>
+    <TimeLength>-1 </TimeLength>
+    <DelayTime>0 </DelayTime>
+    <CheckPeriod>100 </CheckPeriod>
+    <TargetType>21 </TargetType>
+    <TargetFilterType>0 </TargetFilterType>
+    <TargetFilterParam>0 0 </TargetFilterParam>
+    <FollowType>1 </FollowType>
+    <SkillFieldType>1 </SkillFieldType>
+    <SkillFieldShape>0 </SkillFieldShape>
+    <ShapeParam>200000 0 </ShapeParam>
+    <OffsetParam>0 0 </OffsetParam>
+    <ShapeChangeType>0 </ShapeChangeType>
+    <ShapeChangeParams>0 0 </ShapeChangeParams>
+    <Stealth>1 </Stealth>
+    <IMMSpell>0 </IMMSpell>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>1 </SkillFieldParamType>
+        <TriggerParam>836200201 0 836200201 </TriggerParam>
+    </TriggerEffect>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </TriggerEffect>
+    <SelfTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </SelfTriggerEffect>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <StartDisplay>data/skillflow/hero/10000203/tomb_field</StartDisplay>
+    <TrigDisplay></TrigDisplay>
+</ResMobaSkillField>
+<ResMobaSkillField version="1">
+    <SkillFieldID>88020101 </SkillFieldID>
+    <SkillFieldGroupID>918201 </SkillFieldGroupID>
+    <TimeLength>-1 </TimeLength>
+    <DelayTime>0 </DelayTime>
+    <CheckPeriod>100 </CheckPeriod>
+    <TargetType>14 </TargetType>
+    <TargetFilterType>0 </TargetFilterType>
+    <TargetFilterParam>0 0 </TargetFilterParam>
+    <FollowType>1 </FollowType>
+    <SkillFieldType>1 </SkillFieldType>
+    <SkillFieldShape>0 </SkillFieldShape>
+    <ShapeParam>200000 0 </ShapeParam>
+    <OffsetParam>0 0 </OffsetParam>
+    <ShapeChangeType>0 </ShapeChangeType>
+    <ShapeChangeParams>0 0 </ShapeChangeParams>
+    <Stealth>1 </Stealth>
+    <IMMSpell>0 </IMMSpell>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>1 </SkillFieldParamType>
+        <TriggerParam>880201101 0 0 </TriggerParam>
+    </TriggerEffect>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </TriggerEffect>
+    <SelfTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </SelfTriggerEffect>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <StartDisplay></StartDisplay>
+    <TrigDisplay></TrigDisplay>
+</ResMobaSkillField>
+<ResMobaSkillField version="1">
+    <SkillFieldID>88120101 </SkillFieldID>
+    <SkillFieldGroupID>918201 </SkillFieldGroupID>
+    <TimeLength>-1 </TimeLength>
+    <DelayTime>0 </DelayTime>
+    <CheckPeriod>100 </CheckPeriod>
+    <TargetType>14 </TargetType>
+    <TargetFilterType>0 </TargetFilterType>
+    <TargetFilterParam>0 0 </TargetFilterParam>
+    <FollowType>1 </FollowType>
+    <SkillFieldType>1 </SkillFieldType>
+    <SkillFieldShape>0 </SkillFieldShape>
+    <ShapeParam>200000 0 </ShapeParam>
+    <OffsetParam>0 0 </OffsetParam>
+    <ShapeChangeType>0 </ShapeChangeType>
+    <ShapeChangeParams>0 0 </ShapeChangeParams>
+    <Stealth>1 </Stealth>
+    <IMMSpell>0 </IMMSpell>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>1 </SkillFieldParamType>
+        <TriggerParam>881201101 0 0 </TriggerParam>
+    </TriggerEffect>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </TriggerEffect>
+    <SelfTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </SelfTriggerEffect>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <StartDisplay></StartDisplay>
+    <TrigDisplay></TrigDisplay>
+</ResMobaSkillField>
+<ResMobaSkillField version="1">
+    <SkillFieldID>88530001 </SkillFieldID>
+    <SkillFieldGroupID>885300 </SkillFieldGroupID>
+    <TimeLength>5000 </TimeLength>
+    <DelayTime>0 </DelayTime>
+    <CheckPeriod>1000 </CheckPeriod>
+    <TargetType>12 </TargetType>
+    <TargetFilterType>0 </TargetFilterType>
+    <TargetFilterParam>0 0 </TargetFilterParam>
+    <FollowType>0 </FollowType>
+    <SkillFieldType>1 </SkillFieldType>
+    <SkillFieldShape>0 </SkillFieldShape>
+    <ShapeParam>100000 0 </ShapeParam>
+    <OffsetParam>0 0 </OffsetParam>
+    <ShapeChangeType>0 </ShapeChangeType>
+    <ShapeChangeParams>0 0 </ShapeChangeParams>
+    <Stealth>1 </Stealth>
+    <IMMSpell>0 </IMMSpell>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>1 </SkillFieldParamType>
+        <TriggerParam>885300101 0 0 </TriggerParam>
+    </TriggerEffect>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </TriggerEffect>
+    <SelfTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </SelfTriggerEffect>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <StartDisplay></StartDisplay>
+    <TrigDisplay></TrigDisplay>
+</ResMobaSkillField>
+<ResMobaSkillField version="1">
+    <SkillFieldID>90520001 </SkillFieldID>
+    <SkillFieldGroupID>905200 </SkillFieldGroupID>
+    <TimeLength>-1 </TimeLength>
+    <DelayTime>0 </DelayTime>
+    <CheckPeriod>500 </CheckPeriod>
+    <TargetType>12 </TargetType>
+    <TargetFilterType>0 </TargetFilterType>
+    <TargetFilterParam>0 0 </TargetFilterParam>
+    <FollowType>1 </FollowType>
+    <SkillFieldType>1 </SkillFieldType>
+    <SkillFieldShape>0 </SkillFieldShape>
+    <ShapeParam>200000 0 </ShapeParam>
+    <OffsetParam>0 0 </OffsetParam>
+    <ShapeChangeType>0 </ShapeChangeType>
+    <ShapeChangeParams>0 0 </ShapeChangeParams>
+    <Stealth>0 </Stealth>
+    <IMMSpell>0 </IMMSpell>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>1 </SkillFieldParamType>
+        <TriggerParam>905200201 0 0 </TriggerParam>
+    </TriggerEffect>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </TriggerEffect>
+    <SelfTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </SelfTriggerEffect>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <StartDisplay></StartDisplay>
+    <TrigDisplay></TrigDisplay>
+</ResMobaSkillField>
+<ResMobaSkillField version="1">
+    <SkillFieldID>91201001 </SkillFieldID>
+    <SkillFieldGroupID>912010 </SkillFieldGroupID>
+    <TimeLength>5000 </TimeLength>
+    <DelayTime>0 </DelayTime>
+    <CheckPeriod>1000 </CheckPeriod>
+    <TargetType>14 </TargetType>
+    <TargetFilterType>0 </TargetFilterType>
+    <TargetFilterParam>0 0 </TargetFilterParam>
+    <FollowType>0 </FollowType>
+    <SkillFieldType>2 </SkillFieldType>
+    <SkillFieldShape>1 </SkillFieldShape>
+    <ShapeParam>150000 60000 </ShapeParam>
+    <OffsetParam>75000 0 </OffsetParam>
+    <ShapeChangeType>0 </ShapeChangeType>
+    <ShapeChangeParams>0 0 </ShapeChangeParams>
+    <Stealth>1 </Stealth>
+    <IMMSpell>0 </IMMSpell>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>2 </SkillFieldParamType>
+        <TriggerParam>2 0 2 </TriggerParam>
+    </TriggerEffect>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </TriggerEffect>
+    <SelfTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </SelfTriggerEffect>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <StartDisplay>data/skillflow/rts/monster/dragon_skill01_Field</StartDisplay>
+    <TrigDisplay></TrigDisplay>
+</ResMobaSkillField>
+<ResMobaSkillField version="1">
+    <SkillFieldID>91320001 </SkillFieldID>
+    <SkillFieldGroupID>913200 </SkillFieldGroupID>
+    <TimeLength>-1 </TimeLength>
+    <DelayTime>0 </DelayTime>
+    <CheckPeriod>500 </CheckPeriod>
+    <TargetType>12 </TargetType>
+    <TargetFilterType>0 </TargetFilterType>
+    <TargetFilterParam>0 0 </TargetFilterParam>
+    <FollowType>1 </FollowType>
+    <SkillFieldType>1 </SkillFieldType>
+    <SkillFieldShape>0 </SkillFieldShape>
+    <ShapeParam>200000 0 </ShapeParam>
+    <OffsetParam>0 0 </OffsetParam>
+    <ShapeChangeType>0 </ShapeChangeType>
+    <ShapeChangeParams>0 0 </ShapeChangeParams>
+    <Stealth>0 </Stealth>
+    <IMMSpell>0 </IMMSpell>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>1 </SkillFieldParamType>
+        <TriggerParam>913200201 0 0 </TriggerParam>
+    </TriggerEffect>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </TriggerEffect>
+    <SelfTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </SelfTriggerEffect>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <StartDisplay></StartDisplay>
+    <TrigDisplay></TrigDisplay>
+</ResMobaSkillField>
+<ResMobaSkillField version="1">
+    <SkillFieldID>91820101 </SkillFieldID>
+    <SkillFieldGroupID>700081 </SkillFieldGroupID>
+    <TimeLength>-1 </TimeLength>
+    <DelayTime>0 </DelayTime>
+    <CheckPeriod>100 </CheckPeriod>
+    <TargetType>14 </TargetType>
+    <TargetFilterType>0 </TargetFilterType>
+    <TargetFilterParam>0 0 </TargetFilterParam>
+    <FollowType>1 </FollowType>
+    <SkillFieldType>1 </SkillFieldType>
+    <SkillFieldShape>0 </SkillFieldShape>
+    <ShapeParam>200000 0 </ShapeParam>
+    <OffsetParam>0 0 </OffsetParam>
+    <ShapeChangeType>0 </ShapeChangeType>
+    <ShapeChangeParams>0 0 </ShapeChangeParams>
+    <Stealth>1 </Stealth>
+    <IMMSpell>0 </IMMSpell>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>1 </SkillFieldParamType>
+        <TriggerParam>918201101 0 0 </TriggerParam>
+    </TriggerEffect>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </TriggerEffect>
+    <SelfTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </SelfTriggerEffect>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <StartDisplay></StartDisplay>
+    <TrigDisplay></TrigDisplay>
+</ResMobaSkillField>
+<ResMobaSkillField version="1">
+    <SkillFieldID>92002001 </SkillFieldID>
+    <SkillFieldGroupID>920020 </SkillFieldGroupID>
+    <TimeLength>2000 </TimeLength>
+    <DelayTime>0 </DelayTime>
+    <CheckPeriod>250 </CheckPeriod>
+    <TargetType>14 </TargetType>
+    <TargetFilterType>0 </TargetFilterType>
+    <TargetFilterParam>0 0 </TargetFilterParam>
+    <FollowType>0 </FollowType>
+    <SkillFieldType>2 </SkillFieldType>
+    <SkillFieldShape>1 </SkillFieldShape>
+    <ShapeParam>40000 200000 </ShapeParam>
+    <OffsetParam>100000 0 </OffsetParam>
+    <ShapeChangeType>0 </ShapeChangeType>
+    <ShapeChangeParams>0 0 </ShapeChangeParams>
+    <Stealth>1 </Stealth>
+    <IMMSpell>0 </IMMSpell>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>2 </SkillFieldParamType>
+        <TriggerParam>1 0 1 </TriggerParam>
+    </TriggerEffect>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </TriggerEffect>
+    <SelfTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </SelfTriggerEffect>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <StartDisplay></StartDisplay>
+    <TrigDisplay></TrigDisplay>
+</ResMobaSkillField>
+<ResMobaSkillField version="1">
+    <SkillFieldID>92330001 </SkillFieldID>
+    <SkillFieldGroupID>923300 </SkillFieldGroupID>
+    <TimeLength>-1 </TimeLength>
+    <DelayTime>0 </DelayTime>
+    <CheckPeriod>500 </CheckPeriod>
+    <TargetType>12 </TargetType>
+    <TargetFilterType>0 </TargetFilterType>
+    <TargetFilterParam>0 0 </TargetFilterParam>
+    <FollowType>0 </FollowType>
+    <SkillFieldType>1 </SkillFieldType>
+    <SkillFieldShape>0 </SkillFieldShape>
+    <ShapeParam>150000 0 </ShapeParam>
+    <OffsetParam>0 0 </OffsetParam>
+    <ShapeChangeType>0 </ShapeChangeType>
+    <ShapeChangeParams>0 0 </ShapeChangeParams>
+    <Stealth>1 </Stealth>
+    <IMMSpell>0 </IMMSpell>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>1 </SkillFieldParamType>
+        <TriggerParam>923300101 0 0 </TriggerParam>
+    </TriggerEffect>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </TriggerEffect>
+    <SelfTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </SelfTriggerEffect>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <StartDisplay></StartDisplay>
+    <TrigDisplay></TrigDisplay>
+</ResMobaSkillField>
+<ResMobaSkillField version="1">
+    <SkillFieldID>92330002 </SkillFieldID>
+    <SkillFieldGroupID>923300 </SkillFieldGroupID>
+    <TimeLength>-1 </TimeLength>
+    <DelayTime>0 </DelayTime>
+    <CheckPeriod>500 </CheckPeriod>
+    <TargetType>12 </TargetType>
+    <TargetFilterType>0 </TargetFilterType>
+    <TargetFilterParam>0 0 </TargetFilterParam>
+    <FollowType>0 </FollowType>
+    <SkillFieldType>2 </SkillFieldType>
+    <SkillFieldShape>0 </SkillFieldShape>
+    <ShapeParam>150000 0 </ShapeParam>
+    <OffsetParam>0 0 </OffsetParam>
+    <ShapeChangeType>0 </ShapeChangeType>
+    <ShapeChangeParams>0 0 </ShapeChangeParams>
+    <Stealth>1 </Stealth>
+    <IMMSpell>0 </IMMSpell>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>2 </SkillFieldParamType>
+        <TriggerParam>1 0 1 </TriggerParam>
+    </TriggerEffect>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </TriggerEffect>
+    <SelfTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </SelfTriggerEffect>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <StartDisplay></StartDisplay>
+    <TrigDisplay></TrigDisplay>
+</ResMobaSkillField>
+<ResMobaSkillField version="1">
+    <SkillFieldID>100201001 </SkillFieldID>
+    <SkillFieldGroupID>1002010 </SkillFieldGroupID>
+    <TimeLength>3000 </TimeLength>
+    <DelayTime>0 </DelayTime>
+    <CheckPeriod>1000 </CheckPeriod>
+    <TargetType>14 </TargetType>
+    <TargetFilterType>0 </TargetFilterType>
+    <TargetFilterParam>0 0 </TargetFilterParam>
+    <FollowType>0 </FollowType>
+    <SkillFieldType>2 </SkillFieldType>
+    <SkillFieldShape>0 </SkillFieldShape>
+    <ShapeParam>50000 0 </ShapeParam>
+    <OffsetParam>0 0 </OffsetParam>
+    <ShapeChangeType>0 </ShapeChangeType>
+    <ShapeChangeParams>0 0 </ShapeChangeParams>
+    <Stealth>1 </Stealth>
+    <IMMSpell>0 </IMMSpell>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>2 </SkillFieldParamType>
+        <TriggerParam>1 0 1 </TriggerParam>
+    </TriggerEffect>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </TriggerEffect>
+    <SelfTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </SelfTriggerEffect>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <StartDisplay></StartDisplay>
+    <TrigDisplay></TrigDisplay>
+</ResMobaSkillField>
+<ResMobaSkillField version="1">
+    <SkillFieldID>100201002 </SkillFieldID>
+    <SkillFieldGroupID>1002010 </SkillFieldGroupID>
+    <TimeLength>4000 </TimeLength>
+    <DelayTime>0 </DelayTime>
+    <CheckPeriod>1000 </CheckPeriod>
+    <TargetType>14 </TargetType>
+    <TargetFilterType>0 </TargetFilterType>
+    <TargetFilterParam>0 0 </TargetFilterParam>
+    <FollowType>0 </FollowType>
+    <SkillFieldType>2 </SkillFieldType>
+    <SkillFieldShape>0 </SkillFieldShape>
+    <ShapeParam>50000 0 </ShapeParam>
+    <OffsetParam>0 0 </OffsetParam>
+    <ShapeChangeType>0 </ShapeChangeType>
+    <ShapeChangeParams>0 0 </ShapeChangeParams>
+    <Stealth>1 </Stealth>
+    <IMMSpell>0 </IMMSpell>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>2 </SkillFieldParamType>
+        <TriggerParam>1 0 1 </TriggerParam>
+    </TriggerEffect>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </TriggerEffect>
+    <SelfTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </SelfTriggerEffect>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <StartDisplay></StartDisplay>
+    <TrigDisplay></TrigDisplay>
+</ResMobaSkillField>
+<ResMobaSkillField version="1">
+    <SkillFieldID>100201003 </SkillFieldID>
+    <SkillFieldGroupID>1002010 </SkillFieldGroupID>
+    <TimeLength>5000 </TimeLength>
+    <DelayTime>0 </DelayTime>
+    <CheckPeriod>1000 </CheckPeriod>
+    <TargetType>14 </TargetType>
+    <TargetFilterType>0 </TargetFilterType>
+    <TargetFilterParam>0 0 </TargetFilterParam>
+    <FollowType>0 </FollowType>
+    <SkillFieldType>2 </SkillFieldType>
+    <SkillFieldShape>0 </SkillFieldShape>
+    <ShapeParam>50000 0 </ShapeParam>
+    <OffsetParam>0 0 </OffsetParam>
+    <ShapeChangeType>0 </ShapeChangeType>
+    <ShapeChangeParams>0 0 </ShapeChangeParams>
+    <Stealth>1 </Stealth>
+    <IMMSpell>0 </IMMSpell>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>2 </SkillFieldParamType>
+        <TriggerParam>1 0 1 </TriggerParam>
+    </TriggerEffect>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </TriggerEffect>
+    <SelfTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </SelfTriggerEffect>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <StartDisplay></StartDisplay>
+    <TrigDisplay></TrigDisplay>
+</ResMobaSkillField>
+<ResMobaSkillField version="1">
+    <SkillFieldID>100201004 </SkillFieldID>
+    <SkillFieldGroupID>1002010 </SkillFieldGroupID>
+    <TimeLength>6000 </TimeLength>
+    <DelayTime>0 </DelayTime>
+    <CheckPeriod>1000 </CheckPeriod>
+    <TargetType>14 </TargetType>
+    <TargetFilterType>0 </TargetFilterType>
+    <TargetFilterParam>0 0 </TargetFilterParam>
+    <FollowType>0 </FollowType>
+    <SkillFieldType>2 </SkillFieldType>
+    <SkillFieldShape>0 </SkillFieldShape>
+    <ShapeParam>50000 0 </ShapeParam>
+    <OffsetParam>0 0 </OffsetParam>
+    <ShapeChangeType>0 </ShapeChangeType>
+    <ShapeChangeParams>0 0 </ShapeChangeParams>
+    <Stealth>1 </Stealth>
+    <IMMSpell>0 </IMMSpell>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>2 </SkillFieldParamType>
+        <TriggerParam>1 0 1 </TriggerParam>
+    </TriggerEffect>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </TriggerEffect>
+    <SelfTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </SelfTriggerEffect>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <StartDisplay></StartDisplay>
+    <TrigDisplay></TrigDisplay>
+</ResMobaSkillField>
+<ResMobaSkillField version="1">
+    <SkillFieldID>100204001 </SkillFieldID>
+    <SkillFieldGroupID>1002040 </SkillFieldGroupID>
+    <TimeLength>-1 </TimeLength>
+    <DelayTime>0 </DelayTime>
+    <CheckPeriod>500 </CheckPeriod>
+    <TargetType>12 </TargetType>
+    <TargetFilterType>0 </TargetFilterType>
+    <TargetFilterParam>0 0 </TargetFilterParam>
+    <FollowType>1 </FollowType>
+    <SkillFieldType>1 </SkillFieldType>
+    <SkillFieldShape>0 </SkillFieldShape>
+    <ShapeParam>200000 0 </ShapeParam>
+    <OffsetParam>0 0 </OffsetParam>
+    <ShapeChangeType>0 </ShapeChangeType>
+    <ShapeChangeParams>0 0 </ShapeChangeParams>
+    <Stealth>1 </Stealth>
+    <IMMSpell>0 </IMMSpell>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>1 </SkillFieldParamType>
+        <TriggerParam>1002040201 0 0 </TriggerParam>
+    </TriggerEffect>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </TriggerEffect>
+    <SelfTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </SelfTriggerEffect>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <StartDisplay></StartDisplay>
+    <TrigDisplay></TrigDisplay>
+</ResMobaSkillField>
+<ResMobaSkillField version="1">
+    <SkillFieldID>100204002 </SkillFieldID>
+    <SkillFieldGroupID>1002040 </SkillFieldGroupID>
+    <TimeLength>-1 </TimeLength>
+    <DelayTime>0 </DelayTime>
+    <CheckPeriod>500 </CheckPeriod>
+    <TargetType>12 </TargetType>
+    <TargetFilterType>0 </TargetFilterType>
+    <TargetFilterParam>0 0 </TargetFilterParam>
+    <FollowType>1 </FollowType>
+    <SkillFieldType>1 </SkillFieldType>
+    <SkillFieldShape>0 </SkillFieldShape>
+    <ShapeParam>200000 0 </ShapeParam>
+    <OffsetParam>0 0 </OffsetParam>
+    <ShapeChangeType>0 </ShapeChangeType>
+    <ShapeChangeParams>0 0 </ShapeChangeParams>
+    <Stealth>1 </Stealth>
+    <IMMSpell>0 </IMMSpell>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>1 </SkillFieldParamType>
+        <TriggerParam>1002040202 0 0 </TriggerParam>
+    </TriggerEffect>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </TriggerEffect>
+    <SelfTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </SelfTriggerEffect>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <StartDisplay></StartDisplay>
+    <TrigDisplay></TrigDisplay>
+</ResMobaSkillField>
+<ResMobaSkillField version="1">
+    <SkillFieldID>100204003 </SkillFieldID>
+    <SkillFieldGroupID>1002040 </SkillFieldGroupID>
+    <TimeLength>-1 </TimeLength>
+    <DelayTime>0 </DelayTime>
+    <CheckPeriod>500 </CheckPeriod>
+    <TargetType>12 </TargetType>
+    <TargetFilterType>0 </TargetFilterType>
+    <TargetFilterParam>0 0 </TargetFilterParam>
+    <FollowType>1 </FollowType>
+    <SkillFieldType>1 </SkillFieldType>
+    <SkillFieldShape>0 </SkillFieldShape>
+    <ShapeParam>200000 0 </ShapeParam>
+    <OffsetParam>0 0 </OffsetParam>
+    <ShapeChangeType>0 </ShapeChangeType>
+    <ShapeChangeParams>0 0 </ShapeChangeParams>
+    <Stealth>1 </Stealth>
+    <IMMSpell>0 </IMMSpell>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>1 </SkillFieldParamType>
+        <TriggerParam>1002040203 0 0 </TriggerParam>
+    </TriggerEffect>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </TriggerEffect>
+    <SelfTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </SelfTriggerEffect>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <StartDisplay></StartDisplay>
+    <TrigDisplay></TrigDisplay>
+</ResMobaSkillField>
+<ResMobaSkillField version="1">
+    <SkillFieldID>100205001 </SkillFieldID>
+    <SkillFieldGroupID>1002050 </SkillFieldGroupID>
+    <TimeLength>2000 </TimeLength>
+    <DelayTime>0 </DelayTime>
+    <CheckPeriod>500 </CheckPeriod>
+    <TargetType>2 </TargetType>
+    <TargetFilterType>0 </TargetFilterType>
+    <TargetFilterParam>0 0 </TargetFilterParam>
+    <FollowType>0 </FollowType>
+    <SkillFieldType>2 </SkillFieldType>
+    <SkillFieldShape>0 </SkillFieldShape>
+    <ShapeParam>80000 0 </ShapeParam>
+    <OffsetParam>0 0 </OffsetParam>
+    <ShapeChangeType>0 </ShapeChangeType>
+    <ShapeChangeParams>0 0 </ShapeChangeParams>
+    <Stealth>1 </Stealth>
+    <IMMSpell>0 </IMMSpell>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>1 </SkillFieldParamType>
+        <TriggerParam>1002050101 0 1002050101 </TriggerParam>
+    </TriggerEffect>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </TriggerEffect>
+    <SelfTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </SelfTriggerEffect>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <StartDisplay></StartDisplay>
+    <TrigDisplay></TrigDisplay>
+</ResMobaSkillField>
+<ResMobaSkillField version="1">
+    <SkillFieldID>100320001 </SkillFieldID>
+    <SkillFieldGroupID>1003200 </SkillFieldGroupID>
+    <TimeLength>-1 </TimeLength>
+    <DelayTime>0 </DelayTime>
+    <CheckPeriod>500 </CheckPeriod>
+    <TargetType>12 </TargetType>
+    <TargetFilterType>0 </TargetFilterType>
+    <TargetFilterParam>0 0 </TargetFilterParam>
+    <FollowType>1 </FollowType>
+    <SkillFieldType>1 </SkillFieldType>
+    <SkillFieldShape>0 </SkillFieldShape>
+    <ShapeParam>200000 0 </ShapeParam>
+    <OffsetParam>0 0 </OffsetParam>
+    <ShapeChangeType>0 </ShapeChangeType>
+    <ShapeChangeParams>0 0 </ShapeChangeParams>
+    <Stealth>1 </Stealth>
+    <IMMSpell>0 </IMMSpell>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>1 </SkillFieldParamType>
+        <TriggerParam>1003200201 0 0 </TriggerParam>
+    </TriggerEffect>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </TriggerEffect>
+    <SelfTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </SelfTriggerEffect>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <StartDisplay></StartDisplay>
+    <TrigDisplay></TrigDisplay>
+</ResMobaSkillField>
+<ResMobaSkillField version="1">
+    <SkillFieldID>100320002 </SkillFieldID>
+    <SkillFieldGroupID>1003200 </SkillFieldGroupID>
+    <TimeLength>-1 </TimeLength>
+    <DelayTime>0 </DelayTime>
+    <CheckPeriod>500 </CheckPeriod>
+    <TargetType>12 </TargetType>
+    <TargetFilterType>0 </TargetFilterType>
+    <TargetFilterParam>0 0 </TargetFilterParam>
+    <FollowType>1 </FollowType>
+    <SkillFieldType>1 </SkillFieldType>
+    <SkillFieldShape>0 </SkillFieldShape>
+    <ShapeParam>200000 0 </ShapeParam>
+    <OffsetParam>0 0 </OffsetParam>
+    <ShapeChangeType>0 </ShapeChangeType>
+    <ShapeChangeParams>0 0 </ShapeChangeParams>
+    <Stealth>1 </Stealth>
+    <IMMSpell>0 </IMMSpell>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>1 </SkillFieldParamType>
+        <TriggerParam>1003200202 0 0 </TriggerParam>
+    </TriggerEffect>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </TriggerEffect>
+    <SelfTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </SelfTriggerEffect>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <StartDisplay></StartDisplay>
+    <TrigDisplay></TrigDisplay>
+</ResMobaSkillField>
+<ResMobaSkillField version="1">
+    <SkillFieldID>100320003 </SkillFieldID>
+    <SkillFieldGroupID>1003200 </SkillFieldGroupID>
+    <TimeLength>-1 </TimeLength>
+    <DelayTime>0 </DelayTime>
+    <CheckPeriod>500 </CheckPeriod>
+    <TargetType>12 </TargetType>
+    <TargetFilterType>0 </TargetFilterType>
+    <TargetFilterParam>0 0 </TargetFilterParam>
+    <FollowType>1 </FollowType>
+    <SkillFieldType>1 </SkillFieldType>
+    <SkillFieldShape>0 </SkillFieldShape>
+    <ShapeParam>200000 0 </ShapeParam>
+    <OffsetParam>0 0 </OffsetParam>
+    <ShapeChangeType>0 </ShapeChangeType>
+    <ShapeChangeParams>0 0 </ShapeChangeParams>
+    <Stealth>1 </Stealth>
+    <IMMSpell>0 </IMMSpell>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>1 </SkillFieldParamType>
+        <TriggerParam>1003200203 0 0 </TriggerParam>
+    </TriggerEffect>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </TriggerEffect>
+    <SelfTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </SelfTriggerEffect>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <StartDisplay></StartDisplay>
+    <TrigDisplay></TrigDisplay>
+</ResMobaSkillField>
+<ResMobaSkillField version="1">
+    <SkillFieldID>110203001 </SkillFieldID>
+    <SkillFieldGroupID>1102030 </SkillFieldGroupID>
+    <TimeLength>-1 </TimeLength>
+    <DelayTime>0 </DelayTime>
+    <CheckPeriod>500 </CheckPeriod>
+    <TargetType>12 </TargetType>
+    <TargetFilterType>0 </TargetFilterType>
+    <TargetFilterParam>0 0 </TargetFilterParam>
+    <FollowType>1 </FollowType>
+    <SkillFieldType>1 </SkillFieldType>
+    <SkillFieldShape>0 </SkillFieldShape>
+    <ShapeParam>200000 0 </ShapeParam>
+    <OffsetParam>0 0 </OffsetParam>
+    <ShapeChangeType>0 </ShapeChangeType>
+    <ShapeChangeParams>0 0 </ShapeChangeParams>
+    <Stealth>1 </Stealth>
+    <IMMSpell>0 </IMMSpell>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>1 </SkillFieldParamType>
+        <TriggerParam>1102030201 0 0 </TriggerParam>
+    </TriggerEffect>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </TriggerEffect>
+    <SelfTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </SelfTriggerEffect>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <StartDisplay></StartDisplay>
+    <TrigDisplay></TrigDisplay>
+</ResMobaSkillField>
+<ResMobaSkillField version="1">
+    <SkillFieldID>110203002 </SkillFieldID>
+    <SkillFieldGroupID>1102030 </SkillFieldGroupID>
+    <TimeLength>-1 </TimeLength>
+    <DelayTime>0 </DelayTime>
+    <CheckPeriod>500 </CheckPeriod>
+    <TargetType>12 </TargetType>
+    <TargetFilterType>0 </TargetFilterType>
+    <TargetFilterParam>0 0 </TargetFilterParam>
+    <FollowType>1 </FollowType>
+    <SkillFieldType>1 </SkillFieldType>
+    <SkillFieldShape>0 </SkillFieldShape>
+    <ShapeParam>200000 0 </ShapeParam>
+    <OffsetParam>0 0 </OffsetParam>
+    <ShapeChangeType>0 </ShapeChangeType>
+    <ShapeChangeParams>0 0 </ShapeChangeParams>
+    <Stealth>1 </Stealth>
+    <IMMSpell>0 </IMMSpell>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>1 </SkillFieldParamType>
+        <TriggerParam>1102030202 0 0 </TriggerParam>
+    </TriggerEffect>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </TriggerEffect>
+    <SelfTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </SelfTriggerEffect>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <StartDisplay></StartDisplay>
+    <TrigDisplay></TrigDisplay>
+</ResMobaSkillField>
+<ResMobaSkillField version="1">
+    <SkillFieldID>110203003 </SkillFieldID>
+    <SkillFieldGroupID>1102030 </SkillFieldGroupID>
+    <TimeLength>-1 </TimeLength>
+    <DelayTime>0 </DelayTime>
+    <CheckPeriod>500 </CheckPeriod>
+    <TargetType>12 </TargetType>
+    <TargetFilterType>0 </TargetFilterType>
+    <TargetFilterParam>0 0 </TargetFilterParam>
+    <FollowType>1 </FollowType>
+    <SkillFieldType>1 </SkillFieldType>
+    <SkillFieldShape>0 </SkillFieldShape>
+    <ShapeParam>200000 0 </ShapeParam>
+    <OffsetParam>0 0 </OffsetParam>
+    <ShapeChangeType>0 </ShapeChangeType>
+    <ShapeChangeParams>0 0 </ShapeChangeParams>
+    <Stealth>1 </Stealth>
+    <IMMSpell>0 </IMMSpell>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>1 </SkillFieldParamType>
+        <TriggerParam>1102030203 0 0 </TriggerParam>
+    </TriggerEffect>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </TriggerEffect>
+    <SelfTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </SelfTriggerEffect>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <StartDisplay></StartDisplay>
+    <TrigDisplay></TrigDisplay>
+</ResMobaSkillField>
+<ResMobaSkillField version="1">
+    <SkillFieldID>120104001 </SkillFieldID>
+    <SkillFieldGroupID>1201040 </SkillFieldGroupID>
+    <TimeLength>13000 </TimeLength>
+    <DelayTime>0 </DelayTime>
+    <CheckPeriod>500 </CheckPeriod>
+    <TargetType>14 </TargetType>
+    <TargetFilterType>0 </TargetFilterType>
+    <TargetFilterParam>0 0 </TargetFilterParam>
+    <FollowType>0 </FollowType>
+    <SkillFieldType>1 </SkillFieldType>
+    <SkillFieldShape>1 </SkillFieldShape>
+    <ShapeParam>300000 120000 </ShapeParam>
+    <OffsetParam>150000 0 </OffsetParam>
+    <ShapeChangeType>1 </ShapeChangeType>
+    <ShapeChangeParams>100000 0 </ShapeChangeParams>
+    <Stealth>1 </Stealth>
+    <IMMSpell>0 </IMMSpell>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>1 </SkillFieldParamType>
+        <TriggerParam>1201040301 0 1201040301 </TriggerParam>
+    </TriggerEffect>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </TriggerEffect>
+    <SelfTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </SelfTriggerEffect>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <StartDisplay>data/skillflow/hero/10000201/skill04_skillfield</StartDisplay>
+    <TrigDisplay></TrigDisplay>
+</ResMobaSkillField>
+<ResMobaSkillField version="1">
+    <SkillFieldID>120120001 </SkillFieldID>
+    <SkillFieldGroupID>1201200 </SkillFieldGroupID>
+    <TimeLength>-1 </TimeLength>
+    <DelayTime>0 </DelayTime>
+    <CheckPeriod>500 </CheckPeriod>
+    <TargetType>12 </TargetType>
+    <TargetFilterType>0 </TargetFilterType>
+    <TargetFilterParam>0 0 </TargetFilterParam>
+    <FollowType>1 </FollowType>
+    <SkillFieldType>1 </SkillFieldType>
+    <SkillFieldShape>0 </SkillFieldShape>
+    <ShapeParam>200000 0 </ShapeParam>
+    <OffsetParam>0 0 </OffsetParam>
+    <ShapeChangeType>0 </ShapeChangeType>
+    <ShapeChangeParams>0 0 </ShapeChangeParams>
+    <Stealth>1 </Stealth>
+    <IMMSpell>0 </IMMSpell>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>1 </SkillFieldParamType>
+        <TriggerParam>1201200201 0 0 </TriggerParam>
+    </TriggerEffect>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </TriggerEffect>
+    <SelfTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </SelfTriggerEffect>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <StartDisplay></StartDisplay>
+    <TrigDisplay></TrigDisplay>
+</ResMobaSkillField>
+<ResMobaSkillField version="1">
+    <SkillFieldID>120120002 </SkillFieldID>
+    <SkillFieldGroupID>1201200 </SkillFieldGroupID>
+    <TimeLength>-1 </TimeLength>
+    <DelayTime>0 </DelayTime>
+    <CheckPeriod>500 </CheckPeriod>
+    <TargetType>12 </TargetType>
+    <TargetFilterType>0 </TargetFilterType>
+    <TargetFilterParam>0 0 </TargetFilterParam>
+    <FollowType>1 </FollowType>
+    <SkillFieldType>1 </SkillFieldType>
+    <SkillFieldShape>0 </SkillFieldShape>
+    <ShapeParam>200000 0 </ShapeParam>
+    <OffsetParam>0 0 </OffsetParam>
+    <ShapeChangeType>0 </ShapeChangeType>
+    <ShapeChangeParams>0 0 </ShapeChangeParams>
+    <Stealth>1 </Stealth>
+    <IMMSpell>0 </IMMSpell>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>1 </SkillFieldParamType>
+        <TriggerParam>1201200202 0 0 </TriggerParam>
+    </TriggerEffect>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </TriggerEffect>
+    <SelfTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </SelfTriggerEffect>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <StartDisplay></StartDisplay>
+    <TrigDisplay></TrigDisplay>
+</ResMobaSkillField>
+<ResMobaSkillField version="1">
+    <SkillFieldID>120120003 </SkillFieldID>
+    <SkillFieldGroupID>1201200 </SkillFieldGroupID>
+    <TimeLength>-1 </TimeLength>
+    <DelayTime>0 </DelayTime>
+    <CheckPeriod>500 </CheckPeriod>
+    <TargetType>12 </TargetType>
+    <TargetFilterType>0 </TargetFilterType>
+    <TargetFilterParam>0 0 </TargetFilterParam>
+    <FollowType>1 </FollowType>
+    <SkillFieldType>1 </SkillFieldType>
+    <SkillFieldShape>0 </SkillFieldShape>
+    <ShapeParam>200000 0 </ShapeParam>
+    <OffsetParam>0 0 </OffsetParam>
+    <ShapeChangeType>0 </ShapeChangeType>
+    <ShapeChangeParams>0 0 </ShapeChangeParams>
+    <Stealth>1 </Stealth>
+    <IMMSpell>0 </IMMSpell>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>1 </SkillFieldParamType>
+        <TriggerParam>1201200203 0 0 </TriggerParam>
+    </TriggerEffect>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </TriggerEffect>
+    <SelfTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </SelfTriggerEffect>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <StartDisplay></StartDisplay>
+    <TrigDisplay></TrigDisplay>
+</ResMobaSkillField>
+<ResMobaSkillField version="1">
+    <SkillFieldID>120320001 </SkillFieldID>
+    <SkillFieldGroupID>1203200 </SkillFieldGroupID>
+    <TimeLength>-1 </TimeLength>
+    <DelayTime>0 </DelayTime>
+    <CheckPeriod>500 </CheckPeriod>
+    <TargetType>12 </TargetType>
+    <TargetFilterType>0 </TargetFilterType>
+    <TargetFilterParam>0 0 </TargetFilterParam>
+    <FollowType>1 </FollowType>
+    <SkillFieldType>1 </SkillFieldType>
+    <SkillFieldShape>0 </SkillFieldShape>
+    <ShapeParam>200000 0 </ShapeParam>
+    <OffsetParam>0 0 </OffsetParam>
+    <ShapeChangeType>0 </ShapeChangeType>
+    <ShapeChangeParams>0 0 </ShapeChangeParams>
+    <Stealth>1 </Stealth>
+    <IMMSpell>0 </IMMSpell>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>1 </SkillFieldParamType>
+        <TriggerParam>1203200101 0 0 </TriggerParam>
+    </TriggerEffect>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </TriggerEffect>
+    <SelfTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </SelfTriggerEffect>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <StartDisplay>data/skillflow/hero/10000203/skill03_skillfield</StartDisplay>
+    <TrigDisplay></TrigDisplay>
+</ResMobaSkillField>
+<ResMobaSkillField version="1">
+    <SkillFieldID>120320002 </SkillFieldID>
+    <SkillFieldGroupID>1203200 </SkillFieldGroupID>
+    <TimeLength>-1 </TimeLength>
+    <DelayTime>0 </DelayTime>
+    <CheckPeriod>500 </CheckPeriod>
+    <TargetType>12 </TargetType>
+    <TargetFilterType>0 </TargetFilterType>
+    <TargetFilterParam>0 0 </TargetFilterParam>
+    <FollowType>1 </FollowType>
+    <SkillFieldType>1 </SkillFieldType>
+    <SkillFieldShape>0 </SkillFieldShape>
+    <ShapeParam>200000 0 </ShapeParam>
+    <OffsetParam>0 0 </OffsetParam>
+    <ShapeChangeType>0 </ShapeChangeType>
+    <ShapeChangeParams>0 0 </ShapeChangeParams>
+    <Stealth>1 </Stealth>
+    <IMMSpell>0 </IMMSpell>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>1 </SkillFieldParamType>
+        <TriggerParam>1203200102 0 0 </TriggerParam>
+    </TriggerEffect>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </TriggerEffect>
+    <SelfTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </SelfTriggerEffect>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <StartDisplay>data/skillflow/hero/10000203/skill03_skillfield</StartDisplay>
+    <TrigDisplay></TrigDisplay>
+</ResMobaSkillField>
+<ResMobaSkillField version="1">
+    <SkillFieldID>120320003 </SkillFieldID>
+    <SkillFieldGroupID>1203200 </SkillFieldGroupID>
+    <TimeLength>-1 </TimeLength>
+    <DelayTime>0 </DelayTime>
+    <CheckPeriod>500 </CheckPeriod>
+    <TargetType>12 </TargetType>
+    <TargetFilterType>0 </TargetFilterType>
+    <TargetFilterParam>0 0 </TargetFilterParam>
+    <FollowType>1 </FollowType>
+    <SkillFieldType>1 </SkillFieldType>
+    <SkillFieldShape>0 </SkillFieldShape>
+    <ShapeParam>200000 0 </ShapeParam>
+    <OffsetParam>0 0 </OffsetParam>
+    <ShapeChangeType>0 </ShapeChangeType>
+    <ShapeChangeParams>0 0 </ShapeChangeParams>
+    <Stealth>1 </Stealth>
+    <IMMSpell>0 </IMMSpell>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>1 </SkillFieldParamType>
+        <TriggerParam>1203200103 0 0 </TriggerParam>
+    </TriggerEffect>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </TriggerEffect>
+    <SelfTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </SelfTriggerEffect>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <StartDisplay>data/skillflow/hero/10000203/skill03_skillfield</StartDisplay>
+    <TrigDisplay></TrigDisplay>
+</ResMobaSkillField>
+<ResMobaSkillField version="1">
+    <SkillFieldID>120504001 </SkillFieldID>
+    <SkillFieldGroupID>1205040 </SkillFieldGroupID>
+    <TimeLength>8000 </TimeLength>
+    <DelayTime>0 </DelayTime>
+    <CheckPeriod>500 </CheckPeriod>
+    <TargetType>14 </TargetType>
+    <TargetFilterType>0 </TargetFilterType>
+    <TargetFilterParam>0 0 </TargetFilterParam>
+    <FollowType>1 </FollowType>
+    <SkillFieldType>1 </SkillFieldType>
+    <SkillFieldShape>0 </SkillFieldShape>
+    <ShapeParam>80000 0 </ShapeParam>
+    <OffsetParam>0 0 </OffsetParam>
+    <ShapeChangeType>0 </ShapeChangeType>
+    <ShapeChangeParams>0 0 </ShapeChangeParams>
+    <Stealth>1 </Stealth>
+    <IMMSpell>0 </IMMSpell>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>1 </SkillFieldParamType>
+        <TriggerParam>1205040101 0 1205040101 </TriggerParam>
+    </TriggerEffect>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </TriggerEffect>
+    <SelfTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </SelfTriggerEffect>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <StartDisplay>data/skillflow/hero/10000205/skill04_skillfield</StartDisplay>
+    <TrigDisplay></TrigDisplay>
+</ResMobaSkillField>
+<ResMobaSkillField version="1">
+    <SkillFieldID>120504002 </SkillFieldID>
+    <SkillFieldGroupID>1205040 </SkillFieldGroupID>
+    <TimeLength>8000 </TimeLength>
+    <DelayTime>0 </DelayTime>
+    <CheckPeriod>500 </CheckPeriod>
+    <TargetType>14 </TargetType>
+    <TargetFilterType>0 </TargetFilterType>
+    <TargetFilterParam>0 0 </TargetFilterParam>
+    <FollowType>1 </FollowType>
+    <SkillFieldType>1 </SkillFieldType>
+    <SkillFieldShape>0 </SkillFieldShape>
+    <ShapeParam>80000 0 </ShapeParam>
+    <OffsetParam>0 0 </OffsetParam>
+    <ShapeChangeType>0 </ShapeChangeType>
+    <ShapeChangeParams>0 0 </ShapeChangeParams>
+    <Stealth>1 </Stealth>
+    <IMMSpell>0 </IMMSpell>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>1 </SkillFieldParamType>
+        <TriggerParam>1205040102 0 1205040102 </TriggerParam>
+    </TriggerEffect>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </TriggerEffect>
+    <SelfTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </SelfTriggerEffect>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <StartDisplay>data/skillflow/hero/10000205/skill04_skillfield</StartDisplay>
+    <TrigDisplay></TrigDisplay>
+</ResMobaSkillField>
+<ResMobaSkillField version="1">
+    <SkillFieldID>130202001 </SkillFieldID>
+    <SkillFieldGroupID>1302020 </SkillFieldGroupID>
+    <TimeLength>8000 </TimeLength>
+    <DelayTime>0 </DelayTime>
+    <CheckPeriod>500 </CheckPeriod>
+    <TargetType>14 </TargetType>
+    <TargetFilterType>0 </TargetFilterType>
+    <TargetFilterParam>0 0 </TargetFilterParam>
+    <FollowType>0 </FollowType>
+    <SkillFieldType>1 </SkillFieldType>
+    <SkillFieldShape>0 </SkillFieldShape>
+    <ShapeParam>150000 0 </ShapeParam>
+    <OffsetParam>0 0 </OffsetParam>
+    <ShapeChangeType>0 </ShapeChangeType>
+    <ShapeChangeParams>0 0 </ShapeChangeParams>
+    <Stealth>0 </Stealth>
+    <IMMSpell>0 </IMMSpell>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </TriggerEffect>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </TriggerEffect>
+    <SelfTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </SelfTriggerEffect>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <StartDisplay>data/skillflow/hero/10000302/skill02_skillfield</StartDisplay>
+    <TrigDisplay></TrigDisplay>
+</ResMobaSkillField>
+<ResMobaSkillField version="1">
+    <SkillFieldID>130204001 </SkillFieldID>
+    <SkillFieldGroupID>1302040 </SkillFieldGroupID>
+    <TimeLength>20000 </TimeLength>
+    <DelayTime>0 </DelayTime>
+    <CheckPeriod>500 </CheckPeriod>
+    <TargetType>5 </TargetType>
+    <TargetFilterType>0 </TargetFilterType>
+    <TargetFilterParam>0 0 </TargetFilterParam>
+    <FollowType>1 </FollowType>
+    <SkillFieldType>1 </SkillFieldType>
+    <SkillFieldShape>0 </SkillFieldShape>
+    <ShapeParam>3000000 0 </ShapeParam>
+    <OffsetParam>0 0 </OffsetParam>
+    <ShapeChangeType>0 </ShapeChangeType>
+    <ShapeChangeParams>0 0 </ShapeChangeParams>
+    <Stealth>0 </Stealth>
+    <IMMSpell>0 </IMMSpell>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>1 </SkillFieldParamType>
+        <TriggerParam>1302040101 0 0 </TriggerParam>
+    </TriggerEffect>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>1 </SkillFieldParamType>
+        <TriggerParam>1302040301 0 0 </TriggerParam>
+    </TriggerEffect>
+    <SelfTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </SelfTriggerEffect>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <StartDisplay></StartDisplay>
+    <TrigDisplay></TrigDisplay>
+</ResMobaSkillField>
+<ResMobaSkillField version="1">
+    <SkillFieldID>130204002 </SkillFieldID>
+    <SkillFieldGroupID>1302040 </SkillFieldGroupID>
+    <TimeLength>20000 </TimeLength>
+    <DelayTime>0 </DelayTime>
+    <CheckPeriod>500 </CheckPeriod>
+    <TargetType>5 </TargetType>
+    <TargetFilterType>0 </TargetFilterType>
+    <TargetFilterParam>0 0 </TargetFilterParam>
+    <FollowType>1 </FollowType>
+    <SkillFieldType>1 </SkillFieldType>
+    <SkillFieldShape>0 </SkillFieldShape>
+    <ShapeParam>3000000 0 </ShapeParam>
+    <OffsetParam>0 0 </OffsetParam>
+    <ShapeChangeType>0 </ShapeChangeType>
+    <ShapeChangeParams>0 0 </ShapeChangeParams>
+    <Stealth>0 </Stealth>
+    <IMMSpell>0 </IMMSpell>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>1 </SkillFieldParamType>
+        <TriggerParam>1302040102 0 0 </TriggerParam>
+    </TriggerEffect>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>1 </SkillFieldParamType>
+        <TriggerParam>1302040302 0 0 </TriggerParam>
+    </TriggerEffect>
+    <SelfTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </SelfTriggerEffect>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <StartDisplay></StartDisplay>
+    <TrigDisplay></TrigDisplay>
+</ResMobaSkillField>
+<ResMobaSkillField version="1">
+    <SkillFieldID>130220001 </SkillFieldID>
+    <SkillFieldGroupID>1302200 </SkillFieldGroupID>
+    <TimeLength>-1 </TimeLength>
+    <DelayTime>0 </DelayTime>
+    <CheckPeriod>500 </CheckPeriod>
+    <TargetType>16 </TargetType>
+    <TargetFilterType>0 </TargetFilterType>
+    <TargetFilterParam>0 0 </TargetFilterParam>
+    <FollowType>1 </FollowType>
+    <SkillFieldType>1 </SkillFieldType>
+    <SkillFieldShape>0 </SkillFieldShape>
+    <ShapeParam>200000 0 </ShapeParam>
+    <OffsetParam>0 0 </OffsetParam>
+    <ShapeChangeType>0 </ShapeChangeType>
+    <ShapeChangeParams>0 0 </ShapeChangeParams>
+    <Stealth>1 </Stealth>
+    <IMMSpell>0 </IMMSpell>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>1 </SkillFieldParamType>
+        <TriggerParam>1302200201 0 0 </TriggerParam>
+    </TriggerEffect>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </TriggerEffect>
+    <SelfTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </SelfTriggerEffect>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <StartDisplay></StartDisplay>
+    <TrigDisplay></TrigDisplay>
+</ResMobaSkillField>
+<ResMobaSkillField version="1">
+    <SkillFieldID>130220002 </SkillFieldID>
+    <SkillFieldGroupID>1302200 </SkillFieldGroupID>
+    <TimeLength>-1 </TimeLength>
+    <DelayTime>0 </DelayTime>
+    <CheckPeriod>500 </CheckPeriod>
+    <TargetType>16 </TargetType>
+    <TargetFilterType>0 </TargetFilterType>
+    <TargetFilterParam>0 0 </TargetFilterParam>
+    <FollowType>1 </FollowType>
+    <SkillFieldType>1 </SkillFieldType>
+    <SkillFieldShape>0 </SkillFieldShape>
+    <ShapeParam>200000 0 </ShapeParam>
+    <OffsetParam>0 0 </OffsetParam>
+    <ShapeChangeType>0 </ShapeChangeType>
+    <ShapeChangeParams>0 0 </ShapeChangeParams>
+    <Stealth>1 </Stealth>
+    <IMMSpell>0 </IMMSpell>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>1 </SkillFieldParamType>
+        <TriggerParam>1302200202 0 0 </TriggerParam>
+    </TriggerEffect>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </TriggerEffect>
+    <SelfTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </SelfTriggerEffect>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <StartDisplay></StartDisplay>
+    <TrigDisplay></TrigDisplay>
+</ResMobaSkillField>
+<ResMobaSkillField version="1">
+    <SkillFieldID>130220003 </SkillFieldID>
+    <SkillFieldGroupID>1302200 </SkillFieldGroupID>
+    <TimeLength>-1 </TimeLength>
+    <DelayTime>0 </DelayTime>
+    <CheckPeriod>500 </CheckPeriod>
+    <TargetType>16 </TargetType>
+    <TargetFilterType>0 </TargetFilterType>
+    <TargetFilterParam>0 0 </TargetFilterParam>
+    <FollowType>1 </FollowType>
+    <SkillFieldType>1 </SkillFieldType>
+    <SkillFieldShape>0 </SkillFieldShape>
+    <ShapeParam>200000 0 </ShapeParam>
+    <OffsetParam>0 0 </OffsetParam>
+    <ShapeChangeType>0 </ShapeChangeType>
+    <ShapeChangeParams>0 0 </ShapeChangeParams>
+    <Stealth>1 </Stealth>
+    <IMMSpell>0 </IMMSpell>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>1 </SkillFieldParamType>
+        <TriggerParam>1302200203 0 0 </TriggerParam>
+    </TriggerEffect>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </TriggerEffect>
+    <SelfTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </SelfTriggerEffect>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <StartDisplay></StartDisplay>
+    <TrigDisplay></TrigDisplay>
+</ResMobaSkillField>
+<ResMobaSkillField version="1">
+    <SkillFieldID>140102001 </SkillFieldID>
+    <SkillFieldGroupID>1401020 </SkillFieldGroupID>
+    <TimeLength>6000 </TimeLength>
+    <DelayTime>0 </DelayTime>
+    <CheckPeriod>100 </CheckPeriod>
+    <TargetType>14 </TargetType>
+    <TargetFilterType>0 </TargetFilterType>
+    <TargetFilterParam>0 0 </TargetFilterParam>
+    <FollowType>0 </FollowType>
+    <SkillFieldType>2 </SkillFieldType>
+    <SkillFieldShape>0 </SkillFieldShape>
+    <ShapeParam>80000 0 </ShapeParam>
+    <OffsetParam>0 0 </OffsetParam>
+    <ShapeChangeType>0 </ShapeChangeType>
+    <ShapeChangeParams>0 0 </ShapeChangeParams>
+    <Stealth>1 </Stealth>
+    <IMMSpell>0 </IMMSpell>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>2 </SkillFieldParamType>
+        <TriggerParam>2 0 2 </TriggerParam>
+    </TriggerEffect>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </TriggerEffect>
+    <SelfTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </SelfTriggerEffect>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <StartDisplay>data/skillflow/hero/10000401/skill02_skillfield</StartDisplay>
+    <TrigDisplay></TrigDisplay>
+</ResMobaSkillField>
+<ResMobaSkillField version="1">
+    <SkillFieldID>140104001 </SkillFieldID>
+    <SkillFieldGroupID>1401040 </SkillFieldGroupID>
+    <TimeLength>500 </TimeLength>
+    <DelayTime>0 </DelayTime>
+    <CheckPeriod>100 </CheckPeriod>
+    <TargetType>14 </TargetType>
+    <TargetFilterType>0 </TargetFilterType>
+    <TargetFilterParam>0 0 </TargetFilterParam>
+    <FollowType>0 </FollowType>
+    <SkillFieldType>2 </SkillFieldType>
+    <SkillFieldShape>1 </SkillFieldShape>
+    <ShapeParam>130000 80000 </ShapeParam>
+    <OffsetParam>65000 0 </OffsetParam>
+    <ShapeChangeType>0 </ShapeChangeType>
+    <ShapeChangeParams>0 0 </ShapeChangeParams>
+    <Stealth>1 </Stealth>
+    <IMMSpell>0 </IMMSpell>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>2 </SkillFieldParamType>
+        <TriggerParam>2 0 2 </TriggerParam>
+    </TriggerEffect>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </TriggerEffect>
+    <SelfTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </SelfTriggerEffect>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <StartDisplay></StartDisplay>
+    <TrigDisplay></TrigDisplay>
+</ResMobaSkillField>
+<ResMobaSkillField version="1">
+    <SkillFieldID>140104002 </SkillFieldID>
+    <SkillFieldGroupID>1401040 </SkillFieldGroupID>
+    <TimeLength>500 </TimeLength>
+    <DelayTime>0 </DelayTime>
+    <CheckPeriod>100 </CheckPeriod>
+    <TargetType>14 </TargetType>
+    <TargetFilterType>0 </TargetFilterType>
+    <TargetFilterParam>0 0 </TargetFilterParam>
+    <FollowType>0 </FollowType>
+    <SkillFieldType>2 </SkillFieldType>
+    <SkillFieldShape>1 </SkillFieldShape>
+    <ShapeParam>130000 80000 </ShapeParam>
+    <OffsetParam>65000 0 </OffsetParam>
+    <ShapeChangeType>0 </ShapeChangeType>
+    <ShapeChangeParams>0 0 </ShapeChangeParams>
+    <Stealth>1 </Stealth>
+    <IMMSpell>0 </IMMSpell>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>2 </SkillFieldParamType>
+        <TriggerParam>2 0 2 </TriggerParam>
+    </TriggerEffect>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </TriggerEffect>
+    <SelfTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </SelfTriggerEffect>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <StartDisplay></StartDisplay>
+    <TrigDisplay></TrigDisplay>
+</ResMobaSkillField>
+<ResMobaSkillField version="1">
+    <SkillFieldID>140104003 </SkillFieldID>
+    <SkillFieldGroupID>1401040 </SkillFieldGroupID>
+    <TimeLength>2000 </TimeLength>
+    <DelayTime>0 </DelayTime>
+    <CheckPeriod>100 </CheckPeriod>
+    <TargetType>14 </TargetType>
+    <TargetFilterType>0 </TargetFilterType>
+    <TargetFilterParam>0 0 </TargetFilterParam>
+    <FollowType>0 </FollowType>
+    <SkillFieldType>1 </SkillFieldType>
+    <SkillFieldShape>0 </SkillFieldShape>
+    <ShapeParam>40000 0 </ShapeParam>
+    <OffsetParam>50000 0 </OffsetParam>
+    <ShapeChangeType>0 </ShapeChangeType>
+    <ShapeChangeParams>0 0 </ShapeChangeParams>
+    <Stealth>0 </Stealth>
+    <IMMSpell>0 </IMMSpell>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </TriggerEffect>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </TriggerEffect>
+    <SelfTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </SelfTriggerEffect>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <StartDisplay>data/skillflow/hero/10000401/skill04_skillfield</StartDisplay>
+    <TrigDisplay></TrigDisplay>
+</ResMobaSkillField>
+<ResMobaSkillField version="1">
+    <SkillFieldID>140602001 </SkillFieldID>
+    <SkillFieldGroupID>1406020 </SkillFieldGroupID>
+    <TimeLength>8000 </TimeLength>
+    <DelayTime>0 </DelayTime>
+    <CheckPeriod>100 </CheckPeriod>
+    <TargetType>14 </TargetType>
+    <TargetFilterType>0 </TargetFilterType>
+    <TargetFilterParam>0 0 </TargetFilterParam>
+    <FollowType>1 </FollowType>
+    <SkillFieldType>2 </SkillFieldType>
+    <SkillFieldShape>0 </SkillFieldShape>
+    <ShapeParam>60000 0 </ShapeParam>
+    <OffsetParam>0 0 </OffsetParam>
+    <ShapeChangeType>0 </ShapeChangeType>
+    <ShapeChangeParams>0 0 </ShapeChangeParams>
+    <Stealth>0 </Stealth>
+    <IMMSpell>0 </IMMSpell>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>2 </SkillFieldParamType>
+        <TriggerParam>1 0 1 </TriggerParam>
+    </TriggerEffect>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </TriggerEffect>
+    <SelfTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </SelfTriggerEffect>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <StartDisplay></StartDisplay>
+    <TrigDisplay></TrigDisplay>
+</ResMobaSkillField>
+<ResMobaSkillField version="1">
+    <SkillFieldID>140602002 </SkillFieldID>
+    <SkillFieldGroupID>1406020 </SkillFieldGroupID>
+    <TimeLength>8000 </TimeLength>
+    <DelayTime>0 </DelayTime>
+    <CheckPeriod>100 </CheckPeriod>
+    <TargetType>14 </TargetType>
+    <TargetFilterType>0 </TargetFilterType>
+    <TargetFilterParam>0 0 </TargetFilterParam>
+    <FollowType>1 </FollowType>
+    <SkillFieldType>2 </SkillFieldType>
+    <SkillFieldShape>0 </SkillFieldShape>
+    <ShapeParam>60000 0 </ShapeParam>
+    <OffsetParam>0 0 </OffsetParam>
+    <ShapeChangeType>0 </ShapeChangeType>
+    <ShapeChangeParams>0 0 </ShapeChangeParams>
+    <Stealth>0 </Stealth>
+    <IMMSpell>0 </IMMSpell>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>2 </SkillFieldParamType>
+        <TriggerParam>1 0 1 </TriggerParam>
+    </TriggerEffect>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </TriggerEffect>
+    <SelfTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </SelfTriggerEffect>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <StartDisplay></StartDisplay>
+    <TrigDisplay></TrigDisplay>
+</ResMobaSkillField>
+<ResMobaSkillField version="1">
+    <SkillFieldID>140602003 </SkillFieldID>
+    <SkillFieldGroupID>1406020 </SkillFieldGroupID>
+    <TimeLength>8000 </TimeLength>
+    <DelayTime>0 </DelayTime>
+    <CheckPeriod>100 </CheckPeriod>
+    <TargetType>14 </TargetType>
+    <TargetFilterType>0 </TargetFilterType>
+    <TargetFilterParam>0 0 </TargetFilterParam>
+    <FollowType>1 </FollowType>
+    <SkillFieldType>2 </SkillFieldType>
+    <SkillFieldShape>0 </SkillFieldShape>
+    <ShapeParam>60000 0 </ShapeParam>
+    <OffsetParam>0 0 </OffsetParam>
+    <ShapeChangeType>0 </ShapeChangeType>
+    <ShapeChangeParams>0 0 </ShapeChangeParams>
+    <Stealth>0 </Stealth>
+    <IMMSpell>0 </IMMSpell>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>2 </SkillFieldParamType>
+        <TriggerParam>1 0 1 </TriggerParam>
+    </TriggerEffect>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </TriggerEffect>
+    <SelfTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </SelfTriggerEffect>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <StartDisplay></StartDisplay>
+    <TrigDisplay></TrigDisplay>
+</ResMobaSkillField>
+<ResMobaSkillField version="1">
+    <SkillFieldID>140602004 </SkillFieldID>
+    <SkillFieldGroupID>1406020 </SkillFieldGroupID>
+    <TimeLength>8000 </TimeLength>
+    <DelayTime>0 </DelayTime>
+    <CheckPeriod>100 </CheckPeriod>
+    <TargetType>14 </TargetType>
+    <TargetFilterType>0 </TargetFilterType>
+    <TargetFilterParam>0 0 </TargetFilterParam>
+    <FollowType>1 </FollowType>
+    <SkillFieldType>2 </SkillFieldType>
+    <SkillFieldShape>0 </SkillFieldShape>
+    <ShapeParam>60000 0 </ShapeParam>
+    <OffsetParam>0 0 </OffsetParam>
+    <ShapeChangeType>0 </ShapeChangeType>
+    <ShapeChangeParams>0 0 </ShapeChangeParams>
+    <Stealth>0 </Stealth>
+    <IMMSpell>0 </IMMSpell>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>2 </SkillFieldParamType>
+        <TriggerParam>1 0 1 </TriggerParam>
+    </TriggerEffect>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </TriggerEffect>
+    <SelfTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </SelfTriggerEffect>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <StartDisplay></StartDisplay>
+    <TrigDisplay></TrigDisplay>
+</ResMobaSkillField>
+<ResMobaSkillField version="1">
+    <SkillFieldID>140904001 </SkillFieldID>
+    <SkillFieldGroupID>1409040 </SkillFieldGroupID>
+    <TimeLength>5000 </TimeLength>
+    <DelayTime>0 </DelayTime>
+    <CheckPeriod>500 </CheckPeriod>
+    <TargetType>12 </TargetType>
+    <TargetFilterType>0 </TargetFilterType>
+    <TargetFilterParam>0 0 </TargetFilterParam>
+    <FollowType>0 </FollowType>
+    <SkillFieldType>2 </SkillFieldType>
+    <SkillFieldShape>0 </SkillFieldShape>
+    <ShapeParam>100000 0 </ShapeParam>
+    <OffsetParam>0 0 </OffsetParam>
+    <ShapeChangeType>0 </ShapeChangeType>
+    <ShapeChangeParams>0 0 </ShapeChangeParams>
+    <Stealth>1 </Stealth>
+    <IMMSpell>0 </IMMSpell>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>2 </SkillFieldParamType>
+        <TriggerParam>1 0 1 </TriggerParam>
+    </TriggerEffect>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </TriggerEffect>
+    <SelfTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </SelfTriggerEffect>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <StartDisplay>data/skillflow/hero/10000409/skill04_skillfield</StartDisplay>
+    <TrigDisplay></TrigDisplay>
+</ResMobaSkillField>
+<ResMobaSkillField version="1">
+    <SkillFieldID>141304001 </SkillFieldID>
+    <SkillFieldGroupID>1413040 </SkillFieldGroupID>
+    <TimeLength>10000 </TimeLength>
+    <DelayTime>0 </DelayTime>
+    <CheckPeriod>100 </CheckPeriod>
+    <TargetType>12 </TargetType>
+    <TargetFilterType>0 </TargetFilterType>
+    <TargetFilterParam>0 0 </TargetFilterParam>
+    <FollowType>0 </FollowType>
+    <SkillFieldType>1 </SkillFieldType>
+    <SkillFieldShape>0 </SkillFieldShape>
+    <ShapeParam>100000 0 </ShapeParam>
+    <OffsetParam>0 0 </OffsetParam>
+    <ShapeChangeType>0 </ShapeChangeType>
+    <ShapeChangeParams>0 0 </ShapeChangeParams>
+    <Stealth>1 </Stealth>
+    <IMMSpell>0 </IMMSpell>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>1 </SkillFieldParamType>
+        <TriggerParam>1413040101 0 0 </TriggerParam>
+    </TriggerEffect>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </TriggerEffect>
+    <SelfTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </SelfTriggerEffect>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <StartDisplay></StartDisplay>
+    <TrigDisplay></TrigDisplay>
+</ResMobaSkillField>
+<ResMobaSkillField version="1">
+    <SkillFieldID>141304002 </SkillFieldID>
+    <SkillFieldGroupID>1413040 </SkillFieldGroupID>
+    <TimeLength>10000 </TimeLength>
+    <DelayTime>0 </DelayTime>
+    <CheckPeriod>100 </CheckPeriod>
+    <TargetType>2 </TargetType>
+    <TargetFilterType>0 </TargetFilterType>
+    <TargetFilterParam>0 0 </TargetFilterParam>
+    <FollowType>0 </FollowType>
+    <SkillFieldType>1 </SkillFieldType>
+    <SkillFieldShape>0 </SkillFieldShape>
+    <ShapeParam>100000 0 </ShapeParam>
+    <OffsetParam>0 0 </OffsetParam>
+    <ShapeChangeType>0 </ShapeChangeType>
+    <ShapeChangeParams>0 0 </ShapeChangeParams>
+    <Stealth>1 </Stealth>
+    <IMMSpell>0 </IMMSpell>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>1 </SkillFieldParamType>
+        <TriggerParam>1413040201 0 0 </TriggerParam>
+    </TriggerEffect>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </TriggerEffect>
+    <SelfTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </SelfTriggerEffect>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <StartDisplay></StartDisplay>
+    <TrigDisplay></TrigDisplay>
+</ResMobaSkillField>
+<ResMobaSkillField version="1">
+    <SkillFieldID>141304003 </SkillFieldID>
+    <SkillFieldGroupID>1413040 </SkillFieldGroupID>
+    <TimeLength>10000 </TimeLength>
+    <DelayTime>0 </DelayTime>
+    <CheckPeriod>100 </CheckPeriod>
+    <TargetType>12 </TargetType>
+    <TargetFilterType>0 </TargetFilterType>
+    <TargetFilterParam>0 0 </TargetFilterParam>
+    <FollowType>0 </FollowType>
+    <SkillFieldType>1 </SkillFieldType>
+    <SkillFieldShape>0 </SkillFieldShape>
+    <ShapeParam>100000 0 </ShapeParam>
+    <OffsetParam>0 0 </OffsetParam>
+    <ShapeChangeType>0 </ShapeChangeType>
+    <ShapeChangeParams>0 0 </ShapeChangeParams>
+    <Stealth>1 </Stealth>
+    <IMMSpell>0 </IMMSpell>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>1 </SkillFieldParamType>
+        <TriggerParam>1413040102 0 0 </TriggerParam>
+    </TriggerEffect>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </TriggerEffect>
+    <SelfTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </SelfTriggerEffect>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <StartDisplay></StartDisplay>
+    <TrigDisplay></TrigDisplay>
+</ResMobaSkillField>
+<ResMobaSkillField version="1">
+    <SkillFieldID>141501001 </SkillFieldID>
+    <SkillFieldGroupID>1415010 </SkillFieldGroupID>
+    <TimeLength>5000 </TimeLength>
+    <DelayTime>0 </DelayTime>
+    <CheckPeriod>500 </CheckPeriod>
+    <TargetType>14 </TargetType>
+    <TargetFilterType>0 </TargetFilterType>
+    <TargetFilterParam>0 0 </TargetFilterParam>
+    <FollowType>0 </FollowType>
+    <SkillFieldType>2 </SkillFieldType>
+    <SkillFieldShape>0 </SkillFieldShape>
+    <ShapeParam>50000 0 </ShapeParam>
+    <OffsetParam>0 0 </OffsetParam>
+    <ShapeChangeType>0 </ShapeChangeType>
+    <ShapeChangeParams>0 0 </ShapeChangeParams>
+    <Stealth>1 </Stealth>
+    <IMMSpell>0 </IMMSpell>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>2 </SkillFieldParamType>
+        <TriggerParam>2 0 2 </TriggerParam>
+    </TriggerEffect>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </TriggerEffect>
+    <SelfTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </SelfTriggerEffect>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <StartDisplay>data/skillflow/hero/10000415/skill01_skillfield</StartDisplay>
+    <TrigDisplay></TrigDisplay>
+</ResMobaSkillField>
+<ResMobaSkillField version="1">
+    <SkillFieldID>141501002 </SkillFieldID>
+    <SkillFieldGroupID>1415010 </SkillFieldGroupID>
+    <TimeLength>5000 </TimeLength>
+    <DelayTime>0 </DelayTime>
+    <CheckPeriod>500 </CheckPeriod>
+    <TargetType>14 </TargetType>
+    <TargetFilterType>0 </TargetFilterType>
+    <TargetFilterParam>0 0 </TargetFilterParam>
+    <FollowType>0 </FollowType>
+    <SkillFieldType>2 </SkillFieldType>
+    <SkillFieldShape>0 </SkillFieldShape>
+    <ShapeParam>50000 0 </ShapeParam>
+    <OffsetParam>0 0 </OffsetParam>
+    <ShapeChangeType>0 </ShapeChangeType>
+    <ShapeChangeParams>0 0 </ShapeChangeParams>
+    <Stealth>1 </Stealth>
+    <IMMSpell>0 </IMMSpell>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>2 </SkillFieldParamType>
+        <TriggerParam>2 0 2 </TriggerParam>
+    </TriggerEffect>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </TriggerEffect>
+    <SelfTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </SelfTriggerEffect>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <StartDisplay>data/skillflow/hero/10000415/skill01_skillfield</StartDisplay>
+    <TrigDisplay></TrigDisplay>
+</ResMobaSkillField>
+<ResMobaSkillField version="1">
+    <SkillFieldID>141501003 </SkillFieldID>
+    <SkillFieldGroupID>1415010 </SkillFieldGroupID>
+    <TimeLength>5000 </TimeLength>
+    <DelayTime>0 </DelayTime>
+    <CheckPeriod>500 </CheckPeriod>
+    <TargetType>14 </TargetType>
+    <TargetFilterType>0 </TargetFilterType>
+    <TargetFilterParam>0 0 </TargetFilterParam>
+    <FollowType>0 </FollowType>
+    <SkillFieldType>2 </SkillFieldType>
+    <SkillFieldShape>0 </SkillFieldShape>
+    <ShapeParam>50000 0 </ShapeParam>
+    <OffsetParam>0 0 </OffsetParam>
+    <ShapeChangeType>0 </ShapeChangeType>
+    <ShapeChangeParams>0 0 </ShapeChangeParams>
+    <Stealth>1 </Stealth>
+    <IMMSpell>0 </IMMSpell>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>2 </SkillFieldParamType>
+        <TriggerParam>2 0 2 </TriggerParam>
+    </TriggerEffect>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </TriggerEffect>
+    <SelfTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </SelfTriggerEffect>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <StartDisplay>data/skillflow/hero/10000415/skill01_skillfield</StartDisplay>
+    <TrigDisplay></TrigDisplay>
+</ResMobaSkillField>
+<ResMobaSkillField version="1">
+    <SkillFieldID>141501004 </SkillFieldID>
+    <SkillFieldGroupID>1415010 </SkillFieldGroupID>
+    <TimeLength>5000 </TimeLength>
+    <DelayTime>0 </DelayTime>
+    <CheckPeriod>500 </CheckPeriod>
+    <TargetType>14 </TargetType>
+    <TargetFilterType>0 </TargetFilterType>
+    <TargetFilterParam>0 0 </TargetFilterParam>
+    <FollowType>0 </FollowType>
+    <SkillFieldType>2 </SkillFieldType>
+    <SkillFieldShape>0 </SkillFieldShape>
+    <ShapeParam>50000 0 </ShapeParam>
+    <OffsetParam>0 0 </OffsetParam>
+    <ShapeChangeType>0 </ShapeChangeType>
+    <ShapeChangeParams>0 0 </ShapeChangeParams>
+    <Stealth>1 </Stealth>
+    <IMMSpell>0 </IMMSpell>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>2 </SkillFieldParamType>
+        <TriggerParam>2 0 2 </TriggerParam>
+    </TriggerEffect>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </TriggerEffect>
+    <SelfTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </SelfTriggerEffect>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <StartDisplay>data/skillflow/hero/10000415/skill01_skillfield</StartDisplay>
+    <TrigDisplay></TrigDisplay>
+</ResMobaSkillField>
+<ResMobaSkillField version="1">
+    <SkillFieldID>141501005 </SkillFieldID>
+    <SkillFieldGroupID>1415010 </SkillFieldGroupID>
+    <TimeLength>5000 </TimeLength>
+    <DelayTime>0 </DelayTime>
+    <CheckPeriod>500 </CheckPeriod>
+    <TargetType>14 </TargetType>
+    <TargetFilterType>0 </TargetFilterType>
+    <TargetFilterParam>0 0 </TargetFilterParam>
+    <FollowType>0 </FollowType>
+    <SkillFieldType>1 </SkillFieldType>
+    <SkillFieldShape>0 </SkillFieldShape>
+    <ShapeParam>50000 0 </ShapeParam>
+    <OffsetParam>0 0 </OffsetParam>
+    <ShapeChangeType>0 </ShapeChangeType>
+    <ShapeChangeParams>0 0 </ShapeChangeParams>
+    <Stealth>1 </Stealth>
+    <IMMSpell>0 </IMMSpell>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>1 </SkillFieldParamType>
+        <TriggerParam>1415010101 0 1415010101 </TriggerParam>
+    </TriggerEffect>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </TriggerEffect>
+    <SelfTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </SelfTriggerEffect>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <StartDisplay>data/skillflow/hero/10000415/skill01_skillfield</StartDisplay>
+    <TrigDisplay></TrigDisplay>
+</ResMobaSkillField>
+<ResMobaSkillField version="1">
+    <SkillFieldID>141501006 </SkillFieldID>
+    <SkillFieldGroupID>1415010 </SkillFieldGroupID>
+    <TimeLength>5000 </TimeLength>
+    <DelayTime>0 </DelayTime>
+    <CheckPeriod>500 </CheckPeriod>
+    <TargetType>14 </TargetType>
+    <TargetFilterType>0 </TargetFilterType>
+    <TargetFilterParam>0 0 </TargetFilterParam>
+    <FollowType>0 </FollowType>
+    <SkillFieldType>1 </SkillFieldType>
+    <SkillFieldShape>0 </SkillFieldShape>
+    <ShapeParam>50000 0 </ShapeParam>
+    <OffsetParam>0 0 </OffsetParam>
+    <ShapeChangeType>0 </ShapeChangeType>
+    <ShapeChangeParams>0 0 </ShapeChangeParams>
+    <Stealth>1 </Stealth>
+    <IMMSpell>0 </IMMSpell>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>1 </SkillFieldParamType>
+        <TriggerParam>1415010102 0 1415010102 </TriggerParam>
+    </TriggerEffect>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </TriggerEffect>
+    <SelfTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </SelfTriggerEffect>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <StartDisplay>data/skillflow/hero/10000415/skill01_skillfield</StartDisplay>
+    <TrigDisplay></TrigDisplay>
+</ResMobaSkillField>
+<ResMobaSkillField version="1">
+    <SkillFieldID>141501007 </SkillFieldID>
+    <SkillFieldGroupID>1415010 </SkillFieldGroupID>
+    <TimeLength>5000 </TimeLength>
+    <DelayTime>0 </DelayTime>
+    <CheckPeriod>500 </CheckPeriod>
+    <TargetType>14 </TargetType>
+    <TargetFilterType>0 </TargetFilterType>
+    <TargetFilterParam>0 0 </TargetFilterParam>
+    <FollowType>0 </FollowType>
+    <SkillFieldType>1 </SkillFieldType>
+    <SkillFieldShape>0 </SkillFieldShape>
+    <ShapeParam>50000 0 </ShapeParam>
+    <OffsetParam>0 0 </OffsetParam>
+    <ShapeChangeType>0 </ShapeChangeType>
+    <ShapeChangeParams>0 0 </ShapeChangeParams>
+    <Stealth>1 </Stealth>
+    <IMMSpell>0 </IMMSpell>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>1 </SkillFieldParamType>
+        <TriggerParam>1415010103 0 1415010103 </TriggerParam>
+    </TriggerEffect>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </TriggerEffect>
+    <SelfTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </SelfTriggerEffect>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <StartDisplay>data/skillflow/hero/10000415/skill01_skillfield</StartDisplay>
+    <TrigDisplay></TrigDisplay>
+</ResMobaSkillField>
+<ResMobaSkillField version="1">
+    <SkillFieldID>141501008 </SkillFieldID>
+    <SkillFieldGroupID>1415010 </SkillFieldGroupID>
+    <TimeLength>5000 </TimeLength>
+    <DelayTime>0 </DelayTime>
+    <CheckPeriod>500 </CheckPeriod>
+    <TargetType>14 </TargetType>
+    <TargetFilterType>0 </TargetFilterType>
+    <TargetFilterParam>0 0 </TargetFilterParam>
+    <FollowType>0 </FollowType>
+    <SkillFieldType>1 </SkillFieldType>
+    <SkillFieldShape>0 </SkillFieldShape>
+    <ShapeParam>50000 0 </ShapeParam>
+    <OffsetParam>0 0 </OffsetParam>
+    <ShapeChangeType>0 </ShapeChangeType>
+    <ShapeChangeParams>0 0 </ShapeChangeParams>
+    <Stealth>1 </Stealth>
+    <IMMSpell>0 </IMMSpell>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>1 </SkillFieldParamType>
+        <TriggerParam>1415010104 0 1415010104 </TriggerParam>
+    </TriggerEffect>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </TriggerEffect>
+    <SelfTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </SelfTriggerEffect>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <StartDisplay>data/skillflow/hero/10000415/skill01_skillfield</StartDisplay>
+    <TrigDisplay></TrigDisplay>
+</ResMobaSkillField>
+<ResMobaSkillField version="1">
+    <SkillFieldID>141602001 </SkillFieldID>
+    <SkillFieldGroupID>1416020 </SkillFieldGroupID>
+    <TimeLength>15000 </TimeLength>
+    <DelayTime>0 </DelayTime>
+    <CheckPeriod>500 </CheckPeriod>
+    <TargetType>14 </TargetType>
+    <TargetFilterType>0 </TargetFilterType>
+    <TargetFilterParam>0 0 </TargetFilterParam>
+    <FollowType>0 </FollowType>
+    <SkillFieldType>1 </SkillFieldType>
+    <SkillFieldShape>0 </SkillFieldShape>
+    <ShapeParam>40000 0 </ShapeParam>
+    <OffsetParam>0 0 </OffsetParam>
+    <ShapeChangeType>0 </ShapeChangeType>
+    <ShapeChangeParams>0 0 </ShapeChangeParams>
+    <Stealth>1 </Stealth>
+    <IMMSpell>0 </IMMSpell>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>1 </SkillFieldParamType>
+        <TriggerParam>1416020101 0 1416020101 </TriggerParam>
+    </TriggerEffect>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </TriggerEffect>
+    <SelfTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </SelfTriggerEffect>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>3 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>2 </SkillFieldParamType>
+        <TriggerParam>2 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <StartDisplay>data/skillflow/hero/10000416/skill02_skillfield</StartDisplay>
+    <TrigDisplay></TrigDisplay>
+</ResMobaSkillField>
+<ResMobaSkillField version="1">
+    <SkillFieldID>141602002 </SkillFieldID>
+    <SkillFieldGroupID>1416020 </SkillFieldGroupID>
+    <TimeLength>15000 </TimeLength>
+    <DelayTime>0 </DelayTime>
+    <CheckPeriod>500 </CheckPeriod>
+    <TargetType>14 </TargetType>
+    <TargetFilterType>0 </TargetFilterType>
+    <TargetFilterParam>0 0 </TargetFilterParam>
+    <FollowType>0 </FollowType>
+    <SkillFieldType>1 </SkillFieldType>
+    <SkillFieldShape>0 </SkillFieldShape>
+    <ShapeParam>40000 0 </ShapeParam>
+    <OffsetParam>0 0 </OffsetParam>
+    <ShapeChangeType>0 </ShapeChangeType>
+    <ShapeChangeParams>0 0 </ShapeChangeParams>
+    <Stealth>1 </Stealth>
+    <IMMSpell>0 </IMMSpell>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>1 </SkillFieldParamType>
+        <TriggerParam>1416020102 0 1416020102 </TriggerParam>
+    </TriggerEffect>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </TriggerEffect>
+    <SelfTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </SelfTriggerEffect>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>3 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>2 </SkillFieldParamType>
+        <TriggerParam>2 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <StartDisplay>data/skillflow/hero/10000416/skill02_skillfield</StartDisplay>
+    <TrigDisplay></TrigDisplay>
+</ResMobaSkillField>
+<ResMobaSkillField version="1">
+    <SkillFieldID>141602003 </SkillFieldID>
+    <SkillFieldGroupID>1416020 </SkillFieldGroupID>
+    <TimeLength>15000 </TimeLength>
+    <DelayTime>0 </DelayTime>
+    <CheckPeriod>500 </CheckPeriod>
+    <TargetType>14 </TargetType>
+    <TargetFilterType>0 </TargetFilterType>
+    <TargetFilterParam>0 0 </TargetFilterParam>
+    <FollowType>0 </FollowType>
+    <SkillFieldType>1 </SkillFieldType>
+    <SkillFieldShape>0 </SkillFieldShape>
+    <ShapeParam>40000 0 </ShapeParam>
+    <OffsetParam>0 0 </OffsetParam>
+    <ShapeChangeType>0 </ShapeChangeType>
+    <ShapeChangeParams>0 0 </ShapeChangeParams>
+    <Stealth>1 </Stealth>
+    <IMMSpell>0 </IMMSpell>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>1 </SkillFieldParamType>
+        <TriggerParam>1416020103 0 1416020103 </TriggerParam>
+    </TriggerEffect>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </TriggerEffect>
+    <SelfTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </SelfTriggerEffect>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>3 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>2 </SkillFieldParamType>
+        <TriggerParam>2 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <StartDisplay>data/skillflow/hero/10000416/skill02_skillfield</StartDisplay>
+    <TrigDisplay></TrigDisplay>
+</ResMobaSkillField>
+<ResMobaSkillField version="1">
+    <SkillFieldID>141602004 </SkillFieldID>
+    <SkillFieldGroupID>1416020 </SkillFieldGroupID>
+    <TimeLength>15000 </TimeLength>
+    <DelayTime>0 </DelayTime>
+    <CheckPeriod>500 </CheckPeriod>
+    <TargetType>14 </TargetType>
+    <TargetFilterType>0 </TargetFilterType>
+    <TargetFilterParam>0 0 </TargetFilterParam>
+    <FollowType>0 </FollowType>
+    <SkillFieldType>1 </SkillFieldType>
+    <SkillFieldShape>0 </SkillFieldShape>
+    <ShapeParam>40000 0 </ShapeParam>
+    <OffsetParam>0 0 </OffsetParam>
+    <ShapeChangeType>0 </ShapeChangeType>
+    <ShapeChangeParams>0 0 </ShapeChangeParams>
+    <Stealth>1 </Stealth>
+    <IMMSpell>0 </IMMSpell>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>1 </SkillFieldParamType>
+        <TriggerParam>1416020104 0 1416020104 </TriggerParam>
+    </TriggerEffect>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </TriggerEffect>
+    <SelfTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </SelfTriggerEffect>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>3 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>2 </SkillFieldParamType>
+        <TriggerParam>2 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <StartDisplay>data/skillflow/hero/10000416/skill02_skillfield</StartDisplay>
+    <TrigDisplay></TrigDisplay>
+</ResMobaSkillField>
+<ResMobaSkillField version="1">
+    <SkillFieldID>141704001 </SkillFieldID>
+    <SkillFieldGroupID>1417040 </SkillFieldGroupID>
+    <TimeLength>-1 </TimeLength>
+    <DelayTime>0 </DelayTime>
+    <CheckPeriod>500 </CheckPeriod>
+    <TargetType>20 </TargetType>
+    <TargetFilterType>0 </TargetFilterType>
+    <TargetFilterParam>0 0 </TargetFilterParam>
+    <FollowType>1 </FollowType>
+    <SkillFieldType>1 </SkillFieldType>
+    <SkillFieldShape>0 </SkillFieldShape>
+    <ShapeParam>200000 0 </ShapeParam>
+    <OffsetParam>0 0 </OffsetParam>
+    <ShapeChangeType>0 </ShapeChangeType>
+    <ShapeChangeParams>0 0 </ShapeChangeParams>
+    <Stealth>1 </Stealth>
+    <IMMSpell>0 </IMMSpell>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>1 </SkillFieldParamType>
+        <TriggerParam>1417040101 0 0 </TriggerParam>
+    </TriggerEffect>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </TriggerEffect>
+    <SelfTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </SelfTriggerEffect>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <StartDisplay>data/skillflow/hero/10000417/skill04_skillfield_01</StartDisplay>
+    <TrigDisplay></TrigDisplay>
+</ResMobaSkillField>
+<ResMobaSkillField version="1">
+    <SkillFieldID>141704002 </SkillFieldID>
+    <SkillFieldGroupID>1417040 </SkillFieldGroupID>
+    <TimeLength>-1 </TimeLength>
+    <DelayTime>0 </DelayTime>
+    <CheckPeriod>500 </CheckPeriod>
+    <TargetType>20 </TargetType>
+    <TargetFilterType>0 </TargetFilterType>
+    <TargetFilterParam>0 0 </TargetFilterParam>
+    <FollowType>1 </FollowType>
+    <SkillFieldType>1 </SkillFieldType>
+    <SkillFieldShape>0 </SkillFieldShape>
+    <ShapeParam>200000 0 </ShapeParam>
+    <OffsetParam>0 0 </OffsetParam>
+    <ShapeChangeType>0 </ShapeChangeType>
+    <ShapeChangeParams>0 0 </ShapeChangeParams>
+    <Stealth>1 </Stealth>
+    <IMMSpell>0 </IMMSpell>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>1 </SkillFieldParamType>
+        <TriggerParam>1417040102 0 0 </TriggerParam>
+    </TriggerEffect>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </TriggerEffect>
+    <SelfTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </SelfTriggerEffect>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <StartDisplay>data/skillflow/hero/10000417/skill04_skillfield</StartDisplay>
+    <TrigDisplay></TrigDisplay>
+</ResMobaSkillField>
+<ResMobaSkillField version="1">
+    <SkillFieldID>141704003 </SkillFieldID>
+    <SkillFieldGroupID>1417040 </SkillFieldGroupID>
+    <TimeLength>3000 </TimeLength>
+    <DelayTime>0 </DelayTime>
+    <CheckPeriod>100 </CheckPeriod>
+    <TargetType>14 </TargetType>
+    <TargetFilterType>0 </TargetFilterType>
+    <TargetFilterParam>0 0 </TargetFilterParam>
+    <FollowType>1 </FollowType>
+    <SkillFieldType>1 </SkillFieldType>
+    <SkillFieldShape>0 </SkillFieldShape>
+    <ShapeParam>200000 0 </ShapeParam>
+    <OffsetParam>0 0 </OffsetParam>
+    <ShapeChangeType>0 </ShapeChangeType>
+    <ShapeChangeParams>0 0 </ShapeChangeParams>
+    <Stealth>1 </Stealth>
+    <IMMSpell>0 </IMMSpell>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>1 </SkillFieldParamType>
+        <TriggerParam>230200101 0 0 </TriggerParam>
+    </TriggerEffect>
+    <TriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </TriggerEffect>
+    <SelfTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </SelfTriggerEffect>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveEvents type="SkillFieldRemove">
+        <EventType>0 </EventType>
+        <EventParam>0 0 </EventParam>
+    </RemoveEvents>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <RemoveTriggerEffect type="SkillFieldTriggerEffect">
+        <SkillFieldParamType>0 </SkillFieldParamType>
+        <TriggerParam>0 0 0 </TriggerParam>
+    </RemoveTriggerEffect>
+    <StartDisplay></StartDisplay>
+    <TrigDisplay></TrigDisplay>
+</ResMobaSkillField>
+</ResMobaSkillField_Tab>

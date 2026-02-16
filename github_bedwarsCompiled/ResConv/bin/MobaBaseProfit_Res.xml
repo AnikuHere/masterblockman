@@ -1,0 +1,1531 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<ResMobaBaseProfit_Tab>
+<TResHeadAll version="5">
+    <resHead type="TResHead">
+        <Magic>1397052237 </Magic>
+        <Version>6 </Version>
+        <Unit>16 </Unit>
+        <Count>252 </Count>
+        <MetalibHash>531d5b4a397ad5b3c0fbfb5cc8059e55</MetalibHash>
+        <ResVersion>0 </ResVersion>
+        <CreateTime>2023-04-19 20:42:30</CreateTime>
+        <ResEncording>UTF-8</ResEncording>
+        <ContentHash>9019e1daaa5d89406a48e32aec347713</ContentHash>
+    </resHead>
+    <resHeadExt type="TResHeadExt">
+        <DataOffset>136 </DataOffset>
+    </resHeadExt>
+</TResHeadAll>
+<ResMobaBaseProfit version="1">
+    <ResID>20000101 </ResID>
+    <Exp>40 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000102 </ResID>
+    <Exp>60 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000103 </ResID>
+    <Exp>40 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000104 </ResID>
+    <Exp>40 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000105 </ResID>
+    <Exp>40 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000106 </ResID>
+    <Exp>60 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000107 </ResID>
+    <Exp>60 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000108 </ResID>
+    <Exp>85 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000109 </ResID>
+    <Exp>85 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000110 </ResID>
+    <Exp>115 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000111 </ResID>
+    <Exp>150 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000112 </ResID>
+    <Exp>150 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>150 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000113 </ResID>
+    <Exp>150 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>150 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000114 </ResID>
+    <Exp>150 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>150 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000115 </ResID>
+    <Exp>40 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000116 </ResID>
+    <Exp>60 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000117 </ResID>
+    <Exp>150 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>300 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000118 </ResID>
+    <Exp>150 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>300 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000119 </ResID>
+    <Exp>150 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>300 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000120 </ResID>
+    <Exp>0 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000121 </ResID>
+    <Exp>60 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000122 </ResID>
+    <Exp>85 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000123 </ResID>
+    <Exp>115 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000124 </ResID>
+    <Exp>100 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>150 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000125 </ResID>
+    <Exp>100 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>150 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000126 </ResID>
+    <Exp>100 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>150 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000127 </ResID>
+    <Exp>0 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000128 </ResID>
+    <Exp>0 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000129 </ResID>
+    <Exp>0 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000130 </ResID>
+    <Exp>150 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000201 </ResID>
+    <Exp>60 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000202 </ResID>
+    <Exp>40 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000203 </ResID>
+    <Exp>40 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000204 </ResID>
+    <Exp>40 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000205 </ResID>
+    <Exp>60 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000206 </ResID>
+    <Exp>60 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000207 </ResID>
+    <Exp>40 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000208 </ResID>
+    <Exp>85 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000209 </ResID>
+    <Exp>85 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000210 </ResID>
+    <Exp>115 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000211 </ResID>
+    <Exp>150 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000212 </ResID>
+    <Exp>150 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>150 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000213 </ResID>
+    <Exp>150 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>150 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000214 </ResID>
+    <Exp>150 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>150 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000215 </ResID>
+    <Exp>40 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000217 </ResID>
+    <Exp>150 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>300 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000218 </ResID>
+    <Exp>150 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>300 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000219 </ResID>
+    <Exp>150 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>300 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000220 </ResID>
+    <Exp>0 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000221 </ResID>
+    <Exp>40 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000222 </ResID>
+    <Exp>60 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000223 </ResID>
+    <Exp>85 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000224 </ResID>
+    <Exp>150 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000225 </ResID>
+    <Exp>100 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>150 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000226 </ResID>
+    <Exp>100 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>150 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000227 </ResID>
+    <Exp>100 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>150 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000228 </ResID>
+    <Exp>0 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000229 </ResID>
+    <Exp>0 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000230 </ResID>
+    <Exp>0 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000231 </ResID>
+    <Exp>115 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000232 </ResID>
+    <Exp>150 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000301 </ResID>
+    <Exp>40 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000302 </ResID>
+    <Exp>60 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000303 </ResID>
+    <Exp>40 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000304 </ResID>
+    <Exp>40 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000305 </ResID>
+    <Exp>60 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000306 </ResID>
+    <Exp>40 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000307 </ResID>
+    <Exp>60 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000308 </ResID>
+    <Exp>85 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000309 </ResID>
+    <Exp>150 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000310 </ResID>
+    <Exp>115 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000311 </ResID>
+    <Exp>150 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000312 </ResID>
+    <Exp>150 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>150 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000313 </ResID>
+    <Exp>150 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>150 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000314 </ResID>
+    <Exp>150 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>150 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000315 </ResID>
+    <Exp>40 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000316 </ResID>
+    <Exp>150 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>300 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000317 </ResID>
+    <Exp>150 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>300 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000318 </ResID>
+    <Exp>150 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>300 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000319 </ResID>
+    <Exp>0 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000320 </ResID>
+    <Exp>100 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>150 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000321 </ResID>
+    <Exp>100 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>150 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000322 </ResID>
+    <Exp>100 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>150 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000323 </ResID>
+    <Exp>0 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000324 </ResID>
+    <Exp>0 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000325 </ResID>
+    <Exp>0 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000326 </ResID>
+    <Exp>40 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000327 </ResID>
+    <Exp>40 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000328 </ResID>
+    <Exp>0 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000401 </ResID>
+    <Exp>60 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000402 </ResID>
+    <Exp>40 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000403 </ResID>
+    <Exp>40 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000404 </ResID>
+    <Exp>40 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000405 </ResID>
+    <Exp>60 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000406 </ResID>
+    <Exp>60 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000407 </ResID>
+    <Exp>40 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000408 </ResID>
+    <Exp>85 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000409 </ResID>
+    <Exp>85 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000410 </ResID>
+    <Exp>115 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000411 </ResID>
+    <Exp>150 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000412 </ResID>
+    <Exp>150 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>150 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000413 </ResID>
+    <Exp>150 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>150 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000414 </ResID>
+    <Exp>150 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>150 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000415 </ResID>
+    <Exp>40 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000417 </ResID>
+    <Exp>150 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>300 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000418 </ResID>
+    <Exp>150 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>300 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000419 </ResID>
+    <Exp>150 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>300 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000420 </ResID>
+    <Exp>0 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000425 </ResID>
+    <Exp>100 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>150 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000426 </ResID>
+    <Exp>100 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>150 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000427 </ResID>
+    <Exp>100 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>150 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000428 </ResID>
+    <Exp>0 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000429 </ResID>
+    <Exp>0 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000430 </ResID>
+    <Exp>0 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000701 </ResID>
+    <Exp>0 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000702 </ResID>
+    <Exp>0 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000703 </ResID>
+    <Exp>0 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000704 </ResID>
+    <Exp>0 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000705 </ResID>
+    <Exp>0 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000706 </ResID>
+    <Exp>0 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000707 </ResID>
+    <Exp>0 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000708 </ResID>
+    <Exp>0 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000709 </ResID>
+    <Exp>0 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000710 </ResID>
+    <Exp>0 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000711 </ResID>
+    <Exp>0 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000712 </ResID>
+    <Exp>0 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000713 </ResID>
+    <Exp>0 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000714 </ResID>
+    <Exp>0 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000715 </ResID>
+    <Exp>0 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000716 </ResID>
+    <Exp>0 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000717 </ResID>
+    <Exp>0 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000718 </ResID>
+    <Exp>0 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000719 </ResID>
+    <Exp>0 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000720 </ResID>
+    <Exp>0 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000721 </ResID>
+    <Exp>0 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000722 </ResID>
+    <Exp>0 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000723 </ResID>
+    <Exp>0 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000724 </ResID>
+    <Exp>0 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000725 </ResID>
+    <Exp>0 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000726 </ResID>
+    <Exp>0 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000727 </ResID>
+    <Exp>0 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000728 </ResID>
+    <Exp>0 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000729 </ResID>
+    <Exp>0 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000730 </ResID>
+    <Exp>0 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000731 </ResID>
+    <Exp>0 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000732 </ResID>
+    <Exp>0 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000733 </ResID>
+    <Exp>0 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000734 </ResID>
+    <Exp>0 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000735 </ResID>
+    <Exp>0 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000736 </ResID>
+    <Exp>0 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000737 </ResID>
+    <Exp>0 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000738 </ResID>
+    <Exp>0 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000741 </ResID>
+    <Exp>0 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000742 </ResID>
+    <Exp>0 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000743 </ResID>
+    <Exp>0 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000744 </ResID>
+    <Exp>0 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000745 </ResID>
+    <Exp>0 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000746 </ResID>
+    <Exp>0 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000747 </ResID>
+    <Exp>0 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000748 </ResID>
+    <Exp>0 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000749 </ResID>
+    <Exp>0 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000750 </ResID>
+    <Exp>0 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000751 </ResID>
+    <Exp>0 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000752 </ResID>
+    <Exp>0 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000753 </ResID>
+    <Exp>0 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000754 </ResID>
+    <Exp>0 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000755 </ResID>
+    <Exp>0 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000756 </ResID>
+    <Exp>0 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000757 </ResID>
+    <Exp>0 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000758 </ResID>
+    <Exp>0 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000759 </ResID>
+    <Exp>0 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000760 </ResID>
+    <Exp>0 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000761 </ResID>
+    <Exp>0 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000762 </ResID>
+    <Exp>0 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000763 </ResID>
+    <Exp>0 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000764 </ResID>
+    <Exp>0 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000765 </ResID>
+    <Exp>0 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000766 </ResID>
+    <Exp>0 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000767 </ResID>
+    <Exp>0 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000768 </ResID>
+    <Exp>0 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000769 </ResID>
+    <Exp>0 </Exp>
+    <Money>1000 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000770 </ResID>
+    <Exp>0 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000771 </ResID>
+    <Exp>0 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000772 </ResID>
+    <Exp>0 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000773 </ResID>
+    <Exp>0 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000774 </ResID>
+    <Exp>0 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000775 </ResID>
+    <Exp>0 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000776 </ResID>
+    <Exp>0 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000777 </ResID>
+    <Exp>0 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000800 </ResID>
+    <Exp>0 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000801 </ResID>
+    <Exp>0 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000802 </ResID>
+    <Exp>0 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000803 </ResID>
+    <Exp>0 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000804 </ResID>
+    <Exp>0 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000818 </ResID>
+    <Exp>190 </Exp>
+    <Money>76 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000819 </ResID>
+    <Exp>235 </Exp>
+    <Money>94 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000820 </ResID>
+    <Exp>0 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000821 </ResID>
+    <Exp>0 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000822 </ResID>
+    <Exp>0 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000823 </ResID>
+    <Exp>0 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000824 </ResID>
+    <Exp>0 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000825 </ResID>
+    <Exp>0 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000826 </ResID>
+    <Exp>0 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000827 </ResID>
+    <Exp>0 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000828 </ResID>
+    <Exp>0 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000829 </ResID>
+    <Exp>0 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000830 </ResID>
+    <Exp>0 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000831 </ResID>
+    <Exp>0 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000832 </ResID>
+    <Exp>0 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000833 </ResID>
+    <Exp>0 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000834 </ResID>
+    <Exp>0 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000835 </ResID>
+    <Exp>0 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000836 </ResID>
+    <Exp>0 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000837 </ResID>
+    <Exp>0 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000838 </ResID>
+    <Exp>0 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000839 </ResID>
+    <Exp>0 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000880 </ResID>
+    <Exp>0 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000881 </ResID>
+    <Exp>0 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000882 </ResID>
+    <Exp>0 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000883 </ResID>
+    <Exp>0 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000884 </ResID>
+    <Exp>0 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000885 </ResID>
+    <Exp>0 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000886 </ResID>
+    <Exp>0 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000887 </ResID>
+    <Exp>0 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000888 </ResID>
+    <Exp>0 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000897 </ResID>
+    <Exp>0 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000898 </ResID>
+    <Exp>0 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000899 </ResID>
+    <Exp>0 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000901 </ResID>
+    <Exp>25 </Exp>
+    <Money>5 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000902 </ResID>
+    <Exp>40 </Exp>
+    <Money>7 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000903 </ResID>
+    <Exp>60 </Exp>
+    <Money>9 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000904 </ResID>
+    <Exp>85 </Exp>
+    <Money>15 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000905 </ResID>
+    <Exp>115 </Exp>
+    <Money>25 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000906 </ResID>
+    <Exp>500 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>300 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000907 </ResID>
+    <Exp>25 </Exp>
+    <Money>5 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000908 </ResID>
+    <Exp>40 </Exp>
+    <Money>7 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000909 </ResID>
+    <Exp>60 </Exp>
+    <Money>9 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000910 </ResID>
+    <Exp>85 </Exp>
+    <Money>15 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000911 </ResID>
+    <Exp>115 </Exp>
+    <Money>25 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000912 </ResID>
+    <Exp>150 </Exp>
+    <Money>75 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000913 </ResID>
+    <Exp>250 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>100 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000914 </ResID>
+    <Exp>500 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>200 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000915 </ResID>
+    <Exp>250 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>100 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000916 </ResID>
+    <Exp>150 </Exp>
+    <Money>75 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000917 </ResID>
+    <Exp>150 </Exp>
+    <Money>75 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000918 </ResID>
+    <Exp>0 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000919 </ResID>
+    <Exp>250 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>100 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000920 </ResID>
+    <Exp>500 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>300 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000921 </ResID>
+    <Exp>0 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000922 </ResID>
+    <Exp>0 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000923 </ResID>
+    <Exp>0 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+<ResMobaBaseProfit version="1">
+    <ResID>20000924 </ResID>
+    <Exp>0 </Exp>
+    <Money>0 </Money>
+    <ExaMoney>0 </ExaMoney>
+</ResMobaBaseProfit>
+</ResMobaBaseProfit_Tab>

@@ -1,0 +1,5269 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<ResSystemItemDesc_Tab>
+<TResHeadAll version="5">
+    <resHead type="TResHead">
+        <Magic>1397052237 </Magic>
+        <Version>6 </Version>
+        <Unit>261 </Unit>
+        <Count>250 </Count>
+        <MetalibHash>531d5b4a397ad5b3c0fbfb5cc8059e55</MetalibHash>
+        <ResVersion>0 </ResVersion>
+        <CreateTime>2023-04-19 20:42:32</CreateTime>
+        <ResEncording>UTF-8</ResEncording>
+        <ContentHash>9f3a92ab737f38f11a1a65696c6a9622</ContentHash>
+    </resHead>
+    <resHeadExt type="TResHeadExt">
+        <DataOffset>136 </DataOffset>
+    </resHeadExt>
+</TResHeadAll>
+<ResSystemItemDesc version="1">
+    <ResID>1 </ResID>
+    <Type>0 </Type>
+    <SubType>1 </SubType>
+    <Quality>0 </Quality>
+    <Icon>UITexture/systemtexture/Item/T_ICON_huoyuedian_01</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>0 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>1 </Type>
+        <Param>1 0 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>2 </ResID>
+    <Type>0 </Type>
+    <SubType>2 </SubType>
+    <Quality>3 </Quality>
+    <Icon>UITexture/systemtexture/Item/T_ICON_wupin_dianquan01</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>0 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>2 </Type>
+        <Param>1 0 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>3 </ResID>
+    <Type>0 </Type>
+    <SubType>3 </SubType>
+    <Quality>3 </Quality>
+    <Icon>UITexture/systemtexture/Item/T_ICON_wupin_jinbi01</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>0 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>3 </Type>
+        <Param>1 0 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>4 </ResID>
+    <Type>0 </Type>
+    <SubType>4 </SubType>
+    <Quality>3 </Quality>
+    <Icon>UITexture/systemtexture/Item/T_ICON_wupin_zuanshi01</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>0 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>4 </Type>
+        <Param>1 0 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>5 </ResID>
+    <Type>0 </Type>
+    <SubType>15 </SubType>
+    <Quality>1 </Quality>
+    <Icon>UITexture/systemtexture/Item/T_ICON_huoyuedian</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>0 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>5 </Type>
+        <Param>1 0 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>7 </ResID>
+    <Type>0 </Type>
+    <SubType>19 </SubType>
+    <Quality>1 </Quality>
+    <Icon>UITexture/systemtexture/Item/T_ICON_chengjiudian_new</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>0 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>8 </Type>
+        <Param>1 0 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>8 </ResID>
+    <Type>0 </Type>
+    <SubType>24 </SubType>
+    <Quality>1 </Quality>
+    <Icon>UITexture/systemtexture/Item/T_ICON_chengjiudian_new</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>0 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>9 </ResID>
+    <Type>0 </Type>
+    <SubType>26 </SubType>
+    <Quality>3 </Quality>
+    <Icon>UITexture/systemtexture/Item/T_ICONT_zhanqisuipian2_new</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>0 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>10 </ResID>
+    <Type>0 </Type>
+    <SubType>27 </SubType>
+    <Quality>3 </Quality>
+    <Icon>UITexture/systemtexture/Item/T_ICONT_zhanqisuipian1_new</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>0 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31030001 </ResID>
+    <Type>1 </Type>
+    <SubType>20 </SubType>
+    <Quality>3 </Quality>
+    <Icon>UITexture/systemtexture/touxiang/T_ICON_yingxiong_000</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>15 </Type>
+        <Param>1 0 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31030002 </ResID>
+    <Type>1 </Type>
+    <SubType>20 </SubType>
+    <Quality>3 </Quality>
+    <Icon>UITexture/systemtexture/touxiang/T_ICON_yingxiong_001</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>15 </Type>
+        <Param>2 0 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31030003 </ResID>
+    <Type>1 </Type>
+    <SubType>20 </SubType>
+    <Quality>3 </Quality>
+    <Icon>UITexture/systemtexture/touxiang/T_ICON_yingxiong_002</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>15 </Type>
+        <Param>3 0 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31030004 </ResID>
+    <Type>1 </Type>
+    <SubType>20 </SubType>
+    <Quality>3 </Quality>
+    <Icon>UITexture/systemtexture/touxiang/T_ICON_yingxiong_003</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>15 </Type>
+        <Param>4 0 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31030005 </ResID>
+    <Type>1 </Type>
+    <SubType>20 </SubType>
+    <Quality>3 </Quality>
+    <Icon>UITexture/systemtexture/touxiang/T_ICON_yingxiong_004</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>15 </Type>
+        <Param>5 0 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31030006 </ResID>
+    <Type>1 </Type>
+    <SubType>20 </SubType>
+    <Quality>3 </Quality>
+    <Icon>UITexture/systemtexture/touxiang/T_ICON_yingxiong_005</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>15 </Type>
+        <Param>6 0 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31030007 </ResID>
+    <Type>1 </Type>
+    <SubType>20 </SubType>
+    <Quality>3 </Quality>
+    <Icon>UITexture/systemtexture/touxiang/T_ICON_yingxiong_006</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>15 </Type>
+        <Param>7 0 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31030008 </ResID>
+    <Type>1 </Type>
+    <SubType>20 </SubType>
+    <Quality>3 </Quality>
+    <Icon>UITexture/systemtexture/touxiang/T_ICON_yingxiong_007</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>15 </Type>
+        <Param>8 0 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31030009 </ResID>
+    <Type>1 </Type>
+    <SubType>20 </SubType>
+    <Quality>3 </Quality>
+    <Icon>UITexture/systemtexture/touxiang/T_ICON_yingxiong_008</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>15 </Type>
+        <Param>9 0 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31030010 </ResID>
+    <Type>1 </Type>
+    <SubType>20 </SubType>
+    <Quality>3 </Quality>
+    <Icon>UITexture/systemtexture/touxiang/T_ICON_yingxiong_009</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>15 </Type>
+        <Param>10 0 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31030011 </ResID>
+    <Type>1 </Type>
+    <SubType>20 </SubType>
+    <Quality>3 </Quality>
+    <Icon>UITexture/systemtexture/touxiang/T_ICON_yingxiong_010</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>15 </Type>
+        <Param>11 0 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31030012 </ResID>
+    <Type>1 </Type>
+    <SubType>20 </SubType>
+    <Quality>3 </Quality>
+    <Icon>UITexture/systemtexture/touxiang/T_ICON_yingxiong_011</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>15 </Type>
+        <Param>12 0 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31030013 </ResID>
+    <Type>1 </Type>
+    <SubType>20 </SubType>
+    <Quality>3 </Quality>
+    <Icon>UITexture/systemtexture/touxiang/T_ICON_yingxiong_012</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>15 </Type>
+        <Param>13 0 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31030014 </ResID>
+    <Type>1 </Type>
+    <SubType>20 </SubType>
+    <Quality>3 </Quality>
+    <Icon>UITexture/systemtexture/touxiang/T_ICON_yingxiong_013</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>15 </Type>
+        <Param>14 0 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31030015 </ResID>
+    <Type>1 </Type>
+    <SubType>20 </SubType>
+    <Quality>3 </Quality>
+    <Icon>UITexture/systemtexture/touxiang/T_ICON_yingxiong_014</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>15 </Type>
+        <Param>15 0 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31030016 </ResID>
+    <Type>1 </Type>
+    <SubType>20 </SubType>
+    <Quality>3 </Quality>
+    <Icon>UITexture/systemtexture/touxiang/T_ICON_yingxiong_015</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>15 </Type>
+        <Param>16 0 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31030017 </ResID>
+    <Type>1 </Type>
+    <SubType>20 </SubType>
+    <Quality>3 </Quality>
+    <Icon>UITexture/systemtexture/touxiang/T_ICON_yingxiong_016</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>15 </Type>
+        <Param>17 0 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31030018 </ResID>
+    <Type>1 </Type>
+    <SubType>20 </SubType>
+    <Quality>3 </Quality>
+    <Icon>UITexture/systemtexture/touxiang/T_ICON_yingxiong_017</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>15 </Type>
+        <Param>18 0 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31030019 </ResID>
+    <Type>1 </Type>
+    <SubType>20 </SubType>
+    <Quality>3 </Quality>
+    <Icon>UITexture/systemtexture/touxiang/T_ICON_yingxiong_018</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>15 </Type>
+        <Param>19 0 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31030020 </ResID>
+    <Type>1 </Type>
+    <SubType>21 </SubType>
+    <Quality>3 </Quality>
+    <Icon>UITexture/systemtexture/touxiang/touxiangkuang/T_ICON_guoqingkuang_new</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>16 </Type>
+        <Param>4 0 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31050001 </ResID>
+    <Type>1 </Type>
+    <SubType>5 </SubType>
+    <Quality>2 </Quality>
+    <Icon>UITexture/systemtexture/Item/T_ICON_wupin_xiaolaba</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31050002 </ResID>
+    <Type>1 </Type>
+    <SubType>5 </SubType>
+    <Quality>3 </Quality>
+    <Icon>UITexture/systemtexture/Item/T_ICON_wupin_dalaba</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31060001 </ResID>
+    <Type>1 </Type>
+    <SubType>6 </SubType>
+    <Quality>2 </Quality>
+    <Icon>UITexture/system/T_ICON_BOX_5</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31060002 </ResID>
+    <Type>1 </Type>
+    <SubType>6 </SubType>
+    <Quality>2 </Quality>
+    <Icon>UITexture/system/T_ICON_BOX_5</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>1 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31060003 </ResID>
+    <Type>1 </Type>
+    <SubType>6 </SubType>
+    <Quality>2 </Quality>
+    <Icon>UITexture/system/T_ICON_BOX_5</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>3 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31060004 </ResID>
+    <Type>1 </Type>
+    <SubType>6 </SubType>
+    <Quality>2 </Quality>
+    <Icon>UITexture/system/T_ICON_BOX_5</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>2 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31060005 </ResID>
+    <Type>1 </Type>
+    <SubType>6 </SubType>
+    <Quality>2 </Quality>
+    <Icon>UITexture/system/T_ICON_BOX_5</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>3 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31060011 </ResID>
+    <Type>1 </Type>
+    <SubType>6 </SubType>
+    <Quality>1 </Quality>
+    <Icon>UITexture/system/T_ICON_BOX_1</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31060012 </ResID>
+    <Type>1 </Type>
+    <SubType>6 </SubType>
+    <Quality>1 </Quality>
+    <Icon>UITexture/system/T_ICON_BOX_2</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31060013 </ResID>
+    <Type>1 </Type>
+    <SubType>6 </SubType>
+    <Quality>2 </Quality>
+    <Icon>UITexture/system/T_ICON_BOX_3</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31060014 </ResID>
+    <Type>1 </Type>
+    <SubType>6 </SubType>
+    <Quality>2 </Quality>
+    <Icon>UITexture/system/T_ICON_BOX_4</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31060015 </ResID>
+    <Type>1 </Type>
+    <SubType>6 </SubType>
+    <Quality>3 </Quality>
+    <Icon>UITexture/system/T_ICON_BOX_5</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31060016 </ResID>
+    <Type>1 </Type>
+    <SubType>6 </SubType>
+    <Quality>3 </Quality>
+    <Icon>UITexture/system/T_ICON_BOX_4</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31060017 </ResID>
+    <Type>1 </Type>
+    <SubType>6 </SubType>
+    <Quality>3 </Quality>
+    <Icon>UITexture/system/T_ICON_BOX_5</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31060018 </ResID>
+    <Type>1 </Type>
+    <SubType>6 </SubType>
+    <Quality>3 </Quality>
+    <Icon>UITexture/system/T_ICON_BOX_4</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31060019 </ResID>
+    <Type>1 </Type>
+    <SubType>6 </SubType>
+    <Quality>3 </Quality>
+    <Icon>UITexture/system/T_ICON_BOX_4</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31060020 </ResID>
+    <Type>1 </Type>
+    <SubType>6 </SubType>
+    <Quality>3 </Quality>
+    <Icon>UITexture/system/T_ICON_BOX_5</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31060021 </ResID>
+    <Type>1 </Type>
+    <SubType>6 </SubType>
+    <Quality>3 </Quality>
+    <Icon>UITexture/systemtexture/huodong/T_ICON_BOX_longtengbaoxiang_new</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31060022 </ResID>
+    <Type>1 </Type>
+    <SubType>6 </SubType>
+    <Quality>3 </Quality>
+    <Icon>UITexture/system/T_ICON_BOX_5</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31060023 </ResID>
+    <Type>1 </Type>
+    <SubType>6 </SubType>
+    <Quality>3 </Quality>
+    <Icon>UITexture/system/T_ICON_BOX_5</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31060024 </ResID>
+    <Type>1 </Type>
+    <SubType>6 </SubType>
+    <Quality>3 </Quality>
+    <Icon>UITexture/systemtexture/huodong/T_ICON_BOX_longtengbaoxiang_new</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>2 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31070001 </ResID>
+    <Type>1 </Type>
+    <SubType>7 </SubType>
+    <Quality>3 </Quality>
+    <Icon>UITexture/systemtexture/Item/T_ICON_wupin_jingyantisheng01</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>1 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>1 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>9 </Type>
+        <Param>1440 0 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31070002 </ResID>
+    <Type>1 </Type>
+    <SubType>7 </SubType>
+    <Quality>3 </Quality>
+    <Icon>UITexture/systemtexture/Item/T_ICON_wupin_jingyantisheng01</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>1 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>1 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>9 </Type>
+        <Param>4320 0 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31070003 </ResID>
+    <Type>1 </Type>
+    <SubType>7 </SubType>
+    <Quality>3 </Quality>
+    <Icon>UITexture/systemtexture/Item/T_ICON_wupin_jingyantisheng01</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>1 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>1 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>9 </Type>
+        <Param>7200 0 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31070004 </ResID>
+    <Type>1 </Type>
+    <SubType>7 </SubType>
+    <Quality>3 </Quality>
+    <Icon>UITexture/systemtexture/Item/T_ICON_wupin_jingyantisheng01</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>1 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>1 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>9 </Type>
+        <Param>10080 0 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31070005 </ResID>
+    <Type>1 </Type>
+    <SubType>7 </SubType>
+    <Quality>3 </Quality>
+    <Icon>UITexture/systemtexture/Item/T_ICON_wupin_jingyantisheng01</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>1 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>1 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>13 </Type>
+        <Param>2 0 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31070006 </ResID>
+    <Type>1 </Type>
+    <SubType>7 </SubType>
+    <Quality>3 </Quality>
+    <Icon>UITexture/systemtexture/Item/T_ICON_wupin_jingyantisheng01</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>1 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>1 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>13 </Type>
+        <Param>4 0 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31070007 </ResID>
+    <Type>1 </Type>
+    <SubType>7 </SubType>
+    <Quality>3 </Quality>
+    <Icon>UITexture/systemtexture/Item/T_ICON_wupin_jingyantisheng01</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>1 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>1 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>13 </Type>
+        <Param>6 0 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31070008 </ResID>
+    <Type>1 </Type>
+    <SubType>7 </SubType>
+    <Quality>3 </Quality>
+    <Icon>UITexture/systemtexture/Item/T_ICON_wupin_jingyantisheng01</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>1 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>1 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>13 </Type>
+        <Param>8 0 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31080001 </ResID>
+    <Type>1 </Type>
+    <SubType>8 </SubType>
+    <Quality>3 </Quality>
+    <Icon>UITexture/systemtexture/Item/T_ICON_wupin_jinbitisheng01</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>1 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>1 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>10 </Type>
+        <Param>1440 0 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31080002 </ResID>
+    <Type>1 </Type>
+    <SubType>8 </SubType>
+    <Quality>3 </Quality>
+    <Icon>UITexture/systemtexture/Item/T_ICON_wupin_jinbitisheng01</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>1 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>1 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>10 </Type>
+        <Param>4320 0 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31080003 </ResID>
+    <Type>1 </Type>
+    <SubType>8 </SubType>
+    <Quality>3 </Quality>
+    <Icon>UITexture/systemtexture/Item/T_ICON_wupin_jinbitisheng01</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>1 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>1 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>10 </Type>
+        <Param>7200 0 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31080004 </ResID>
+    <Type>1 </Type>
+    <SubType>8 </SubType>
+    <Quality>3 </Quality>
+    <Icon>UITexture/systemtexture/Item/T_ICON_wupin_jinbitisheng01</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>1 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>1 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>10 </Type>
+        <Param>10080 0 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31080005 </ResID>
+    <Type>1 </Type>
+    <SubType>8 </SubType>
+    <Quality>3 </Quality>
+    <Icon>UITexture/systemtexture/Item/T_ICON_wupin_jinbitisheng01</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>1 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>1 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>14 </Type>
+        <Param>2 0 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31080006 </ResID>
+    <Type>1 </Type>
+    <SubType>8 </SubType>
+    <Quality>3 </Quality>
+    <Icon>UITexture/systemtexture/Item/T_ICON_wupin_jinbitisheng01</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>1 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>1 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>14 </Type>
+        <Param>4 0 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31080007 </ResID>
+    <Type>1 </Type>
+    <SubType>8 </SubType>
+    <Quality>3 </Quality>
+    <Icon>UITexture/systemtexture/Item/T_ICON_wupin_jinbitisheng01</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>1 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>1 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>14 </Type>
+        <Param>6 0 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31080008 </ResID>
+    <Type>1 </Type>
+    <SubType>8 </SubType>
+    <Quality>3 </Quality>
+    <Icon>UITexture/systemtexture/Item/T_ICON_wupin_jinbitisheng01</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>1 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>1 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>14 </Type>
+        <Param>8 0 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31090001 </ResID>
+    <Type>1 </Type>
+    <SubType>9 </SubType>
+    <Quality>3 </Quality>
+    <Icon>UITexture/systemtexture/Item/T_ICON_wupin_gaimingka</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31090002 </ResID>
+    <Type>1 </Type>
+    <SubType>9 </SubType>
+    <Quality>2 </Quality>
+    <Icon>UITexture/systemtexture/Item/T_ICON_wupin_gaimingka</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31100001 </ResID>
+    <Type>1 </Type>
+    <SubType>10 </SubType>
+    <Quality>4 </Quality>
+    <Icon>UITexture/systemtexture/Item/ICON_wupin_suipian02</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>108 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31100002 </ResID>
+    <Type>1 </Type>
+    <SubType>11 </SubType>
+    <Quality>4 </Quality>
+    <Icon>UITexture/systemtexture/Item/ICON_wupin_suipian01</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>102 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31100003 </ResID>
+    <Type>1 </Type>
+    <SubType>22 </SubType>
+    <Quality>4 </Quality>
+    <Icon>UITexture/systemtexture/Item/T_ICON_zhanzhengzhipai_new</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>105 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31100004 </ResID>
+    <Type>1 </Type>
+    <SubType>22 </SubType>
+    <Quality>4 </Quality>
+    <Icon>UITexture/systemtexture/Item/T_ICON_nuhouzhiling_new</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>105 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31100005 </ResID>
+    <Type>1 </Type>
+    <SubType>23 </SubType>
+    <Quality>4 </Quality>
+    <Icon>UITexture/systemtexture/Item/T_ICON_zhanzhengxunzhang_new</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>106 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31100006 </ResID>
+    <Type>1 </Type>
+    <SubType>23 </SubType>
+    <Quality>4 </Quality>
+    <Icon>UITexture/systemtexture/Item/T_ICON_nuhouxunzhang_new</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>107 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31100007 </ResID>
+    <Type>1 </Type>
+    <SubType>25 </SubType>
+    <Quality>4 </Quality>
+    <Icon>UITexture/systemtexture/huodong/T_ICON_hongxinghuizhang_new</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>1 </IsSell>
+    <IsUse>0 </IsUse>
+    <Price>1 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31110001 </ResID>
+    <Type>2 </Type>
+    <SubType>12 </SubType>
+    <Quality>4 </Quality>
+    <Icon>UITexture/hero/neu_hero007/neu_hero007</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>11 </Type>
+        <Param>10000407 3 4 5 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31110002 </ResID>
+    <Type>2 </Type>
+    <SubType>13 </SubType>
+    <Quality>4 </Quality>
+    <Icon>UITexture/hero/neu_hero007/pifu/001/neu_hero007_pifu_001</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>12 </Type>
+        <Param>10000407 1407002 3 4 5 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31120001 </ResID>
+    <Type>3 </Type>
+    <SubType>14 </SubType>
+    <Quality>1 </Quality>
+    <Icon>UITexture/system/T_ICON_Tong_72</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>0 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31120002 </ResID>
+    <Type>1 </Type>
+    <SubType>1 </SubType>
+    <Quality>3 </Quality>
+    <Icon>UITexture/systemtexture/zhanqi/zhongzu/teshu/T_ICON_zhongzhan_d_teshu02</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>0 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31130001 </ResID>
+    <Type>1 </Type>
+    <SubType>17 </SubType>
+    <Quality>3 </Quality>
+    <Icon>UITexture/hero/hum_hero001/hum_hero001</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>6 </Type>
+        <Param>10000001 0 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31130002 </ResID>
+    <Type>1 </Type>
+    <SubType>17 </SubType>
+    <Quality>3 </Quality>
+    <Icon>UITexture/hero/hum_hero002/pifu/001/hum_hero002_pifu_001</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>6 </Type>
+        <Param>10000002 0 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31130003 </ResID>
+    <Type>1 </Type>
+    <SubType>17 </SubType>
+    <Quality>3 </Quality>
+    <Icon>UITexture/hero/hum_hero003/hum_hero003</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>6 </Type>
+        <Param>10000003 0 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31130005 </ResID>
+    <Type>1 </Type>
+    <SubType>17 </SubType>
+    <Quality>3 </Quality>
+    <Icon>UITexture/hero/hum_hero002/pifu/001/hum_hero002_pifu_001</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>6 </Type>
+        <Param>10000005 0 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31130101 </ResID>
+    <Type>1 </Type>
+    <SubType>17 </SubType>
+    <Quality>3 </Quality>
+    <Icon>UITexture/hero/orc_hero001/orc_hero001</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>6 </Type>
+        <Param>10000101 0 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31130102 </ResID>
+    <Type>1 </Type>
+    <SubType>17 </SubType>
+    <Quality>3 </Quality>
+    <Icon>UITexture/hero/orc_hero002/orc_hero002</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>6 </Type>
+        <Param>10000102 0 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31130201 </ResID>
+    <Type>1 </Type>
+    <SubType>17 </SubType>
+    <Quality>3 </Quality>
+    <Icon>UITexture/hero/gho_hero001/pifu/001/gho_hero001_pifu_001</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>6 </Type>
+        <Param>10000201 0 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31130202 </ResID>
+    <Type>1 </Type>
+    <SubType>17 </SubType>
+    <Quality>3 </Quality>
+    <Icon>UITexture/hero/gho_hero002/gho_hero002</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>6 </Type>
+        <Param>10000202 0 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31130203 </ResID>
+    <Type>1 </Type>
+    <SubType>17 </SubType>
+    <Quality>3 </Quality>
+    <Icon>UITexture/hero/gho_hero003/gho_hero003</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>6 </Type>
+        <Param>10000203 0 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31130205 </ResID>
+    <Type>1 </Type>
+    <SubType>17 </SubType>
+    <Quality>3 </Quality>
+    <Icon>UITexture/hero/gho_hero001/pifu/001/gho_hero001_pifu_001</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>6 </Type>
+        <Param>10000205 0 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31130301 </ResID>
+    <Type>1 </Type>
+    <SubType>17 </SubType>
+    <Quality>3 </Quality>
+    <Icon>UITexture/hero/elf_hero001/elf_hero001</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>6 </Type>
+        <Param>10000301 0 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31130302 </ResID>
+    <Type>1 </Type>
+    <SubType>17 </SubType>
+    <Quality>3 </Quality>
+    <Icon>UITexture/hero/elf_hero002/elf_hero002</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>6 </Type>
+        <Param>10000302 0 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31130305 </ResID>
+    <Type>1 </Type>
+    <SubType>17 </SubType>
+    <Quality>3 </Quality>
+    <Icon>UITexture/hero/elf_hero001/elf_hero001</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>6 </Type>
+        <Param>10000305 0 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31130401 </ResID>
+    <Type>1 </Type>
+    <SubType>17 </SubType>
+    <Quality>3 </Quality>
+    <Icon>UITexture/hero/neu_hero001/neu_hero001</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>6 </Type>
+        <Param>10000401 0 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31130402 </ResID>
+    <Type>1 </Type>
+    <SubType>17 </SubType>
+    <Quality>3 </Quality>
+    <Icon>UITexture/hero/neu_hero002/neu_hero002</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>6 </Type>
+        <Param>10000402 0 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31130403 </ResID>
+    <Type>1 </Type>
+    <SubType>17 </SubType>
+    <Quality>3 </Quality>
+    <Icon>UITexture/hero/neu_hero003/neu_hero003</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>6 </Type>
+        <Param>10000403 0 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31130404 </ResID>
+    <Type>1 </Type>
+    <SubType>17 </SubType>
+    <Quality>3 </Quality>
+    <Icon>UITexture/hero/neu_hero004/neu_hero004</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>6 </Type>
+        <Param>10000404 0 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31130405 </ResID>
+    <Type>1 </Type>
+    <SubType>17 </SubType>
+    <Quality>3 </Quality>
+    <Icon>UITexture/hero/neu_hero005/neu_hero005</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>6 </Type>
+        <Param>10000405 0 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31130406 </ResID>
+    <Type>1 </Type>
+    <SubType>17 </SubType>
+    <Quality>3 </Quality>
+    <Icon>UITexture/hero/neu_hero006/neu_hero006</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>6 </Type>
+        <Param>10000406 0 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31130407 </ResID>
+    <Type>1 </Type>
+    <SubType>17 </SubType>
+    <Quality>3 </Quality>
+    <Icon>UITexture/hero/neu_hero007/neu_hero007</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>6 </Type>
+        <Param>10000407 0 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31130408 </ResID>
+    <Type>1 </Type>
+    <SubType>17 </SubType>
+    <Quality>3 </Quality>
+    <Icon>UITexture/hero/neu_hero008/neu_hero008</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>6 </Type>
+        <Param>10000408 0 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31130409 </ResID>
+    <Type>1 </Type>
+    <SubType>17 </SubType>
+    <Quality>3 </Quality>
+    <Icon>UITexture/hero/neu_hero009/neu_hero009</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>6 </Type>
+        <Param>10000409 0 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31130410 </ResID>
+    <Type>1 </Type>
+    <SubType>17 </SubType>
+    <Quality>3 </Quality>
+    <Icon>UITexture/hero/neu_hero010/neu_hero010</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>6 </Type>
+        <Param>10000410 0 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31130411 </ResID>
+    <Type>1 </Type>
+    <SubType>17 </SubType>
+    <Quality>3 </Quality>
+    <Icon>UITexture/hero/neu_hero011/neu_hero011</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>6 </Type>
+        <Param>10000411 0 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31130412 </ResID>
+    <Type>1 </Type>
+    <SubType>17 </SubType>
+    <Quality>3 </Quality>
+    <Icon>UITexture/hero/neu_hero012/neu_hero012</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>6 </Type>
+        <Param>10000412 0 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31130413 </ResID>
+    <Type>1 </Type>
+    <SubType>17 </SubType>
+    <Quality>3 </Quality>
+    <Icon>UITexture/hero/neu_hero013/neu_hero013</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>6 </Type>
+        <Param>10000413 0 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31130414 </ResID>
+    <Type>1 </Type>
+    <SubType>17 </SubType>
+    <Quality>3 </Quality>
+    <Icon>UITexture/hero/neu_hero014/neu_hero014</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>6 </Type>
+        <Param>10000414 0 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31130415 </ResID>
+    <Type>1 </Type>
+    <SubType>17 </SubType>
+    <Quality>3 </Quality>
+    <Icon>UITexture/hero/neu_hero015/neu_hero015</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>6 </Type>
+        <Param>10000415 0 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31130416 </ResID>
+    <Type>1 </Type>
+    <SubType>17 </SubType>
+    <Quality>3 </Quality>
+    <Icon>UITexture/hero/neu_hero016/neu_hero016</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>6 </Type>
+        <Param>10000416 0 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31130417 </ResID>
+    <Type>1 </Type>
+    <SubType>17 </SubType>
+    <Quality>3 </Quality>
+    <Icon>UITexture/hero/neu_hero017/neu_hero017</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>6 </Type>
+        <Param>10000417 0 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31140011 </ResID>
+    <Type>1 </Type>
+    <SubType>18 </SubType>
+    <Quality>3 </Quality>
+    <Icon>UITexture/hero/hum_hero001/hum_hero001</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>7 </Type>
+        <Param>10000001 1001001 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31140012 </ResID>
+    <Type>1 </Type>
+    <SubType>18 </SubType>
+    <Quality>3 </Quality>
+    <Icon>UITexture/hero/hum_hero001/pifu/001/hum_hero001_pifu_001</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>7 </Type>
+        <Param>10000001 1001002 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31140013 </ResID>
+    <Type>1 </Type>
+    <SubType>18 </SubType>
+    <Quality>3 </Quality>
+    <Icon>UITexture/hero/hum_hero001/pifu/002/hum_hero001_pifu_002</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>7 </Type>
+        <Param>10000001 1001003 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31140021 </ResID>
+    <Type>1 </Type>
+    <SubType>18 </SubType>
+    <Quality>3 </Quality>
+    <Icon>UITexture/hero/hum_hero002/pifu/001/hum_hero002_pifu_001</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>7 </Type>
+        <Param>10000002 1002001 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31140022 </ResID>
+    <Type>1 </Type>
+    <SubType>18 </SubType>
+    <Quality>3 </Quality>
+    <Icon>UITexture/hero/hum_hero002/pifu/002/hum_hero002_pifu_002</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>7 </Type>
+        <Param>10000002 1002002 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31140031 </ResID>
+    <Type>1 </Type>
+    <SubType>18 </SubType>
+    <Quality>3 </Quality>
+    <Icon>UITexture/hero/hum_hero003/hum_hero003</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>7 </Type>
+        <Param>10000003 1003001 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31140032 </ResID>
+    <Type>1 </Type>
+    <SubType>18 </SubType>
+    <Quality>3 </Quality>
+    <Icon>UITexture/hero/hum_hero003/pifu/001/hum_hero003_pifu_001</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>7 </Type>
+        <Param>10000003 1003002 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31141011 </ResID>
+    <Type>1 </Type>
+    <SubType>18 </SubType>
+    <Quality>3 </Quality>
+    <Icon>UITexture/hero/orc_hero001/orc_hero001</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>7 </Type>
+        <Param>10000101 1101001 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31141012 </ResID>
+    <Type>1 </Type>
+    <SubType>18 </SubType>
+    <Quality>3 </Quality>
+    <Icon>UITexture/hero/orc_hero001/pifu/001/orc_hero001_pifu_001</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>7 </Type>
+        <Param>10000101 1101002 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31141021 </ResID>
+    <Type>1 </Type>
+    <SubType>18 </SubType>
+    <Quality>3 </Quality>
+    <Icon>UITexture/hero/orc_hero002/orc_hero002</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>7 </Type>
+        <Param>10000102 1102001 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31141022 </ResID>
+    <Type>1 </Type>
+    <SubType>18 </SubType>
+    <Quality>3 </Quality>
+    <Icon>UITexture/hero/orc_hero002/pifu/001/orc_hero002_pifu_001</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>7 </Type>
+        <Param>10000102 1102002 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31142011 </ResID>
+    <Type>1 </Type>
+    <SubType>18 </SubType>
+    <Quality>3 </Quality>
+    <Icon>UITexture/hero/gho_hero001/pifu/001/gho_hero001_pifu_001</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>7 </Type>
+        <Param>10000201 1201001 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31142012 </ResID>
+    <Type>1 </Type>
+    <SubType>18 </SubType>
+    <Quality>3 </Quality>
+    <Icon>UITexture/hero/gho_hero001/gho_hero001</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>7 </Type>
+        <Param>10000201 1201002 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31142021 </ResID>
+    <Type>1 </Type>
+    <SubType>18 </SubType>
+    <Quality>3 </Quality>
+    <Icon>UITexture/hero/gho_hero002/gho_hero002</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>7 </Type>
+        <Param>10000202 1202001 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31142022 </ResID>
+    <Type>1 </Type>
+    <SubType>18 </SubType>
+    <Quality>3 </Quality>
+    <Icon>UITexture/hero/gho_hero002/pifu/001/gho_hero002_pifu_001</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>7 </Type>
+        <Param>10000202 1202002 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31142031 </ResID>
+    <Type>1 </Type>
+    <SubType>18 </SubType>
+    <Quality>3 </Quality>
+    <Icon>UITexture/hero/gho_hero003/gho_hero003</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>7 </Type>
+        <Param>10000203 1203001 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31142032 </ResID>
+    <Type>1 </Type>
+    <SubType>18 </SubType>
+    <Quality>3 </Quality>
+    <Icon>UITexture/hero/gho_hero003/pifu/001/gho_hero003_pifu_001</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>7 </Type>
+        <Param>10000203 1203002 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31143011 </ResID>
+    <Type>1 </Type>
+    <SubType>18 </SubType>
+    <Quality>3 </Quality>
+    <Icon>UITexture/hero/elf_hero001/elf_hero001</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>7 </Type>
+        <Param>10000301 1301001 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31143012 </ResID>
+    <Type>1 </Type>
+    <SubType>18 </SubType>
+    <Quality>3 </Quality>
+    <Icon>UITexture/hero/elf_hero001/pifu/001/elf_hero001_pifu_001</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>7 </Type>
+        <Param>10000301 1301002 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31143021 </ResID>
+    <Type>1 </Type>
+    <SubType>18 </SubType>
+    <Quality>3 </Quality>
+    <Icon>UITexture/hero/elf_hero002/elf_hero002</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>7 </Type>
+        <Param>10000302 1302001 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31143022 </ResID>
+    <Type>1 </Type>
+    <SubType>18 </SubType>
+    <Quality>3 </Quality>
+    <Icon>UITexture/hero/elf_hero002/pifu/002/elf_hero002_pifu_002</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>7 </Type>
+        <Param>10000302 1302002 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31143051 </ResID>
+    <Type>1 </Type>
+    <SubType>18 </SubType>
+    <Quality>3 </Quality>
+    <Icon>UITexture/hero/elf_hero001/elf_hero001</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>7 </Type>
+        <Param>10000305 1305001 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31144011 </ResID>
+    <Type>1 </Type>
+    <SubType>18 </SubType>
+    <Quality>3 </Quality>
+    <Icon>UITexture/hero/neu_hero001/neu_hero001</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>7 </Type>
+        <Param>10000401 1401001 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31144012 </ResID>
+    <Type>1 </Type>
+    <SubType>18 </SubType>
+    <Quality>3 </Quality>
+    <Icon>UITexture/hero/neu_hero001/pifu/001/neu_hero001_pifu_001</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>7 </Type>
+        <Param>10000401 1401002 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31144013 </ResID>
+    <Type>1 </Type>
+    <SubType>18 </SubType>
+    <Quality>3 </Quality>
+    <Icon>UITexture/hero/neu_hero001/pifu/002/neu_hero001_pifu_002</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>7 </Type>
+        <Param>10000401 1401003 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31144021 </ResID>
+    <Type>1 </Type>
+    <SubType>18 </SubType>
+    <Quality>3 </Quality>
+    <Icon>UITexture/hero/neu_hero002/neu_hero002</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>7 </Type>
+        <Param>10000402 1402001 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31144022 </ResID>
+    <Type>1 </Type>
+    <SubType>18 </SubType>
+    <Quality>3 </Quality>
+    <Icon>UITexture/hero/neu_hero002/pifu/001/neu_hero002_pifu_001</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>7 </Type>
+        <Param>10000402 1402002 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31144031 </ResID>
+    <Type>1 </Type>
+    <SubType>18 </SubType>
+    <Quality>3 </Quality>
+    <Icon>UITexture/hero/neu_hero003/neu_hero003</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>7 </Type>
+        <Param>10000403 1403001 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31144032 </ResID>
+    <Type>1 </Type>
+    <SubType>18 </SubType>
+    <Quality>3 </Quality>
+    <Icon>UITexture/hero/neu_hero003/pifu/001/neu_hero003_pifu_001</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>7 </Type>
+        <Param>10000403 1403002 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31144041 </ResID>
+    <Type>1 </Type>
+    <SubType>18 </SubType>
+    <Quality>3 </Quality>
+    <Icon>UITexture/hero/neu_hero004/neu_hero004</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>7 </Type>
+        <Param>10000404 1404001 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31144042 </ResID>
+    <Type>1 </Type>
+    <SubType>18 </SubType>
+    <Quality>3 </Quality>
+    <Icon>UITexture/hero/neu_hero004/pifu/001/neu_hero004_pifu_001</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>7 </Type>
+        <Param>10000404 1404002 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31144051 </ResID>
+    <Type>1 </Type>
+    <SubType>18 </SubType>
+    <Quality>3 </Quality>
+    <Icon>UITexture/hero/neu_hero005/neu_hero005</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>7 </Type>
+        <Param>10000405 1405001 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31144052 </ResID>
+    <Type>1 </Type>
+    <SubType>18 </SubType>
+    <Quality>3 </Quality>
+    <Icon>UITexture/hero/neu_hero005/pifu/001/neu_hero005_pifu_001</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>7 </Type>
+        <Param>10000405 1405002 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31144061 </ResID>
+    <Type>1 </Type>
+    <SubType>18 </SubType>
+    <Quality>3 </Quality>
+    <Icon>UITexture/hero/neu_hero006/neu_hero006</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>7 </Type>
+        <Param>10000406 1406001 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31144062 </ResID>
+    <Type>1 </Type>
+    <SubType>18 </SubType>
+    <Quality>3 </Quality>
+    <Icon>UITexture/hero/neu_hero006/pifu/001/neu_hero006_pifu_001</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>7 </Type>
+        <Param>10000406 1406002 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31144071 </ResID>
+    <Type>1 </Type>
+    <SubType>18 </SubType>
+    <Quality>3 </Quality>
+    <Icon>UITexture/hero/neu_hero007/neu_hero007</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>7 </Type>
+        <Param>10000407 1407001 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31144072 </ResID>
+    <Type>1 </Type>
+    <SubType>18 </SubType>
+    <Quality>3 </Quality>
+    <Icon>UITexture/hero/neu_hero007/pifu/001/neu_hero007_pifu_001</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>7 </Type>
+        <Param>10000407 1407002 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31144081 </ResID>
+    <Type>1 </Type>
+    <SubType>18 </SubType>
+    <Quality>3 </Quality>
+    <Icon>UITexture/hero/neu_hero008/neu_hero008</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>7 </Type>
+        <Param>10000408 1408001 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31144082 </ResID>
+    <Type>1 </Type>
+    <SubType>18 </SubType>
+    <Quality>3 </Quality>
+    <Icon>UITexture/hero/neu_hero008/pifu/001/neu_hero008_pifu_001</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>7 </Type>
+        <Param>10000408 1408002 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31144091 </ResID>
+    <Type>1 </Type>
+    <SubType>18 </SubType>
+    <Quality>3 </Quality>
+    <Icon>UITexture/hero/neu_hero009/neu_hero009</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>7 </Type>
+        <Param>10000409 1409001 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31144092 </ResID>
+    <Type>1 </Type>
+    <SubType>18 </SubType>
+    <Quality>3 </Quality>
+    <Icon>UITexture/hero/neu_hero009/pifu/001/neu_hero009_pifu_001</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>7 </Type>
+        <Param>10000409 1409002 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31144101 </ResID>
+    <Type>1 </Type>
+    <SubType>18 </SubType>
+    <Quality>3 </Quality>
+    <Icon>UITexture/hero/neu_hero010/neu_hero010</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>7 </Type>
+        <Param>10000410 1410001 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31144102 </ResID>
+    <Type>1 </Type>
+    <SubType>18 </SubType>
+    <Quality>3 </Quality>
+    <Icon>UITexture/hero/neu_hero010/pifu/001/neu_hero010_pifu_001</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>7 </Type>
+        <Param>10000410 1410002 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31144111 </ResID>
+    <Type>1 </Type>
+    <SubType>18 </SubType>
+    <Quality>3 </Quality>
+    <Icon>UITexture/hero/neu_hero011/neu_hero011</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>7 </Type>
+        <Param>10000411 1411001 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31144112 </ResID>
+    <Type>1 </Type>
+    <SubType>18 </SubType>
+    <Quality>3 </Quality>
+    <Icon>UITexture/hero/neu_hero011/pifu/001/neu_hero011_pifu_001</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>7 </Type>
+        <Param>10000411 1411002 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31144121 </ResID>
+    <Type>1 </Type>
+    <SubType>18 </SubType>
+    <Quality>3 </Quality>
+    <Icon>UITexture/hero/neu_hero012/neu_hero012</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>7 </Type>
+        <Param>10000412 1412001 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31144122 </ResID>
+    <Type>1 </Type>
+    <SubType>18 </SubType>
+    <Quality>3 </Quality>
+    <Icon>UITexture/hero/neu_hero012/pifu/001/neu_hero012_pifu_001</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>7 </Type>
+        <Param>10000412 1412002 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31144131 </ResID>
+    <Type>1 </Type>
+    <SubType>18 </SubType>
+    <Quality>3 </Quality>
+    <Icon>UITexture/hero/neu_hero013/neu_hero013</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>7 </Type>
+        <Param>10000413 1413001 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31144132 </ResID>
+    <Type>1 </Type>
+    <SubType>18 </SubType>
+    <Quality>3 </Quality>
+    <Icon>UITexture/hero/neu_hero013/pifu/001/neu_hero013_pifu_001</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>7 </Type>
+        <Param>10000413 1413002 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31144141 </ResID>
+    <Type>1 </Type>
+    <SubType>18 </SubType>
+    <Quality>3 </Quality>
+    <Icon>UITexture/hero/neu_hero014/neu_hero014</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>7 </Type>
+        <Param>10000414 1414001 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31144142 </ResID>
+    <Type>1 </Type>
+    <SubType>18 </SubType>
+    <Quality>3 </Quality>
+    <Icon>UITexture/hero/neu_hero014/pifu/001/neu_hero014_pifu_001</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>7 </Type>
+        <Param>10000414 1414002 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31144151 </ResID>
+    <Type>1 </Type>
+    <SubType>18 </SubType>
+    <Quality>3 </Quality>
+    <Icon>UITexture/hero/neu_hero015/neu_hero015</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>7 </Type>
+        <Param>10000415 1415001 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31144161 </ResID>
+    <Type>1 </Type>
+    <SubType>18 </SubType>
+    <Quality>3 </Quality>
+    <Icon>UITexture/hero/neu_hero016/neu_hero016</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>7 </Type>
+        <Param>10000416 1416001 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31144162 </ResID>
+    <Type>1 </Type>
+    <SubType>18 </SubType>
+    <Quality>3 </Quality>
+    <Icon>UITexture/hero/neu_hero016/pifu/001/neu_hero016_pifu_001</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>7 </Type>
+        <Param>10000416 1416002 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31144171 </ResID>
+    <Type>1 </Type>
+    <SubType>18 </SubType>
+    <Quality>3 </Quality>
+    <Icon>UITexture/hero/neu_hero017/neu_hero017</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>7 </Type>
+        <Param>10000417 1417001 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31144172 </ResID>
+    <Type>1 </Type>
+    <SubType>18 </SubType>
+    <Quality>3 </Quality>
+    <Icon>UITexture/hero/neu_hero017/pifu/001/neu_hero017_pifu_001</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>7 </Type>
+        <Param>10000417 1417002 0 0 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31151001 </ResID>
+    <Type>2 </Type>
+    <SubType>12 </SubType>
+    <Quality>4 </Quality>
+    <Icon>UITexture/hero/hum_hero001/hum_hero001</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>11 </Type>
+        <Param>10000001 1440 4 5 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31151002 </ResID>
+    <Type>2 </Type>
+    <SubType>12 </SubType>
+    <Quality>4 </Quality>
+    <Icon>UITexture/hero/hum_hero002/hum_hero002</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>11 </Type>
+        <Param>10000002 1440 4 5 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31151003 </ResID>
+    <Type>2 </Type>
+    <SubType>12 </SubType>
+    <Quality>4 </Quality>
+    <Icon>UITexture/hero/hum_hero003/hum_hero003</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>11 </Type>
+        <Param>10000003 1440 4 5 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31151101 </ResID>
+    <Type>2 </Type>
+    <SubType>12 </SubType>
+    <Quality>4 </Quality>
+    <Icon>UITexture/hero/orc_hero001/orc_hero001</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>11 </Type>
+        <Param>10000101 1440 4 5 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31151102 </ResID>
+    <Type>2 </Type>
+    <SubType>12 </SubType>
+    <Quality>4 </Quality>
+    <Icon>UITexture/hero/orc_hero002/orc_hero002</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>11 </Type>
+        <Param>10000102 1440 4 5 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31151201 </ResID>
+    <Type>2 </Type>
+    <SubType>12 </SubType>
+    <Quality>4 </Quality>
+    <Icon>UITexture/hero/gho_hero001/pifu/001/gho_hero001_pifu_001</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>11 </Type>
+        <Param>10000201 1440 4 5 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31151202 </ResID>
+    <Type>2 </Type>
+    <SubType>12 </SubType>
+    <Quality>4 </Quality>
+    <Icon>UITexture/hero/gho_hero002/gho_hero002</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>11 </Type>
+        <Param>10000202 1440 4 5 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31151203 </ResID>
+    <Type>2 </Type>
+    <SubType>12 </SubType>
+    <Quality>4 </Quality>
+    <Icon>UITexture/hero/gho_hero003/gho_hero003</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>11 </Type>
+        <Param>10000203 1440 4 5 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31151301 </ResID>
+    <Type>2 </Type>
+    <SubType>12 </SubType>
+    <Quality>4 </Quality>
+    <Icon>UITexture/hero/elf_hero001/elf_hero001</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>11 </Type>
+        <Param>10000301 1440 4 5 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31151302 </ResID>
+    <Type>2 </Type>
+    <SubType>12 </SubType>
+    <Quality>4 </Quality>
+    <Icon>UITexture/hero/elf_hero002/elf_hero002</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>11 </Type>
+        <Param>10000302 1440 4 5 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31151401 </ResID>
+    <Type>2 </Type>
+    <SubType>12 </SubType>
+    <Quality>4 </Quality>
+    <Icon>UITexture/hero/neu_hero001/neu_hero001</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>11 </Type>
+        <Param>10000401 1440 4 5 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31151402 </ResID>
+    <Type>2 </Type>
+    <SubType>12 </SubType>
+    <Quality>4 </Quality>
+    <Icon>UITexture/hero/neu_hero002/neu_hero002</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>11 </Type>
+        <Param>10000402 1440 4 5 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31151403 </ResID>
+    <Type>2 </Type>
+    <SubType>12 </SubType>
+    <Quality>4 </Quality>
+    <Icon>UITexture/hero/neu_hero003/neu_hero003</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>11 </Type>
+        <Param>10000403 1440 4 5 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31151404 </ResID>
+    <Type>2 </Type>
+    <SubType>12 </SubType>
+    <Quality>4 </Quality>
+    <Icon>UITexture/hero/neu_hero004/neu_hero004</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>11 </Type>
+        <Param>10000404 1440 4 5 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31151405 </ResID>
+    <Type>2 </Type>
+    <SubType>12 </SubType>
+    <Quality>4 </Quality>
+    <Icon>UITexture/hero/neu_hero005/neu_hero005</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>11 </Type>
+        <Param>10000405 1440 4 5 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31151406 </ResID>
+    <Type>2 </Type>
+    <SubType>12 </SubType>
+    <Quality>4 </Quality>
+    <Icon>UITexture/hero/neu_hero006/neu_hero006</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>11 </Type>
+        <Param>10000406 1440 4 5 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31151407 </ResID>
+    <Type>2 </Type>
+    <SubType>12 </SubType>
+    <Quality>4 </Quality>
+    <Icon>UITexture/hero/neu_hero007/neu_hero007</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>11 </Type>
+        <Param>10000407 1440 4 5 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31151409 </ResID>
+    <Type>2 </Type>
+    <SubType>12 </SubType>
+    <Quality>4 </Quality>
+    <Icon>UITexture/hero/neu_hero009/neu_hero009</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>11 </Type>
+        <Param>10000409 1440 4 5 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31151410 </ResID>
+    <Type>2 </Type>
+    <SubType>12 </SubType>
+    <Quality>4 </Quality>
+    <Icon>UITexture/hero/neu_hero010/neu_hero010</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>11 </Type>
+        <Param>10000410 1440 4 5 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31151413 </ResID>
+    <Type>2 </Type>
+    <SubType>12 </SubType>
+    <Quality>4 </Quality>
+    <Icon>UITexture/hero/neu_hero013/neu_hero013</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>11 </Type>
+        <Param>10000413 1440 4 5 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31151416 </ResID>
+    <Type>2 </Type>
+    <SubType>12 </SubType>
+    <Quality>4 </Quality>
+    <Icon>UITexture/hero/neu_hero016/neu_hero016</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>11 </Type>
+        <Param>10000416 1440 4 5 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31151417 </ResID>
+    <Type>2 </Type>
+    <SubType>12 </SubType>
+    <Quality>4 </Quality>
+    <Icon>UITexture/hero/neu_hero017/neu_hero017</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>11 </Type>
+        <Param>10000417 1440 4 5 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31153001 </ResID>
+    <Type>2 </Type>
+    <SubType>12 </SubType>
+    <Quality>4 </Quality>
+    <Icon>UITexture/hero/hum_hero001/hum_hero001</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>11 </Type>
+        <Param>10000001 4320 4 15 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31153002 </ResID>
+    <Type>2 </Type>
+    <SubType>12 </SubType>
+    <Quality>4 </Quality>
+    <Icon>UITexture/hero/hum_hero002/hum_hero002</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>11 </Type>
+        <Param>10000002 4320 4 15 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31153003 </ResID>
+    <Type>2 </Type>
+    <SubType>12 </SubType>
+    <Quality>4 </Quality>
+    <Icon>UITexture/hero/hum_hero003/hum_hero003</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>11 </Type>
+        <Param>10000003 4320 4 15 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31153101 </ResID>
+    <Type>2 </Type>
+    <SubType>12 </SubType>
+    <Quality>4 </Quality>
+    <Icon>UITexture/hero/orc_hero001/orc_hero001</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>11 </Type>
+        <Param>10000101 4320 4 15 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31153102 </ResID>
+    <Type>2 </Type>
+    <SubType>12 </SubType>
+    <Quality>4 </Quality>
+    <Icon>UITexture/hero/orc_hero002/orc_hero002</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>11 </Type>
+        <Param>10000102 4320 4 15 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31153201 </ResID>
+    <Type>2 </Type>
+    <SubType>12 </SubType>
+    <Quality>4 </Quality>
+    <Icon>UITexture/hero/gho_hero001/pifu/001/gho_hero001_pifu_001</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>11 </Type>
+        <Param>10000201 4320 4 15 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31153202 </ResID>
+    <Type>2 </Type>
+    <SubType>12 </SubType>
+    <Quality>4 </Quality>
+    <Icon>UITexture/hero/gho_hero002/gho_hero002</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>11 </Type>
+        <Param>10000202 4320 4 15 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31153203 </ResID>
+    <Type>2 </Type>
+    <SubType>12 </SubType>
+    <Quality>4 </Quality>
+    <Icon>UITexture/hero/gho_hero003/gho_hero003</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>11 </Type>
+        <Param>10000203 4320 4 15 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31153301 </ResID>
+    <Type>2 </Type>
+    <SubType>12 </SubType>
+    <Quality>4 </Quality>
+    <Icon>UITexture/hero/elf_hero001/elf_hero001</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>11 </Type>
+        <Param>10000301 4320 4 15 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31153302 </ResID>
+    <Type>2 </Type>
+    <SubType>12 </SubType>
+    <Quality>4 </Quality>
+    <Icon>UITexture/hero/elf_hero002/elf_hero002</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>11 </Type>
+        <Param>10000302 4320 4 15 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31153401 </ResID>
+    <Type>2 </Type>
+    <SubType>12 </SubType>
+    <Quality>4 </Quality>
+    <Icon>UITexture/hero/neu_hero001/neu_hero001</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>11 </Type>
+        <Param>10000401 4320 4 15 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31153402 </ResID>
+    <Type>2 </Type>
+    <SubType>12 </SubType>
+    <Quality>4 </Quality>
+    <Icon>UITexture/hero/neu_hero002/neu_hero002</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>11 </Type>
+        <Param>10000402 4320 4 15 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31153403 </ResID>
+    <Type>2 </Type>
+    <SubType>12 </SubType>
+    <Quality>4 </Quality>
+    <Icon>UITexture/hero/neu_hero003/neu_hero003</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>11 </Type>
+        <Param>10000403 4320 4 15 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31153404 </ResID>
+    <Type>2 </Type>
+    <SubType>12 </SubType>
+    <Quality>4 </Quality>
+    <Icon>UITexture/hero/neu_hero004/neu_hero004</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>11 </Type>
+        <Param>10000404 4320 4 15 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31153405 </ResID>
+    <Type>2 </Type>
+    <SubType>12 </SubType>
+    <Quality>4 </Quality>
+    <Icon>UITexture/hero/neu_hero005/neu_hero005</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>11 </Type>
+        <Param>10000405 4320 4 15 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31153406 </ResID>
+    <Type>2 </Type>
+    <SubType>12 </SubType>
+    <Quality>4 </Quality>
+    <Icon>UITexture/hero/neu_hero006/neu_hero006</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>11 </Type>
+        <Param>10000406 4320 4 15 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31153407 </ResID>
+    <Type>2 </Type>
+    <SubType>12 </SubType>
+    <Quality>4 </Quality>
+    <Icon>UITexture/hero/neu_hero007/neu_hero007</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>11 </Type>
+        <Param>10000407 4320 4 15 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31153408 </ResID>
+    <Type>2 </Type>
+    <SubType>12 </SubType>
+    <Quality>4 </Quality>
+    <Icon>UITexture/hero/neu_hero008/neu_hero008</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>0 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>11 </Type>
+        <Param>10000408 4320 4 15 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31153409 </ResID>
+    <Type>2 </Type>
+    <SubType>12 </SubType>
+    <Quality>4 </Quality>
+    <Icon>UITexture/hero/neu_hero009/neu_hero009</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>11 </Type>
+        <Param>10000409 4320 4 15 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31153410 </ResID>
+    <Type>2 </Type>
+    <SubType>12 </SubType>
+    <Quality>4 </Quality>
+    <Icon>UITexture/hero/neu_hero010/neu_hero010</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>11 </Type>
+        <Param>10000410 4320 4 15 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31153411 </ResID>
+    <Type>2 </Type>
+    <SubType>12 </SubType>
+    <Quality>4 </Quality>
+    <Icon>UITexture/hero/neu_hero011/neu_hero011</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>11 </Type>
+        <Param>10000411 4320 4 15 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31153413 </ResID>
+    <Type>2 </Type>
+    <SubType>12 </SubType>
+    <Quality>4 </Quality>
+    <Icon>UITexture/hero/neu_hero013/neu_hero013</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>11 </Type>
+        <Param>10000413 4320 4 15 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31153414 </ResID>
+    <Type>2 </Type>
+    <SubType>12 </SubType>
+    <Quality>4 </Quality>
+    <Icon>UITexture/hero/neu_hero014/neu_hero014</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>11 </Type>
+        <Param>10000414 4320 4 15 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31153416 </ResID>
+    <Type>2 </Type>
+    <SubType>12 </SubType>
+    <Quality>4 </Quality>
+    <Icon>UITexture/hero/neu_hero016/neu_hero016</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>11 </Type>
+        <Param>10000416 4320 4 15 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>31153417 </ResID>
+    <Type>2 </Type>
+    <SubType>12 </SubType>
+    <Quality>4 </Quality>
+    <Icon>UITexture/hero/neu_hero017/neu_hero017</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>11 </Type>
+        <Param>10000417 4320 4 15 0 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>41001002 </ResID>
+    <Type>2 </Type>
+    <SubType>13 </SubType>
+    <Quality>4 </Quality>
+    <Icon>UITexture/hero/hum_hero001/pifu/001/hum_hero001_pifu_001</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>12 </Type>
+        <Param>10000001 1001002 1440 4 5 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>41002002 </ResID>
+    <Type>2 </Type>
+    <SubType>13 </SubType>
+    <Quality>4 </Quality>
+    <Icon>UITexture/hero/hum_hero002/pifu/002/hum_hero002_pifu_002</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>12 </Type>
+        <Param>10000002 1002002 1440 4 5 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>41202002 </ResID>
+    <Type>2 </Type>
+    <SubType>13 </SubType>
+    <Quality>4 </Quality>
+    <Icon>UITexture/hero/gho_hero002/pifu/001/gho_hero002_pifu_001</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>12 </Type>
+        <Param>10000202 1202002 1440 4 5 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>41301002 </ResID>
+    <Type>2 </Type>
+    <SubType>13 </SubType>
+    <Quality>4 </Quality>
+    <Icon>UITexture/hero/elf_hero001/pifu/001/elf_hero001_pifu_001</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>12 </Type>
+        <Param>10000301 1301002 1440 4 5 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>41302002 </ResID>
+    <Type>2 </Type>
+    <SubType>13 </SubType>
+    <Quality>4 </Quality>
+    <Icon>UITexture/hero/elf_hero002/pifu/001/elf_hero002_pifu_001</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>12 </Type>
+        <Param>10000302 1302002 1440 4 5 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>41401002 </ResID>
+    <Type>2 </Type>
+    <SubType>13 </SubType>
+    <Quality>4 </Quality>
+    <Icon>UITexture/hero/neu_hero001/pifu/001/neu_hero001_pifu_001</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>12 </Type>
+        <Param>10000401 1401003 1440 4 5 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>41403002 </ResID>
+    <Type>2 </Type>
+    <SubType>13 </SubType>
+    <Quality>4 </Quality>
+    <Icon>UITexture/hero/neu_hero003/pifu/001/neu_hero003_pifu_001</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>12 </Type>
+        <Param>10000403 1403002 1440 4 5 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>41405002 </ResID>
+    <Type>2 </Type>
+    <SubType>13 </SubType>
+    <Quality>4 </Quality>
+    <Icon>UITexture/hero/neu_hero005/pifu/001/neu_hero005_pifu_001</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>12 </Type>
+        <Param>10000405 1405002 1440 4 5 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>41406002 </ResID>
+    <Type>2 </Type>
+    <SubType>13 </SubType>
+    <Quality>4 </Quality>
+    <Icon>UITexture/hero/neu_hero006/pifu/001/neu_hero006_pifu_001</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>12 </Type>
+        <Param>10000406 1406002 1440 4 5 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>41407002 </ResID>
+    <Type>2 </Type>
+    <SubType>13 </SubType>
+    <Quality>4 </Quality>
+    <Icon>UITexture/hero/neu_hero007/pifu/001/neu_hero007_pifu_001</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>12 </Type>
+        <Param>10000407 1407002 1440 4 5 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>41409002 </ResID>
+    <Type>2 </Type>
+    <SubType>13 </SubType>
+    <Quality>4 </Quality>
+    <Icon>UITexture/hero/neu_hero009/pifu/001/neu_hero009_pifu_001</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>12 </Type>
+        <Param>10000409 1409002 1440 4 5 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>41410002 </ResID>
+    <Type>2 </Type>
+    <SubType>13 </SubType>
+    <Quality>4 </Quality>
+    <Icon>UITexture/hero/neu_hero010/pifu/001/neu_hero010_pifu_001</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>12 </Type>
+        <Param>10000410 1410002 1440 4 5 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>41413002 </ResID>
+    <Type>2 </Type>
+    <SubType>13 </SubType>
+    <Quality>4 </Quality>
+    <Icon>UITexture/hero/neu_hero013/pifu/001/neu_hero013_pifu_001</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>12 </Type>
+        <Param>10000413 1413002 1440 4 5 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>41416002 </ResID>
+    <Type>2 </Type>
+    <SubType>13 </SubType>
+    <Quality>4 </Quality>
+    <Icon>UITexture/hero/neu_hero016/pifu/001/neu_hero016_pifu_001</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>12 </Type>
+        <Param>10000416 1416002 1440 4 5 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>41417002 </ResID>
+    <Type>2 </Type>
+    <SubType>13 </SubType>
+    <Quality>4 </Quality>
+    <Icon>UITexture/hero/neu_hero017/pifu/001/neu_hero017_pifu_001</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>12 </Type>
+        <Param>10000417 1417002 1440 4 5 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>43001002 </ResID>
+    <Type>2 </Type>
+    <SubType>13 </SubType>
+    <Quality>4 </Quality>
+    <Icon>UITexture/hero/hum_hero001/pifu/001/hum_hero001_pifu_001</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>12 </Type>
+        <Param>10000001 1001002 4320 4 15 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>43002002 </ResID>
+    <Type>2 </Type>
+    <SubType>13 </SubType>
+    <Quality>4 </Quality>
+    <Icon>UITexture/hero/hum_hero002/pifu/002/hum_hero002_pifu_002</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>12 </Type>
+        <Param>10000002 1002002 4320 4 15 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>43101002 </ResID>
+    <Type>2 </Type>
+    <SubType>13 </SubType>
+    <Quality>4 </Quality>
+    <Icon>UITexture/hero/orc_hero001/pifu/001/orc_hero001_pifu_001</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>12 </Type>
+        <Param>10000101 1101002 4320 4 15 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>43202002 </ResID>
+    <Type>2 </Type>
+    <SubType>13 </SubType>
+    <Quality>4 </Quality>
+    <Icon>UITexture/hero/gho_hero002/pifu/001/gho_hero002_pifu_001</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>12 </Type>
+        <Param>10000202 1202002 4320 4 15 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>43203002 </ResID>
+    <Type>2 </Type>
+    <SubType>13 </SubType>
+    <Quality>4 </Quality>
+    <Icon>UITexture/hero/gho_hero003/pifu/001/gho_hero003_pifu_001</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>12 </Type>
+        <Param>10000203 1203002 4320 4 15 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>43301002 </ResID>
+    <Type>2 </Type>
+    <SubType>13 </SubType>
+    <Quality>4 </Quality>
+    <Icon>UITexture/hero/elf_hero001/pifu/001/elf_hero001_pifu_001</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>12 </Type>
+        <Param>10000301 1301002 4320 4 15 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>43302002 </ResID>
+    <Type>2 </Type>
+    <SubType>13 </SubType>
+    <Quality>4 </Quality>
+    <Icon>UITexture/hero/elf_hero002/pifu/001/elf_hero002_pifu_001</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>12 </Type>
+        <Param>10000302 1302002 4320 4 15 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>43401002 </ResID>
+    <Type>2 </Type>
+    <SubType>13 </SubType>
+    <Quality>4 </Quality>
+    <Icon>UITexture/hero/neu_hero001/pifu/001/neu_hero001_pifu_001</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>12 </Type>
+        <Param>10000401 1401002 4320 4 15 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>43403002 </ResID>
+    <Type>2 </Type>
+    <SubType>13 </SubType>
+    <Quality>4 </Quality>
+    <Icon>UITexture/hero/neu_hero003/pifu/001/neu_hero003_pifu_001</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>12 </Type>
+        <Param>10000403 1403002 4320 4 15 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>43405002 </ResID>
+    <Type>2 </Type>
+    <SubType>13 </SubType>
+    <Quality>4 </Quality>
+    <Icon>UITexture/hero/neu_hero005/pifu/001/neu_hero005_pifu_001</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>12 </Type>
+        <Param>10000405 1405002 4320 4 15 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>43406002 </ResID>
+    <Type>2 </Type>
+    <SubType>13 </SubType>
+    <Quality>4 </Quality>
+    <Icon>UITexture/hero/neu_hero006/pifu/001/neu_hero006_pifu_001</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>12 </Type>
+        <Param>10000406 1406002 4320 4 15 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>43407002 </ResID>
+    <Type>2 </Type>
+    <SubType>13 </SubType>
+    <Quality>4 </Quality>
+    <Icon>UITexture/hero/neu_hero007/pifu/001/neu_hero007_pifu_001</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>12 </Type>
+        <Param>10000407 1407002 4320 4 15 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>43408002 </ResID>
+    <Type>2 </Type>
+    <SubType>13 </SubType>
+    <Quality>4 </Quality>
+    <Icon>UITexture/hero/neu_hero008/pifu/001/neu_hero008_pifu_001</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>12 </Type>
+        <Param>10000408 1408002 4320 4 15 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>43409002 </ResID>
+    <Type>2 </Type>
+    <SubType>13 </SubType>
+    <Quality>4 </Quality>
+    <Icon>UITexture/hero/neu_hero009/pifu/001/neu_hero009_pifu_001</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>12 </Type>
+        <Param>10000409 1409002 4320 4 15 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>43410002 </ResID>
+    <Type>2 </Type>
+    <SubType>13 </SubType>
+    <Quality>4 </Quality>
+    <Icon>UITexture/hero/neu_hero010/pifu/001/neu_hero010_pifu_001</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>12 </Type>
+        <Param>10000410 1410002 4320 4 15 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>43413002 </ResID>
+    <Type>2 </Type>
+    <SubType>13 </SubType>
+    <Quality>4 </Quality>
+    <Icon>UITexture/hero/neu_hero013/pifu/001/neu_hero013_pifu_001</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>12 </Type>
+        <Param>10000413 1413002 4320 4 15 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>43414002 </ResID>
+    <Type>2 </Type>
+    <SubType>13 </SubType>
+    <Quality>4 </Quality>
+    <Icon>UITexture/hero/neu_hero014/pifu/001/neu_hero014_pifu_001</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>12 </Type>
+        <Param>10000414 1414002 4320 4 15 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>43416002 </ResID>
+    <Type>2 </Type>
+    <SubType>13 </SubType>
+    <Quality>4 </Quality>
+    <Icon>UITexture/hero/neu_hero016/pifu/001/neu_hero016_pifu_001</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>12 </Type>
+        <Param>10000416 1416002 4320 4 15 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>43417002 </ResID>
+    <Type>2 </Type>
+    <SubType>13 </SubType>
+    <Quality>4 </Quality>
+    <Icon>UITexture/hero/neu_hero017/pifu/001/neu_hero017_pifu_001</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>12 </Type>
+        <Param>10000417 1417002 4320 4 15 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>47202002 </ResID>
+    <Type>2 </Type>
+    <SubType>13 </SubType>
+    <Quality>4 </Quality>
+    <Icon>UITexture/hero/gho_hero002/pifu/001/gho_hero002_pifu_001</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>12 </Type>
+        <Param>10000202 1202002 10080 4 35 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>47301002 </ResID>
+    <Type>2 </Type>
+    <SubType>13 </SubType>
+    <Quality>4 </Quality>
+    <Icon>UITexture/hero/elf_hero001/pifu/001/elf_hero001_pifu_001</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>12 </Type>
+        <Param>10000301 1301002 10080 4 35 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>47404002 </ResID>
+    <Type>2 </Type>
+    <SubType>13 </SubType>
+    <Quality>4 </Quality>
+    <Icon>UITexture/hero/neu_hero004/pifu/001/neu_hero004_pifu_001</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>12 </Type>
+        <Param>10000404 1404002 10080 4 35 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+<ResSystemItemDesc version="1">
+    <ResID>47410002 </ResID>
+    <Type>2 </Type>
+    <SubType>13 </SubType>
+    <Quality>4 </Quality>
+    <Icon>UITexture/hero/neu_hero010/pifu/001/neu_hero010_pifu_001</Icon>
+    <GiftIcon></GiftIcon>
+    <OpenWay>0 </OpenWay>
+    <IsSell>0 </IsSell>
+    <IsUse>1 </IsUse>
+    <Price>0 </Price>
+    <UISkipType>0 </UISkipType>
+    <Effects type="ResSystemItemEffect">
+        <Type>12 </Type>
+        <Param>10000410 1410002 10080 4 35 0 </Param>
+    </Effects>
+    <Effects type="ResSystemItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 0 0 0 0 </Param>
+    </Effects>
+</ResSystemItemDesc>
+</ResSystemItemDesc_Tab>

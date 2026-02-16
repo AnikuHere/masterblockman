@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<ResRencounterAIDesc_Tab>
+<TResHeadAll version="5">
+    <resHead type="TResHead">
+        <Magic>1397052237 </Magic>
+        <Version>6 </Version>
+        <Unit>12 </Unit>
+        <Count>45 </Count>
+        <MetalibHash>531d5b4a397ad5b3c0fbfb5cc8059e55</MetalibHash>
+        <ResVersion>0 </ResVersion>
+        <CreateTime>2023-04-19 20:42:32</CreateTime>
+        <ResEncording>UTF-8</ResEncording>
+        <ContentHash>e56814e40ea316dbb9d54b0849c23737</ContentHash>
+    </resHead>
+    <resHeadExt type="TResHeadExt">
+        <DataOffset>136 </DataOffset>
+    </resHeadExt>
+</TResHeadAll>
+<ResRencounterAIDesc version="1">
+    <DogfaceCnt>1 </DogfaceCnt>
+    <ProportionDifferVal>1 </ProportionDifferVal>
+    <AbsoluteDiffVal>2 </AbsoluteDiffVal>
+</ResRencounterAIDesc>
+<ResRencounterAIDesc version="1">
+    <DogfaceCnt>2 </DogfaceCnt>
+    <ProportionDifferVal>2 </ProportionDifferVal>
+    <AbsoluteDiffVal>3 </AbsoluteDiffVal>
+</ResRencounterAIDesc>
+<ResRencounterAIDesc version="1">
+    <DogfaceCnt>3 </DogfaceCnt>
+    <ProportionDifferVal>2 </ProportionDifferVal>
+    <AbsoluteDiffVal>3 </AbsoluteDiffVal>
+</ResRencounterAIDesc>
+<ResRencounterAIDesc version="1">
+    <DogfaceCnt>4 </DogfaceCnt>
+    <ProportionDifferVal>3 </ProportionDifferVal>
+    <AbsoluteDiffVal>3 </AbsoluteDiffVal>
+</ResRencounterAIDesc>
+<ResRencounterAIDesc version="1">
+    <DogfaceCnt>5 </DogfaceCnt>
+    <ProportionDifferVal>4 </ProportionDifferVal>
+    <AbsoluteDiffVal>4 </AbsoluteDiffVal>
+</ResRencounterAIDesc>
+<ResRencounterAIDesc version="1">
+    <DogfaceCnt>6 </DogfaceCnt>
+    <ProportionDifferVal>4 </ProportionDifferVal>
+    <AbsoluteDiffVal>4 </AbsoluteDiffVal>
+</ResRencounterAIDesc>
+<ResRencounterAIDesc version="1">
+    <DogfaceCnt>7 </DogfaceCnt>
+    <ProportionDifferVal>5 </ProportionDifferVal>
+    <AbsoluteDiffVal>4 </AbsoluteDiffVal>
+</ResRencounterAIDesc>
+<ResRencounterAIDesc version="1">
+    <DogfaceCnt>8 </DogfaceCnt>
+    <ProportionDifferVal>5 </ProportionDifferVal>
+    <AbsoluteDiffVal>4 </AbsoluteDiffVal>
+</ResRencounterAIDesc>
+<ResRencounterAIDesc version="1">
+    <DogfaceCnt>9 </DogfaceCnt>
+    <ProportionDifferVal>6 </ProportionDifferVal>
+    <AbsoluteDiffVal>5 </AbsoluteDiffVal>
+</ResRencounterAIDesc>
+<ResRencounterAIDesc version="1">
+    <DogfaceCnt>10 </DogfaceCnt>
+    <ProportionDifferVal>6 </ProportionDifferVal>
+    <AbsoluteDiffVal>5 </AbsoluteDiffVal>
+</ResRencounterAIDesc>
+<ResRencounterAIDesc version="1">
+    <DogfaceCnt>11 </DogfaceCnt>
+    <ProportionDifferVal>7 </ProportionDifferVal>
+    <AbsoluteDiffVal>5 </AbsoluteDiffVal>
+</ResRencounterAIDesc>
+<ResRencounterAIDesc version="1">
+    <DogfaceCnt>12 </DogfaceCnt>
+    <ProportionDifferVal>7 </ProportionDifferVal>
+    <AbsoluteDiffVal>5 </AbsoluteDiffVal>
+</ResRencounterAIDesc>
+<ResRencounterAIDesc version="1">
+    <DogfaceCnt>13 </DogfaceCnt>
+    <ProportionDifferVal>8 </ProportionDifferVal>
+    <AbsoluteDiffVal>6 </AbsoluteDiffVal>
+</ResRencounterAIDesc>
+<ResRencounterAIDesc version="1">
+    <DogfaceCnt>14 </DogfaceCnt>
+    <ProportionDifferVal>8 </ProportionDifferVal>
+    <AbsoluteDiffVal>6 </AbsoluteDiffVal>
+</ResRencounterAIDesc>
+<ResRencounterAIDesc version="1">
+    <DogfaceCnt>15 </DogfaceCnt>
+    <ProportionDifferVal>9 </ProportionDifferVal>
+    <AbsoluteDiffVal>6 </AbsoluteDiffVal>
+</ResRencounterAIDesc>
+<ResRencounterAIDesc version="1">
+    <DogfaceCnt>16 </DogfaceCnt>
+    <ProportionDifferVal>9 </ProportionDifferVal>
+    <AbsoluteDiffVal>6 </AbsoluteDiffVal>
+</ResRencounterAIDesc>
+<ResRencounterAIDesc version="1">
+    <DogfaceCnt>17 </DogfaceCnt>
+    <ProportionDifferVal>10 </ProportionDifferVal>
+    <AbsoluteDiffVal>6 </AbsoluteDiffVal>
+</ResRencounterAIDesc>
+<ResRencounterAIDesc version="1">
+    <DogfaceCnt>18 </DogfaceCnt>
+    <ProportionDifferVal>10 </ProportionDifferVal>
+    <AbsoluteDiffVal>7 </AbsoluteDiffVal>
+</ResRencounterAIDesc>
+<ResRencounterAIDesc version="1">
+    <DogfaceCnt>19 </DogfaceCnt>
+    <ProportionDifferVal>11 </ProportionDifferVal>
+    <AbsoluteDiffVal>7 </AbsoluteDiffVal>
+</ResRencounterAIDesc>
+<ResRencounterAIDesc version="1">
+    <DogfaceCnt>20 </DogfaceCnt>
+    <ProportionDifferVal>11 </ProportionDifferVal>
+    <AbsoluteDiffVal>7 </AbsoluteDiffVal>
+</ResRencounterAIDesc>
+<ResRencounterAIDesc version="1">
+    <DogfaceCnt>21 </DogfaceCnt>
+    <ProportionDifferVal>11 </ProportionDifferVal>
+    <AbsoluteDiffVal>7 </AbsoluteDiffVal>
+</ResRencounterAIDesc>
+<ResRencounterAIDesc version="1">
+    <DogfaceCnt>22 </DogfaceCnt>
+    <ProportionDifferVal>12 </ProportionDifferVal>
+    <AbsoluteDiffVal>7 </AbsoluteDiffVal>
+</ResRencounterAIDesc>
+<ResRencounterAIDesc version="1">
+    <DogfaceCnt>23 </DogfaceCnt>
+    <ProportionDifferVal>12 </ProportionDifferVal>
+    <AbsoluteDiffVal>8 </AbsoluteDiffVal>
+</ResRencounterAIDesc>
+<ResRencounterAIDesc version="1">
+    <DogfaceCnt>24 </DogfaceCnt>
+    <ProportionDifferVal>13 </ProportionDifferVal>
+    <AbsoluteDiffVal>8 </AbsoluteDiffVal>
+</ResRencounterAIDesc>
+<ResRencounterAIDesc version="1">
+    <DogfaceCnt>25 </DogfaceCnt>
+    <ProportionDifferVal>13 </ProportionDifferVal>
+    <AbsoluteDiffVal>8 </AbsoluteDiffVal>
+</ResRencounterAIDesc>
+<ResRencounterAIDesc version="1">
+    <DogfaceCnt>26 </DogfaceCnt>
+    <ProportionDifferVal>14 </ProportionDifferVal>
+    <AbsoluteDiffVal>8 </AbsoluteDiffVal>
+</ResRencounterAIDesc>
+<ResRencounterAIDesc version="1">
+    <DogfaceCnt>27 </DogfaceCnt>
+    <ProportionDifferVal>14 </ProportionDifferVal>
+    <AbsoluteDiffVal>8 </AbsoluteDiffVal>
+</ResRencounterAIDesc>
+<ResRencounterAIDesc version="1">
+    <DogfaceCnt>28 </DogfaceCnt>
+    <ProportionDifferVal>14 </ProportionDifferVal>
+    <AbsoluteDiffVal>8 </AbsoluteDiffVal>
+</ResRencounterAIDesc>
+<ResRencounterAIDesc version="1">
+    <DogfaceCnt>29 </DogfaceCnt>
+    <ProportionDifferVal>15 </ProportionDifferVal>
+    <AbsoluteDiffVal>9 </AbsoluteDiffVal>
+</ResRencounterAIDesc>
+<ResRencounterAIDesc version="1">
+    <DogfaceCnt>30 </DogfaceCnt>
+    <ProportionDifferVal>15 </ProportionDifferVal>
+    <AbsoluteDiffVal>9 </AbsoluteDiffVal>
+</ResRencounterAIDesc>
+<ResRencounterAIDesc version="1">
+    <DogfaceCnt>31 </DogfaceCnt>
+    <ProportionDifferVal>16 </ProportionDifferVal>
+    <AbsoluteDiffVal>9 </AbsoluteDiffVal>
+</ResRencounterAIDesc>
+<ResRencounterAIDesc version="1">
+    <DogfaceCnt>32 </DogfaceCnt>
+    <ProportionDifferVal>16 </ProportionDifferVal>
+    <AbsoluteDiffVal>9 </AbsoluteDiffVal>
+</ResRencounterAIDesc>
+<ResRencounterAIDesc version="1">
+    <DogfaceCnt>33 </DogfaceCnt>
+    <ProportionDifferVal>16 </ProportionDifferVal>
+    <AbsoluteDiffVal>9 </AbsoluteDiffVal>
+</ResRencounterAIDesc>
+<ResRencounterAIDesc version="1">
+    <DogfaceCnt>34 </DogfaceCnt>
+    <ProportionDifferVal>17 </ProportionDifferVal>
+    <AbsoluteDiffVal>9 </AbsoluteDiffVal>
+</ResRencounterAIDesc>
+<ResRencounterAIDesc version="1">
+    <DogfaceCnt>35 </DogfaceCnt>
+    <ProportionDifferVal>17 </ProportionDifferVal>
+    <AbsoluteDiffVal>9 </AbsoluteDiffVal>
+</ResRencounterAIDesc>
+<ResRencounterAIDesc version="1">
+    <DogfaceCnt>36 </DogfaceCnt>
+    <ProportionDifferVal>18 </ProportionDifferVal>
+    <AbsoluteDiffVal>10 </AbsoluteDiffVal>
+</ResRencounterAIDesc>
+<ResRencounterAIDesc version="1">
+    <DogfaceCnt>37 </DogfaceCnt>
+    <ProportionDifferVal>18 </ProportionDifferVal>
+    <AbsoluteDiffVal>10 </AbsoluteDiffVal>
+</ResRencounterAIDesc>
+<ResRencounterAIDesc version="1">
+    <DogfaceCnt>38 </DogfaceCnt>
+    <ProportionDifferVal>18 </ProportionDifferVal>
+    <AbsoluteDiffVal>10 </AbsoluteDiffVal>
+</ResRencounterAIDesc>
+<ResRencounterAIDesc version="1">
+    <DogfaceCnt>39 </DogfaceCnt>
+    <ProportionDifferVal>19 </ProportionDifferVal>
+    <AbsoluteDiffVal>10 </AbsoluteDiffVal>
+</ResRencounterAIDesc>
+<ResRencounterAIDesc version="1">
+    <DogfaceCnt>40 </DogfaceCnt>
+    <ProportionDifferVal>19 </ProportionDifferVal>
+    <AbsoluteDiffVal>10 </AbsoluteDiffVal>
+</ResRencounterAIDesc>
+<ResRencounterAIDesc version="1">
+    <DogfaceCnt>41 </DogfaceCnt>
+    <ProportionDifferVal>20 </ProportionDifferVal>
+    <AbsoluteDiffVal>10 </AbsoluteDiffVal>
+</ResRencounterAIDesc>
+<ResRencounterAIDesc version="1">
+    <DogfaceCnt>42 </DogfaceCnt>
+    <ProportionDifferVal>20 </ProportionDifferVal>
+    <AbsoluteDiffVal>10 </AbsoluteDiffVal>
+</ResRencounterAIDesc>
+<ResRencounterAIDesc version="1">
+    <DogfaceCnt>43 </DogfaceCnt>
+    <ProportionDifferVal>20 </ProportionDifferVal>
+    <AbsoluteDiffVal>11 </AbsoluteDiffVal>
+</ResRencounterAIDesc>
+<ResRencounterAIDesc version="1">
+    <DogfaceCnt>44 </DogfaceCnt>
+    <ProportionDifferVal>21 </ProportionDifferVal>
+    <AbsoluteDiffVal>11 </AbsoluteDiffVal>
+</ResRencounterAIDesc>
+<ResRencounterAIDesc version="1">
+    <DogfaceCnt>45 </DogfaceCnt>
+    <ProportionDifferVal>21 </ProportionDifferVal>
+    <AbsoluteDiffVal>11 </AbsoluteDiffVal>
+</ResRencounterAIDesc>
+</ResRencounterAIDesc_Tab>

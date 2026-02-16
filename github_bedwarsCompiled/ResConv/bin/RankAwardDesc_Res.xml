@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<ResRankAwardDesc_Tab>
+<TResHeadAll version="5">
+    <resHead type="TResHead">
+        <Magic>1397052237 </Magic>
+        <Version>6 </Version>
+        <Unit>17 </Unit>
+        <Count>5 </Count>
+        <MetalibHash>531d5b4a397ad5b3c0fbfb5cc8059e55</MetalibHash>
+        <ResVersion>0 </ResVersion>
+        <CreateTime>2023-04-19 20:42:34</CreateTime>
+        <ResEncording>UTF-8</ResEncording>
+        <ContentHash>d3e39f15f7f1a3425f0f68a20613f94c</ContentHash>
+    </resHead>
+    <resHeadExt type="TResHeadExt">
+        <DataOffset>136 </DataOffset>
+    </resHeadExt>
+</TResHeadAll>
+<ResRankAwardDesc version="1">
+    <ID>1 </ID>
+    <RankLevel>7 </RankLevel>
+    <WinCount>10 </WinCount>
+    <AwardItemID>0 </AwardItemID>
+    <AwardItemNum>0 </AwardItemNum>
+</ResRankAwardDesc>
+<ResRankAwardDesc version="1">
+    <ID>2 </ID>
+    <RankLevel>7 </RankLevel>
+    <WinCount>10 </WinCount>
+    <AwardItemID>0 </AwardItemID>
+    <AwardItemNum>0 </AwardItemNum>
+</ResRankAwardDesc>
+<ResRankAwardDesc version="1">
+    <ID>3 </ID>
+    <RankLevel>7 </RankLevel>
+    <WinCount>2 </WinCount>
+    <AwardItemID>0 </AwardItemID>
+    <AwardItemNum>0 </AwardItemNum>
+</ResRankAwardDesc>
+<ResRankAwardDesc version="1">
+    <ID>4 </ID>
+    <RankLevel>7 </RankLevel>
+    <WinCount>10 </WinCount>
+    <AwardItemID>31141012 </AwardItemID>
+    <AwardItemNum>1 </AwardItemNum>
+</ResRankAwardDesc>
+<ResRankAwardDesc version="1">
+    <ID>5 </ID>
+    <RankLevel>7 </RankLevel>
+    <WinCount>10 </WinCount>
+    <AwardItemID>31141012 </AwardItemID>
+    <AwardItemNum>1 </AwardItemNum>
+</ResRankAwardDesc>
+</ResRankAwardDesc_Tab>

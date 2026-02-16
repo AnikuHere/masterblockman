@@ -1,0 +1,459 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<ResMobaAttrUp_Tab>
+<TResHeadAll version="5">
+    <resHead type="TResHead">
+        <Magic>1397052237 </Magic>
+        <Version>6 </Version>
+        <Unit>52 </Unit>
+        <Count>20 </Count>
+        <MetalibHash>531d5b4a397ad5b3c0fbfb5cc8059e55</MetalibHash>
+        <ResVersion>0 </ResVersion>
+        <CreateTime>2023-04-19 20:42:30</CreateTime>
+        <ResEncording>UTF-8</ResEncording>
+        <ContentHash>5333f179b4fc99c81d5e8758f6eccd2e</ContentHash>
+    </resHead>
+    <resHeadExt type="TResHeadExt">
+        <DataOffset>136 </DataOffset>
+    </resHeadExt>
+</TResHeadAll>
+<ResMobaAttrUp version="1">
+    <ResID>20000901 </ResID>
+    <DelayTime>0 </DelayTime>
+    <Period>60000 </Period>
+    <MaxLayer>30 </MaxLayer>
+    <AttrList type="ResMobaAttrUpAttr">
+        <Type>2 </Type>
+        <Params>1 144 </Params>
+    </AttrList>
+    <AttrList type="ResMobaAttrUpAttr">
+        <Type>8 </Type>
+        <Params>1 4 </Params>
+    </AttrList>
+    <AttrList type="ResMobaAttrUpAttr">
+        <Type>0 </Type>
+        <Params>0 0 </Params>
+    </AttrList>
+    <AttrList type="ResMobaAttrUpAttr">
+        <Type>0 </Type>
+        <Params>0 0 </Params>
+    </AttrList>
+</ResMobaAttrUp>
+<ResMobaAttrUp version="1">
+    <ResID>20000902 </ResID>
+    <DelayTime>0 </DelayTime>
+    <Period>60000 </Period>
+    <MaxLayer>30 </MaxLayer>
+    <AttrList type="ResMobaAttrUpAttr">
+        <Type>2 </Type>
+        <Params>1 180 </Params>
+    </AttrList>
+    <AttrList type="ResMobaAttrUpAttr">
+        <Type>8 </Type>
+        <Params>1 4 </Params>
+    </AttrList>
+    <AttrList type="ResMobaAttrUpAttr">
+        <Type>0 </Type>
+        <Params>0 0 </Params>
+    </AttrList>
+    <AttrList type="ResMobaAttrUpAttr">
+        <Type>0 </Type>
+        <Params>0 0 </Params>
+    </AttrList>
+</ResMobaAttrUp>
+<ResMobaAttrUp version="1">
+    <ResID>20000903 </ResID>
+    <DelayTime>0 </DelayTime>
+    <Period>60000 </Period>
+    <MaxLayer>30 </MaxLayer>
+    <AttrList type="ResMobaAttrUpAttr">
+        <Type>2 </Type>
+        <Params>1 240 </Params>
+    </AttrList>
+    <AttrList type="ResMobaAttrUpAttr">
+        <Type>8 </Type>
+        <Params>1 4 </Params>
+    </AttrList>
+    <AttrList type="ResMobaAttrUpAttr">
+        <Type>0 </Type>
+        <Params>0 0 </Params>
+    </AttrList>
+    <AttrList type="ResMobaAttrUpAttr">
+        <Type>0 </Type>
+        <Params>0 0 </Params>
+    </AttrList>
+</ResMobaAttrUp>
+<ResMobaAttrUp version="1">
+    <ResID>20000904 </ResID>
+    <DelayTime>0 </DelayTime>
+    <Period>60000 </Period>
+    <MaxLayer>30 </MaxLayer>
+    <AttrList type="ResMobaAttrUpAttr">
+        <Type>2 </Type>
+        <Params>1 285 </Params>
+    </AttrList>
+    <AttrList type="ResMobaAttrUpAttr">
+        <Type>8 </Type>
+        <Params>1 6 </Params>
+    </AttrList>
+    <AttrList type="ResMobaAttrUpAttr">
+        <Type>0 </Type>
+        <Params>0 0 </Params>
+    </AttrList>
+    <AttrList type="ResMobaAttrUpAttr">
+        <Type>0 </Type>
+        <Params>0 0 </Params>
+    </AttrList>
+</ResMobaAttrUp>
+<ResMobaAttrUp version="1">
+    <ResID>20000905 </ResID>
+    <DelayTime>0 </DelayTime>
+    <Period>60000 </Period>
+    <MaxLayer>30 </MaxLayer>
+    <AttrList type="ResMobaAttrUpAttr">
+        <Type>2 </Type>
+        <Params>1 510 </Params>
+    </AttrList>
+    <AttrList type="ResMobaAttrUpAttr">
+        <Type>8 </Type>
+        <Params>1 6 </Params>
+    </AttrList>
+    <AttrList type="ResMobaAttrUpAttr">
+        <Type>0 </Type>
+        <Params>0 0 </Params>
+    </AttrList>
+    <AttrList type="ResMobaAttrUpAttr">
+        <Type>0 </Type>
+        <Params>0 0 </Params>
+    </AttrList>
+</ResMobaAttrUp>
+<ResMobaAttrUp version="1">
+    <ResID>20000906 </ResID>
+    <DelayTime>0 </DelayTime>
+    <Period>60000 </Period>
+    <MaxLayer>30 </MaxLayer>
+    <AttrList type="ResMobaAttrUpAttr">
+        <Type>2 </Type>
+        <Params>1 1250 </Params>
+    </AttrList>
+    <AttrList type="ResMobaAttrUpAttr">
+        <Type>8 </Type>
+        <Params>1 40 </Params>
+    </AttrList>
+    <AttrList type="ResMobaAttrUpAttr">
+        <Type>0 </Type>
+        <Params>0 0 </Params>
+    </AttrList>
+    <AttrList type="ResMobaAttrUpAttr">
+        <Type>0 </Type>
+        <Params>0 0 </Params>
+    </AttrList>
+</ResMobaAttrUp>
+<ResMobaAttrUp version="1">
+    <ResID>20000907 </ResID>
+    <DelayTime>0 </DelayTime>
+    <Period>60000 </Period>
+    <MaxLayer>30 </MaxLayer>
+    <AttrList type="ResMobaAttrUpAttr">
+        <Type>2 </Type>
+        <Params>1 144 </Params>
+    </AttrList>
+    <AttrList type="ResMobaAttrUpAttr">
+        <Type>8 </Type>
+        <Params>1 4 </Params>
+    </AttrList>
+    <AttrList type="ResMobaAttrUpAttr">
+        <Type>0 </Type>
+        <Params>0 0 </Params>
+    </AttrList>
+    <AttrList type="ResMobaAttrUpAttr">
+        <Type>0 </Type>
+        <Params>0 0 </Params>
+    </AttrList>
+</ResMobaAttrUp>
+<ResMobaAttrUp version="1">
+    <ResID>20000908 </ResID>
+    <DelayTime>0 </DelayTime>
+    <Period>60000 </Period>
+    <MaxLayer>30 </MaxLayer>
+    <AttrList type="ResMobaAttrUpAttr">
+        <Type>2 </Type>
+        <Params>1 180 </Params>
+    </AttrList>
+    <AttrList type="ResMobaAttrUpAttr">
+        <Type>8 </Type>
+        <Params>1 4 </Params>
+    </AttrList>
+    <AttrList type="ResMobaAttrUpAttr">
+        <Type>0 </Type>
+        <Params>0 0 </Params>
+    </AttrList>
+    <AttrList type="ResMobaAttrUpAttr">
+        <Type>0 </Type>
+        <Params>0 0 </Params>
+    </AttrList>
+</ResMobaAttrUp>
+<ResMobaAttrUp version="1">
+    <ResID>20000909 </ResID>
+    <DelayTime>0 </DelayTime>
+    <Period>60000 </Period>
+    <MaxLayer>30 </MaxLayer>
+    <AttrList type="ResMobaAttrUpAttr">
+        <Type>2 </Type>
+        <Params>1 192 </Params>
+    </AttrList>
+    <AttrList type="ResMobaAttrUpAttr">
+        <Type>8 </Type>
+        <Params>1 4 </Params>
+    </AttrList>
+    <AttrList type="ResMobaAttrUpAttr">
+        <Type>0 </Type>
+        <Params>0 0 </Params>
+    </AttrList>
+    <AttrList type="ResMobaAttrUpAttr">
+        <Type>0 </Type>
+        <Params>0 0 </Params>
+    </AttrList>
+</ResMobaAttrUp>
+<ResMobaAttrUp version="1">
+    <ResID>20000910 </ResID>
+    <DelayTime>0 </DelayTime>
+    <Period>60000 </Period>
+    <MaxLayer>30 </MaxLayer>
+    <AttrList type="ResMobaAttrUpAttr">
+        <Type>2 </Type>
+        <Params>1 270 </Params>
+    </AttrList>
+    <AttrList type="ResMobaAttrUpAttr">
+        <Type>8 </Type>
+        <Params>1 6 </Params>
+    </AttrList>
+    <AttrList type="ResMobaAttrUpAttr">
+        <Type>0 </Type>
+        <Params>0 0 </Params>
+    </AttrList>
+    <AttrList type="ResMobaAttrUpAttr">
+        <Type>0 </Type>
+        <Params>0 0 </Params>
+    </AttrList>
+</ResMobaAttrUp>
+<ResMobaAttrUp version="1">
+    <ResID>20000911 </ResID>
+    <DelayTime>0 </DelayTime>
+    <Period>60000 </Period>
+    <MaxLayer>30 </MaxLayer>
+    <AttrList type="ResMobaAttrUpAttr">
+        <Type>2 </Type>
+        <Params>1 360 </Params>
+    </AttrList>
+    <AttrList type="ResMobaAttrUpAttr">
+        <Type>8 </Type>
+        <Params>1 6 </Params>
+    </AttrList>
+    <AttrList type="ResMobaAttrUpAttr">
+        <Type>0 </Type>
+        <Params>0 0 </Params>
+    </AttrList>
+    <AttrList type="ResMobaAttrUpAttr">
+        <Type>0 </Type>
+        <Params>0 0 </Params>
+    </AttrList>
+</ResMobaAttrUp>
+<ResMobaAttrUp version="1">
+    <ResID>20000912 </ResID>
+    <DelayTime>0 </DelayTime>
+    <Period>60000 </Period>
+    <MaxLayer>30 </MaxLayer>
+    <AttrList type="ResMobaAttrUpAttr">
+        <Type>2 </Type>
+        <Params>1 600 </Params>
+    </AttrList>
+    <AttrList type="ResMobaAttrUpAttr">
+        <Type>8 </Type>
+        <Params>1 8 </Params>
+    </AttrList>
+    <AttrList type="ResMobaAttrUpAttr">
+        <Type>0 </Type>
+        <Params>0 0 </Params>
+    </AttrList>
+    <AttrList type="ResMobaAttrUpAttr">
+        <Type>0 </Type>
+        <Params>0 0 </Params>
+    </AttrList>
+</ResMobaAttrUp>
+<ResMobaAttrUp version="1">
+    <ResID>20000913 </ResID>
+    <DelayTime>0 </DelayTime>
+    <Period>60000 </Period>
+    <MaxLayer>30 </MaxLayer>
+    <AttrList type="ResMobaAttrUpAttr">
+        <Type>2 </Type>
+        <Params>1 600 </Params>
+    </AttrList>
+    <AttrList type="ResMobaAttrUpAttr">
+        <Type>8 </Type>
+        <Params>1 30 </Params>
+    </AttrList>
+    <AttrList type="ResMobaAttrUpAttr">
+        <Type>0 </Type>
+        <Params>0 0 </Params>
+    </AttrList>
+    <AttrList type="ResMobaAttrUpAttr">
+        <Type>0 </Type>
+        <Params>0 0 </Params>
+    </AttrList>
+</ResMobaAttrUp>
+<ResMobaAttrUp version="1">
+    <ResID>20000914 </ResID>
+    <DelayTime>0 </DelayTime>
+    <Period>60000 </Period>
+    <MaxLayer>30 </MaxLayer>
+    <AttrList type="ResMobaAttrUpAttr">
+        <Type>2 </Type>
+        <Params>1 900 </Params>
+    </AttrList>
+    <AttrList type="ResMobaAttrUpAttr">
+        <Type>8 </Type>
+        <Params>1 30 </Params>
+    </AttrList>
+    <AttrList type="ResMobaAttrUpAttr">
+        <Type>0 </Type>
+        <Params>0 0 </Params>
+    </AttrList>
+    <AttrList type="ResMobaAttrUpAttr">
+        <Type>0 </Type>
+        <Params>0 0 </Params>
+    </AttrList>
+</ResMobaAttrUp>
+<ResMobaAttrUp version="1">
+    <ResID>20000915 </ResID>
+    <DelayTime>0 </DelayTime>
+    <Period>60000 </Period>
+    <MaxLayer>30 </MaxLayer>
+    <AttrList type="ResMobaAttrUpAttr">
+        <Type>2 </Type>
+        <Params>1 330 </Params>
+    </AttrList>
+    <AttrList type="ResMobaAttrUpAttr">
+        <Type>8 </Type>
+        <Params>1 15 </Params>
+    </AttrList>
+    <AttrList type="ResMobaAttrUpAttr">
+        <Type>0 </Type>
+        <Params>0 0 </Params>
+    </AttrList>
+    <AttrList type="ResMobaAttrUpAttr">
+        <Type>0 </Type>
+        <Params>0 0 </Params>
+    </AttrList>
+</ResMobaAttrUp>
+<ResMobaAttrUp version="1">
+    <ResID>20000916 </ResID>
+    <DelayTime>0 </DelayTime>
+    <Period>60000 </Period>
+    <MaxLayer>30 </MaxLayer>
+    <AttrList type="ResMobaAttrUpAttr">
+        <Type>2 </Type>
+        <Params>1 360 </Params>
+    </AttrList>
+    <AttrList type="ResMobaAttrUpAttr">
+        <Type>8 </Type>
+        <Params>1 6 </Params>
+    </AttrList>
+    <AttrList type="ResMobaAttrUpAttr">
+        <Type>0 </Type>
+        <Params>0 0 </Params>
+    </AttrList>
+    <AttrList type="ResMobaAttrUpAttr">
+        <Type>0 </Type>
+        <Params>0 0 </Params>
+    </AttrList>
+</ResMobaAttrUp>
+<ResMobaAttrUp version="1">
+    <ResID>20000917 </ResID>
+    <DelayTime>0 </DelayTime>
+    <Period>60000 </Period>
+    <MaxLayer>30 </MaxLayer>
+    <AttrList type="ResMobaAttrUpAttr">
+        <Type>2 </Type>
+        <Params>1 600 </Params>
+    </AttrList>
+    <AttrList type="ResMobaAttrUpAttr">
+        <Type>8 </Type>
+        <Params>1 8 </Params>
+    </AttrList>
+    <AttrList type="ResMobaAttrUpAttr">
+        <Type>0 </Type>
+        <Params>0 0 </Params>
+    </AttrList>
+    <AttrList type="ResMobaAttrUpAttr">
+        <Type>0 </Type>
+        <Params>0 0 </Params>
+    </AttrList>
+</ResMobaAttrUp>
+<ResMobaAttrUp version="1">
+    <ResID>20000919 </ResID>
+    <DelayTime>0 </DelayTime>
+    <Period>60000 </Period>
+    <MaxLayer>30 </MaxLayer>
+    <AttrList type="ResMobaAttrUpAttr">
+        <Type>2 </Type>
+        <Params>1 600 </Params>
+    </AttrList>
+    <AttrList type="ResMobaAttrUpAttr">
+        <Type>8 </Type>
+        <Params>1 30 </Params>
+    </AttrList>
+    <AttrList type="ResMobaAttrUpAttr">
+        <Type>0 </Type>
+        <Params>0 0 </Params>
+    </AttrList>
+    <AttrList type="ResMobaAttrUpAttr">
+        <Type>0 </Type>
+        <Params>0 0 </Params>
+    </AttrList>
+</ResMobaAttrUp>
+<ResMobaAttrUp version="1">
+    <ResID>20000920 </ResID>
+    <DelayTime>0 </DelayTime>
+    <Period>60000 </Period>
+    <MaxLayer>30 </MaxLayer>
+    <AttrList type="ResMobaAttrUpAttr">
+        <Type>2 </Type>
+        <Params>1 1250 </Params>
+    </AttrList>
+    <AttrList type="ResMobaAttrUpAttr">
+        <Type>8 </Type>
+        <Params>1 40 </Params>
+    </AttrList>
+    <AttrList type="ResMobaAttrUpAttr">
+        <Type>0 </Type>
+        <Params>0 0 </Params>
+    </AttrList>
+    <AttrList type="ResMobaAttrUpAttr">
+        <Type>0 </Type>
+        <Params>0 0 </Params>
+    </AttrList>
+</ResMobaAttrUp>
+<ResMobaAttrUp version="1">
+    <ResID>20000921 </ResID>
+    <DelayTime>0 </DelayTime>
+    <Period>60000 </Period>
+    <MaxLayer>30 </MaxLayer>
+    <AttrList type="ResMobaAttrUpAttr">
+        <Type>2 </Type>
+        <Params>1 600 </Params>
+    </AttrList>
+    <AttrList type="ResMobaAttrUpAttr">
+        <Type>8 </Type>
+        <Params>1 30 </Params>
+    </AttrList>
+    <AttrList type="ResMobaAttrUpAttr">
+        <Type>0 </Type>
+        <Params>0 0 </Params>
+    </AttrList>
+    <AttrList type="ResMobaAttrUpAttr">
+        <Type>0 </Type>
+        <Params>0 0 </Params>
+    </AttrList>
+</ResMobaAttrUp>
+</ResMobaAttrUp_Tab>

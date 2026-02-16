@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<ResPseudoRandomDesc_Tab>
+<TResHeadAll version="5">
+    <resHead type="TResHead">
+        <Magic>1397052237 </Magic>
+        <Version>6 </Version>
+        <Unit>8 </Unit>
+        <Count>101 </Count>
+        <MetalibHash>531d5b4a397ad5b3c0fbfb5cc8059e55</MetalibHash>
+        <ResVersion>0 </ResVersion>
+        <CreateTime>2023-04-19 20:42:30</CreateTime>
+        <ResEncording>UTF-8</ResEncording>
+        <ContentHash>0ba8d1b709fb5155bfc42197cf542a82</ContentHash>
+    </resHead>
+    <resHeadExt type="TResHeadExt">
+        <DataOffset>136 </DataOffset>
+    </resHeadExt>
+</TResHeadAll>
+<ResPseudoRandomDesc version="1">
+    <Probability>0 </Probability>
+    <ParamC>0 </ParamC>
+</ResPseudoRandomDesc>
+<ResPseudoRandomDesc version="1">
+    <Probability>1 </Probability>
+    <ParamC>2 </ParamC>
+</ResPseudoRandomDesc>
+<ResPseudoRandomDesc version="1">
+    <Probability>2 </Probability>
+    <ParamC>6 </ParamC>
+</ResPseudoRandomDesc>
+<ResPseudoRandomDesc version="1">
+    <Probability>3 </Probability>
+    <ParamC>14 </ParamC>
+</ResPseudoRandomDesc>
+<ResPseudoRandomDesc version="1">
+    <Probability>4 </Probability>
+    <ParamC>24 </ParamC>
+</ResPseudoRandomDesc>
+<ResPseudoRandomDesc version="1">
+    <Probability>5 </Probability>
+    <ParamC>38 </ParamC>
+</ResPseudoRandomDesc>
+<ResPseudoRandomDesc version="1">
+    <Probability>6 </Probability>
+    <ParamC>54 </ParamC>
+</ResPseudoRandomDesc>
+<ResPseudoRandomDesc version="1">
+    <Probability>7 </Probability>
+    <ParamC>74 </ParamC>
+</ResPseudoRandomDesc>
+<ResPseudoRandomDesc version="1">
+    <Probability>8 </Probability>
+    <ParamC>96 </ParamC>
+</ResPseudoRandomDesc>
+<ResPseudoRandomDesc version="1">
+    <Probability>9 </Probability>
+    <ParamC>120 </ParamC>
+</ResPseudoRandomDesc>
+<ResPseudoRandomDesc version="1">
+    <Probability>10 </Probability>
+    <ParamC>148 </ParamC>
+</ResPseudoRandomDesc>
+<ResPseudoRandomDesc version="1">
+    <Probability>11 </Probability>
+    <ParamC>177 </ParamC>
+</ResPseudoRandomDesc>
+<ResPseudoRandomDesc version="1">
+    <Probability>12 </Probability>
+    <ParamC>210 </ParamC>
+</ResPseudoRandomDesc>
+<ResPseudoRandomDesc version="1">
+    <Probability>13 </Probability>
+    <ParamC>245 </ParamC>
+</ResPseudoRandomDesc>
+<ResPseudoRandomDesc version="1">
+    <Probability>14 </Probability>
+    <ParamC>282 </ParamC>
+</ResPseudoRandomDesc>
+<ResPseudoRandomDesc version="1">
+    <Probability>15 </Probability>
+    <ParamC>322 </ParamC>
+</ResPseudoRandomDesc>
+<ResPseudoRandomDesc version="1">
+    <Probability>16 </Probability>
+    <ParamC>365 </ParamC>
+</ResPseudoRandomDesc>
+<ResPseudoRandomDesc version="1">
+    <Probability>17 </Probability>
+    <ParamC>409 </ParamC>
+</ResPseudoRandomDesc>
+<ResPseudoRandomDesc version="1">
+    <Probability>18 </Probability>
+    <ParamC>456 </ParamC>
+</ResPseudoRandomDesc>
+<ResPseudoRandomDesc version="1">
+    <Probability>19 </Probability>
+    <ParamC>505 </ParamC>
+</ResPseudoRandomDesc>
+<ResPseudoRandomDesc version="1">
+    <Probability>20 </Probability>
+    <ParamC>557 </ParamC>
+</ResPseudoRandomDesc>
+<ResPseudoRandomDesc version="1">
+    <Probability>21 </Probability>
+    <ParamC>611 </ParamC>
+</ResPseudoRandomDesc>
+<ResPseudoRandomDesc version="1">
+    <Probability>22 </Probability>
+    <ParamC>667 </ParamC>
+</ResPseudoRandomDesc>
+<ResPseudoRandomDesc version="1">
+    <Probability>23 </Probability>
+    <ParamC>725 </ParamC>
+</ResPseudoRandomDesc>
+<ResPseudoRandomDesc version="1">
+    <Probability>24 </Probability>
+    <ParamC>785 </ParamC>
+</ResPseudoRandomDesc>
+<ResPseudoRandomDesc version="1">
+    <Probability>25 </Probability>
+    <ParamC>848 </ParamC>
+</ResPseudoRandomDesc>
+<ResPseudoRandomDesc version="1">
+    <Probability>26 </Probability>
+    <ParamC>911 </ParamC>
+</ResPseudoRandomDesc>
+<ResPseudoRandomDesc version="1">
+    <Probability>27 </Probability>
+    <ParamC>979 </ParamC>
+</ResPseudoRandomDesc>
+<ResPseudoRandomDesc version="1">
+    <Probability>28 </Probability>
+    <ParamC>1047 </ParamC>
+</ResPseudoRandomDesc>
+<ResPseudoRandomDesc version="1">
+    <Probability>29 </Probability>
+    <ParamC>1116 </ParamC>
+</ResPseudoRandomDesc>
+<ResPseudoRandomDesc version="1">
+    <Probability>30 </Probability>
+    <ParamC>1190 </ParamC>
+</ResPseudoRandomDesc>
+<ResPseudoRandomDesc version="1">
+    <Probability>31 </Probability>
+    <ParamC>1463 </ParamC>
+</ResPseudoRandomDesc>
+<ResPseudoRandomDesc version="1">
+    <Probability>32 </Probability>
+    <ParamC>1463 </ParamC>
+</ResPseudoRandomDesc>
+<ResPseudoRandomDesc version="1">
+    <Probability>33 </Probability>
+    <ParamC>1463 </ParamC>
+</ResPseudoRandomDesc>
+<ResPseudoRandomDesc version="1">
+    <Probability>34 </Probability>
+    <ParamC>1463 </ParamC>
+</ResPseudoRandomDesc>
+<ResPseudoRandomDesc version="1">
+    <Probability>35 </Probability>
+    <ParamC>1463 </ParamC>
+</ResPseudoRandomDesc>
+<ResPseudoRandomDesc version="1">
+    <Probability>36 </Probability>
+    <ParamC>1813 </ParamC>
+</ResPseudoRandomDesc>
+<ResPseudoRandomDesc version="1">
+    <Probability>37 </Probability>
+    <ParamC>1813 </ParamC>
+</ResPseudoRandomDesc>
+<ResPseudoRandomDesc version="1">
+    <Probability>38 </Probability>
+    <ParamC>1813 </ParamC>
+</ResPseudoRandomDesc>
+<ResPseudoRandomDesc version="1">
+    <Probability>39 </Probability>
+    <ParamC>1813 </ParamC>
+</ResPseudoRandomDesc>
+<ResPseudoRandomDesc version="1">
+    <Probability>40 </Probability>
+    <ParamC>1813 </ParamC>
+</ResPseudoRandomDesc>
+<ResPseudoRandomDesc version="1">
+    <Probability>41 </Probability>
+    <ParamC>2187 </ParamC>
+</ResPseudoRandomDesc>
+<ResPseudoRandomDesc version="1">
+    <Probability>42 </Probability>
+    <ParamC>2187 </ParamC>
+</ResPseudoRandomDesc>
+<ResPseudoRandomDesc version="1">
+    <Probability>43 </Probability>
+    <ParamC>2187 </ParamC>
+</ResPseudoRandomDesc>
+<ResPseudoRandomDesc version="1">
+    <Probability>44 </Probability>
+    <ParamC>2187 </ParamC>
+</ResPseudoRandomDesc>
+<ResPseudoRandomDesc version="1">
+    <Probability>45 </Probability>
+    <ParamC>2187 </ParamC>
+</ResPseudoRandomDesc>
+<ResPseudoRandomDesc version="1">
+    <Probability>46 </Probability>
+    <ParamC>2570 </ParamC>
+</ResPseudoRandomDesc>
+<ResPseudoRandomDesc version="1">
+    <Probability>47 </Probability>
+    <ParamC>2570 </ParamC>
+</ResPseudoRandomDesc>
+<ResPseudoRandomDesc version="1">
+    <Probability>48 </Probability>
+    <ParamC>2570 </ParamC>
+</ResPseudoRandomDesc>
+<ResPseudoRandomDesc version="1">
+    <Probability>49 </Probability>
+    <ParamC>2570 </ParamC>
+</ResPseudoRandomDesc>
+<ResPseudoRandomDesc version="1">
+    <Probability>50 </Probability>
+    <ParamC>2570 </ParamC>
+</ResPseudoRandomDesc>
+<ResPseudoRandomDesc version="1">
+    <Probability>51 </Probability>
+    <ParamC>2951 </ParamC>
+</ResPseudoRandomDesc>
+<ResPseudoRandomDesc version="1">
+    <Probability>52 </Probability>
+    <ParamC>2951 </ParamC>
+</ResPseudoRandomDesc>
+<ResPseudoRandomDesc version="1">
+    <Probability>53 </Probability>
+    <ParamC>2951 </ParamC>
+</ResPseudoRandomDesc>
+<ResPseudoRandomDesc version="1">
+    <Probability>54 </Probability>
+    <ParamC>2951 </ParamC>
+</ResPseudoRandomDesc>
+<ResPseudoRandomDesc version="1">
+    <Probability>55 </Probability>
+    <ParamC>2951 </ParamC>
+</ResPseudoRandomDesc>
+<ResPseudoRandomDesc version="1">
+    <Probability>56 </Probability>
+    <ParamC>3332 </ParamC>
+</ResPseudoRandomDesc>
+<ResPseudoRandomDesc version="1">
+    <Probability>57 </Probability>
+    <ParamC>3332 </ParamC>
+</ResPseudoRandomDesc>
+<ResPseudoRandomDesc version="1">
+    <Probability>58 </Probability>
+    <ParamC>3332 </ParamC>
+</ResPseudoRandomDesc>
+<ResPseudoRandomDesc version="1">
+    <Probability>59 </Probability>
+    <ParamC>3332 </ParamC>
+</ResPseudoRandomDesc>
+<ResPseudoRandomDesc version="1">
+    <Probability>60 </Probability>
+    <ParamC>3332 </ParamC>
+</ResPseudoRandomDesc>
+<ResPseudoRandomDesc version="1">
+    <Probability>61 </Probability>
+    <ParamC>3811 </ParamC>
+</ResPseudoRandomDesc>
+<ResPseudoRandomDesc version="1">
+    <Probability>62 </Probability>
+    <ParamC>3811 </ParamC>
+</ResPseudoRandomDesc>
+<ResPseudoRandomDesc version="1">
+    <Probability>63 </Probability>
+    <ParamC>3811 </ParamC>
+</ResPseudoRandomDesc>
+<ResPseudoRandomDesc version="1">
+    <Probability>64 </Probability>
+    <ParamC>3811 </ParamC>
+</ResPseudoRandomDesc>
+<ResPseudoRandomDesc version="1">
+    <Probability>65 </Probability>
+    <ParamC>3811 </ParamC>
+</ResPseudoRandomDesc>
+<ResPseudoRandomDesc version="1">
+    <Probability>66 </Probability>
+    <ParamC>4245 </ParamC>
+</ResPseudoRandomDesc>
+<ResPseudoRandomDesc version="1">
+    <Probability>67 </Probability>
+    <ParamC>4245 </ParamC>
+</ResPseudoRandomDesc>
+<ResPseudoRandomDesc version="1">
+    <Probability>68 </Probability>
+    <ParamC>4245 </ParamC>
+</ResPseudoRandomDesc>
+<ResPseudoRandomDesc version="1">
+    <Probability>69 </Probability>
+    <ParamC>4245 </ParamC>
+</ResPseudoRandomDesc>
+<ResPseudoRandomDesc version="1">
+    <Probability>70 </Probability>
+    <ParamC>4245 </ParamC>
+</ResPseudoRandomDesc>
+<ResPseudoRandomDesc version="1">
+    <Probability>71 </Probability>
+    <ParamC>4613 </ParamC>
+</ResPseudoRandomDesc>
+<ResPseudoRandomDesc version="1">
+    <Probability>72 </Probability>
+    <ParamC>4613 </ParamC>
+</ResPseudoRandomDesc>
+<ResPseudoRandomDesc version="1">
+    <Probability>73 </Probability>
+    <ParamC>4613 </ParamC>
+</ResPseudoRandomDesc>
+<ResPseudoRandomDesc version="1">
+    <Probability>74 </Probability>
+    <ParamC>4613 </ParamC>
+</ResPseudoRandomDesc>
+<ResPseudoRandomDesc version="1">
+    <Probability>75 </Probability>
+    <ParamC>4613 </ParamC>
+</ResPseudoRandomDesc>
+<ResPseudoRandomDesc version="1">
+    <Probability>76 </Probability>
+    <ParamC>5028 </ParamC>
+</ResPseudoRandomDesc>
+<ResPseudoRandomDesc version="1">
+    <Probability>77 </Probability>
+    <ParamC>5028 </ParamC>
+</ResPseudoRandomDesc>
+<ResPseudoRandomDesc version="1">
+    <Probability>78 </Probability>
+    <ParamC>5028 </ParamC>
+</ResPseudoRandomDesc>
+<ResPseudoRandomDesc version="1">
+    <Probability>79 </Probability>
+    <ParamC>5028 </ParamC>
+</ResPseudoRandomDesc>
+<ResPseudoRandomDesc version="1">
+    <Probability>80 </Probability>
+    <ParamC>5028 </ParamC>
+</ResPseudoRandomDesc>
+<ResPseudoRandomDesc version="1">
+    <Probability>81 </Probability>
+    <ParamC>5791 </ParamC>
+</ResPseudoRandomDesc>
+<ResPseudoRandomDesc version="1">
+    <Probability>82 </Probability>
+    <ParamC>5791 </ParamC>
+</ResPseudoRandomDesc>
+<ResPseudoRandomDesc version="1">
+    <Probability>83 </Probability>
+    <ParamC>5791 </ParamC>
+</ResPseudoRandomDesc>
+<ResPseudoRandomDesc version="1">
+    <Probability>84 </Probability>
+    <ParamC>5791 </ParamC>
+</ResPseudoRandomDesc>
+<ResPseudoRandomDesc version="1">
+    <Probability>85 </Probability>
+    <ParamC>5791 </ParamC>
+</ResPseudoRandomDesc>
+<ResPseudoRandomDesc version="1">
+    <Probability>86 </Probability>
+    <ParamC>6707 </ParamC>
+</ResPseudoRandomDesc>
+<ResPseudoRandomDesc version="1">
+    <Probability>87 </Probability>
+    <ParamC>6707 </ParamC>
+</ResPseudoRandomDesc>
+<ResPseudoRandomDesc version="1">
+    <Probability>88 </Probability>
+    <ParamC>6707 </ParamC>
+</ResPseudoRandomDesc>
+<ResPseudoRandomDesc version="1">
+    <Probability>89 </Probability>
+    <ParamC>6707 </ParamC>
+</ResPseudoRandomDesc>
+<ResPseudoRandomDesc version="1">
+    <Probability>90 </Probability>
+    <ParamC>6707 </ParamC>
+</ResPseudoRandomDesc>
+<ResPseudoRandomDesc version="1">
+    <Probability>91 </Probability>
+    <ParamC>7704 </ParamC>
+</ResPseudoRandomDesc>
+<ResPseudoRandomDesc version="1">
+    <Probability>92 </Probability>
+    <ParamC>7704 </ParamC>
+</ResPseudoRandomDesc>
+<ResPseudoRandomDesc version="1">
+    <Probability>93 </Probability>
+    <ParamC>7704 </ParamC>
+</ResPseudoRandomDesc>
+<ResPseudoRandomDesc version="1">
+    <Probability>94 </Probability>
+    <ParamC>7704 </ParamC>
+</ResPseudoRandomDesc>
+<ResPseudoRandomDesc version="1">
+    <Probability>95 </Probability>
+    <ParamC>7704 </ParamC>
+</ResPseudoRandomDesc>
+<ResPseudoRandomDesc version="1">
+    <Probability>96 </Probability>
+    <ParamC>7704 </ParamC>
+</ResPseudoRandomDesc>
+<ResPseudoRandomDesc version="1">
+    <Probability>97 </Probability>
+    <ParamC>7704 </ParamC>
+</ResPseudoRandomDesc>
+<ResPseudoRandomDesc version="1">
+    <Probability>98 </Probability>
+    <ParamC>7704 </ParamC>
+</ResPseudoRandomDesc>
+<ResPseudoRandomDesc version="1">
+    <Probability>99 </Probability>
+    <ParamC>7704 </ParamC>
+</ResPseudoRandomDesc>
+<ResPseudoRandomDesc version="1">
+    <Probability>100 </Probability>
+    <ParamC>7704 </ParamC>
+</ResPseudoRandomDesc>
+</ResPseudoRandomDesc_Tab>

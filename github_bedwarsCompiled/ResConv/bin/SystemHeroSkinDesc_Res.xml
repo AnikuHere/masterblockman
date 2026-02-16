@@ -1,0 +1,3319 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<ResSystemHeroSkinDesc_Tab>
+<TResHeadAll version="5">
+    <resHead type="TResHead">
+        <Magic>1397052237 </Magic>
+        <Version>6 </Version>
+        <Unit>3066 </Unit>
+        <Count>60 </Count>
+        <MetalibHash>531d5b4a397ad5b3c0fbfb5cc8059e55</MetalibHash>
+        <ResVersion>0 </ResVersion>
+        <CreateTime>2023-04-19 20:42:32</CreateTime>
+        <ResEncording>UTF-8</ResEncording>
+        <ContentHash>262837eb8cfb756ba580ec043b36f61e</ContentHash>
+    </resHead>
+    <resHeadExt type="TResHeadExt">
+        <DataOffset>136 </DataOffset>
+    </resHeadExt>
+</TResHeadAll>
+<ResSystemHeroSkinDesc version="1">
+    <ResID>1000001 </ResID>
+    <ModePath>prefab/character/human/hum_hero001/hum_hero001_M_pre</ModePath>
+    <HightModePath>prefab/character/human/hum_hero001/hum_hero001_H_pre</HightModePath>
+    <DeadModePath>prefab/character/human/hum_hero001/hum_hero001_ghost_pre</DeadModePath>
+    <HightModeBirthVoicePath></HightModeBirthVoicePath>
+    <HightModeDeathVoicePath></HightModeDeathVoicePath>
+    <HightModeShowAudioPath>audio/hero/10000002/show</HightModeShowAudioPath>
+    <HightModeTouchVoice></HightModeTouchVoice>
+    <HightModeTalkVoicePath></HightModeTalkVoicePath>
+    <HightModeZoomScale>120 </HightModeZoomScale>
+    <HightModeShowPosY>0 </HightModeShowPosY>
+    <BillboardPicture_SelectHero>T_ICON_tubiao_01</BillboardPicture_SelectHero>
+    <BillboardPicture_FullS>hero001_poster_full</BillboardPicture_FullS>
+    <BillboardPicture_Loading>UITexture/hero/hum_hero001/hum_hero001_card02</BillboardPicture_Loading>
+    <BillboardPicture_Result>UITexture/hero/hum_hero001/hum_hero001_poster_cut</BillboardPicture_Result>
+    <ShowIcon>UITexture/hero/hum_hero001/hum_hero001_card</ShowIcon>
+    <CircleIcon>UITexture/hero/hum_hero001/hum_hero001_yuan</CircleIcon>
+    <SquareIcon>UITexture/hero/hum_hero001/hum_hero001</SquareIcon>
+    <Background>UIBoothBk_Hum1</Background>
+    <MyHeadUI>HPMyTeam_HeroLv1</MyHeadUI>
+    <FriendHeadUI>HPFriend_HeroLv1</FriendHeadUI>
+    <EnemyHeadUI>HPEnemyTeam_HeroLv1</EnemyHeadUI>
+    <HeroSkinAttr type="ResSystemHeroSkinAttr">
+        <Effect>0 </Effect>
+        <Type>0 </Type>
+        <Num>0 </Num>
+    </HeroSkinAttr>
+    <Desc_HeroSkin type="ResSystemHeroSkinFeatures">
+        <Icon>UITexture/hero/hum_hero002/hum_hero002_yuan</Icon>
+        <Desc>恐惧与魄力并存的恶魔</Desc>
+    </Desc_HeroSkin>
+    <Desc_HeroSkin type="ResSystemHeroSkinFeatures">
+        <Icon></Icon>
+        <Desc></Desc>
+    </Desc_HeroSkin>
+    <PaybackItemID>0 </PaybackItemID>
+    <PaybackItemNum>0 </PaybackItemNum>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+</ResSystemHeroSkinDesc>
+<ResSystemHeroSkinDesc version="1">
+    <ResID>1001001 </ResID>
+    <ModePath>prefab/character/human/hum_hero001/hum_hero001_M_pre</ModePath>
+    <HightModePath>prefab/character/human/hum_hero001/hum_hero001_H_pre</HightModePath>
+    <DeadModePath>prefab/character/human/hum_hero001/hum_hero001_ghost_pre</DeadModePath>
+    <HightModeBirthVoicePath>audio/hero/10000002/birth</HightModeBirthVoicePath>
+    <HightModeDeathVoicePath>audio/hero/10000002/death</HightModeDeathVoicePath>
+    <HightModeShowAudioPath>audio/hero/10000002/show</HightModeShowAudioPath>
+    <HightModeTouchVoice>audio/hero/10000002/touch</HightModeTouchVoice>
+    <HightModeTalkVoicePath>audio/hero/10000002/talk</HightModeTalkVoicePath>
+    <HightModeZoomScale>120 </HightModeZoomScale>
+    <HightModeShowPosY>0 </HightModeShowPosY>
+    <BillboardPicture_SelectHero>T_ICON_tubiao_03</BillboardPicture_SelectHero>
+    <BillboardPicture_FullS>hero003_poster_full</BillboardPicture_FullS>
+    <BillboardPicture_Loading>UITexture/hero/hum_hero001/hum_hero001_card02</BillboardPicture_Loading>
+    <BillboardPicture_Result>UITexture/hero/hum_hero001/hum_hero001_poster_cut</BillboardPicture_Result>
+    <ShowIcon>UITexture/hero/hum_hero001/hum_hero001_card</ShowIcon>
+    <CircleIcon>UITexture/hero/hum_hero001/hum_hero001_yuan</CircleIcon>
+    <SquareIcon>UITexture/hero/hum_hero001/hum_hero001</SquareIcon>
+    <Background>UIBoothBk_Hum1</Background>
+    <MyHeadUI>HPMyTeam_HeroLv1</MyHeadUI>
+    <FriendHeadUI>HPFriend_HeroLv1</FriendHeadUI>
+    <EnemyHeadUI>HPEnemyTeam_HeroLv1</EnemyHeadUI>
+    <HeroSkinAttr type="ResSystemHeroSkinAttr">
+        <Effect>8 </Effect>
+        <Type>2 </Type>
+        <Num>10 </Num>
+    </HeroSkinAttr>
+    <Desc_HeroSkin type="ResSystemHeroSkinFeatures">
+        <Icon>UITexture/hero/hum_hero001/hum_hero001_yuan</Icon>
+        <Desc>霸气的出场效果</Desc>
+    </Desc_HeroSkin>
+    <Desc_HeroSkin type="ResSystemHeroSkinFeatures">
+        <Icon>UITexture/hero/hum_hero001/hum_hero001_yuan</Icon>
+        <Desc>海誓山盟的约定之音</Desc>
+    </Desc_HeroSkin>
+    <PaybackItemID>0 </PaybackItemID>
+    <PaybackItemNum>0 </PaybackItemNum>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+</ResSystemHeroSkinDesc>
+<ResSystemHeroSkinDesc version="1">
+    <ResID>1001002 </ResID>
+    <ModePath>prefab/character/human/hum_hero001/hum_hero001_skin01/hum_hero001_M_skin01_pre</ModePath>
+    <HightModePath>prefab/character/human/hum_hero001/hum_hero001_skin01/hum_hero001_H_skin01_pre</HightModePath>
+    <DeadModePath>prefab/character/human/hum_hero001/hum_hero001_skin01/hum_hero001_ghost_skin01_pre</DeadModePath>
+    <HightModeBirthVoicePath>audio/hero/10000002/birth</HightModeBirthVoicePath>
+    <HightModeDeathVoicePath>audio/hero/10000002/death</HightModeDeathVoicePath>
+    <HightModeShowAudioPath>audio/hero/10000002/show</HightModeShowAudioPath>
+    <HightModeTouchVoice>audio/hero/10000002/touch</HightModeTouchVoice>
+    <HightModeTalkVoicePath>audio/hero/10000002/talk</HightModeTalkVoicePath>
+    <HightModeZoomScale>120 </HightModeZoomScale>
+    <HightModeShowPosY>0 </HightModeShowPosY>
+    <BillboardPicture_SelectHero>T_ICON_tubiao_01</BillboardPicture_SelectHero>
+    <BillboardPicture_FullS>hero001_poster_full</BillboardPicture_FullS>
+    <BillboardPicture_Loading>UITexture/hero/hum_hero001/pifu/001/hum_hero001_card02_pifu_001</BillboardPicture_Loading>
+    <BillboardPicture_Result>UITexture/hero/hum_hero001/pifu/001/hum_hero001_poster_cut_pifu_001</BillboardPicture_Result>
+    <ShowIcon>UITexture/hero/hum_hero001/pifu/001/hum_hero001_card_pifu_001</ShowIcon>
+    <CircleIcon>UITexture/hero/hum_hero001/pifu/001/hum_hero001_yuan_pifu_001</CircleIcon>
+    <SquareIcon>UITexture/hero/hum_hero001/pifu/001/hum_hero001_pifu_001</SquareIcon>
+    <Background>UIBoothBk_elf1</Background>
+    <MyHeadUI>HPMyTeam_HeroLv1</MyHeadUI>
+    <FriendHeadUI>HPFriend_HeroLv1</FriendHeadUI>
+    <EnemyHeadUI>HPEnemyTeam_HeroLv1</EnemyHeadUI>
+    <HeroSkinAttr type="ResSystemHeroSkinAttr">
+        <Effect>9 </Effect>
+        <Type>2 </Type>
+        <Num>10 </Num>
+    </HeroSkinAttr>
+    <Desc_HeroSkin type="ResSystemHeroSkinFeatures">
+        <Icon>UITexture/hero/hum_hero002/hum_hero002_yuan</Icon>
+        <Desc>性感猫女造型</Desc>
+    </Desc_HeroSkin>
+    <Desc_HeroSkin type="ResSystemHeroSkinFeatures">
+        <Icon>UITexture/hero/hum_hero001/hum_hero001_yuan</Icon>
+        <Desc>海誓山盟的约定之音</Desc>
+    </Desc_HeroSkin>
+    <PaybackItemID>31100002 </PaybackItemID>
+    <PaybackItemNum>5 </PaybackItemNum>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+</ResSystemHeroSkinDesc>
+<ResSystemHeroSkinDesc version="1">
+    <ResID>1001003 </ResID>
+    <ModePath>prefab/character/human/hum_hero001/hum_hero001_skin02/hum_hero001_M_skin02_pre</ModePath>
+    <HightModePath>prefab/character/human/hum_hero001/hum_hero001_skin02/hum_hero001_H_skin02_pre</HightModePath>
+    <DeadModePath>prefab/character/human/hum_hero001/hum_hero001_skin02/hum_hero001_ghost_skin02_pre</DeadModePath>
+    <HightModeBirthVoicePath>audio/hero/10000002/birth</HightModeBirthVoicePath>
+    <HightModeDeathVoicePath>audio/hero/10000002/death</HightModeDeathVoicePath>
+    <HightModeShowAudioPath>audio/hero/10000002/pifu002/show</HightModeShowAudioPath>
+    <HightModeTouchVoice>audio/hero/10000002/touch</HightModeTouchVoice>
+    <HightModeTalkVoicePath>audio/hero/10000002/talk</HightModeTalkVoicePath>
+    <HightModeZoomScale>115 </HightModeZoomScale>
+    <HightModeShowPosY>0 </HightModeShowPosY>
+    <BillboardPicture_SelectHero>T_ICON_tubiao_01</BillboardPicture_SelectHero>
+    <BillboardPicture_FullS>hero001_poster_full</BillboardPicture_FullS>
+    <BillboardPicture_Loading>UITexture/hero/hum_hero001/pifu/002/hum_hero001_card02_pifu_002</BillboardPicture_Loading>
+    <BillboardPicture_Result>UITexture/hero/hum_hero001/pifu/002/hum_hero001_poster_cut_pifu_002</BillboardPicture_Result>
+    <ShowIcon>UITexture/hero/hum_hero001/pifu/002/hum_hero001_card_pifu_002</ShowIcon>
+    <CircleIcon>UITexture/hero/hum_hero001/pifu/002/hum_hero001_yuan_pifu_002</CircleIcon>
+    <SquareIcon>UITexture/hero/hum_hero001/pifu/002/hum_hero001_pifu_002</SquareIcon>
+    <Background>UIBoothBk_Neutral1</Background>
+    <MyHeadUI>HPMyTeam_HeroLv1</MyHeadUI>
+    <FriendHeadUI>HPFriend_HeroLv1</FriendHeadUI>
+    <EnemyHeadUI>HPEnemyTeam_HeroLv1</EnemyHeadUI>
+    <HeroSkinAttr type="ResSystemHeroSkinAttr">
+        <Effect>9 </Effect>
+        <Type>2 </Type>
+        <Num>10 </Num>
+    </HeroSkinAttr>
+    <Desc_HeroSkin type="ResSystemHeroSkinFeatures">
+        <Icon>UITexture/hero/hum_hero002/hum_hero002_yuan</Icon>
+        <Desc>性感猫女造型</Desc>
+    </Desc_HeroSkin>
+    <Desc_HeroSkin type="ResSystemHeroSkinFeatures">
+        <Icon>UITexture/hero/hum_hero001/hum_hero001_yuan</Icon>
+        <Desc>海誓山盟的约定之音</Desc>
+    </Desc_HeroSkin>
+    <PaybackItemID>31100002 </PaybackItemID>
+    <PaybackItemNum>5 </PaybackItemNum>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>20000121 </MonsterResID>
+        <MonsterSkinID>2121002 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>20000122 </MonsterResID>
+        <MonsterSkinID>2122002 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>20000123 </MonsterResID>
+        <MonsterSkinID>2123002 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>20000130 </MonsterResID>
+        <MonsterSkinID>2130002 </MonsterSkinID>
+    </SkinLinks>
+</ResSystemHeroSkinDesc>
+<ResSystemHeroSkinDesc version="1">
+    <ResID>1002001 </ResID>
+    <ModePath>prefab/character/human/hum_hero002/hum_hero002_M_pre</ModePath>
+    <HightModePath>prefab/character/human/hum_hero002/hum_hero002_H_pre</HightModePath>
+    <DeadModePath>prefab/character/human/hum_hero002/hum_hero002_ghost_pre</DeadModePath>
+    <HightModeBirthVoicePath>audio/hero/10000001/birth</HightModeBirthVoicePath>
+    <HightModeDeathVoicePath>audio/hero/10000001/death</HightModeDeathVoicePath>
+    <HightModeShowAudioPath>audio/hero/10000001/show</HightModeShowAudioPath>
+    <HightModeTouchVoice>audio/hero/10000001/touch</HightModeTouchVoice>
+    <HightModeTalkVoicePath>audio/hero/10000001/talk</HightModeTalkVoicePath>
+    <HightModeZoomScale>140 </HightModeZoomScale>
+    <HightModeShowPosY>0 </HightModeShowPosY>
+    <BillboardPicture_SelectHero>T_ICON_tubiao_01</BillboardPicture_SelectHero>
+    <BillboardPicture_FullS>hero001_poster_full</BillboardPicture_FullS>
+    <BillboardPicture_Loading>UITexture/hero/hum_hero002/pifu/001/hum_hero002_card02_pifu_001</BillboardPicture_Loading>
+    <BillboardPicture_Result>UITexture/hero/hum_hero002/pifu/001/hum_hero002_poster_cut_pifu_001</BillboardPicture_Result>
+    <ShowIcon>UITexture/hero/hum_hero002/pifu/001/hum_hero002_card_pifu_001</ShowIcon>
+    <CircleIcon>UITexture/hero/hum_hero002/pifu/001/hum_hero002_yuan_pifu_001</CircleIcon>
+    <SquareIcon>UITexture/hero/hum_hero002/pifu/001/hum_hero002_pifu_001</SquareIcon>
+    <Background>UIBoothBk_Hum1</Background>
+    <MyHeadUI>HPMyTeam_HeroLv1</MyHeadUI>
+    <FriendHeadUI>HPFriend_HeroLv1</FriendHeadUI>
+    <EnemyHeadUI>HPEnemyTeam_HeroLv1</EnemyHeadUI>
+    <HeroSkinAttr type="ResSystemHeroSkinAttr">
+        <Effect>0 </Effect>
+        <Type>0 </Type>
+        <Num>0 </Num>
+    </HeroSkinAttr>
+    <Desc_HeroSkin type="ResSystemHeroSkinFeatures">
+        <Icon>UITexture/hero/hum_hero002/hum_hero002_yuan</Icon>
+        <Desc>暴力金属的摇滚范</Desc>
+    </Desc_HeroSkin>
+    <Desc_HeroSkin type="ResSystemHeroSkinFeatures">
+        <Icon></Icon>
+        <Desc></Desc>
+    </Desc_HeroSkin>
+    <PaybackItemID>0 </PaybackItemID>
+    <PaybackItemNum>0 </PaybackItemNum>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+</ResSystemHeroSkinDesc>
+<ResSystemHeroSkinDesc version="1">
+    <ResID>1002002 </ResID>
+    <ModePath>prefab/character/human/hum_hero002/hum_hero002_skin02/hum_hero002_M_skin02_pre</ModePath>
+    <HightModePath>prefab/character/human/hum_hero002/hum_hero002_skin02/hum_hero002_H_skin02_pre</HightModePath>
+    <DeadModePath>prefab/character/human/hum_hero002/hum_hero002_skin02/hum_hero002_ghost_skin02_pre</DeadModePath>
+    <HightModeBirthVoicePath>audio/hero/10000001/birth</HightModeBirthVoicePath>
+    <HightModeDeathVoicePath>audio/hero/10000001/death</HightModeDeathVoicePath>
+    <HightModeShowAudioPath>audio/hero/10000001/show</HightModeShowAudioPath>
+    <HightModeTouchVoice>audio/hero/10000001/touch</HightModeTouchVoice>
+    <HightModeTalkVoicePath>audio/hero/10000001/talk</HightModeTalkVoicePath>
+    <HightModeZoomScale>140 </HightModeZoomScale>
+    <HightModeShowPosY>0 </HightModeShowPosY>
+    <BillboardPicture_SelectHero>T_ICON_tubiao_01</BillboardPicture_SelectHero>
+    <BillboardPicture_FullS>hero001_poster_full</BillboardPicture_FullS>
+    <BillboardPicture_Loading>UITexture/hero/hum_hero002/pifu/002/hum_hero002_card02_pifu_002</BillboardPicture_Loading>
+    <BillboardPicture_Result>UITexture/hero/hum_hero002/pifu/002/hum_hero002_poster_cut_pifu_002</BillboardPicture_Result>
+    <ShowIcon>UITexture/hero/hum_hero002/pifu/002/hum_hero002_card_pifu_002</ShowIcon>
+    <CircleIcon>UITexture/hero/hum_hero002/pifu/002/hum_hero002_yuan_pifu_002</CircleIcon>
+    <SquareIcon>UITexture/hero/hum_hero002/pifu/002/hum_hero002_pifu_002</SquareIcon>
+    <Background>UIBoothBk_Hum1</Background>
+    <MyHeadUI>HPMyTeam_HeroLv1</MyHeadUI>
+    <FriendHeadUI>HPFriend_HeroLv1</FriendHeadUI>
+    <EnemyHeadUI>HPEnemyTeam_HeroLv1</EnemyHeadUI>
+    <HeroSkinAttr type="ResSystemHeroSkinAttr">
+        <Effect>0 </Effect>
+        <Type>0 </Type>
+        <Num>0 </Num>
+    </HeroSkinAttr>
+    <Desc_HeroSkin type="ResSystemHeroSkinFeatures">
+        <Icon>UITexture/hero/hum_hero002/hum_hero002_yuan</Icon>
+        <Desc>暴力金属的摇滚范</Desc>
+    </Desc_HeroSkin>
+    <Desc_HeroSkin type="ResSystemHeroSkinFeatures">
+        <Icon></Icon>
+        <Desc></Desc>
+    </Desc_HeroSkin>
+    <PaybackItemID>31100002 </PaybackItemID>
+    <PaybackItemNum>5 </PaybackItemNum>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+</ResSystemHeroSkinDesc>
+<ResSystemHeroSkinDesc version="1">
+    <ResID>1003001 </ResID>
+    <ModePath>prefab/character/human/hum_hero003/hum_hero003_M_pre</ModePath>
+    <HightModePath>prefab/character/human/hum_hero003/hum_hero003_H_pre</HightModePath>
+    <DeadModePath>prefab/character/human/hum_hero003/hum_hero003_ghost_pre</DeadModePath>
+    <HightModeBirthVoicePath>audio/hero/10000003/birth</HightModeBirthVoicePath>
+    <HightModeDeathVoicePath>audio/hero/10000003/death</HightModeDeathVoicePath>
+    <HightModeShowAudioPath>audio/hero/10000003/show</HightModeShowAudioPath>
+    <HightModeTouchVoice>audio/hero/10000003/touch</HightModeTouchVoice>
+    <HightModeTalkVoicePath>audio/hero/10000003/talk</HightModeTalkVoicePath>
+    <HightModeZoomScale>125 </HightModeZoomScale>
+    <HightModeShowPosY>0 </HightModeShowPosY>
+    <BillboardPicture_SelectHero>T_ICON_tubiao_03</BillboardPicture_SelectHero>
+    <BillboardPicture_FullS>hero003_poster_full</BillboardPicture_FullS>
+    <BillboardPicture_Loading>UITexture/hero/hum_hero003/hum_hero003_card02</BillboardPicture_Loading>
+    <BillboardPicture_Result>UITexture/hero/hum_hero003/hum_hero003_poster_cut</BillboardPicture_Result>
+    <ShowIcon>UITexture/hero/hum_hero003/hum_hero003_card</ShowIcon>
+    <CircleIcon>UITexture/hero/hum_hero003/hum_hero003_yuan</CircleIcon>
+    <SquareIcon>UITexture/hero/hum_hero003/hum_hero003</SquareIcon>
+    <Background>UIBoothBk_Hum1</Background>
+    <MyHeadUI>HPMyTeam_HeroLv3</MyHeadUI>
+    <FriendHeadUI>HPFriend_HeroLv1</FriendHeadUI>
+    <EnemyHeadUI>HPEnemyTeam_HeroLv1</EnemyHeadUI>
+    <HeroSkinAttr type="ResSystemHeroSkinAttr">
+        <Effect>0 </Effect>
+        <Type>0 </Type>
+        <Num>0 </Num>
+    </HeroSkinAttr>
+    <Desc_HeroSkin type="ResSystemHeroSkinFeatures">
+        <Icon>UITexture/hero/hum_hero001/hum_hero001_yuan</Icon>
+        <Desc>洁白与粉色交织的唯美礼装</Desc>
+    </Desc_HeroSkin>
+    <Desc_HeroSkin type="ResSystemHeroSkinFeatures">
+        <Icon></Icon>
+        <Desc></Desc>
+    </Desc_HeroSkin>
+    <PaybackItemID>0 </PaybackItemID>
+    <PaybackItemNum>0 </PaybackItemNum>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+</ResSystemHeroSkinDesc>
+<ResSystemHeroSkinDesc version="1">
+    <ResID>1003002 </ResID>
+    <ModePath>prefab/character/human/hum_hero003/hum_hero003_skin01/hum_hero003_M_skin01_pre</ModePath>
+    <HightModePath>prefab/character/human/hum_hero003/hum_hero003_skin01/hum_hero003_H_skin01_pre</HightModePath>
+    <DeadModePath>prefab/character/human/hum_hero003/hum_hero003_skin01/hum_hero003_ghost_skin01_pre</DeadModePath>
+    <HightModeBirthVoicePath>audio/hero/10000003/birth</HightModeBirthVoicePath>
+    <HightModeDeathVoicePath>audio/hero/10000003/death</HightModeDeathVoicePath>
+    <HightModeShowAudioPath>audio/hero/10000003/show</HightModeShowAudioPath>
+    <HightModeTouchVoice>audio/hero/10000003/touch</HightModeTouchVoice>
+    <HightModeTalkVoicePath>audio/hero/10000003/talk</HightModeTalkVoicePath>
+    <HightModeZoomScale>125 </HightModeZoomScale>
+    <HightModeShowPosY>0 </HightModeShowPosY>
+    <BillboardPicture_SelectHero>T_ICON_tubiao_03</BillboardPicture_SelectHero>
+    <BillboardPicture_FullS>hero003_poster_full</BillboardPicture_FullS>
+    <BillboardPicture_Loading>UITexture/hero/hum_hero003/pifu/001/hum_hero003_card02_pifu_001</BillboardPicture_Loading>
+    <BillboardPicture_Result>UITexture/hero/hum_hero003/pifu/001/hum_hero003_poster_cut_pifu_001</BillboardPicture_Result>
+    <ShowIcon>UITexture/hero/hum_hero003/pifu/001/hum_hero003_card_pifu_001</ShowIcon>
+    <CircleIcon>UITexture/hero/hum_hero003/pifu/001/hum_hero003_yuan_pifu_001</CircleIcon>
+    <SquareIcon>UITexture/hero/hum_hero003/pifu/001/hum_hero003_pifu_001</SquareIcon>
+    <Background>UIBoothBk_Hum1</Background>
+    <MyHeadUI>HPMyTeam_HeroLv3</MyHeadUI>
+    <FriendHeadUI>HPFriend_HeroLv1</FriendHeadUI>
+    <EnemyHeadUI>HPEnemyTeam_HeroLv1</EnemyHeadUI>
+    <HeroSkinAttr type="ResSystemHeroSkinAttr">
+        <Effect>0 </Effect>
+        <Type>0 </Type>
+        <Num>0 </Num>
+    </HeroSkinAttr>
+    <Desc_HeroSkin type="ResSystemHeroSkinFeatures">
+        <Icon>UITexture/hero/hum_hero001/hum_hero001_yuan</Icon>
+        <Desc>洁白与粉色交织的唯美礼装</Desc>
+    </Desc_HeroSkin>
+    <Desc_HeroSkin type="ResSystemHeroSkinFeatures">
+        <Icon></Icon>
+        <Desc></Desc>
+    </Desc_HeroSkin>
+    <PaybackItemID>0 </PaybackItemID>
+    <PaybackItemNum>0 </PaybackItemNum>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+</ResSystemHeroSkinDesc>
+<ResSystemHeroSkinDesc version="1">
+    <ResID>1101001 </ResID>
+    <ModePath>prefab/character/orc/orc_hero001/orc_hero001_M_pre</ModePath>
+    <HightModePath>prefab/character/orc/orc_hero001/orc_hero001_H_pre</HightModePath>
+    <DeadModePath>prefab/character/orc/orc_hero001/orc_hero001_ghost_pre</DeadModePath>
+    <HightModeBirthVoicePath>audio/hero/10000101/birth</HightModeBirthVoicePath>
+    <HightModeDeathVoicePath>audio/hero/10000101/death</HightModeDeathVoicePath>
+    <HightModeShowAudioPath>audio/hero/10000101/show</HightModeShowAudioPath>
+    <HightModeTouchVoice>audio/hero/10000101/touch</HightModeTouchVoice>
+    <HightModeTalkVoicePath>audio/hero/10000101/talk</HightModeTalkVoicePath>
+    <HightModeZoomScale>125 </HightModeZoomScale>
+    <HightModeShowPosY>0 </HightModeShowPosY>
+    <BillboardPicture_SelectHero>T_ICON_tubiao_01</BillboardPicture_SelectHero>
+    <BillboardPicture_FullS>hero001_poster_full</BillboardPicture_FullS>
+    <BillboardPicture_Loading>UITexture/hero/orc_hero001/orc_hero001_card02</BillboardPicture_Loading>
+    <BillboardPicture_Result>UITexture/hero/orc_hero001/orc_hero001_poster_cut</BillboardPicture_Result>
+    <ShowIcon>UITexture/hero/orc_hero001/orc_hero001_card</ShowIcon>
+    <CircleIcon>UITexture/hero/orc_hero001/orc_hero001_yuan</CircleIcon>
+    <SquareIcon>UITexture/hero/orc_hero001/orc_hero001</SquareIcon>
+    <Background>UIBoothBk_orc1</Background>
+    <MyHeadUI>HPMyTeam_HeroLv1</MyHeadUI>
+    <FriendHeadUI>HPFriend_HeroLv1</FriendHeadUI>
+    <EnemyHeadUI>HPEnemyTeam_HeroLv1</EnemyHeadUI>
+    <HeroSkinAttr type="ResSystemHeroSkinAttr">
+        <Effect>0 </Effect>
+        <Type>0 </Type>
+        <Num>0 </Num>
+    </HeroSkinAttr>
+    <Desc_HeroSkin type="ResSystemHeroSkinFeatures">
+        <Icon>UITexture/hero/hum_hero001/hum_hero001_yuan</Icon>
+        <Desc>迷人的造型，把持不住</Desc>
+    </Desc_HeroSkin>
+    <Desc_HeroSkin type="ResSystemHeroSkinFeatures">
+        <Icon></Icon>
+        <Desc></Desc>
+    </Desc_HeroSkin>
+    <PaybackItemID>0 </PaybackItemID>
+    <PaybackItemNum>0 </PaybackItemNum>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+</ResSystemHeroSkinDesc>
+<ResSystemHeroSkinDesc version="1">
+    <ResID>1101002 </ResID>
+    <ModePath>prefab/character/orc/orc_hero001/orc_hero001_skin01/orc_hero001_M_skin01_pre</ModePath>
+    <HightModePath>prefab/character/orc/orc_hero001/orc_hero001_skin01/orc_hero001_H_skin01_pre</HightModePath>
+    <DeadModePath>prefab/character/orc/orc_hero001/orc_hero001_skin01/orc_hero001_ghost_skin01_pre</DeadModePath>
+    <HightModeBirthVoicePath>audio/hero/10000101/birth</HightModeBirthVoicePath>
+    <HightModeDeathVoicePath>audio/hero/10000101/death</HightModeDeathVoicePath>
+    <HightModeShowAudioPath>audio/hero/10000101/show</HightModeShowAudioPath>
+    <HightModeTouchVoice>audio/hero/10000101/touch</HightModeTouchVoice>
+    <HightModeTalkVoicePath>audio/hero/10000101/talk</HightModeTalkVoicePath>
+    <HightModeZoomScale>125 </HightModeZoomScale>
+    <HightModeShowPosY>0 </HightModeShowPosY>
+    <BillboardPicture_SelectHero>T_ICON_tubiao_03</BillboardPicture_SelectHero>
+    <BillboardPicture_FullS>hero003_poster_full</BillboardPicture_FullS>
+    <BillboardPicture_Loading>UITexture/hero/orc_hero001/pifu/001/orc_hero001_card02_pifu_001</BillboardPicture_Loading>
+    <BillboardPicture_Result>UITexture/hero/orc_hero001/pifu/001/orc_hero001_poster_cut_pifu_001</BillboardPicture_Result>
+    <ShowIcon>UITexture/hero/orc_hero001/pifu/001/orc_hero001_card_pifu_001</ShowIcon>
+    <CircleIcon>UITexture/hero/orc_hero001/pifu/001/orc_hero001_yuan_pifu_001</CircleIcon>
+    <SquareIcon>UITexture/hero/orc_hero001/pifu/001/orc_hero001_pifu_001</SquareIcon>
+    <Background>UIBoothBk_gho1</Background>
+    <MyHeadUI>HPMyTeam_HeroLv1</MyHeadUI>
+    <FriendHeadUI>HPFriend_HeroLv1</FriendHeadUI>
+    <EnemyHeadUI>HPEnemyTeam_HeroLv1</EnemyHeadUI>
+    <HeroSkinAttr type="ResSystemHeroSkinAttr">
+        <Effect>8 </Effect>
+        <Type>2 </Type>
+        <Num>10 </Num>
+    </HeroSkinAttr>
+    <Desc_HeroSkin type="ResSystemHeroSkinFeatures">
+        <Icon>UITexture/hero/hum_hero002/hum_hero002_yuan</Icon>
+        <Desc>两个字：帅气</Desc>
+    </Desc_HeroSkin>
+    <Desc_HeroSkin type="ResSystemHeroSkinFeatures">
+        <Icon>UITexture/hero/hum_hero001/hum_hero001_yuan</Icon>
+        <Desc>海誓山盟的约定之音</Desc>
+    </Desc_HeroSkin>
+    <PaybackItemID>31100002 </PaybackItemID>
+    <PaybackItemNum>5 </PaybackItemNum>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+</ResSystemHeroSkinDesc>
+<ResSystemHeroSkinDesc version="1">
+    <ResID>1102001 </ResID>
+    <ModePath>prefab/character/orc/orc_hero002/orc_hero002_M_pre</ModePath>
+    <HightModePath>prefab/character/orc/orc_hero002/orc_hero002_H_pre</HightModePath>
+    <DeadModePath>prefab/character/orc/orc_hero002/orc_hero002_ghost_pre</DeadModePath>
+    <HightModeBirthVoicePath>audio/hero/10000102/birth</HightModeBirthVoicePath>
+    <HightModeDeathVoicePath>audio/hero/10000102/death</HightModeDeathVoicePath>
+    <HightModeShowAudioPath>audio/hero/10000102/show</HightModeShowAudioPath>
+    <HightModeTouchVoice>audio/hero/10000102/touch</HightModeTouchVoice>
+    <HightModeTalkVoicePath>audio/hero/10000102/talk</HightModeTalkVoicePath>
+    <HightModeZoomScale>120 </HightModeZoomScale>
+    <HightModeShowPosY>0 </HightModeShowPosY>
+    <BillboardPicture_SelectHero>T_ICON_tubiao_01</BillboardPicture_SelectHero>
+    <BillboardPicture_FullS>hero001_poster_full</BillboardPicture_FullS>
+    <BillboardPicture_Loading>UITexture/hero/orc_hero002/orc_hero002_card02</BillboardPicture_Loading>
+    <BillboardPicture_Result>UITexture/hero/orc_hero002/orc_hero002_poster_cut</BillboardPicture_Result>
+    <ShowIcon>UITexture/hero/orc_hero002/orc_hero002_card</ShowIcon>
+    <CircleIcon>UITexture/hero/orc_hero002/orc_hero002_yuan</CircleIcon>
+    <SquareIcon>UITexture/hero/orc_hero002/orc_hero002</SquareIcon>
+    <Background>UIBoothBk_orc1</Background>
+    <MyHeadUI>HPMyTeam_HeroLv1</MyHeadUI>
+    <FriendHeadUI>HPFriend_HeroLv1</FriendHeadUI>
+    <EnemyHeadUI>HPEnemyTeam_HeroLv1</EnemyHeadUI>
+    <HeroSkinAttr type="ResSystemHeroSkinAttr">
+        <Effect>0 </Effect>
+        <Type>0 </Type>
+        <Num>0 </Num>
+    </HeroSkinAttr>
+    <Desc_HeroSkin type="ResSystemHeroSkinFeatures">
+        <Icon>UITexture/hero/hum_hero001/hum_hero001_yuan</Icon>
+        <Desc>电玩风格语音</Desc>
+    </Desc_HeroSkin>
+    <Desc_HeroSkin type="ResSystemHeroSkinFeatures">
+        <Icon></Icon>
+        <Desc></Desc>
+    </Desc_HeroSkin>
+    <PaybackItemID>0 </PaybackItemID>
+    <PaybackItemNum>0 </PaybackItemNum>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+</ResSystemHeroSkinDesc>
+<ResSystemHeroSkinDesc version="1">
+    <ResID>1102002 </ResID>
+    <ModePath>prefab/character/orc/orc_hero002/orc_hero002_skin01/orc_hero002_M_skin01_pre</ModePath>
+    <HightModePath>prefab/character/orc/orc_hero002/orc_hero002_skin01/orc_hero002_H_skin01_pre</HightModePath>
+    <DeadModePath>prefab/character/orc/orc_hero002/orc_hero002_skin01/orc_hero002_ghost_skin01_pre</DeadModePath>
+    <HightModeBirthVoicePath>audio/hero/10000102/birth</HightModeBirthVoicePath>
+    <HightModeDeathVoicePath>audio/hero/10000102/death</HightModeDeathVoicePath>
+    <HightModeShowAudioPath>audio/hero/10000102/show</HightModeShowAudioPath>
+    <HightModeTouchVoice>audio/hero/10000102/touch</HightModeTouchVoice>
+    <HightModeTalkVoicePath>audio/hero/10000102/talk</HightModeTalkVoicePath>
+    <HightModeZoomScale>120 </HightModeZoomScale>
+    <HightModeShowPosY>0 </HightModeShowPosY>
+    <BillboardPicture_SelectHero>T_ICON_tubiao_01</BillboardPicture_SelectHero>
+    <BillboardPicture_FullS>hero001_poster_full</BillboardPicture_FullS>
+    <BillboardPicture_Loading>UITexture/hero/orc_hero002/pifu/001/orc_hero002_card02_pifu_001</BillboardPicture_Loading>
+    <BillboardPicture_Result>UITexture/hero/orc_hero002/pifu/001/orc_hero002_poster_cut_pifu_001</BillboardPicture_Result>
+    <ShowIcon>UITexture/hero/orc_hero002/pifu/001/orc_hero002_card_pifu_001</ShowIcon>
+    <CircleIcon>UITexture/hero/orc_hero002/pifu/001/orc_hero002_yuan_pifu_001</CircleIcon>
+    <SquareIcon>UITexture/hero/orc_hero002/pifu/001/orc_hero002_pifu_001</SquareIcon>
+    <Background>UIBoothBk_Neutral1</Background>
+    <MyHeadUI>HPMyTeam_HeroLv1</MyHeadUI>
+    <FriendHeadUI>HPFriend_HeroLv1</FriendHeadUI>
+    <EnemyHeadUI>HPEnemyTeam_HeroLv1</EnemyHeadUI>
+    <HeroSkinAttr type="ResSystemHeroSkinAttr">
+        <Effect>8 </Effect>
+        <Type>2 </Type>
+        <Num>10 </Num>
+    </HeroSkinAttr>
+    <Desc_HeroSkin type="ResSystemHeroSkinFeatures">
+        <Icon>UITexture/hero/hum_hero002/hum_hero002_yuan</Icon>
+        <Desc>二次元造型</Desc>
+    </Desc_HeroSkin>
+    <Desc_HeroSkin type="ResSystemHeroSkinFeatures">
+        <Icon>UITexture/hero/hum_hero001/hum_hero001_yuan</Icon>
+        <Desc>海誓山盟的约定之音</Desc>
+    </Desc_HeroSkin>
+    <PaybackItemID>31100002 </PaybackItemID>
+    <PaybackItemNum>5 </PaybackItemNum>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+</ResSystemHeroSkinDesc>
+<ResSystemHeroSkinDesc version="1">
+    <ResID>1201001 </ResID>
+    <ModePath>prefab/character/ghost/gho_hero001/gho_hero001_M_pre</ModePath>
+    <HightModePath>prefab/character/ghost/gho_hero001/gho_hero001_H_pre</HightModePath>
+    <DeadModePath>prefab/character/ghost/gho_hero001/gho_hero001_ghost_pre</DeadModePath>
+    <HightModeBirthVoicePath>audio/hero/10000201/birth</HightModeBirthVoicePath>
+    <HightModeDeathVoicePath>audio/hero/10000201/death</HightModeDeathVoicePath>
+    <HightModeShowAudioPath>audio/hero/10000201/show</HightModeShowAudioPath>
+    <HightModeTouchVoice>audio/hero/10000201/touch</HightModeTouchVoice>
+    <HightModeTalkVoicePath>audio/hero/10000201/talk</HightModeTalkVoicePath>
+    <HightModeZoomScale>125 </HightModeZoomScale>
+    <HightModeShowPosY>0 </HightModeShowPosY>
+    <BillboardPicture_SelectHero>T_ICON_tubiao_01</BillboardPicture_SelectHero>
+    <BillboardPicture_FullS>hero001_poster_full</BillboardPicture_FullS>
+    <BillboardPicture_Loading>UITexture/hero/gho_hero001/pifu/001/gho_hero001_card02_pifu_001</BillboardPicture_Loading>
+    <BillboardPicture_Result>UITexture/hero/gho_hero001/pifu/001/gho_hero001_poster_cut_pifu_001</BillboardPicture_Result>
+    <ShowIcon>UITexture/hero/gho_hero001/pifu/001/gho_hero001_card_pifu_001</ShowIcon>
+    <CircleIcon>UITexture/hero/gho_hero001/pifu/001/gho_hero001_yuan_pifu_001</CircleIcon>
+    <SquareIcon>UITexture/hero/gho_hero001/pifu/001/gho_hero001_pifu_001</SquareIcon>
+    <Background>UIBoothBk_gho1</Background>
+    <MyHeadUI>HPMyTeam_HeroLv1</MyHeadUI>
+    <FriendHeadUI>HPFriend_HeroLv1</FriendHeadUI>
+    <EnemyHeadUI>HPEnemyTeam_HeroLv1</EnemyHeadUI>
+    <HeroSkinAttr type="ResSystemHeroSkinAttr">
+        <Effect>0 </Effect>
+        <Type>0 </Type>
+        <Num>0 </Num>
+    </HeroSkinAttr>
+    <Desc_HeroSkin type="ResSystemHeroSkinFeatures">
+        <Icon>UITexture/hero/gho_hero001/gho_hero001_yuan</Icon>
+        <Desc>恶魔的化身，透露邪恶的力量</Desc>
+    </Desc_HeroSkin>
+    <Desc_HeroSkin type="ResSystemHeroSkinFeatures">
+        <Icon></Icon>
+        <Desc></Desc>
+    </Desc_HeroSkin>
+    <PaybackItemID>0 </PaybackItemID>
+    <PaybackItemNum>0 </PaybackItemNum>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+</ResSystemHeroSkinDesc>
+<ResSystemHeroSkinDesc version="1">
+    <ResID>1201002 </ResID>
+    <ModePath>prefab/character/ghost/gho_hero001/gho_hero001_skin01/gho_hero001_M_skin01_pre</ModePath>
+    <HightModePath>prefab/character/ghost/gho_hero001/gho_hero001_skin01/gho_hero001_H_skin01_pre</HightModePath>
+    <DeadModePath>prefab/character/ghost/gho_hero001/gho_hero001_skin01/gho_hero001_skin01_ghost_pre</DeadModePath>
+    <HightModeBirthVoicePath>audio/hero/10000201/birth</HightModeBirthVoicePath>
+    <HightModeDeathVoicePath>audio/hero/10000201/death</HightModeDeathVoicePath>
+    <HightModeShowAudioPath>audio/hero/10000201/show</HightModeShowAudioPath>
+    <HightModeTouchVoice>audio/hero/10000201/touch</HightModeTouchVoice>
+    <HightModeTalkVoicePath>audio/hero/10000201/talk</HightModeTalkVoicePath>
+    <HightModeZoomScale>125 </HightModeZoomScale>
+    <HightModeShowPosY>0 </HightModeShowPosY>
+    <BillboardPicture_SelectHero>T_ICON_tubiao_01</BillboardPicture_SelectHero>
+    <BillboardPicture_FullS>hero001_poster_full</BillboardPicture_FullS>
+    <BillboardPicture_Loading>UITexture/hero/gho_hero001/gho_hero001_card02</BillboardPicture_Loading>
+    <BillboardPicture_Result>UITexture/hero/gho_hero001/gho_hero001_poster_cut</BillboardPicture_Result>
+    <ShowIcon>UITexture/hero/gho_hero001/gho_hero001_card</ShowIcon>
+    <CircleIcon>UITexture/hero/gho_hero001/gho_hero001_yuan</CircleIcon>
+    <SquareIcon>UITexture/hero/gho_hero001/gho_hero001</SquareIcon>
+    <Background>UIBoothBk_gho1</Background>
+    <MyHeadUI>HPMyTeam_HeroLv1</MyHeadUI>
+    <FriendHeadUI>HPFriend_HeroLv1</FriendHeadUI>
+    <EnemyHeadUI>HPEnemyTeam_HeroLv1</EnemyHeadUI>
+    <HeroSkinAttr type="ResSystemHeroSkinAttr">
+        <Effect>0 </Effect>
+        <Type>0 </Type>
+        <Num>0 </Num>
+    </HeroSkinAttr>
+    <Desc_HeroSkin type="ResSystemHeroSkinFeatures">
+        <Icon>UITexture/hero/gho_hero001/gho_hero001_yuan</Icon>
+        <Desc>恶魔的化身，透露邪恶的力量</Desc>
+    </Desc_HeroSkin>
+    <Desc_HeroSkin type="ResSystemHeroSkinFeatures">
+        <Icon></Icon>
+        <Desc></Desc>
+    </Desc_HeroSkin>
+    <PaybackItemID>0 </PaybackItemID>
+    <PaybackItemNum>0 </PaybackItemNum>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+</ResSystemHeroSkinDesc>
+<ResSystemHeroSkinDesc version="1">
+    <ResID>1202001 </ResID>
+    <ModePath>prefab/character/ghost/gho_hero002/gho_hero002_M_pre</ModePath>
+    <HightModePath>prefab/character/ghost/gho_hero002/gho_hero002_H_pre</HightModePath>
+    <DeadModePath>prefab/character/ghost/gho_hero002/gho_hero002_ghost_pre</DeadModePath>
+    <HightModeBirthVoicePath>audio/hero/10000202/birth</HightModeBirthVoicePath>
+    <HightModeDeathVoicePath>audio/hero/10000202/death</HightModeDeathVoicePath>
+    <HightModeShowAudioPath>audio/hero/10000202/show</HightModeShowAudioPath>
+    <HightModeTouchVoice>audio/hero/10000202/touch</HightModeTouchVoice>
+    <HightModeTalkVoicePath>audio/hero/10000202/talk</HightModeTalkVoicePath>
+    <HightModeZoomScale>120 </HightModeZoomScale>
+    <HightModeShowPosY>0 </HightModeShowPosY>
+    <BillboardPicture_SelectHero>T_ICON_tubiao_01</BillboardPicture_SelectHero>
+    <BillboardPicture_FullS>hero001_poster_full</BillboardPicture_FullS>
+    <BillboardPicture_Loading>UITexture/hero/gho_hero002/gho_hero002_card02</BillboardPicture_Loading>
+    <BillboardPicture_Result>UITexture/hero/gho_hero002/gho_hero002_poster_cut</BillboardPicture_Result>
+    <ShowIcon>UITexture/hero/gho_hero002/gho_hero002_card</ShowIcon>
+    <CircleIcon>UITexture/hero/gho_hero002/gho_hero002_yuan</CircleIcon>
+    <SquareIcon>UITexture/hero/gho_hero002/gho_hero002</SquareIcon>
+    <Background>UIBoothBk_gho1</Background>
+    <MyHeadUI>HPMyTeam_HeroLv1</MyHeadUI>
+    <FriendHeadUI>HPFriend_HeroLv1</FriendHeadUI>
+    <EnemyHeadUI>HPEnemyTeam_HeroLv1</EnemyHeadUI>
+    <HeroSkinAttr type="ResSystemHeroSkinAttr">
+        <Effect>0 </Effect>
+        <Type>0 </Type>
+        <Num>0 </Num>
+    </HeroSkinAttr>
+    <Desc_HeroSkin type="ResSystemHeroSkinFeatures">
+        <Icon>UITexture/hero/gho_hero001/gho_hero001_yuan</Icon>
+        <Desc>恶魔的化身，透露邪恶的力量</Desc>
+    </Desc_HeroSkin>
+    <Desc_HeroSkin type="ResSystemHeroSkinFeatures">
+        <Icon></Icon>
+        <Desc></Desc>
+    </Desc_HeroSkin>
+    <PaybackItemID>0 </PaybackItemID>
+    <PaybackItemNum>0 </PaybackItemNum>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+</ResSystemHeroSkinDesc>
+<ResSystemHeroSkinDesc version="1">
+    <ResID>1202002 </ResID>
+    <ModePath>prefab/character/ghost/gho_hero002/gho_hero002_skin01/gho_hero002_M_skin01_pre</ModePath>
+    <HightModePath>prefab/character/ghost/gho_hero002/gho_hero002_skin01/gho_hero002_H_skin01_pre</HightModePath>
+    <DeadModePath>prefab/character/ghost/gho_hero002/gho_hero002_skin01/gho_hero002_ghost_skin01_pre</DeadModePath>
+    <HightModeBirthVoicePath>audio/hero/10000202/birth</HightModeBirthVoicePath>
+    <HightModeDeathVoicePath>audio/hero/10000202/death</HightModeDeathVoicePath>
+    <HightModeShowAudioPath>audio/hero/10000202/show</HightModeShowAudioPath>
+    <HightModeTouchVoice>audio/hero/10000202/touch</HightModeTouchVoice>
+    <HightModeTalkVoicePath>audio/hero/10000202/talk</HightModeTalkVoicePath>
+    <HightModeZoomScale>120 </HightModeZoomScale>
+    <HightModeShowPosY>0 </HightModeShowPosY>
+    <BillboardPicture_SelectHero>T_ICON_tubiao_01</BillboardPicture_SelectHero>
+    <BillboardPicture_FullS>hero001_poster_full</BillboardPicture_FullS>
+    <BillboardPicture_Loading>UITexture/hero/gho_hero002/pifu/001/gho_hero002_card_pifu02_001</BillboardPicture_Loading>
+    <BillboardPicture_Result>UITexture/hero/gho_hero002/pifu/001/gho_hero002_poster_cut_pifu_001</BillboardPicture_Result>
+    <ShowIcon>UITexture/hero/gho_hero002/pifu/001/gho_hero002_card_pifu_001</ShowIcon>
+    <CircleIcon>UITexture/hero/gho_hero002/pifu/001/gho_hero002_yuan_pifu_001</CircleIcon>
+    <SquareIcon>UITexture/hero/gho_hero002/pifu/001/gho_hero002_pifu_001</SquareIcon>
+    <Background>UIBoothBk_gho1</Background>
+    <MyHeadUI>HPMyTeam_HeroLv1</MyHeadUI>
+    <FriendHeadUI>HPFriend_HeroLv1</FriendHeadUI>
+    <EnemyHeadUI>HPEnemyTeam_HeroLv1</EnemyHeadUI>
+    <HeroSkinAttr type="ResSystemHeroSkinAttr">
+        <Effect>0 </Effect>
+        <Type>0 </Type>
+        <Num>0 </Num>
+    </HeroSkinAttr>
+    <Desc_HeroSkin type="ResSystemHeroSkinFeatures">
+        <Icon>UITexture/hero/hum_hero002/hum_hero002_yuan</Icon>
+        <Desc>暴力金属的摇滚范</Desc>
+    </Desc_HeroSkin>
+    <Desc_HeroSkin type="ResSystemHeroSkinFeatures">
+        <Icon></Icon>
+        <Desc></Desc>
+    </Desc_HeroSkin>
+    <PaybackItemID>31100002 </PaybackItemID>
+    <PaybackItemNum>5 </PaybackItemNum>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+</ResSystemHeroSkinDesc>
+<ResSystemHeroSkinDesc version="1">
+    <ResID>1203001 </ResID>
+    <ModePath>prefab/character/ghost/gho_hero003/gho_hero003_M_pre</ModePath>
+    <HightModePath>prefab/character/ghost/gho_hero003/gho_hero003_H_pre</HightModePath>
+    <DeadModePath>prefab/character/ghost/gho_hero003/gho_hero003_ghost_pre</DeadModePath>
+    <HightModeBirthVoicePath>audio/hero/10000203/birth</HightModeBirthVoicePath>
+    <HightModeDeathVoicePath>audio/hero/10000203/death</HightModeDeathVoicePath>
+    <HightModeShowAudioPath>audio/hero/10000203/show</HightModeShowAudioPath>
+    <HightModeTouchVoice>audio/hero/10000203/touch</HightModeTouchVoice>
+    <HightModeTalkVoicePath>audio/hero/10000203/talk</HightModeTalkVoicePath>
+    <HightModeZoomScale>115 </HightModeZoomScale>
+    <HightModeShowPosY>0 </HightModeShowPosY>
+    <BillboardPicture_SelectHero>T_ICON_tubiao_01</BillboardPicture_SelectHero>
+    <BillboardPicture_FullS>hero001_poster_full</BillboardPicture_FullS>
+    <BillboardPicture_Loading>UITexture/hero/gho_hero003/gho_hero003_card02</BillboardPicture_Loading>
+    <BillboardPicture_Result>UITexture/hero/gho_hero003/gho_hero003_poster_cut</BillboardPicture_Result>
+    <ShowIcon>UITexture/hero/gho_hero003/gho_hero003_card</ShowIcon>
+    <CircleIcon>UITexture/hero/gho_hero003/gho_hero003_yuan</CircleIcon>
+    <SquareIcon>UITexture/hero/gho_hero003/gho_hero003</SquareIcon>
+    <Background>UIBoothBk_gho1</Background>
+    <MyHeadUI>HPMyTeam_HeroLv1</MyHeadUI>
+    <FriendHeadUI>HPFriend_HeroLv1</FriendHeadUI>
+    <EnemyHeadUI>HPEnemyTeam_HeroLv1</EnemyHeadUI>
+    <HeroSkinAttr type="ResSystemHeroSkinAttr">
+        <Effect>0 </Effect>
+        <Type>0 </Type>
+        <Num>0 </Num>
+    </HeroSkinAttr>
+    <Desc_HeroSkin type="ResSystemHeroSkinFeatures">
+        <Icon>UITexture/hero/gho_hero003/gho_hero003_yuan</Icon>
+        <Desc>恶魔的化身，透露邪恶的力量</Desc>
+    </Desc_HeroSkin>
+    <Desc_HeroSkin type="ResSystemHeroSkinFeatures">
+        <Icon></Icon>
+        <Desc></Desc>
+    </Desc_HeroSkin>
+    <PaybackItemID>0 </PaybackItemID>
+    <PaybackItemNum>0 </PaybackItemNum>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+</ResSystemHeroSkinDesc>
+<ResSystemHeroSkinDesc version="1">
+    <ResID>1203002 </ResID>
+    <ModePath>prefab/character/ghost/gho_hero003/gho_hero003_skin01/gho_hero003_M_skin01_pre</ModePath>
+    <HightModePath>prefab/character/ghost/gho_hero003/gho_hero003_skin01/gho_hero003_H_skin01_pre</HightModePath>
+    <DeadModePath>prefab/character/ghost/gho_hero003/gho_hero003_skin01/gho_hero003_ghost_skin01_pre</DeadModePath>
+    <HightModeBirthVoicePath>audio/hero/10000203/birth</HightModeBirthVoicePath>
+    <HightModeDeathVoicePath>audio/hero/10000203/death</HightModeDeathVoicePath>
+    <HightModeShowAudioPath>audio/hero/10000203/show</HightModeShowAudioPath>
+    <HightModeTouchVoice>audio/hero/10000203/touch</HightModeTouchVoice>
+    <HightModeTalkVoicePath>audio/hero/10000203/talk</HightModeTalkVoicePath>
+    <HightModeZoomScale>115 </HightModeZoomScale>
+    <HightModeShowPosY>0 </HightModeShowPosY>
+    <BillboardPicture_SelectHero>T_ICON_tubiao_01</BillboardPicture_SelectHero>
+    <BillboardPicture_FullS>hero001_poster_full</BillboardPicture_FullS>
+    <BillboardPicture_Loading>UITexture/hero/gho_hero003/pifu/001/gho_hero003_card02_pifu_001</BillboardPicture_Loading>
+    <BillboardPicture_Result>UITexture/hero/gho_hero003/pifu/001/gho_hero003_poster_cut_pifu_001</BillboardPicture_Result>
+    <ShowIcon>UITexture/hero/gho_hero003/pifu/001/gho_hero003_card_pifu_001</ShowIcon>
+    <CircleIcon>UITexture/hero/gho_hero003/pifu/001/gho_hero003_yuan_pifu_001</CircleIcon>
+    <SquareIcon>UITexture/hero/gho_hero003/pifu/001/gho_hero003_pifu_001</SquareIcon>
+    <Background>UIBoothBk_gho1</Background>
+    <MyHeadUI>HPMyTeam_HeroLv1</MyHeadUI>
+    <FriendHeadUI>HPFriend_HeroLv1</FriendHeadUI>
+    <EnemyHeadUI>HPEnemyTeam_HeroLv1</EnemyHeadUI>
+    <HeroSkinAttr type="ResSystemHeroSkinAttr">
+        <Effect>0 </Effect>
+        <Type>0 </Type>
+        <Num>0 </Num>
+    </HeroSkinAttr>
+    <Desc_HeroSkin type="ResSystemHeroSkinFeatures">
+        <Icon>UITexture/hero/gho_hero003/gho_hero003_yuan</Icon>
+        <Desc>恶魔的化身，透露邪恶的力量</Desc>
+    </Desc_HeroSkin>
+    <Desc_HeroSkin type="ResSystemHeroSkinFeatures">
+        <Icon></Icon>
+        <Desc></Desc>
+    </Desc_HeroSkin>
+    <PaybackItemID>31100002 </PaybackItemID>
+    <PaybackItemNum>5 </PaybackItemNum>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+</ResSystemHeroSkinDesc>
+<ResSystemHeroSkinDesc version="1">
+    <ResID>1301001 </ResID>
+    <ModePath>prefab/character/elf/elf_hero001/elf_hero001_01/elf_hero001_01_M_pre</ModePath>
+    <HightModePath>prefab/character/elf/elf_hero001/elf_hero001_01/elf_hero001_H_pre</HightModePath>
+    <DeadModePath>prefab/character/elf/elf_hero001/elf_hero001_01/elf_hero001_01_ghost_pre</DeadModePath>
+    <HightModeBirthVoicePath>audio/hero/10000301/birth</HightModeBirthVoicePath>
+    <HightModeDeathVoicePath>audio/hero/10000301/death</HightModeDeathVoicePath>
+    <HightModeShowAudioPath>audio/hero/10000301/show</HightModeShowAudioPath>
+    <HightModeTouchVoice>audio/hero/10000301/touch</HightModeTouchVoice>
+    <HightModeTalkVoicePath>audio/hero/10000301/talk</HightModeTalkVoicePath>
+    <HightModeZoomScale>110 </HightModeZoomScale>
+    <HightModeShowPosY>0 </HightModeShowPosY>
+    <BillboardPicture_SelectHero>T_ICON_tubiao_01</BillboardPicture_SelectHero>
+    <BillboardPicture_FullS>hero001_poster_full</BillboardPicture_FullS>
+    <BillboardPicture_Loading>UITexture/hero/elf_hero001/elf_hero001_card02</BillboardPicture_Loading>
+    <BillboardPicture_Result>UITexture/hero/elf_hero001/elf_hero001_poster_cut</BillboardPicture_Result>
+    <ShowIcon>UITexture/hero/elf_hero001/elf_hero001_card</ShowIcon>
+    <CircleIcon>UITexture/hero/elf_hero001/elf_hero001_yuan</CircleIcon>
+    <SquareIcon>UITexture/hero/elf_hero001/elf_hero001</SquareIcon>
+    <Background>UIBoothBk_elf1</Background>
+    <MyHeadUI>HPMyTeam_HeroLv1</MyHeadUI>
+    <FriendHeadUI>HPFriend_HeroLv1</FriendHeadUI>
+    <EnemyHeadUI>HPEnemyTeam_HeroLv1</EnemyHeadUI>
+    <HeroSkinAttr type="ResSystemHeroSkinAttr">
+        <Effect>0 </Effect>
+        <Type>0 </Type>
+        <Num>0 </Num>
+    </HeroSkinAttr>
+    <Desc_HeroSkin type="ResSystemHeroSkinFeatures">
+        <Icon>UITexture/hero/hum_hero001/hum_hero001_yuan</Icon>
+        <Desc>暴力金属的摇滚范</Desc>
+    </Desc_HeroSkin>
+    <Desc_HeroSkin type="ResSystemHeroSkinFeatures">
+        <Icon></Icon>
+        <Desc></Desc>
+    </Desc_HeroSkin>
+    <PaybackItemID>0 </PaybackItemID>
+    <PaybackItemNum>0 </PaybackItemNum>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+</ResSystemHeroSkinDesc>
+<ResSystemHeroSkinDesc version="1">
+    <ResID>1301002 </ResID>
+    <ModePath>prefab/character/elf/elf_hero005/elf_hero005_01_skin01/elf_hero001_01_skin01/elf_hero005_01_M_skin01_pre</ModePath>
+    <HightModePath>prefab/character/elf/elf_hero005/elf_hero005_01_skin01/elf_hero001_01_skin01/elf_hero005_H_skin01_pre</HightModePath>
+    <DeadModePath>prefab/character/elf/elf_hero001/elf_hero001_01_skin01/elf_hero001_01_skin01/elf_hero001_ghost_skin01_pre</DeadModePath>
+    <HightModeBirthVoicePath>audio/hero/10000301/birth</HightModeBirthVoicePath>
+    <HightModeDeathVoicePath>audio/hero/10000301/death</HightModeDeathVoicePath>
+    <HightModeShowAudioPath>audio/hero/10000301/show</HightModeShowAudioPath>
+    <HightModeTouchVoice>audio/hero/10000301/touch</HightModeTouchVoice>
+    <HightModeTalkVoicePath>audio/hero/10000301/talk</HightModeTalkVoicePath>
+    <HightModeZoomScale>110 </HightModeZoomScale>
+    <HightModeShowPosY>0 </HightModeShowPosY>
+    <BillboardPicture_SelectHero>T_ICON_tubiao_01</BillboardPicture_SelectHero>
+    <BillboardPicture_FullS>hero001_poster_full</BillboardPicture_FullS>
+    <BillboardPicture_Loading>UITexture/hero/elf_hero001/pifu/001/elf_hero001_card02_pifu_001</BillboardPicture_Loading>
+    <BillboardPicture_Result>UITexture/hero/elf_hero001/pifu/001/elf_hero001_poster_cut_pifu_001</BillboardPicture_Result>
+    <ShowIcon>UITexture/hero/elf_hero001/pifu/001/elf_hero001_card_pifu_001</ShowIcon>
+    <CircleIcon>UITexture/hero/elf_hero001/pifu/001/elf_hero001_yuan_pifu_001</CircleIcon>
+    <SquareIcon>UITexture/hero/elf_hero001/pifu/001/elf_hero001_pifu_001</SquareIcon>
+    <Background>UIBoothBk_elf1</Background>
+    <MyHeadUI>HPMyTeam_HeroLv1</MyHeadUI>
+    <FriendHeadUI>HPFriend_HeroLv1</FriendHeadUI>
+    <EnemyHeadUI>HPEnemyTeam_HeroLv1</EnemyHeadUI>
+    <HeroSkinAttr type="ResSystemHeroSkinAttr">
+        <Effect>0 </Effect>
+        <Type>0 </Type>
+        <Num>0 </Num>
+    </HeroSkinAttr>
+    <Desc_HeroSkin type="ResSystemHeroSkinFeatures">
+        <Icon>UITexture/hero/hum_hero001/hum_hero001_yuan</Icon>
+        <Desc>暴力金属的摇滚范</Desc>
+    </Desc_HeroSkin>
+    <Desc_HeroSkin type="ResSystemHeroSkinFeatures">
+        <Icon></Icon>
+        <Desc></Desc>
+    </Desc_HeroSkin>
+    <PaybackItemID>31100002 </PaybackItemID>
+    <PaybackItemNum>5 </PaybackItemNum>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+</ResSystemHeroSkinDesc>
+<ResSystemHeroSkinDesc version="1">
+    <ResID>1302001 </ResID>
+    <ModePath>prefab/character/elf/elf_hero002/elf_hero002/elf_hero002_M_pre</ModePath>
+    <HightModePath>prefab/character/elf/elf_hero002/elf_hero002/elf_hero002_H_pre</HightModePath>
+    <DeadModePath>prefab/character/elf/elf_hero002/elf_hero002/elf_hero002_ghost_pre</DeadModePath>
+    <HightModeBirthVoicePath>audio/hero/10000302/birth</HightModeBirthVoicePath>
+    <HightModeDeathVoicePath>audio/hero/10000302/death</HightModeDeathVoicePath>
+    <HightModeShowAudioPath>audio/hero/10000302/show</HightModeShowAudioPath>
+    <HightModeTouchVoice>audio/hero/10000302/touch</HightModeTouchVoice>
+    <HightModeTalkVoicePath>audio/hero/10000302/talk</HightModeTalkVoicePath>
+    <HightModeZoomScale>130 </HightModeZoomScale>
+    <HightModeShowPosY>0 </HightModeShowPosY>
+    <BillboardPicture_SelectHero>T_ICON_tubiao_01</BillboardPicture_SelectHero>
+    <BillboardPicture_FullS>hero001_poster_full</BillboardPicture_FullS>
+    <BillboardPicture_Loading>UITexture/hero/elf_hero002/elf_hero002_card02</BillboardPicture_Loading>
+    <BillboardPicture_Result>UITexture/hero/elf_hero002/elf_hero002_poster_cut</BillboardPicture_Result>
+    <ShowIcon>UITexture/hero/elf_hero002/elf_hero002_card</ShowIcon>
+    <CircleIcon>UITexture/hero/elf_hero002/elf_hero002_yuan</CircleIcon>
+    <SquareIcon>UITexture/hero/elf_hero002/elf_hero002</SquareIcon>
+    <Background>UIBoothBk_elf1</Background>
+    <MyHeadUI>HPMyTeam_HeroLv1</MyHeadUI>
+    <FriendHeadUI>HPFriend_HeroLv1</FriendHeadUI>
+    <EnemyHeadUI>HPEnemyTeam_HeroLv1</EnemyHeadUI>
+    <HeroSkinAttr type="ResSystemHeroSkinAttr">
+        <Effect>0 </Effect>
+        <Type>0 </Type>
+        <Num>0 </Num>
+    </HeroSkinAttr>
+    <Desc_HeroSkin type="ResSystemHeroSkinFeatures">
+        <Icon>UITexture/hero/hum_hero002/hum_hero002_yuan</Icon>
+        <Desc>暴力金属的摇滚范</Desc>
+    </Desc_HeroSkin>
+    <Desc_HeroSkin type="ResSystemHeroSkinFeatures">
+        <Icon></Icon>
+        <Desc></Desc>
+    </Desc_HeroSkin>
+    <PaybackItemID>0 </PaybackItemID>
+    <PaybackItemNum>0 </PaybackItemNum>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+</ResSystemHeroSkinDesc>
+<ResSystemHeroSkinDesc version="1">
+    <ResID>1302002 </ResID>
+    <ModePath>prefab/character/elf/elf_hero002/elf_hero002_skin02/elf_hero002_M_skin02_pre</ModePath>
+    <HightModePath>prefab/character/elf/elf_hero002/elf_hero002_skin02/elf_hero002_H_skin02_pre</HightModePath>
+    <DeadModePath>prefab/character/elf/elf_hero002/elf_hero002_skin02/elf_hero002_ghost_skin02_pre</DeadModePath>
+    <HightModeBirthVoicePath>audio/hero/10000302/birth</HightModeBirthVoicePath>
+    <HightModeDeathVoicePath>audio/hero/10000302/death</HightModeDeathVoicePath>
+    <HightModeShowAudioPath>audio/hero/10000302/show</HightModeShowAudioPath>
+    <HightModeTouchVoice>audio/hero/10000302/touch</HightModeTouchVoice>
+    <HightModeTalkVoicePath>audio/hero/10000302/talk</HightModeTalkVoicePath>
+    <HightModeZoomScale>130 </HightModeZoomScale>
+    <HightModeShowPosY>0 </HightModeShowPosY>
+    <BillboardPicture_SelectHero>T_ICON_tubiao_01</BillboardPicture_SelectHero>
+    <BillboardPicture_FullS>hero001_poster_full</BillboardPicture_FullS>
+    <BillboardPicture_Loading>UITexture/hero/elf_hero002/pifu/002/elf_hero002_card02_pifu_002</BillboardPicture_Loading>
+    <BillboardPicture_Result>UITexture/hero/elf_hero002/pifu/002/elf_hero002_poster_cut_pifu_002</BillboardPicture_Result>
+    <ShowIcon>UITexture/hero/elf_hero002/pifu/002/elf_hero002_card_pifu_002</ShowIcon>
+    <CircleIcon>UITexture/hero/elf_hero002/pifu/002/elf_hero002_yuan_pifu_002</CircleIcon>
+    <SquareIcon>UITexture/hero/elf_hero002/pifu/002/elf_hero002_pifu_002</SquareIcon>
+    <Background>UIBoothBk_elf1</Background>
+    <MyHeadUI>HPMyTeam_HeroLv1</MyHeadUI>
+    <FriendHeadUI>HPFriend_HeroLv1</FriendHeadUI>
+    <EnemyHeadUI>HPEnemyTeam_HeroLv1</EnemyHeadUI>
+    <HeroSkinAttr type="ResSystemHeroSkinAttr">
+        <Effect>0 </Effect>
+        <Type>0 </Type>
+        <Num>0 </Num>
+    </HeroSkinAttr>
+    <Desc_HeroSkin type="ResSystemHeroSkinFeatures">
+        <Icon>UITexture/hero/hum_hero002/hum_hero002_yuan</Icon>
+        <Desc>暴力金属的摇滚范</Desc>
+    </Desc_HeroSkin>
+    <Desc_HeroSkin type="ResSystemHeroSkinFeatures">
+        <Icon></Icon>
+        <Desc></Desc>
+    </Desc_HeroSkin>
+    <PaybackItemID>31100002 </PaybackItemID>
+    <PaybackItemNum>5 </PaybackItemNum>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+</ResSystemHeroSkinDesc>
+<ResSystemHeroSkinDesc version="1">
+    <ResID>1305001 </ResID>
+    <ModePath>prefab/character/elf/elf_hero005/elf_hero005_01_M_pre</ModePath>
+    <HightModePath>prefab/character/elf/elf_hero005/elf_hero005_H_pre</HightModePath>
+    <DeadModePath>prefab/character/elf/elf_hero001/elf_hero001_01/elf_hero001_01_ghost_pre</DeadModePath>
+    <HightModeBirthVoicePath>audio/hero/10000301/birth</HightModeBirthVoicePath>
+    <HightModeDeathVoicePath>audio/hero/10000301/death</HightModeDeathVoicePath>
+    <HightModeShowAudioPath>audio/hero/10000301/show</HightModeShowAudioPath>
+    <HightModeTouchVoice>audio/hero/10000301/touch</HightModeTouchVoice>
+    <HightModeTalkVoicePath>audio/hero/10000301/talk</HightModeTalkVoicePath>
+    <HightModeZoomScale>110 </HightModeZoomScale>
+    <HightModeShowPosY>0 </HightModeShowPosY>
+    <BillboardPicture_SelectHero>T_ICON_tubiao_01</BillboardPicture_SelectHero>
+    <BillboardPicture_FullS>hero001_poster_full</BillboardPicture_FullS>
+    <BillboardPicture_Loading>UITexture/hero/elf_hero001/elf_hero001_card02</BillboardPicture_Loading>
+    <BillboardPicture_Result>UITexture/hero/elf_hero001/elf_hero001_poster_cut</BillboardPicture_Result>
+    <ShowIcon>UITexture/hero/elf_hero001/elf_hero001_card</ShowIcon>
+    <CircleIcon>UITexture/hero/elf_hero001/elf_hero001_yuan</CircleIcon>
+    <SquareIcon>UITexture/hero/elf_hero001/elf_hero001</SquareIcon>
+    <Background>UIBoothBk_elf1</Background>
+    <MyHeadUI>HPMyTeam_HeroLv1</MyHeadUI>
+    <FriendHeadUI>HPFriend_HeroLv1</FriendHeadUI>
+    <EnemyHeadUI>HPEnemyTeam_HeroLv1</EnemyHeadUI>
+    <HeroSkinAttr type="ResSystemHeroSkinAttr">
+        <Effect>0 </Effect>
+        <Type>0 </Type>
+        <Num>0 </Num>
+    </HeroSkinAttr>
+    <Desc_HeroSkin type="ResSystemHeroSkinFeatures">
+        <Icon>UITexture/hero/hum_hero001/hum_hero001_yuan</Icon>
+        <Desc>暴力金属的摇滚范</Desc>
+    </Desc_HeroSkin>
+    <Desc_HeroSkin type="ResSystemHeroSkinFeatures">
+        <Icon></Icon>
+        <Desc></Desc>
+    </Desc_HeroSkin>
+    <PaybackItemID>0 </PaybackItemID>
+    <PaybackItemNum>0 </PaybackItemNum>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+</ResSystemHeroSkinDesc>
+<ResSystemHeroSkinDesc version="1">
+    <ResID>1401001 </ResID>
+    <ModePath>prefab/character/neu/neu_hero001/neu_hero001_M_pre</ModePath>
+    <HightModePath>prefab/character/neu/neu_hero001/neu_hero001_H_pre</HightModePath>
+    <DeadModePath>prefab/character/neu/neu_hero001/neu_hero001_ghost_pre</DeadModePath>
+    <HightModeBirthVoicePath>audio/hero/10000401/birth</HightModeBirthVoicePath>
+    <HightModeDeathVoicePath>audio/hero/10000401/death</HightModeDeathVoicePath>
+    <HightModeShowAudioPath>audio/hero/10000401/show</HightModeShowAudioPath>
+    <HightModeTouchVoice>audio/hero/10000401/touch</HightModeTouchVoice>
+    <HightModeTalkVoicePath>audio/hero/10000401/talk</HightModeTalkVoicePath>
+    <HightModeZoomScale>120 </HightModeZoomScale>
+    <HightModeShowPosY>0 </HightModeShowPosY>
+    <BillboardPicture_SelectHero>T_ICON_tubiao_01</BillboardPicture_SelectHero>
+    <BillboardPicture_FullS>hero001_poster_full</BillboardPicture_FullS>
+    <BillboardPicture_Loading>UITexture/hero/neu_hero001/neu_hero001_card02</BillboardPicture_Loading>
+    <BillboardPicture_Result>UITexture/hero/neu_hero001/neu_hero001_poster_cut</BillboardPicture_Result>
+    <ShowIcon>UITexture/hero/neu_hero001/neu_hero001_card</ShowIcon>
+    <CircleIcon>UITexture/hero/neu_hero001/neu_hero001_yuan</CircleIcon>
+    <SquareIcon>UITexture/hero/neu_hero001/neu_hero001</SquareIcon>
+    <Background>UIBoothBk_Neutral1</Background>
+    <MyHeadUI>HPMyTeam_HeroLv1</MyHeadUI>
+    <FriendHeadUI>HPFriend_HeroLv1</FriendHeadUI>
+    <EnemyHeadUI>HPEnemyTeam_HeroLv1</EnemyHeadUI>
+    <HeroSkinAttr type="ResSystemHeroSkinAttr">
+        <Effect>0 </Effect>
+        <Type>0 </Type>
+        <Num>0 </Num>
+    </HeroSkinAttr>
+    <Desc_HeroSkin type="ResSystemHeroSkinFeatures">
+        <Icon>UITexture/hero/hum_hero002/hum_hero002_yuan</Icon>
+        <Desc>暴力金属的摇滚范</Desc>
+    </Desc_HeroSkin>
+    <Desc_HeroSkin type="ResSystemHeroSkinFeatures">
+        <Icon></Icon>
+        <Desc></Desc>
+    </Desc_HeroSkin>
+    <PaybackItemID>0 </PaybackItemID>
+    <PaybackItemNum>0 </PaybackItemNum>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+</ResSystemHeroSkinDesc>
+<ResSystemHeroSkinDesc version="1">
+    <ResID>1401002 </ResID>
+    <ModePath>prefab/character/neu/neu_hero001/neu_hero001_skin01/neu_hero001_M_skin01_pre</ModePath>
+    <HightModePath>prefab/character/neu/neu_hero001/neu_hero001_skin01/neu_hero001_H_skin01_pre</HightModePath>
+    <DeadModePath>prefab/character/neu/neu_hero001/neu_hero001_skin01/neu_hero001_ghost_skin01_pre</DeadModePath>
+    <HightModeBirthVoicePath>audio/hero/10000401/birth</HightModeBirthVoicePath>
+    <HightModeDeathVoicePath>audio/hero/10000401/death</HightModeDeathVoicePath>
+    <HightModeShowAudioPath>audio/hero/10000401/show</HightModeShowAudioPath>
+    <HightModeTouchVoice>audio/hero/10000401/touch</HightModeTouchVoice>
+    <HightModeTalkVoicePath>audio/hero/10000401/talk</HightModeTalkVoicePath>
+    <HightModeZoomScale>120 </HightModeZoomScale>
+    <HightModeShowPosY>0 </HightModeShowPosY>
+    <BillboardPicture_SelectHero>T_ICON_tubiao_01</BillboardPicture_SelectHero>
+    <BillboardPicture_FullS>hero001_poster_full</BillboardPicture_FullS>
+    <BillboardPicture_Loading>UITexture/hero/neu_hero001/pifu/001/neu_hero001_card02_pifu_001</BillboardPicture_Loading>
+    <BillboardPicture_Result>UITexture/hero/neu_hero001/pifu/001/neu_hero001_poster_cut_pifu_001</BillboardPicture_Result>
+    <ShowIcon>UITexture/hero/neu_hero001/pifu/001/neu_hero001_card_pifu_001</ShowIcon>
+    <CircleIcon>UITexture/hero/neu_hero001/pifu/001/neu_hero001_yuan_pifu_001</CircleIcon>
+    <SquareIcon>UITexture/hero/neu_hero001/pifu/001/neu_hero001_pifu_001</SquareIcon>
+    <Background>UIBoothBk_Neutral1</Background>
+    <MyHeadUI>HPMyTeam_HeroLv1</MyHeadUI>
+    <FriendHeadUI>HPFriend_HeroLv1</FriendHeadUI>
+    <EnemyHeadUI>HPEnemyTeam_HeroLv1</EnemyHeadUI>
+    <HeroSkinAttr type="ResSystemHeroSkinAttr">
+        <Effect>0 </Effect>
+        <Type>0 </Type>
+        <Num>0 </Num>
+    </HeroSkinAttr>
+    <Desc_HeroSkin type="ResSystemHeroSkinFeatures">
+        <Icon>UITexture/hero/hum_hero002/hum_hero002_yuan</Icon>
+        <Desc>暴力金属的摇滚范</Desc>
+    </Desc_HeroSkin>
+    <Desc_HeroSkin type="ResSystemHeroSkinFeatures">
+        <Icon></Icon>
+        <Desc></Desc>
+    </Desc_HeroSkin>
+    <PaybackItemID>31100002 </PaybackItemID>
+    <PaybackItemNum>5 </PaybackItemNum>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+</ResSystemHeroSkinDesc>
+<ResSystemHeroSkinDesc version="1">
+    <ResID>1401003 </ResID>
+    <ModePath>prefab/character/neu/neu_hero001/neu_hero001_skin02/neu_hero001_M_skin02_pre</ModePath>
+    <HightModePath>prefab/character/neu/neu_hero001/neu_hero001_skin02/neu_hero001_H_skin02_pre</HightModePath>
+    <DeadModePath>prefab/character/neu/neu_hero001/neu_hero001_skin02/neu_hero001_ghost_skin02_pre</DeadModePath>
+    <HightModeBirthVoicePath>audio/hero/10000401/birth</HightModeBirthVoicePath>
+    <HightModeDeathVoicePath>audio/hero/10000401/death</HightModeDeathVoicePath>
+    <HightModeShowAudioPath>audio/hero/10000401/show</HightModeShowAudioPath>
+    <HightModeTouchVoice>audio/hero/10000401/touch</HightModeTouchVoice>
+    <HightModeTalkVoicePath>audio/hero/10000401/talk</HightModeTalkVoicePath>
+    <HightModeZoomScale>120 </HightModeZoomScale>
+    <HightModeShowPosY>0 </HightModeShowPosY>
+    <BillboardPicture_SelectHero>T_ICON_tubiao_01</BillboardPicture_SelectHero>
+    <BillboardPicture_FullS>hero001_poster_full</BillboardPicture_FullS>
+    <BillboardPicture_Loading>UITexture/hero/neu_hero001/pifu/002/neu_hero001_card02_pifu_002</BillboardPicture_Loading>
+    <BillboardPicture_Result>UITexture/hero/neu_hero001/pifu/002/neu_hero001_poster_cut_pifu_002</BillboardPicture_Result>
+    <ShowIcon>UITexture/hero/neu_hero001/pifu/002/neu_hero001_card_pifu_002</ShowIcon>
+    <CircleIcon>UITexture/hero/neu_hero001/pifu/002/neu_hero001_yuan_pifu_002</CircleIcon>
+    <SquareIcon>UITexture/hero/neu_hero001/pifu/002/neu_hero001_pifu_002</SquareIcon>
+    <Background>UIBoothBk_Neutral1</Background>
+    <MyHeadUI>HPMyTeam_HeroLv1</MyHeadUI>
+    <FriendHeadUI>HPFriend_HeroLv1</FriendHeadUI>
+    <EnemyHeadUI>HPEnemyTeam_HeroLv1</EnemyHeadUI>
+    <HeroSkinAttr type="ResSystemHeroSkinAttr">
+        <Effect>0 </Effect>
+        <Type>0 </Type>
+        <Num>0 </Num>
+    </HeroSkinAttr>
+    <Desc_HeroSkin type="ResSystemHeroSkinFeatures">
+        <Icon>UITexture/hero/hum_hero002/hum_hero002_yuan</Icon>
+        <Desc>暴力金属的摇滚范</Desc>
+    </Desc_HeroSkin>
+    <Desc_HeroSkin type="ResSystemHeroSkinFeatures">
+        <Icon></Icon>
+        <Desc></Desc>
+    </Desc_HeroSkin>
+    <PaybackItemID>31100002 </PaybackItemID>
+    <PaybackItemNum>5 </PaybackItemNum>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+</ResSystemHeroSkinDesc>
+<ResSystemHeroSkinDesc version="1">
+    <ResID>1402001 </ResID>
+    <ModePath>prefab/character/neu/neu_hero002/neu_hero002_M_pre</ModePath>
+    <HightModePath>prefab/character/neu/neu_hero002/neu_hero002_H_pre</HightModePath>
+    <DeadModePath>prefab/character/neu/neu_hero002/neu_hero002_ghost_pre</DeadModePath>
+    <HightModeBirthVoicePath>audio/hero/10000402/birth</HightModeBirthVoicePath>
+    <HightModeDeathVoicePath>audio/hero/10000402/death</HightModeDeathVoicePath>
+    <HightModeShowAudioPath>audio/hero/10000402/show</HightModeShowAudioPath>
+    <HightModeTouchVoice>audio/hero/10000402/touch</HightModeTouchVoice>
+    <HightModeTalkVoicePath>audio/hero/10000402/talk</HightModeTalkVoicePath>
+    <HightModeZoomScale>115 </HightModeZoomScale>
+    <HightModeShowPosY>0 </HightModeShowPosY>
+    <BillboardPicture_SelectHero>T_ICON_tubiao_01</BillboardPicture_SelectHero>
+    <BillboardPicture_FullS>hero001_poster_full</BillboardPicture_FullS>
+    <BillboardPicture_Loading>UITexture/hero/neu_hero002/neu_hero002_card02</BillboardPicture_Loading>
+    <BillboardPicture_Result>UITexture/hero/neu_hero002/neu_hero002_poster_cut</BillboardPicture_Result>
+    <ShowIcon>UITexture/hero/neu_hero002/neu_hero002_card</ShowIcon>
+    <CircleIcon>UITexture/hero/neu_hero002/neu_hero002_yuan</CircleIcon>
+    <SquareIcon>UITexture/hero/neu_hero002/neu_hero002</SquareIcon>
+    <Background>UIBoothBk_Neutral1</Background>
+    <MyHeadUI>HPMyTeam_HeroLv1</MyHeadUI>
+    <FriendHeadUI>HPFriend_HeroLv1</FriendHeadUI>
+    <EnemyHeadUI>HPEnemyTeam_HeroLv1</EnemyHeadUI>
+    <HeroSkinAttr type="ResSystemHeroSkinAttr">
+        <Effect>0 </Effect>
+        <Type>0 </Type>
+        <Num>0 </Num>
+    </HeroSkinAttr>
+    <Desc_HeroSkin type="ResSystemHeroSkinFeatures">
+        <Icon>UITexture/hero/hum_hero002/hum_hero002_yuan</Icon>
+        <Desc>暴力金属的摇滚范</Desc>
+    </Desc_HeroSkin>
+    <Desc_HeroSkin type="ResSystemHeroSkinFeatures">
+        <Icon></Icon>
+        <Desc></Desc>
+    </Desc_HeroSkin>
+    <PaybackItemID>0 </PaybackItemID>
+    <PaybackItemNum>0 </PaybackItemNum>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+</ResSystemHeroSkinDesc>
+<ResSystemHeroSkinDesc version="1">
+    <ResID>1402002 </ResID>
+    <ModePath>prefab/character/neu/neu_hero002/neu_hero002_skin01/neu_hero002_M_skin01_pre</ModePath>
+    <HightModePath>prefab/character/neu/neu_hero002/neu_hero002_skin01/neu_hero002_H_skin01_pre</HightModePath>
+    <DeadModePath>prefab/character/neu/neu_hero002/neu_hero002_skin01/neu_hero002_ghost_skin01_pre</DeadModePath>
+    <HightModeBirthVoicePath>audio/hero/10000402/birth</HightModeBirthVoicePath>
+    <HightModeDeathVoicePath>audio/hero/10000402/death</HightModeDeathVoicePath>
+    <HightModeShowAudioPath>audio/hero/10000402/show</HightModeShowAudioPath>
+    <HightModeTouchVoice>audio/hero/10000402/touch</HightModeTouchVoice>
+    <HightModeTalkVoicePath>audio/hero/10000402/talk</HightModeTalkVoicePath>
+    <HightModeZoomScale>115 </HightModeZoomScale>
+    <HightModeShowPosY>0 </HightModeShowPosY>
+    <BillboardPicture_SelectHero>T_ICON_tubiao_01</BillboardPicture_SelectHero>
+    <BillboardPicture_FullS>hero001_poster_full</BillboardPicture_FullS>
+    <BillboardPicture_Loading>UITexture/hero/neu_hero002/pifu/001/neu_hero002_card02_pifu_001</BillboardPicture_Loading>
+    <BillboardPicture_Result>UITexture/hero/neu_hero002/pifu/001/neu_hero002_poster_cut_pifu_001</BillboardPicture_Result>
+    <ShowIcon>UITexture/hero/neu_hero002/pifu/001/neu_hero002_card_pifu_001</ShowIcon>
+    <CircleIcon>UITexture/hero/neu_hero002/pifu/001/neu_hero002_yuan_pifu_001</CircleIcon>
+    <SquareIcon>UITexture/hero/neu_hero002/pifu/001/neu_hero002_pifu_001</SquareIcon>
+    <Background>UIBoothBk_Neutral1</Background>
+    <MyHeadUI>HPMyTeam_HeroLv1</MyHeadUI>
+    <FriendHeadUI>HPFriend_HeroLv1</FriendHeadUI>
+    <EnemyHeadUI>HPEnemyTeam_HeroLv1</EnemyHeadUI>
+    <HeroSkinAttr type="ResSystemHeroSkinAttr">
+        <Effect>0 </Effect>
+        <Type>0 </Type>
+        <Num>0 </Num>
+    </HeroSkinAttr>
+    <Desc_HeroSkin type="ResSystemHeroSkinFeatures">
+        <Icon>UITexture/hero/hum_hero002/hum_hero002_yuan</Icon>
+        <Desc>暴力金属的摇滚范</Desc>
+    </Desc_HeroSkin>
+    <Desc_HeroSkin type="ResSystemHeroSkinFeatures">
+        <Icon></Icon>
+        <Desc></Desc>
+    </Desc_HeroSkin>
+    <PaybackItemID>0 </PaybackItemID>
+    <PaybackItemNum>0 </PaybackItemNum>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+</ResSystemHeroSkinDesc>
+<ResSystemHeroSkinDesc version="1">
+    <ResID>1403001 </ResID>
+    <ModePath>prefab/character/neu/neu_hero003/neu_hero003_M_pre</ModePath>
+    <HightModePath>prefab/character/neu/neu_hero003/neu_hero003_H_pre</HightModePath>
+    <DeadModePath>prefab/character/neu/neu_hero003/neu_hero003_ghost_pre</DeadModePath>
+    <HightModeBirthVoicePath>audio/hero/10000403/birth</HightModeBirthVoicePath>
+    <HightModeDeathVoicePath>audio/hero/10000403/death</HightModeDeathVoicePath>
+    <HightModeShowAudioPath>audio/hero/10000403/show</HightModeShowAudioPath>
+    <HightModeTouchVoice>audio/hero/10000403/touch</HightModeTouchVoice>
+    <HightModeTalkVoicePath>audio/hero/10000403/talk</HightModeTalkVoicePath>
+    <HightModeZoomScale>130 </HightModeZoomScale>
+    <HightModeShowPosY>0 </HightModeShowPosY>
+    <BillboardPicture_SelectHero>T_ICON_tubiao_01</BillboardPicture_SelectHero>
+    <BillboardPicture_FullS>hero001_poster_full</BillboardPicture_FullS>
+    <BillboardPicture_Loading>UITexture/hero/neu_hero003/neu_hero003_card02</BillboardPicture_Loading>
+    <BillboardPicture_Result>UITexture/hero/neu_hero003/neu_hero003_poster_cut</BillboardPicture_Result>
+    <ShowIcon>UITexture/hero/neu_hero003/neu_hero003_card</ShowIcon>
+    <CircleIcon>UITexture/hero/neu_hero003/neu_hero003_yuan</CircleIcon>
+    <SquareIcon>UITexture/hero/neu_hero003/neu_hero003</SquareIcon>
+    <Background>UIBoothBk_Neutral1</Background>
+    <MyHeadUI>HPMyTeam_HeroLv1</MyHeadUI>
+    <FriendHeadUI>HPFriend_HeroLv1</FriendHeadUI>
+    <EnemyHeadUI>HPEnemyTeam_HeroLv1</EnemyHeadUI>
+    <HeroSkinAttr type="ResSystemHeroSkinAttr">
+        <Effect>0 </Effect>
+        <Type>0 </Type>
+        <Num>0 </Num>
+    </HeroSkinAttr>
+    <Desc_HeroSkin type="ResSystemHeroSkinFeatures">
+        <Icon>UITexture/hero/hum_hero002/hum_hero002_yuan</Icon>
+        <Desc>暴力金属的摇滚范</Desc>
+    </Desc_HeroSkin>
+    <Desc_HeroSkin type="ResSystemHeroSkinFeatures">
+        <Icon></Icon>
+        <Desc></Desc>
+    </Desc_HeroSkin>
+    <PaybackItemID>0 </PaybackItemID>
+    <PaybackItemNum>0 </PaybackItemNum>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+</ResSystemHeroSkinDesc>
+<ResSystemHeroSkinDesc version="1">
+    <ResID>1403002 </ResID>
+    <ModePath>prefab/character/neu/neu_hero003/neu_hero003_skin01/neu_hero003_M_skin01_pre</ModePath>
+    <HightModePath>prefab/character/neu/neu_hero003/neu_hero003_skin01/neu_hero003_H_skin01_pre</HightModePath>
+    <DeadModePath>prefab/character/neu/neu_hero003/neu_hero003_skin01/neu_hero003_ghost_skin01_pre</DeadModePath>
+    <HightModeBirthVoicePath>audio/hero/10000403/birth</HightModeBirthVoicePath>
+    <HightModeDeathVoicePath>audio/hero/10000403/death</HightModeDeathVoicePath>
+    <HightModeShowAudioPath>audio/hero/10000403/show</HightModeShowAudioPath>
+    <HightModeTouchVoice>audio/hero/10000403/touch</HightModeTouchVoice>
+    <HightModeTalkVoicePath>audio/hero/10000403/talk</HightModeTalkVoicePath>
+    <HightModeZoomScale>130 </HightModeZoomScale>
+    <HightModeShowPosY>0 </HightModeShowPosY>
+    <BillboardPicture_SelectHero>T_ICON_tubiao_01</BillboardPicture_SelectHero>
+    <BillboardPicture_FullS>hero001_poster_full</BillboardPicture_FullS>
+    <BillboardPicture_Loading>UITexture/hero/neu_hero003/pifu/001/neu_hero003_card02_pifu_001</BillboardPicture_Loading>
+    <BillboardPicture_Result>UITexture/hero/neu_hero003/pifu/001/neu_hero003_poster_cut_pifu_001</BillboardPicture_Result>
+    <ShowIcon>UITexture/hero/neu_hero003/pifu/001/neu_hero003_card_pifu_001</ShowIcon>
+    <CircleIcon>UITexture/hero/neu_hero003/pifu/001/neu_hero003_yuan_pifu_001</CircleIcon>
+    <SquareIcon>UITexture/hero/neu_hero003/pifu/001/neu_hero003_pifu_001</SquareIcon>
+    <Background>UIBoothBk_Neutral1</Background>
+    <MyHeadUI>HPMyTeam_HeroLv1</MyHeadUI>
+    <FriendHeadUI>HPFriend_HeroLv1</FriendHeadUI>
+    <EnemyHeadUI>HPEnemyTeam_HeroLv1</EnemyHeadUI>
+    <HeroSkinAttr type="ResSystemHeroSkinAttr">
+        <Effect>0 </Effect>
+        <Type>0 </Type>
+        <Num>0 </Num>
+    </HeroSkinAttr>
+    <Desc_HeroSkin type="ResSystemHeroSkinFeatures">
+        <Icon>UITexture/hero/hum_hero002/hum_hero002_yuan</Icon>
+        <Desc>暴力金属的摇滚范</Desc>
+    </Desc_HeroSkin>
+    <Desc_HeroSkin type="ResSystemHeroSkinFeatures">
+        <Icon></Icon>
+        <Desc></Desc>
+    </Desc_HeroSkin>
+    <PaybackItemID>31100002 </PaybackItemID>
+    <PaybackItemNum>5 </PaybackItemNum>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+</ResSystemHeroSkinDesc>
+<ResSystemHeroSkinDesc version="1">
+    <ResID>1404001 </ResID>
+    <ModePath>prefab/character/neu/neu_hero004/neu_hero004_M_pre</ModePath>
+    <HightModePath>prefab/character/neu/neu_hero004/neu_hero004_H_pre</HightModePath>
+    <DeadModePath>prefab/character/neu/neu_hero004/neu_hero004_ghost_pre</DeadModePath>
+    <HightModeBirthVoicePath>audio/hero/10000404/birth</HightModeBirthVoicePath>
+    <HightModeDeathVoicePath>audio/hero/10000404/death</HightModeDeathVoicePath>
+    <HightModeShowAudioPath>audio/hero/10000404/show</HightModeShowAudioPath>
+    <HightModeTouchVoice>audio/hero/10000404/touch</HightModeTouchVoice>
+    <HightModeTalkVoicePath>audio/hero/10000404/talk</HightModeTalkVoicePath>
+    <HightModeZoomScale>120 </HightModeZoomScale>
+    <HightModeShowPosY>0 </HightModeShowPosY>
+    <BillboardPicture_SelectHero>T_ICON_tubiao_01</BillboardPicture_SelectHero>
+    <BillboardPicture_FullS>hero001_poster_full</BillboardPicture_FullS>
+    <BillboardPicture_Loading>UITexture/hero/neu_hero004/neu_hero004_card02</BillboardPicture_Loading>
+    <BillboardPicture_Result>UITexture/hero/neu_hero004/neu_hero004_poster_cut</BillboardPicture_Result>
+    <ShowIcon>UITexture/hero/neu_hero004/neu_hero004_card</ShowIcon>
+    <CircleIcon>UITexture/hero/neu_hero004/neu_hero004_yuan</CircleIcon>
+    <SquareIcon>UITexture/hero/neu_hero004/neu_hero004</SquareIcon>
+    <Background>UIBoothBk_elf1</Background>
+    <MyHeadUI>HPMyTeam_HeroLv1</MyHeadUI>
+    <FriendHeadUI>HPFriend_HeroLv1</FriendHeadUI>
+    <EnemyHeadUI>HPEnemyTeam_HeroLv1</EnemyHeadUI>
+    <HeroSkinAttr type="ResSystemHeroSkinAttr">
+        <Effect>0 </Effect>
+        <Type>0 </Type>
+        <Num>0 </Num>
+    </HeroSkinAttr>
+    <Desc_HeroSkin type="ResSystemHeroSkinFeatures">
+        <Icon>UITexture/hero/hum_hero002/hum_hero002_yuan</Icon>
+        <Desc>暴力金属的摇滚范</Desc>
+    </Desc_HeroSkin>
+    <Desc_HeroSkin type="ResSystemHeroSkinFeatures">
+        <Icon></Icon>
+        <Desc></Desc>
+    </Desc_HeroSkin>
+    <PaybackItemID>0 </PaybackItemID>
+    <PaybackItemNum>0 </PaybackItemNum>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+</ResSystemHeroSkinDesc>
+<ResSystemHeroSkinDesc version="1">
+    <ResID>1404002 </ResID>
+    <ModePath>prefab/character/neu/neu_hero004/neu_hero004_skin01/neu_hero004_M_skin01_pre</ModePath>
+    <HightModePath>prefab/character/neu/neu_hero004/neu_hero004_skin01/neu_hero004_H_skin01_pre</HightModePath>
+    <DeadModePath>prefab/character/neu/neu_hero004/neu_hero004_skin01/neu_hero004_ghost_skin01_pre</DeadModePath>
+    <HightModeBirthVoicePath>audio/hero/10000404/birth</HightModeBirthVoicePath>
+    <HightModeDeathVoicePath>audio/hero/10000404/death</HightModeDeathVoicePath>
+    <HightModeShowAudioPath>audio/hero/10000404/show</HightModeShowAudioPath>
+    <HightModeTouchVoice>audio/hero/10000404/touch</HightModeTouchVoice>
+    <HightModeTalkVoicePath>audio/hero/10000404/talk</HightModeTalkVoicePath>
+    <HightModeZoomScale>120 </HightModeZoomScale>
+    <HightModeShowPosY>0 </HightModeShowPosY>
+    <BillboardPicture_SelectHero>T_ICON_tubiao_01</BillboardPicture_SelectHero>
+    <BillboardPicture_FullS>hero001_poster_full</BillboardPicture_FullS>
+    <BillboardPicture_Loading>UITexture/hero/neu_hero004/pifu/001/neu_hero004_card02_pifu_001</BillboardPicture_Loading>
+    <BillboardPicture_Result>UITexture/hero/neu_hero004/pifu/001/neu_hero004_poster_cut_pifu_001</BillboardPicture_Result>
+    <ShowIcon>UITexture/hero/neu_hero004/pifu/001/neu_hero004_card_pifu_001</ShowIcon>
+    <CircleIcon>UITexture/hero/neu_hero004/pifu/001/neu_hero004_yuan_pifu_001</CircleIcon>
+    <SquareIcon>UITexture/hero/neu_hero004/pifu/001/neu_hero004_pifu_001</SquareIcon>
+    <Background>UIBoothBk_elf1</Background>
+    <MyHeadUI>HPMyTeam_HeroLv1</MyHeadUI>
+    <FriendHeadUI>HPFriend_HeroLv1</FriendHeadUI>
+    <EnemyHeadUI>HPEnemyTeam_HeroLv1</EnemyHeadUI>
+    <HeroSkinAttr type="ResSystemHeroSkinAttr">
+        <Effect>0 </Effect>
+        <Type>0 </Type>
+        <Num>0 </Num>
+    </HeroSkinAttr>
+    <Desc_HeroSkin type="ResSystemHeroSkinFeatures">
+        <Icon></Icon>
+        <Desc></Desc>
+    </Desc_HeroSkin>
+    <Desc_HeroSkin type="ResSystemHeroSkinFeatures">
+        <Icon></Icon>
+        <Desc></Desc>
+    </Desc_HeroSkin>
+    <PaybackItemID>31100002 </PaybackItemID>
+    <PaybackItemNum>5 </PaybackItemNum>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+</ResSystemHeroSkinDesc>
+<ResSystemHeroSkinDesc version="1">
+    <ResID>1405001 </ResID>
+    <ModePath>prefab/character/neu/neu_hero005/neu_hero005_M_pre</ModePath>
+    <HightModePath>prefab/character/neu/neu_hero005/neu_hero005_H_pre</HightModePath>
+    <DeadModePath>prefab/character/neu/neu_hero005/neu_hero005_ghost_pre</DeadModePath>
+    <HightModeBirthVoicePath>audio/hero/10000405/birth</HightModeBirthVoicePath>
+    <HightModeDeathVoicePath>audio/hero/10000405/death</HightModeDeathVoicePath>
+    <HightModeShowAudioPath>audio/hero/10000405/show</HightModeShowAudioPath>
+    <HightModeTouchVoice>audio/hero/10000405/touch</HightModeTouchVoice>
+    <HightModeTalkVoicePath>audio/hero/10000405/talk</HightModeTalkVoicePath>
+    <HightModeZoomScale>106 </HightModeZoomScale>
+    <HightModeShowPosY>0 </HightModeShowPosY>
+    <BillboardPicture_SelectHero>T_ICON_tubiao_01</BillboardPicture_SelectHero>
+    <BillboardPicture_FullS>hero001_poster_full</BillboardPicture_FullS>
+    <BillboardPicture_Loading>UITexture/hero/neu_hero005/neu_hero005_card02</BillboardPicture_Loading>
+    <BillboardPicture_Result>UITexture/hero/neu_hero005/neu_hero005_poster_cut</BillboardPicture_Result>
+    <ShowIcon>UITexture/hero/neu_hero005/neu_hero005_card</ShowIcon>
+    <CircleIcon>UITexture/hero/neu_hero005/neu_hero005_yuan</CircleIcon>
+    <SquareIcon>UITexture/hero/neu_hero005/neu_hero005</SquareIcon>
+    <Background>UIBoothBk_Neutral1</Background>
+    <MyHeadUI>HPMyTeam_HeroLv2</MyHeadUI>
+    <FriendHeadUI>HPFriend_HeroLv2</FriendHeadUI>
+    <EnemyHeadUI>HPEnemyTeam_HeroLv2</EnemyHeadUI>
+    <HeroSkinAttr type="ResSystemHeroSkinAttr">
+        <Effect>0 </Effect>
+        <Type>0 </Type>
+        <Num>0 </Num>
+    </HeroSkinAttr>
+    <Desc_HeroSkin type="ResSystemHeroSkinFeatures">
+        <Icon>UITexture/hero/hum_hero002/hum_hero002_yuan</Icon>
+        <Desc>暴力金属的摇滚范</Desc>
+    </Desc_HeroSkin>
+    <Desc_HeroSkin type="ResSystemHeroSkinFeatures">
+        <Icon></Icon>
+        <Desc></Desc>
+    </Desc_HeroSkin>
+    <PaybackItemID>0 </PaybackItemID>
+    <PaybackItemNum>0 </PaybackItemNum>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+</ResSystemHeroSkinDesc>
+<ResSystemHeroSkinDesc version="1">
+    <ResID>1405002 </ResID>
+    <ModePath>prefab/character/neu/neu_hero005/neu_hero005_skin01/neu_hero005_M_skin01_pre</ModePath>
+    <HightModePath>prefab/character/neu/neu_hero005/neu_hero005_skin01/neu_hero005_H_skin01_pre</HightModePath>
+    <DeadModePath>prefab/character/neu/neu_hero005/neu_hero005_skin01/neu_hero005_ghost_skin01_pre</DeadModePath>
+    <HightModeBirthVoicePath>audio/hero/10000405/birth</HightModeBirthVoicePath>
+    <HightModeDeathVoicePath>audio/hero/10000405/death</HightModeDeathVoicePath>
+    <HightModeShowAudioPath>audio/hero/10000405/show</HightModeShowAudioPath>
+    <HightModeTouchVoice>audio/hero/10000405/touch</HightModeTouchVoice>
+    <HightModeTalkVoicePath>audio/hero/10000405/talk</HightModeTalkVoicePath>
+    <HightModeZoomScale>106 </HightModeZoomScale>
+    <HightModeShowPosY>0 </HightModeShowPosY>
+    <BillboardPicture_SelectHero>T_ICON_tubiao_01</BillboardPicture_SelectHero>
+    <BillboardPicture_FullS>hero001_poster_full</BillboardPicture_FullS>
+    <BillboardPicture_Loading>UITexture/hero/neu_hero005/pifu/001/neu_hero005_card02_pifu_001</BillboardPicture_Loading>
+    <BillboardPicture_Result>UITexture/hero/neu_hero005/pifu/001/neu_hero005_poster_cut_pifu_001</BillboardPicture_Result>
+    <ShowIcon>UITexture/hero/neu_hero005/pifu/001/neu_hero005_card_pifu_001</ShowIcon>
+    <CircleIcon>UITexture/hero/neu_hero005/pifu/001/neu_hero005_yuan_pifu_001</CircleIcon>
+    <SquareIcon>UITexture/hero/neu_hero005/pifu/001/neu_hero005_pifu_001</SquareIcon>
+    <Background>UIBoothBk_Neutral1</Background>
+    <MyHeadUI>HPMyTeam_HeroLv2</MyHeadUI>
+    <FriendHeadUI>HPFriend_HeroLv2</FriendHeadUI>
+    <EnemyHeadUI>HPEnemyTeam_HeroLv2</EnemyHeadUI>
+    <HeroSkinAttr type="ResSystemHeroSkinAttr">
+        <Effect>0 </Effect>
+        <Type>0 </Type>
+        <Num>0 </Num>
+    </HeroSkinAttr>
+    <Desc_HeroSkin type="ResSystemHeroSkinFeatures">
+        <Icon>UITexture/hero/hum_hero002/hum_hero002_yuan</Icon>
+        <Desc>暴力金属的摇滚范</Desc>
+    </Desc_HeroSkin>
+    <Desc_HeroSkin type="ResSystemHeroSkinFeatures">
+        <Icon></Icon>
+        <Desc></Desc>
+    </Desc_HeroSkin>
+    <PaybackItemID>31100002 </PaybackItemID>
+    <PaybackItemNum>5 </PaybackItemNum>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+</ResSystemHeroSkinDesc>
+<ResSystemHeroSkinDesc version="1">
+    <ResID>1406001 </ResID>
+    <ModePath>prefab/character/neu/neu_hero006/neu_hero006_M_pre</ModePath>
+    <HightModePath>prefab/character/neu/neu_hero006/neu_hero006_H_pre</HightModePath>
+    <DeadModePath>prefab/character/neu/neu_hero006/neu_hero006_ghost_pre</DeadModePath>
+    <HightModeBirthVoicePath>audio/hero/10000406/birth</HightModeBirthVoicePath>
+    <HightModeDeathVoicePath>audio/hero/10000406/death</HightModeDeathVoicePath>
+    <HightModeShowAudioPath>audio/hero/10000406/show</HightModeShowAudioPath>
+    <HightModeTouchVoice>audio/hero/10000406/touch</HightModeTouchVoice>
+    <HightModeTalkVoicePath>audio/hero/10000406/talk</HightModeTalkVoicePath>
+    <HightModeZoomScale>114 </HightModeZoomScale>
+    <HightModeShowPosY>0 </HightModeShowPosY>
+    <BillboardPicture_SelectHero>T_ICON_tubiao_01</BillboardPicture_SelectHero>
+    <BillboardPicture_FullS>hero001_poster_full</BillboardPicture_FullS>
+    <BillboardPicture_Loading>UITexture/hero/neu_hero006/neu_hero006_card02</BillboardPicture_Loading>
+    <BillboardPicture_Result>UITexture/hero/neu_hero006/neu_hero006_poster_cut</BillboardPicture_Result>
+    <ShowIcon>UITexture/hero/neu_hero006/neu_hero006_card</ShowIcon>
+    <CircleIcon>UITexture/hero/neu_hero006/neu_hero006_yuan</CircleIcon>
+    <SquareIcon>UITexture/hero/neu_hero006/neu_hero006</SquareIcon>
+    <Background>UIBoothBk_Neutral1</Background>
+    <MyHeadUI>HPMyTeam_HeroLv1</MyHeadUI>
+    <FriendHeadUI>HPFriend_HeroLv1</FriendHeadUI>
+    <EnemyHeadUI>HPEnemyTeam_HeroLv1</EnemyHeadUI>
+    <HeroSkinAttr type="ResSystemHeroSkinAttr">
+        <Effect>0 </Effect>
+        <Type>0 </Type>
+        <Num>0 </Num>
+    </HeroSkinAttr>
+    <Desc_HeroSkin type="ResSystemHeroSkinFeatures">
+        <Icon>UITexture/hero/hum_hero002/hum_hero002_yuan</Icon>
+        <Desc>暴力金属的摇滚范</Desc>
+    </Desc_HeroSkin>
+    <Desc_HeroSkin type="ResSystemHeroSkinFeatures">
+        <Icon></Icon>
+        <Desc></Desc>
+    </Desc_HeroSkin>
+    <PaybackItemID>0 </PaybackItemID>
+    <PaybackItemNum>0 </PaybackItemNum>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+</ResSystemHeroSkinDesc>
+<ResSystemHeroSkinDesc version="1">
+    <ResID>1406002 </ResID>
+    <ModePath>prefab/character/neu/neu_hero006/neu_hero006_skin01/neu_hero006_M_skin01_pre</ModePath>
+    <HightModePath>prefab/character/neu/neu_hero006/neu_hero006_skin01/neu_hero006_H_skin01_pre</HightModePath>
+    <DeadModePath>prefab/character/neu/neu_hero006/neu_hero006_skin01/neu_hero006_ghost_skin01_pre</DeadModePath>
+    <HightModeBirthVoicePath>audio/hero/10000406/birth</HightModeBirthVoicePath>
+    <HightModeDeathVoicePath>audio/hero/10000406/death</HightModeDeathVoicePath>
+    <HightModeShowAudioPath>audio/hero/10000406/show</HightModeShowAudioPath>
+    <HightModeTouchVoice>audio/hero/10000406/touch</HightModeTouchVoice>
+    <HightModeTalkVoicePath>audio/hero/10000406/talk</HightModeTalkVoicePath>
+    <HightModeZoomScale>114 </HightModeZoomScale>
+    <HightModeShowPosY>0 </HightModeShowPosY>
+    <BillboardPicture_SelectHero>T_ICON_tubiao_01</BillboardPicture_SelectHero>
+    <BillboardPicture_FullS>hero001_poster_full</BillboardPicture_FullS>
+    <BillboardPicture_Loading>UITexture/hero/neu_hero006/pifu/001/neu_hero006_card02_pifu_001</BillboardPicture_Loading>
+    <BillboardPicture_Result>UITexture/hero/neu_hero006/pifu/001/neu_hero006_poster_cut_pifu_001</BillboardPicture_Result>
+    <ShowIcon>UITexture/hero/neu_hero006/pifu/001/neu_hero006_card_pifu_001</ShowIcon>
+    <CircleIcon>UITexture/hero/neu_hero006/pifu/001/neu_hero006_yuan_pifu_001</CircleIcon>
+    <SquareIcon>UITexture/hero/neu_hero006/pifu/001/neu_hero006_pifu_001</SquareIcon>
+    <Background>UIBoothBk_Neutral1</Background>
+    <MyHeadUI>HPMyTeam_HeroLv1</MyHeadUI>
+    <FriendHeadUI>HPFriend_HeroLv1</FriendHeadUI>
+    <EnemyHeadUI>HPEnemyTeam_HeroLv1</EnemyHeadUI>
+    <HeroSkinAttr type="ResSystemHeroSkinAttr">
+        <Effect>0 </Effect>
+        <Type>0 </Type>
+        <Num>0 </Num>
+    </HeroSkinAttr>
+    <Desc_HeroSkin type="ResSystemHeroSkinFeatures">
+        <Icon>UITexture/hero/hum_hero002/hum_hero002_yuan</Icon>
+        <Desc>暴力金属的摇滚范</Desc>
+    </Desc_HeroSkin>
+    <Desc_HeroSkin type="ResSystemHeroSkinFeatures">
+        <Icon></Icon>
+        <Desc></Desc>
+    </Desc_HeroSkin>
+    <PaybackItemID>31100002 </PaybackItemID>
+    <PaybackItemNum>5 </PaybackItemNum>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+</ResSystemHeroSkinDesc>
+<ResSystemHeroSkinDesc version="1">
+    <ResID>1407001 </ResID>
+    <ModePath>prefab/character/neu/neu_hero007/neu_hero007_M_pre</ModePath>
+    <HightModePath>prefab/character/neu/neu_hero007/neu_hero007_H_pre</HightModePath>
+    <DeadModePath>prefab/character/neu/neu_hero007/neu_hero007_ghost_pre</DeadModePath>
+    <HightModeBirthVoicePath>audio/hero/10000407/birth</HightModeBirthVoicePath>
+    <HightModeDeathVoicePath>audio/hero/10000407/death</HightModeDeathVoicePath>
+    <HightModeShowAudioPath>audio/hero/10000407/show</HightModeShowAudioPath>
+    <HightModeTouchVoice>audio/hero/10000407/touch</HightModeTouchVoice>
+    <HightModeTalkVoicePath>audio/hero/10000407/talk</HightModeTalkVoicePath>
+    <HightModeZoomScale>120 </HightModeZoomScale>
+    <HightModeShowPosY>0 </HightModeShowPosY>
+    <BillboardPicture_SelectHero>T_ICON_tubiao_01</BillboardPicture_SelectHero>
+    <BillboardPicture_FullS>hero001_poster_full</BillboardPicture_FullS>
+    <BillboardPicture_Loading>UITexture/hero/neu_hero007/neu_hero007_card02</BillboardPicture_Loading>
+    <BillboardPicture_Result>UITexture/hero/neu_hero007/neu_hero007_poster_cut</BillboardPicture_Result>
+    <ShowIcon>UITexture/hero/neu_hero007/neu_hero007_card</ShowIcon>
+    <CircleIcon>UITexture/hero/neu_hero007/neu_hero007_yuan</CircleIcon>
+    <SquareIcon>UITexture/hero/neu_hero007/neu_hero007</SquareIcon>
+    <Background>UIBoothBk_Neutral1</Background>
+    <MyHeadUI>HPMyTeam_HeroLv1</MyHeadUI>
+    <FriendHeadUI>HPFriend_HeroLv1</FriendHeadUI>
+    <EnemyHeadUI>HPEnemyTeam_HeroLv1</EnemyHeadUI>
+    <HeroSkinAttr type="ResSystemHeroSkinAttr">
+        <Effect>0 </Effect>
+        <Type>0 </Type>
+        <Num>0 </Num>
+    </HeroSkinAttr>
+    <Desc_HeroSkin type="ResSystemHeroSkinFeatures">
+        <Icon>UITexture/hero/hum_hero002/hum_hero002_yuan</Icon>
+        <Desc>暴力金属的摇滚范</Desc>
+    </Desc_HeroSkin>
+    <Desc_HeroSkin type="ResSystemHeroSkinFeatures">
+        <Icon></Icon>
+        <Desc></Desc>
+    </Desc_HeroSkin>
+    <PaybackItemID>0 </PaybackItemID>
+    <PaybackItemNum>0 </PaybackItemNum>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+</ResSystemHeroSkinDesc>
+<ResSystemHeroSkinDesc version="1">
+    <ResID>1407002 </ResID>
+    <ModePath>prefab/character/neu/neu_hero007/neu_hero007_skin01/neu_hero007_M_skin01_pre</ModePath>
+    <HightModePath>prefab/character/neu/neu_hero007/neu_hero007_skin01/neu_hero007_H_skin01_pre</HightModePath>
+    <DeadModePath>prefab/character/neu/neu_hero007/neu_hero007_skin01/neu_hero007_ghost_skin01_pre</DeadModePath>
+    <HightModeBirthVoicePath>audio/hero/10000407/birth</HightModeBirthVoicePath>
+    <HightModeDeathVoicePath>audio/hero/10000407/death</HightModeDeathVoicePath>
+    <HightModeShowAudioPath>audio/hero/10000407/show</HightModeShowAudioPath>
+    <HightModeTouchVoice>audio/hero/10000407/touch</HightModeTouchVoice>
+    <HightModeTalkVoicePath>audio/hero/10000407/talk</HightModeTalkVoicePath>
+    <HightModeZoomScale>120 </HightModeZoomScale>
+    <HightModeShowPosY>0 </HightModeShowPosY>
+    <BillboardPicture_SelectHero>T_ICON_tubiao_01</BillboardPicture_SelectHero>
+    <BillboardPicture_FullS>hero001_poster_full</BillboardPicture_FullS>
+    <BillboardPicture_Loading>UITexture/hero/neu_hero007/pifu/001/neu_hero007_card02_pifu_001</BillboardPicture_Loading>
+    <BillboardPicture_Result>UITexture/hero/neu_hero007/pifu/001/neu_hero007_poster_cut_pifu_001</BillboardPicture_Result>
+    <ShowIcon>UITexture/hero/neu_hero007/pifu/001/neu_hero007_card_pifu_001</ShowIcon>
+    <CircleIcon>UITexture/hero/neu_hero007/pifu/001/neu_hero007_yuan_pifu_001</CircleIcon>
+    <SquareIcon>UITexture/hero/neu_hero007/pifu/001/neu_hero007_pifu_001</SquareIcon>
+    <Background>UIBoothBk_Neutral1</Background>
+    <MyHeadUI>HPMyTeam_HeroLv1</MyHeadUI>
+    <FriendHeadUI>HPFriend_HeroLv1</FriendHeadUI>
+    <EnemyHeadUI>HPEnemyTeam_HeroLv1</EnemyHeadUI>
+    <HeroSkinAttr type="ResSystemHeroSkinAttr">
+        <Effect>0 </Effect>
+        <Type>0 </Type>
+        <Num>0 </Num>
+    </HeroSkinAttr>
+    <Desc_HeroSkin type="ResSystemHeroSkinFeatures">
+        <Icon>UITexture/hero/hum_hero002/hum_hero002_yuan</Icon>
+        <Desc>暴力金属的摇滚范</Desc>
+    </Desc_HeroSkin>
+    <Desc_HeroSkin type="ResSystemHeroSkinFeatures">
+        <Icon></Icon>
+        <Desc></Desc>
+    </Desc_HeroSkin>
+    <PaybackItemID>31100002 </PaybackItemID>
+    <PaybackItemNum>5 </PaybackItemNum>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+</ResSystemHeroSkinDesc>
+<ResSystemHeroSkinDesc version="1">
+    <ResID>1408001 </ResID>
+    <ModePath>prefab/character/neu/neu_hero008/neu_hero008_M_pre</ModePath>
+    <HightModePath>prefab/character/neu/neu_hero008/neu_hero008_H_pre</HightModePath>
+    <DeadModePath>prefab/character/neu/neu_hero008/neu_hero008_ghost_pre</DeadModePath>
+    <HightModeBirthVoicePath>audio/hero/10000408/birth</HightModeBirthVoicePath>
+    <HightModeDeathVoicePath>audio/hero/10000408/death</HightModeDeathVoicePath>
+    <HightModeShowAudioPath>audio/hero/10000408/show</HightModeShowAudioPath>
+    <HightModeTouchVoice>audio/hero/10000408/touch</HightModeTouchVoice>
+    <HightModeTalkVoicePath>audio/hero/10000408/talk</HightModeTalkVoicePath>
+    <HightModeZoomScale>110 </HightModeZoomScale>
+    <HightModeShowPosY>0 </HightModeShowPosY>
+    <BillboardPicture_SelectHero>T_ICON_tubiao_01</BillboardPicture_SelectHero>
+    <BillboardPicture_FullS>hero001_poster_full</BillboardPicture_FullS>
+    <BillboardPicture_Loading>UITexture/hero/neu_hero008/neu_hero008_card02</BillboardPicture_Loading>
+    <BillboardPicture_Result>UITexture/hero/neu_hero008/neu_hero008_poster_cut</BillboardPicture_Result>
+    <ShowIcon>UITexture/hero/neu_hero008/neu_hero008_card</ShowIcon>
+    <CircleIcon>UITexture/hero/neu_hero008/neu_hero008_yuan</CircleIcon>
+    <SquareIcon>UITexture/hero/neu_hero008/neu_hero008</SquareIcon>
+    <Background>UIBoothBk_elf1</Background>
+    <MyHeadUI>HPMyTeam_HeroLv1</MyHeadUI>
+    <FriendHeadUI>HPFriend_HeroLv1</FriendHeadUI>
+    <EnemyHeadUI>HPEnemyTeam_HeroLv1</EnemyHeadUI>
+    <HeroSkinAttr type="ResSystemHeroSkinAttr">
+        <Effect>0 </Effect>
+        <Type>0 </Type>
+        <Num>0 </Num>
+    </HeroSkinAttr>
+    <Desc_HeroSkin type="ResSystemHeroSkinFeatures">
+        <Icon>UITexture/hero/hum_hero002/hum_hero002_yuan</Icon>
+        <Desc>暴力金属的摇滚范</Desc>
+    </Desc_HeroSkin>
+    <Desc_HeroSkin type="ResSystemHeroSkinFeatures">
+        <Icon></Icon>
+        <Desc></Desc>
+    </Desc_HeroSkin>
+    <PaybackItemID>0 </PaybackItemID>
+    <PaybackItemNum>0 </PaybackItemNum>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+</ResSystemHeroSkinDesc>
+<ResSystemHeroSkinDesc version="1">
+    <ResID>1408002 </ResID>
+    <ModePath>prefab/character/neu/neu_hero008/neu_hero008_skin01/neu_hero008_M_skin01_pre</ModePath>
+    <HightModePath>prefab/character/neu/neu_hero008/neu_hero008_skin01/neu_hero008_H_skin01_pre</HightModePath>
+    <DeadModePath>prefab/character/neu/neu_hero008/neu_hero008_skin01/neu_hero008_ghost_skin01_pre</DeadModePath>
+    <HightModeBirthVoicePath>audio/hero/10000408/birth</HightModeBirthVoicePath>
+    <HightModeDeathVoicePath>audio/hero/10000408/death</HightModeDeathVoicePath>
+    <HightModeShowAudioPath>audio/hero/10000408/show</HightModeShowAudioPath>
+    <HightModeTouchVoice>audio/hero/10000408/touch</HightModeTouchVoice>
+    <HightModeTalkVoicePath>audio/hero/10000408/talk</HightModeTalkVoicePath>
+    <HightModeZoomScale>110 </HightModeZoomScale>
+    <HightModeShowPosY>0 </HightModeShowPosY>
+    <BillboardPicture_SelectHero>T_ICON_tubiao_01</BillboardPicture_SelectHero>
+    <BillboardPicture_FullS>hero001_poster_full</BillboardPicture_FullS>
+    <BillboardPicture_Loading>UITexture/hero/neu_hero008/pifu/001/neu_hero008_card02_pifu_001</BillboardPicture_Loading>
+    <BillboardPicture_Result>UITexture/hero/neu_hero008/pifu/001/neu_hero008_poster_cut_pifu_001</BillboardPicture_Result>
+    <ShowIcon>UITexture/hero/neu_hero008/pifu/001/neu_hero008_card_pifu_001</ShowIcon>
+    <CircleIcon>UITexture/hero/neu_hero008/pifu/001/neu_hero008_yuan_pifu_001</CircleIcon>
+    <SquareIcon>UITexture/hero/neu_hero008/pifu/001/neu_hero008_pifu_001</SquareIcon>
+    <Background>UIBoothBk_elf1</Background>
+    <MyHeadUI>HPMyTeam_HeroLv1</MyHeadUI>
+    <FriendHeadUI>HPFriend_HeroLv1</FriendHeadUI>
+    <EnemyHeadUI>HPEnemyTeam_HeroLv1</EnemyHeadUI>
+    <HeroSkinAttr type="ResSystemHeroSkinAttr">
+        <Effect>0 </Effect>
+        <Type>0 </Type>
+        <Num>0 </Num>
+    </HeroSkinAttr>
+    <Desc_HeroSkin type="ResSystemHeroSkinFeatures">
+        <Icon>UITexture/hero/hum_hero002/hum_hero002_yuan</Icon>
+        <Desc>暴力金属的摇滚范</Desc>
+    </Desc_HeroSkin>
+    <Desc_HeroSkin type="ResSystemHeroSkinFeatures">
+        <Icon></Icon>
+        <Desc></Desc>
+    </Desc_HeroSkin>
+    <PaybackItemID>31100002 </PaybackItemID>
+    <PaybackItemNum>5 </PaybackItemNum>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+</ResSystemHeroSkinDesc>
+<ResSystemHeroSkinDesc version="1">
+    <ResID>1409001 </ResID>
+    <ModePath>prefab/character/neu/neu_hero009/neu_hero009_M_pre</ModePath>
+    <HightModePath>prefab/character/neu/neu_hero009/neu_hero009_H_pre</HightModePath>
+    <DeadModePath>prefab/character/neu/neu_hero009/neu_hero009_ghost_pre</DeadModePath>
+    <HightModeBirthVoicePath>audio/hero/10000409/birth</HightModeBirthVoicePath>
+    <HightModeDeathVoicePath>audio/hero/10000409/death</HightModeDeathVoicePath>
+    <HightModeShowAudioPath>audio/hero/10000409/show</HightModeShowAudioPath>
+    <HightModeTouchVoice>audio/hero/10000409/touch</HightModeTouchVoice>
+    <HightModeTalkVoicePath>audio/hero/10000409/talk</HightModeTalkVoicePath>
+    <HightModeZoomScale>115 </HightModeZoomScale>
+    <HightModeShowPosY>0 </HightModeShowPosY>
+    <BillboardPicture_SelectHero>T_ICON_tubiao_01</BillboardPicture_SelectHero>
+    <BillboardPicture_FullS>hero001_poster_full</BillboardPicture_FullS>
+    <BillboardPicture_Loading>UITexture/hero/neu_hero009/neu_hero009_card02</BillboardPicture_Loading>
+    <BillboardPicture_Result>UITexture/hero/neu_hero009/neu_hero009_poster_cut</BillboardPicture_Result>
+    <ShowIcon>UITexture/hero/neu_hero009/neu_hero009_card</ShowIcon>
+    <CircleIcon>UITexture/hero/neu_hero009/neu_hero009_yuan</CircleIcon>
+    <SquareIcon>UITexture/hero/neu_hero009/neu_hero009</SquareIcon>
+    <Background>UIBoothBk_Hum1</Background>
+    <MyHeadUI>HPMyTeam_HeroLv1</MyHeadUI>
+    <FriendHeadUI>HPFriend_HeroLv1</FriendHeadUI>
+    <EnemyHeadUI>HPEnemyTeam_HeroLv1</EnemyHeadUI>
+    <HeroSkinAttr type="ResSystemHeroSkinAttr">
+        <Effect>0 </Effect>
+        <Type>0 </Type>
+        <Num>0 </Num>
+    </HeroSkinAttr>
+    <Desc_HeroSkin type="ResSystemHeroSkinFeatures">
+        <Icon>UITexture/hero/hum_hero002/hum_hero002_yuan</Icon>
+        <Desc>暴力金属的摇滚范</Desc>
+    </Desc_HeroSkin>
+    <Desc_HeroSkin type="ResSystemHeroSkinFeatures">
+        <Icon></Icon>
+        <Desc></Desc>
+    </Desc_HeroSkin>
+    <PaybackItemID>0 </PaybackItemID>
+    <PaybackItemNum>0 </PaybackItemNum>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+</ResSystemHeroSkinDesc>
+<ResSystemHeroSkinDesc version="1">
+    <ResID>1409002 </ResID>
+    <ModePath>prefab/character/neu/neu_hero009/neu_hero009_skin01/neu_hero009_M_skin01_pre</ModePath>
+    <HightModePath>prefab/character/neu/neu_hero009/neu_hero009_skin01/neu_hero009_H_skin01_pre</HightModePath>
+    <DeadModePath>prefab/character/neu/neu_hero009/neu_hero009_skin01/neu_hero009_ghost_skin01_pre</DeadModePath>
+    <HightModeBirthVoicePath>audio/hero/10000409/birth</HightModeBirthVoicePath>
+    <HightModeDeathVoicePath>audio/hero/10000409/death</HightModeDeathVoicePath>
+    <HightModeShowAudioPath>audio/hero/10000409/show</HightModeShowAudioPath>
+    <HightModeTouchVoice>audio/hero/10000409/touch</HightModeTouchVoice>
+    <HightModeTalkVoicePath>audio/hero/10000409/talk</HightModeTalkVoicePath>
+    <HightModeZoomScale>115 </HightModeZoomScale>
+    <HightModeShowPosY>0 </HightModeShowPosY>
+    <BillboardPicture_SelectHero>T_ICON_tubiao_01</BillboardPicture_SelectHero>
+    <BillboardPicture_FullS>hero001_poster_full</BillboardPicture_FullS>
+    <BillboardPicture_Loading>UITexture/hero/neu_hero009/pifu/001/neu_hero009_card02_pifu_001</BillboardPicture_Loading>
+    <BillboardPicture_Result>UITexture/hero/neu_hero009/pifu/001/neu_hero009_poster_cut_pifu_001</BillboardPicture_Result>
+    <ShowIcon>UITexture/hero/neu_hero009/pifu/001/neu_hero009_card_pifu_001</ShowIcon>
+    <CircleIcon>UITexture/hero/neu_hero009/pifu/001/neu_hero009_yuan_pifu_001</CircleIcon>
+    <SquareIcon>UITexture/hero/neu_hero009/pifu/001/neu_hero009_pifu_001</SquareIcon>
+    <Background>UIBoothBk_Hum1</Background>
+    <MyHeadUI>HPMyTeam_HeroLv1</MyHeadUI>
+    <FriendHeadUI>HPFriend_HeroLv1</FriendHeadUI>
+    <EnemyHeadUI>HPEnemyTeam_HeroLv1</EnemyHeadUI>
+    <HeroSkinAttr type="ResSystemHeroSkinAttr">
+        <Effect>0 </Effect>
+        <Type>0 </Type>
+        <Num>0 </Num>
+    </HeroSkinAttr>
+    <Desc_HeroSkin type="ResSystemHeroSkinFeatures">
+        <Icon>UITexture/hero/hum_hero002/hum_hero002_yuan</Icon>
+        <Desc>暴力金属的摇滚范</Desc>
+    </Desc_HeroSkin>
+    <Desc_HeroSkin type="ResSystemHeroSkinFeatures">
+        <Icon></Icon>
+        <Desc></Desc>
+    </Desc_HeroSkin>
+    <PaybackItemID>31100002 </PaybackItemID>
+    <PaybackItemNum>5 </PaybackItemNum>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+</ResSystemHeroSkinDesc>
+<ResSystemHeroSkinDesc version="1">
+    <ResID>1410001 </ResID>
+    <ModePath>prefab/character/neu/neu_hero010/neu_hero010_01_M_pre</ModePath>
+    <HightModePath>prefab/character/neu/neu_hero010/neu_hero010_H_pre</HightModePath>
+    <DeadModePath>prefab/character/neu/neu_hero010/neu_hero010_ghost_pre</DeadModePath>
+    <HightModeBirthVoicePath>audio/hero/10000410/birth</HightModeBirthVoicePath>
+    <HightModeDeathVoicePath>audio/hero/10000410/death</HightModeDeathVoicePath>
+    <HightModeShowAudioPath>audio/hero/10000410/show</HightModeShowAudioPath>
+    <HightModeTouchVoice>audio/hero/10000410/touch</HightModeTouchVoice>
+    <HightModeTalkVoicePath>audio/hero/10000410/talk</HightModeTalkVoicePath>
+    <HightModeZoomScale>122 </HightModeZoomScale>
+    <HightModeShowPosY>0 </HightModeShowPosY>
+    <BillboardPicture_SelectHero>T_ICON_tubiao_01</BillboardPicture_SelectHero>
+    <BillboardPicture_FullS>hero001_poster_full</BillboardPicture_FullS>
+    <BillboardPicture_Loading>UITexture/hero/neu_hero010/neu_hero010_card02</BillboardPicture_Loading>
+    <BillboardPicture_Result>UITexture/hero/neu_hero010/neu_hero010_poster_cut</BillboardPicture_Result>
+    <ShowIcon>UITexture/hero/neu_hero010/neu_hero010_card</ShowIcon>
+    <CircleIcon>UITexture/hero/neu_hero010/neu_hero010_yuan</CircleIcon>
+    <SquareIcon>UITexture/hero/neu_hero010/neu_hero010</SquareIcon>
+    <Background>UIBoothBk_Hum1</Background>
+    <MyHeadUI>HPMyTeam_HeroLv2</MyHeadUI>
+    <FriendHeadUI>HPFriend_HeroLv2</FriendHeadUI>
+    <EnemyHeadUI>HPEnemyTeam_HeroLv2</EnemyHeadUI>
+    <HeroSkinAttr type="ResSystemHeroSkinAttr">
+        <Effect>0 </Effect>
+        <Type>0 </Type>
+        <Num>0 </Num>
+    </HeroSkinAttr>
+    <Desc_HeroSkin type="ResSystemHeroSkinFeatures">
+        <Icon>UITexture/hero/hum_hero002/hum_hero002_yuan</Icon>
+        <Desc>暴力金属的摇滚范</Desc>
+    </Desc_HeroSkin>
+    <Desc_HeroSkin type="ResSystemHeroSkinFeatures">
+        <Icon></Icon>
+        <Desc></Desc>
+    </Desc_HeroSkin>
+    <PaybackItemID>0 </PaybackItemID>
+    <PaybackItemNum>0 </PaybackItemNum>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+</ResSystemHeroSkinDesc>
+<ResSystemHeroSkinDesc version="1">
+    <ResID>1410002 </ResID>
+    <ModePath>prefab/character/neu/neu_hero010/neu_hero010_skin01/neu_hero010_01_M_skin01_pre</ModePath>
+    <HightModePath>prefab/character/neu/neu_hero010/neu_hero010_skin01/neu_hero010_H_skin01_pre</HightModePath>
+    <DeadModePath>prefab/character/neu/neu_hero010/neu_hero010_skin01/neu_hero010_ghost_skin01_pre</DeadModePath>
+    <HightModeBirthVoicePath>audio/hero/10000410/birth</HightModeBirthVoicePath>
+    <HightModeDeathVoicePath>audio/hero/10000410/death</HightModeDeathVoicePath>
+    <HightModeShowAudioPath>audio/hero/10000410/show</HightModeShowAudioPath>
+    <HightModeTouchVoice>audio/hero/10000410/touch</HightModeTouchVoice>
+    <HightModeTalkVoicePath>audio/hero/10000410/talk</HightModeTalkVoicePath>
+    <HightModeZoomScale>122 </HightModeZoomScale>
+    <HightModeShowPosY>0 </HightModeShowPosY>
+    <BillboardPicture_SelectHero>T_ICON_tubiao_01</BillboardPicture_SelectHero>
+    <BillboardPicture_FullS>hero001_poster_full</BillboardPicture_FullS>
+    <BillboardPicture_Loading>UITexture/hero/neu_hero010/pifu/001/neu_hero010_card02_pifu_001</BillboardPicture_Loading>
+    <BillboardPicture_Result>UITexture/hero/neu_hero010/pifu/001/neu_hero010_poster_cut_pifu_001</BillboardPicture_Result>
+    <ShowIcon>UITexture/hero/neu_hero010/pifu/001/neu_hero010_card_pifu_001</ShowIcon>
+    <CircleIcon>UITexture/hero/neu_hero010/pifu/001/neu_hero010_yuan_pifu_001</CircleIcon>
+    <SquareIcon>UITexture/hero/neu_hero010/pifu/001/neu_hero010_pifu_001</SquareIcon>
+    <Background>UIBoothBk_Hum1</Background>
+    <MyHeadUI>HPMyTeam_HeroLv2</MyHeadUI>
+    <FriendHeadUI>HPFriend_HeroLv2</FriendHeadUI>
+    <EnemyHeadUI>HPEnemyTeam_HeroLv2</EnemyHeadUI>
+    <HeroSkinAttr type="ResSystemHeroSkinAttr">
+        <Effect>0 </Effect>
+        <Type>0 </Type>
+        <Num>0 </Num>
+    </HeroSkinAttr>
+    <Desc_HeroSkin type="ResSystemHeroSkinFeatures">
+        <Icon>UITexture/hero/hum_hero002/hum_hero002_yuan</Icon>
+        <Desc>暴力金属的摇滚范</Desc>
+    </Desc_HeroSkin>
+    <Desc_HeroSkin type="ResSystemHeroSkinFeatures">
+        <Icon></Icon>
+        <Desc></Desc>
+    </Desc_HeroSkin>
+    <PaybackItemID>31100002 </PaybackItemID>
+    <PaybackItemNum>5 </PaybackItemNum>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+</ResSystemHeroSkinDesc>
+<ResSystemHeroSkinDesc version="1">
+    <ResID>1411001 </ResID>
+    <ModePath>prefab/character/neu/neu_hero011/neu_hero011_M_pre</ModePath>
+    <HightModePath>prefab/character/neu/neu_hero011/neu_hero011_H_pre</HightModePath>
+    <DeadModePath>prefab/character/neu/neu_hero011/neu_hero011_ghost_pre</DeadModePath>
+    <HightModeBirthVoicePath>audio/hero/10000411/birth</HightModeBirthVoicePath>
+    <HightModeDeathVoicePath>audio/hero/10000411/death</HightModeDeathVoicePath>
+    <HightModeShowAudioPath>audio/hero/10000411/show</HightModeShowAudioPath>
+    <HightModeTouchVoice>audio/hero/10000411/touch</HightModeTouchVoice>
+    <HightModeTalkVoicePath>audio/hero/10000411/talk</HightModeTalkVoicePath>
+    <HightModeZoomScale>120 </HightModeZoomScale>
+    <HightModeShowPosY>0 </HightModeShowPosY>
+    <BillboardPicture_SelectHero>T_ICON_tubiao_01</BillboardPicture_SelectHero>
+    <BillboardPicture_FullS>hero001_poster_full</BillboardPicture_FullS>
+    <BillboardPicture_Loading>UITexture/hero/neu_hero011/neu_hero011_card02</BillboardPicture_Loading>
+    <BillboardPicture_Result>UITexture/hero/neu_hero011/neu_hero011_poster_cut</BillboardPicture_Result>
+    <ShowIcon>UITexture/hero/neu_hero011/neu_hero011_card</ShowIcon>
+    <CircleIcon>UITexture/hero/neu_hero011/neu_hero011_yuan</CircleIcon>
+    <SquareIcon>UITexture/hero/neu_hero011/neu_hero011</SquareIcon>
+    <Background>UIBoothBk_Neutral1</Background>
+    <MyHeadUI>HPMyTeam_HeroLv1</MyHeadUI>
+    <FriendHeadUI>HPFriend_HeroLv1</FriendHeadUI>
+    <EnemyHeadUI>HPEnemyTeam_HeroLv1</EnemyHeadUI>
+    <HeroSkinAttr type="ResSystemHeroSkinAttr">
+        <Effect>0 </Effect>
+        <Type>0 </Type>
+        <Num>0 </Num>
+    </HeroSkinAttr>
+    <Desc_HeroSkin type="ResSystemHeroSkinFeatures">
+        <Icon>UITexture/hero/hum_hero002/hum_hero002_yuan</Icon>
+        <Desc>暴力金属的摇滚范</Desc>
+    </Desc_HeroSkin>
+    <Desc_HeroSkin type="ResSystemHeroSkinFeatures">
+        <Icon></Icon>
+        <Desc></Desc>
+    </Desc_HeroSkin>
+    <PaybackItemID>0 </PaybackItemID>
+    <PaybackItemNum>0 </PaybackItemNum>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+</ResSystemHeroSkinDesc>
+<ResSystemHeroSkinDesc version="1">
+    <ResID>1411002 </ResID>
+    <ModePath>prefab/character/neu/neu_hero011/neu_hero011_skin01/neu_hero011_M_skin01_pre</ModePath>
+    <HightModePath>prefab/character/neu/neu_hero011/neu_hero011_skin01/neu_hero011_H_skin01_pre</HightModePath>
+    <DeadModePath>prefab/character/neu/neu_hero011/neu_hero011_skin01/neu_hero011_ghost_skin01_pre</DeadModePath>
+    <HightModeBirthVoicePath>audio/hero/10000411/birth</HightModeBirthVoicePath>
+    <HightModeDeathVoicePath>audio/hero/10000411/death</HightModeDeathVoicePath>
+    <HightModeShowAudioPath>audio/hero/10000411/pifu001/show</HightModeShowAudioPath>
+    <HightModeTouchVoice>audio/hero/10000411/touch</HightModeTouchVoice>
+    <HightModeTalkVoicePath>audio/hero/10000411/talk</HightModeTalkVoicePath>
+    <HightModeZoomScale>120 </HightModeZoomScale>
+    <HightModeShowPosY>0 </HightModeShowPosY>
+    <BillboardPicture_SelectHero>T_ICON_tubiao_01</BillboardPicture_SelectHero>
+    <BillboardPicture_FullS>hero001_poster_full</BillboardPicture_FullS>
+    <BillboardPicture_Loading>UITexture/hero/neu_hero011/pifu/001/neu_hero011_card02_pifu_001</BillboardPicture_Loading>
+    <BillboardPicture_Result>UITexture/hero/neu_hero011/pifu/001/neu_hero011_poster_cut_pifu_001</BillboardPicture_Result>
+    <ShowIcon>UITexture/hero/neu_hero011/pifu/001/neu_hero011_card_pifu_001</ShowIcon>
+    <CircleIcon>UITexture/hero/neu_hero011/pifu/001/neu_hero011_yuan_pifu_001</CircleIcon>
+    <SquareIcon>UITexture/hero/neu_hero011/pifu/001/neu_hero011_pifu_001</SquareIcon>
+    <Background>UIBoothBk_Neutral1</Background>
+    <MyHeadUI>HPMyTeam_HeroLv1</MyHeadUI>
+    <FriendHeadUI>HPFriend_HeroLv1</FriendHeadUI>
+    <EnemyHeadUI>HPEnemyTeam_HeroLv1</EnemyHeadUI>
+    <HeroSkinAttr type="ResSystemHeroSkinAttr">
+        <Effect>0 </Effect>
+        <Type>0 </Type>
+        <Num>0 </Num>
+    </HeroSkinAttr>
+    <Desc_HeroSkin type="ResSystemHeroSkinFeatures">
+        <Icon>UITexture/hero/hum_hero002/hum_hero002_yuan</Icon>
+        <Desc>暴力金属的摇滚范</Desc>
+    </Desc_HeroSkin>
+    <Desc_HeroSkin type="ResSystemHeroSkinFeatures">
+        <Icon></Icon>
+        <Desc></Desc>
+    </Desc_HeroSkin>
+    <PaybackItemID>0 </PaybackItemID>
+    <PaybackItemNum>0 </PaybackItemNum>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+</ResSystemHeroSkinDesc>
+<ResSystemHeroSkinDesc version="1">
+    <ResID>1412001 </ResID>
+    <ModePath>prefab/character/neu/neu_hero012/neu_hero012_M_pre</ModePath>
+    <HightModePath>prefab/character/neu/neu_hero012/neu_hero012_H_pre</HightModePath>
+    <DeadModePath>prefab/character/neu/neu_hero012/neu_hero012_ghost_pre</DeadModePath>
+    <HightModeBirthVoicePath>audio/hero/10000412/birth</HightModeBirthVoicePath>
+    <HightModeDeathVoicePath>audio/hero/10000412/death</HightModeDeathVoicePath>
+    <HightModeShowAudioPath>audio/hero/10000412/show</HightModeShowAudioPath>
+    <HightModeTouchVoice>audio/hero/10000412/touch</HightModeTouchVoice>
+    <HightModeTalkVoicePath>audio/hero/10000412/talk</HightModeTalkVoicePath>
+    <HightModeZoomScale>135 </HightModeZoomScale>
+    <HightModeShowPosY>0 </HightModeShowPosY>
+    <BillboardPicture_SelectHero>T_ICON_tubiao_01</BillboardPicture_SelectHero>
+    <BillboardPicture_FullS>hero001_poster_full</BillboardPicture_FullS>
+    <BillboardPicture_Loading>UITexture/hero/neu_hero012/neu_hero012_card02</BillboardPicture_Loading>
+    <BillboardPicture_Result>UITexture/hero/neu_hero012/neu_hero012_poster_cut</BillboardPicture_Result>
+    <ShowIcon>UITexture/hero/neu_hero012/neu_hero012_card</ShowIcon>
+    <CircleIcon>UITexture/hero/neu_hero012/neu_hero012_yuan</CircleIcon>
+    <SquareIcon>UITexture/hero/neu_hero012/neu_hero012</SquareIcon>
+    <Background>UIBoothBk_Neutral1</Background>
+    <MyHeadUI>HPMyTeam_HeroLv1</MyHeadUI>
+    <FriendHeadUI>HPFriend_HeroLv1</FriendHeadUI>
+    <EnemyHeadUI>HPEnemyTeam_HeroLv1</EnemyHeadUI>
+    <HeroSkinAttr type="ResSystemHeroSkinAttr">
+        <Effect>0 </Effect>
+        <Type>0 </Type>
+        <Num>0 </Num>
+    </HeroSkinAttr>
+    <Desc_HeroSkin type="ResSystemHeroSkinFeatures">
+        <Icon>UITexture/hero/hum_hero002/hum_hero002_yuan</Icon>
+        <Desc>暴力金属的摇滚范</Desc>
+    </Desc_HeroSkin>
+    <Desc_HeroSkin type="ResSystemHeroSkinFeatures">
+        <Icon></Icon>
+        <Desc></Desc>
+    </Desc_HeroSkin>
+    <PaybackItemID>0 </PaybackItemID>
+    <PaybackItemNum>0 </PaybackItemNum>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+</ResSystemHeroSkinDesc>
+<ResSystemHeroSkinDesc version="1">
+    <ResID>1412002 </ResID>
+    <ModePath>prefab/character/neu/neu_hero012/neu_hero012_skin01/neu_hero012_M_skin01_pre</ModePath>
+    <HightModePath>prefab/character/neu/neu_hero012/neu_hero012_skin01/neu_hero012_H_skin01_pre</HightModePath>
+    <DeadModePath>prefab/character/neu/neu_hero012/neu_hero012_skin01/neu_hero012_ghost_skin01_pre</DeadModePath>
+    <HightModeBirthVoicePath>audio/hero/10000412/birth</HightModeBirthVoicePath>
+    <HightModeDeathVoicePath>audio/hero/10000412/death</HightModeDeathVoicePath>
+    <HightModeShowAudioPath>audio/hero/10000412/show</HightModeShowAudioPath>
+    <HightModeTouchVoice>audio/hero/10000412/touch</HightModeTouchVoice>
+    <HightModeTalkVoicePath>audio/hero/10000412/talk</HightModeTalkVoicePath>
+    <HightModeZoomScale>135 </HightModeZoomScale>
+    <HightModeShowPosY>0 </HightModeShowPosY>
+    <BillboardPicture_SelectHero>T_ICON_tubiao_01</BillboardPicture_SelectHero>
+    <BillboardPicture_FullS>hero001_poster_full</BillboardPicture_FullS>
+    <BillboardPicture_Loading>UITexture/hero/neu_hero012/pifu/001/neu_hero012_card02_pifu_001</BillboardPicture_Loading>
+    <BillboardPicture_Result>UITexture/hero/neu_hero012/pifu/001/neu_hero012_poster_cut_pifu_001</BillboardPicture_Result>
+    <ShowIcon>UITexture/hero/neu_hero012/pifu/001/neu_hero012_card_pifu_001</ShowIcon>
+    <CircleIcon>UITexture/hero/neu_hero012/pifu/001/neu_hero012_yuan_pifu_001</CircleIcon>
+    <SquareIcon>UITexture/hero/neu_hero012/pifu/001/neu_hero012_pifu_001</SquareIcon>
+    <Background>UIBoothBk_Neutral1</Background>
+    <MyHeadUI>HPMyTeam_HeroLv1</MyHeadUI>
+    <FriendHeadUI>HPFriend_HeroLv1</FriendHeadUI>
+    <EnemyHeadUI>HPEnemyTeam_HeroLv1</EnemyHeadUI>
+    <HeroSkinAttr type="ResSystemHeroSkinAttr">
+        <Effect>0 </Effect>
+        <Type>0 </Type>
+        <Num>0 </Num>
+    </HeroSkinAttr>
+    <Desc_HeroSkin type="ResSystemHeroSkinFeatures">
+        <Icon>UITexture/hero/hum_hero002/hum_hero002_yuan</Icon>
+        <Desc>暴力金属的摇滚范</Desc>
+    </Desc_HeroSkin>
+    <Desc_HeroSkin type="ResSystemHeroSkinFeatures">
+        <Icon></Icon>
+        <Desc></Desc>
+    </Desc_HeroSkin>
+    <PaybackItemID>31100002 </PaybackItemID>
+    <PaybackItemNum>5 </PaybackItemNum>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+</ResSystemHeroSkinDesc>
+<ResSystemHeroSkinDesc version="1">
+    <ResID>1413001 </ResID>
+    <ModePath>prefab/character/neu/neu_hero013/neu_hero013_M_pre</ModePath>
+    <HightModePath>prefab/character/neu/neu_hero013/neu_hero013_H_pre</HightModePath>
+    <DeadModePath>prefab/character/neu/neu_hero013/neu_hero013_ghost_pre</DeadModePath>
+    <HightModeBirthVoicePath>audio/hero/10000413/birth</HightModeBirthVoicePath>
+    <HightModeDeathVoicePath>audio/hero/10000413/death</HightModeDeathVoicePath>
+    <HightModeShowAudioPath>audio/hero/10000413/show</HightModeShowAudioPath>
+    <HightModeTouchVoice>audio/hero/10000413/touch</HightModeTouchVoice>
+    <HightModeTalkVoicePath>audio/hero/10000413/talk</HightModeTalkVoicePath>
+    <HightModeZoomScale>130 </HightModeZoomScale>
+    <HightModeShowPosY>0 </HightModeShowPosY>
+    <BillboardPicture_SelectHero>T_ICON_tubiao_01</BillboardPicture_SelectHero>
+    <BillboardPicture_FullS>hero001_poster_full</BillboardPicture_FullS>
+    <BillboardPicture_Loading>UITexture/hero/neu_hero013/neu_hero013_card02</BillboardPicture_Loading>
+    <BillboardPicture_Result>UITexture/hero/neu_hero013/neu_hero013_poster_cut</BillboardPicture_Result>
+    <ShowIcon>UITexture/hero/neu_hero013/neu_hero013_card</ShowIcon>
+    <CircleIcon>UITexture/hero/neu_hero013/neu_hero013_yuan</CircleIcon>
+    <SquareIcon>UITexture/hero/neu_hero013/neu_hero013</SquareIcon>
+    <Background>UIBoothBk_Neutral1</Background>
+    <MyHeadUI>HPMyTeam_HeroLv1</MyHeadUI>
+    <FriendHeadUI>HPFriend_HeroLv1</FriendHeadUI>
+    <EnemyHeadUI>HPEnemyTeam_HeroLv1</EnemyHeadUI>
+    <HeroSkinAttr type="ResSystemHeroSkinAttr">
+        <Effect>0 </Effect>
+        <Type>0 </Type>
+        <Num>0 </Num>
+    </HeroSkinAttr>
+    <Desc_HeroSkin type="ResSystemHeroSkinFeatures">
+        <Icon>UITexture/hero/hum_hero002/hum_hero002_yuan</Icon>
+        <Desc>暴力金属的摇滚范</Desc>
+    </Desc_HeroSkin>
+    <Desc_HeroSkin type="ResSystemHeroSkinFeatures">
+        <Icon></Icon>
+        <Desc></Desc>
+    </Desc_HeroSkin>
+    <PaybackItemID>0 </PaybackItemID>
+    <PaybackItemNum>0 </PaybackItemNum>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+</ResSystemHeroSkinDesc>
+<ResSystemHeroSkinDesc version="1">
+    <ResID>1413002 </ResID>
+    <ModePath>prefab/character/neu/neu_hero013/neu_hero013_skin01/neu_hero013_M_skin01_pre</ModePath>
+    <HightModePath>prefab/character/neu/neu_hero013/neu_hero013_skin01/neu_hero013_H_skin01_pre</HightModePath>
+    <DeadModePath>prefab/character/neu/neu_hero013/neu_hero013_skin01/neu_hero013_ghost_skin01_pre</DeadModePath>
+    <HightModeBirthVoicePath>audio/hero/10000413/birth</HightModeBirthVoicePath>
+    <HightModeDeathVoicePath>audio/hero/10000413/death</HightModeDeathVoicePath>
+    <HightModeShowAudioPath>audio/hero/10000413/show</HightModeShowAudioPath>
+    <HightModeTouchVoice>audio/hero/10000413/touch</HightModeTouchVoice>
+    <HightModeTalkVoicePath>audio/hero/10000413/talk</HightModeTalkVoicePath>
+    <HightModeZoomScale>130 </HightModeZoomScale>
+    <HightModeShowPosY>0 </HightModeShowPosY>
+    <BillboardPicture_SelectHero>T_ICON_tubiao_01</BillboardPicture_SelectHero>
+    <BillboardPicture_FullS>hero001_poster_full</BillboardPicture_FullS>
+    <BillboardPicture_Loading>UITexture/hero/neu_hero013/pifu/001/neu_hero013_card02_pifu_001</BillboardPicture_Loading>
+    <BillboardPicture_Result>UITexture/hero/neu_hero013/pifu/001/neu_hero013_poster_cut_pifu_001</BillboardPicture_Result>
+    <ShowIcon>UITexture/hero/neu_hero013/pifu/001/neu_hero013_card_pifu_001</ShowIcon>
+    <CircleIcon>UITexture/hero/neu_hero013/pifu/001/neu_hero013_yuan_pifu_001</CircleIcon>
+    <SquareIcon>UITexture/hero/neu_hero013/pifu/001/neu_hero013_pifu_001</SquareIcon>
+    <Background>UIBoothBk_Neutral1</Background>
+    <MyHeadUI>HPMyTeam_HeroLv1</MyHeadUI>
+    <FriendHeadUI>HPFriend_HeroLv1</FriendHeadUI>
+    <EnemyHeadUI>HPEnemyTeam_HeroLv1</EnemyHeadUI>
+    <HeroSkinAttr type="ResSystemHeroSkinAttr">
+        <Effect>0 </Effect>
+        <Type>0 </Type>
+        <Num>0 </Num>
+    </HeroSkinAttr>
+    <Desc_HeroSkin type="ResSystemHeroSkinFeatures">
+        <Icon>UITexture/hero/hum_hero002/hum_hero002_yuan</Icon>
+        <Desc>暴力金属的摇滚范</Desc>
+    </Desc_HeroSkin>
+    <Desc_HeroSkin type="ResSystemHeroSkinFeatures">
+        <Icon></Icon>
+        <Desc></Desc>
+    </Desc_HeroSkin>
+    <PaybackItemID>31100002 </PaybackItemID>
+    <PaybackItemNum>5 </PaybackItemNum>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+</ResSystemHeroSkinDesc>
+<ResSystemHeroSkinDesc version="1">
+    <ResID>1414001 </ResID>
+    <ModePath>prefab/character/neu/neu_hero014/neu_hero014_M_pre</ModePath>
+    <HightModePath>prefab/character/neu/neu_hero014/neu_hero014_H_pre</HightModePath>
+    <DeadModePath>prefab/character/neu/neu_hero014/neu_hero014_ghost_pre</DeadModePath>
+    <HightModeBirthVoicePath>audio/hero/10000414/birth</HightModeBirthVoicePath>
+    <HightModeDeathVoicePath>audio/hero/10000414/death</HightModeDeathVoicePath>
+    <HightModeShowAudioPath>audio/hero/10000414/show</HightModeShowAudioPath>
+    <HightModeTouchVoice>audio/hero/10000414/touch</HightModeTouchVoice>
+    <HightModeTalkVoicePath>audio/hero/10000414/talk</HightModeTalkVoicePath>
+    <HightModeZoomScale>120 </HightModeZoomScale>
+    <HightModeShowPosY>0 </HightModeShowPosY>
+    <BillboardPicture_SelectHero>T_ICON_tubiao_01</BillboardPicture_SelectHero>
+    <BillboardPicture_FullS>hero001_poster_full</BillboardPicture_FullS>
+    <BillboardPicture_Loading>UITexture/hero/neu_hero014/neu_hero014_card02</BillboardPicture_Loading>
+    <BillboardPicture_Result>UITexture/hero/neu_hero014/neu_hero014_poster_cut</BillboardPicture_Result>
+    <ShowIcon>UITexture/hero/neu_hero014/neu_hero014_card</ShowIcon>
+    <CircleIcon>UITexture/hero/neu_hero014/neu_hero014_yuan</CircleIcon>
+    <SquareIcon>UITexture/hero/neu_hero014/neu_hero014</SquareIcon>
+    <Background>UIBoothBk_elf1</Background>
+    <MyHeadUI>HPMyTeam_HeroLv1</MyHeadUI>
+    <FriendHeadUI>HPFriend_HeroLv1</FriendHeadUI>
+    <EnemyHeadUI>HPEnemyTeam_HeroLv1</EnemyHeadUI>
+    <HeroSkinAttr type="ResSystemHeroSkinAttr">
+        <Effect>0 </Effect>
+        <Type>0 </Type>
+        <Num>0 </Num>
+    </HeroSkinAttr>
+    <Desc_HeroSkin type="ResSystemHeroSkinFeatures">
+        <Icon>UITexture/hero/hum_hero002/hum_hero002_yuan</Icon>
+        <Desc>暴力金属的摇滚范</Desc>
+    </Desc_HeroSkin>
+    <Desc_HeroSkin type="ResSystemHeroSkinFeatures">
+        <Icon></Icon>
+        <Desc></Desc>
+    </Desc_HeroSkin>
+    <PaybackItemID>0 </PaybackItemID>
+    <PaybackItemNum>0 </PaybackItemNum>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+</ResSystemHeroSkinDesc>
+<ResSystemHeroSkinDesc version="1">
+    <ResID>1414002 </ResID>
+    <ModePath>prefab/character/neu/neu_hero014/neu_hero014_skin01/neu_hero014_M_skin01_pre</ModePath>
+    <HightModePath>prefab/character/neu/neu_hero014/neu_hero014_skin01/neu_hero014_H_skin01_pre</HightModePath>
+    <DeadModePath>prefab/character/neu/neu_hero014/neu_hero014_skin01/neu_hero014_ghost_skin01_pre</DeadModePath>
+    <HightModeBirthVoicePath>audio/hero/10000414/birth</HightModeBirthVoicePath>
+    <HightModeDeathVoicePath>audio/hero/10000414/death</HightModeDeathVoicePath>
+    <HightModeShowAudioPath>audio/hero/10000414/show</HightModeShowAudioPath>
+    <HightModeTouchVoice>audio/hero/10000414/touch</HightModeTouchVoice>
+    <HightModeTalkVoicePath>audio/hero/10000414/talk</HightModeTalkVoicePath>
+    <HightModeZoomScale>120 </HightModeZoomScale>
+    <HightModeShowPosY>0 </HightModeShowPosY>
+    <BillboardPicture_SelectHero>T_ICON_tubiao_01</BillboardPicture_SelectHero>
+    <BillboardPicture_FullS>hero001_poster_full</BillboardPicture_FullS>
+    <BillboardPicture_Loading>UITexture/hero/neu_hero014/pifu/001/neu_hero014_card02_pifu_001</BillboardPicture_Loading>
+    <BillboardPicture_Result>UITexture/hero/neu_hero014/pifu/001/neu_hero014_poster_cut_pifu_001</BillboardPicture_Result>
+    <ShowIcon>UITexture/hero/neu_hero014/pifu/001/neu_hero014_card_pifu_001</ShowIcon>
+    <CircleIcon>UITexture/hero/neu_hero014/pifu/001/neu_hero014_yuan_pifu_001</CircleIcon>
+    <SquareIcon>UITexture/hero/neu_hero014/pifu/001/neu_hero014_pifu_001</SquareIcon>
+    <Background>UIBoothBk_elf1</Background>
+    <MyHeadUI>HPMyTeam_HeroLv1</MyHeadUI>
+    <FriendHeadUI>HPFriend_HeroLv1</FriendHeadUI>
+    <EnemyHeadUI>HPEnemyTeam_HeroLv1</EnemyHeadUI>
+    <HeroSkinAttr type="ResSystemHeroSkinAttr">
+        <Effect>0 </Effect>
+        <Type>0 </Type>
+        <Num>0 </Num>
+    </HeroSkinAttr>
+    <Desc_HeroSkin type="ResSystemHeroSkinFeatures">
+        <Icon>UITexture/hero/hum_hero002/hum_hero002_yuan</Icon>
+        <Desc>暴力金属的摇滚范</Desc>
+    </Desc_HeroSkin>
+    <Desc_HeroSkin type="ResSystemHeroSkinFeatures">
+        <Icon></Icon>
+        <Desc></Desc>
+    </Desc_HeroSkin>
+    <PaybackItemID>0 </PaybackItemID>
+    <PaybackItemNum>0 </PaybackItemNum>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+</ResSystemHeroSkinDesc>
+<ResSystemHeroSkinDesc version="1">
+    <ResID>1415001 </ResID>
+    <ModePath>prefab/character/neu/neu_hero015/neu_hero015_M_pre</ModePath>
+    <HightModePath>prefab/character/neu/neu_hero015/neu_hero015_H_pre</HightModePath>
+    <DeadModePath>prefab/character/neu/neu_hero015/neu_hero015_ghost_pre</DeadModePath>
+    <HightModeBirthVoicePath>audio/hero/10000415/birth</HightModeBirthVoicePath>
+    <HightModeDeathVoicePath>audio/hero/10000415/death</HightModeDeathVoicePath>
+    <HightModeShowAudioPath>audio/hero/10000415/show</HightModeShowAudioPath>
+    <HightModeTouchVoice>audio/hero/10000415/touch</HightModeTouchVoice>
+    <HightModeTalkVoicePath>audio/hero/10000415/talk</HightModeTalkVoicePath>
+    <HightModeZoomScale>120 </HightModeZoomScale>
+    <HightModeShowPosY>0 </HightModeShowPosY>
+    <BillboardPicture_SelectHero>T_ICON_tubiao_01</BillboardPicture_SelectHero>
+    <BillboardPicture_FullS>hero001_poster_full</BillboardPicture_FullS>
+    <BillboardPicture_Loading>UITexture/hero/neu_hero015/neu_hero015_card02</BillboardPicture_Loading>
+    <BillboardPicture_Result>UITexture/hero/neu_hero015/neu_hero015_poster_cut</BillboardPicture_Result>
+    <ShowIcon>UITexture/hero/neu_hero015/neu_hero015_card</ShowIcon>
+    <CircleIcon>UITexture/hero/neu_hero015/neu_hero015_yuan</CircleIcon>
+    <SquareIcon>UITexture/hero/neu_hero015/neu_hero015</SquareIcon>
+    <Background>UIBoothBk_Neutral1</Background>
+    <MyHeadUI>HPMyTeam_HeroLv1</MyHeadUI>
+    <FriendHeadUI>HPFriend_HeroLv1</FriendHeadUI>
+    <EnemyHeadUI>HPEnemyTeam_HeroLv1</EnemyHeadUI>
+    <HeroSkinAttr type="ResSystemHeroSkinAttr">
+        <Effect>0 </Effect>
+        <Type>0 </Type>
+        <Num>0 </Num>
+    </HeroSkinAttr>
+    <Desc_HeroSkin type="ResSystemHeroSkinFeatures">
+        <Icon>UITexture/hero/hum_hero002/hum_hero002_yuan</Icon>
+        <Desc>暴力金属的摇滚范</Desc>
+    </Desc_HeroSkin>
+    <Desc_HeroSkin type="ResSystemHeroSkinFeatures">
+        <Icon></Icon>
+        <Desc></Desc>
+    </Desc_HeroSkin>
+    <PaybackItemID>0 </PaybackItemID>
+    <PaybackItemNum>0 </PaybackItemNum>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+</ResSystemHeroSkinDesc>
+<ResSystemHeroSkinDesc version="1">
+    <ResID>1416001 </ResID>
+    <ModePath>prefab/character/neu/neu_hero016/neu_hero016_M_pre</ModePath>
+    <HightModePath>prefab/character/neu/neu_hero016/neu_hero016_H_pre</HightModePath>
+    <DeadModePath>prefab/character/neu/neu_hero016/neu_hero016_ghost_pre</DeadModePath>
+    <HightModeBirthVoicePath>audio/hero/10000416/birth</HightModeBirthVoicePath>
+    <HightModeDeathVoicePath>audio/hero/10000416/death</HightModeDeathVoicePath>
+    <HightModeShowAudioPath>audio/hero/10000416/show</HightModeShowAudioPath>
+    <HightModeTouchVoice>audio/hero/10000416/touch</HightModeTouchVoice>
+    <HightModeTalkVoicePath>audio/hero/10000416/talk</HightModeTalkVoicePath>
+    <HightModeZoomScale>113 </HightModeZoomScale>
+    <HightModeShowPosY>0 </HightModeShowPosY>
+    <BillboardPicture_SelectHero>T_ICON_tubiao_01</BillboardPicture_SelectHero>
+    <BillboardPicture_FullS>hero001_poster_full</BillboardPicture_FullS>
+    <BillboardPicture_Loading>UITexture/hero/neu_hero016/neu_hero016_card02</BillboardPicture_Loading>
+    <BillboardPicture_Result>UITexture/hero/neu_hero016/neu_hero016_poster_cut</BillboardPicture_Result>
+    <ShowIcon>UITexture/hero/neu_hero016/neu_hero016_card</ShowIcon>
+    <CircleIcon>UITexture/hero/neu_hero016/neu_hero016_yuan</CircleIcon>
+    <SquareIcon>UITexture/hero/neu_hero016/neu_hero016</SquareIcon>
+    <Background>UIBoothBk_Neutral1</Background>
+    <MyHeadUI>HPMyTeam_HeroLv1</MyHeadUI>
+    <FriendHeadUI>HPFriend_HeroLv1</FriendHeadUI>
+    <EnemyHeadUI>HPEnemyTeam_HeroLv1</EnemyHeadUI>
+    <HeroSkinAttr type="ResSystemHeroSkinAttr">
+        <Effect>0 </Effect>
+        <Type>0 </Type>
+        <Num>0 </Num>
+    </HeroSkinAttr>
+    <Desc_HeroSkin type="ResSystemHeroSkinFeatures">
+        <Icon>UITexture/hero/hum_hero002/hum_hero002_yuan</Icon>
+        <Desc>暴力金属的摇滚范</Desc>
+    </Desc_HeroSkin>
+    <Desc_HeroSkin type="ResSystemHeroSkinFeatures">
+        <Icon></Icon>
+        <Desc></Desc>
+    </Desc_HeroSkin>
+    <PaybackItemID>0 </PaybackItemID>
+    <PaybackItemNum>0 </PaybackItemNum>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+</ResSystemHeroSkinDesc>
+<ResSystemHeroSkinDesc version="1">
+    <ResID>1416002 </ResID>
+    <ModePath>prefab/character/neu/neu_hero016/neu_hero016_skin01/neu_hero016_M_skin01_pre</ModePath>
+    <HightModePath>prefab/character/neu/neu_hero016/neu_hero016_skin01/neu_hero016_H_skin01_pre</HightModePath>
+    <DeadModePath>prefab/character/neu/neu_hero016/neu_hero016_ghost_pre</DeadModePath>
+    <HightModeBirthVoicePath>audio/hero/10000416/birth</HightModeBirthVoicePath>
+    <HightModeDeathVoicePath>audio/hero/10000416/death</HightModeDeathVoicePath>
+    <HightModeShowAudioPath>audio/hero/10000416/show</HightModeShowAudioPath>
+    <HightModeTouchVoice>audio/hero/10000416/touch</HightModeTouchVoice>
+    <HightModeTalkVoicePath>audio/hero/10000416/talk</HightModeTalkVoicePath>
+    <HightModeZoomScale>113 </HightModeZoomScale>
+    <HightModeShowPosY>0 </HightModeShowPosY>
+    <BillboardPicture_SelectHero>T_ICON_tubiao_01</BillboardPicture_SelectHero>
+    <BillboardPicture_FullS>hero001_poster_full</BillboardPicture_FullS>
+    <BillboardPicture_Loading>UITexture/hero/neu_hero016/pifu/001/neu_hero016_card02_pifu_001</BillboardPicture_Loading>
+    <BillboardPicture_Result>UITexture/hero/neu_hero016/pifu/001/neu_hero016_poster_cut_pifu_001</BillboardPicture_Result>
+    <ShowIcon>UITexture/hero/neu_hero016/pifu/001/neu_hero016_card_pifu_001</ShowIcon>
+    <CircleIcon>UITexture/hero/neu_hero016/pifu/001/neu_hero016_yuan_pifu_001</CircleIcon>
+    <SquareIcon>UITexture/hero/neu_hero016/pifu/001/neu_hero016_pifu_001</SquareIcon>
+    <Background>UIBoothBk_Neutral1</Background>
+    <MyHeadUI>HPMyTeam_HeroLv1</MyHeadUI>
+    <FriendHeadUI>HPFriend_HeroLv1</FriendHeadUI>
+    <EnemyHeadUI>HPEnemyTeam_HeroLv1</EnemyHeadUI>
+    <HeroSkinAttr type="ResSystemHeroSkinAttr">
+        <Effect>0 </Effect>
+        <Type>0 </Type>
+        <Num>0 </Num>
+    </HeroSkinAttr>
+    <Desc_HeroSkin type="ResSystemHeroSkinFeatures">
+        <Icon>UITexture/hero/hum_hero002/hum_hero002_yuan</Icon>
+        <Desc>暴力金属的摇滚范</Desc>
+    </Desc_HeroSkin>
+    <Desc_HeroSkin type="ResSystemHeroSkinFeatures">
+        <Icon></Icon>
+        <Desc></Desc>
+    </Desc_HeroSkin>
+    <PaybackItemID>31100002 </PaybackItemID>
+    <PaybackItemNum>5 </PaybackItemNum>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+</ResSystemHeroSkinDesc>
+<ResSystemHeroSkinDesc version="1">
+    <ResID>1417001 </ResID>
+    <ModePath>prefab/character/neu/neu_hero017/neu_hero017_M_pre</ModePath>
+    <HightModePath>prefab/character/neu/neu_hero017/neu_hero017_H_pre</HightModePath>
+    <DeadModePath>prefab/character/neu/neu_hero017/neu_hero017_ghost_pre</DeadModePath>
+    <HightModeBirthVoicePath>audio/hero/10000417/birth</HightModeBirthVoicePath>
+    <HightModeDeathVoicePath>audio/hero/10000417/death</HightModeDeathVoicePath>
+    <HightModeShowAudioPath>audio/hero/10000417/show</HightModeShowAudioPath>
+    <HightModeTouchVoice>audio/hero/10000417/touch</HightModeTouchVoice>
+    <HightModeTalkVoicePath>audio/hero/10000417/talk</HightModeTalkVoicePath>
+    <HightModeZoomScale>120 </HightModeZoomScale>
+    <HightModeShowPosY>0 </HightModeShowPosY>
+    <BillboardPicture_SelectHero>T_ICON_tubiao_01</BillboardPicture_SelectHero>
+    <BillboardPicture_FullS>hero001_poster_full</BillboardPicture_FullS>
+    <BillboardPicture_Loading>UITexture/hero/neu_hero017/neu_hero017_card02</BillboardPicture_Loading>
+    <BillboardPicture_Result>UITexture/hero/neu_hero017/neu_hero017_poster_cut</BillboardPicture_Result>
+    <ShowIcon>UITexture/hero/neu_hero017/neu_hero017_card</ShowIcon>
+    <CircleIcon>UITexture/hero/neu_hero017/neu_hero017_yuan</CircleIcon>
+    <SquareIcon>UITexture/hero/neu_hero017/neu_hero017</SquareIcon>
+    <Background>UIBoothBk_orc1</Background>
+    <MyHeadUI>HPMyTeam_HeroLv1</MyHeadUI>
+    <FriendHeadUI>HPFriend_HeroLv1</FriendHeadUI>
+    <EnemyHeadUI>HPEnemyTeam_HeroLv1</EnemyHeadUI>
+    <HeroSkinAttr type="ResSystemHeroSkinAttr">
+        <Effect>0 </Effect>
+        <Type>0 </Type>
+        <Num>0 </Num>
+    </HeroSkinAttr>
+    <Desc_HeroSkin type="ResSystemHeroSkinFeatures">
+        <Icon>UITexture/hero/hum_hero002/hum_hero002_yuan</Icon>
+        <Desc>暴力金属的摇滚范</Desc>
+    </Desc_HeroSkin>
+    <Desc_HeroSkin type="ResSystemHeroSkinFeatures">
+        <Icon></Icon>
+        <Desc></Desc>
+    </Desc_HeroSkin>
+    <PaybackItemID>0 </PaybackItemID>
+    <PaybackItemNum>0 </PaybackItemNum>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+</ResSystemHeroSkinDesc>
+<ResSystemHeroSkinDesc version="1">
+    <ResID>1417002 </ResID>
+    <ModePath>prefab/character/neu/neu_hero017/neu_hero017_skin01/neu_hero017_M_skin01_pre</ModePath>
+    <HightModePath>prefab/character/neu/neu_hero017/neu_hero017_skin01/neu_hero017_H_skin01_pre</HightModePath>
+    <DeadModePath>prefab/character/neu/neu_hero017/neu_hero017_skin01/neu_hero017_ghost_skin01_pre</DeadModePath>
+    <HightModeBirthVoicePath>audio/hero/10000417/birth</HightModeBirthVoicePath>
+    <HightModeDeathVoicePath>audio/hero/10000417/death</HightModeDeathVoicePath>
+    <HightModeShowAudioPath>audio/hero/10000417/show</HightModeShowAudioPath>
+    <HightModeTouchVoice>audio/hero/10000417/touch</HightModeTouchVoice>
+    <HightModeTalkVoicePath>audio/hero/10000417/talk</HightModeTalkVoicePath>
+    <HightModeZoomScale>120 </HightModeZoomScale>
+    <HightModeShowPosY>0 </HightModeShowPosY>
+    <BillboardPicture_SelectHero>T_ICON_tubiao_01</BillboardPicture_SelectHero>
+    <BillboardPicture_FullS>hero001_poster_full</BillboardPicture_FullS>
+    <BillboardPicture_Loading>UITexture/hero/neu_hero017/pifu/001/neu_hero017_card02_pifu_001</BillboardPicture_Loading>
+    <BillboardPicture_Result>UITexture/hero/neu_hero017/pifu/001/neu_hero017_poster_cut_pifu_001</BillboardPicture_Result>
+    <ShowIcon>UITexture/hero/neu_hero017/pifu/001/neu_hero017_card_pifu_001</ShowIcon>
+    <CircleIcon>UITexture/hero/neu_hero017/pifu/001/neu_hero017_yuan_pifu_001</CircleIcon>
+    <SquareIcon>UITexture/hero/neu_hero017/pifu/001/neu_hero017_pifu_001</SquareIcon>
+    <Background>UIBoothBk_orc1</Background>
+    <MyHeadUI>HPMyTeam_HeroLv1</MyHeadUI>
+    <FriendHeadUI>HPFriend_HeroLv1</FriendHeadUI>
+    <EnemyHeadUI>HPEnemyTeam_HeroLv1</EnemyHeadUI>
+    <HeroSkinAttr type="ResSystemHeroSkinAttr">
+        <Effect>0 </Effect>
+        <Type>0 </Type>
+        <Num>0 </Num>
+    </HeroSkinAttr>
+    <Desc_HeroSkin type="ResSystemHeroSkinFeatures">
+        <Icon>UITexture/hero/hum_hero002/hum_hero002_yuan</Icon>
+        <Desc>暴力金属的摇滚范</Desc>
+    </Desc_HeroSkin>
+    <Desc_HeroSkin type="ResSystemHeroSkinFeatures">
+        <Icon></Icon>
+        <Desc></Desc>
+    </Desc_HeroSkin>
+    <PaybackItemID>31100002 </PaybackItemID>
+    <PaybackItemNum>5 </PaybackItemNum>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+</ResSystemHeroSkinDesc>
+<ResSystemHeroSkinDesc version="1">
+    <ResID>1601001 </ResID>
+    <ModePath>prefab/character/neu/neu_hero006/neu_hero006_M_pre</ModePath>
+    <HightModePath>prefab/character/neu/empty/neu_damo_pre</HightModePath>
+    <DeadModePath>prefab/character/neu/neu_hero006/neu_hero006_ghost_pre</DeadModePath>
+    <HightModeBirthVoicePath>audio/hero/10000406/birth</HightModeBirthVoicePath>
+    <HightModeDeathVoicePath>audio/hero/10000406/death</HightModeDeathVoicePath>
+    <HightModeShowAudioPath>audio/hero/10000406/show</HightModeShowAudioPath>
+    <HightModeTouchVoice>audio/hero/10000406/touch</HightModeTouchVoice>
+    <HightModeTalkVoicePath>audio/hero/10000406/talk</HightModeTalkVoicePath>
+    <HightModeZoomScale>22000 </HightModeZoomScale>
+    <HightModeShowPosY>0 </HightModeShowPosY>
+    <BillboardPicture_SelectHero>T_ICON_tubiao_01</BillboardPicture_SelectHero>
+    <BillboardPicture_FullS>hero001_poster_full</BillboardPicture_FullS>
+    <BillboardPicture_Loading>UITexture/hero/neu_hero006/neu_hero006_card02</BillboardPicture_Loading>
+    <BillboardPicture_Result>UITexture/hero/neu_hero006/neu_hero006_poster_cut</BillboardPicture_Result>
+    <ShowIcon>UITexture/hero/neu_hero006/neu_hero006_card</ShowIcon>
+    <CircleIcon>UITexture/hero/neu_hero006/neu_hero006_yuan</CircleIcon>
+    <SquareIcon>UITexture/hero/neu_hero006/neu_hero006</SquareIcon>
+    <Background>UIBoothBk_Neutral1</Background>
+    <MyHeadUI>HPMyTeam_HeroLv1</MyHeadUI>
+    <FriendHeadUI>HPFriend_HeroLv1</FriendHeadUI>
+    <EnemyHeadUI>HPEnemyTeam_HeroLv1</EnemyHeadUI>
+    <HeroSkinAttr type="ResSystemHeroSkinAttr">
+        <Effect>0 </Effect>
+        <Type>0 </Type>
+        <Num>0 </Num>
+    </HeroSkinAttr>
+    <Desc_HeroSkin type="ResSystemHeroSkinFeatures">
+        <Icon>UITexture/hero/hum_hero002/hum_hero002_yuan</Icon>
+        <Desc>暴力金属的摇滚范</Desc>
+    </Desc_HeroSkin>
+    <Desc_HeroSkin type="ResSystemHeroSkinFeatures">
+        <Icon></Icon>
+        <Desc></Desc>
+    </Desc_HeroSkin>
+    <PaybackItemID>0 </PaybackItemID>
+    <PaybackItemNum>0 </PaybackItemNum>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+</ResSystemHeroSkinDesc>
+<ResSystemHeroSkinDesc version="1">
+    <ResID>1602001 </ResID>
+    <ModePath>prefab/character/orc/orc_hero001/orc_hero001_M_pre</ModePath>
+    <HightModePath>prefab/character/neu/empty/neu_wangzhaojun_pre</HightModePath>
+    <DeadModePath>prefab/character/orc/orc_hero001/orc_hero001_ghost_pre</DeadModePath>
+    <HightModeBirthVoicePath>audio/hero/10000101/birth</HightModeBirthVoicePath>
+    <HightModeDeathVoicePath>audio/hero/10000101/death</HightModeDeathVoicePath>
+    <HightModeShowAudioPath>audio/hero/10000101/show</HightModeShowAudioPath>
+    <HightModeTouchVoice>audio/hero/10000101/touch</HightModeTouchVoice>
+    <HightModeTalkVoicePath>audio/hero/10000101/talk</HightModeTalkVoicePath>
+    <HightModeZoomScale>23000 </HightModeZoomScale>
+    <HightModeShowPosY>0 </HightModeShowPosY>
+    <BillboardPicture_SelectHero>T_ICON_tubiao_01</BillboardPicture_SelectHero>
+    <BillboardPicture_FullS>hero001_poster_full</BillboardPicture_FullS>
+    <BillboardPicture_Loading>UITexture/hero/orc_hero001/orc_hero001_card02</BillboardPicture_Loading>
+    <BillboardPicture_Result>UITexture/hero/orc_hero001/orc_hero001_poster_cut</BillboardPicture_Result>
+    <ShowIcon>UITexture/hero/orc_hero001/orc_hero001_card</ShowIcon>
+    <CircleIcon>UITexture/hero/orc_hero001/orc_hero001_yuan</CircleIcon>
+    <SquareIcon>UITexture/hero/orc_hero001/orc_hero001</SquareIcon>
+    <Background>UIBoothBk_Neutral1</Background>
+    <MyHeadUI>HPMyTeam_HeroLv1</MyHeadUI>
+    <FriendHeadUI>HPFriend_HeroLv1</FriendHeadUI>
+    <EnemyHeadUI>HPEnemyTeam_HeroLv1</EnemyHeadUI>
+    <HeroSkinAttr type="ResSystemHeroSkinAttr">
+        <Effect>0 </Effect>
+        <Type>0 </Type>
+        <Num>0 </Num>
+    </HeroSkinAttr>
+    <Desc_HeroSkin type="ResSystemHeroSkinFeatures">
+        <Icon>UITexture/hero/hum_hero001/hum_hero001_yuan</Icon>
+        <Desc>迷人的造型，把持不住</Desc>
+    </Desc_HeroSkin>
+    <Desc_HeroSkin type="ResSystemHeroSkinFeatures">
+        <Icon></Icon>
+        <Desc></Desc>
+    </Desc_HeroSkin>
+    <PaybackItemID>0 </PaybackItemID>
+    <PaybackItemNum>0 </PaybackItemNum>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+</ResSystemHeroSkinDesc>
+<ResSystemHeroSkinDesc version="1">
+    <ResID>1603001 </ResID>
+    <ModePath>prefab/character/orc/orc_hero001/orc_hero001_M_pre</ModePath>
+    <HightModePath>prefab/character/neu/empty/neu_wangzhaojunGreen_pre</HightModePath>
+    <DeadModePath>prefab/character/orc/orc_hero001/orc_hero001_ghost_pre</DeadModePath>
+    <HightModeBirthVoicePath>audio/hero/10000101/birth</HightModeBirthVoicePath>
+    <HightModeDeathVoicePath>audio/hero/10000101/death</HightModeDeathVoicePath>
+    <HightModeShowAudioPath>audio/hero/10000101/show</HightModeShowAudioPath>
+    <HightModeTouchVoice>audio/hero/10000101/touch</HightModeTouchVoice>
+    <HightModeTalkVoicePath>audio/hero/10000101/talk</HightModeTalkVoicePath>
+    <HightModeZoomScale>23000 </HightModeZoomScale>
+    <HightModeShowPosY>0 </HightModeShowPosY>
+    <BillboardPicture_SelectHero>T_ICON_tubiao_01</BillboardPicture_SelectHero>
+    <BillboardPicture_FullS>hero001_poster_full</BillboardPicture_FullS>
+    <BillboardPicture_Loading>UITexture/hero/orc_hero001/orc_hero001_card02</BillboardPicture_Loading>
+    <BillboardPicture_Result>UITexture/hero/orc_hero001/orc_hero001_poster_cut</BillboardPicture_Result>
+    <ShowIcon>UITexture/hero/orc_hero001/orc_hero001_card</ShowIcon>
+    <CircleIcon>UITexture/hero/orc_hero001/orc_hero001_yuan</CircleIcon>
+    <SquareIcon>UITexture/hero/orc_hero001/orc_hero001</SquareIcon>
+    <Background>UIBoothBk_Neutral1</Background>
+    <MyHeadUI>HPMyTeam_HeroLv1</MyHeadUI>
+    <FriendHeadUI>HPFriend_HeroLv1</FriendHeadUI>
+    <EnemyHeadUI>HPEnemyTeam_HeroLv1</EnemyHeadUI>
+    <HeroSkinAttr type="ResSystemHeroSkinAttr">
+        <Effect>0 </Effect>
+        <Type>0 </Type>
+        <Num>0 </Num>
+    </HeroSkinAttr>
+    <Desc_HeroSkin type="ResSystemHeroSkinFeatures">
+        <Icon>UITexture/hero/hum_hero001/hum_hero001_yuan</Icon>
+        <Desc>迷人的造型，把持不住</Desc>
+    </Desc_HeroSkin>
+    <Desc_HeroSkin type="ResSystemHeroSkinFeatures">
+        <Icon></Icon>
+        <Desc></Desc>
+    </Desc_HeroSkin>
+    <PaybackItemID>0 </PaybackItemID>
+    <PaybackItemNum>0 </PaybackItemNum>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+    <SkinLinks type="ResSystemHeroSkinLinkDesc">
+        <MonsterResID>0 </MonsterResID>
+        <MonsterSkinID>0 </MonsterSkinID>
+    </SkinLinks>
+</ResSystemHeroSkinDesc>
+</ResSystemHeroSkinDesc_Tab>

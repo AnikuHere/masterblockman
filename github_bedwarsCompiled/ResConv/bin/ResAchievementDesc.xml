@@ -1,0 +1,1951 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<ResAchievementDesc_Tab>
+<TResHeadAll version="5">
+    <resHead type="TResHead">
+        <Magic>1397052237 </Magic>
+        <Version>6 </Version>
+        <Unit>563 </Unit>
+        <Count>28 </Count>
+        <MetalibHash>531d5b4a397ad5b3c0fbfb5cc8059e55</MetalibHash>
+        <ResVersion>0 </ResVersion>
+        <CreateTime>2023-04-19 20:42:35</CreateTime>
+        <ResEncording>UTF-8</ResEncording>
+        <ContentHash>4e59c1395744078edf007a3a310df2b7</ContentHash>
+    </resHead>
+    <resHeadExt type="TResHeadExt">
+        <DataOffset>136 </DataOffset>
+    </resHeadExt>
+</TResHeadAll>
+<ResAchievementDesc version="1">
+    <ID>1 </ID>
+    <Name_SCN>成长之路</Name_SCN>
+    <Name_FCN>成长之路</Name_FCN>
+    <Name_EN>Road to Growth</Name_EN>
+    <Desc_SCN>召唤师等级达到{0}级</Desc_SCN>
+    <Desc_FCN>召唤师等级达到{0}级</Desc_FCN>
+    <Desc_EN>Reach player level 4.</Desc_EN>
+    <IconName>UITexture/system/renwu/T_ICON_huanjin_new</IconName>
+    <CountType>1 </CountType>
+    <NeedAct>101 </NeedAct>
+    <ActParam>0 </ActParam>
+    <Phase type="ResAchievementPhaseDesc">
+        <AchieveValue>4 </AchieveValue>
+        <Reward type="ItemReward">
+            <ItemID>7 </ItemID>
+            <ItemNum>5 </ItemNum>
+        </Reward>
+        <Reward type="ItemReward">
+            <ItemID>4 </ItemID>
+            <ItemNum>20 </ItemNum>
+        </Reward>
+    </Phase>
+    <Phase type="ResAchievementPhaseDesc">
+        <AchieveValue>10 </AchieveValue>
+        <Reward type="ItemReward">
+            <ItemID>7 </ItemID>
+            <ItemNum>10 </ItemNum>
+        </Reward>
+        <Reward type="ItemReward">
+            <ItemID>4 </ItemID>
+            <ItemNum>20 </ItemNum>
+        </Reward>
+    </Phase>
+    <Phase type="ResAchievementPhaseDesc">
+        <AchieveValue>20 </AchieveValue>
+        <Reward type="ItemReward">
+            <ItemID>7 </ItemID>
+            <ItemNum>20 </ItemNum>
+        </Reward>
+        <Reward type="ItemReward">
+            <ItemID>4 </ItemID>
+            <ItemNum>40 </ItemNum>
+        </Reward>
+    </Phase>
+    <Phase type="ResAchievementPhaseDesc">
+        <AchieveValue>25 </AchieveValue>
+        <Reward type="ItemReward">
+            <ItemID>7 </ItemID>
+            <ItemNum>50 </ItemNum>
+        </Reward>
+        <Reward type="ItemReward">
+            <ItemID>4 </ItemID>
+            <ItemNum>40 </ItemNum>
+        </Reward>
+    </Phase>
+    <Phase type="ResAchievementPhaseDesc">
+        <AchieveValue>30 </AchieveValue>
+        <Reward type="ItemReward">
+            <ItemID>7 </ItemID>
+            <ItemNum>100 </ItemNum>
+        </Reward>
+        <Reward type="ItemReward">
+            <ItemID>4 </ItemID>
+            <ItemNum>80 </ItemNum>
+        </Reward>
+    </Phase>
+    <UISkipType>70 </UISkipType>
+</ResAchievementDesc>
+<ResAchievementDesc version="1">
+    <ID>2 </ID>
+    <Name_SCN>常胜将军</Name_SCN>
+    <Name_FCN>常胜将军</Name_FCN>
+    <Name_EN>Victorious General</Name_EN>
+    <Desc_SCN>获得{0}连胜</Desc_SCN>
+    <Desc_FCN>获得{0}连胜</Desc_FCN>
+    <Desc_EN>Win 5 in a row.</Desc_EN>
+    <IconName>UITexture/system/renwu/T_ICON_huanjin_new</IconName>
+    <CountType>0 </CountType>
+    <NeedAct>115 </NeedAct>
+    <ActParam>0 </ActParam>
+    <Phase type="ResAchievementPhaseDesc">
+        <AchieveValue>5 </AchieveValue>
+        <Reward type="ItemReward">
+            <ItemID>7 </ItemID>
+            <ItemNum>20 </ItemNum>
+        </Reward>
+        <Reward type="ItemReward">
+            <ItemID>4 </ItemID>
+            <ItemNum>50 </ItemNum>
+        </Reward>
+    </Phase>
+    <Phase type="ResAchievementPhaseDesc">
+        <AchieveValue>8 </AchieveValue>
+        <Reward type="ItemReward">
+            <ItemID>7 </ItemID>
+            <ItemNum>50 </ItemNum>
+        </Reward>
+        <Reward type="ItemReward">
+            <ItemID>4 </ItemID>
+            <ItemNum>50 </ItemNum>
+        </Reward>
+    </Phase>
+    <Phase type="ResAchievementPhaseDesc">
+        <AchieveValue>10 </AchieveValue>
+        <Reward type="ItemReward">
+            <ItemID>7 </ItemID>
+            <ItemNum>100 </ItemNum>
+        </Reward>
+        <Reward type="ItemReward">
+            <ItemID>4 </ItemID>
+            <ItemNum>100 </ItemNum>
+        </Reward>
+    </Phase>
+    <Phase type="ResAchievementPhaseDesc">
+        <AchieveValue>15 </AchieveValue>
+        <Reward type="ItemReward">
+            <ItemID>7 </ItemID>
+            <ItemNum>150 </ItemNum>
+        </Reward>
+        <Reward type="ItemReward">
+            <ItemID>4 </ItemID>
+            <ItemNum>100 </ItemNum>
+        </Reward>
+    </Phase>
+    <Phase type="ResAchievementPhaseDesc">
+        <AchieveValue>20 </AchieveValue>
+        <Reward type="ItemReward">
+            <ItemID>7 </ItemID>
+            <ItemNum>200 </ItemNum>
+        </Reward>
+        <Reward type="ItemReward">
+            <ItemID>4 </ItemID>
+            <ItemNum>200 </ItemNum>
+        </Reward>
+    </Phase>
+    <UISkipType>70 </UISkipType>
+</ResAchievementDesc>
+<ResAchievementDesc version="1">
+    <ID>3 </ID>
+    <Name_SCN>全场最佳</Name_SCN>
+    <Name_FCN>全场最佳</Name_FCN>
+    <Name_EN>Overall MVP</Name_EN>
+    <Desc_SCN>获得全场最佳{0}次</Desc_SCN>
+    <Desc_FCN>获得全场最佳{0}次</Desc_FCN>
+    <Desc_EN>Get MVP 10 times.</Desc_EN>
+    <IconName>UITexture/system/renwu/T_ICON_huanjin_new</IconName>
+    <CountType>0 </CountType>
+    <NeedAct>102 </NeedAct>
+    <ActParam>0 </ActParam>
+    <Phase type="ResAchievementPhaseDesc">
+        <AchieveValue>10 </AchieveValue>
+        <Reward type="ItemReward">
+            <ItemID>7 </ItemID>
+            <ItemNum>20 </ItemNum>
+        </Reward>
+        <Reward type="ItemReward">
+            <ItemID>4 </ItemID>
+            <ItemNum>40 </ItemNum>
+        </Reward>
+    </Phase>
+    <Phase type="ResAchievementPhaseDesc">
+        <AchieveValue>50 </AchieveValue>
+        <Reward type="ItemReward">
+            <ItemID>7 </ItemID>
+            <ItemNum>50 </ItemNum>
+        </Reward>
+        <Reward type="ItemReward">
+            <ItemID>4 </ItemID>
+            <ItemNum>40 </ItemNum>
+        </Reward>
+    </Phase>
+    <Phase type="ResAchievementPhaseDesc">
+        <AchieveValue>100 </AchieveValue>
+        <Reward type="ItemReward">
+            <ItemID>7 </ItemID>
+            <ItemNum>100 </ItemNum>
+        </Reward>
+        <Reward type="ItemReward">
+            <ItemID>4 </ItemID>
+            <ItemNum>80 </ItemNum>
+        </Reward>
+    </Phase>
+    <Phase type="ResAchievementPhaseDesc">
+        <AchieveValue>150 </AchieveValue>
+        <Reward type="ItemReward">
+            <ItemID>7 </ItemID>
+            <ItemNum>150 </ItemNum>
+        </Reward>
+        <Reward type="ItemReward">
+            <ItemID>4 </ItemID>
+            <ItemNum>80 </ItemNum>
+        </Reward>
+    </Phase>
+    <Phase type="ResAchievementPhaseDesc">
+        <AchieveValue>200 </AchieveValue>
+        <Reward type="ItemReward">
+            <ItemID>7 </ItemID>
+            <ItemNum>200 </ItemNum>
+        </Reward>
+        <Reward type="ItemReward">
+            <ItemID>4 </ItemID>
+            <ItemNum>160 </ItemNum>
+        </Reward>
+    </Phase>
+    <UISkipType>70 </UISkipType>
+</ResAchievementDesc>
+<ResAchievementDesc version="1">
+    <ID>4 </ID>
+    <Name_SCN>大师级人族</Name_SCN>
+    <Name_FCN>大师级人族</Name_FCN>
+    <Name_EN>Master Level - Human</Name_EN>
+    <Desc_SCN>使用人族进行对战{0}场</Desc_SCN>
+    <Desc_FCN>使用人族进行对战{0}场</Desc_FCN>
+    <Desc_EN>Play 10 matches as Human.</Desc_EN>
+    <IconName>UITexture/system/renwu/T_ICON_huanjin_new</IconName>
+    <CountType>0 </CountType>
+    <NeedAct>103 </NeedAct>
+    <ActParam>1 </ActParam>
+    <Phase type="ResAchievementPhaseDesc">
+        <AchieveValue>10 </AchieveValue>
+        <Reward type="ItemReward">
+            <ItemID>7 </ItemID>
+            <ItemNum>10 </ItemNum>
+        </Reward>
+        <Reward type="ItemReward">
+            <ItemID>4 </ItemID>
+            <ItemNum>40 </ItemNum>
+        </Reward>
+    </Phase>
+    <Phase type="ResAchievementPhaseDesc">
+        <AchieveValue>100 </AchieveValue>
+        <Reward type="ItemReward">
+            <ItemID>7 </ItemID>
+            <ItemNum>20 </ItemNum>
+        </Reward>
+        <Reward type="ItemReward">
+            <ItemID>4 </ItemID>
+            <ItemNum>40 </ItemNum>
+        </Reward>
+    </Phase>
+    <Phase type="ResAchievementPhaseDesc">
+        <AchieveValue>200 </AchieveValue>
+        <Reward type="ItemReward">
+            <ItemID>7 </ItemID>
+            <ItemNum>50 </ItemNum>
+        </Reward>
+        <Reward type="ItemReward">
+            <ItemID>4 </ItemID>
+            <ItemNum>80 </ItemNum>
+        </Reward>
+    </Phase>
+    <Phase type="ResAchievementPhaseDesc">
+        <AchieveValue>500 </AchieveValue>
+        <Reward type="ItemReward">
+            <ItemID>7 </ItemID>
+            <ItemNum>100 </ItemNum>
+        </Reward>
+        <Reward type="ItemReward">
+            <ItemID>4 </ItemID>
+            <ItemNum>80 </ItemNum>
+        </Reward>
+    </Phase>
+    <Phase type="ResAchievementPhaseDesc">
+        <AchieveValue>1000 </AchieveValue>
+        <Reward type="ItemReward">
+            <ItemID>7 </ItemID>
+            <ItemNum>200 </ItemNum>
+        </Reward>
+        <Reward type="ItemReward">
+            <ItemID>4 </ItemID>
+            <ItemNum>160 </ItemNum>
+        </Reward>
+    </Phase>
+    <UISkipType>70 </UISkipType>
+</ResAchievementDesc>
+<ResAchievementDesc version="1">
+    <ID>5 </ID>
+    <Name_SCN>大师级兽族</Name_SCN>
+    <Name_FCN>大师级兽族</Name_FCN>
+    <Name_EN>Master Level - Orc</Name_EN>
+    <Desc_SCN>使用兽族进行对战{0}场</Desc_SCN>
+    <Desc_FCN>使用兽族进行对战{0}场</Desc_FCN>
+    <Desc_EN>Play 10 matches as Orc.</Desc_EN>
+    <IconName>UITexture/system/renwu/T_ICON_huanjin_new</IconName>
+    <CountType>0 </CountType>
+    <NeedAct>103 </NeedAct>
+    <ActParam>2 </ActParam>
+    <Phase type="ResAchievementPhaseDesc">
+        <AchieveValue>10 </AchieveValue>
+        <Reward type="ItemReward">
+            <ItemID>7 </ItemID>
+            <ItemNum>10 </ItemNum>
+        </Reward>
+        <Reward type="ItemReward">
+            <ItemID>4 </ItemID>
+            <ItemNum>40 </ItemNum>
+        </Reward>
+    </Phase>
+    <Phase type="ResAchievementPhaseDesc">
+        <AchieveValue>100 </AchieveValue>
+        <Reward type="ItemReward">
+            <ItemID>7 </ItemID>
+            <ItemNum>20 </ItemNum>
+        </Reward>
+        <Reward type="ItemReward">
+            <ItemID>4 </ItemID>
+            <ItemNum>40 </ItemNum>
+        </Reward>
+    </Phase>
+    <Phase type="ResAchievementPhaseDesc">
+        <AchieveValue>200 </AchieveValue>
+        <Reward type="ItemReward">
+            <ItemID>7 </ItemID>
+            <ItemNum>50 </ItemNum>
+        </Reward>
+        <Reward type="ItemReward">
+            <ItemID>4 </ItemID>
+            <ItemNum>80 </ItemNum>
+        </Reward>
+    </Phase>
+    <Phase type="ResAchievementPhaseDesc">
+        <AchieveValue>500 </AchieveValue>
+        <Reward type="ItemReward">
+            <ItemID>7 </ItemID>
+            <ItemNum>100 </ItemNum>
+        </Reward>
+        <Reward type="ItemReward">
+            <ItemID>4 </ItemID>
+            <ItemNum>80 </ItemNum>
+        </Reward>
+    </Phase>
+    <Phase type="ResAchievementPhaseDesc">
+        <AchieveValue>1000 </AchieveValue>
+        <Reward type="ItemReward">
+            <ItemID>7 </ItemID>
+            <ItemNum>200 </ItemNum>
+        </Reward>
+        <Reward type="ItemReward">
+            <ItemID>4 </ItemID>
+            <ItemNum>160 </ItemNum>
+        </Reward>
+    </Phase>
+    <UISkipType>70 </UISkipType>
+</ResAchievementDesc>
+<ResAchievementDesc version="1">
+    <ID>6 </ID>
+    <Name_SCN>大师级精灵</Name_SCN>
+    <Name_FCN>大师级精灵</Name_FCN>
+    <Name_EN>Master Level - Elf</Name_EN>
+    <Desc_SCN>使用精灵进行对战{0}场</Desc_SCN>
+    <Desc_FCN>使用精灵进行对战{0}场</Desc_FCN>
+    <Desc_EN>Play 10 matches as Elf.</Desc_EN>
+    <IconName>UITexture/system/renwu/T_ICON_huanjin_new</IconName>
+    <CountType>0 </CountType>
+    <NeedAct>103 </NeedAct>
+    <ActParam>4 </ActParam>
+    <Phase type="ResAchievementPhaseDesc">
+        <AchieveValue>10 </AchieveValue>
+        <Reward type="ItemReward">
+            <ItemID>7 </ItemID>
+            <ItemNum>10 </ItemNum>
+        </Reward>
+        <Reward type="ItemReward">
+            <ItemID>4 </ItemID>
+            <ItemNum>40 </ItemNum>
+        </Reward>
+    </Phase>
+    <Phase type="ResAchievementPhaseDesc">
+        <AchieveValue>100 </AchieveValue>
+        <Reward type="ItemReward">
+            <ItemID>7 </ItemID>
+            <ItemNum>20 </ItemNum>
+        </Reward>
+        <Reward type="ItemReward">
+            <ItemID>4 </ItemID>
+            <ItemNum>40 </ItemNum>
+        </Reward>
+    </Phase>
+    <Phase type="ResAchievementPhaseDesc">
+        <AchieveValue>200 </AchieveValue>
+        <Reward type="ItemReward">
+            <ItemID>7 </ItemID>
+            <ItemNum>50 </ItemNum>
+        </Reward>
+        <Reward type="ItemReward">
+            <ItemID>4 </ItemID>
+            <ItemNum>80 </ItemNum>
+        </Reward>
+    </Phase>
+    <Phase type="ResAchievementPhaseDesc">
+        <AchieveValue>500 </AchieveValue>
+        <Reward type="ItemReward">
+            <ItemID>7 </ItemID>
+            <ItemNum>100 </ItemNum>
+        </Reward>
+        <Reward type="ItemReward">
+            <ItemID>4 </ItemID>
+            <ItemNum>80 </ItemNum>
+        </Reward>
+    </Phase>
+    <Phase type="ResAchievementPhaseDesc">
+        <AchieveValue>1000 </AchieveValue>
+        <Reward type="ItemReward">
+            <ItemID>7 </ItemID>
+            <ItemNum>200 </ItemNum>
+        </Reward>
+        <Reward type="ItemReward">
+            <ItemID>4 </ItemID>
+            <ItemNum>160 </ItemNum>
+        </Reward>
+    </Phase>
+    <UISkipType>70 </UISkipType>
+</ResAchievementDesc>
+<ResAchievementDesc version="1">
+    <ID>7 </ID>
+    <Name_SCN>大师级亡灵</Name_SCN>
+    <Name_FCN>大师级亡灵</Name_FCN>
+    <Name_EN>Master Level - Undead</Name_EN>
+    <Desc_SCN>使用亡灵进行对战{0}场</Desc_SCN>
+    <Desc_FCN>使用亡灵进行对战{0}场</Desc_FCN>
+    <Desc_EN>Play 10 matches as Undead.</Desc_EN>
+    <IconName>UITexture/system/renwu/T_ICON_huanjin_new</IconName>
+    <CountType>0 </CountType>
+    <NeedAct>103 </NeedAct>
+    <ActParam>3 </ActParam>
+    <Phase type="ResAchievementPhaseDesc">
+        <AchieveValue>10 </AchieveValue>
+        <Reward type="ItemReward">
+            <ItemID>7 </ItemID>
+            <ItemNum>10 </ItemNum>
+        </Reward>
+        <Reward type="ItemReward">
+            <ItemID>4 </ItemID>
+            <ItemNum>40 </ItemNum>
+        </Reward>
+    </Phase>
+    <Phase type="ResAchievementPhaseDesc">
+        <AchieveValue>100 </AchieveValue>
+        <Reward type="ItemReward">
+            <ItemID>7 </ItemID>
+            <ItemNum>20 </ItemNum>
+        </Reward>
+        <Reward type="ItemReward">
+            <ItemID>4 </ItemID>
+            <ItemNum>40 </ItemNum>
+        </Reward>
+    </Phase>
+    <Phase type="ResAchievementPhaseDesc">
+        <AchieveValue>200 </AchieveValue>
+        <Reward type="ItemReward">
+            <ItemID>7 </ItemID>
+            <ItemNum>50 </ItemNum>
+        </Reward>
+        <Reward type="ItemReward">
+            <ItemID>4 </ItemID>
+            <ItemNum>80 </ItemNum>
+        </Reward>
+    </Phase>
+    <Phase type="ResAchievementPhaseDesc">
+        <AchieveValue>500 </AchieveValue>
+        <Reward type="ItemReward">
+            <ItemID>7 </ItemID>
+            <ItemNum>100 </ItemNum>
+        </Reward>
+        <Reward type="ItemReward">
+            <ItemID>4 </ItemID>
+            <ItemNum>80 </ItemNum>
+        </Reward>
+    </Phase>
+    <Phase type="ResAchievementPhaseDesc">
+        <AchieveValue>1000 </AchieveValue>
+        <Reward type="ItemReward">
+            <ItemID>7 </ItemID>
+            <ItemNum>200 </ItemNum>
+        </Reward>
+        <Reward type="ItemReward">
+            <ItemID>4 </ItemID>
+            <ItemNum>160 </ItemNum>
+        </Reward>
+    </Phase>
+    <UISkipType>70 </UISkipType>
+</ResAchievementDesc>
+<ResAchievementDesc version="1">
+    <ID>8 </ID>
+    <Name_SCN>分矿达人</Name_SCN>
+    <Name_FCN>分矿达人</Name_FCN>
+    <Name_EN>Mine Rush</Name_EN>
+    <Desc_SCN>累计开分矿{0}次</Desc_SCN>
+    <Desc_FCN>累计开分矿{0}次</Desc_FCN>
+    <Desc_EN>Build 10 Mines.</Desc_EN>
+    <IconName>UITexture/system/renwu/T_ICON_huanjin_new</IconName>
+    <CountType>0 </CountType>
+    <NeedAct>10 </NeedAct>
+    <ActParam>0 </ActParam>
+    <Phase type="ResAchievementPhaseDesc">
+        <AchieveValue>10 </AchieveValue>
+        <Reward type="ItemReward">
+            <ItemID>7 </ItemID>
+            <ItemNum>5 </ItemNum>
+        </Reward>
+        <Reward type="ItemReward">
+            <ItemID>4 </ItemID>
+            <ItemNum>15 </ItemNum>
+        </Reward>
+    </Phase>
+    <Phase type="ResAchievementPhaseDesc">
+        <AchieveValue>100 </AchieveValue>
+        <Reward type="ItemReward">
+            <ItemID>7 </ItemID>
+            <ItemNum>10 </ItemNum>
+        </Reward>
+        <Reward type="ItemReward">
+            <ItemID>4 </ItemID>
+            <ItemNum>15 </ItemNum>
+        </Reward>
+    </Phase>
+    <Phase type="ResAchievementPhaseDesc">
+        <AchieveValue>200 </AchieveValue>
+        <Reward type="ItemReward">
+            <ItemID>7 </ItemID>
+            <ItemNum>20 </ItemNum>
+        </Reward>
+        <Reward type="ItemReward">
+            <ItemID>4 </ItemID>
+            <ItemNum>30 </ItemNum>
+        </Reward>
+    </Phase>
+    <Phase type="ResAchievementPhaseDesc">
+        <AchieveValue>500 </AchieveValue>
+        <Reward type="ItemReward">
+            <ItemID>7 </ItemID>
+            <ItemNum>50 </ItemNum>
+        </Reward>
+        <Reward type="ItemReward">
+            <ItemID>4 </ItemID>
+            <ItemNum>30 </ItemNum>
+        </Reward>
+    </Phase>
+    <Phase type="ResAchievementPhaseDesc">
+        <AchieveValue>1000 </AchieveValue>
+        <Reward type="ItemReward">
+            <ItemID>7 </ItemID>
+            <ItemNum>100 </ItemNum>
+        </Reward>
+        <Reward type="ItemReward">
+            <ItemID>4 </ItemID>
+            <ItemNum>60 </ItemNum>
+        </Reward>
+    </Phase>
+    <UISkipType>70 </UISkipType>
+</ResAchievementDesc>
+<ResAchievementDesc version="1">
+    <ID>9 </ID>
+    <Name_SCN>铜墙铁壁</Name_SCN>
+    <Name_FCN>铜墙铁壁</Name_FCN>
+    <Name_EN>Strong Fortress</Name_EN>
+    <Desc_SCN>累计造箭塔{0}座</Desc_SCN>
+    <Desc_FCN>累计造箭塔{0}座</Desc_FCN>
+    <Desc_EN>Build 10 Turrets.</Desc_EN>
+    <IconName>UITexture/system/renwu/T_ICON_huanjin_new</IconName>
+    <CountType>0 </CountType>
+    <NeedAct>9 </NeedAct>
+    <ActParam>0 </ActParam>
+    <Phase type="ResAchievementPhaseDesc">
+        <AchieveValue>20 </AchieveValue>
+        <Reward type="ItemReward">
+            <ItemID>7 </ItemID>
+            <ItemNum>5 </ItemNum>
+        </Reward>
+        <Reward type="ItemReward">
+            <ItemID>4 </ItemID>
+            <ItemNum>15 </ItemNum>
+        </Reward>
+    </Phase>
+    <Phase type="ResAchievementPhaseDesc">
+        <AchieveValue>100 </AchieveValue>
+        <Reward type="ItemReward">
+            <ItemID>7 </ItemID>
+            <ItemNum>10 </ItemNum>
+        </Reward>
+        <Reward type="ItemReward">
+            <ItemID>4 </ItemID>
+            <ItemNum>15 </ItemNum>
+        </Reward>
+    </Phase>
+    <Phase type="ResAchievementPhaseDesc">
+        <AchieveValue>200 </AchieveValue>
+        <Reward type="ItemReward">
+            <ItemID>7 </ItemID>
+            <ItemNum>20 </ItemNum>
+        </Reward>
+        <Reward type="ItemReward">
+            <ItemID>4 </ItemID>
+            <ItemNum>30 </ItemNum>
+        </Reward>
+    </Phase>
+    <Phase type="ResAchievementPhaseDesc">
+        <AchieveValue>500 </AchieveValue>
+        <Reward type="ItemReward">
+            <ItemID>7 </ItemID>
+            <ItemNum>50 </ItemNum>
+        </Reward>
+        <Reward type="ItemReward">
+            <ItemID>4 </ItemID>
+            <ItemNum>30 </ItemNum>
+        </Reward>
+    </Phase>
+    <Phase type="ResAchievementPhaseDesc">
+        <AchieveValue>1000 </AchieveValue>
+        <Reward type="ItemReward">
+            <ItemID>7 </ItemID>
+            <ItemNum>100 </ItemNum>
+        </Reward>
+        <Reward type="ItemReward">
+            <ItemID>4 </ItemID>
+            <ItemNum>60 </ItemNum>
+        </Reward>
+    </Phase>
+    <UISkipType>70 </UISkipType>
+</ResAchievementDesc>
+<ResAchievementDesc version="1">
+    <ID>10 </ID>
+    <Name_SCN>除虫大师</Name_SCN>
+    <Name_FCN>除虫大师</Name_FCN>
+    <Name_EN>Insect Master</Name_EN>
+    <Desc_SCN>累计击败圣甲虫{0}次</Desc_SCN>
+    <Desc_FCN>累计击败圣甲虫{0}次</Desc_FCN>
+    <Desc_EN>Defeat the Holy Scarab 10 times.</Desc_EN>
+    <IconName>UITexture/system/renwu/T_ICON_huanjin_new</IconName>
+    <CountType>0 </CountType>
+    <NeedAct>114 </NeedAct>
+    <ActParam>0 </ActParam>
+    <Phase type="ResAchievementPhaseDesc">
+        <AchieveValue>10 </AchieveValue>
+        <Reward type="ItemReward">
+            <ItemID>7 </ItemID>
+            <ItemNum>10 </ItemNum>
+        </Reward>
+        <Reward type="ItemReward">
+            <ItemID>4 </ItemID>
+            <ItemNum>15 </ItemNum>
+        </Reward>
+    </Phase>
+    <Phase type="ResAchievementPhaseDesc">
+        <AchieveValue>50 </AchieveValue>
+        <Reward type="ItemReward">
+            <ItemID>7 </ItemID>
+            <ItemNum>20 </ItemNum>
+        </Reward>
+        <Reward type="ItemReward">
+            <ItemID>4 </ItemID>
+            <ItemNum>15 </ItemNum>
+        </Reward>
+    </Phase>
+    <Phase type="ResAchievementPhaseDesc">
+        <AchieveValue>100 </AchieveValue>
+        <Reward type="ItemReward">
+            <ItemID>7 </ItemID>
+            <ItemNum>50 </ItemNum>
+        </Reward>
+        <Reward type="ItemReward">
+            <ItemID>4 </ItemID>
+            <ItemNum>30 </ItemNum>
+        </Reward>
+    </Phase>
+    <Phase type="ResAchievementPhaseDesc">
+        <AchieveValue>200 </AchieveValue>
+        <Reward type="ItemReward">
+            <ItemID>7 </ItemID>
+            <ItemNum>150 </ItemNum>
+        </Reward>
+        <Reward type="ItemReward">
+            <ItemID>4 </ItemID>
+            <ItemNum>30 </ItemNum>
+        </Reward>
+    </Phase>
+    <Phase type="ResAchievementPhaseDesc">
+        <AchieveValue>500 </AchieveValue>
+        <Reward type="ItemReward">
+            <ItemID>7 </ItemID>
+            <ItemNum>200 </ItemNum>
+        </Reward>
+        <Reward type="ItemReward">
+            <ItemID>4 </ItemID>
+            <ItemNum>60 </ItemNum>
+        </Reward>
+    </Phase>
+    <UISkipType>70 </UISkipType>
+</ResAchievementDesc>
+<ResAchievementDesc version="1">
+    <ID>11 </ID>
+    <Name_SCN>沙漠之王</Name_SCN>
+    <Name_FCN>沙漠之王</Name_FCN>
+    <Name_EN>The Desert King</Name_EN>
+    <Desc_SCN>累计击败沙漠之王{0}次</Desc_SCN>
+    <Desc_FCN>累计击败沙漠之王{0}次</Desc_FCN>
+    <Desc_EN>Defeat the Desert King 10 times.</Desc_EN>
+    <IconName>UITexture/system/renwu/T_ICON_huanjin_new</IconName>
+    <CountType>0 </CountType>
+    <NeedAct>113 </NeedAct>
+    <ActParam>0 </ActParam>
+    <Phase type="ResAchievementPhaseDesc">
+        <AchieveValue>10 </AchieveValue>
+        <Reward type="ItemReward">
+            <ItemID>7 </ItemID>
+            <ItemNum>10 </ItemNum>
+        </Reward>
+        <Reward type="ItemReward">
+            <ItemID>4 </ItemID>
+            <ItemNum>15 </ItemNum>
+        </Reward>
+    </Phase>
+    <Phase type="ResAchievementPhaseDesc">
+        <AchieveValue>50 </AchieveValue>
+        <Reward type="ItemReward">
+            <ItemID>7 </ItemID>
+            <ItemNum>20 </ItemNum>
+        </Reward>
+        <Reward type="ItemReward">
+            <ItemID>4 </ItemID>
+            <ItemNum>15 </ItemNum>
+        </Reward>
+    </Phase>
+    <Phase type="ResAchievementPhaseDesc">
+        <AchieveValue>100 </AchieveValue>
+        <Reward type="ItemReward">
+            <ItemID>7 </ItemID>
+            <ItemNum>50 </ItemNum>
+        </Reward>
+        <Reward type="ItemReward">
+            <ItemID>4 </ItemID>
+            <ItemNum>30 </ItemNum>
+        </Reward>
+    </Phase>
+    <Phase type="ResAchievementPhaseDesc">
+        <AchieveValue>200 </AchieveValue>
+        <Reward type="ItemReward">
+            <ItemID>7 </ItemID>
+            <ItemNum>100 </ItemNum>
+        </Reward>
+        <Reward type="ItemReward">
+            <ItemID>4 </ItemID>
+            <ItemNum>30 </ItemNum>
+        </Reward>
+    </Phase>
+    <Phase type="ResAchievementPhaseDesc">
+        <AchieveValue>500 </AchieveValue>
+        <Reward type="ItemReward">
+            <ItemID>7 </ItemID>
+            <ItemNum>200 </ItemNum>
+        </Reward>
+        <Reward type="ItemReward">
+            <ItemID>4 </ItemID>
+            <ItemNum>60 </ItemNum>
+        </Reward>
+    </Phase>
+    <UISkipType>70 </UISkipType>
+</ResAchievementDesc>
+<ResAchievementDesc version="1">
+    <ID>12 </ID>
+    <Name_SCN>哇！巨龙</Name_SCN>
+    <Name_FCN>哇！巨龙</Name_FCN>
+    <Name_EN>What! Dragons!</Name_EN>
+    <Desc_SCN>累计训练{0}只幽暗巨兽</Desc_SCN>
+    <Desc_FCN>累计训练{0}只幽暗巨兽</Desc_FCN>
+    <Desc_EN>Train 10 Dark Behemoths.</Desc_EN>
+    <IconName>UITexture/system/renwu/T_ICON_huanjin_new</IconName>
+    <CountType>0 </CountType>
+    <NeedAct>105 </NeedAct>
+    <ActParam>20000309 </ActParam>
+    <Phase type="ResAchievementPhaseDesc">
+        <AchieveValue>10 </AchieveValue>
+        <Reward type="ItemReward">
+            <ItemID>7 </ItemID>
+            <ItemNum>10 </ItemNum>
+        </Reward>
+        <Reward type="ItemReward">
+            <ItemID>4 </ItemID>
+            <ItemNum>15 </ItemNum>
+        </Reward>
+    </Phase>
+    <Phase type="ResAchievementPhaseDesc">
+        <AchieveValue>50 </AchieveValue>
+        <Reward type="ItemReward">
+            <ItemID>7 </ItemID>
+            <ItemNum>20 </ItemNum>
+        </Reward>
+        <Reward type="ItemReward">
+            <ItemID>4 </ItemID>
+            <ItemNum>15 </ItemNum>
+        </Reward>
+    </Phase>
+    <Phase type="ResAchievementPhaseDesc">
+        <AchieveValue>100 </AchieveValue>
+        <Reward type="ItemReward">
+            <ItemID>7 </ItemID>
+            <ItemNum>50 </ItemNum>
+        </Reward>
+        <Reward type="ItemReward">
+            <ItemID>4 </ItemID>
+            <ItemNum>30 </ItemNum>
+        </Reward>
+    </Phase>
+    <Phase type="ResAchievementPhaseDesc">
+        <AchieveValue>200 </AchieveValue>
+        <Reward type="ItemReward">
+            <ItemID>7 </ItemID>
+            <ItemNum>100 </ItemNum>
+        </Reward>
+        <Reward type="ItemReward">
+            <ItemID>4 </ItemID>
+            <ItemNum>30 </ItemNum>
+        </Reward>
+    </Phase>
+    <Phase type="ResAchievementPhaseDesc">
+        <AchieveValue>500 </AchieveValue>
+        <Reward type="ItemReward">
+            <ItemID>7 </ItemID>
+            <ItemNum>200 </ItemNum>
+        </Reward>
+        <Reward type="ItemReward">
+            <ItemID>4 </ItemID>
+            <ItemNum>60 </ItemNum>
+        </Reward>
+    </Phase>
+    <UISkipType>70 </UISkipType>
+</ResAchievementDesc>
+<ResAchievementDesc version="1">
+    <ID>13 </ID>
+    <Name_SCN>冲锋！</Name_SCN>
+    <Name_FCN>冲锋！</Name_FCN>
+    <Name_EN>Charge!</Name_EN>
+    <Desc_SCN>累计训练{0}个重装骑士</Desc_SCN>
+    <Desc_FCN>累计训练{0}个重装骑士</Desc_FCN>
+    <Desc_EN>Train 10 Heavy Knights.</Desc_EN>
+    <IconName>UITexture/system/renwu/T_ICON_huanjin_new</IconName>
+    <CountType>0 </CountType>
+    <NeedAct>105 </NeedAct>
+    <ActParam>20000108 </ActParam>
+    <Phase type="ResAchievementPhaseDesc">
+        <AchieveValue>10 </AchieveValue>
+        <Reward type="ItemReward">
+            <ItemID>7 </ItemID>
+            <ItemNum>10 </ItemNum>
+        </Reward>
+        <Reward type="ItemReward">
+            <ItemID>4 </ItemID>
+            <ItemNum>15 </ItemNum>
+        </Reward>
+    </Phase>
+    <Phase type="ResAchievementPhaseDesc">
+        <AchieveValue>50 </AchieveValue>
+        <Reward type="ItemReward">
+            <ItemID>7 </ItemID>
+            <ItemNum>20 </ItemNum>
+        </Reward>
+        <Reward type="ItemReward">
+            <ItemID>4 </ItemID>
+            <ItemNum>15 </ItemNum>
+        </Reward>
+    </Phase>
+    <Phase type="ResAchievementPhaseDesc">
+        <AchieveValue>100 </AchieveValue>
+        <Reward type="ItemReward">
+            <ItemID>7 </ItemID>
+            <ItemNum>50 </ItemNum>
+        </Reward>
+        <Reward type="ItemReward">
+            <ItemID>4 </ItemID>
+            <ItemNum>30 </ItemNum>
+        </Reward>
+    </Phase>
+    <Phase type="ResAchievementPhaseDesc">
+        <AchieveValue>200 </AchieveValue>
+        <Reward type="ItemReward">
+            <ItemID>7 </ItemID>
+            <ItemNum>100 </ItemNum>
+        </Reward>
+        <Reward type="ItemReward">
+            <ItemID>4 </ItemID>
+            <ItemNum>30 </ItemNum>
+        </Reward>
+    </Phase>
+    <Phase type="ResAchievementPhaseDesc">
+        <AchieveValue>500 </AchieveValue>
+        <Reward type="ItemReward">
+            <ItemID>7 </ItemID>
+            <ItemNum>200 </ItemNum>
+        </Reward>
+        <Reward type="ItemReward">
+            <ItemID>4 </ItemID>
+            <ItemNum>60 </ItemNum>
+        </Reward>
+    </Phase>
+    <UISkipType>70 </UISkipType>
+</ResAchievementDesc>
+<ResAchievementDesc version="1">
+    <ID>14 </ID>
+    <Name_SCN>王者再临</Name_SCN>
+    <Name_FCN>王者再临</Name_FCN>
+    <Name_EN>Legendary</Name_EN>
+    <Desc_SCN>单局累计击败英雄{0}次</Desc_SCN>
+    <Desc_FCN>单局累计击败英雄{0}次</Desc_FCN>
+    <Desc_EN>Defeat 10 Heroes in one match.</Desc_EN>
+    <IconName>UITexture/system/renwu/T_ICON_huanjin_new</IconName>
+    <CountType>1 </CountType>
+    <NeedAct>116 </NeedAct>
+    <ActParam>0 </ActParam>
+    <Phase type="ResAchievementPhaseDesc">
+        <AchieveValue>3 </AchieveValue>
+        <Reward type="ItemReward">
+            <ItemID>7 </ItemID>
+            <ItemNum>10 </ItemNum>
+        </Reward>
+        <Reward type="ItemReward">
+            <ItemID>4 </ItemID>
+            <ItemNum>20 </ItemNum>
+        </Reward>
+    </Phase>
+    <Phase type="ResAchievementPhaseDesc">
+        <AchieveValue>5 </AchieveValue>
+        <Reward type="ItemReward">
+            <ItemID>7 </ItemID>
+            <ItemNum>20 </ItemNum>
+        </Reward>
+        <Reward type="ItemReward">
+            <ItemID>4 </ItemID>
+            <ItemNum>20 </ItemNum>
+        </Reward>
+    </Phase>
+    <Phase type="ResAchievementPhaseDesc">
+        <AchieveValue>10 </AchieveValue>
+        <Reward type="ItemReward">
+            <ItemID>7 </ItemID>
+            <ItemNum>50 </ItemNum>
+        </Reward>
+        <Reward type="ItemReward">
+            <ItemID>4 </ItemID>
+            <ItemNum>40 </ItemNum>
+        </Reward>
+    </Phase>
+    <Phase type="ResAchievementPhaseDesc">
+        <AchieveValue>15 </AchieveValue>
+        <Reward type="ItemReward">
+            <ItemID>7 </ItemID>
+            <ItemNum>100 </ItemNum>
+        </Reward>
+        <Reward type="ItemReward">
+            <ItemID>4 </ItemID>
+            <ItemNum>40 </ItemNum>
+        </Reward>
+    </Phase>
+    <Phase type="ResAchievementPhaseDesc">
+        <AchieveValue>20 </AchieveValue>
+        <Reward type="ItemReward">
+            <ItemID>7 </ItemID>
+            <ItemNum>200 </ItemNum>
+        </Reward>
+        <Reward type="ItemReward">
+            <ItemID>4 </ItemID>
+            <ItemNum>80 </ItemNum>
+        </Reward>
+    </Phase>
+    <UISkipType>70 </UISkipType>
+</ResAchievementDesc>
+<ResAchievementDesc version="1">
+    <ID>15 </ID>
+    <Name_SCN>横扫</Name_SCN>
+    <Name_FCN>横扫</Name_FCN>
+    <Name_EN>Sweep</Name_EN>
+    <Desc_SCN>单局击败小兵{0}次</Desc_SCN>
+    <Desc_FCN>单局击败小兵{0}次</Desc_FCN>
+    <Desc_EN>Defeat 10 Troops in a match.</Desc_EN>
+    <IconName>UITexture/system/renwu/T_ICON_huanjin_new</IconName>
+    <CountType>1 </CountType>
+    <NeedAct>117 </NeedAct>
+    <ActParam>0 </ActParam>
+    <Phase type="ResAchievementPhaseDesc">
+        <AchieveValue>20 </AchieveValue>
+        <Reward type="ItemReward">
+            <ItemID>7 </ItemID>
+            <ItemNum>10 </ItemNum>
+        </Reward>
+        <Reward type="ItemReward">
+            <ItemID>4 </ItemID>
+            <ItemNum>15 </ItemNum>
+        </Reward>
+    </Phase>
+    <Phase type="ResAchievementPhaseDesc">
+        <AchieveValue>40 </AchieveValue>
+        <Reward type="ItemReward">
+            <ItemID>7 </ItemID>
+            <ItemNum>20 </ItemNum>
+        </Reward>
+        <Reward type="ItemReward">
+            <ItemID>4 </ItemID>
+            <ItemNum>15 </ItemNum>
+        </Reward>
+    </Phase>
+    <Phase type="ResAchievementPhaseDesc">
+        <AchieveValue>60 </AchieveValue>
+        <Reward type="ItemReward">
+            <ItemID>7 </ItemID>
+            <ItemNum>50 </ItemNum>
+        </Reward>
+        <Reward type="ItemReward">
+            <ItemID>4 </ItemID>
+            <ItemNum>30 </ItemNum>
+        </Reward>
+    </Phase>
+    <Phase type="ResAchievementPhaseDesc">
+        <AchieveValue>80 </AchieveValue>
+        <Reward type="ItemReward">
+            <ItemID>7 </ItemID>
+            <ItemNum>100 </ItemNum>
+        </Reward>
+        <Reward type="ItemReward">
+            <ItemID>4 </ItemID>
+            <ItemNum>30 </ItemNum>
+        </Reward>
+    </Phase>
+    <Phase type="ResAchievementPhaseDesc">
+        <AchieveValue>100 </AchieveValue>
+        <Reward type="ItemReward">
+            <ItemID>7 </ItemID>
+            <ItemNum>200 </ItemNum>
+        </Reward>
+        <Reward type="ItemReward">
+            <ItemID>4 </ItemID>
+            <ItemNum>60 </ItemNum>
+        </Reward>
+    </Phase>
+    <UISkipType>70 </UISkipType>
+</ResAchievementDesc>
+<ResAchievementDesc version="1">
+    <ID>16 </ID>
+    <Name_SCN>单挑达人</Name_SCN>
+    <Name_FCN>单挑达人</Name_FCN>
+    <Name_EN>Soloist</Name_EN>
+    <Desc_SCN>1V1段位达到{0}</Desc_SCN>
+    <Desc_FCN>1V1段位达到{0}</Desc_FCN>
+    <Desc_EN>Reached 1v1 Rank 10</Desc_EN>
+    <IconName>UITexture/system/renwu/T_ICON_huanjin_new</IconName>
+    <CountType>1 </CountType>
+    <NeedAct>106 </NeedAct>
+    <ActParam>1 </ActParam>
+    <Phase type="ResAchievementPhaseDesc">
+        <AchieveValue>7 </AchieveValue>
+        <Reward type="ItemReward">
+            <ItemID>7 </ItemID>
+            <ItemNum>10 </ItemNum>
+        </Reward>
+        <Reward type="ItemReward">
+            <ItemID>4 </ItemID>
+            <ItemNum>50 </ItemNum>
+        </Reward>
+    </Phase>
+    <Phase type="ResAchievementPhaseDesc">
+        <AchieveValue>11 </AchieveValue>
+        <Reward type="ItemReward">
+            <ItemID>7 </ItemID>
+            <ItemNum>20 </ItemNum>
+        </Reward>
+        <Reward type="ItemReward">
+            <ItemID>4 </ItemID>
+            <ItemNum>50 </ItemNum>
+        </Reward>
+    </Phase>
+    <Phase type="ResAchievementPhaseDesc">
+        <AchieveValue>15 </AchieveValue>
+        <Reward type="ItemReward">
+            <ItemID>7 </ItemID>
+            <ItemNum>50 </ItemNum>
+        </Reward>
+        <Reward type="ItemReward">
+            <ItemID>4 </ItemID>
+            <ItemNum>100 </ItemNum>
+        </Reward>
+    </Phase>
+    <Phase type="ResAchievementPhaseDesc">
+        <AchieveValue>20 </AchieveValue>
+        <Reward type="ItemReward">
+            <ItemID>7 </ItemID>
+            <ItemNum>100 </ItemNum>
+        </Reward>
+        <Reward type="ItemReward">
+            <ItemID>4 </ItemID>
+            <ItemNum>100 </ItemNum>
+        </Reward>
+    </Phase>
+    <Phase type="ResAchievementPhaseDesc">
+        <AchieveValue>25 </AchieveValue>
+        <Reward type="ItemReward">
+            <ItemID>7 </ItemID>
+            <ItemNum>200 </ItemNum>
+        </Reward>
+        <Reward type="ItemReward">
+            <ItemID>4 </ItemID>
+            <ItemNum>200 </ItemNum>
+        </Reward>
+    </Phase>
+    <UISkipType>80 </UISkipType>
+</ResAchievementDesc>
+<ResAchievementDesc version="1">
+    <ID>17 </ID>
+    <Name_SCN>实力见证</Name_SCN>
+    <Name_FCN>实力见证</Name_FCN>
+    <Name_EN>Proof of Strength</Name_EN>
+    <Desc_SCN>2V2段位达到{0}</Desc_SCN>
+    <Desc_FCN>2V2段位达到{0}</Desc_FCN>
+    <Desc_EN>Reached 2v2 Rank 10</Desc_EN>
+    <IconName>UITexture/system/renwu/T_ICON_huanjin_new</IconName>
+    <CountType>1 </CountType>
+    <NeedAct>106 </NeedAct>
+    <ActParam>2 </ActParam>
+    <Phase type="ResAchievementPhaseDesc">
+        <AchieveValue>7 </AchieveValue>
+        <Reward type="ItemReward">
+            <ItemID>7 </ItemID>
+            <ItemNum>10 </ItemNum>
+        </Reward>
+        <Reward type="ItemReward">
+            <ItemID>4 </ItemID>
+            <ItemNum>50 </ItemNum>
+        </Reward>
+    </Phase>
+    <Phase type="ResAchievementPhaseDesc">
+        <AchieveValue>11 </AchieveValue>
+        <Reward type="ItemReward">
+            <ItemID>7 </ItemID>
+            <ItemNum>20 </ItemNum>
+        </Reward>
+        <Reward type="ItemReward">
+            <ItemID>4 </ItemID>
+            <ItemNum>50 </ItemNum>
+        </Reward>
+    </Phase>
+    <Phase type="ResAchievementPhaseDesc">
+        <AchieveValue>15 </AchieveValue>
+        <Reward type="ItemReward">
+            <ItemID>7 </ItemID>
+            <ItemNum>50 </ItemNum>
+        </Reward>
+        <Reward type="ItemReward">
+            <ItemID>4 </ItemID>
+            <ItemNum>100 </ItemNum>
+        </Reward>
+    </Phase>
+    <Phase type="ResAchievementPhaseDesc">
+        <AchieveValue>20 </AchieveValue>
+        <Reward type="ItemReward">
+            <ItemID>7 </ItemID>
+            <ItemNum>100 </ItemNum>
+        </Reward>
+        <Reward type="ItemReward">
+            <ItemID>4 </ItemID>
+            <ItemNum>100 </ItemNum>
+        </Reward>
+    </Phase>
+    <Phase type="ResAchievementPhaseDesc">
+        <AchieveValue>25 </AchieveValue>
+        <Reward type="ItemReward">
+            <ItemID>7 </ItemID>
+            <ItemNum>200 </ItemNum>
+        </Reward>
+        <Reward type="ItemReward">
+            <ItemID>4 </ItemID>
+            <ItemNum>200 </ItemNum>
+        </Reward>
+    </Phase>
+    <UISkipType>81 </UISkipType>
+</ResAchievementDesc>
+<ResAchievementDesc version="1">
+    <ID>18 </ID>
+    <Name_SCN>我最闪耀</Name_SCN>
+    <Name_FCN>我最闪耀</Name_FCN>
+    <Name_EN>Outshine</Name_EN>
+    <Desc_SCN>拥有{0}个头像框</Desc_SCN>
+    <Desc_FCN>拥有{0}个头像框</Desc_FCN>
+    <Desc_EN>Have 10 Avatars.</Desc_EN>
+    <IconName>UITexture/system/renwu/T_ICON_huanjin_new</IconName>
+    <CountType>1 </CountType>
+    <NeedAct>107 </NeedAct>
+    <ActParam>0 </ActParam>
+    <Phase type="ResAchievementPhaseDesc">
+        <AchieveValue>10 </AchieveValue>
+        <Reward type="ItemReward">
+            <ItemID>7 </ItemID>
+            <ItemNum>10 </ItemNum>
+        </Reward>
+        <Reward type="ItemReward">
+            <ItemID>4 </ItemID>
+            <ItemNum>50 </ItemNum>
+        </Reward>
+    </Phase>
+    <Phase type="ResAchievementPhaseDesc">
+        <AchieveValue>25 </AchieveValue>
+        <Reward type="ItemReward">
+            <ItemID>7 </ItemID>
+            <ItemNum>20 </ItemNum>
+        </Reward>
+        <Reward type="ItemReward">
+            <ItemID>4 </ItemID>
+            <ItemNum>50 </ItemNum>
+        </Reward>
+    </Phase>
+    <Phase type="ResAchievementPhaseDesc">
+        <AchieveValue>50 </AchieveValue>
+        <Reward type="ItemReward">
+            <ItemID>7 </ItemID>
+            <ItemNum>50 </ItemNum>
+        </Reward>
+        <Reward type="ItemReward">
+            <ItemID>4 </ItemID>
+            <ItemNum>100 </ItemNum>
+        </Reward>
+    </Phase>
+    <Phase type="ResAchievementPhaseDesc">
+        <AchieveValue>75 </AchieveValue>
+        <Reward type="ItemReward">
+            <ItemID>7 </ItemID>
+            <ItemNum>100 </ItemNum>
+        </Reward>
+        <Reward type="ItemReward">
+            <ItemID>4 </ItemID>
+            <ItemNum>100 </ItemNum>
+        </Reward>
+    </Phase>
+    <Phase type="ResAchievementPhaseDesc">
+        <AchieveValue>100 </AchieveValue>
+        <Reward type="ItemReward">
+            <ItemID>7 </ItemID>
+            <ItemNum>200 </ItemNum>
+        </Reward>
+        <Reward type="ItemReward">
+            <ItemID>4 </ItemID>
+            <ItemNum>200 </ItemNum>
+        </Reward>
+    </Phase>
+    <UISkipType>70 </UISkipType>
+</ResAchievementDesc>
+<ResAchievementDesc version="1">
+    <ID>19 </ID>
+    <Name_SCN>时尚达人</Name_SCN>
+    <Name_FCN>时尚达人</Name_FCN>
+    <Name_EN>Fashion Genius</Name_EN>
+    <Desc_SCN>拥有{0}个皮肤</Desc_SCN>
+    <Desc_FCN>拥有{0}个皮肤</Desc_FCN>
+    <Desc_EN>Have 10 Skins.</Desc_EN>
+    <IconName>UITexture/system/renwu/T_ICON_huanjin_new</IconName>
+    <CountType>0 </CountType>
+    <NeedAct>109 </NeedAct>
+    <ActParam>0 </ActParam>
+    <Phase type="ResAchievementPhaseDesc">
+        <AchieveValue>1 </AchieveValue>
+        <Reward type="ItemReward">
+            <ItemID>7 </ItemID>
+            <ItemNum>10 </ItemNum>
+        </Reward>
+        <Reward type="ItemReward">
+            <ItemID>4 </ItemID>
+            <ItemNum>20 </ItemNum>
+        </Reward>
+    </Phase>
+    <Phase type="ResAchievementPhaseDesc">
+        <AchieveValue>25 </AchieveValue>
+        <Reward type="ItemReward">
+            <ItemID>7 </ItemID>
+            <ItemNum>20 </ItemNum>
+        </Reward>
+        <Reward type="ItemReward">
+            <ItemID>4 </ItemID>
+            <ItemNum>20 </ItemNum>
+        </Reward>
+    </Phase>
+    <Phase type="ResAchievementPhaseDesc">
+        <AchieveValue>50 </AchieveValue>
+        <Reward type="ItemReward">
+            <ItemID>7 </ItemID>
+            <ItemNum>50 </ItemNum>
+        </Reward>
+        <Reward type="ItemReward">
+            <ItemID>4 </ItemID>
+            <ItemNum>40 </ItemNum>
+        </Reward>
+    </Phase>
+    <Phase type="ResAchievementPhaseDesc">
+        <AchieveValue>75 </AchieveValue>
+        <Reward type="ItemReward">
+            <ItemID>7 </ItemID>
+            <ItemNum>100 </ItemNum>
+        </Reward>
+        <Reward type="ItemReward">
+            <ItemID>4 </ItemID>
+            <ItemNum>40 </ItemNum>
+        </Reward>
+    </Phase>
+    <Phase type="ResAchievementPhaseDesc">
+        <AchieveValue>100 </AchieveValue>
+        <Reward type="ItemReward">
+            <ItemID>7 </ItemID>
+            <ItemNum>200 </ItemNum>
+        </Reward>
+        <Reward type="ItemReward">
+            <ItemID>4 </ItemID>
+            <ItemNum>80 </ItemNum>
+        </Reward>
+    </Phase>
+    <UISkipType>101 </UISkipType>
+</ResAchievementDesc>
+<ResAchievementDesc version="1">
+    <ID>20 </ID>
+    <Name_SCN>英雄殿</Name_SCN>
+    <Name_FCN>英雄殿</Name_FCN>
+    <Name_EN>Hero’s Temple</Name_EN>
+    <Desc_SCN>拥有{0}个英雄</Desc_SCN>
+    <Desc_FCN>拥有{0}个英雄</Desc_FCN>
+    <Desc_EN>Have 10 Heroes.</Desc_EN>
+    <IconName>UITexture/system/renwu/T_ICON_huanjin_new</IconName>
+    <CountType>0 </CountType>
+    <NeedAct>108 </NeedAct>
+    <ActParam>0 </ActParam>
+    <Phase type="ResAchievementPhaseDesc">
+        <AchieveValue>5 </AchieveValue>
+        <Reward type="ItemReward">
+            <ItemID>7 </ItemID>
+            <ItemNum>10 </ItemNum>
+        </Reward>
+        <Reward type="ItemReward">
+            <ItemID>4 </ItemID>
+            <ItemNum>20 </ItemNum>
+        </Reward>
+    </Phase>
+    <Phase type="ResAchievementPhaseDesc">
+        <AchieveValue>10 </AchieveValue>
+        <Reward type="ItemReward">
+            <ItemID>7 </ItemID>
+            <ItemNum>20 </ItemNum>
+        </Reward>
+        <Reward type="ItemReward">
+            <ItemID>4 </ItemID>
+            <ItemNum>20 </ItemNum>
+        </Reward>
+    </Phase>
+    <Phase type="ResAchievementPhaseDesc">
+        <AchieveValue>25 </AchieveValue>
+        <Reward type="ItemReward">
+            <ItemID>7 </ItemID>
+            <ItemNum>50 </ItemNum>
+        </Reward>
+        <Reward type="ItemReward">
+            <ItemID>4 </ItemID>
+            <ItemNum>40 </ItemNum>
+        </Reward>
+    </Phase>
+    <Phase type="ResAchievementPhaseDesc">
+        <AchieveValue>50 </AchieveValue>
+        <Reward type="ItemReward">
+            <ItemID>7 </ItemID>
+            <ItemNum>100 </ItemNum>
+        </Reward>
+        <Reward type="ItemReward">
+            <ItemID>4 </ItemID>
+            <ItemNum>40 </ItemNum>
+        </Reward>
+    </Phase>
+    <Phase type="ResAchievementPhaseDesc">
+        <AchieveValue>100 </AchieveValue>
+        <Reward type="ItemReward">
+            <ItemID>7 </ItemID>
+            <ItemNum>200 </ItemNum>
+        </Reward>
+        <Reward type="ItemReward">
+            <ItemID>4 </ItemID>
+            <ItemNum>80 </ItemNum>
+        </Reward>
+    </Phase>
+    <UISkipType>100 </UISkipType>
+</ResAchievementDesc>
+<ResAchievementDesc version="1">
+    <ID>21 </ID>
+    <Name_SCN>金闪闪</Name_SCN>
+    <Name_FCN>金闪闪</Name_FCN>
+    <Name_EN>Sparkling Gold</Name_EN>
+    <Desc_SCN>累计获得{0}金币</Desc_SCN>
+    <Desc_FCN>累计获得{0}金币</Desc_FCN>
+    <Desc_EN>Obtain 10 Hero Coins.</Desc_EN>
+    <IconName>UITexture/system/renwu/T_ICON_huanjin_new</IconName>
+    <CountType>0 </CountType>
+    <NeedAct>110 </NeedAct>
+    <ActParam>1 </ActParam>
+    <Phase type="ResAchievementPhaseDesc">
+        <AchieveValue>10000 </AchieveValue>
+        <Reward type="ItemReward">
+            <ItemID>7 </ItemID>
+            <ItemNum>10 </ItemNum>
+        </Reward>
+        <Reward type="ItemReward">
+            <ItemID>4 </ItemID>
+            <ItemNum>20 </ItemNum>
+        </Reward>
+    </Phase>
+    <Phase type="ResAchievementPhaseDesc">
+        <AchieveValue>100000 </AchieveValue>
+        <Reward type="ItemReward">
+            <ItemID>7 </ItemID>
+            <ItemNum>20 </ItemNum>
+        </Reward>
+        <Reward type="ItemReward">
+            <ItemID>4 </ItemID>
+            <ItemNum>20 </ItemNum>
+        </Reward>
+    </Phase>
+    <Phase type="ResAchievementPhaseDesc">
+        <AchieveValue>200000 </AchieveValue>
+        <Reward type="ItemReward">
+            <ItemID>7 </ItemID>
+            <ItemNum>50 </ItemNum>
+        </Reward>
+        <Reward type="ItemReward">
+            <ItemID>4 </ItemID>
+            <ItemNum>40 </ItemNum>
+        </Reward>
+    </Phase>
+    <Phase type="ResAchievementPhaseDesc">
+        <AchieveValue>300000 </AchieveValue>
+        <Reward type="ItemReward">
+            <ItemID>7 </ItemID>
+            <ItemNum>100 </ItemNum>
+        </Reward>
+        <Reward type="ItemReward">
+            <ItemID>4 </ItemID>
+            <ItemNum>40 </ItemNum>
+        </Reward>
+    </Phase>
+    <Phase type="ResAchievementPhaseDesc">
+        <AchieveValue>500000 </AchieveValue>
+        <Reward type="ItemReward">
+            <ItemID>7 </ItemID>
+            <ItemNum>200 </ItemNum>
+        </Reward>
+        <Reward type="ItemReward">
+            <ItemID>4 </ItemID>
+            <ItemNum>80 </ItemNum>
+        </Reward>
+    </Phase>
+    <UISkipType>70 </UISkipType>
+</ResAchievementDesc>
+<ResAchievementDesc version="1">
+    <ID>22 </ID>
+    <Name_SCN>不差钱</Name_SCN>
+    <Name_FCN>不差钱</Name_FCN>
+    <Name_EN>Moneybags</Name_EN>
+    <Desc_SCN>累计获得{0}魂石</Desc_SCN>
+    <Desc_FCN>累计获得{0}魂石</Desc_FCN>
+    <Desc_EN>Obtain 10 Gems.</Desc_EN>
+    <IconName>UITexture/system/renwu/T_ICON_huanjin_new</IconName>
+    <CountType>0 </CountType>
+    <NeedAct>110 </NeedAct>
+    <ActParam>2 </ActParam>
+    <Phase type="ResAchievementPhaseDesc">
+        <AchieveValue>10000 </AchieveValue>
+        <Reward type="ItemReward">
+            <ItemID>7 </ItemID>
+            <ItemNum>10 </ItemNum>
+        </Reward>
+        <Reward type="ItemReward">
+            <ItemID>4 </ItemID>
+            <ItemNum>20 </ItemNum>
+        </Reward>
+    </Phase>
+    <Phase type="ResAchievementPhaseDesc">
+        <AchieveValue>20000 </AchieveValue>
+        <Reward type="ItemReward">
+            <ItemID>7 </ItemID>
+            <ItemNum>20 </ItemNum>
+        </Reward>
+        <Reward type="ItemReward">
+            <ItemID>4 </ItemID>
+            <ItemNum>20 </ItemNum>
+        </Reward>
+    </Phase>
+    <Phase type="ResAchievementPhaseDesc">
+        <AchieveValue>50000 </AchieveValue>
+        <Reward type="ItemReward">
+            <ItemID>7 </ItemID>
+            <ItemNum>50 </ItemNum>
+        </Reward>
+        <Reward type="ItemReward">
+            <ItemID>4 </ItemID>
+            <ItemNum>40 </ItemNum>
+        </Reward>
+    </Phase>
+    <Phase type="ResAchievementPhaseDesc">
+        <AchieveValue>80000 </AchieveValue>
+        <Reward type="ItemReward">
+            <ItemID>7 </ItemID>
+            <ItemNum>100 </ItemNum>
+        </Reward>
+        <Reward type="ItemReward">
+            <ItemID>4 </ItemID>
+            <ItemNum>40 </ItemNum>
+        </Reward>
+    </Phase>
+    <Phase type="ResAchievementPhaseDesc">
+        <AchieveValue>100000 </AchieveValue>
+        <Reward type="ItemReward">
+            <ItemID>7 </ItemID>
+            <ItemNum>200 </ItemNum>
+        </Reward>
+        <Reward type="ItemReward">
+            <ItemID>4 </ItemID>
+            <ItemNum>80 </ItemNum>
+        </Reward>
+    </Phase>
+    <UISkipType>70 </UISkipType>
+</ResAchievementDesc>
+<ResAchievementDesc version="1">
+    <ID>23 </ID>
+    <Name_SCN>熟能生巧</Name_SCN>
+    <Name_FCN>熟能生巧</Name_FCN>
+    <Name_EN>Practice Makes Perfect</Name_EN>
+    <Desc_SCN>{0}个英雄的熟练度达到传说</Desc_SCN>
+    <Desc_FCN>{0}个英雄的熟练度达到传说</Desc_FCN>
+    <Desc_EN>Have 10 Heroes reach Legend status.</Desc_EN>
+    <IconName>UITexture/system/renwu/T_ICON_huanjin_new</IconName>
+    <CountType>0 </CountType>
+    <NeedAct>111 </NeedAct>
+    <ActParam>0 </ActParam>
+    <Phase type="ResAchievementPhaseDesc">
+        <AchieveValue>1 </AchieveValue>
+        <Reward type="ItemReward">
+            <ItemID>7 </ItemID>
+            <ItemNum>10 </ItemNum>
+        </Reward>
+        <Reward type="ItemReward">
+            <ItemID>4 </ItemID>
+            <ItemNum>20 </ItemNum>
+        </Reward>
+    </Phase>
+    <Phase type="ResAchievementPhaseDesc">
+        <AchieveValue>5 </AchieveValue>
+        <Reward type="ItemReward">
+            <ItemID>7 </ItemID>
+            <ItemNum>20 </ItemNum>
+        </Reward>
+        <Reward type="ItemReward">
+            <ItemID>4 </ItemID>
+            <ItemNum>20 </ItemNum>
+        </Reward>
+    </Phase>
+    <Phase type="ResAchievementPhaseDesc">
+        <AchieveValue>10 </AchieveValue>
+        <Reward type="ItemReward">
+            <ItemID>7 </ItemID>
+            <ItemNum>50 </ItemNum>
+        </Reward>
+        <Reward type="ItemReward">
+            <ItemID>4 </ItemID>
+            <ItemNum>40 </ItemNum>
+        </Reward>
+    </Phase>
+    <Phase type="ResAchievementPhaseDesc">
+        <AchieveValue>15 </AchieveValue>
+        <Reward type="ItemReward">
+            <ItemID>7 </ItemID>
+            <ItemNum>100 </ItemNum>
+        </Reward>
+        <Reward type="ItemReward">
+            <ItemID>4 </ItemID>
+            <ItemNum>40 </ItemNum>
+        </Reward>
+    </Phase>
+    <Phase type="ResAchievementPhaseDesc">
+        <AchieveValue>20 </AchieveValue>
+        <Reward type="ItemReward">
+            <ItemID>7 </ItemID>
+            <ItemNum>200 </ItemNum>
+        </Reward>
+        <Reward type="ItemReward">
+            <ItemID>4 </ItemID>
+            <ItemNum>80 </ItemNum>
+        </Reward>
+    </Phase>
+    <UISkipType>70 </UISkipType>
+</ResAchievementDesc>
+<ResAchievementDesc version="1">
+    <ID>24 </ID>
+    <Name_SCN>并肩作战</Name_SCN>
+    <Name_FCN>并肩作战</Name_FCN>
+    <Name_EN>Fight Side by Side</Name_EN>
+    <Desc_SCN>与好友组队进行{0}场对战</Desc_SCN>
+    <Desc_FCN>与好友组队进行{0}场对战</Desc_FCN>
+    <Desc_EN>Team up with friends 10 times.</Desc_EN>
+    <IconName>UITexture/system/renwu/T_ICON_huanjin_new</IconName>
+    <CountType>0 </CountType>
+    <NeedAct>112 </NeedAct>
+    <ActParam>0 </ActParam>
+    <Phase type="ResAchievementPhaseDesc">
+        <AchieveValue>10 </AchieveValue>
+        <Reward type="ItemReward">
+            <ItemID>7 </ItemID>
+            <ItemNum>10 </ItemNum>
+        </Reward>
+        <Reward type="ItemReward">
+            <ItemID>4 </ItemID>
+            <ItemNum>40 </ItemNum>
+        </Reward>
+    </Phase>
+    <Phase type="ResAchievementPhaseDesc">
+        <AchieveValue>100 </AchieveValue>
+        <Reward type="ItemReward">
+            <ItemID>7 </ItemID>
+            <ItemNum>20 </ItemNum>
+        </Reward>
+        <Reward type="ItemReward">
+            <ItemID>4 </ItemID>
+            <ItemNum>40 </ItemNum>
+        </Reward>
+    </Phase>
+    <Phase type="ResAchievementPhaseDesc">
+        <AchieveValue>200 </AchieveValue>
+        <Reward type="ItemReward">
+            <ItemID>7 </ItemID>
+            <ItemNum>50 </ItemNum>
+        </Reward>
+        <Reward type="ItemReward">
+            <ItemID>4 </ItemID>
+            <ItemNum>80 </ItemNum>
+        </Reward>
+    </Phase>
+    <Phase type="ResAchievementPhaseDesc">
+        <AchieveValue>500 </AchieveValue>
+        <Reward type="ItemReward">
+            <ItemID>7 </ItemID>
+            <ItemNum>100 </ItemNum>
+        </Reward>
+        <Reward type="ItemReward">
+            <ItemID>4 </ItemID>
+            <ItemNum>80 </ItemNum>
+        </Reward>
+    </Phase>
+    <Phase type="ResAchievementPhaseDesc">
+        <AchieveValue>1000 </AchieveValue>
+        <Reward type="ItemReward">
+            <ItemID>7 </ItemID>
+            <ItemNum>200 </ItemNum>
+        </Reward>
+        <Reward type="ItemReward">
+            <ItemID>4 </ItemID>
+            <ItemNum>160 </ItemNum>
+        </Reward>
+    </Phase>
+    <UISkipType>70 </UISkipType>
+</ResAchievementDesc>
+<ResAchievementDesc version="1">
+    <ID>25 </ID>
+    <Name_SCN>腐蚀</Name_SCN>
+    <Name_FCN>腐蚀</Name_FCN>
+    <Name_EN>Corrosion</Name_EN>
+    <Desc_SCN>累计训练{0}只双头龙</Desc_SCN>
+    <Desc_FCN>累计训练{0}只双头龙</Desc_FCN>
+    <Desc_EN>Train 10 Double-Headed Dragons.</Desc_EN>
+    <IconName>UITexture/system/renwu/T_ICON_huanjin_new</IconName>
+    <CountType>0 </CountType>
+    <NeedAct>105 </NeedAct>
+    <ActParam>20000410 </ActParam>
+    <Phase type="ResAchievementPhaseDesc">
+        <AchieveValue>10 </AchieveValue>
+        <Reward type="ItemReward">
+            <ItemID>7 </ItemID>
+            <ItemNum>10 </ItemNum>
+        </Reward>
+        <Reward type="ItemReward">
+            <ItemID>4 </ItemID>
+            <ItemNum>20 </ItemNum>
+        </Reward>
+    </Phase>
+    <Phase type="ResAchievementPhaseDesc">
+        <AchieveValue>50 </AchieveValue>
+        <Reward type="ItemReward">
+            <ItemID>7 </ItemID>
+            <ItemNum>20 </ItemNum>
+        </Reward>
+        <Reward type="ItemReward">
+            <ItemID>4 </ItemID>
+            <ItemNum>20 </ItemNum>
+        </Reward>
+    </Phase>
+    <Phase type="ResAchievementPhaseDesc">
+        <AchieveValue>100 </AchieveValue>
+        <Reward type="ItemReward">
+            <ItemID>7 </ItemID>
+            <ItemNum>50 </ItemNum>
+        </Reward>
+        <Reward type="ItemReward">
+            <ItemID>4 </ItemID>
+            <ItemNum>40 </ItemNum>
+        </Reward>
+    </Phase>
+    <Phase type="ResAchievementPhaseDesc">
+        <AchieveValue>200 </AchieveValue>
+        <Reward type="ItemReward">
+            <ItemID>7 </ItemID>
+            <ItemNum>100 </ItemNum>
+        </Reward>
+        <Reward type="ItemReward">
+            <ItemID>4 </ItemID>
+            <ItemNum>40 </ItemNum>
+        </Reward>
+    </Phase>
+    <Phase type="ResAchievementPhaseDesc">
+        <AchieveValue>500 </AchieveValue>
+        <Reward type="ItemReward">
+            <ItemID>7 </ItemID>
+            <ItemNum>200 </ItemNum>
+        </Reward>
+        <Reward type="ItemReward">
+            <ItemID>4 </ItemID>
+            <ItemNum>80 </ItemNum>
+        </Reward>
+    </Phase>
+    <UISkipType>70 </UISkipType>
+</ResAchievementDesc>
+<ResAchievementDesc version="1">
+    <ID>26 </ID>
+    <Name_SCN>粉碎大地</Name_SCN>
+    <Name_FCN>粉碎大地</Name_FCN>
+    <Name_EN>Earth Breaker</Name_EN>
+    <Desc_SCN>累计训练{0}个兽人战将</Desc_SCN>
+    <Desc_FCN>累计训练{0}个兽人战将</Desc_FCN>
+    <Desc_EN>Train 10 Orc Centurions.</Desc_EN>
+    <IconName>UITexture/system/renwu/T_ICON_huanjin_new</IconName>
+    <CountType>0 </CountType>
+    <NeedAct>105 </NeedAct>
+    <ActParam>20000210 </ActParam>
+    <Phase type="ResAchievementPhaseDesc">
+        <AchieveValue>10 </AchieveValue>
+        <Reward type="ItemReward">
+            <ItemID>7 </ItemID>
+            <ItemNum>10 </ItemNum>
+        </Reward>
+        <Reward type="ItemReward">
+            <ItemID>4 </ItemID>
+            <ItemNum>15 </ItemNum>
+        </Reward>
+    </Phase>
+    <Phase type="ResAchievementPhaseDesc">
+        <AchieveValue>50 </AchieveValue>
+        <Reward type="ItemReward">
+            <ItemID>7 </ItemID>
+            <ItemNum>20 </ItemNum>
+        </Reward>
+        <Reward type="ItemReward">
+            <ItemID>4 </ItemID>
+            <ItemNum>15 </ItemNum>
+        </Reward>
+    </Phase>
+    <Phase type="ResAchievementPhaseDesc">
+        <AchieveValue>100 </AchieveValue>
+        <Reward type="ItemReward">
+            <ItemID>7 </ItemID>
+            <ItemNum>50 </ItemNum>
+        </Reward>
+        <Reward type="ItemReward">
+            <ItemID>4 </ItemID>
+            <ItemNum>30 </ItemNum>
+        </Reward>
+    </Phase>
+    <Phase type="ResAchievementPhaseDesc">
+        <AchieveValue>200 </AchieveValue>
+        <Reward type="ItemReward">
+            <ItemID>7 </ItemID>
+            <ItemNum>100 </ItemNum>
+        </Reward>
+        <Reward type="ItemReward">
+            <ItemID>4 </ItemID>
+            <ItemNum>30 </ItemNum>
+        </Reward>
+    </Phase>
+    <Phase type="ResAchievementPhaseDesc">
+        <AchieveValue>500 </AchieveValue>
+        <Reward type="ItemReward">
+            <ItemID>7 </ItemID>
+            <ItemNum>200 </ItemNum>
+        </Reward>
+        <Reward type="ItemReward">
+            <ItemID>4 </ItemID>
+            <ItemNum>60 </ItemNum>
+        </Reward>
+    </Phase>
+    <UISkipType>70 </UISkipType>
+</ResAchievementDesc>
+<ResAchievementDesc version="1">
+    <ID>27 </ID>
+    <Name_SCN>烈焰战神</Name_SCN>
+    <Name_FCN>烈焰战神</Name_FCN>
+    <Name_EN>The Flame God</Name_EN>
+    <Desc_SCN>累计击败烈焰战神{0}次</Desc_SCN>
+    <Desc_FCN>累计击败烈焰战神{0}次</Desc_FCN>
+    <Desc_EN>Defeat Flame God 10 times.</Desc_EN>
+    <IconName>UITexture/system/renwu/T_ICON_huanjin_new</IconName>
+    <CountType>0 </CountType>
+    <NeedAct>61 </NeedAct>
+    <ActParam>0 </ActParam>
+    <Phase type="ResAchievementPhaseDesc">
+        <AchieveValue>10 </AchieveValue>
+        <Reward type="ItemReward">
+            <ItemID>7 </ItemID>
+            <ItemNum>10 </ItemNum>
+        </Reward>
+        <Reward type="ItemReward">
+            <ItemID>4 </ItemID>
+            <ItemNum>15 </ItemNum>
+        </Reward>
+    </Phase>
+    <Phase type="ResAchievementPhaseDesc">
+        <AchieveValue>50 </AchieveValue>
+        <Reward type="ItemReward">
+            <ItemID>7 </ItemID>
+            <ItemNum>20 </ItemNum>
+        </Reward>
+        <Reward type="ItemReward">
+            <ItemID>4 </ItemID>
+            <ItemNum>15 </ItemNum>
+        </Reward>
+    </Phase>
+    <Phase type="ResAchievementPhaseDesc">
+        <AchieveValue>100 </AchieveValue>
+        <Reward type="ItemReward">
+            <ItemID>7 </ItemID>
+            <ItemNum>50 </ItemNum>
+        </Reward>
+        <Reward type="ItemReward">
+            <ItemID>4 </ItemID>
+            <ItemNum>30 </ItemNum>
+        </Reward>
+    </Phase>
+    <Phase type="ResAchievementPhaseDesc">
+        <AchieveValue>200 </AchieveValue>
+        <Reward type="ItemReward">
+            <ItemID>7 </ItemID>
+            <ItemNum>100 </ItemNum>
+        </Reward>
+        <Reward type="ItemReward">
+            <ItemID>4 </ItemID>
+            <ItemNum>30 </ItemNum>
+        </Reward>
+    </Phase>
+    <Phase type="ResAchievementPhaseDesc">
+        <AchieveValue>500 </AchieveValue>
+        <Reward type="ItemReward">
+            <ItemID>7 </ItemID>
+            <ItemNum>200 </ItemNum>
+        </Reward>
+        <Reward type="ItemReward">
+            <ItemID>4 </ItemID>
+            <ItemNum>60 </ItemNum>
+        </Reward>
+    </Phase>
+    <UISkipType>70 </UISkipType>
+</ResAchievementDesc>
+<ResAchievementDesc version="1">
+    <ID>28 </ID>
+    <Name_SCN>黑暗泰坦</Name_SCN>
+    <Name_FCN>黑暗泰坦</Name_FCN>
+    <Name_EN>The Dark Titan</Name_EN>
+    <Desc_SCN>累计击败黑暗泰坦{0}次</Desc_SCN>
+    <Desc_FCN>累计击败黑暗泰坦{0}次</Desc_FCN>
+    <Desc_EN>Defeat Dark Titan 10 times.</Desc_EN>
+    <IconName>UITexture/system/renwu/T_ICON_huanjin_new</IconName>
+    <CountType>0 </CountType>
+    <NeedAct>62 </NeedAct>
+    <ActParam>0 </ActParam>
+    <Phase type="ResAchievementPhaseDesc">
+        <AchieveValue>10 </AchieveValue>
+        <Reward type="ItemReward">
+            <ItemID>7 </ItemID>
+            <ItemNum>10 </ItemNum>
+        </Reward>
+        <Reward type="ItemReward">
+            <ItemID>4 </ItemID>
+            <ItemNum>15 </ItemNum>
+        </Reward>
+    </Phase>
+    <Phase type="ResAchievementPhaseDesc">
+        <AchieveValue>50 </AchieveValue>
+        <Reward type="ItemReward">
+            <ItemID>7 </ItemID>
+            <ItemNum>20 </ItemNum>
+        </Reward>
+        <Reward type="ItemReward">
+            <ItemID>4 </ItemID>
+            <ItemNum>15 </ItemNum>
+        </Reward>
+    </Phase>
+    <Phase type="ResAchievementPhaseDesc">
+        <AchieveValue>100 </AchieveValue>
+        <Reward type="ItemReward">
+            <ItemID>7 </ItemID>
+            <ItemNum>50 </ItemNum>
+        </Reward>
+        <Reward type="ItemReward">
+            <ItemID>4 </ItemID>
+            <ItemNum>30 </ItemNum>
+        </Reward>
+    </Phase>
+    <Phase type="ResAchievementPhaseDesc">
+        <AchieveValue>200 </AchieveValue>
+        <Reward type="ItemReward">
+            <ItemID>7 </ItemID>
+            <ItemNum>100 </ItemNum>
+        </Reward>
+        <Reward type="ItemReward">
+            <ItemID>4 </ItemID>
+            <ItemNum>30 </ItemNum>
+        </Reward>
+    </Phase>
+    <Phase type="ResAchievementPhaseDesc">
+        <AchieveValue>500 </AchieveValue>
+        <Reward type="ItemReward">
+            <ItemID>7 </ItemID>
+            <ItemNum>200 </ItemNum>
+        </Reward>
+        <Reward type="ItemReward">
+            <ItemID>4 </ItemID>
+            <ItemNum>60 </ItemNum>
+        </Reward>
+    </Phase>
+    <UISkipType>70 </UISkipType>
+</ResAchievementDesc>
+</ResAchievementDesc_Tab>

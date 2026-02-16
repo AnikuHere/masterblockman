@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<ResMobaSkillRecAddPoint_Tab>
+<TResHeadAll version="5">
+    <resHead type="TResHead">
+        <Magic>1397052237 </Magic>
+        <Version>6 </Version>
+        <Unit>14 </Unit>
+        <Count>36 </Count>
+        <MetalibHash>531d5b4a397ad5b3c0fbfb5cc8059e55</MetalibHash>
+        <ResVersion>0 </ResVersion>
+        <CreateTime>2023-04-19 20:42:30</CreateTime>
+        <ResEncording>UTF-8</ResEncording>
+        <ContentHash>513d46942325a86b35b13aeed15a7778</ContentHash>
+    </resHead>
+    <resHeadExt type="TResHeadExt">
+        <DataOffset>136 </DataOffset>
+    </resHeadExt>
+</TResHeadAll>
+<ResMobaSkillRecAddPoint version="1">
+    <ResID>10000000 </ResID>
+    <SkillBar>1 2 1 4 1 2 2 4 2 1 </SkillBar>
+</ResMobaSkillRecAddPoint>
+<ResMobaSkillRecAddPoint version="1">
+    <ResID>10000001 </ResID>
+    <SkillBar>2 1 2 4 2 1 2 4 1 1 </SkillBar>
+</ResMobaSkillRecAddPoint>
+<ResMobaSkillRecAddPoint version="1">
+    <ResID>10000002 </ResID>
+    <SkillBar>1 2 1 4 1 2 2 4 2 1 </SkillBar>
+</ResMobaSkillRecAddPoint>
+<ResMobaSkillRecAddPoint version="1">
+    <ResID>10000003 </ResID>
+    <SkillBar>1 2 1 4 1 2 2 4 2 1 </SkillBar>
+</ResMobaSkillRecAddPoint>
+<ResMobaSkillRecAddPoint version="1">
+    <ResID>10000005 </ResID>
+    <SkillBar>1 2 1 4 1 2 2 4 2 1 </SkillBar>
+</ResMobaSkillRecAddPoint>
+<ResMobaSkillRecAddPoint version="1">
+    <ResID>10000100 </ResID>
+    <SkillBar>2 1 2 4 2 1 1 4 1 2 </SkillBar>
+</ResMobaSkillRecAddPoint>
+<ResMobaSkillRecAddPoint version="1">
+    <ResID>10000101 </ResID>
+    <SkillBar>2 1 2 4 2 1 2 4 1 1 </SkillBar>
+</ResMobaSkillRecAddPoint>
+<ResMobaSkillRecAddPoint version="1">
+    <ResID>10000102 </ResID>
+    <SkillBar>1 2 1 4 1 2 2 4 2 1 </SkillBar>
+</ResMobaSkillRecAddPoint>
+<ResMobaSkillRecAddPoint version="1">
+    <ResID>10000201 </ResID>
+    <SkillBar>1 2 1 4 1 2 1 4 2 2 </SkillBar>
+</ResMobaSkillRecAddPoint>
+<ResMobaSkillRecAddPoint version="1">
+    <ResID>10000202 </ResID>
+    <SkillBar>1 2 1 4 1 2 2 4 2 1 </SkillBar>
+</ResMobaSkillRecAddPoint>
+<ResMobaSkillRecAddPoint version="1">
+    <ResID>10000203 </ResID>
+    <SkillBar>1 2 1 4 1 2 1 4 2 2 </SkillBar>
+</ResMobaSkillRecAddPoint>
+<ResMobaSkillRecAddPoint version="1">
+    <ResID>10000205 </ResID>
+    <SkillBar>1 2 1 4 1 2 1 4 2 2 </SkillBar>
+</ResMobaSkillRecAddPoint>
+<ResMobaSkillRecAddPoint version="1">
+    <ResID>10000300 </ResID>
+    <SkillBar>1 2 1 4 1 2 2 4 2 1 </SkillBar>
+</ResMobaSkillRecAddPoint>
+<ResMobaSkillRecAddPoint version="1">
+    <ResID>10000301 </ResID>
+    <SkillBar>1 2 1 4 1 2 2 4 2 1 </SkillBar>
+</ResMobaSkillRecAddPoint>
+<ResMobaSkillRecAddPoint version="1">
+    <ResID>10000302 </ResID>
+    <SkillBar>1 2 1 4 1 2 2 4 2 1 </SkillBar>
+</ResMobaSkillRecAddPoint>
+<ResMobaSkillRecAddPoint version="1">
+    <ResID>10000305 </ResID>
+    <SkillBar>1 2 1 4 1 2 2 4 2 1 </SkillBar>
+</ResMobaSkillRecAddPoint>
+<ResMobaSkillRecAddPoint version="1">
+    <ResID>10000401 </ResID>
+    <SkillBar>1 2 1 4 1 2 2 4 2 1 </SkillBar>
+</ResMobaSkillRecAddPoint>
+<ResMobaSkillRecAddPoint version="1">
+    <ResID>10000402 </ResID>
+    <SkillBar>1 2 1 4 1 2 1 4 2 2 </SkillBar>
+</ResMobaSkillRecAddPoint>
+<ResMobaSkillRecAddPoint version="1">
+    <ResID>10000403 </ResID>
+    <SkillBar>1 2 1 4 1 2 1 4 2 2 </SkillBar>
+</ResMobaSkillRecAddPoint>
+<ResMobaSkillRecAddPoint version="1">
+    <ResID>10000404 </ResID>
+    <SkillBar>1 2 1 4 1 2 1 4 2 2 </SkillBar>
+</ResMobaSkillRecAddPoint>
+<ResMobaSkillRecAddPoint version="1">
+    <ResID>10000405 </ResID>
+    <SkillBar>1 2 1 4 1 2 1 4 2 2 </SkillBar>
+</ResMobaSkillRecAddPoint>
+<ResMobaSkillRecAddPoint version="1">
+    <ResID>10000406 </ResID>
+    <SkillBar>1 2 1 4 1 2 1 4 2 2 </SkillBar>
+</ResMobaSkillRecAddPoint>
+<ResMobaSkillRecAddPoint version="1">
+    <ResID>10000407 </ResID>
+    <SkillBar>1 2 1 4 1 2 1 4 2 2 </SkillBar>
+</ResMobaSkillRecAddPoint>
+<ResMobaSkillRecAddPoint version="1">
+    <ResID>10000408 </ResID>
+    <SkillBar>1 2 1 4 1 2 1 4 2 2 </SkillBar>
+</ResMobaSkillRecAddPoint>
+<ResMobaSkillRecAddPoint version="1">
+    <ResID>10000409 </ResID>
+    <SkillBar>1 2 1 4 1 2 1 4 2 2 </SkillBar>
+</ResMobaSkillRecAddPoint>
+<ResMobaSkillRecAddPoint version="1">
+    <ResID>10000410 </ResID>
+    <SkillBar>1 2 1 4 1 2 1 4 2 2 </SkillBar>
+</ResMobaSkillRecAddPoint>
+<ResMobaSkillRecAddPoint version="1">
+    <ResID>10000411 </ResID>
+    <SkillBar>1 2 1 4 1 2 1 4 2 2 </SkillBar>
+</ResMobaSkillRecAddPoint>
+<ResMobaSkillRecAddPoint version="1">
+    <ResID>10000412 </ResID>
+    <SkillBar>1 2 1 4 1 2 1 4 2 2 </SkillBar>
+</ResMobaSkillRecAddPoint>
+<ResMobaSkillRecAddPoint version="1">
+    <ResID>10000413 </ResID>
+    <SkillBar>1 2 1 4 1 2 1 4 2 2 </SkillBar>
+</ResMobaSkillRecAddPoint>
+<ResMobaSkillRecAddPoint version="1">
+    <ResID>10000414 </ResID>
+    <SkillBar>1 2 1 4 1 2 1 4 2 2 </SkillBar>
+</ResMobaSkillRecAddPoint>
+<ResMobaSkillRecAddPoint version="1">
+    <ResID>10000415 </ResID>
+    <SkillBar>1 2 1 4 1 2 1 4 2 2 </SkillBar>
+</ResMobaSkillRecAddPoint>
+<ResMobaSkillRecAddPoint version="1">
+    <ResID>10000416 </ResID>
+    <SkillBar>1 2 1 4 1 2 1 4 2 2 </SkillBar>
+</ResMobaSkillRecAddPoint>
+<ResMobaSkillRecAddPoint version="1">
+    <ResID>10000417 </ResID>
+    <SkillBar>1 2 1 4 1 2 1 4 2 2 </SkillBar>
+</ResMobaSkillRecAddPoint>
+<ResMobaSkillRecAddPoint version="1">
+    <ResID>10000601 </ResID>
+    <SkillBar>1 2 1 4 1 2 2 4 2 1 </SkillBar>
+</ResMobaSkillRecAddPoint>
+<ResMobaSkillRecAddPoint version="1">
+    <ResID>10000602 </ResID>
+    <SkillBar>1 2 1 4 1 2 2 4 2 1 </SkillBar>
+</ResMobaSkillRecAddPoint>
+<ResMobaSkillRecAddPoint version="1">
+    <ResID>10000603 </ResID>
+    <SkillBar>1 2 1 4 1 2 2 4 2 1 </SkillBar>
+</ResMobaSkillRecAddPoint>
+</ResMobaSkillRecAddPoint_Tab>

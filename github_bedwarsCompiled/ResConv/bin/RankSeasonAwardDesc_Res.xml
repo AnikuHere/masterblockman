@@ -1,0 +1,3789 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<ResRankSeasonAwardDesc_Tab>
+<TResHeadAll version="5">
+    <resHead type="TResHead">
+        <Magic>1397052237 </Magic>
+        <Version>6 </Version>
+        <Unit>25 </Unit>
+        <Count>290 </Count>
+        <MetalibHash>531d5b4a397ad5b3c0fbfb5cc8059e55</MetalibHash>
+        <ResVersion>0 </ResVersion>
+        <CreateTime>2023-04-19 20:42:34</CreateTime>
+        <ResEncording>UTF-8</ResEncording>
+        <ContentHash>05e97a084418ad54553a6e8ef7e97d51</ContentHash>
+    </resHead>
+    <resHeadExt type="TResHeadExt">
+        <DataOffset>136 </DataOffset>
+    </resHeadExt>
+</TResHeadAll>
+<ResRankSeasonAwardDesc version="1">
+    <ID>1 </ID>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Level>11 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>1500 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>1 </ID>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Level>12 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>1500 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>1 </ID>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Level>9 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>1000 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>1 </ID>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Level>10 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>1000 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>1 </ID>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Level>1 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>300 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>1 </ID>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Level>15 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>2000 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>1 </ID>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Level>13 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>1500 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>1 </ID>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Level>14 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>1500 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>1 </ID>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Level>4 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>500 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>1 </ID>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Level>5 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>500 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>1 </ID>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Level>28 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>3000 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>1 </ID>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Level>3 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>300 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>1 </ID>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Level>7 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>1000 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>1 </ID>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Level>8 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>1000 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>1 </ID>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Level>6 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>500 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>1 </ID>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Level>25 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>3000 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>1 </ID>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Level>26 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>3000 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>1 </ID>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Level>23 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>2500 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>1 </ID>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Level>24 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>2500 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>1 </ID>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Level>1 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>300 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>1 </ID>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Level>29 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>3000 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>1 </ID>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Level>27 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>3000 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>1 </ID>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Level>18 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>2000 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>1 </ID>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Level>19 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>2000 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>1 </ID>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Level>16 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>2000 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>1 </ID>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Level>17 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>2000 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>1 </ID>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Level>21 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>2500 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>1 </ID>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Level>22 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>2500 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>1 </ID>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Level>20 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>2500 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>1 </ID>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Level>10 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>1000 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>1 </ID>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Level>11 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>1500 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>1 </ID>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Level>8 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>1000 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>1 </ID>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Level>9 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>1000 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>1 </ID>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Level>14 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>1500 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>1 </ID>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Level>15 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>2000 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>1 </ID>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Level>12 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>1500 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>1 </ID>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Level>13 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>1500 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>1 </ID>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Level>3 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>300 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>1 </ID>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Level>4 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>500 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>1 </ID>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Level>2 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>300 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>1 </ID>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Level>2 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>300 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>1 </ID>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Level>6 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>500 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>1 </ID>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Level>7 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>1000 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>1 </ID>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Level>5 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>500 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>1 </ID>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Level>25 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>3000 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>1 </ID>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Level>26 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>3000 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>1 </ID>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Level>23 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>2500 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>1 </ID>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Level>24 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>2500 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>1 </ID>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Level>28 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>3000 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>1 </ID>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Level>29 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>3000 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>1 </ID>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Level>27 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>3000 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>1 </ID>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Level>18 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>2000 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>1 </ID>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Level>19 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>2000 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>1 </ID>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Level>16 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>2000 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>1 </ID>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Level>17 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>2000 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>1 </ID>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Level>21 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>2500 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>1 </ID>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Level>22 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>2500 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>1 </ID>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Level>20 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>2500 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>2 </ID>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Level>14 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>1500 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>2 </ID>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Level>19 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>2000 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>2 </ID>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Level>18 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>2000 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>2 </ID>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Level>21 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>2500 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>2 </ID>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Level>20 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>2500 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>2 </ID>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Level>16 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>2000 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>2 </ID>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Level>15 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>2000 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>2 </ID>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Level>17 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>2000 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>2 </ID>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Level>26 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>3000 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>2 </ID>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Level>25 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>3000 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>2 </ID>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Level>29 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>3000 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>2 </ID>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Level>27 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>3000 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>2 </ID>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Level>23 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>2500 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>2 </ID>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Level>22 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>2500 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>2 </ID>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Level>24 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>2500 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>2 </ID>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Level>5 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>500 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>2 </ID>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Level>4 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>500 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>2 </ID>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Level>7 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>1000 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>2 </ID>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Level>6 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>500 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>2 </ID>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Level>2 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>300 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>2 </ID>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Level>1 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>300 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>2 </ID>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Level>3 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>300 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>2 </ID>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Level>12 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>1500 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>2 </ID>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Level>11 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>1500 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>2 </ID>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Level>13 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>1500 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>2 </ID>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Level>9 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>1000 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>2 </ID>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Level>8 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>1000 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>2 </ID>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Level>10 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>1000 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>2 </ID>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Level>9 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>1000 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>2 </ID>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Level>10 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>1000 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>2 </ID>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Level>7 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>1000 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>2 </ID>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Level>8 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>1000 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>2 </ID>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Level>13 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>1500 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>2 </ID>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Level>14 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>1500 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>2 </ID>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Level>11 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>1500 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>2 </ID>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Level>12 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>1500 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>2 </ID>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Level>2 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>300 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>2 </ID>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Level>3 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>300 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>2 </ID>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Level>28 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>3000 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>2 </ID>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Level>1 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>300 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>2 </ID>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Level>5 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>500 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>2 </ID>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Level>6 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>500 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>2 </ID>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Level>4 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>500 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>2 </ID>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Level>24 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>2500 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>2 </ID>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Level>25 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>3000 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>2 </ID>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Level>22 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>2500 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>2 </ID>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Level>23 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>2500 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>2 </ID>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Level>28 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>3000 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>2 </ID>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Level>29 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>3000 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>2 </ID>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Level>26 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>3000 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>2 </ID>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Level>27 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>3000 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>2 </ID>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Level>17 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>2000 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>2 </ID>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Level>18 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>2000 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>2 </ID>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Level>15 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>2000 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>2 </ID>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Level>16 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>2000 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>2 </ID>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Level>20 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>2500 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>2 </ID>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Level>21 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>2500 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>2 </ID>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Level>19 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>2000 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>3 </ID>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Level>29 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>3000 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>3 </ID>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Level>19 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>2000 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>3 </ID>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Level>18 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>2000 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>3 </ID>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Level>21 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>2500 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>3 </ID>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Level>20 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>2500 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>3 </ID>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Level>15 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>2000 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>3 </ID>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Level>14 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>1500 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>3 </ID>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Level>17 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>2000 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>3 </ID>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Level>16 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>2000 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>3 </ID>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Level>26 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>3000 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>3 </ID>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Level>25 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>3000 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>3 </ID>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Level>28 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>3000 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>3 </ID>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Level>27 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>3000 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>3 </ID>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Level>23 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>2500 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>3 </ID>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Level>22 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>2500 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>3 </ID>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Level>24 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>2500 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>3 </ID>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Level>4 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>500 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>3 </ID>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Level>3 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>300 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>3 </ID>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Level>6 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>500 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>3 </ID>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Level>5 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>500 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>3 </ID>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Level>1 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>300 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>3 </ID>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Level>29 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>3000 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>3 </ID>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Level>2 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>300 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>3 </ID>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Level>11 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>1500 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>3 </ID>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Level>10 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>1000 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>3 </ID>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Level>13 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>1500 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>3 </ID>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Level>12 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>1500 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>3 </ID>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Level>8 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>1000 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>3 </ID>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Level>7 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>1000 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>3 </ID>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Level>9 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>1000 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>3 </ID>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Level>10 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>1000 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>3 </ID>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Level>11 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>1500 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>3 </ID>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Level>8 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>1000 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>3 </ID>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Level>9 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>1000 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>3 </ID>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Level>13 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>1500 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>3 </ID>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Level>14 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>1500 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>3 </ID>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Level>12 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>1500 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>3 </ID>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Level>3 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>300 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>3 </ID>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Level>4 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>500 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>3 </ID>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Level>1 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>300 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>3 </ID>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Level>2 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>300 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>3 </ID>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Level>6 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>500 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>3 </ID>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Level>7 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>1000 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>3 </ID>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Level>5 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>500 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>3 </ID>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Level>24 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>2500 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>3 </ID>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Level>25 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>3000 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>3 </ID>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Level>22 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>2500 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>3 </ID>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Level>23 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>2500 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>3 </ID>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Level>27 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>3000 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>3 </ID>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Level>28 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>3000 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>3 </ID>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Level>26 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>3000 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>3 </ID>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Level>17 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>2000 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>3 </ID>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Level>18 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>2000 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>3 </ID>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Level>15 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>2000 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>3 </ID>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Level>16 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>2000 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>3 </ID>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Level>20 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>2500 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>3 </ID>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Level>21 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>2500 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>3 </ID>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Level>19 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>2000 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>4 </ID>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Level>19 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>2000 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>4 </ID>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Level>18 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>2000 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>4 </ID>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Level>21 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>2500 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>4 </ID>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Level>20 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>2500 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>4 </ID>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Level>15 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>2000 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>4 </ID>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Level>14 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>1500 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>4 </ID>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Level>17 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>2000 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>4 </ID>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Level>16 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>2000 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>4 </ID>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Level>26 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>3000 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>4 </ID>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Level>25 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>3000 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>4 </ID>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Level>28 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>3000 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>4 </ID>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Level>27 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>3000 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>4 </ID>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Level>23 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>2500 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>4 </ID>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Level>22 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>2500 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>4 </ID>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Level>24 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>2500 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>4 </ID>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Level>4 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>500 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>4 </ID>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Level>3 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>300 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>4 </ID>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Level>6 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>500 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>4 </ID>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Level>5 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>500 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>4 </ID>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Level>1 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>300 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>4 </ID>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Level>28 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>3000 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>4 </ID>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Level>2 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>300 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>4 </ID>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Level>11 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>1500 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>4 </ID>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Level>10 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>1000 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>4 </ID>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Level>13 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>1500 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>4 </ID>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Level>12 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>1500 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>4 </ID>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Level>8 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>1000 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>4 </ID>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Level>7 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>1000 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>4 </ID>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Level>9 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>1000 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>4 </ID>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Level>11 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>1500 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>4 </ID>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Level>12 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>1500 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>4 </ID>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Level>9 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>1000 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>4 </ID>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Level>10 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>1000 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>4 </ID>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Level>29 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>3000 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>4 </ID>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Level>15 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>2000 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>4 </ID>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Level>13 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>1500 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>4 </ID>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Level>14 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>1500 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>4 </ID>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Level>4 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>500 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>4 </ID>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Level>5 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>500 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>4 </ID>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Level>2 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>300 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>4 </ID>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Level>3 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>300 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>4 </ID>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Level>7 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>1000 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>4 </ID>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Level>8 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>1000 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>4 </ID>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Level>6 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>500 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>4 </ID>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Level>25 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>3000 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>4 </ID>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Level>26 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>3000 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>4 </ID>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Level>23 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>2500 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>4 </ID>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Level>24 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>2500 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>4 </ID>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Level>1 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>300 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>4 </ID>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Level>29 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>3000 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>4 </ID>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Level>27 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>3000 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>4 </ID>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Level>18 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>2000 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>4 </ID>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Level>19 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>2000 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>4 </ID>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Level>16 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>2000 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>4 </ID>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Level>17 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>2000 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>4 </ID>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Level>21 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>2500 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>4 </ID>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Level>22 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>2500 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>4 </ID>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Level>20 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>2500 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>5 </ID>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Level>14 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>1500 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>5 </ID>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Level>20 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>2500 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>5 </ID>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Level>19 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>2000 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>5 </ID>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Level>22 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>2500 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>5 </ID>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Level>21 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>2500 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>5 </ID>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Level>17 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>2000 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>5 </ID>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Level>16 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>2000 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>5 </ID>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Level>18 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>2000 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>5 </ID>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Level>27 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>3000 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>5 </ID>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Level>26 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>3000 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>5 </ID>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Level>29 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>3000 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>5 </ID>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Level>28 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>3000 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>5 </ID>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Level>24 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>2500 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>5 </ID>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Level>23 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>2500 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>5 </ID>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Level>25 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>3000 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>5 </ID>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Level>5 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>500 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>5 </ID>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Level>4 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>500 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>5 </ID>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Level>7 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>1000 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>5 </ID>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Level>6 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>500 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>5 </ID>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Level>2 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>300 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>5 </ID>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Level>1 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>300 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>5 </ID>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Level>3 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>300 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>5 </ID>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Level>12 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>1500 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>5 </ID>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Level>11 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>1500 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>5 </ID>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Level>15 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>2000 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>5 </ID>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Level>13 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>1500 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>5 </ID>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Level>9 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>1000 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>5 </ID>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Level>8 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>1000 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>5 </ID>
+    <MutiPlayMode>2 </MutiPlayMode>
+    <Level>10 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>1000 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>5 </ID>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Level>9 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>1000 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>5 </ID>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Level>10 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>1000 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>5 </ID>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Level>7 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>1000 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>5 </ID>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Level>8 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>1000 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>5 </ID>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Level>13 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>1500 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>5 </ID>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Level>14 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>1500 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>5 </ID>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Level>11 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>1500 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>5 </ID>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Level>12 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>1500 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>5 </ID>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Level>2 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>300 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>5 </ID>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Level>3 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>300 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>5 </ID>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Level>29 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>3000 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>5 </ID>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Level>1 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>300 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>5 </ID>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Level>5 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>500 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>5 </ID>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Level>6 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>500 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>5 </ID>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Level>4 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>500 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>5 </ID>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Level>24 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>2500 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>5 </ID>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Level>25 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>3000 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>5 </ID>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Level>22 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>2500 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>5 </ID>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Level>23 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>2500 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>5 </ID>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Level>27 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>3000 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>5 </ID>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Level>28 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>3000 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>5 </ID>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Level>26 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>3000 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>5 </ID>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Level>17 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>2000 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>5 </ID>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Level>18 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>2000 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>5 </ID>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Level>15 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>2000 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>5 </ID>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Level>16 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>2000 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>5 </ID>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Level>20 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>2500 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>5 </ID>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Level>21 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>2500 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+<ResRankSeasonAwardDesc version="1">
+    <ID>5 </ID>
+    <MutiPlayMode>1 </MutiPlayMode>
+    <Level>19 </Level>
+    <ItemAward type="ResRankItemAward">
+        <ID>4 </ID>
+        <Count>2000 </Count>
+    </ItemAward>
+    <ItemAward type="ResRankItemAward">
+        <ID>0 </ID>
+        <Count>0 </Count>
+    </ItemAward>
+</ResRankSeasonAwardDesc>
+</ResRankSeasonAwardDesc_Tab>

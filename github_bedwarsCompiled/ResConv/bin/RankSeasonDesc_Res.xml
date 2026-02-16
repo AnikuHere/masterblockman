@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<ResRankSeasonDesc_Tab>
+<TResHeadAll version="5">
+    <resHead type="TResHead">
+        <Magic>1397052237 </Magic>
+        <Version>6 </Version>
+        <Unit>68 </Unit>
+        <Count>5 </Count>
+        <MetalibHash>531d5b4a397ad5b3c0fbfb5cc8059e55</MetalibHash>
+        <ResVersion>0 </ResVersion>
+        <CreateTime>2023-04-19 20:42:34</CreateTime>
+        <ResEncording>UTF-8</ResEncording>
+        <ContentHash>db388088b381df7352cd2810078d8854</ContentHash>
+    </resHead>
+    <resHeadExt type="TResHeadExt">
+        <DataOffset>136 </DataOffset>
+    </resHeadExt>
+</TResHeadAll>
+<ResRankSeasonDesc version="1">
+    <ID>1 </ID>
+    <StartTime>2017-11-01 18:00:00</StartTime>
+    <EndTime>2018-01-01 18:00:00</EndTime>
+</ResRankSeasonDesc>
+<ResRankSeasonDesc version="1">
+    <ID>2 </ID>
+    <StartTime>2018-01-01 18:00:00</StartTime>
+    <EndTime>2018-04-01 18:00:01</EndTime>
+</ResRankSeasonDesc>
+<ResRankSeasonDesc version="1">
+    <ID>3 </ID>
+    <StartTime>2018-04-01 18:00:00</StartTime>
+    <EndTime>2018-07-01 18:00:01</EndTime>
+</ResRankSeasonDesc>
+<ResRankSeasonDesc version="1">
+    <ID>4 </ID>
+    <StartTime>2018-07-01 18:00:00</StartTime>
+    <EndTime>2018-10-01 18:00:01</EndTime>
+</ResRankSeasonDesc>
+<ResRankSeasonDesc version="1">
+    <ID>5 </ID>
+    <StartTime>2018-10-01 18:00:00</StartTime>
+    <EndTime>2019-04-01 18:00:01</EndTime>
+</ResRankSeasonDesc>
+</ResRankSeasonDesc_Tab>

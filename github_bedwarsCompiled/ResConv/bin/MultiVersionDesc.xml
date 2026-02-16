@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<ResMultiVersionDesc_Tab>
+<TResHeadAll version="5">
+    <resHead type="TResHead">
+        <Magic>1397052237 </Magic>
+        <Version>6 </Version>
+        <Unit>208 </Unit>
+        <Count>2 </Count>
+        <MetalibHash>531d5b4a397ad5b3c0fbfb5cc8059e55</MetalibHash>
+        <ResVersion>0 </ResVersion>
+        <CreateTime>2023-04-19 20:42:34</CreateTime>
+        <ResEncording>UTF-8</ResEncording>
+        <ContentHash>e09e55a16a7a99b6fb4ff874dcfffb0b</ContentHash>
+    </resHead>
+    <resHeadExt type="TResHeadExt">
+        <DataOffset>136 </DataOffset>
+    </resHeadExt>
+</TResHeadAll>
+<ResMultiVersionDesc version="1">
+    <GroupID>1 </GroupID>
+    <IosVersion>1.7.0.1</IosVersion>
+    <AndroidVersion>1.7.0.1</AndroidVersion>
+    <BattleVersion>1 </BattleVersion>
+    <ServiceCount>1 </ServiceCount>
+    <CheckServerFlag>1 </CheckServerFlag>
+    <EndTime>2020-01-01 00:00:00</EndTime>
+</ResMultiVersionDesc>
+<ResMultiVersionDesc version="1">
+    <GroupID>2 </GroupID>
+    <IosVersion>1.5.0.1</IosVersion>
+    <AndroidVersion>1.5.0.1</AndroidVersion>
+    <BattleVersion>1 </BattleVersion>
+    <ServiceCount>1 </ServiceCount>
+    <CheckServerFlag>0 </CheckServerFlag>
+    <EndTime>2019-01-01 00:00:00</EndTime>
+</ResMultiVersionDesc>
+</ResMultiVersionDesc_Tab>

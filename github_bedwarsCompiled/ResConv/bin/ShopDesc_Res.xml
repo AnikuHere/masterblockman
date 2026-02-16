@@ -1,0 +1,3933 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<ResShopDesc_Tab>
+<TResHeadAll version="5">
+    <resHead type="TResHead">
+        <Magic>1397052237 </Magic>
+        <Version>6 </Version>
+        <Unit>244 </Unit>
+        <Count>103 </Count>
+        <MetalibHash>531d5b4a397ad5b3c0fbfb5cc8059e55</MetalibHash>
+        <ResVersion>0 </ResVersion>
+        <CreateTime>2023-04-19 20:42:35</CreateTime>
+        <ResEncording>UTF-8</ResEncording>
+        <ContentHash>a00091529f2c5d6e790e034178d08638</ContentHash>
+    </resHead>
+    <resHeadExt type="TResHeadExt">
+        <DataOffset>136 </DataOffset>
+    </resHeadExt>
+</TResHeadAll>
+<ResShopDesc version="1">
+    <ID>1001 </ID>
+    <Sheet>1 </Sheet>
+    <CapacityType>2 </CapacityType>
+    <CapacitySubType>2 </CapacitySubType>
+    <Order>101 </Order>
+    <IsHot>0 </IsHot>
+    <IsNew>0 </IsNew>
+    <ItemID>0 </ItemID>
+    <HeroResID>10000001 </HeroResID>
+    <SkinResID>0 </SkinResID>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>0 </MoneyType>
+        <Price>0 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>3 </MoneyType>
+        <Price>588 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <LimitCount>0 </LimitCount>
+    <LimitType>0 </LimitType>
+    <SellStartTime></SellStartTime>
+    <SellEndTime></SellEndTime>
+    <ShowAlways>0 </ShowAlways>
+    <AcquireWay>0 </AcquireWay>
+    <UISkipType>0 </UISkipType>
+    <IsValid>1 </IsValid>
+</ResShopDesc>
+<ResShopDesc version="1">
+    <ID>1002 </ID>
+    <Sheet>1 </Sheet>
+    <CapacityType>1 </CapacityType>
+    <CapacitySubType>1 </CapacitySubType>
+    <Order>4 </Order>
+    <IsHot>0 </IsHot>
+    <IsNew>0 </IsNew>
+    <ItemID>0 </ItemID>
+    <HeroResID>10000002 </HeroResID>
+    <SkinResID>0 </SkinResID>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>1 </MoneyType>
+        <Price>13888 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>3 </MoneyType>
+        <Price>588 </Price>
+        <DiscountType>2 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>288 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <LimitCount>0 </LimitCount>
+    <LimitType>0 </LimitType>
+    <SellStartTime></SellStartTime>
+    <SellEndTime></SellEndTime>
+    <ShowAlways>0 </ShowAlways>
+    <AcquireWay>0 </AcquireWay>
+    <UISkipType>0 </UISkipType>
+    <IsValid>0 </IsValid>
+</ResShopDesc>
+<ResShopDesc version="1">
+    <ID>1003 </ID>
+    <Sheet>1 </Sheet>
+    <CapacityType>3 </CapacityType>
+    <CapacitySubType>2 </CapacitySubType>
+    <Order>103 </Order>
+    <IsHot>0 </IsHot>
+    <IsNew>0 </IsNew>
+    <ItemID>0 </ItemID>
+    <HeroResID>10000003 </HeroResID>
+    <SkinResID>0 </SkinResID>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>1 </MoneyType>
+        <Price>8888 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>2 </MoneyType>
+        <Price>588 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <LimitCount>0 </LimitCount>
+    <LimitType>0 </LimitType>
+    <SellStartTime></SellStartTime>
+    <SellEndTime></SellEndTime>
+    <ShowAlways>0 </ShowAlways>
+    <AcquireWay>0 </AcquireWay>
+    <UISkipType>0 </UISkipType>
+    <IsValid>1 </IsValid>
+</ResShopDesc>
+<ResShopDesc version="1">
+    <ID>1004 </ID>
+    <Sheet>1 </Sheet>
+    <CapacityType>2 </CapacityType>
+    <CapacitySubType>2 </CapacitySubType>
+    <Order>104 </Order>
+    <IsHot>0 </IsHot>
+    <IsNew>0 </IsNew>
+    <ItemID>0 </ItemID>
+    <HeroResID>10000101 </HeroResID>
+    <SkinResID>0 </SkinResID>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>1 </MoneyType>
+        <Price>13888 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>3 </MoneyType>
+        <Price>588 </Price>
+        <DiscountType>2 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>288 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <LimitCount>0 </LimitCount>
+    <LimitType>0 </LimitType>
+    <SellStartTime></SellStartTime>
+    <SellEndTime></SellEndTime>
+    <ShowAlways>0 </ShowAlways>
+    <AcquireWay>0 </AcquireWay>
+    <UISkipType>0 </UISkipType>
+    <IsValid>1 </IsValid>
+</ResShopDesc>
+<ResShopDesc version="1">
+    <ID>1005 </ID>
+    <Sheet>1 </Sheet>
+    <CapacityType>5 </CapacityType>
+    <CapacitySubType>1 </CapacitySubType>
+    <Order>105 </Order>
+    <IsHot>0 </IsHot>
+    <IsNew>0 </IsNew>
+    <ItemID>0 </ItemID>
+    <HeroResID>10000102 </HeroResID>
+    <SkinResID>0 </SkinResID>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>1 </MoneyType>
+        <Price>13888 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>3 </MoneyType>
+        <Price>588 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <LimitCount>0 </LimitCount>
+    <LimitType>0 </LimitType>
+    <SellStartTime></SellStartTime>
+    <SellEndTime></SellEndTime>
+    <ShowAlways>0 </ShowAlways>
+    <AcquireWay>0 </AcquireWay>
+    <UISkipType>0 </UISkipType>
+    <IsValid>1 </IsValid>
+</ResShopDesc>
+<ResShopDesc version="1">
+    <ID>1006 </ID>
+    <Sheet>1 </Sheet>
+    <CapacityType>1 </CapacityType>
+    <CapacitySubType>2 </CapacitySubType>
+    <Order>106 </Order>
+    <IsHot>0 </IsHot>
+    <IsNew>0 </IsNew>
+    <ItemID>0 </ItemID>
+    <HeroResID>10000201 </HeroResID>
+    <SkinResID>0 </SkinResID>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>1 </MoneyType>
+        <Price>8888 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>3 </MoneyType>
+        <Price>588 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <LimitCount>0 </LimitCount>
+    <LimitType>0 </LimitType>
+    <SellStartTime></SellStartTime>
+    <SellEndTime></SellEndTime>
+    <ShowAlways>0 </ShowAlways>
+    <AcquireWay>0 </AcquireWay>
+    <UISkipType>0 </UISkipType>
+    <IsValid>1 </IsValid>
+</ResShopDesc>
+<ResShopDesc version="1">
+    <ID>1007 </ID>
+    <Sheet>1 </Sheet>
+    <CapacityType>2 </CapacityType>
+    <CapacitySubType>2 </CapacitySubType>
+    <Order>107 </Order>
+    <IsHot>0 </IsHot>
+    <IsNew>0 </IsNew>
+    <ItemID>0 </ItemID>
+    <HeroResID>10000202 </HeroResID>
+    <SkinResID>0 </SkinResID>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>1 </MoneyType>
+        <Price>13888 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>3 </MoneyType>
+        <Price>588 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <LimitCount>0 </LimitCount>
+    <LimitType>0 </LimitType>
+    <SellStartTime></SellStartTime>
+    <SellEndTime></SellEndTime>
+    <ShowAlways>0 </ShowAlways>
+    <AcquireWay>0 </AcquireWay>
+    <UISkipType>0 </UISkipType>
+    <IsValid>1 </IsValid>
+</ResShopDesc>
+<ResShopDesc version="1">
+    <ID>1008 </ID>
+    <Sheet>1 </Sheet>
+    <CapacityType>1 </CapacityType>
+    <CapacitySubType>1 </CapacitySubType>
+    <Order>108 </Order>
+    <IsHot>0 </IsHot>
+    <IsNew>0 </IsNew>
+    <ItemID>0 </ItemID>
+    <HeroResID>10000203 </HeroResID>
+    <SkinResID>0 </SkinResID>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>0 </MoneyType>
+        <Price>0 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>0 </MoneyType>
+        <Price>0 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <LimitCount>0 </LimitCount>
+    <LimitType>0 </LimitType>
+    <SellStartTime></SellStartTime>
+    <SellEndTime></SellEndTime>
+    <ShowAlways>0 </ShowAlways>
+    <AcquireWay>28 </AcquireWay>
+    <UISkipType>108 </UISkipType>
+    <IsValid>1 </IsValid>
+</ResShopDesc>
+<ResShopDesc version="1">
+    <ID>1009 </ID>
+    <Sheet>1 </Sheet>
+    <CapacityType>1 </CapacityType>
+    <CapacitySubType>1 </CapacitySubType>
+    <Order>109 </Order>
+    <IsHot>0 </IsHot>
+    <IsNew>0 </IsNew>
+    <ItemID>0 </ItemID>
+    <HeroResID>10000301 </HeroResID>
+    <SkinResID>0 </SkinResID>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>0 </MoneyType>
+        <Price>0 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>0 </MoneyType>
+        <Price>0 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <LimitCount>0 </LimitCount>
+    <LimitType>0 </LimitType>
+    <SellStartTime></SellStartTime>
+    <SellEndTime></SellEndTime>
+    <ShowAlways>0 </ShowAlways>
+    <AcquireWay>26 </AcquireWay>
+    <UISkipType>106 </UISkipType>
+    <IsValid>1 </IsValid>
+</ResShopDesc>
+<ResShopDesc version="1">
+    <ID>1010 </ID>
+    <Sheet>1 </Sheet>
+    <CapacityType>4 </CapacityType>
+    <CapacitySubType>3 </CapacitySubType>
+    <Order>110 </Order>
+    <IsHot>0 </IsHot>
+    <IsNew>0 </IsNew>
+    <ItemID>0 </ItemID>
+    <HeroResID>10000302 </HeroResID>
+    <SkinResID>0 </SkinResID>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>1 </MoneyType>
+        <Price>13888 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>3 </MoneyType>
+        <Price>588 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <LimitCount>0 </LimitCount>
+    <LimitType>0 </LimitType>
+    <SellStartTime></SellStartTime>
+    <SellEndTime></SellEndTime>
+    <ShowAlways>0 </ShowAlways>
+    <AcquireWay>0 </AcquireWay>
+    <UISkipType>0 </UISkipType>
+    <IsValid>1 </IsValid>
+</ResShopDesc>
+<ResShopDesc version="1">
+    <ID>1011 </ID>
+    <Sheet>1 </Sheet>
+    <CapacityType>1 </CapacityType>
+    <CapacitySubType>1 </CapacitySubType>
+    <Order>1 </Order>
+    <IsHot>0 </IsHot>
+    <IsNew>0 </IsNew>
+    <ItemID>0 </ItemID>
+    <HeroResID>10000401 </HeroResID>
+    <SkinResID>0 </SkinResID>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>0 </MoneyType>
+        <Price>0 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>0 </MoneyType>
+        <Price>0 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <LimitCount>0 </LimitCount>
+    <LimitType>0 </LimitType>
+    <SellStartTime></SellStartTime>
+    <SellEndTime></SellEndTime>
+    <ShowAlways>0 </ShowAlways>
+    <AcquireWay>28 </AcquireWay>
+    <UISkipType>108 </UISkipType>
+    <IsValid>1 </IsValid>
+</ResShopDesc>
+<ResShopDesc version="1">
+    <ID>1012 </ID>
+    <Sheet>1 </Sheet>
+    <CapacityType>1 </CapacityType>
+    <CapacitySubType>2 </CapacitySubType>
+    <Order>112 </Order>
+    <IsHot>0 </IsHot>
+    <IsNew>0 </IsNew>
+    <ItemID>0 </ItemID>
+    <HeroResID>10000402 </HeroResID>
+    <SkinResID>0 </SkinResID>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>1 </MoneyType>
+        <Price>13888 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>3 </MoneyType>
+        <Price>588 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <LimitCount>0 </LimitCount>
+    <LimitType>0 </LimitType>
+    <SellStartTime></SellStartTime>
+    <SellEndTime></SellEndTime>
+    <ShowAlways>0 </ShowAlways>
+    <AcquireWay>0 </AcquireWay>
+    <UISkipType>0 </UISkipType>
+    <IsValid>0 </IsValid>
+</ResShopDesc>
+<ResShopDesc version="1">
+    <ID>1013 </ID>
+    <Sheet>1 </Sheet>
+    <CapacityType>5 </CapacityType>
+    <CapacitySubType>1 </CapacitySubType>
+    <Order>113 </Order>
+    <IsHot>0 </IsHot>
+    <IsNew>0 </IsNew>
+    <ItemID>0 </ItemID>
+    <HeroResID>10000403 </HeroResID>
+    <SkinResID>0 </SkinResID>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>1 </MoneyType>
+        <Price>13888 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>2 </MoneyType>
+        <Price>588 </Price>
+        <DiscountType>2 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>388 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <LimitCount>0 </LimitCount>
+    <LimitType>0 </LimitType>
+    <SellStartTime></SellStartTime>
+    <SellEndTime></SellEndTime>
+    <ShowAlways>0 </ShowAlways>
+    <AcquireWay>0 </AcquireWay>
+    <UISkipType>0 </UISkipType>
+    <IsValid>1 </IsValid>
+</ResShopDesc>
+<ResShopDesc version="1">
+    <ID>1014 </ID>
+    <Sheet>1 </Sheet>
+    <CapacityType>4 </CapacityType>
+    <CapacitySubType>4 </CapacitySubType>
+    <Order>114 </Order>
+    <IsHot>0 </IsHot>
+    <IsNew>0 </IsNew>
+    <ItemID>0 </ItemID>
+    <HeroResID>10000404 </HeroResID>
+    <SkinResID>0 </SkinResID>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>3 </MoneyType>
+        <Price>588 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>0 </MoneyType>
+        <Price>0 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <LimitCount>0 </LimitCount>
+    <LimitType>0 </LimitType>
+    <SellStartTime></SellStartTime>
+    <SellEndTime></SellEndTime>
+    <ShowAlways>0 </ShowAlways>
+    <AcquireWay>0 </AcquireWay>
+    <UISkipType>0 </UISkipType>
+    <IsValid>1 </IsValid>
+</ResShopDesc>
+<ResShopDesc version="1">
+    <ID>1015 </ID>
+    <Sheet>1 </Sheet>
+    <CapacityType>2 </CapacityType>
+    <CapacitySubType>2 </CapacitySubType>
+    <Order>115 </Order>
+    <IsHot>0 </IsHot>
+    <IsNew>0 </IsNew>
+    <ItemID>0 </ItemID>
+    <HeroResID>10000405 </HeroResID>
+    <SkinResID>0 </SkinResID>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>0 </MoneyType>
+        <Price>0 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>0 </MoneyType>
+        <Price>0 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <LimitCount>0 </LimitCount>
+    <LimitType>0 </LimitType>
+    <SellStartTime></SellStartTime>
+    <SellEndTime></SellEndTime>
+    <ShowAlways>0 </ShowAlways>
+    <AcquireWay>28 </AcquireWay>
+    <UISkipType>108 </UISkipType>
+    <IsValid>1 </IsValid>
+</ResShopDesc>
+<ResShopDesc version="1">
+    <ID>1016 </ID>
+    <Sheet>1 </Sheet>
+    <CapacityType>5 </CapacityType>
+    <CapacitySubType>1 </CapacitySubType>
+    <Order>116 </Order>
+    <IsHot>0 </IsHot>
+    <IsNew>0 </IsNew>
+    <ItemID>0 </ItemID>
+    <HeroResID>10000406 </HeroResID>
+    <SkinResID>0 </SkinResID>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>1 </MoneyType>
+        <Price>13888 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>3 </MoneyType>
+        <Price>588 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <LimitCount>0 </LimitCount>
+    <LimitType>0 </LimitType>
+    <SellStartTime></SellStartTime>
+    <SellEndTime></SellEndTime>
+    <ShowAlways>0 </ShowAlways>
+    <AcquireWay>0 </AcquireWay>
+    <UISkipType>0 </UISkipType>
+    <IsValid>0 </IsValid>
+</ResShopDesc>
+<ResShopDesc version="1">
+    <ID>1017 </ID>
+    <Sheet>1 </Sheet>
+    <CapacityType>1 </CapacityType>
+    <CapacitySubType>1 </CapacitySubType>
+    <Order>117 </Order>
+    <IsHot>0 </IsHot>
+    <IsNew>0 </IsNew>
+    <ItemID>0 </ItemID>
+    <HeroResID>10000407 </HeroResID>
+    <SkinResID>0 </SkinResID>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>1 </MoneyType>
+        <Price>13888 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>3 </MoneyType>
+        <Price>588 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <LimitCount>0 </LimitCount>
+    <LimitType>0 </LimitType>
+    <SellStartTime></SellStartTime>
+    <SellEndTime></SellEndTime>
+    <ShowAlways>0 </ShowAlways>
+    <AcquireWay>0 </AcquireWay>
+    <UISkipType>0 </UISkipType>
+    <IsValid>0 </IsValid>
+</ResShopDesc>
+<ResShopDesc version="1">
+    <ID>1018 </ID>
+    <Sheet>1 </Sheet>
+    <CapacityType>1 </CapacityType>
+    <CapacitySubType>1 </CapacitySubType>
+    <Order>2 </Order>
+    <IsHot>0 </IsHot>
+    <IsNew>0 </IsNew>
+    <ItemID>0 </ItemID>
+    <HeroResID>10000408 </HeroResID>
+    <SkinResID>0 </SkinResID>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>1 </MoneyType>
+        <Price>8888 </Price>
+        <DiscountType>2 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>3888 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>3 </MoneyType>
+        <Price>388 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <LimitCount>0 </LimitCount>
+    <LimitType>0 </LimitType>
+    <SellStartTime></SellStartTime>
+    <SellEndTime></SellEndTime>
+    <ShowAlways>0 </ShowAlways>
+    <AcquireWay>0 </AcquireWay>
+    <UISkipType>0 </UISkipType>
+    <IsValid>1 </IsValid>
+</ResShopDesc>
+<ResShopDesc version="1">
+    <ID>1019 </ID>
+    <Sheet>1 </Sheet>
+    <CapacityType>3 </CapacityType>
+    <CapacitySubType>2 </CapacitySubType>
+    <Order>119 </Order>
+    <IsHot>0 </IsHot>
+    <IsNew>0 </IsNew>
+    <ItemID>0 </ItemID>
+    <HeroResID>10000409 </HeroResID>
+    <SkinResID>0 </SkinResID>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>1 </MoneyType>
+        <Price>13888 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>3 </MoneyType>
+        <Price>588 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <LimitCount>0 </LimitCount>
+    <LimitType>0 </LimitType>
+    <SellStartTime></SellStartTime>
+    <SellEndTime></SellEndTime>
+    <ShowAlways>0 </ShowAlways>
+    <AcquireWay>0 </AcquireWay>
+    <UISkipType>0 </UISkipType>
+    <IsValid>1 </IsValid>
+</ResShopDesc>
+<ResShopDesc version="1">
+    <ID>1020 </ID>
+    <Sheet>1 </Sheet>
+    <CapacityType>4 </CapacityType>
+    <CapacitySubType>4 </CapacitySubType>
+    <Order>120 </Order>
+    <IsHot>0 </IsHot>
+    <IsNew>0 </IsNew>
+    <ItemID>0 </ItemID>
+    <HeroResID>10000410 </HeroResID>
+    <SkinResID>0 </SkinResID>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>1 </MoneyType>
+        <Price>13888 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>3 </MoneyType>
+        <Price>588 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <LimitCount>0 </LimitCount>
+    <LimitType>0 </LimitType>
+    <SellStartTime></SellStartTime>
+    <SellEndTime></SellEndTime>
+    <ShowAlways>0 </ShowAlways>
+    <AcquireWay>0 </AcquireWay>
+    <UISkipType>0 </UISkipType>
+    <IsValid>1 </IsValid>
+</ResShopDesc>
+<ResShopDesc version="1">
+    <ID>1021 </ID>
+    <Sheet>1 </Sheet>
+    <CapacityType>1 </CapacityType>
+    <CapacitySubType>1 </CapacitySubType>
+    <Order>121 </Order>
+    <IsHot>0 </IsHot>
+    <IsNew>0 </IsNew>
+    <ItemID>0 </ItemID>
+    <HeroResID>10000411 </HeroResID>
+    <SkinResID>0 </SkinResID>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>0 </MoneyType>
+        <Price>0 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>0 </MoneyType>
+        <Price>0 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <LimitCount>0 </LimitCount>
+    <LimitType>0 </LimitType>
+    <SellStartTime></SellStartTime>
+    <SellEndTime></SellEndTime>
+    <ShowAlways>0 </ShowAlways>
+    <AcquireWay>26 </AcquireWay>
+    <UISkipType>107 </UISkipType>
+    <IsValid>1 </IsValid>
+</ResShopDesc>
+<ResShopDesc version="1">
+    <ID>1022 </ID>
+    <Sheet>1 </Sheet>
+    <CapacityType>2 </CapacityType>
+    <CapacitySubType>2 </CapacitySubType>
+    <Order>122 </Order>
+    <IsHot>0 </IsHot>
+    <IsNew>0 </IsNew>
+    <ItemID>0 </ItemID>
+    <HeroResID>10000412 </HeroResID>
+    <SkinResID>0 </SkinResID>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>1 </MoneyType>
+        <Price>8888 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>3 </MoneyType>
+        <Price>588 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <LimitCount>0 </LimitCount>
+    <LimitType>0 </LimitType>
+    <SellStartTime></SellStartTime>
+    <SellEndTime></SellEndTime>
+    <ShowAlways>0 </ShowAlways>
+    <AcquireWay>0 </AcquireWay>
+    <UISkipType>0 </UISkipType>
+    <IsValid>1 </IsValid>
+</ResShopDesc>
+<ResShopDesc version="1">
+    <ID>1023 </ID>
+    <Sheet>1 </Sheet>
+    <CapacityType>3 </CapacityType>
+    <CapacitySubType>2 </CapacitySubType>
+    <Order>3 </Order>
+    <IsHot>0 </IsHot>
+    <IsNew>0 </IsNew>
+    <ItemID>0 </ItemID>
+    <HeroResID>10000413 </HeroResID>
+    <SkinResID>0 </SkinResID>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>1 </MoneyType>
+        <Price>8888 </Price>
+        <DiscountType>2 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>3888 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>3 </MoneyType>
+        <Price>388 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <LimitCount>0 </LimitCount>
+    <LimitType>0 </LimitType>
+    <SellStartTime></SellStartTime>
+    <SellEndTime></SellEndTime>
+    <ShowAlways>0 </ShowAlways>
+    <AcquireWay>0 </AcquireWay>
+    <UISkipType>0 </UISkipType>
+    <IsValid>1 </IsValid>
+</ResShopDesc>
+<ResShopDesc version="1">
+    <ID>1024 </ID>
+    <Sheet>1 </Sheet>
+    <CapacityType>4 </CapacityType>
+    <CapacitySubType>4 </CapacitySubType>
+    <Order>124 </Order>
+    <IsHot>0 </IsHot>
+    <IsNew>0 </IsNew>
+    <ItemID>0 </ItemID>
+    <HeroResID>10000414 </HeroResID>
+    <SkinResID>0 </SkinResID>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>1 </MoneyType>
+        <Price>8888 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>3 </MoneyType>
+        <Price>588 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <LimitCount>0 </LimitCount>
+    <LimitType>0 </LimitType>
+    <SellStartTime></SellStartTime>
+    <SellEndTime></SellEndTime>
+    <ShowAlways>0 </ShowAlways>
+    <AcquireWay>0 </AcquireWay>
+    <UISkipType>0 </UISkipType>
+    <IsValid>1 </IsValid>
+</ResShopDesc>
+<ResShopDesc version="1">
+    <ID>1025 </ID>
+    <Sheet>1 </Sheet>
+    <CapacityType>2 </CapacityType>
+    <CapacitySubType>3 </CapacitySubType>
+    <Order>125 </Order>
+    <IsHot>0 </IsHot>
+    <IsNew>0 </IsNew>
+    <ItemID>0 </ItemID>
+    <HeroResID>10000415 </HeroResID>
+    <SkinResID>0 </SkinResID>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>1 </MoneyType>
+        <Price>13888 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>3 </MoneyType>
+        <Price>588 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <LimitCount>0 </LimitCount>
+    <LimitType>0 </LimitType>
+    <SellStartTime></SellStartTime>
+    <SellEndTime></SellEndTime>
+    <ShowAlways>0 </ShowAlways>
+    <AcquireWay>0 </AcquireWay>
+    <UISkipType>0 </UISkipType>
+    <IsValid>0 </IsValid>
+</ResShopDesc>
+<ResShopDesc version="1">
+    <ID>1026 </ID>
+    <Sheet>1 </Sheet>
+    <CapacityType>2 </CapacityType>
+    <CapacitySubType>2 </CapacitySubType>
+    <Order>126 </Order>
+    <IsHot>0 </IsHot>
+    <IsNew>0 </IsNew>
+    <ItemID>0 </ItemID>
+    <HeroResID>10000416 </HeroResID>
+    <SkinResID>0 </SkinResID>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>1 </MoneyType>
+        <Price>13888 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>3 </MoneyType>
+        <Price>588 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <LimitCount>0 </LimitCount>
+    <LimitType>0 </LimitType>
+    <SellStartTime></SellStartTime>
+    <SellEndTime></SellEndTime>
+    <ShowAlways>0 </ShowAlways>
+    <AcquireWay>0 </AcquireWay>
+    <UISkipType>0 </UISkipType>
+    <IsValid>0 </IsValid>
+</ResShopDesc>
+<ResShopDesc version="1">
+    <ID>1027 </ID>
+    <Sheet>1 </Sheet>
+    <CapacityType>4 </CapacityType>
+    <CapacitySubType>4 </CapacitySubType>
+    <Order>127 </Order>
+    <IsHot>0 </IsHot>
+    <IsNew>0 </IsNew>
+    <ItemID>0 </ItemID>
+    <HeroResID>10000417 </HeroResID>
+    <SkinResID>0 </SkinResID>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>1 </MoneyType>
+        <Price>13888 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>3 </MoneyType>
+        <Price>588 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <LimitCount>0 </LimitCount>
+    <LimitType>0 </LimitType>
+    <SellStartTime></SellStartTime>
+    <SellEndTime></SellEndTime>
+    <ShowAlways>0 </ShowAlways>
+    <AcquireWay>0 </AcquireWay>
+    <UISkipType>0 </UISkipType>
+    <IsValid>0 </IsValid>
+</ResShopDesc>
+<ResShopDesc version="1">
+    <ID>2001 </ID>
+    <Sheet>2 </Sheet>
+    <CapacityType>2 </CapacityType>
+    <CapacitySubType>2 </CapacitySubType>
+    <Order>1 </Order>
+    <IsHot>0 </IsHot>
+    <IsNew>0 </IsNew>
+    <ItemID>0 </ItemID>
+    <HeroResID>0 </HeroResID>
+    <SkinResID>1001002 </SkinResID>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>0 </MoneyType>
+        <Price>0 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>0 </MoneyType>
+        <Price>0 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <LimitCount>0 </LimitCount>
+    <LimitType>0 </LimitType>
+    <SellStartTime></SellStartTime>
+    <SellEndTime></SellEndTime>
+    <ShowAlways>0 </ShowAlways>
+    <AcquireWay>29 </AcquireWay>
+    <UISkipType>102 </UISkipType>
+    <IsValid>1 </IsValid>
+</ResShopDesc>
+<ResShopDesc version="1">
+    <ID>2002 </ID>
+    <Sheet>2 </Sheet>
+    <CapacityType>1 </CapacityType>
+    <CapacitySubType>1 </CapacitySubType>
+    <Order>2 </Order>
+    <IsHot>0 </IsHot>
+    <IsNew>0 </IsNew>
+    <ItemID>0 </ItemID>
+    <HeroResID>0 </HeroResID>
+    <SkinResID>1002002 </SkinResID>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>3 </MoneyType>
+        <Price>588 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>0 </MoneyType>
+        <Price>0 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <LimitCount>0 </LimitCount>
+    <LimitType>0 </LimitType>
+    <SellStartTime></SellStartTime>
+    <SellEndTime></SellEndTime>
+    <ShowAlways>0 </ShowAlways>
+    <AcquireWay>0 </AcquireWay>
+    <UISkipType>0 </UISkipType>
+    <IsValid>0 </IsValid>
+</ResShopDesc>
+<ResShopDesc version="1">
+    <ID>2003 </ID>
+    <Sheet>2 </Sheet>
+    <CapacityType>2 </CapacityType>
+    <CapacitySubType>2 </CapacitySubType>
+    <Order>3 </Order>
+    <IsHot>0 </IsHot>
+    <IsNew>0 </IsNew>
+    <ItemID>0 </ItemID>
+    <HeroResID>0 </HeroResID>
+    <SkinResID>1101002 </SkinResID>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>3 </MoneyType>
+        <Price>588 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>0 </MoneyType>
+        <Price>0 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <LimitCount>0 </LimitCount>
+    <LimitType>0 </LimitType>
+    <SellStartTime></SellStartTime>
+    <SellEndTime></SellEndTime>
+    <ShowAlways>0 </ShowAlways>
+    <AcquireWay>0 </AcquireWay>
+    <UISkipType>0 </UISkipType>
+    <IsValid>1 </IsValid>
+</ResShopDesc>
+<ResShopDesc version="1">
+    <ID>2004 </ID>
+    <Sheet>2 </Sheet>
+    <CapacityType>1 </CapacityType>
+    <CapacitySubType>1 </CapacitySubType>
+    <Order>4 </Order>
+    <IsHot>0 </IsHot>
+    <IsNew>0 </IsNew>
+    <ItemID>0 </ItemID>
+    <HeroResID>0 </HeroResID>
+    <SkinResID>1401003 </SkinResID>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>0 </MoneyType>
+        <Price>0 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>0 </MoneyType>
+        <Price>0 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <LimitCount>0 </LimitCount>
+    <LimitType>0 </LimitType>
+    <SellStartTime></SellStartTime>
+    <SellEndTime></SellEndTime>
+    <ShowAlways>0 </ShowAlways>
+    <AcquireWay>29 </AcquireWay>
+    <UISkipType>102 </UISkipType>
+    <IsValid>1 </IsValid>
+</ResShopDesc>
+<ResShopDesc version="1">
+    <ID>2005 </ID>
+    <Sheet>2 </Sheet>
+    <CapacityType>1 </CapacityType>
+    <CapacitySubType>1 </CapacitySubType>
+    <Order>5 </Order>
+    <IsHot>0 </IsHot>
+    <IsNew>0 </IsNew>
+    <ItemID>0 </ItemID>
+    <HeroResID>0 </HeroResID>
+    <SkinResID>1411002 </SkinResID>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>0 </MoneyType>
+        <Price>0 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>0 </MoneyType>
+        <Price>0 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <LimitCount>0 </LimitCount>
+    <LimitType>0 </LimitType>
+    <SellStartTime></SellStartTime>
+    <SellEndTime></SellEndTime>
+    <ShowAlways>0 </ShowAlways>
+    <AcquireWay>26 </AcquireWay>
+    <UISkipType>107 </UISkipType>
+    <IsValid>1 </IsValid>
+</ResShopDesc>
+<ResShopDesc version="1">
+    <ID>2006 </ID>
+    <Sheet>2 </Sheet>
+    <CapacityType>2 </CapacityType>
+    <CapacitySubType>2 </CapacitySubType>
+    <Order>6 </Order>
+    <IsHot>0 </IsHot>
+    <IsNew>0 </IsNew>
+    <ItemID>0 </ItemID>
+    <HeroResID>0 </HeroResID>
+    <SkinResID>1412002 </SkinResID>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>0 </MoneyType>
+        <Price>0 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>0 </MoneyType>
+        <Price>0 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <LimitCount>0 </LimitCount>
+    <LimitType>0 </LimitType>
+    <SellStartTime></SellStartTime>
+    <SellEndTime></SellEndTime>
+    <ShowAlways>0 </ShowAlways>
+    <AcquireWay>26 </AcquireWay>
+    <UISkipType>106 </UISkipType>
+    <IsValid>1 </IsValid>
+</ResShopDesc>
+<ResShopDesc version="1">
+    <ID>2007 </ID>
+    <Sheet>2 </Sheet>
+    <CapacityType>1 </CapacityType>
+    <CapacitySubType>1 </CapacitySubType>
+    <Order>7 </Order>
+    <IsHot>0 </IsHot>
+    <IsNew>0 </IsNew>
+    <ItemID>0 </ItemID>
+    <HeroResID>0 </HeroResID>
+    <SkinResID>1301002 </SkinResID>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>0 </MoneyType>
+        <Price>0 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>0 </MoneyType>
+        <Price>0 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <LimitCount>0 </LimitCount>
+    <LimitType>0 </LimitType>
+    <SellStartTime></SellStartTime>
+    <SellEndTime></SellEndTime>
+    <ShowAlways>0 </ShowAlways>
+    <AcquireWay>26 </AcquireWay>
+    <UISkipType>106 </UISkipType>
+    <IsValid>1 </IsValid>
+</ResShopDesc>
+<ResShopDesc version="1">
+    <ID>2008 </ID>
+    <Sheet>2 </Sheet>
+    <CapacityType>3 </CapacityType>
+    <CapacitySubType>2 </CapacitySubType>
+    <Order>8 </Order>
+    <IsHot>0 </IsHot>
+    <IsNew>0 </IsNew>
+    <ItemID>0 </ItemID>
+    <HeroResID>0 </HeroResID>
+    <SkinResID>1409002 </SkinResID>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>3 </MoneyType>
+        <Price>388 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>0 </MoneyType>
+        <Price>0 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <LimitCount>0 </LimitCount>
+    <LimitType>0 </LimitType>
+    <SellStartTime></SellStartTime>
+    <SellEndTime></SellEndTime>
+    <ShowAlways>0 </ShowAlways>
+    <AcquireWay>0 </AcquireWay>
+    <UISkipType>0 </UISkipType>
+    <IsValid>1 </IsValid>
+</ResShopDesc>
+<ResShopDesc version="1">
+    <ID>2009 </ID>
+    <Sheet>2 </Sheet>
+    <CapacityType>5 </CapacityType>
+    <CapacitySubType>1 </CapacitySubType>
+    <Order>9 </Order>
+    <IsHot>0 </IsHot>
+    <IsNew>0 </IsNew>
+    <ItemID>0 </ItemID>
+    <HeroResID>0 </HeroResID>
+    <SkinResID>1102002 </SkinResID>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>3 </MoneyType>
+        <Price>588 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>0 </MoneyType>
+        <Price>0 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <LimitCount>0 </LimitCount>
+    <LimitType>0 </LimitType>
+    <SellStartTime></SellStartTime>
+    <SellEndTime></SellEndTime>
+    <ShowAlways>0 </ShowAlways>
+    <AcquireWay>0 </AcquireWay>
+    <UISkipType>0 </UISkipType>
+    <IsValid>1 </IsValid>
+</ResShopDesc>
+<ResShopDesc version="1">
+    <ID>2010 </ID>
+    <Sheet>2 </Sheet>
+    <CapacityType>1 </CapacityType>
+    <CapacitySubType>2 </CapacitySubType>
+    <Order>10 </Order>
+    <IsHot>0 </IsHot>
+    <IsNew>0 </IsNew>
+    <ItemID>0 </ItemID>
+    <HeroResID>0 </HeroResID>
+    <SkinResID>1201002 </SkinResID>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>3 </MoneyType>
+        <Price>588 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>0 </MoneyType>
+        <Price>0 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <LimitCount>0 </LimitCount>
+    <LimitType>0 </LimitType>
+    <SellStartTime></SellStartTime>
+    <SellEndTime></SellEndTime>
+    <ShowAlways>0 </ShowAlways>
+    <AcquireWay>0 </AcquireWay>
+    <UISkipType>0 </UISkipType>
+    <IsValid>0 </IsValid>
+</ResShopDesc>
+<ResShopDesc version="1">
+    <ID>2011 </ID>
+    <Sheet>2 </Sheet>
+    <CapacityType>2 </CapacityType>
+    <CapacitySubType>2 </CapacitySubType>
+    <Order>11 </Order>
+    <IsHot>0 </IsHot>
+    <IsNew>0 </IsNew>
+    <ItemID>0 </ItemID>
+    <HeroResID>0 </HeroResID>
+    <SkinResID>1202002 </SkinResID>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>3 </MoneyType>
+        <Price>288 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>0 </MoneyType>
+        <Price>0 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <LimitCount>0 </LimitCount>
+    <LimitType>0 </LimitType>
+    <SellStartTime></SellStartTime>
+    <SellEndTime></SellEndTime>
+    <ShowAlways>0 </ShowAlways>
+    <AcquireWay>0 </AcquireWay>
+    <UISkipType>0 </UISkipType>
+    <IsValid>1 </IsValid>
+</ResShopDesc>
+<ResShopDesc version="1">
+    <ID>2012 </ID>
+    <Sheet>2 </Sheet>
+    <CapacityType>1 </CapacityType>
+    <CapacitySubType>1 </CapacitySubType>
+    <Order>12 </Order>
+    <IsHot>0 </IsHot>
+    <IsNew>0 </IsNew>
+    <ItemID>0 </ItemID>
+    <HeroResID>0 </HeroResID>
+    <SkinResID>1203002 </SkinResID>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>0 </MoneyType>
+        <Price>0 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>0 </MoneyType>
+        <Price>0 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <LimitCount>0 </LimitCount>
+    <LimitType>0 </LimitType>
+    <SellStartTime></SellStartTime>
+    <SellEndTime></SellEndTime>
+    <ShowAlways>0 </ShowAlways>
+    <AcquireWay>27 </AcquireWay>
+    <UISkipType>91 </UISkipType>
+    <IsValid>1 </IsValid>
+</ResShopDesc>
+<ResShopDesc version="1">
+    <ID>2013 </ID>
+    <Sheet>2 </Sheet>
+    <CapacityType>4 </CapacityType>
+    <CapacitySubType>3 </CapacitySubType>
+    <Order>13 </Order>
+    <IsHot>0 </IsHot>
+    <IsNew>0 </IsNew>
+    <ItemID>0 </ItemID>
+    <HeroResID>0 </HeroResID>
+    <SkinResID>1302002 </SkinResID>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>0 </MoneyType>
+        <Price>0 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>0 </MoneyType>
+        <Price>0 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <LimitCount>0 </LimitCount>
+    <LimitType>0 </LimitType>
+    <SellStartTime></SellStartTime>
+    <SellEndTime></SellEndTime>
+    <ShowAlways>0 </ShowAlways>
+    <AcquireWay>26 </AcquireWay>
+    <UISkipType>107 </UISkipType>
+    <IsValid>1 </IsValid>
+</ResShopDesc>
+<ResShopDesc version="1">
+    <ID>2014 </ID>
+    <Sheet>2 </Sheet>
+    <CapacityType>5 </CapacityType>
+    <CapacitySubType>1 </CapacitySubType>
+    <Order>14 </Order>
+    <IsHot>0 </IsHot>
+    <IsNew>0 </IsNew>
+    <ItemID>0 </ItemID>
+    <HeroResID>0 </HeroResID>
+    <SkinResID>1403002 </SkinResID>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>3 </MoneyType>
+        <Price>588 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>0 </MoneyType>
+        <Price>0 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <LimitCount>0 </LimitCount>
+    <LimitType>0 </LimitType>
+    <SellStartTime></SellStartTime>
+    <SellEndTime></SellEndTime>
+    <ShowAlways>0 </ShowAlways>
+    <AcquireWay>0 </AcquireWay>
+    <UISkipType>0 </UISkipType>
+    <IsValid>1 </IsValid>
+</ResShopDesc>
+<ResShopDesc version="1">
+    <ID>2015 </ID>
+    <Sheet>2 </Sheet>
+    <CapacityType>4 </CapacityType>
+    <CapacitySubType>4 </CapacitySubType>
+    <Order>15 </Order>
+    <IsHot>0 </IsHot>
+    <IsNew>0 </IsNew>
+    <ItemID>0 </ItemID>
+    <HeroResID>0 </HeroResID>
+    <SkinResID>1404002 </SkinResID>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>3 </MoneyType>
+        <Price>588 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>0 </MoneyType>
+        <Price>0 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <LimitCount>0 </LimitCount>
+    <LimitType>0 </LimitType>
+    <SellStartTime></SellStartTime>
+    <SellEndTime></SellEndTime>
+    <ShowAlways>0 </ShowAlways>
+    <AcquireWay>0 </AcquireWay>
+    <UISkipType>0 </UISkipType>
+    <IsValid>1 </IsValid>
+</ResShopDesc>
+<ResShopDesc version="1">
+    <ID>2016 </ID>
+    <Sheet>2 </Sheet>
+    <CapacityType>4 </CapacityType>
+    <CapacitySubType>4 </CapacitySubType>
+    <Order>16 </Order>
+    <IsHot>0 </IsHot>
+    <IsNew>0 </IsNew>
+    <ItemID>0 </ItemID>
+    <HeroResID>0 </HeroResID>
+    <SkinResID>1410002 </SkinResID>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>3 </MoneyType>
+        <Price>288 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>0 </MoneyType>
+        <Price>0 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <LimitCount>0 </LimitCount>
+    <LimitType>0 </LimitType>
+    <SellStartTime></SellStartTime>
+    <SellEndTime></SellEndTime>
+    <ShowAlways>0 </ShowAlways>
+    <AcquireWay>0 </AcquireWay>
+    <UISkipType>0 </UISkipType>
+    <IsValid>1 </IsValid>
+</ResShopDesc>
+<ResShopDesc version="1">
+    <ID>2017 </ID>
+    <Sheet>2 </Sheet>
+    <CapacityType>3 </CapacityType>
+    <CapacitySubType>2 </CapacitySubType>
+    <Order>17 </Order>
+    <IsHot>0 </IsHot>
+    <IsNew>0 </IsNew>
+    <ItemID>0 </ItemID>
+    <HeroResID>0 </HeroResID>
+    <SkinResID>1413002 </SkinResID>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>3 </MoneyType>
+        <Price>588 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>0 </MoneyType>
+        <Price>0 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <LimitCount>0 </LimitCount>
+    <LimitType>0 </LimitType>
+    <SellStartTime></SellStartTime>
+    <SellEndTime></SellEndTime>
+    <ShowAlways>0 </ShowAlways>
+    <AcquireWay>0 </AcquireWay>
+    <UISkipType>0 </UISkipType>
+    <IsValid>1 </IsValid>
+</ResShopDesc>
+<ResShopDesc version="1">
+    <ID>2018 </ID>
+    <Sheet>2 </Sheet>
+    <CapacityType>3 </CapacityType>
+    <CapacitySubType>2 </CapacitySubType>
+    <Order>18 </Order>
+    <IsHot>0 </IsHot>
+    <IsNew>0 </IsNew>
+    <ItemID>0 </ItemID>
+    <HeroResID>0 </HeroResID>
+    <SkinResID>1003002 </SkinResID>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>3 </MoneyType>
+        <Price>488 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>0 </MoneyType>
+        <Price>0 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <LimitCount>0 </LimitCount>
+    <LimitType>0 </LimitType>
+    <SellStartTime></SellStartTime>
+    <SellEndTime></SellEndTime>
+    <ShowAlways>0 </ShowAlways>
+    <AcquireWay>0 </AcquireWay>
+    <UISkipType>0 </UISkipType>
+    <IsValid>1 </IsValid>
+</ResShopDesc>
+<ResShopDesc version="1">
+    <ID>2019 </ID>
+    <Sheet>2 </Sheet>
+    <CapacityType>1 </CapacityType>
+    <CapacitySubType>1 </CapacitySubType>
+    <Order>19 </Order>
+    <IsHot>0 </IsHot>
+    <IsNew>0 </IsNew>
+    <ItemID>0 </ItemID>
+    <HeroResID>0 </HeroResID>
+    <SkinResID>1408002 </SkinResID>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>3 </MoneyType>
+        <Price>588 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>0 </MoneyType>
+        <Price>0 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <LimitCount>0 </LimitCount>
+    <LimitType>0 </LimitType>
+    <SellStartTime></SellStartTime>
+    <SellEndTime></SellEndTime>
+    <ShowAlways>0 </ShowAlways>
+    <AcquireWay>0 </AcquireWay>
+    <UISkipType>0 </UISkipType>
+    <IsValid>1 </IsValid>
+</ResShopDesc>
+<ResShopDesc version="1">
+    <ID>2020 </ID>
+    <Sheet>2 </Sheet>
+    <CapacityType>4 </CapacityType>
+    <CapacitySubType>4 </CapacitySubType>
+    <Order>20 </Order>
+    <IsHot>0 </IsHot>
+    <IsNew>0 </IsNew>
+    <ItemID>0 </ItemID>
+    <HeroResID>0 </HeroResID>
+    <SkinResID>1414002 </SkinResID>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>3 </MoneyType>
+        <Price>288 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>0 </MoneyType>
+        <Price>0 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <LimitCount>0 </LimitCount>
+    <LimitType>0 </LimitType>
+    <SellStartTime></SellStartTime>
+    <SellEndTime></SellEndTime>
+    <ShowAlways>0 </ShowAlways>
+    <AcquireWay>0 </AcquireWay>
+    <UISkipType>0 </UISkipType>
+    <IsValid>1 </IsValid>
+</ResShopDesc>
+<ResShopDesc version="1">
+    <ID>2021 </ID>
+    <Sheet>2 </Sheet>
+    <CapacityType>2 </CapacityType>
+    <CapacitySubType>2 </CapacitySubType>
+    <Order>21 </Order>
+    <IsHot>0 </IsHot>
+    <IsNew>0 </IsNew>
+    <ItemID>0 </ItemID>
+    <HeroResID>0 </HeroResID>
+    <SkinResID>1001003 </SkinResID>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>0 </MoneyType>
+        <Price>0 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>0 </MoneyType>
+        <Price>0 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <LimitCount>0 </LimitCount>
+    <LimitType>0 </LimitType>
+    <SellStartTime></SellStartTime>
+    <SellEndTime></SellEndTime>
+    <ShowAlways>0 </ShowAlways>
+    <AcquireWay>13 </AcquireWay>
+    <UISkipType>81 </UISkipType>
+    <IsValid>1 </IsValid>
+</ResShopDesc>
+<ResShopDesc version="1">
+    <ID>2022 </ID>
+    <Sheet>2 </Sheet>
+    <CapacityType>2 </CapacityType>
+    <CapacitySubType>2 </CapacitySubType>
+    <Order>22 </Order>
+    <IsHot>0 </IsHot>
+    <IsNew>0 </IsNew>
+    <ItemID>0 </ItemID>
+    <HeroResID>0 </HeroResID>
+    <SkinResID>1405002 </SkinResID>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>0 </MoneyType>
+        <Price>0 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>0 </MoneyType>
+        <Price>0 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <LimitCount>0 </LimitCount>
+    <LimitType>0 </LimitType>
+    <SellStartTime></SellStartTime>
+    <SellEndTime></SellEndTime>
+    <ShowAlways>0 </ShowAlways>
+    <AcquireWay>29 </AcquireWay>
+    <UISkipType>102 </UISkipType>
+    <IsValid>1 </IsValid>
+</ResShopDesc>
+<ResShopDesc version="1">
+    <ID>2023 </ID>
+    <Sheet>2 </Sheet>
+    <CapacityType>1 </CapacityType>
+    <CapacitySubType>1 </CapacitySubType>
+    <Order>23 </Order>
+    <IsHot>0 </IsHot>
+    <IsNew>0 </IsNew>
+    <ItemID>0 </ItemID>
+    <HeroResID>0 </HeroResID>
+    <SkinResID>1401002 </SkinResID>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>3 </MoneyType>
+        <Price>588 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>0 </MoneyType>
+        <Price>0 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <LimitCount>0 </LimitCount>
+    <LimitType>0 </LimitType>
+    <SellStartTime></SellStartTime>
+    <SellEndTime></SellEndTime>
+    <ShowAlways>0 </ShowAlways>
+    <AcquireWay>0 </AcquireWay>
+    <UISkipType>0 </UISkipType>
+    <IsValid>1 </IsValid>
+</ResShopDesc>
+<ResShopDesc version="1">
+    <ID>2024 </ID>
+    <Sheet>2 </Sheet>
+    <CapacityType>1 </CapacityType>
+    <CapacitySubType>1 </CapacitySubType>
+    <Order>24 </Order>
+    <IsHot>0 </IsHot>
+    <IsNew>0 </IsNew>
+    <ItemID>0 </ItemID>
+    <HeroResID>0 </HeroResID>
+    <SkinResID>1407002 </SkinResID>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>3 </MoneyType>
+        <Price>588 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>0 </MoneyType>
+        <Price>0 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <LimitCount>0 </LimitCount>
+    <LimitType>0 </LimitType>
+    <SellStartTime></SellStartTime>
+    <SellEndTime></SellEndTime>
+    <ShowAlways>0 </ShowAlways>
+    <AcquireWay>0 </AcquireWay>
+    <UISkipType>0 </UISkipType>
+    <IsValid>0 </IsValid>
+</ResShopDesc>
+<ResShopDesc version="1">
+    <ID>2025 </ID>
+    <Sheet>2 </Sheet>
+    <CapacityType>1 </CapacityType>
+    <CapacitySubType>2 </CapacitySubType>
+    <Order>25 </Order>
+    <IsHot>0 </IsHot>
+    <IsNew>0 </IsNew>
+    <ItemID>0 </ItemID>
+    <HeroResID>0 </HeroResID>
+    <SkinResID>1402002 </SkinResID>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>3 </MoneyType>
+        <Price>588 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>0 </MoneyType>
+        <Price>0 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <LimitCount>0 </LimitCount>
+    <LimitType>0 </LimitType>
+    <SellStartTime></SellStartTime>
+    <SellEndTime></SellEndTime>
+    <ShowAlways>0 </ShowAlways>
+    <AcquireWay>0 </AcquireWay>
+    <UISkipType>0 </UISkipType>
+    <IsValid>0 </IsValid>
+</ResShopDesc>
+<ResShopDesc version="1">
+    <ID>2026 </ID>
+    <Sheet>2 </Sheet>
+    <CapacityType>4 </CapacityType>
+    <CapacitySubType>4 </CapacitySubType>
+    <Order>26 </Order>
+    <IsHot>0 </IsHot>
+    <IsNew>0 </IsNew>
+    <ItemID>0 </ItemID>
+    <HeroResID>0 </HeroResID>
+    <SkinResID>1417002 </SkinResID>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>3 </MoneyType>
+        <Price>588 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>0 </MoneyType>
+        <Price>0 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <LimitCount>0 </LimitCount>
+    <LimitType>0 </LimitType>
+    <SellStartTime></SellStartTime>
+    <SellEndTime></SellEndTime>
+    <ShowAlways>0 </ShowAlways>
+    <AcquireWay>0 </AcquireWay>
+    <UISkipType>0 </UISkipType>
+    <IsValid>0 </IsValid>
+</ResShopDesc>
+<ResShopDesc version="1">
+    <ID>2027 </ID>
+    <Sheet>2 </Sheet>
+    <CapacityType>2 </CapacityType>
+    <CapacitySubType>2 </CapacitySubType>
+    <Order>27 </Order>
+    <IsHot>0 </IsHot>
+    <IsNew>0 </IsNew>
+    <ItemID>0 </ItemID>
+    <HeroResID>0 </HeroResID>
+    <SkinResID>1416002 </SkinResID>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>3 </MoneyType>
+        <Price>588 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>0 </MoneyType>
+        <Price>0 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <LimitCount>0 </LimitCount>
+    <LimitType>0 </LimitType>
+    <SellStartTime></SellStartTime>
+    <SellEndTime></SellEndTime>
+    <ShowAlways>0 </ShowAlways>
+    <AcquireWay>0 </AcquireWay>
+    <UISkipType>0 </UISkipType>
+    <IsValid>0 </IsValid>
+</ResShopDesc>
+<ResShopDesc version="1">
+    <ID>3101 </ID>
+    <Sheet>3 </Sheet>
+    <CapacityType>0 </CapacityType>
+    <CapacitySubType>0 </CapacitySubType>
+    <Order>100 </Order>
+    <IsHot>0 </IsHot>
+    <IsNew>0 </IsNew>
+    <ItemID>31070001 </ItemID>
+    <HeroResID>0 </HeroResID>
+    <SkinResID>0 </SkinResID>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>2 </MoneyType>
+        <Price>100 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>0 </MoneyType>
+        <Price>0 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <LimitCount>0 </LimitCount>
+    <LimitType>0 </LimitType>
+    <SellStartTime></SellStartTime>
+    <SellEndTime></SellEndTime>
+    <ShowAlways>0 </ShowAlways>
+    <AcquireWay>0 </AcquireWay>
+    <UISkipType>0 </UISkipType>
+    <IsValid>1 </IsValid>
+</ResShopDesc>
+<ResShopDesc version="1">
+    <ID>3102 </ID>
+    <Sheet>3 </Sheet>
+    <CapacityType>0 </CapacityType>
+    <CapacitySubType>0 </CapacitySubType>
+    <Order>101 </Order>
+    <IsHot>0 </IsHot>
+    <IsNew>0 </IsNew>
+    <ItemID>31070002 </ItemID>
+    <HeroResID>0 </HeroResID>
+    <SkinResID>0 </SkinResID>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>2 </MoneyType>
+        <Price>200 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>0 </MoneyType>
+        <Price>0 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <LimitCount>0 </LimitCount>
+    <LimitType>0 </LimitType>
+    <SellStartTime></SellStartTime>
+    <SellEndTime></SellEndTime>
+    <ShowAlways>0 </ShowAlways>
+    <AcquireWay>0 </AcquireWay>
+    <UISkipType>0 </UISkipType>
+    <IsValid>1 </IsValid>
+</ResShopDesc>
+<ResShopDesc version="1">
+    <ID>3103 </ID>
+    <Sheet>3 </Sheet>
+    <CapacityType>0 </CapacityType>
+    <CapacitySubType>0 </CapacitySubType>
+    <Order>102 </Order>
+    <IsHot>0 </IsHot>
+    <IsNew>0 </IsNew>
+    <ItemID>31070004 </ItemID>
+    <HeroResID>0 </HeroResID>
+    <SkinResID>0 </SkinResID>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>2 </MoneyType>
+        <Price>400 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>0 </MoneyType>
+        <Price>0 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <LimitCount>0 </LimitCount>
+    <LimitType>0 </LimitType>
+    <SellStartTime></SellStartTime>
+    <SellEndTime></SellEndTime>
+    <ShowAlways>0 </ShowAlways>
+    <AcquireWay>0 </AcquireWay>
+    <UISkipType>0 </UISkipType>
+    <IsValid>1 </IsValid>
+</ResShopDesc>
+<ResShopDesc version="1">
+    <ID>3104 </ID>
+    <Sheet>3 </Sheet>
+    <CapacityType>0 </CapacityType>
+    <CapacitySubType>0 </CapacitySubType>
+    <Order>103 </Order>
+    <IsHot>0 </IsHot>
+    <IsNew>0 </IsNew>
+    <ItemID>31070006 </ItemID>
+    <HeroResID>0 </HeroResID>
+    <SkinResID>0 </SkinResID>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>2 </MoneyType>
+        <Price>100 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>0 </MoneyType>
+        <Price>0 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <LimitCount>0 </LimitCount>
+    <LimitType>0 </LimitType>
+    <SellStartTime></SellStartTime>
+    <SellEndTime></SellEndTime>
+    <ShowAlways>0 </ShowAlways>
+    <AcquireWay>0 </AcquireWay>
+    <UISkipType>0 </UISkipType>
+    <IsValid>1 </IsValid>
+</ResShopDesc>
+<ResShopDesc version="1">
+    <ID>3105 </ID>
+    <Sheet>3 </Sheet>
+    <CapacityType>0 </CapacityType>
+    <CapacitySubType>0 </CapacitySubType>
+    <Order>104 </Order>
+    <IsHot>0 </IsHot>
+    <IsNew>0 </IsNew>
+    <ItemID>31070008 </ItemID>
+    <HeroResID>0 </HeroResID>
+    <SkinResID>0 </SkinResID>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>2 </MoneyType>
+        <Price>200 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>0 </MoneyType>
+        <Price>0 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <LimitCount>0 </LimitCount>
+    <LimitType>0 </LimitType>
+    <SellStartTime></SellStartTime>
+    <SellEndTime></SellEndTime>
+    <ShowAlways>0 </ShowAlways>
+    <AcquireWay>0 </AcquireWay>
+    <UISkipType>0 </UISkipType>
+    <IsValid>1 </IsValid>
+</ResShopDesc>
+<ResShopDesc version="1">
+    <ID>3106 </ID>
+    <Sheet>3 </Sheet>
+    <CapacityType>0 </CapacityType>
+    <CapacitySubType>0 </CapacitySubType>
+    <Order>105 </Order>
+    <IsHot>0 </IsHot>
+    <IsNew>0 </IsNew>
+    <ItemID>31080001 </ItemID>
+    <HeroResID>0 </HeroResID>
+    <SkinResID>0 </SkinResID>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>2 </MoneyType>
+        <Price>50 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>0 </MoneyType>
+        <Price>0 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <LimitCount>0 </LimitCount>
+    <LimitType>0 </LimitType>
+    <SellStartTime></SellStartTime>
+    <SellEndTime></SellEndTime>
+    <ShowAlways>0 </ShowAlways>
+    <AcquireWay>0 </AcquireWay>
+    <UISkipType>0 </UISkipType>
+    <IsValid>1 </IsValid>
+</ResShopDesc>
+<ResShopDesc version="1">
+    <ID>3107 </ID>
+    <Sheet>3 </Sheet>
+    <CapacityType>0 </CapacityType>
+    <CapacitySubType>0 </CapacitySubType>
+    <Order>106 </Order>
+    <IsHot>0 </IsHot>
+    <IsNew>0 </IsNew>
+    <ItemID>31080002 </ItemID>
+    <HeroResID>0 </HeroResID>
+    <SkinResID>0 </SkinResID>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>2 </MoneyType>
+        <Price>100 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>0 </MoneyType>
+        <Price>0 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <LimitCount>0 </LimitCount>
+    <LimitType>0 </LimitType>
+    <SellStartTime></SellStartTime>
+    <SellEndTime></SellEndTime>
+    <ShowAlways>0 </ShowAlways>
+    <AcquireWay>0 </AcquireWay>
+    <UISkipType>0 </UISkipType>
+    <IsValid>1 </IsValid>
+</ResShopDesc>
+<ResShopDesc version="1">
+    <ID>3108 </ID>
+    <Sheet>3 </Sheet>
+    <CapacityType>0 </CapacityType>
+    <CapacitySubType>0 </CapacitySubType>
+    <Order>107 </Order>
+    <IsHot>0 </IsHot>
+    <IsNew>0 </IsNew>
+    <ItemID>31080004 </ItemID>
+    <HeroResID>0 </HeroResID>
+    <SkinResID>0 </SkinResID>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>2 </MoneyType>
+        <Price>200 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>0 </MoneyType>
+        <Price>0 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <LimitCount>0 </LimitCount>
+    <LimitType>0 </LimitType>
+    <SellStartTime></SellStartTime>
+    <SellEndTime></SellEndTime>
+    <ShowAlways>0 </ShowAlways>
+    <AcquireWay>0 </AcquireWay>
+    <UISkipType>0 </UISkipType>
+    <IsValid>1 </IsValid>
+</ResShopDesc>
+<ResShopDesc version="1">
+    <ID>3109 </ID>
+    <Sheet>3 </Sheet>
+    <CapacityType>0 </CapacityType>
+    <CapacitySubType>0 </CapacitySubType>
+    <Order>108 </Order>
+    <IsHot>0 </IsHot>
+    <IsNew>0 </IsNew>
+    <ItemID>31080006 </ItemID>
+    <HeroResID>0 </HeroResID>
+    <SkinResID>0 </SkinResID>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>2 </MoneyType>
+        <Price>50 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>0 </MoneyType>
+        <Price>0 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <LimitCount>0 </LimitCount>
+    <LimitType>0 </LimitType>
+    <SellStartTime></SellStartTime>
+    <SellEndTime></SellEndTime>
+    <ShowAlways>0 </ShowAlways>
+    <AcquireWay>0 </AcquireWay>
+    <UISkipType>0 </UISkipType>
+    <IsValid>1 </IsValid>
+</ResShopDesc>
+<ResShopDesc version="1">
+    <ID>3110 </ID>
+    <Sheet>3 </Sheet>
+    <CapacityType>0 </CapacityType>
+    <CapacitySubType>0 </CapacitySubType>
+    <Order>109 </Order>
+    <IsHot>0 </IsHot>
+    <IsNew>0 </IsNew>
+    <ItemID>31080008 </ItemID>
+    <HeroResID>0 </HeroResID>
+    <SkinResID>0 </SkinResID>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>2 </MoneyType>
+        <Price>100 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>0 </MoneyType>
+        <Price>0 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <LimitCount>0 </LimitCount>
+    <LimitType>0 </LimitType>
+    <SellStartTime></SellStartTime>
+    <SellEndTime></SellEndTime>
+    <ShowAlways>0 </ShowAlways>
+    <AcquireWay>0 </AcquireWay>
+    <UISkipType>0 </UISkipType>
+    <IsValid>1 </IsValid>
+</ResShopDesc>
+<ResShopDesc version="1">
+    <ID>3111 </ID>
+    <Sheet>3 </Sheet>
+    <CapacityType>0 </CapacityType>
+    <CapacitySubType>0 </CapacitySubType>
+    <Order>3 </Order>
+    <IsHot>0 </IsHot>
+    <IsNew>0 </IsNew>
+    <ItemID>31100003 </ItemID>
+    <HeroResID>0 </HeroResID>
+    <SkinResID>0 </SkinResID>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>2 </MoneyType>
+        <Price>60 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>0 </MoneyType>
+        <Price>0 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <LimitCount>0 </LimitCount>
+    <LimitType>0 </LimitType>
+    <SellStartTime></SellStartTime>
+    <SellEndTime></SellEndTime>
+    <ShowAlways>0 </ShowAlways>
+    <AcquireWay>0 </AcquireWay>
+    <UISkipType>0 </UISkipType>
+    <IsValid>1 </IsValid>
+</ResShopDesc>
+<ResShopDesc version="1">
+    <ID>3112 </ID>
+    <Sheet>3 </Sheet>
+    <CapacityType>0 </CapacityType>
+    <CapacitySubType>0 </CapacitySubType>
+    <Order>4 </Order>
+    <IsHot>0 </IsHot>
+    <IsNew>0 </IsNew>
+    <ItemID>31100004 </ItemID>
+    <HeroResID>0 </HeroResID>
+    <SkinResID>0 </SkinResID>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>3 </MoneyType>
+        <Price>60 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>0 </MoneyType>
+        <Price>0 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <LimitCount>0 </LimitCount>
+    <LimitType>0 </LimitType>
+    <SellStartTime></SellStartTime>
+    <SellEndTime></SellEndTime>
+    <ShowAlways>0 </ShowAlways>
+    <AcquireWay>0 </AcquireWay>
+    <UISkipType>0 </UISkipType>
+    <IsValid>1 </IsValid>
+</ResShopDesc>
+<ResShopDesc version="1">
+    <ID>3113 </ID>
+    <Sheet>3 </Sheet>
+    <CapacityType>0 </CapacityType>
+    <CapacitySubType>0 </CapacitySubType>
+    <Order>2 </Order>
+    <IsHot>0 </IsHot>
+    <IsNew>1 </IsNew>
+    <ItemID>31060022 </ItemID>
+    <HeroResID>0 </HeroResID>
+    <SkinResID>0 </SkinResID>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>3 </MoneyType>
+        <Price>10 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>0 </MoneyType>
+        <Price>0 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <LimitCount>1 </LimitCount>
+    <LimitType>4 </LimitType>
+    <SellStartTime>1</SellStartTime>
+    <SellEndTime>7</SellEndTime>
+    <ShowAlways>0 </ShowAlways>
+    <AcquireWay>0 </AcquireWay>
+    <UISkipType>0 </UISkipType>
+    <IsValid>1 </IsValid>
+</ResShopDesc>
+<ResShopDesc version="1">
+    <ID>3114 </ID>
+    <Sheet>3 </Sheet>
+    <CapacityType>0 </CapacityType>
+    <CapacitySubType>0 </CapacitySubType>
+    <Order>1 </Order>
+    <IsHot>0 </IsHot>
+    <IsNew>0 </IsNew>
+    <ItemID>31060024 </ItemID>
+    <HeroResID>0 </HeroResID>
+    <SkinResID>0 </SkinResID>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>3 </MoneyType>
+        <Price>1188 </Price>
+        <DiscountType>1 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>788 </DiscountPrice>
+        <DiscountStartTime>2018-9-2 05:00:00</DiscountStartTime>
+        <DiscountEndTime>2018-9-8 05:00:00</DiscountEndTime>
+    </BuyWay>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>0 </MoneyType>
+        <Price>0 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <LimitCount>1 </LimitCount>
+    <LimitType>3 </LimitType>
+    <SellStartTime>2018-9-2 05:00:00</SellStartTime>
+    <SellEndTime>2025-9-2 05:00:00</SellEndTime>
+    <ShowAlways>0 </ShowAlways>
+    <AcquireWay>0 </AcquireWay>
+    <UISkipType>0 </UISkipType>
+    <IsValid>0 </IsValid>
+</ResShopDesc>
+<ResShopDesc version="1">
+    <ID>3201 </ID>
+    <Sheet>4 </Sheet>
+    <CapacityType>0 </CapacityType>
+    <CapacitySubType>0 </CapacitySubType>
+    <Order>1 </Order>
+    <IsHot>0 </IsHot>
+    <IsNew>0 </IsNew>
+    <ItemID>31050001 </ItemID>
+    <HeroResID>0 </HeroResID>
+    <SkinResID>0 </SkinResID>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>3 </MoneyType>
+        <Price>5 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>0 </MoneyType>
+        <Price>0 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <LimitCount>0 </LimitCount>
+    <LimitType>0 </LimitType>
+    <SellStartTime></SellStartTime>
+    <SellEndTime></SellEndTime>
+    <ShowAlways>0 </ShowAlways>
+    <AcquireWay>0 </AcquireWay>
+    <UISkipType>0 </UISkipType>
+    <IsValid>1 </IsValid>
+</ResShopDesc>
+<ResShopDesc version="1">
+    <ID>3202 </ID>
+    <Sheet>4 </Sheet>
+    <CapacityType>0 </CapacityType>
+    <CapacitySubType>0 </CapacitySubType>
+    <Order>2 </Order>
+    <IsHot>0 </IsHot>
+    <IsNew>0 </IsNew>
+    <ItemID>31050002 </ItemID>
+    <HeroResID>0 </HeroResID>
+    <SkinResID>0 </SkinResID>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>3 </MoneyType>
+        <Price>20 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>0 </MoneyType>
+        <Price>0 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <LimitCount>0 </LimitCount>
+    <LimitType>0 </LimitType>
+    <SellStartTime></SellStartTime>
+    <SellEndTime></SellEndTime>
+    <ShowAlways>0 </ShowAlways>
+    <AcquireWay>0 </AcquireWay>
+    <UISkipType>0 </UISkipType>
+    <IsValid>1 </IsValid>
+</ResShopDesc>
+<ResShopDesc version="1">
+    <ID>3203 </ID>
+    <Sheet>4 </Sheet>
+    <CapacityType>0 </CapacityType>
+    <CapacitySubType>0 </CapacitySubType>
+    <Order>3 </Order>
+    <IsHot>0 </IsHot>
+    <IsNew>0 </IsNew>
+    <ItemID>31090001 </ItemID>
+    <HeroResID>0 </HeroResID>
+    <SkinResID>0 </SkinResID>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>3 </MoneyType>
+        <Price>90 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>0 </MoneyType>
+        <Price>0 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <LimitCount>0 </LimitCount>
+    <LimitType>0 </LimitType>
+    <SellStartTime></SellStartTime>
+    <SellEndTime></SellEndTime>
+    <ShowAlways>0 </ShowAlways>
+    <AcquireWay>0 </AcquireWay>
+    <UISkipType>0 </UISkipType>
+    <IsValid>1 </IsValid>
+</ResShopDesc>
+<ResShopDesc version="1">
+    <ID>3301 </ID>
+    <Sheet>5 </Sheet>
+    <CapacityType>0 </CapacityType>
+    <CapacitySubType>0 </CapacitySubType>
+    <Order>1 </Order>
+    <IsHot>0 </IsHot>
+    <IsNew>0 </IsNew>
+    <ItemID>31060005 </ItemID>
+    <HeroResID>0 </HeroResID>
+    <SkinResID>0 </SkinResID>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>3 </MoneyType>
+        <Price>10 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>0 </MoneyType>
+        <Price>0 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <LimitCount>0 </LimitCount>
+    <LimitType>0 </LimitType>
+    <SellStartTime></SellStartTime>
+    <SellEndTime></SellEndTime>
+    <ShowAlways>0 </ShowAlways>
+    <AcquireWay>0 </AcquireWay>
+    <UISkipType>0 </UISkipType>
+    <IsValid>0 </IsValid>
+</ResShopDesc>
+<ResShopDesc version="1">
+    <ID>4101 </ID>
+    <Sheet>6 </Sheet>
+    <CapacityType>0 </CapacityType>
+    <CapacitySubType>0 </CapacitySubType>
+    <Order>1 </Order>
+    <IsHot>0 </IsHot>
+    <IsNew>0 </IsNew>
+    <ItemID>0 </ItemID>
+    <HeroResID>10000002 </HeroResID>
+    <SkinResID>0 </SkinResID>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>7 </MoneyType>
+        <Price>58 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>0 </MoneyType>
+        <Price>0 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <LimitCount>0 </LimitCount>
+    <LimitType>0 </LimitType>
+    <SellStartTime></SellStartTime>
+    <SellEndTime></SellEndTime>
+    <ShowAlways>0 </ShowAlways>
+    <AcquireWay>0 </AcquireWay>
+    <UISkipType>0 </UISkipType>
+    <IsValid>0 </IsValid>
+</ResShopDesc>
+<ResShopDesc version="1">
+    <ID>4102 </ID>
+    <Sheet>6 </Sheet>
+    <CapacityType>0 </CapacityType>
+    <CapacitySubType>0 </CapacitySubType>
+    <Order>2 </Order>
+    <IsHot>0 </IsHot>
+    <IsNew>0 </IsNew>
+    <ItemID>0 </ItemID>
+    <HeroResID>10000412 </HeroResID>
+    <SkinResID>0 </SkinResID>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>7 </MoneyType>
+        <Price>58 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>0 </MoneyType>
+        <Price>0 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <LimitCount>0 </LimitCount>
+    <LimitType>0 </LimitType>
+    <SellStartTime></SellStartTime>
+    <SellEndTime></SellEndTime>
+    <ShowAlways>0 </ShowAlways>
+    <AcquireWay>0 </AcquireWay>
+    <UISkipType>0 </UISkipType>
+    <IsValid>1 </IsValid>
+</ResShopDesc>
+<ResShopDesc version="1">
+    <ID>4103 </ID>
+    <Sheet>6 </Sheet>
+    <CapacityType>0 </CapacityType>
+    <CapacitySubType>0 </CapacitySubType>
+    <Order>3 </Order>
+    <IsHot>0 </IsHot>
+    <IsNew>0 </IsNew>
+    <ItemID>0 </ItemID>
+    <HeroResID>10000102 </HeroResID>
+    <SkinResID>0 </SkinResID>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>7 </MoneyType>
+        <Price>58 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>0 </MoneyType>
+        <Price>0 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <LimitCount>0 </LimitCount>
+    <LimitType>0 </LimitType>
+    <SellStartTime></SellStartTime>
+    <SellEndTime></SellEndTime>
+    <ShowAlways>0 </ShowAlways>
+    <AcquireWay>0 </AcquireWay>
+    <UISkipType>0 </UISkipType>
+    <IsValid>1 </IsValid>
+</ResShopDesc>
+<ResShopDesc version="1">
+    <ID>4104 </ID>
+    <Sheet>6 </Sheet>
+    <CapacityType>0 </CapacityType>
+    <CapacitySubType>0 </CapacitySubType>
+    <Order>4 </Order>
+    <IsHot>0 </IsHot>
+    <IsNew>0 </IsNew>
+    <ItemID>0 </ItemID>
+    <HeroResID>10000201 </HeroResID>
+    <SkinResID>0 </SkinResID>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>7 </MoneyType>
+        <Price>58 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>0 </MoneyType>
+        <Price>0 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <LimitCount>0 </LimitCount>
+    <LimitType>0 </LimitType>
+    <SellStartTime></SellStartTime>
+    <SellEndTime></SellEndTime>
+    <ShowAlways>0 </ShowAlways>
+    <AcquireWay>0 </AcquireWay>
+    <UISkipType>0 </UISkipType>
+    <IsValid>1 </IsValid>
+</ResShopDesc>
+<ResShopDesc version="1">
+    <ID>4105 </ID>
+    <Sheet>6 </Sheet>
+    <CapacityType>0 </CapacityType>
+    <CapacitySubType>0 </CapacitySubType>
+    <Order>5 </Order>
+    <IsHot>0 </IsHot>
+    <IsNew>0 </IsNew>
+    <ItemID>0 </ItemID>
+    <HeroResID>10000203 </HeroResID>
+    <SkinResID>0 </SkinResID>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>7 </MoneyType>
+        <Price>58 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>0 </MoneyType>
+        <Price>0 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <LimitCount>0 </LimitCount>
+    <LimitType>0 </LimitType>
+    <SellStartTime></SellStartTime>
+    <SellEndTime></SellEndTime>
+    <ShowAlways>0 </ShowAlways>
+    <AcquireWay>0 </AcquireWay>
+    <UISkipType>0 </UISkipType>
+    <IsValid>1 </IsValid>
+</ResShopDesc>
+<ResShopDesc version="1">
+    <ID>4106 </ID>
+    <Sheet>6 </Sheet>
+    <CapacityType>0 </CapacityType>
+    <CapacitySubType>0 </CapacitySubType>
+    <Order>6 </Order>
+    <IsHot>0 </IsHot>
+    <IsNew>0 </IsNew>
+    <ItemID>0 </ItemID>
+    <HeroResID>10000404 </HeroResID>
+    <SkinResID>0 </SkinResID>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>7 </MoneyType>
+        <Price>58 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>0 </MoneyType>
+        <Price>0 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <LimitCount>0 </LimitCount>
+    <LimitType>0 </LimitType>
+    <SellStartTime></SellStartTime>
+    <SellEndTime></SellEndTime>
+    <ShowAlways>0 </ShowAlways>
+    <AcquireWay>0 </AcquireWay>
+    <UISkipType>0 </UISkipType>
+    <IsValid>0 </IsValid>
+</ResShopDesc>
+<ResShopDesc version="1">
+    <ID>4107 </ID>
+    <Sheet>6 </Sheet>
+    <CapacityType>0 </CapacityType>
+    <CapacitySubType>0 </CapacitySubType>
+    <Order>7 </Order>
+    <IsHot>0 </IsHot>
+    <IsNew>0 </IsNew>
+    <ItemID>0 </ItemID>
+    <HeroResID>10000413 </HeroResID>
+    <SkinResID>0 </SkinResID>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>7 </MoneyType>
+        <Price>58 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>0 </MoneyType>
+        <Price>0 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <LimitCount>0 </LimitCount>
+    <LimitType>0 </LimitType>
+    <SellStartTime></SellStartTime>
+    <SellEndTime></SellEndTime>
+    <ShowAlways>0 </ShowAlways>
+    <AcquireWay>0 </AcquireWay>
+    <UISkipType>0 </UISkipType>
+    <IsValid>1 </IsValid>
+</ResShopDesc>
+<ResShopDesc version="1">
+    <ID>4108 </ID>
+    <Sheet>6 </Sheet>
+    <CapacityType>0 </CapacityType>
+    <CapacitySubType>0 </CapacitySubType>
+    <Order>8 </Order>
+    <IsHot>0 </IsHot>
+    <IsNew>0 </IsNew>
+    <ItemID>0 </ItemID>
+    <HeroResID>10000414 </HeroResID>
+    <SkinResID>0 </SkinResID>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>7 </MoneyType>
+        <Price>58 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>0 </MoneyType>
+        <Price>0 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <LimitCount>0 </LimitCount>
+    <LimitType>0 </LimitType>
+    <SellStartTime></SellStartTime>
+    <SellEndTime></SellEndTime>
+    <ShowAlways>0 </ShowAlways>
+    <AcquireWay>0 </AcquireWay>
+    <UISkipType>0 </UISkipType>
+    <IsValid>1 </IsValid>
+</ResShopDesc>
+<ResShopDesc version="1">
+    <ID>4109 </ID>
+    <Sheet>6 </Sheet>
+    <CapacityType>0 </CapacityType>
+    <CapacitySubType>0 </CapacitySubType>
+    <Order>9 </Order>
+    <IsHot>0 </IsHot>
+    <IsNew>0 </IsNew>
+    <ItemID>0 </ItemID>
+    <HeroResID>10000101 </HeroResID>
+    <SkinResID>0 </SkinResID>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>7 </MoneyType>
+        <Price>58 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>0 </MoneyType>
+        <Price>0 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <LimitCount>0 </LimitCount>
+    <LimitType>0 </LimitType>
+    <SellStartTime></SellStartTime>
+    <SellEndTime></SellEndTime>
+    <ShowAlways>0 </ShowAlways>
+    <AcquireWay>0 </AcquireWay>
+    <UISkipType>0 </UISkipType>
+    <IsValid>1 </IsValid>
+</ResShopDesc>
+<ResShopDesc version="1">
+    <ID>4110 </ID>
+    <Sheet>6 </Sheet>
+    <CapacityType>0 </CapacityType>
+    <CapacitySubType>0 </CapacitySubType>
+    <Order>11 </Order>
+    <IsHot>0 </IsHot>
+    <IsNew>0 </IsNew>
+    <ItemID>0 </ItemID>
+    <HeroResID>10000405 </HeroResID>
+    <SkinResID>0 </SkinResID>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>7 </MoneyType>
+        <Price>58 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>0 </MoneyType>
+        <Price>0 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <LimitCount>0 </LimitCount>
+    <LimitType>0 </LimitType>
+    <SellStartTime></SellStartTime>
+    <SellEndTime></SellEndTime>
+    <ShowAlways>0 </ShowAlways>
+    <AcquireWay>0 </AcquireWay>
+    <UISkipType>0 </UISkipType>
+    <IsValid>1 </IsValid>
+</ResShopDesc>
+<ResShopDesc version="1">
+    <ID>4111 </ID>
+    <Sheet>6 </Sheet>
+    <CapacityType>0 </CapacityType>
+    <CapacitySubType>0 </CapacitySubType>
+    <Order>12 </Order>
+    <IsHot>0 </IsHot>
+    <IsNew>0 </IsNew>
+    <ItemID>0 </ItemID>
+    <HeroResID>10000401 </HeroResID>
+    <SkinResID>0 </SkinResID>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>7 </MoneyType>
+        <Price>58 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>0 </MoneyType>
+        <Price>0 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <LimitCount>0 </LimitCount>
+    <LimitType>0 </LimitType>
+    <SellStartTime></SellStartTime>
+    <SellEndTime></SellEndTime>
+    <ShowAlways>0 </ShowAlways>
+    <AcquireWay>0 </AcquireWay>
+    <UISkipType>0 </UISkipType>
+    <IsValid>1 </IsValid>
+</ResShopDesc>
+<ResShopDesc version="1">
+    <ID>4201 </ID>
+    <Sheet>7 </Sheet>
+    <CapacityType>0 </CapacityType>
+    <CapacitySubType>0 </CapacitySubType>
+    <Order>1 </Order>
+    <IsHot>0 </IsHot>
+    <IsNew>0 </IsNew>
+    <ItemID>0 </ItemID>
+    <HeroResID>0 </HeroResID>
+    <SkinResID>1002002 </SkinResID>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>8 </MoneyType>
+        <Price>58 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>0 </MoneyType>
+        <Price>0 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <LimitCount>0 </LimitCount>
+    <LimitType>0 </LimitType>
+    <SellStartTime></SellStartTime>
+    <SellEndTime></SellEndTime>
+    <ShowAlways>0 </ShowAlways>
+    <AcquireWay>0 </AcquireWay>
+    <UISkipType>0 </UISkipType>
+    <IsValid>0 </IsValid>
+</ResShopDesc>
+<ResShopDesc version="1">
+    <ID>4202 </ID>
+    <Sheet>7 </Sheet>
+    <CapacityType>0 </CapacityType>
+    <CapacitySubType>0 </CapacitySubType>
+    <Order>2 </Order>
+    <IsHot>0 </IsHot>
+    <IsNew>0 </IsNew>
+    <ItemID>0 </ItemID>
+    <HeroResID>0 </HeroResID>
+    <SkinResID>1101002 </SkinResID>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>8 </MoneyType>
+        <Price>58 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>0 </MoneyType>
+        <Price>0 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <LimitCount>0 </LimitCount>
+    <LimitType>0 </LimitType>
+    <SellStartTime></SellStartTime>
+    <SellEndTime></SellEndTime>
+    <ShowAlways>0 </ShowAlways>
+    <AcquireWay>0 </AcquireWay>
+    <UISkipType>0 </UISkipType>
+    <IsValid>1 </IsValid>
+</ResShopDesc>
+<ResShopDesc version="1">
+    <ID>4203 </ID>
+    <Sheet>7 </Sheet>
+    <CapacityType>0 </CapacityType>
+    <CapacitySubType>0 </CapacitySubType>
+    <Order>4 </Order>
+    <IsHot>0 </IsHot>
+    <IsNew>0 </IsNew>
+    <ItemID>0 </ItemID>
+    <HeroResID>0 </HeroResID>
+    <SkinResID>1409002 </SkinResID>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>8 </MoneyType>
+        <Price>58 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>0 </MoneyType>
+        <Price>0 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <LimitCount>0 </LimitCount>
+    <LimitType>0 </LimitType>
+    <SellStartTime></SellStartTime>
+    <SellEndTime></SellEndTime>
+    <ShowAlways>0 </ShowAlways>
+    <AcquireWay>0 </AcquireWay>
+    <UISkipType>0 </UISkipType>
+    <IsValid>1 </IsValid>
+</ResShopDesc>
+<ResShopDesc version="1">
+    <ID>4204 </ID>
+    <Sheet>7 </Sheet>
+    <CapacityType>0 </CapacityType>
+    <CapacitySubType>0 </CapacitySubType>
+    <Order>5 </Order>
+    <IsHot>0 </IsHot>
+    <IsNew>0 </IsNew>
+    <ItemID>0 </ItemID>
+    <HeroResID>0 </HeroResID>
+    <SkinResID>1102002 </SkinResID>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>8 </MoneyType>
+        <Price>58 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>0 </MoneyType>
+        <Price>0 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <LimitCount>0 </LimitCount>
+    <LimitType>0 </LimitType>
+    <SellStartTime></SellStartTime>
+    <SellEndTime></SellEndTime>
+    <ShowAlways>0 </ShowAlways>
+    <AcquireWay>0 </AcquireWay>
+    <UISkipType>0 </UISkipType>
+    <IsValid>1 </IsValid>
+</ResShopDesc>
+<ResShopDesc version="1">
+    <ID>4205 </ID>
+    <Sheet>7 </Sheet>
+    <CapacityType>0 </CapacityType>
+    <CapacitySubType>0 </CapacitySubType>
+    <Order>6 </Order>
+    <IsHot>0 </IsHot>
+    <IsNew>0 </IsNew>
+    <ItemID>0 </ItemID>
+    <HeroResID>0 </HeroResID>
+    <SkinResID>1201002 </SkinResID>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>8 </MoneyType>
+        <Price>58 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>0 </MoneyType>
+        <Price>0 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <LimitCount>0 </LimitCount>
+    <LimitType>0 </LimitType>
+    <SellStartTime></SellStartTime>
+    <SellEndTime></SellEndTime>
+    <ShowAlways>0 </ShowAlways>
+    <AcquireWay>0 </AcquireWay>
+    <UISkipType>0 </UISkipType>
+    <IsValid>0 </IsValid>
+</ResShopDesc>
+<ResShopDesc version="1">
+    <ID>4206 </ID>
+    <Sheet>7 </Sheet>
+    <CapacityType>0 </CapacityType>
+    <CapacitySubType>0 </CapacitySubType>
+    <Order>7 </Order>
+    <IsHot>0 </IsHot>
+    <IsNew>0 </IsNew>
+    <ItemID>0 </ItemID>
+    <HeroResID>0 </HeroResID>
+    <SkinResID>1202002 </SkinResID>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>8 </MoneyType>
+        <Price>58 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>0 </MoneyType>
+        <Price>0 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <LimitCount>0 </LimitCount>
+    <LimitType>0 </LimitType>
+    <SellStartTime></SellStartTime>
+    <SellEndTime></SellEndTime>
+    <ShowAlways>0 </ShowAlways>
+    <AcquireWay>0 </AcquireWay>
+    <UISkipType>0 </UISkipType>
+    <IsValid>1 </IsValid>
+</ResShopDesc>
+<ResShopDesc version="1">
+    <ID>4207 </ID>
+    <Sheet>7 </Sheet>
+    <CapacityType>0 </CapacityType>
+    <CapacitySubType>0 </CapacitySubType>
+    <Order>8 </Order>
+    <IsHot>0 </IsHot>
+    <IsNew>0 </IsNew>
+    <ItemID>0 </ItemID>
+    <HeroResID>0 </HeroResID>
+    <SkinResID>1203002 </SkinResID>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>8 </MoneyType>
+        <Price>58 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>0 </MoneyType>
+        <Price>0 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <LimitCount>0 </LimitCount>
+    <LimitType>0 </LimitType>
+    <SellStartTime></SellStartTime>
+    <SellEndTime></SellEndTime>
+    <ShowAlways>0 </ShowAlways>
+    <AcquireWay>0 </AcquireWay>
+    <UISkipType>0 </UISkipType>
+    <IsValid>0 </IsValid>
+</ResShopDesc>
+<ResShopDesc version="1">
+    <ID>4208 </ID>
+    <Sheet>7 </Sheet>
+    <CapacityType>0 </CapacityType>
+    <CapacitySubType>0 </CapacitySubType>
+    <Order>9 </Order>
+    <IsHot>0 </IsHot>
+    <IsNew>0 </IsNew>
+    <ItemID>0 </ItemID>
+    <HeroResID>0 </HeroResID>
+    <SkinResID>1403002 </SkinResID>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>8 </MoneyType>
+        <Price>58 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>0 </MoneyType>
+        <Price>0 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <LimitCount>0 </LimitCount>
+    <LimitType>0 </LimitType>
+    <SellStartTime></SellStartTime>
+    <SellEndTime></SellEndTime>
+    <ShowAlways>0 </ShowAlways>
+    <AcquireWay>0 </AcquireWay>
+    <UISkipType>0 </UISkipType>
+    <IsValid>1 </IsValid>
+</ResShopDesc>
+<ResShopDesc version="1">
+    <ID>4209 </ID>
+    <Sheet>7 </Sheet>
+    <CapacityType>0 </CapacityType>
+    <CapacitySubType>0 </CapacitySubType>
+    <Order>10 </Order>
+    <IsHot>0 </IsHot>
+    <IsNew>0 </IsNew>
+    <ItemID>0 </ItemID>
+    <HeroResID>0 </HeroResID>
+    <SkinResID>1404002 </SkinResID>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>8 </MoneyType>
+        <Price>58 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>0 </MoneyType>
+        <Price>0 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <LimitCount>0 </LimitCount>
+    <LimitType>0 </LimitType>
+    <SellStartTime></SellStartTime>
+    <SellEndTime></SellEndTime>
+    <ShowAlways>0 </ShowAlways>
+    <AcquireWay>0 </AcquireWay>
+    <UISkipType>0 </UISkipType>
+    <IsValid>0 </IsValid>
+</ResShopDesc>
+<ResShopDesc version="1">
+    <ID>4210 </ID>
+    <Sheet>7 </Sheet>
+    <CapacityType>0 </CapacityType>
+    <CapacitySubType>0 </CapacitySubType>
+    <Order>11 </Order>
+    <IsHot>0 </IsHot>
+    <IsNew>0 </IsNew>
+    <ItemID>0 </ItemID>
+    <HeroResID>0 </HeroResID>
+    <SkinResID>1003002 </SkinResID>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>8 </MoneyType>
+        <Price>58 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>0 </MoneyType>
+        <Price>0 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <LimitCount>0 </LimitCount>
+    <LimitType>0 </LimitType>
+    <SellStartTime></SellStartTime>
+    <SellEndTime></SellEndTime>
+    <ShowAlways>0 </ShowAlways>
+    <AcquireWay>0 </AcquireWay>
+    <UISkipType>0 </UISkipType>
+    <IsValid>1 </IsValid>
+</ResShopDesc>
+<ResShopDesc version="1">
+    <ID>4211 </ID>
+    <Sheet>7 </Sheet>
+    <CapacityType>0 </CapacityType>
+    <CapacitySubType>0 </CapacitySubType>
+    <Order>12 </Order>
+    <IsHot>0 </IsHot>
+    <IsNew>0 </IsNew>
+    <ItemID>0 </ItemID>
+    <HeroResID>0 </HeroResID>
+    <SkinResID>1408002 </SkinResID>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>8 </MoneyType>
+        <Price>58 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>0 </MoneyType>
+        <Price>0 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <LimitCount>0 </LimitCount>
+    <LimitType>0 </LimitType>
+    <SellStartTime></SellStartTime>
+    <SellEndTime></SellEndTime>
+    <ShowAlways>0 </ShowAlways>
+    <AcquireWay>0 </AcquireWay>
+    <UISkipType>0 </UISkipType>
+    <IsValid>1 </IsValid>
+</ResShopDesc>
+<ResShopDesc version="1">
+    <ID>4212 </ID>
+    <Sheet>7 </Sheet>
+    <CapacityType>0 </CapacityType>
+    <CapacitySubType>0 </CapacitySubType>
+    <Order>13 </Order>
+    <IsHot>0 </IsHot>
+    <IsNew>0 </IsNew>
+    <ItemID>0 </ItemID>
+    <HeroResID>0 </HeroResID>
+    <SkinResID>1405002 </SkinResID>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>8 </MoneyType>
+        <Price>58 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>0 </MoneyType>
+        <Price>0 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <LimitCount>0 </LimitCount>
+    <LimitType>0 </LimitType>
+    <SellStartTime></SellStartTime>
+    <SellEndTime></SellEndTime>
+    <ShowAlways>0 </ShowAlways>
+    <AcquireWay>0 </AcquireWay>
+    <UISkipType>0 </UISkipType>
+    <IsValid>1 </IsValid>
+</ResShopDesc>
+<ResShopDesc version="1">
+    <ID>4213 </ID>
+    <Sheet>7 </Sheet>
+    <CapacityType>0 </CapacityType>
+    <CapacitySubType>0 </CapacitySubType>
+    <Order>14 </Order>
+    <IsHot>0 </IsHot>
+    <IsNew>0 </IsNew>
+    <ItemID>0 </ItemID>
+    <HeroResID>0 </HeroResID>
+    <SkinResID>1001002 </SkinResID>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>8 </MoneyType>
+        <Price>58 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>0 </MoneyType>
+        <Price>0 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <LimitCount>0 </LimitCount>
+    <LimitType>0 </LimitType>
+    <SellStartTime></SellStartTime>
+    <SellEndTime></SellEndTime>
+    <ShowAlways>0 </ShowAlways>
+    <AcquireWay>0 </AcquireWay>
+    <UISkipType>0 </UISkipType>
+    <IsValid>1 </IsValid>
+</ResShopDesc>
+<ResShopDesc version="1">
+    <ID>4214 </ID>
+    <Sheet>7 </Sheet>
+    <CapacityType>0 </CapacityType>
+    <CapacitySubType>0 </CapacitySubType>
+    <Order>15 </Order>
+    <IsHot>0 </IsHot>
+    <IsNew>0 </IsNew>
+    <ItemID>0 </ItemID>
+    <HeroResID>0 </HeroResID>
+    <SkinResID>1401003 </SkinResID>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>8 </MoneyType>
+        <Price>58 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>0 </MoneyType>
+        <Price>0 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <LimitCount>0 </LimitCount>
+    <LimitType>0 </LimitType>
+    <SellStartTime></SellStartTime>
+    <SellEndTime></SellEndTime>
+    <ShowAlways>0 </ShowAlways>
+    <AcquireWay>0 </AcquireWay>
+    <UISkipType>0 </UISkipType>
+    <IsValid>1 </IsValid>
+</ResShopDesc>
+<ResShopDesc version="1">
+    <ID>4301 </ID>
+    <Sheet>8 </Sheet>
+    <CapacityType>0 </CapacityType>
+    <CapacitySubType>0 </CapacitySubType>
+    <Order>1 </Order>
+    <IsHot>0 </IsHot>
+    <IsNew>0 </IsNew>
+    <ItemID>0 </ItemID>
+    <HeroResID>10000301 </HeroResID>
+    <SkinResID>0 </SkinResID>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>9 </MoneyType>
+        <Price>38 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>0 </MoneyType>
+        <Price>0 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <LimitCount>0 </LimitCount>
+    <LimitType>0 </LimitType>
+    <SellStartTime></SellStartTime>
+    <SellEndTime></SellEndTime>
+    <ShowAlways>0 </ShowAlways>
+    <AcquireWay>0 </AcquireWay>
+    <UISkipType>0 </UISkipType>
+    <IsValid>1 </IsValid>
+</ResShopDesc>
+<ResShopDesc version="1">
+    <ID>4302 </ID>
+    <Sheet>8 </Sheet>
+    <CapacityType>0 </CapacityType>
+    <CapacitySubType>0 </CapacitySubType>
+    <Order>2 </Order>
+    <IsHot>0 </IsHot>
+    <IsNew>0 </IsNew>
+    <ItemID>0 </ItemID>
+    <HeroResID>0 </HeroResID>
+    <SkinResID>1412002 </SkinResID>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>9 </MoneyType>
+        <Price>58 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>0 </MoneyType>
+        <Price>0 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <LimitCount>0 </LimitCount>
+    <LimitType>0 </LimitType>
+    <SellStartTime></SellStartTime>
+    <SellEndTime></SellEndTime>
+    <ShowAlways>0 </ShowAlways>
+    <AcquireWay>0 </AcquireWay>
+    <UISkipType>0 </UISkipType>
+    <IsValid>1 </IsValid>
+</ResShopDesc>
+<ResShopDesc version="1">
+    <ID>4303 </ID>
+    <Sheet>8 </Sheet>
+    <CapacityType>0 </CapacityType>
+    <CapacitySubType>0 </CapacitySubType>
+    <Order>3 </Order>
+    <IsHot>0 </IsHot>
+    <IsNew>0 </IsNew>
+    <ItemID>0 </ItemID>
+    <HeroResID>0 </HeroResID>
+    <SkinResID>1301002 </SkinResID>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>9 </MoneyType>
+        <Price>58 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>0 </MoneyType>
+        <Price>0 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <LimitCount>0 </LimitCount>
+    <LimitType>0 </LimitType>
+    <SellStartTime></SellStartTime>
+    <SellEndTime></SellEndTime>
+    <ShowAlways>0 </ShowAlways>
+    <AcquireWay>0 </AcquireWay>
+    <UISkipType>0 </UISkipType>
+    <IsValid>1 </IsValid>
+</ResShopDesc>
+<ResShopDesc version="1">
+    <ID>4401 </ID>
+    <Sheet>9 </Sheet>
+    <CapacityType>0 </CapacityType>
+    <CapacitySubType>0 </CapacitySubType>
+    <Order>1 </Order>
+    <IsHot>0 </IsHot>
+    <IsNew>0 </IsNew>
+    <ItemID>0 </ItemID>
+    <HeroResID>10000411 </HeroResID>
+    <SkinResID>0 </SkinResID>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>10 </MoneyType>
+        <Price>28 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>0 </MoneyType>
+        <Price>0 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <LimitCount>0 </LimitCount>
+    <LimitType>0 </LimitType>
+    <SellStartTime></SellStartTime>
+    <SellEndTime></SellEndTime>
+    <ShowAlways>0 </ShowAlways>
+    <AcquireWay>0 </AcquireWay>
+    <UISkipType>0 </UISkipType>
+    <IsValid>1 </IsValid>
+</ResShopDesc>
+<ResShopDesc version="1">
+    <ID>4402 </ID>
+    <Sheet>9 </Sheet>
+    <CapacityType>0 </CapacityType>
+    <CapacitySubType>0 </CapacitySubType>
+    <Order>2 </Order>
+    <IsHot>0 </IsHot>
+    <IsNew>0 </IsNew>
+    <ItemID>0 </ItemID>
+    <HeroResID>0 </HeroResID>
+    <SkinResID>1411002 </SkinResID>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>10 </MoneyType>
+        <Price>38 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>0 </MoneyType>
+        <Price>0 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <LimitCount>0 </LimitCount>
+    <LimitType>0 </LimitType>
+    <SellStartTime></SellStartTime>
+    <SellEndTime></SellEndTime>
+    <ShowAlways>0 </ShowAlways>
+    <AcquireWay>0 </AcquireWay>
+    <UISkipType>0 </UISkipType>
+    <IsValid>1 </IsValid>
+</ResShopDesc>
+<ResShopDesc version="1">
+    <ID>4403 </ID>
+    <Sheet>9 </Sheet>
+    <CapacityType>0 </CapacityType>
+    <CapacitySubType>0 </CapacitySubType>
+    <Order>3 </Order>
+    <IsHot>0 </IsHot>
+    <IsNew>0 </IsNew>
+    <ItemID>0 </ItemID>
+    <HeroResID>0 </HeroResID>
+    <SkinResID>1302002 </SkinResID>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>10 </MoneyType>
+        <Price>38 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <BuyWay type="ResShopBuyWayDesc">
+        <MoneyType>0 </MoneyType>
+        <Price>0 </Price>
+        <DiscountType>0 </DiscountType>
+        <DiscountPercent>0 </DiscountPercent>
+        <DiscountPrice>0 </DiscountPrice>
+        <DiscountStartTime></DiscountStartTime>
+        <DiscountEndTime></DiscountEndTime>
+    </BuyWay>
+    <LimitCount>0 </LimitCount>
+    <LimitType>0 </LimitType>
+    <SellStartTime></SellStartTime>
+    <SellEndTime></SellEndTime>
+    <ShowAlways>0 </ShowAlways>
+    <AcquireWay>0 </AcquireWay>
+    <UISkipType>0 </UISkipType>
+    <IsValid>1 </IsValid>
+</ResShopDesc>
+</ResShopDesc_Tab>

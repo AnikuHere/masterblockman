@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<ResRaceSkillDesc_Tab>
+<TResHeadAll version="5">
+    <resHead type="TResHead">
+        <Magic>1397052237 </Magic>
+        <Version>6 </Version>
+        <Unit>52 </Unit>
+        <Count>4 </Count>
+        <MetalibHash>531d5b4a397ad5b3c0fbfb5cc8059e55</MetalibHash>
+        <ResVersion>0 </ResVersion>
+        <CreateTime>2023-04-19 20:42:34</CreateTime>
+        <ResEncording>UTF-8</ResEncording>
+        <ContentHash>aa70d0cb4b5bcdc5933a84f3cc8bbbe9</ContentHash>
+    </resHead>
+    <resHeadExt type="TResHeadExt">
+        <DataOffset>136 </DataOffset>
+    </resHeadExt>
+</TResHeadAll>
+<ResRaceSkillDesc version="1">
+    <RaceType>1 </RaceType>
+    <RaceTalentSkill>70001101 70001301 70001201 0 </RaceTalentSkill>
+    <TalentSkillUnlockArenaLevel>1 2 3 0 </TalentSkillUnlockArenaLevel>
+    <RaceSpySkill>70008001 0 </RaceSpySkill>
+    <SpySkillUnlockLevel>1 0 </SpySkillUnlockLevel>
+</ResRaceSkillDesc>
+<ResRaceSkillDesc version="1">
+    <RaceType>2 </RaceType>
+    <RaceTalentSkill>70002101 70002201 70002301 0 </RaceTalentSkill>
+    <TalentSkillUnlockArenaLevel>1 2 3 0 </TalentSkillUnlockArenaLevel>
+    <RaceSpySkill>70008101 0 </RaceSpySkill>
+    <SpySkillUnlockLevel>1 0 </SpySkillUnlockLevel>
+</ResRaceSkillDesc>
+<ResRaceSkillDesc version="1">
+    <RaceType>3 </RaceType>
+    <RaceTalentSkill>70003301 70003201 70003101 0 </RaceTalentSkill>
+    <TalentSkillUnlockArenaLevel>1 2 3 0 </TalentSkillUnlockArenaLevel>
+    <RaceSpySkill>70008201 0 </RaceSpySkill>
+    <SpySkillUnlockLevel>1 0 </SpySkillUnlockLevel>
+</ResRaceSkillDesc>
+<ResRaceSkillDesc version="1">
+    <RaceType>4 </RaceType>
+    <RaceTalentSkill>70004101 70004201 70004301 0 </RaceTalentSkill>
+    <TalentSkillUnlockArenaLevel>1 2 3 0 </TalentSkillUnlockArenaLevel>
+    <RaceSpySkill>70008301 0 </RaceSpySkill>
+    <SpySkillUnlockLevel>1 0 </SpySkillUnlockLevel>
+</ResRaceSkillDesc>
+</ResRaceSkillDesc_Tab>
