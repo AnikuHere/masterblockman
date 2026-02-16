@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="GBK" standalone="yes" ?>
+<ConvList>
+    <MetalibFile File="./ov_res.tdr" /> <!--实际上不需要设置Metalib文件，工具需要读取这个XML元素而已-->
+    <EntryMapFilesPath Path="..\..\xml" />
+    <BinFilesPath Path="..\..\language" />
+    <ExcelFilesPath Path="..\..\xls" />
+    <KeywordFile File="..\..\xml\keywords_Res.xml" />
+    <ResStyleList>
+        <ResStyle Name="服务器" ID="0" />
+        <ResStyle Name="客户端" ID="1" />
+    </ResStyleList>
+    <ConvTree Name="Language">
+	  
+	  <CommNode Name="多语言表">
+        <ResNode Name="语言ID" Meta="ResSystemLanguageDesc" BinFile="SystemLanguageDesc_Res.bytes" EntryMapFile="Ds_Res.xml"
+            BinStyles="0" Sort="Asc" ExcelFile="多语言表.xlsx" IncludeSheet ="语言ID"/>
+			
+		<ResNode Name="语言ID" Meta="ResServerErrorKeyDesc" BinFile="ServerErrorKeyDesc_Res.bytes" EntryMapFile="Ds_Res.xml"
+            BinStyles="0" Sort="Asc" ExcelFile="多语言表.xlsx" IncludeSheet ="服务器错误码"/>
+		
+	  </CommNode>
+		
+    </ConvTree>
+</ConvList>
+

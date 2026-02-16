@@ -1,0 +1,719 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<ResServerErrorKeyDesc_Tab>
+<TResHeadAll version="5">
+    <resHead type="TResHead">
+        <Magic>1397052237 </Magic>
+        <Version>6 </Version>
+        <Unit>2052 </Unit>
+        <Count>100 </Count>
+        <MetalibHash>2e40af5247f17994def57f2497cceb88</MetalibHash>
+        <ResVersion>0 </ResVersion>
+        <CreateTime>2018-10-11 17:20:46</CreateTime>
+        <ResEncording>UTF-8</ResEncording>
+        <ContentHash>1c8fbde8b6e9669136646eeaf0e53fdf</ContentHash>
+    </resHead>
+    <resHeadExt type="TResHeadExt">
+        <DataOffset>136 </DataOffset>
+    </resHeadExt>
+</TResHeadAll>
+<ResServerErrorKeyDesc version="1">
+    <ID>0 </ID>
+    <Key>ErrMaxOnlinePlayer</Key>
+    <SCN>服务器人数已满</SCN>
+    <EN>Server is full.</EN>
+    <FCN></FCN>
+</ResServerErrorKeyDesc>
+<ResServerErrorKeyDesc version="1">
+    <ID>0 </ID>
+    <Key>ErrRouteineNotFound</Key>
+    <SCN>未找到响应函数</SCN>
+    <EN>This function did not respond.</EN>
+    <FCN></FCN>
+</ResServerErrorKeyDesc>
+<ResServerErrorKeyDesc version="1">
+    <ID>0 </ID>
+    <Key>ErrorLoginBusy</Key>
+    <SCN>登陆繁忙</SCN>
+    <EN>Login busy.</EN>
+    <FCN></FCN>
+</ResServerErrorKeyDesc>
+<ResServerErrorKeyDesc version="1">
+    <ID>0 </ID>
+    <Key>ErrLoginCD</Key>
+    <SCN>请稍后重试</SCN>
+    <EN>Please try again later.</EN>
+    <FCN></FCN>
+</ResServerErrorKeyDesc>
+<ResServerErrorKeyDesc version="1">
+    <ID>0 </ID>
+    <Key>ErrClientVersionNotMatch</Key>
+    <SCN>版本不一致，无法完成组队</SCN>
+    <EN>Version dependency, unable to create team.</EN>
+    <FCN></FCN>
+</ResServerErrorKeyDesc>
+<ResServerErrorKeyDesc version="1">
+    <ID>0 </ID>
+    <Key>ErrGpuLimited</Key>
+    <SCN>您的手机硬件配置过低无法启动游戏</SCN>
+    <EN>Your phone specs are too low to start the game.</EN>
+    <FCN></FCN>
+</ResServerErrorKeyDesc>
+<ResServerErrorKeyDesc version="1">
+    <ID>0 </ID>
+    <Key>ErrGameForbid</Key>
+    <SCN>您被禁止参加该模式对战</SCN>
+    <EN>You are prohibited from joining this battle.</EN>
+    <FCN></FCN>
+</ResServerErrorKeyDesc>
+<ResServerErrorKeyDesc version="1">
+    <ID>0 </ID>
+    <Key>ErrorItemNotExist</Key>
+    <SCN>道具不存在</SCN>
+    <EN>Cannot find team.</EN>
+    <FCN></FCN>
+</ResServerErrorKeyDesc>
+<ResServerErrorKeyDesc version="1">
+    <ID>0 </ID>
+    <Key>ErrorItemNotSell</Key>
+    <SCN>该道具不能出售</SCN>
+    <EN>This item cannot be sold.</EN>
+    <FCN></FCN>
+</ResServerErrorKeyDesc>
+<ResServerErrorKeyDesc version="1">
+    <ID>0 </ID>
+    <Key>ErrLotteryGroupNotExists</Key>
+    <SCN>该奖池不存在</SCN>
+    <EN>Cannot find jackpot.</EN>
+    <FCN></FCN>
+</ResServerErrorKeyDesc>
+<ResServerErrorKeyDesc version="1">
+    <ID>0 </ID>
+    <Key>ErrItemNotEnough</Key>
+    <SCN>道具数量不足</SCN>
+    <EN>Not enough items.</EN>
+    <FCN></FCN>
+</ResServerErrorKeyDesc>
+<ResServerErrorKeyDesc version="1">
+    <ID>0 </ID>
+    <Key>ErrIconEdgeNotOwned</Key>
+    <SCN>未拥有该头像</SCN>
+    <EN>Avatar not owned.</EN>
+    <FCN></FCN>
+</ResServerErrorKeyDesc>
+<ResServerErrorKeyDesc version="1">
+    <ID>0 </ID>
+    <Key>ErrorItemNotFound</Key>
+    <SCN>未找到该道具</SCN>
+    <EN>Item not found.</EN>
+    <FCN></FCN>
+</ResServerErrorKeyDesc>
+<ResServerErrorKeyDesc version="1">
+    <ID>0 </ID>
+    <Key>ErrHasFetchToday</Key>
+    <SCN>今日奖励已领</SCN>
+    <EN>Todays reward already claimed.</EN>
+    <FCN></FCN>
+</ResServerErrorKeyDesc>
+<ResServerErrorKeyDesc version="1">
+    <ID>0 </ID>
+    <Key>ErrAwardMax</Key>
+    <SCN>奖励已领完</SCN>
+    <EN>Reward already claimed.</EN>
+    <FCN></FCN>
+</ResServerErrorKeyDesc>
+<ResServerErrorKeyDesc version="1">
+    <ID>0 </ID>
+    <Key>ErrNeedRefresh</Key>
+    <SCN>已过当日领取时间</SCN>
+    <EN>Todays reward has already expired.</EN>
+    <FCN></FCN>
+</ResServerErrorKeyDesc>
+<ResServerErrorKeyDesc version="1">
+    <ID>0 </ID>
+    <Key>ErrorQuestNotComplete</Key>
+    <SCN>任务未完成</SCN>
+    <EN>Task not complete.</EN>
+    <FCN></FCN>
+</ResServerErrorKeyDesc>
+<ResServerErrorKeyDesc version="1">
+    <ID>0 </ID>
+    <Key>ErrorQuestNotAccept</Key>
+    <SCN>任务未接受</SCN>
+    <EN>Task not accepted.</EN>
+    <FCN></FCN>
+</ResServerErrorKeyDesc>
+<ResServerErrorKeyDesc version="1">
+    <ID>0 </ID>
+    <Key>ErrNoAward</Key>
+    <SCN>没有奖励</SCN>
+    <EN>No reward.</EN>
+    <FCN></FCN>
+</ResServerErrorKeyDesc>
+<ResServerErrorKeyDesc version="1">
+    <ID>0 </ID>
+    <Key>ErrInviteGamePunish</Key>
+    <SCN>该玩家处于禁止匹配惩罚时间内，无法邀请</SCN>
+    <EN>Player penalty time has not expired, unable to invite.</EN>
+    <FCN></FCN>
+</ResServerErrorKeyDesc>
+<ResServerErrorKeyDesc version="1">
+    <ID>0 </ID>
+    <Key>ErrInviteCreditLow</Key>
+    <SCN>该玩家对战信用过低，无法加入对战</SCN>
+    <EN>Player rep too low, cannot join battle.</EN>
+    <FCN></FCN>
+</ResServerErrorKeyDesc>
+<ResServerErrorKeyDesc version="1">
+    <ID>0 </ID>
+    <Key>ErrHeroForbid</Key>
+    <SCN>该模式禁用该英雄</SCN>
+    <EN>You cannot use this hero for this game mode.</EN>
+    <FCN></FCN>
+</ResServerErrorKeyDesc>
+<ResServerErrorKeyDesc version="1">
+    <ID>0 </ID>
+    <Key>ErrAlreadyInQueue</Key>
+    <SCN>您已经在队伍中</SCN>
+    <EN>You are already in a team.</EN>
+    <FCN></FCN>
+</ResServerErrorKeyDesc>
+<ResServerErrorKeyDesc version="1">
+    <ID>0 </ID>
+    <Key>ErrPlayerNum</Key>
+    <SCN>玩家数量错误</SCN>
+    <EN>Error with number of players.</EN>
+    <FCN></FCN>
+</ResServerErrorKeyDesc>
+<ResServerErrorKeyDesc version="1">
+    <ID>0 </ID>
+    <Key>AlreadyReport</Key>
+    <SCN>您已经举报过该玩家</SCN>
+    <EN>You already reported this player.</EN>
+    <FCN></FCN>
+</ResServerErrorKeyDesc>
+<ResServerErrorKeyDesc version="1">
+    <ID>0 </ID>
+    <Key>ErrVideoNotExist</Key>
+    <SCN>录像不存在</SCN>
+    <EN>Replay doesn’t exist.</EN>
+    <FCN></FCN>
+</ResServerErrorKeyDesc>
+<ResServerErrorKeyDesc version="1">
+    <ID>0 </ID>
+    <Key>ErrInCreating</Key>
+    <SCN>账号在创建中</SCN>
+    <EN>Creating account.</EN>
+    <FCN></FCN>
+</ResServerErrorKeyDesc>
+<ResServerErrorKeyDesc version="1">
+    <ID>0 </ID>
+    <Key>ErrExchangeDenied</Key>
+    <SCN>不能交换</SCN>
+    <EN>Cannot switch position.</EN>
+    <FCN></FCN>
+</ResServerErrorKeyDesc>
+<ResServerErrorKeyDesc version="1">
+    <ID>0 </ID>
+    <Key>ErrRoomNotFound</Key>
+    <SCN>未找到该房间</SCN>
+    <EN>Room not found.</EN>
+    <FCN></FCN>
+</ResServerErrorKeyDesc>
+<ResServerErrorKeyDesc version="1">
+    <ID>0 </ID>
+    <Key>ErrorUnknown</Key>
+    <SCN>未知错误</SCN>
+    <EN>Unknown error.</EN>
+    <FCN></FCN>
+</ResServerErrorKeyDesc>
+<ResServerErrorKeyDesc version="1">
+    <ID>0 </ID>
+    <Key>ErrLoginPunish</Key>
+    <SCN>封号惩罚中</SCN>
+    <EN>You account is currently banned.</EN>
+    <FCN></FCN>
+</ResServerErrorKeyDesc>
+<ResServerErrorKeyDesc version="1">
+    <ID>0 </ID>
+    <Key>ErrGpuLimited</Key>
+    <SCN>该GPU性能过低</SCN>
+    <EN>GPU performance too low.</EN>
+    <FCN></FCN>
+</ResServerErrorKeyDesc>
+<ResServerErrorKeyDesc version="1">
+    <ID>0 </ID>
+    <Key>ErrNoSilverBox</Key>
+    <SCN>白银宝箱已领取</SCN>
+    <EN>白银宝箱已领取</EN>
+    <FCN></FCN>
+</ResServerErrorKeyDesc>
+<ResServerErrorKeyDesc version="1">
+    <ID>0 </ID>
+    <Key>ErrRunePageAlreadyUnlock</Key>
+    <SCN>该战旗页已解锁</SCN>
+    <EN>该战旗页已解锁</EN>
+    <FCN></FCN>
+</ResServerErrorKeyDesc>
+<ResServerErrorKeyDesc version="1">
+    <ID>0 </ID>
+    <Key>ErrNoGoldBox</Key>
+    <SCN>黄金宝箱已领取</SCN>
+    <EN>黄金宝箱已领取</EN>
+    <FCN></FCN>
+</ResServerErrorKeyDesc>
+<ResServerErrorKeyDesc version="1">
+    <ID>0 </ID>
+    <Key>ErrRuneAlreadyUse</Key>
+    <SCN>战旗已装配</SCN>
+    <EN>战旗已装配</EN>
+    <FCN></FCN>
+</ResServerErrorKeyDesc>
+<ResServerErrorKeyDesc version="1">
+    <ID>0 </ID>
+    <Key>ErrFriendsCountMax</Key>
+    <SCN>好友数量达到上限！</SCN>
+    <EN>Friends list full!</EN>
+    <FCN></FCN>
+</ResServerErrorKeyDesc>
+<ResServerErrorKeyDesc version="1">
+    <ID>0 </ID>
+    <Key>ErrRuneNotExists</Key>
+    <SCN>战旗不存在</SCN>
+    <EN>战旗不存在</EN>
+    <FCN></FCN>
+</ResServerErrorKeyDesc>
+<ResServerErrorKeyDesc version="1">
+    <ID>0 </ID>
+    <Key>ErrNoTeamAddr</Key>
+    <SCN>队伍不存在</SCN>
+    <EN>Cannot find team.</EN>
+    <FCN></FCN>
+</ResServerErrorKeyDesc>
+<ResServerErrorKeyDesc version="1">
+    <ID>0 </ID>
+    <Key>ErrNameConflict</Key>
+    <SCN>名字重复</SCN>
+    <EN>This name is taken.</EN>
+    <FCN></FCN>
+</ResServerErrorKeyDesc>
+<ResServerErrorKeyDesc version="1">
+    <ID>0 </ID>
+    <Key>ErrNoRoomAddr</Key>
+    <SCN>房间不存在</SCN>
+    <EN>Room doesn’t exist.</EN>
+    <FCN></FCN>
+</ResServerErrorKeyDesc>
+<ResServerErrorKeyDesc version="1">
+    <ID>0 </ID>
+    <Key>ErrRenameInCD</Key>
+    <SCN>改名冷却中</SCN>
+    <EN>Rename feature on cooldown.</EN>
+    <FCN></FCN>
+</ResServerErrorKeyDesc>
+<ResServerErrorKeyDesc version="1">
+    <ID>0 </ID>
+    <Key>ErrLotteryEndlessLoop</Key>
+    <SCN>抽奖死循环</SCN>
+    <EN>Gacha infinite loop.</EN>
+    <FCN></FCN>
+</ResServerErrorKeyDesc>
+<ResServerErrorKeyDesc version="1">
+    <ID>0 </ID>
+    <Key>ErrIncludeSpace</Key>
+    <SCN>不能包含空格</SCN>
+    <EN>Must not include spaces.</EN>
+    <FCN></FCN>
+</ResServerErrorKeyDesc>
+<ResServerErrorKeyDesc version="1">
+    <ID>0 </ID>
+    <Key>ErrAlreadyLikeReplay</Key>
+    <SCN>已点赞过该视频</SCN>
+    <EN>You have liked this video.</EN>
+    <FCN></FCN>
+</ResServerErrorKeyDesc>
+<ResServerErrorKeyDesc version="1">
+    <ID>0 </ID>
+    <Key>ErrAddHeroFail</Key>
+    <SCN>添加英雄失败</SCN>
+    <EN>Failed to add Hero.</EN>
+    <FCN></FCN>
+</ResServerErrorKeyDesc>
+<ResServerErrorKeyDesc version="1">
+    <ID>0 </ID>
+    <Key>ErrLoginKeyMismatch</Key>
+    <SCN>登陆密钥错误</SCN>
+    <EN>Incorrect login credentials.</EN>
+    <FCN></FCN>
+</ResServerErrorKeyDesc>
+<ResServerErrorKeyDesc version="1">
+    <ID>0 </ID>
+    <Key>ErrNoShopItem</Key>
+    <SCN>商城中没有该商品</SCN>
+    <EN>Commodity not found.</EN>
+    <FCN></FCN>
+</ResServerErrorKeyDesc>
+<ResServerErrorKeyDesc version="1">
+    <ID>0 </ID>
+    <Key>ErrValidHeroCountNotEnough</Key>
+    <SCN>可用英雄数量不足</SCN>
+    <EN>You don’t have enough Heroes.</EN>
+    <FCN></FCN>
+</ResServerErrorKeyDesc>
+<ResServerErrorKeyDesc version="1">
+    <ID>0 </ID>
+    <Key>ErrItemNotSell</Key>
+    <SCN>该商品不能出售</SCN>
+    <EN>This is not for sale.</EN>
+    <FCN></FCN>
+</ResServerErrorKeyDesc>
+<ResServerErrorKeyDesc version="1">
+    <ID>0 </ID>
+    <Key>ErrSiteTypeNotMatch</Key>
+    <SCN>战旗不匹配镶嵌格子</SCN>
+    <EN>战旗不匹配镶嵌格子</EN>
+    <FCN></FCN>
+</ResServerErrorKeyDesc>
+<ResServerErrorKeyDesc version="1">
+    <ID>0 </ID>
+    <Key>ErrorLaunchAgentFailed</Key>
+    <SCN>登录服务器失败</SCN>
+    <EN>Failed to login to server.</EN>
+    <FCN></FCN>
+</ResServerErrorKeyDesc>
+<ResServerErrorKeyDesc version="1">
+    <ID>0 </ID>
+    <Key>ErrAlreadyInTeam</Key>
+    <SCN>已经在队伍中</SCN>
+    <EN>You are already in a team.</EN>
+    <FCN></FCN>
+</ResServerErrorKeyDesc>
+<ResServerErrorKeyDesc version="1">
+    <ID>0 </ID>
+    <Key>ErrMoneyType</Key>
+    <SCN>货币不足</SCN>
+    <EN>货币不足</EN>
+    <FCN></FCN>
+</ResServerErrorKeyDesc>
+<ResServerErrorKeyDesc version="1">
+    <ID>0 </ID>
+    <Key>ErrClientVersionOld</Key>
+    <SCN>检测到新的更新包，您的版本过低，请重启游戏进行更新！</SCN>
+    <EN>You version of the game is too low, please restart the game to update.</EN>
+    <FCN></FCN>
+</ResServerErrorKeyDesc>
+<ResServerErrorKeyDesc version="1">
+    <ID>0 </ID>
+    <Key>ErrServerInMaintain</Key>
+    <SCN>服务器维护</SCN>
+    <EN>Server Maintenance</EN>
+    <FCN></FCN>
+</ResServerErrorKeyDesc>
+<ResServerErrorKeyDesc version="1">
+    <ID>0 </ID>
+    <Key>ErrorAgentFull</Key>
+    <SCN>服务器人数已达上限</SCN>
+    <EN>Server is currently full.</EN>
+    <FCN></FCN>
+</ResServerErrorKeyDesc>
+<ResServerErrorKeyDesc version="1">
+    <ID>0 </ID>
+    <Key>ErrDenied</Key>
+    <SCN>操作权限不足</SCN>
+    <EN>Insufficient permissions to perform this operation.</EN>
+    <FCN></FCN>
+</ResServerErrorKeyDesc>
+<ResServerErrorKeyDesc version="1">
+    <ID>0 </ID>
+    <Key>ErrNotInvited</Key>
+    <SCN>未收到组队邀请</SCN>
+    <EN>No team invitation received.</EN>
+    <FCN></FCN>
+</ResServerErrorKeyDesc>
+<ResServerErrorKeyDesc version="1">
+    <ID>0 </ID>
+    <Key>ErrNotReady</Key>
+    <SCN>队友没有准备就绪</SCN>
+    <EN>Teammates are not ready.</EN>
+    <FCN></FCN>
+</ResServerErrorKeyDesc>
+<ResServerErrorKeyDesc version="1">
+    <ID>0 </ID>
+    <Key>ErrTargetInTeam</Key>
+    <SCN>目标已经在队伍</SCN>
+    <EN>Target is already in team.</EN>
+    <FCN></FCN>
+</ResServerErrorKeyDesc>
+<ResServerErrorKeyDesc version="1">
+    <ID>0 </ID>
+    <Key>ErrNoTeam</Key>
+    <SCN>队伍不存在</SCN>
+    <EN>Cannot find team.</EN>
+    <FCN></FCN>
+</ResServerErrorKeyDesc>
+<ResServerErrorKeyDesc version="1">
+    <ID>0 </ID>
+    <Key>ErrInviteTimeLock</Key>
+    <SCN>暂时无法邀请</SCN>
+    <EN>Temporarily unable to invite.</EN>
+    <FCN></FCN>
+</ResServerErrorKeyDesc>
+<ResServerErrorKeyDesc version="1">
+    <ID>0 </ID>
+    <Key>ErrLoginBusy</Key>
+    <SCN>角色已登录</SCN>
+    <EN>Character already logged in.</EN>
+    <FCN></FCN>
+</ResServerErrorKeyDesc>
+<ResServerErrorKeyDesc version="1">
+    <ID>0 </ID>
+    <Key>ErrServerScriptFail</Key>
+    <SCN>脚本错误</SCN>
+    <EN>Script Error</EN>
+    <FCN></FCN>
+</ResServerErrorKeyDesc>
+<ResServerErrorKeyDesc version="1">
+    <ID>0 </ID>
+    <Key>ErrPlayerNotFound</Key>
+    <SCN>角色找不到</SCN>
+    <EN>Cannot find Character</EN>
+    <FCN></FCN>
+</ResServerErrorKeyDesc>
+<ResServerErrorKeyDesc version="1">
+    <ID>0 </ID>
+    <Key>ErrCreatePlayerFailed</Key>
+    <SCN>创建角色失败</SCN>
+    <EN>Failed to create new character.</EN>
+    <FCN></FCN>
+</ResServerErrorKeyDesc>
+<ResServerErrorKeyDesc version="1">
+    <ID>0 </ID>
+    <Key>ErrSuccess</Key>
+    <SCN>操作成功</SCN>
+    <EN>Successful</EN>
+    <FCN></FCN>
+</ResServerErrorKeyDesc>
+<ResServerErrorKeyDesc version="1">
+    <ID>0 </ID>
+    <Key>ErrDBError</Key>
+    <SCN>数据库操作失败</SCN>
+    <EN>Data depository action failed.</EN>
+    <FCN></FCN>
+</ResServerErrorKeyDesc>
+<ResServerErrorKeyDesc version="1">
+    <ID>0 </ID>
+    <Key>Match_ErrWaitReadyTimeout</Key>
+    <SCN>准备超时导致取消匹配</SCN>
+    <EN>Timeout during match creation will cause match to be cancelled.</EN>
+    <FCN></FCN>
+</ResServerErrorKeyDesc>
+<ResServerErrorKeyDesc version="1">
+    <ID>0 </ID>
+    <Key>Match_ErrOtherPlayerOffline</Key>
+    <SCN>其他玩家掉线导致取消匹配</SCN>
+    <EN>The other player went offline, match has ben cancelled.</EN>
+    <FCN></FCN>
+</ResServerErrorKeyDesc>
+<ResServerErrorKeyDesc version="1">
+    <ID>0 </ID>
+    <Key>ErrPlayerNotExist</Key>
+    <SCN>角色不存在</SCN>
+    <EN>Character not found</EN>
+    <FCN></FCN>
+</ResServerErrorKeyDesc>
+<ResServerErrorKeyDesc version="1">
+    <ID>0 </ID>
+    <Key>Match_ErrAlreadyInMatch</Key>
+    <SCN>角色已经在匹配中</SCN>
+    <EN>Character is already in queue.</EN>
+    <FCN></FCN>
+</ResServerErrorKeyDesc>
+<ResServerErrorKeyDesc version="1">
+    <ID>0 </ID>
+    <Key>ErrPlayerInitFail</Key>
+    <SCN>角色初始化失败</SCN>
+    <EN>Failed to initialize character.</EN>
+    <FCN></FCN>
+</ResServerErrorKeyDesc>
+<ResServerErrorKeyDesc version="1">
+    <ID>0 </ID>
+    <Key>Match_ErrAlreadyInRoom</Key>
+    <SCN>角色正在战斗中</SCN>
+    <EN>Character is already in battle.</EN>
+    <FCN></FCN>
+</ResServerErrorKeyDesc>
+<ResServerErrorKeyDesc version="1">
+    <ID>0 </ID>
+    <Key>ErrAddMoneyFailed</Key>
+    <SCN>加钱失败</SCN>
+    <EN>Purchase failed.</EN>
+    <FCN></FCN>
+</ResServerErrorKeyDesc>
+<ResServerErrorKeyDesc version="1">
+    <ID>0 </ID>
+    <Key>ErrMoneyNotEnough</Key>
+    <SCN>钱不够</SCN>
+    <EN>Not enough currency.</EN>
+    <FCN></FCN>
+</ResServerErrorKeyDesc>
+<ResServerErrorKeyDesc version="1">
+    <ID>0 </ID>
+    <Key>ErrHeroNotExist</Key>
+    <SCN>英雄未购买</SCN>
+    <EN>Hero purchase failed.</EN>
+    <FCN></FCN>
+</ResServerErrorKeyDesc>
+<ResServerErrorKeyDesc version="1">
+    <ID>0 </ID>
+    <Key>ErrRuneAlreadyUse_UnConfigedMsg</Key>
+    <SCN>战旗已经被镶嵌</SCN>
+    <EN>战旗已经被镶嵌</EN>
+    <FCN></FCN>
+</ResServerErrorKeyDesc>
+<ResServerErrorKeyDesc version="1">
+    <ID>0 </ID>
+    <Key>ErrHeroExist</Key>
+    <SCN>英雄已购买</SCN>
+    <EN>Hero owned</EN>
+    <FCN></FCN>
+</ResServerErrorKeyDesc>
+<ResServerErrorKeyDesc version="1">
+    <ID>0 </ID>
+    <Key>ErrNameBlackword</Key>
+    <SCN>名字中包含敏感字</SCN>
+    <EN>Invalid Name</EN>
+    <FCN></FCN>
+</ResServerErrorKeyDesc>
+<ResServerErrorKeyDesc version="1">
+    <ID>0 </ID>
+    <Key>ErrPriceError</Key>
+    <SCN>货币类型错误</SCN>
+    <EN>Currency type error.</EN>
+    <FCN></FCN>
+</ResServerErrorKeyDesc>
+<ResServerErrorKeyDesc version="1">
+    <ID>0 </ID>
+    <Key>ErrSkillResNotFound</Key>
+    <SCN>技能资源未找到</SCN>
+    <EN>Cannot find skill resources</EN>
+    <FCN></FCN>
+</ResServerErrorKeyDesc>
+<ResServerErrorKeyDesc version="1">
+    <ID>0 </ID>
+    <Key>ErrorMailHasAttachments</Key>
+    <SCN>邮件有附件</SCN>
+    <EN>Mail has attachments.</EN>
+    <FCN></FCN>
+</ResServerErrorKeyDesc>
+<ResServerErrorKeyDesc version="1">
+    <ID>0 </ID>
+    <Key>ErrSkillGroupResNotFound</Key>
+    <SCN>技能页资源未找到</SCN>
+    <EN>Skill resource page not found.</EN>
+    <FCN></FCN>
+</ResServerErrorKeyDesc>
+<ResServerErrorKeyDesc version="1">
+    <ID>0 </ID>
+    <Key>ErrSkinNotExist</Key>
+    <SCN>皮肤未购买</SCN>
+    <EN>Skin not owned.</EN>
+    <FCN></FCN>
+</ResServerErrorKeyDesc>
+<ResServerErrorKeyDesc version="1">
+    <ID>0 </ID>
+    <Key>ErrSkinExist</Key>
+    <SCN>皮肤已购买</SCN>
+    <EN>Skin owned.</EN>
+    <FCN></FCN>
+</ResServerErrorKeyDesc>
+<ResServerErrorKeyDesc version="1">
+    <ID>0 </ID>
+    <Key>ErrorMailNotFound</Key>
+    <SCN>邮件未找到</SCN>
+    <EN>Cannot find mail.</EN>
+    <FCN></FCN>
+</ResServerErrorKeyDesc>
+<ResServerErrorKeyDesc version="1">
+    <ID>0 </ID>
+    <Key>ErrWrongState</Key>
+    <SCN>玩家状态错误</SCN>
+    <EN>Player Status Error.</EN>
+    <FCN></FCN>
+</ResServerErrorKeyDesc>
+<ResServerErrorKeyDesc version="1">
+    <ID>0 </ID>
+    <Key>ErrUbsInQueue</Key>
+    <SCN>被邀请玩家已经在队伍中</SCN>
+    <EN>Invited player is already in a team.</EN>
+    <FCN></FCN>
+</ResServerErrorKeyDesc>
+<ResServerErrorKeyDesc version="1">
+    <ID>0 </ID>
+    <Key>ErrDstNotOnline</Key>
+    <SCN>该玩家不在线</SCN>
+    <EN>Player is not online.</EN>
+    <FCN></FCN>
+</ResServerErrorKeyDesc>
+<ResServerErrorKeyDesc version="1">
+    <ID>0 </ID>
+    <Key>ErrSomeInside</Key>
+    <SCN>队伍中有玩家未退出比赛</SCN>
+    <EN>Team has members who have not left match.</EN>
+    <FCN></FCN>
+</ResServerErrorKeyDesc>
+<ResServerErrorKeyDesc version="1">
+    <ID>0 </ID>
+    <Key>ErrTeamFull</Key>
+    <SCN>队伍人数已满</SCN>
+    <EN>Team is full.</EN>
+    <FCN></FCN>
+</ResServerErrorKeyDesc>
+<ResServerErrorKeyDesc version="1">
+    <ID>0 </ID>
+    <Key>ErrAlreadyInQueue</Key>
+    <SCN>队伍已经在排位匹配中</SCN>
+    <EN>Team is already queued for ranked.</EN>
+    <FCN></FCN>
+</ResServerErrorKeyDesc>
+<ResServerErrorKeyDesc version="1">
+    <ID>0 </ID>
+    <Key>ErrHeroAlreadyBuy</Key>
+    <SCN>已经拥有该英雄</SCN>
+    <EN>Already have this Hero.</EN>
+    <FCN></FCN>
+</ResServerErrorKeyDesc>
+<ResServerErrorKeyDesc version="1">
+    <ID>0 </ID>
+    <Key>ErrCustomRoomNotFound</Key>
+    <SCN>房间已不存在</SCN>
+    <EN>Room is no longer there.</EN>
+    <FCN></FCN>
+</ResServerErrorKeyDesc>
+<ResServerErrorKeyDesc version="1">
+    <ID>0 </ID>
+    <Key>ErrMoneyNotEnough</Key>
+    <SCN>金钱不足</SCN>
+    <EN>Not Enough Gold.</EN>
+    <FCN></FCN>
+</ResServerErrorKeyDesc>
+<ResServerErrorKeyDesc version="1">
+    <ID>0 </ID>
+    <Key>ErrHeroNotEnough</Key>
+    <SCN>该玩家英雄数量不足</SCN>
+    <EN>Player does not have enough Heroes.</EN>
+    <FCN></FCN>
+</ResServerErrorKeyDesc>
+<ResServerErrorKeyDesc version="1">
+    <ID>0 </ID>
+    <Key>ErrLevelNotEnough</Key>
+    <SCN>该玩家等级小于6级</SCN>
+    <EN>Player is not level 6.</EN>
+    <FCN></FCN>
+</ResServerErrorKeyDesc>
+<ResServerErrorKeyDesc version="1">
+    <ID>0 </ID>
+    <Key>ErrCustomRoomFull</Key>
+    <SCN>房间人数已满</SCN>
+    <EN>Room is full.</EN>
+    <FCN></FCN>
+</ResServerErrorKeyDesc>
+</ResServerErrorKeyDesc_Tab>

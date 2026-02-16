@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="GBK" standalone="yes" ?>
+<ConvList>
+    <MetalibFile File="./ov_res.tdr" /> <!--实际上不需要设置Metalib文件，工具需要读取这个XML元素而已-->
+    <EntryMapFilesPath Path="..\..\xml" />
+    <BinFilesPath Path="..\..\bin" />
+    <ExcelFilesPath Path="..\..\xls" />
+    <KeywordFile File="..\..\xml\keywords_Res.xml" />
+    <ResStyleList>
+        <ResStyle Name="服务器" ID="0" />
+        <ResStyle Name="客户端" ID="1" />
+    </ResStyleList>
+    <ConvTree Name="Moba Project">
+
+       
+      <CommNode Name="英雄">
+        <ResNode Name="英雄表" Meta="ResHeroDesc" BinFile="HeroDesc_Res.bytes" EntryMapFile="Ds_Res.xml"
+            BinStyles="0" Sort="Asc" ExcelFile="英雄表.xlsx" IncludeSheet ="基础信息"/>
+			
+		<ResNode Name="基础成长属性" Meta="HeroBaseAttrDesc" BinFile="HeroBaseAttrDesc_Res.bytes" EntryMapFile="Ds_Res.xml"
+            BinStyles="0" Sort="Asc" ExcelFile="英雄表.xlsx" IncludeSheet ="基础成长属性"/>
+			
+		<ResNode Name="英雄技能升级关系表" Meta="ResHeroSkillLvUpRelationDesc" BinFile="HeroSkillLvUpRelationDesc_Res.bytes" EntryMapFile="Ds_Res.xml"
+            BinStyles="0" Sort="Asc" ExcelFile="英雄表.xlsx" IncludeSheet ="技能升级关系表"/>
+			
+		<ResNode Name="Moba怪物表" Meta="ResMobaMonsterDesc" BinFile="MobaMonsterDesc_Res.bytes" EntryMapFile="Ds_Res.xml"
+            BinStyles="0" Sort="Asc" ExcelFile="Moba怪物表.xlsx" IncludeSheet ="基础信息"/>
+			
+		<ResNode Name="Moba怪物表属性表" Meta="MonsterBaseAttrDesc" BinFile="MonsterBaseAttrDesc_Res.bytes" EntryMapFile="Ds_Res.xml"
+            BinStyles="0" Sort="Asc" ExcelFile="Moba怪物表.xlsx" IncludeSheet ="Moba属性"/>
+			
+		<ResNode Name="Moba召唤物属性继承表" Meta="SummonedInheritAttrDesc" BinFile="SummonedInheritAttrDesc_Res.bytes" EntryMapFile="Ds_Res.xml"
+            BinStyles="0" Sort="Asc" ExcelFile="Moba怪物表.xlsx" IncludeSheet ="召唤物继承属性"/>
+			
+		<ResNode Name="模型变身表" Meta="ResAvatarDesc" BinFile="AvatarDesc_Res.bytes" EntryMapFile="Ds_Res.xml"
+            BinStyles="0" Sort="Asc" ExcelFile="Moba怪物表.xlsx" IncludeSheet ="模型变身表"/>
+			
+			
+		<ResNode Name="技能表" Meta="ResSkillDesc" BinFile="SkillDesc_Res.bytes" EntryMapFile="Ds_Res.xml"
+			BinStyles="0" Sort="Asc" ExcelFile="技能表.xlsx" IncludeSheet ="技能"/>
+			
+		<ResNode Name="技能阶段表" Meta="ResSkillPhaseDesc" BinFile="SkillPhaseDesc_Res.bytes" EntryMapFile="Ds_Res.xml"
+			BinStyles="0" Sort="Asc" ExcelFile="技能阶段表.xlsx" IncludeSheet ="基础表格"/>
+			
+		<ResNode Name="BUFF表" Meta="ResBuffDesc" BinFile="BuffDesc_Res.bytes" EntryMapFile="Ds_Res.xml"
+			BinStyles="0" Sort="Asc" ExcelFile="Buff表.xlsx" IncludeSheet ="BUFF"/>
+			
+		<ResNode Name="Moba战斗经验金钱表" Meta="ResMobaBaseProfit" BinFile="MobaBaseProfit_Res.bytes" EntryMapFile="Ds_Res.xml"
+			BinStyles="0" Sort="Asc" ExcelFile="战斗数值表_场景.xlsx" IncludeSheet ="战场单位经验金钱"/>
+			
+		<ResNode Name="属性成长表" Meta="ResMobaAttrUp" BinFile="MobaAttrUp_Res.bytes" EntryMapFile="Ds_Res.xml"
+			BinStyles="0" Sort="Asc" ExcelFile="战斗数值表_场景.xlsx" IncludeSheet ="属性成长"/>
+			
+		<ResNode Name="场景经验金钱表" Meta="ResSceneDataDesc" BinFile="SceneDataDesc_Res.bytes" EntryMapFile="Ds_Res.xml"
+			BinStyles="0" Sort="Asc" ExcelFile="战斗数值表_场景.xlsx" IncludeSheet ="场景经验金钱"/>
+			
+		<ResNode Name="战斗场景配置表" Meta="ResMobaSceneDesc" BinFile="MobaSceneDesc_Res.bytes" EntryMapFile="Ds_Res.xml"
+			BinStyles="0" Sort="Asc" ExcelFile="战斗数值表_场景.xlsx" IncludeSheet ="战斗场景配置表"/>
+			
+		<ResNode Name="战场设置表" Meta="ResBattleSettingDesc" BinFile="BattleSettingDesc_Res.bytes" EntryMapFile="Ds_Res.xml"
+			BinStyles="0" Sort="Asc" ExcelFile="战斗数值表_场景.xlsx" IncludeSheet ="战场设置表"/>
+			
+		<ResNode Name="野怪收益比值" Meta="ResMonsterExpProfit" BinFile="MonsterExpProfit_Res.bytes" EntryMapFile="Ds_Res.xml"
+			BinStyles="0" Sort="Asc" ExcelFile="战斗数值表_通用.xlsx" IncludeSheet ="野怪收益比值"/>
+	
+		<ResNode Name="Moba战斗属性范围" Meta="ResMobaAttrRange" BinFile="MobaAttrRange_Res.bytes" EntryMapFile="Ds_Res.xml"
+			BinStyles="0" Sort="Asc" ExcelFile="战斗数值表_通用.xlsx" IncludeSheet ="属性区间"/>
+			
+		<ResNode Name="护甲相克" Meta="ResAttackArmorDesc" BinFile="AttackArmorDesc_Res.bytes" EntryMapFile="Ds_Res.xml"
+			BinStyles="0" Sort="Asc" ExcelFile="战斗数值表_通用.xlsx" IncludeSheet ="护甲相克"/>				
+			
+		<ResNode Name="伪随机概率" Meta="ResPseudoRandomDesc" BinFile="PseudoRandomDesc_Res.bytes" EntryMapFile="Ds_Res.xml"
+			BinStyles="0" Sort="Asc" ExcelFile="战斗数值表_通用.xlsx" IncludeSheet ="伪随机概率"/>		
+			
+		<ResNode Name="英雄升级经验" Meta="ResMobaLevelExp" BinFile="MobaLevelExp_Res.bytes" EntryMapFile="Ds_Res.xml"
+			BinStyles="0" Sort="Asc" ExcelFile="战斗数值表_通用.xlsx" IncludeSheet ="英雄升级经验"/>
+			
+		<ResNode Name="队伍附加数值表" Meta="ResTeamExtDataDesc" BinFile="TeamExtDataDesc_Res.bytes" EntryMapFile="Ds_Res.xml"
+			BinStyles="0" Sort="Asc" ExcelFile="战斗数值表_通用.xlsx" IncludeSheet ="队伍附加数值表"/>
+			
+		<ResNode Name="Moba战斗技能解锁表" Meta="ResMobaSkillUnLock" BinFile="MobaSkillUnLock_Res.bytes" EntryMapFile="Ds_Res.xml"
+			BinStyles="0" Sort="Asc" ExcelFile="Moba技能解锁表.xlsx" IncludeSheet ="解锁等级"/>
+			
+		<ResNode Name="Moba战斗技能推荐加点" Meta="ResMobaSkillRecAddPoint" BinFile="MobaSkillRecAddPoint_Res.bytes" EntryMapFile="Ds_Res.xml"
+			BinStyles="0" Sort="Asc" ExcelFile="Moba技能解锁表.xlsx" IncludeSheet ="推荐技能加点"/>
+			
+		<ResNode Name="法术场表" Meta="ResMobaSkillField" BinFile="ResMobaSkillField.bytes" EntryMapFile="Ds_Res.xml"
+			BinStyles="0" Sort="Asc" ExcelFile="SkillField法术场表.xlsx" IncludeSheet ="skillfield"/>
+			
+			
+		<ResNode Name="推荐建造表" Meta="ResTechRecDesc" BinFile="TechRecDesc_Res.bytes" EntryMapFile="Ds_Res.xml"
+			BinStyles="0" Sort="Asc" ExcelFile="科技新表.xlsx" IncludeSheet ="推荐建造表"/>
+			
+			
+        <ResNode Name="科技新表" Meta="ResTechMainDesc" BinFile="ResTechMainDesc.bytes" EntryMapFile="Ds_Res.xml"
+			BinStyles="0" Sort="Asc" ExcelFile="科技新表.xlsx" IncludeSheet ="科技表"/>
+            
+        <ResNode Name="科技团队科技效果" Meta="ResTechAttrUpEffect" BinFile="TechAttrUpEffect_Res.bytes" EntryMapFile="Ds_Res.xml"
+			BinStyles="0" Sort="Asc" ExcelFile="科技新表.xlsx" IncludeSheet ="攻防科技效果"/>
+			
+		<ResNode Name="基地升级科技效果" Meta="ResTechBaseEffect" BinFile="TechBaseEffect_Res.bytes" EntryMapFile="Ds_Res.xml"
+			BinStyles="0" Sort="Asc" ExcelFile="科技新表.xlsx" IncludeSheet ="基地升级科技效果"/>
+            
+			
+		<ResNode Name="物品道具表" Meta="ResGoodsItemDesc" BinFile="GoodsItemDesc_Res.bytes" EntryMapFile="Ds_Res.xml"
+			BinStyles="0" Sort="Asc" ExcelFile="道具表.xlsx" IncludeSheet ="物品道具表"/>
+	
+		<ResNode Name="装备效果表" Meta="ResEquipEffect" BinFile="EquipEffect_Res.bytes" EntryMapFile="Ds_Res.xml"
+			BinStyles="0" Sort="Asc" ExcelFile="道具表.xlsx" IncludeSheet ="装备效果表"/>
+			
+		<ResNode Name="音效表" Meta="ResAudioEffect" BinFile="ResAudioEffect.bytes" EntryMapFile="Ds_Res.xml"
+			BinStyles="0" Sort="Asc" ExcelFile="战场显示表.xlsx" IncludeSheet ="音效表"/>
+			
+		<ResNode Name="LOD特效表" Meta="ResLODEffectDesc" BinFile="LODEffectDesc_Res.bytes" EntryMapFile="Ds_Res.xml"
+			BinStyles="0" Sort="Asc" ExcelFile="战场显示表.xlsx" IncludeSheet ="LOD特效表"/>
+			
+		<ResNode Name="资源预设表" Meta="ResResourceCacheDesc" BinFile="ResourceCacheDesc_Res.bytes" EntryMapFile="Ds_Res.xml"
+			BinStyles="0" Sort="Asc" ExcelFile="战场显示表.xlsx" IncludeSheet ="资源预设表"/>
+			
+		<ResNode Name="LOD设置表" Meta="ResLODSetDesc" BinFile="LODSetDesc_Res.bytes" EntryMapFile="Ds_Res.xml"
+			BinStyles="0" Sort="Asc" ExcelFile="战场显示表.xlsx" IncludeSheet ="LOD设置表"/>
+			
+		<ResNode Name="LOD特效数目" Meta="ResLODEffectNumDesc" BinFile="LODEffectNumDesc_Res.bytes" EntryMapFile="Ds_Res.xml"
+			BinStyles="0" Sort="Asc" ExcelFile="战场显示表.xlsx" IncludeSheet ="LOD特效数目"/>
+			
+		<ResNode Name="建造AI配置表" Meta="ResBuildAIDesc" BinFile="BuildAIDesc_Res.bytes" EntryMapFile="Ds_Res.xml"
+			BinStyles="0" Sort="Asc" ExcelFile="人机AI配置表.xlsx" IncludeSheet ="建造AI配置"/>
+		<ResNode Name="建造AI条件表" Meta="ResBuildAICondDesc" BinFile="BuildAICondDesc_Res.bytes" EntryMapFile="Ds_Res.xml"
+			BinStyles="0" Sort="Asc" ExcelFile="人机AI配置表.xlsx" IncludeSheet ="建造AI条件"/>
+
+		<ResNode Name="团队AI配置表" Meta="ResTeamAIDesc" BinFile="TeamAIDesc_Res.bytes" EntryMapFile="Ds_Res.xml"
+			BinStyles="0" Sort="Asc" ExcelFile="人机AI配置表.xlsx" IncludeSheet ="团队AI配置表"/>
+		<ResNode Name="单位AI配置表" Meta="ResActorAIDesc" BinFile="ActorAIDesc_Res.bytes" EntryMapFile="Ds_Res.xml"
+			BinStyles="0" Sort="Asc" ExcelFile="人机AI配置表.xlsx" IncludeSheet ="单位AI配置表"/>
+		
+		<ResNode Name="遭遇战AI配置表" Meta="ResRencounterAIDesc" BinFile="RencounterAIDesc_Res.bytes" EntryMapFile="Ds_Res.xml"
+			BinStyles="0" Sort="Asc" ExcelFile="人机AI配置表.xlsx" IncludeSheet ="遭遇战AI配置表"/>
+			
+	  </CommNode>
+	  
+	  
+	  <CommNode Name="系统">
+        <ResNode Name="系统物品表" Meta="ResSystemItemDesc" BinFile="SystemItemDesc_Res.bytes" EntryMapFile="Ds_Res.xml"
+            BinStyles="0" Sort="Asc" ExcelFile="系统物品表.xlsx" IncludeSheet ="物品"/>
+			
+		<ResNode Name="日常任务" Meta="ResSystemTaskDesc" BinFile="SystemTaskDesc_Res.bytes" EntryMapFile="Ds_Res.xml"
+			BinStyles="0" Sort="Asc" ExcelFile="任务表.xlsx" IncludeSheet ="日常任务"/>
+			
+		<ResNode Name="每日随机任务" Meta="ResSystemRandomTaskDesc" BinFile="SystemRandomTaskDesc_Res.bytes" EntryMapFile="Ds_Res.xml"
+			BinStyles="0" Sort="Asc" ExcelFile="任务表.xlsx" IncludeSheet ="每日随机任务"/>
+			
+		<ResNode Name="成长指导表" Meta="ResSystemGrowthGuidanceDesc" BinFile="SystemGrowthGuidanceDesc_Res.bytes" EntryMapFile="Ds_Res.xml"
+			BinStyles="0" Sort="Asc" ExcelFile="任务表.xlsx" IncludeSheet ="成长指导"/>
+			
+			
+		<ResNode Name="英雄皮肤表" Meta="ResSystemHeroSkinDesc" BinFile="SystemHeroSkinDesc_Res.bytes" EntryMapFile="Ds_Res.xml"
+			BinStyles="0" Sort="Asc" ExcelFile="英雄皮肤表.xlsx" IncludeSheet ="基础信息"/>
+			
+		<ResNode Name="怪物皮肤" Meta="ResMobaMonsterSkinDesc" BinFile="MobaMonsterSkinDesc_Res.bytes" EntryMapFile="Ds_Res.xml"
+			BinStyles="0" Sort="Asc" ExcelFile="怪物皮肤表.xlsx" IncludeSheet ="怪物皮肤"/>
+			
+		<ResNode Name="随机名字表" Meta="ResSystemRandomPlayerNameDesc" BinFile="SystemRandomPlayerNameDesc_Res.bytes" EntryMapFile="Ds_Res.xml"
+			BinStyles="0" Sort="Asc" ExcelFile="名字国籍表.xlsx" IncludeSheet ="随机名字"/>
+			
+		<ResNode Name="国籍信息表" Meta="ResSystemPlayerNtionalityDesc" BinFile="SystemPlayerNtionalityDesc_Res.bytes" EntryMapFile="Ds_Res.xml"
+			BinStyles="0" Sort="Asc" ExcelFile="名字国籍表.xlsx" IncludeSheet ="国籍信息"/>
+		
+		<ResNode Name="新手引导表" Meta="ResGuideEventDesc" BinFile="GuideEventDesc_Res.bytes" EntryMapFile="Ds_Res.xml"
+			BinStyles="0" Sort="Asc" ExcelFile="新手引导表.xlsx" IncludeSheet ="新手引导事件表"/>
+			
+		<ResNode Name="新手引导任务表" Meta="ResGuideBattleTaskDesc" BinFile="GuideBattleTaskDesc_Res.bytes" EntryMapFile="Ds_Res.xml"
+			BinStyles="0" Sort="Asc" ExcelFile="新手引导表.xlsx" IncludeSheet ="新手引导任务表"/>
+			
+		<ResNode Name="新手剧情表" Meta="ResGuideStoryDesc" BinFile="GuideStoryDesc_Res.bytes" EntryMapFile="Ds_Res.xml"
+			BinStyles="0" Sort="Asc" ExcelFile="新手引导表.xlsx" IncludeSheet ="新手剧情表"/>
+			
+
+		<ResNode Name="玩家头像表" Meta="ResSystemPlayerIconDesc" BinFile="SystemPlayerIconDesc_Res.bytes" EntryMapFile="Ds_Res.xml"
+			BinStyles="0" Sort="Asc" ExcelFile="头像表.xlsx" IncludeSheet ="玩家头像"/>
+			
+		<ResNode Name="头像框表" Meta="ResSystemHeadFrameDesc" BinFile="SystemHeadFrameDesc_Res.bytes" EntryMapFile="Ds_Res.xml"
+			BinStyles="0" Sort="Asc" ExcelFile="头像表.xlsx" IncludeSheet ="头像框"/>
+			
+			
+		<ResNode Name="游戏全局参数表" Meta="ResGlobalSystemParametersDesc" BinFile="GlobalSystemParametersDesc_Res.bytes" EntryMapFile="Ds_Res.xml"
+			BinStyles="0" Sort="Asc" ExcelFile="系统数值表_英雄种族.xlsx" IncludeSheet ="游戏全局参数"/>
+			
+		<ResNode Name="英雄熟练度表" Meta="ResSystemMasteryLevelDesc" BinFile="SystemMasteryLevelDesc_Res.bytes" EntryMapFile="Ds_Res.xml"
+			BinStyles="0" Sort="Asc" ExcelFile="系统数值表_英雄种族.xlsx" IncludeSheet ="英雄熟练度"/>
+			
+		<ResNode Name="限免英雄" Meta="ResWeekFreeHeroDesc" BinFile="WeekFreeHeroDesc_Res.bytes" EntryMapFile="Ds_Res.xml"
+			BinStyles="0" Sort="Asc" ExcelFile="系统数值表_英雄种族.xlsx" IncludeSheet = "限免英雄表"/>
+        
+        <ResNode Name="种族解锁表" Meta="ResRaceUnlockDesc" BinFile="RaceUnlockDesc_Res.bytes" EntryMapFile="Ds_Res.xml"
+			BinStyles="0" Sort="Asc" ExcelFile="系统数值表_英雄种族.xlsx" IncludeSheet = "种族解锁表"/>
+			
+		<ResNode Name="召唤师等级经验表" Meta="ResSystemSummonerLevelDesc" BinFile="HeroLevelExpDesc_Res.bytes" EntryMapFile="Ds_Res.xml"
+			BinStyles="0" Sort="Asc" ExcelFile="系统数值表_英雄种族.xlsx" IncludeSheet ="召唤师等级经验"/>
+			
+		<ResNode Name="等级解锁系统" Meta="ResGuideUnLockSystemDesc" BinFile="GuideUnLockSystemDesc_Res.bytes" EntryMapFile="Ds_Res.xml"
+			BinStyles="0" Sort="Asc" ExcelFile="系统数值表_英雄种族.xlsx" IncludeSheet ="等级解锁系统"/>
+			
+		<ResNode Name="种族技能表" Meta="ResRaceSkillDesc" BinFile="RaceSkillDesc_Res.bytes" EntryMapFile="Ds_Res.xml"
+			BinStyles="0" Sort="Asc" ExcelFile="系统数值表_英雄种族.xlsx" IncludeSheet ="种族技能表"/>
+			
+		<ResNode Name="多版本配置表" Meta="ResMultiVersionDesc" BinFile="MultiVersionDesc.bytes" EntryMapFile="Ds_Res.xml"
+			BinStyles="0" Sort="Asc" ExcelFile="系统数值表_战斗系统.xlsx" IncludeSheet ="多版本配置表"/>
+			
+		<ResNode Name="对战地图分配表" Meta="ResSystemVsModeMapPool" BinFile="ResSystemVsModeMapPool.bytes" EntryMapFile="Ds_Res.xml"
+			BinStyles="0" Sort="Asc" ExcelFile="系统数值表_战斗系统.xlsx" IncludeSheet ="对战地图分配表"/>
+			
+		<ResNode Name="赛事开放时间表" Meta="ResSystemMatchOpenTimeDesc" BinFile="ResSystemMatchOpenTimeDesc.bytes" EntryMapFile="Ds_Res.xml"
+			BinStyles="0" Sort="Asc" ExcelFile="系统数值表_战斗系统.xlsx" IncludeSheet ="赛事开放时间表"/>
+			
+		<ResNode Name="竞技场等级经验" Meta="ResArenaLevelDesc" BinFile="ArenaLevelDesc_Res.bytes" EntryMapFile="Ds_Res.xml"
+			BinStyles="0" Sort="Asc" ExcelFile="系统数值表_战斗系统.xlsx" IncludeSheet="竞技场等级经验"/>
+			
+		<ResNode Name="竞技场解锁兵种显示表" Meta="ResArenaUnLockDogfaceDesc" BinFile="ArenaUnLockDogfaceDesc_Res.bytes" EntryMapFile="Ds_Res.xml"
+			BinStyles="0" Sort="Asc" ExcelFile="系统数值表_战斗系统.xlsx" IncludeSheet ="竞技场解锁兵种显示表"/>
+			
+		<ResNode Name="排位赛段位表" Meta="ResRankLevelDesc" BinFile="RankLevelDesc_Res.bytes" EntryMapFile="Ds_Res.xml"
+			BinStyles="0" Sort="Asc" ExcelFile="排位赛配置表.xlsx" IncludeSheet ="段位表"/>
+
+		<ResNode Name="匹配赛匹配池" Meta="ResMatchQueueDesc" BinFile="MatchQueueDesc_Res.bytes" EntryMapFile="Ds_Res.xml"
+			BinStyles="0" Sort="Asc" ExcelFile="排位赛配置表.xlsx" IncludeSheet ="匹配赛匹配池"/>
+
+		<ResNode Name="竞技场匹配池" Meta="ResArenaQueueDesc" BinFile="ArenaQueueDesc_Res.bytes" EntryMapFile="Ds_Res.xml"
+			BinStyles="0" Sort="Asc" ExcelFile="排位赛配置表.xlsx" IncludeSheet ="竞技场匹配池"/>
+
+		<ResNode Name="排位赛匹配池" Meta="ResRankQueueDesc" BinFile="RankQueueDesc_Res.bytes" EntryMapFile="Ds_Res.xml"
+			BinStyles="0" Sort="Asc" ExcelFile="排位赛配置表.xlsx" IncludeSheet ="排位赛匹配池"/>
+
+		<ResNode Name="排位赛赛季时间" Meta="ResRankSeasonDesc" BinFile="RankSeasonDesc_Res.bytes" EntryMapFile="Ds_Res.xml"
+			BinStyles="0" Sort="Asc" ExcelFile="排位赛配置表.xlsx" IncludeSheet ="排位赛赛季时间"/>
+
+		<ResNode Name="排位赛赛季奖励" Meta="ResRankAwardDesc" BinFile="RankAwardDesc_Res.bytes" EntryMapFile="Ds_Res.xml"
+			BinStyles="0" Sort="Asc" ExcelFile="排位赛配置表.xlsx" IncludeSheet ="排位赛赛季奖励"/>
+			
+		<ResNode Name="排位赛冲段奖励" Meta="ResRankSeasonAwardDesc" BinFile="RankSeasonAwardDesc_Res.bytes" EntryMapFile="Ds_Res.xml"
+			BinStyles="0" Sort="Asc" ExcelFile="排位赛配置表.xlsx" IncludeSheet ="赛季冲段奖励"/>
+			
+		<ResNode Name="排位赛积分规则" Meta="ResRankScoreRuleDesc" BinFile="RankScoreRuleDesc_Res.bytes" EntryMapFile="Ds_Res.xml"
+			BinStyles="0" Sort="Asc" ExcelFile="排位赛配置表.xlsx" IncludeSheet ="积分规则"/>
+			
+		<ResNode Name="温暖局匹配表" Meta="ResWarmGameQueueDesc" BinFile="WarmGameQueueDesc_Res.bytes" EntryMapFile="Ds_Res.xml"
+			BinStyles="0" Sort="Asc" ExcelFile="排位赛配置表.xlsx" IncludeSheet ="温暖局匹配表"/>
+			
+			
+		<ResNode Name="设备评分" Meta="ResDevicesScoreDesc" BinFile="DevicesScoreDesc_Res.bytes" EntryMapFile="Ds_Res.xml"
+			BinStyles="0" Sort="Asc" ExcelFile="机型配置表.xlsx" IncludeSheet ="设备评分"/>
+
+		<ResNode Name="队伍快捷信息" Meta="ResTeamMsgRspDesc" BinFile="TeamMsgRspDesc_Res.bytes" EntryMapFile="Ds_Res.xml"
+			BinStyles="0" Sort="Asc" ExcelFile="快捷信息配置表.xlsx" IncludeSheet ="队伍快捷信息"/>	
+
+		<ResNode Name="战斗快捷信息" Meta="ResBattleMsgRspDesc" BinFile="BattleMsgRspDesc_Res.bytes" EntryMapFile="Ds_Res.xml"
+			BinStyles="0" Sort="Asc" ExcelFile="快捷信息配置表.xlsx" IncludeSheet ="战斗快捷信息"/>	
+
+		<ResNode Name="选人界面快捷信息" Meta="ResChooseHeroMsgRspDesc" BinFile="ChooseHeroMsgRspDesc_Res.bytes" EntryMapFile="Ds_Res.xml"
+			BinStyles="0" Sort="Asc" ExcelFile="快捷信息配置表.xlsx" IncludeSheet ="选人界面快捷信息"/>
+
+			
+		<ResNode Name="系统礼包表" Meta="ResSystemPackageDesc" BinFile="SystemPackageDesc_Res.bytes" EntryMapFile="Ds_Res.xml"
+			BinStyles="0" Sort="Asc" ExcelFile="系统物品表.xlsx" IncludeSheet ="系统礼包表"/>	
+			
+		<ResNode Name="系统物品组表" Meta="ResSystemItemGroupDesc" BinFile="SystemItemGroupDesc_Res.bytes" EntryMapFile="Ds_Res.xml"
+			BinStyles="0" Sort="Asc" ExcelFile="系统物品表.xlsx" IncludeSheet ="物品组"/>	
+			
+		<ResNode Name="激活码礼包" Meta="ResActiveCodePackageDesc" BinFile="ActiveCodePackageDesc_Res.bytes" EntryMapFile="Ds_Res.xml"
+			BinStyles="0" Sort="Asc" ExcelFile="系统活动表.xlsx" IncludeSheet ="激活码礼包"/>	
+			
+		<ResNode Name="七日登录奖励" Meta="ResSystemSevenLandingBonusDesc" BinFile="SystemSevenLandingBonusDesc_Res.bytes" EntryMapFile="Ds_Res.xml"
+			BinStyles="0" Sort="Asc" ExcelFile="系统活动表.xlsx" IncludeSheet ="七日登录"/>
+			
+		<ResNode Name="月卡表" Meta="ResMonthCardDesc" BinFile="ResMonthCardDesc.bytes" EntryMapFile="Ds_Res.xml"
+			BinStyles="0" Sort="Asc" ExcelFile="系统活动表.xlsx" IncludeSheet ="月卡"/>
+
+		<ResNode Name="系统邮件模板" Meta="ResSystemMailDesc" BinFile="SystemMailDesc_Res.bytes" EntryMapFile="Ds_Res.xml"
+			BinStyles="0" Sort="Asc" ExcelFile="系统邮件.xlsx" IncludeSheet ="邮件模板"/>
+
+		<ResNode Name="成就配置表" Meta="ResAchievementDesc" BinFile="ResAchievementDesc.bytes" EntryMapFile="Ds_Res.xml"
+			BinStyles="0" Sort="Asc" ExcelFile="成就表.xlsx" IncludeSheet ="成就列表"/>
+
+		<ResNode Name="成就等级表" Meta="ResAchievementLevelDesc" BinFile="ResAchievementLevelDesc.bytes" EntryMapFile="Ds_Res.xml"
+			BinStyles="0" Sort="Asc" ExcelFile="成就表.xlsx" IncludeSheet ="成就等级"/>
+		
+			
+		<ResNode Name="技巧教学" Meta="ResGuideSkillDesc" BinFile="GuideSkillDesc_Res.bytes" EntryMapFile="Ds_Res.xml"
+			BinStyles="0" Sort="Asc" ExcelFile="新手引导表.xlsx" IncludeSheet = "技巧教学"/>
+
+	
+		<ResNode Name="战魂币购买" Meta="ResRechargeDesc" BinFile="RechargeDesc_Res.bytes" EntryMapFile="Ds_Res.xml"
+			BinStyles="0" Sort="Asc" ExcelFile="商城.xlsx" IncludeSheet="战魂币充值"/>
+
+		<ResNode Name="商城配置表" Meta="ResShopDesc" BinFile="ShopDesc_Res.bytes" EntryMapFile="Ds_Res.xml"
+			BinStyles="0" Sort="Asc" ExcelFile="商城.xlsx" IncludeSheet="商城配置表"/>
+			
+		<ResNode Name="录像筛选参数" Meta="ResHotReplays" BinFile="HotReplays_Res.bytes" EntryMapFile="Ds_Res.xml"
+			BinStyles="0" Sort="Asc" ExcelFile="推荐录像配置表.xlsx" IncludeSheet="录像筛选参数"/>
+		
+		<ResNode Name="抽奖全局表" Meta="ResLotteryDesc" BinFile="LotteryDesc_Res.bytes" EntryMapFile="Ds_Res.xml"
+			BinStyles="0" Sort="Asc" ExcelFile="系统抽奖表.xlsx" IncludeSheet="抽奖全局表"/>
+			
+		<ResNode Name="抽奖概率组表" Meta="ResLotteryProbDesc" BinFile="LotteryProbDesc_Res.bytes" EntryMapFile="Ds_Res.xml"
+			BinStyles="0" Sort="Asc" ExcelFile="系统抽奖表.xlsx" IncludeSheet="抽奖概率组表"/>
+			
+		<ResNode Name="抽奖奖品组表" Meta="ResLotteryGroupDesc" BinFile="LotteryGroupDesc_Res.bytes" EntryMapFile="Ds_Res.xml"
+			BinStyles="0" Sort="Asc" ExcelFile="系统抽奖表.xlsx" IncludeSheet="抽奖奖品组表"/>
+			
+		<ResNode Name="奖品道具表" Meta="ResLotteryItemDesc" BinFile="LotteryItemDesc_Res.bytes" EntryMapFile="Ds_Res.xml"
+			BinStyles="0" Sort="Asc" ExcelFile="系统抽奖表.xlsx" IncludeSheet="奖品道具表"/>
+		
+		<ResNode Name="活动表" Meta="ResActivityDesc" BinFile="ActivityDesc_Res.bytes" EntryMapFile="Ds_Res.xml"
+					BinStyles="0" Sort="Asc" ExcelFile="活动表.xlsx" IncludeSheet="活动配置"/>
+		
+		<ResNode Name="活动任务表" Meta="ResActivityQuestDesc" BinFile="ActivityQuestDesc_Res.bytes" EntryMapFile="Ds_Res.xml"
+					BinStyles="0" Sort="Asc" ExcelFile="活动表.xlsx" IncludeSheet="活动任务"/>
+		
+		<ResNode Name="活动计数器表" Meta="ResActivityCounterDesc" BinFile="ActivityCounterDesc_Res.bytes" EntryMapFile="Ds_Res.xml"
+					BinStyles="0" Sort="Asc" ExcelFile="活动表.xlsx" IncludeSheet="活动计数器"/>
+		
+		<ResNode Name="活动兑换表" Meta="ResActivityExchangeDesc" BinFile="ActivityExchangeDesc_Res.bytes" EntryMapFile="Ds_Res.xml"
+					BinStyles="0" Sort="Asc" ExcelFile="活动表.xlsx" IncludeSheet="活动兑换"/>		
+
+		<ResNode Name="英雄战旗镶嵌表" Meta="ResHeroRunePageDesc" BinFile="HeroRunePageDesc_Res.bytes" EntryMapFile="Ds_Res.xml"
+					BinStyles="0" Sort="Asc" ExcelFile="战旗信息表.xlsx" IncludeSheet="英雄战旗镶嵌"/>
+
+		<ResNode Name="种族战旗镶嵌表" Meta="ResRaceRunePageDesc" BinFile="RaceRunePageDesc_Res.bytes" EntryMapFile="Ds_Res.xml"
+					BinStyles="0" Sort="Asc" ExcelFile="战旗信息表.xlsx" IncludeSheet="种族战旗镶嵌"/>
+
+		<ResNode Name="种族战旗属性表" Meta="ResRaceRuneDesc" BinFile="RaceRuneDesc_Res.bytes" EntryMapFile="Ds_Res.xml"
+					BinStyles="0" Sort="Asc" ExcelFile="战旗信息表.xlsx" IncludeSheet="种族战旗属性"/>
+
+		<ResNode Name="英雄战旗属性表" Meta="ResHeroRuneDesc" BinFile="HeroRuneDesc_Res.bytes" EntryMapFile="Ds_Res.xml"
+					BinStyles="0" Sort="Asc" ExcelFile="战旗信息表.xlsx" IncludeSheet="英雄战旗属性"/>
+		
+		<ResNode Name="英雄战旗推荐表" Meta="ResHeroRuneRecommendDesc" BinFile="HeroRuneRecommendDesc_Res.bytes" EntryMapFile="Ds_Res.xml"
+					BinStyles="0" Sort="Asc" ExcelFile="战旗信息表.xlsx" IncludeSheet="英雄战旗推荐"/>
+
+		<ResNode Name="种族战旗推荐表" Meta="ResRaceRuneRecommendDesc" BinFile="RaceRuneRecommendDesc_Res.bytes" EntryMapFile="Ds_Res.xml"
+					BinStyles="0" Sort="Asc" ExcelFile="战旗信息表.xlsx" IncludeSheet="种族战旗推荐"/>
+
+		<ResNode Name="英雄战旗页开启表" Meta="ResHeroRunePageUnlock" BinFile="HeroRunePageUnlock_Res.bytes" EntryMapFile="Ds_Res.xml"
+					BinStyles="0" Sort="Asc" ExcelFile="战旗信息表.xlsx" IncludeSheet="英雄战旗页开启"/>
+		
+		<ResNode Name="种族战旗页开启表" Meta="ResRaceRunePageUnlock" BinFile="RaceRunePageUnlock_Res.bytes" EntryMapFile="Ds_Res.xml"
+					BinStyles="0" Sort="Asc" ExcelFile="战旗信息表.xlsx" IncludeSheet="种族战旗页开启"/>
+					
+		<ResNode Name="充值返还名单" Meta="ResChargeBack" BinFile="ChargeBack_Res.bytes" EntryMapFile="Ds_Res.xml"
+					BinStyles="0" Sort="Asc" ExcelFile="充值返还名单.xlsx" IncludeSheet="名单"/>
+					
+		<ResNode Name="大厅宝箱表" Meta="ResHallBox" BinFile="HallBox_Res.bytes" EntryMapFile="Ds_Res.xml"
+					BinStyles="0" Sort="Asc" ExcelFile="大厅宝箱.xlsx" IncludeSheet="宝箱"/>
+		
+      </CommNode>
+	  
+	  <CommNode Name="显示表">
+		<ResNode Name="英雄显示表" Meta="ResHeroDisplayDesc" BinFile="HeroDisplayDesc_Res.bytes" EntryMapFile="Ds_Res.xml"
+            BinStyles="0" Sort="Asc" ExcelFile="英雄表.xlsx" IncludeSheet ="英雄显示表"/>
+		
+		<ResNode Name="Moba怪物显示表" Meta="ResMonsterDisplayDesc" BinFile="MonsterDisplayDesc_Res.bytes" EntryMapFile="Ds_Res.xml"
+			BinStyles="0" Sort="Asc" ExcelFile="Moba怪物表.xlsx" IncludeSheet="Moba怪物显示表"/>
+		
+		<ResNode Name="日常任务显示表" Meta="ResSystemTaskDisplayDesc" BinFile="SystemTaskDisplayDesc_Res.bytes" EntryMapFile="Ds_Res.xml"
+            BinStyles="0" Sort="Asc" ExcelFile="任务表.xlsx" IncludeSheet ="日常任务显示表"/>
+
+		<ResNode Name="系统物品显示表" Meta="ResGoodsDisplayDesc" BinFile="GoodsDisplayDesc_Res.bytes" EntryMapFile="Ds_Res.xml"
+            BinStyles="0" Sort="Asc" ExcelFile="系统物品表.xlsx" IncludeSheet ="系统物品显示表"/>
+			
+		<ResNode Name="英雄皮肤显示表" Meta="ResSystemHeroSkinDisplayDesc" BinFile="SystemHeroSkinDisplayDesc_Res.bytes" EntryMapFile="Ds_Res.xml"
+            BinStyles="0" Sort="Asc" ExcelFile="英雄皮肤表.xlsx" IncludeSheet ="英雄皮肤显示表"/>
+			
+		<ResNode Name="技能显示表" Meta="ResSkillDisplayDesc" BinFile="SkillDisplayDesc_Res.bytes" EntryMapFile="Ds_Res.xml"
+			BinStyles="0" Sort="Asc" ExcelFile="技能表.xlsx" IncludeSheet ="技能显示表"/>
+				
+		<ResNode Name="BUFF显示表" Meta="ResBuffDisplayDesc" BinFile="BuffDisplayDesc_Res.bytes" EntryMapFile="Ds_Res.xml"
+			BinStyles="0" Sort="Asc" ExcelFile="BUFF表.xlsx" IncludeSheet ="BUFF显示表"/>
+	  </CommNode>
+		
+    </ConvTree>
+</ConvList>
+
