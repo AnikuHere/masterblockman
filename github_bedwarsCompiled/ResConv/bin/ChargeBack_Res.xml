@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<ResChargeBack_Tab>
+<TResHeadAll version="5">
+    <resHead type="TResHead">
+        <Magic>1397052237 </Magic>
+        <Version>6 </Version>
+        <Unit>268 </Unit>
+        <Count>1 </Count>
+        <MetalibHash>531d5b4a397ad5b3c0fbfb5cc8059e55</MetalibHash>
+        <ResVersion>0 </ResVersion>
+        <CreateTime>2023-04-19 20:42:38</CreateTime>
+        <ResEncording>UTF-8</ResEncording>
+        <ContentHash>bf993c09c1d07c94fc9442fad7464175</ContentHash>
+    </resHead>
+    <resHeadExt type="TResHeadExt">
+        <DataOffset>136 </DataOffset>
+    </resHeadExt>
+</TResHeadAll>
+<ResChargeBack version="1">
+    <ResID>1 </ResID>
+    <Username>test@ad.netease.win.163.com</Username>
+    <Charge>100 </Charge>
+    <Back>150 </Back>
+</ResChargeBack>
+</ResChargeBack_Tab>

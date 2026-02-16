@@ -1,0 +1,2556 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<ResGuideStoryDesc_Tab>
+<TResHeadAll version="5">
+    <resHead type="TResHead">
+        <Magic>1397052237 </Magic>
+        <Version>6 </Version>
+        <Unit>3007 </Unit>
+        <Count>59 </Count>
+        <MetalibHash>531d5b4a397ad5b3c0fbfb5cc8059e55</MetalibHash>
+        <ResVersion>0 </ResVersion>
+        <CreateTime>2023-04-19 20:42:33</CreateTime>
+        <ResEncording>UTF-8</ResEncording>
+        <ContentHash>8b6962866b7ce9d3376698fb67e8e0b9</ContentHash>
+    </resHead>
+    <resHeadExt type="TResHeadExt">
+        <DataOffset>136 </DataOffset>
+    </resHeadExt>
+</TResHeadAll>
+<ResGuideStoryDesc version="1">
+    <ResID>10101 </ResID>
+    <GroupID>101 </GroupID>
+    <StoryName_SCN></StoryName_SCN>
+    <StoryName_FCN></StoryName_FCN>
+    <StoryName_EN></StoryName_EN>
+    <StoryType>0 </StoryType>
+    <TeamType>2 </TeamType>
+    <SpawnGroupID>-1 </SpawnGroupID>
+    <ActorResID>10000000 </ActorResID>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN>好像是&lt;color=#5aff4b&gt;精灵族&lt;/color&gt;的人。发生了什么事？</StoryDesc_SCN>
+        <StoryDesc_FCN>好像是&lt;color=#5aff4b&gt;精灵族&lt;/color&gt;的人。发生了什么事？</StoryDesc_FCN>
+        <StoryDesc_EN>Seems to be an Elf. What happened?</StoryDesc_EN>
+        <DuraTime>3000 </DuraTime>
+    </TalkPages>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN></StoryDesc_SCN>
+        <StoryDesc_FCN></StoryDesc_FCN>
+        <StoryDesc_EN></StoryDesc_EN>
+        <DuraTime>0 </DuraTime>
+    </TalkPages>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN></StoryDesc_SCN>
+        <StoryDesc_FCN></StoryDesc_FCN>
+        <StoryDesc_EN></StoryDesc_EN>
+        <DuraTime>0 </DuraTime>
+    </TalkPages>
+    <StoryAudio>audio/system/guide/newguide/64</StoryAudio>
+    <ShortestTime>1000 </ShortestTime>
+    <NextID>10102 </NextID>
+    <StoryBreakType>0 </StoryBreakType>
+    <StorryBreakParam>0 </StorryBreakParam>
+    <ActorHeadIcon>prefab/character/human/hum_hero001/hum_hero001_H_pre</ActorHeadIcon>
+    <ActorName_SCN>安东尼</ActorName_SCN>
+    <ActorName_FCN>安东尼</ActorName_FCN>
+    <ActorName_EN>Anthony</ActorName_EN>
+    <ActorPosX>-2 </ActorPosX>
+    <ActorPosY>-398 </ActorPosY>
+    <ActorPosZ>303 </ActorPosZ>
+    <ActorScale>100 </ActorScale>
+    <ActorRotateY>180 </ActorRotateY>
+</ResGuideStoryDesc>
+<ResGuideStoryDesc version="1">
+    <ResID>10102 </ResID>
+    <GroupID>101 </GroupID>
+    <StoryName_SCN></StoryName_SCN>
+    <StoryName_FCN></StoryName_FCN>
+    <StoryName_EN></StoryName_EN>
+    <StoryType>0 </StoryType>
+    <TeamType>4 </TeamType>
+    <SpawnGroupID>0 </SpawnGroupID>
+    <ActorResID>20000741 </ActorResID>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN>呃…我们追踪&lt;color=#5aff4b&gt;兽人部队&lt;/color&gt;时遭到了伏击…艾米大人还在前方跟敌人战斗…请…请快去支援！</StoryDesc_SCN>
+        <StoryDesc_FCN>呃…我们追踪&lt;color=#5aff4b&gt;兽人部队&lt;/color&gt;时遭到了伏击…艾米大人还在前方跟敌人战斗…请…请快去支援！</StoryDesc_FCN>
+        <StoryDesc_EN>We..We were ambushed while tracking down the Orc army. Lady Aimee is still fighting up ahead. Please help her!</StoryDesc_EN>
+        <DuraTime>9000 </DuraTime>
+    </TalkPages>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN></StoryDesc_SCN>
+        <StoryDesc_FCN></StoryDesc_FCN>
+        <StoryDesc_EN></StoryDesc_EN>
+        <DuraTime>0 </DuraTime>
+    </TalkPages>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN></StoryDesc_SCN>
+        <StoryDesc_FCN></StoryDesc_FCN>
+        <StoryDesc_EN></StoryDesc_EN>
+        <DuraTime>0 </DuraTime>
+    </TalkPages>
+    <StoryAudio>audio/system/guide/newguide/41</StoryAudio>
+    <ShortestTime>1000 </ShortestTime>
+    <NextID>10103 </NextID>
+    <StoryBreakType>0 </StoryBreakType>
+    <StorryBreakParam>0 </StorryBreakParam>
+    <ActorHeadIcon>prefab/character/elf/elf_army02/elf_army02_H_pre</ActorHeadIcon>
+    <ActorName_SCN>精灵弓手</ActorName_SCN>
+    <ActorName_FCN>精灵弓手</ActorName_FCN>
+    <ActorName_EN>Elf Archer</ActorName_EN>
+    <ActorPosX>11 </ActorPosX>
+    <ActorPosY>-361 </ActorPosY>
+    <ActorPosZ>377 </ActorPosZ>
+    <ActorScale>120 </ActorScale>
+    <ActorRotateY>180 </ActorRotateY>
+</ResGuideStoryDesc>
+<ResGuideStoryDesc version="1">
+    <ResID>10103 </ResID>
+    <GroupID>101 </GroupID>
+    <StoryName_SCN></StoryName_SCN>
+    <StoryName_FCN></StoryName_FCN>
+    <StoryName_EN></StoryName_EN>
+    <StoryType>0 </StoryType>
+    <TeamType>2 </TeamType>
+    <SpawnGroupID>-1 </SpawnGroupID>
+    <ActorResID>10000000 </ActorResID>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN>事态严重，我们马上&lt;color=#5aff4b&gt;前去支援&lt;/color&gt;！</StoryDesc_SCN>
+        <StoryDesc_FCN>事态严重，我们马上&lt;color=#5aff4b&gt;前去支援&lt;/color&gt;！</StoryDesc_FCN>
+        <StoryDesc_EN>This is bad, we have to help right away!</StoryDesc_EN>
+        <DuraTime>3000 </DuraTime>
+    </TalkPages>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN></StoryDesc_SCN>
+        <StoryDesc_FCN></StoryDesc_FCN>
+        <StoryDesc_EN></StoryDesc_EN>
+        <DuraTime>0 </DuraTime>
+    </TalkPages>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN></StoryDesc_SCN>
+        <StoryDesc_FCN></StoryDesc_FCN>
+        <StoryDesc_EN></StoryDesc_EN>
+        <DuraTime>0 </DuraTime>
+    </TalkPages>
+    <StoryAudio>audio/system/guide/newguide/2</StoryAudio>
+    <ShortestTime>1000 </ShortestTime>
+    <NextID>0 </NextID>
+    <StoryBreakType>0 </StoryBreakType>
+    <StorryBreakParam>0 </StorryBreakParam>
+    <ActorHeadIcon>prefab/character/human/hum_hero001/hum_hero001_H_pre</ActorHeadIcon>
+    <ActorName_SCN>安东尼</ActorName_SCN>
+    <ActorName_FCN>安东尼</ActorName_FCN>
+    <ActorName_EN>Anthony</ActorName_EN>
+    <ActorPosX>-2 </ActorPosX>
+    <ActorPosY>-398 </ActorPosY>
+    <ActorPosZ>303 </ActorPosZ>
+    <ActorScale>100 </ActorScale>
+    <ActorRotateY>180 </ActorRotateY>
+</ResGuideStoryDesc>
+<ResGuideStoryDesc version="1">
+    <ResID>10201 </ResID>
+    <GroupID>102 </GroupID>
+    <StoryName_SCN></StoryName_SCN>
+    <StoryName_FCN></StoryName_FCN>
+    <StoryName_EN></StoryName_EN>
+    <StoryType>0 </StoryType>
+    <TeamType>4 </TeamType>
+    <SpawnGroupID>-1 </SpawnGroupID>
+    <ActorResID>10000300 </ActorResID>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN>感谢你的及时支援！我们追踪一小股兽人来到这里，没想到反而遭到了兽人的伏击。</StoryDesc_SCN>
+        <StoryDesc_FCN>感谢你的及时支援！我们追踪一小股兽人来到这里，没想到反而遭到了兽人的伏击。</StoryDesc_FCN>
+        <StoryDesc_EN>Thank you for your help! We tracked down a small group of Orcs to this place, but we were then ambushed.</StoryDesc_EN>
+        <DuraTime>7000 </DuraTime>
+    </TalkPages>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN></StoryDesc_SCN>
+        <StoryDesc_FCN></StoryDesc_FCN>
+        <StoryDesc_EN></StoryDesc_EN>
+        <DuraTime>0 </DuraTime>
+    </TalkPages>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN></StoryDesc_SCN>
+        <StoryDesc_FCN></StoryDesc_FCN>
+        <StoryDesc_EN></StoryDesc_EN>
+        <DuraTime>0 </DuraTime>
+    </TalkPages>
+    <StoryAudio>audio/system/guide/newguide/42_01</StoryAudio>
+    <ShortestTime>1000 </ShortestTime>
+    <NextID>10202 </NextID>
+    <StoryBreakType>0 </StoryBreakType>
+    <StorryBreakParam>0 </StorryBreakParam>
+    <ActorHeadIcon>prefab/character/elf/elf_hero002/elf_hero002/elf_hero002_H_pre</ActorHeadIcon>
+    <ActorName_SCN>艾米</ActorName_SCN>
+    <ActorName_FCN>艾米</ActorName_FCN>
+    <ActorName_EN>Aimee</ActorName_EN>
+    <ActorPosX>6 </ActorPosX>
+    <ActorPosY>-339 </ActorPosY>
+    <ActorPosZ>296 </ActorPosZ>
+    <ActorScale>100 </ActorScale>
+    <ActorRotateY>180 </ActorRotateY>
+</ResGuideStoryDesc>
+<ResGuideStoryDesc version="1">
+    <ResID>10202 </ResID>
+    <GroupID>102 </GroupID>
+    <StoryName_SCN></StoryName_SCN>
+    <StoryName_FCN></StoryName_FCN>
+    <StoryName_EN></StoryName_EN>
+    <StoryType>0 </StoryType>
+    <TeamType>4 </TeamType>
+    <SpawnGroupID>-1 </SpawnGroupID>
+    <ActorResID>10000300 </ActorResID>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN>这些兽人似乎在这片&lt;color=#5aff4b&gt;树林深处&lt;/color&gt;进行某种&lt;color=#5aff4b&gt;仪式&lt;/color&gt;。</StoryDesc_SCN>
+        <StoryDesc_FCN>这些兽人似乎在这片&lt;color=#5aff4b&gt;树林深处&lt;/color&gt;进行某种&lt;color=#5aff4b&gt;仪式&lt;/color&gt;。</StoryDesc_FCN>
+        <StoryDesc_EN>These Orcs seem to be carrying out some type of ritual deep within the forest.</StoryDesc_EN>
+        <DuraTime>3500 </DuraTime>
+    </TalkPages>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN></StoryDesc_SCN>
+        <StoryDesc_FCN></StoryDesc_FCN>
+        <StoryDesc_EN></StoryDesc_EN>
+        <DuraTime>0 </DuraTime>
+    </TalkPages>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN></StoryDesc_SCN>
+        <StoryDesc_FCN></StoryDesc_FCN>
+        <StoryDesc_EN></StoryDesc_EN>
+        <DuraTime>0 </DuraTime>
+    </TalkPages>
+    <StoryAudio>audio/system/guide/newguide/42_02</StoryAudio>
+    <ShortestTime>1000 </ShortestTime>
+    <NextID>10203 </NextID>
+    <StoryBreakType>0 </StoryBreakType>
+    <StorryBreakParam>0 </StorryBreakParam>
+    <ActorHeadIcon>prefab/character/elf/elf_hero002/elf_hero002/elf_hero002_H_pre</ActorHeadIcon>
+    <ActorName_SCN>艾米</ActorName_SCN>
+    <ActorName_FCN>艾米</ActorName_FCN>
+    <ActorName_EN>Aimee</ActorName_EN>
+    <ActorPosX>6 </ActorPosX>
+    <ActorPosY>-339 </ActorPosY>
+    <ActorPosZ>296 </ActorPosZ>
+    <ActorScale>100 </ActorScale>
+    <ActorRotateY>180 </ActorRotateY>
+</ResGuideStoryDesc>
+<ResGuideStoryDesc version="1">
+    <ResID>10203 </ResID>
+    <GroupID>102 </GroupID>
+    <StoryName_SCN></StoryName_SCN>
+    <StoryName_FCN></StoryName_FCN>
+    <StoryName_EN></StoryName_EN>
+    <StoryType>0 </StoryType>
+    <TeamType>4 </TeamType>
+    <SpawnGroupID>-1 </SpawnGroupID>
+    <ActorResID>10000300 </ActorResID>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN>我要赶紧回去报告这个消息！</StoryDesc_SCN>
+        <StoryDesc_FCN>我要赶紧回去报告这个消息！</StoryDesc_FCN>
+        <StoryDesc_EN>My people must be warned!</StoryDesc_EN>
+        <DuraTime>2500 </DuraTime>
+    </TalkPages>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN></StoryDesc_SCN>
+        <StoryDesc_FCN></StoryDesc_FCN>
+        <StoryDesc_EN></StoryDesc_EN>
+        <DuraTime>0 </DuraTime>
+    </TalkPages>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN></StoryDesc_SCN>
+        <StoryDesc_FCN></StoryDesc_FCN>
+        <StoryDesc_EN></StoryDesc_EN>
+        <DuraTime>0 </DuraTime>
+    </TalkPages>
+    <StoryAudio>audio/system/guide/newguide/42_03</StoryAudio>
+    <ShortestTime>1000 </ShortestTime>
+    <NextID>10204 </NextID>
+    <StoryBreakType>0 </StoryBreakType>
+    <StorryBreakParam>0 </StorryBreakParam>
+    <ActorHeadIcon>prefab/character/elf/elf_hero002/elf_hero002/elf_hero002_H_pre</ActorHeadIcon>
+    <ActorName_SCN>艾米</ActorName_SCN>
+    <ActorName_FCN>艾米</ActorName_FCN>
+    <ActorName_EN>Aimee</ActorName_EN>
+    <ActorPosX>6 </ActorPosX>
+    <ActorPosY>-339 </ActorPosY>
+    <ActorPosZ>296 </ActorPosZ>
+    <ActorScale>100 </ActorScale>
+    <ActorRotateY>180 </ActorRotateY>
+</ResGuideStoryDesc>
+<ResGuideStoryDesc version="1">
+    <ResID>10204 </ResID>
+    <GroupID>102 </GroupID>
+    <StoryName_SCN></StoryName_SCN>
+    <StoryName_FCN></StoryName_FCN>
+    <StoryName_EN></StoryName_EN>
+    <StoryType>0 </StoryType>
+    <TeamType>2 </TeamType>
+    <SpawnGroupID>-1 </SpawnGroupID>
+    <ActorResID>10000000 </ActorResID>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN>看来兽人在这里的活动，都跟这个仪式有关。我们&lt;color=#5aff4b&gt;去前方探查&lt;/color&gt;一下。</StoryDesc_SCN>
+        <StoryDesc_FCN>看来兽人在这里的活动，都跟这个仪式有关。我们&lt;color=#5aff4b&gt;去前方探查&lt;/color&gt;一下。</StoryDesc_FCN>
+        <StoryDesc_EN>The Orc activities are obviously related to this ritual. Let’s go scout up ahead.</StoryDesc_EN>
+        <DuraTime>5000 </DuraTime>
+    </TalkPages>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN></StoryDesc_SCN>
+        <StoryDesc_FCN></StoryDesc_FCN>
+        <StoryDesc_EN></StoryDesc_EN>
+        <DuraTime>0 </DuraTime>
+    </TalkPages>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN></StoryDesc_SCN>
+        <StoryDesc_FCN></StoryDesc_FCN>
+        <StoryDesc_EN></StoryDesc_EN>
+        <DuraTime>0 </DuraTime>
+    </TalkPages>
+    <StoryAudio>audio/system/guide/newguide/71</StoryAudio>
+    <ShortestTime>1000 </ShortestTime>
+    <NextID>0 </NextID>
+    <StoryBreakType>0 </StoryBreakType>
+    <StorryBreakParam>0 </StorryBreakParam>
+    <ActorHeadIcon>prefab/character/human/hum_hero001/hum_hero001_H_pre</ActorHeadIcon>
+    <ActorName_SCN>安东尼</ActorName_SCN>
+    <ActorName_FCN>安东尼</ActorName_FCN>
+    <ActorName_EN>Anthony</ActorName_EN>
+    <ActorPosX>-2 </ActorPosX>
+    <ActorPosY>-398 </ActorPosY>
+    <ActorPosZ>303 </ActorPosZ>
+    <ActorScale>100 </ActorScale>
+    <ActorRotateY>180 </ActorRotateY>
+</ResGuideStoryDesc>
+<ResGuideStoryDesc version="1">
+    <ResID>10301 </ResID>
+    <GroupID>103 </GroupID>
+    <StoryName_SCN></StoryName_SCN>
+    <StoryName_FCN></StoryName_FCN>
+    <StoryName_EN></StoryName_EN>
+    <StoryType>0 </StoryType>
+    <TeamType>2 </TeamType>
+    <SpawnGroupID>-1 </SpawnGroupID>
+    <ActorResID>10000000 </ActorResID>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN>这是……某种空间魔法的咒术…奇怪，这并不像兽人所掌握的魔法。</StoryDesc_SCN>
+        <StoryDesc_FCN>这是……某种空间魔法的咒术…奇怪，这并不像兽人所掌握的魔法。</StoryDesc_FCN>
+        <StoryDesc_EN>This is... some kind of spatial magic. But how? It&apos;s unlike anything Orcs can pull off.</StoryDesc_EN>
+        <DuraTime>8500 </DuraTime>
+    </TalkPages>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN></StoryDesc_SCN>
+        <StoryDesc_FCN></StoryDesc_FCN>
+        <StoryDesc_EN></StoryDesc_EN>
+        <DuraTime>0 </DuraTime>
+    </TalkPages>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN></StoryDesc_SCN>
+        <StoryDesc_FCN></StoryDesc_FCN>
+        <StoryDesc_EN></StoryDesc_EN>
+        <DuraTime>0 </DuraTime>
+    </TalkPages>
+    <StoryAudio>audio/system/guide/newguide/4</StoryAudio>
+    <ShortestTime>1000 </ShortestTime>
+    <NextID>10302 </NextID>
+    <StoryBreakType>0 </StoryBreakType>
+    <StorryBreakParam>0 </StorryBreakParam>
+    <ActorHeadIcon>prefab/character/human/hum_hero001/hum_hero001_H_pre</ActorHeadIcon>
+    <ActorName_SCN>安东尼</ActorName_SCN>
+    <ActorName_FCN>安东尼</ActorName_FCN>
+    <ActorName_EN>Anthony</ActorName_EN>
+    <ActorPosX>-2 </ActorPosX>
+    <ActorPosY>-398 </ActorPosY>
+    <ActorPosZ>303 </ActorPosZ>
+    <ActorScale>100 </ActorScale>
+    <ActorRotateY>180 </ActorRotateY>
+</ResGuideStoryDesc>
+<ResGuideStoryDesc version="1">
+    <ResID>10302 </ResID>
+    <GroupID>103 </GroupID>
+    <StoryName_SCN></StoryName_SCN>
+    <StoryName_FCN></StoryName_FCN>
+    <StoryName_EN></StoryName_EN>
+    <StoryType>0 </StoryType>
+    <TeamType>2 </TeamType>
+    <SpawnGroupID>-1 </SpawnGroupID>
+    <ActorResID>10000000 </ActorResID>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN>这些魔能水晶正在为整个咒术充能。&lt;color=#5aff4b&gt;摧毁魔能水晶&lt;/color&gt;就能切断这个咒术的魔力来源。</StoryDesc_SCN>
+        <StoryDesc_FCN>这些魔能水晶正在为整个咒术充能。&lt;color=#5aff4b&gt;摧毁魔能水晶&lt;/color&gt;就能切断这个咒术的魔力来源。</StoryDesc_FCN>
+        <StoryDesc_EN>These magic crystals are powering the spell. All we have to do is destroy the crystal and the spell will be broken.</StoryDesc_EN>
+        <DuraTime>8000 </DuraTime>
+    </TalkPages>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN></StoryDesc_SCN>
+        <StoryDesc_FCN></StoryDesc_FCN>
+        <StoryDesc_EN></StoryDesc_EN>
+        <DuraTime>0 </DuraTime>
+    </TalkPages>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN></StoryDesc_SCN>
+        <StoryDesc_FCN></StoryDesc_FCN>
+        <StoryDesc_EN></StoryDesc_EN>
+        <DuraTime>0 </DuraTime>
+    </TalkPages>
+    <StoryAudio>audio/system/guide/newguide/5</StoryAudio>
+    <ShortestTime>1000 </ShortestTime>
+    <NextID>0 </NextID>
+    <StoryBreakType>0 </StoryBreakType>
+    <StorryBreakParam>0 </StorryBreakParam>
+    <ActorHeadIcon>prefab/character/human/hum_hero001/hum_hero001_H_pre</ActorHeadIcon>
+    <ActorName_SCN>安东尼</ActorName_SCN>
+    <ActorName_FCN>安东尼</ActorName_FCN>
+    <ActorName_EN>Anthony</ActorName_EN>
+    <ActorPosX>-2 </ActorPosX>
+    <ActorPosY>-398 </ActorPosY>
+    <ActorPosZ>303 </ActorPosZ>
+    <ActorScale>100 </ActorScale>
+    <ActorRotateY>180 </ActorRotateY>
+</ResGuideStoryDesc>
+<ResGuideStoryDesc version="1">
+    <ResID>10401 </ResID>
+    <GroupID>104 </GroupID>
+    <StoryName_SCN></StoryName_SCN>
+    <StoryName_FCN></StoryName_FCN>
+    <StoryName_EN></StoryName_EN>
+    <StoryType>0 </StoryType>
+    <TeamType>2 </TeamType>
+    <SpawnGroupID>-1 </SpawnGroupID>
+    <ActorResID>10000000 </ActorResID>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN>这里的魔力充沛，魔能水晶能不断吸取周围的魔力修复自身。</StoryDesc_SCN>
+        <StoryDesc_FCN>这里的魔力充沛，魔能水晶能不断吸取周围的魔力修复自身。</StoryDesc_FCN>
+        <StoryDesc_EN>There is plenty of magic here, and the magic crystals can absorb it to repair themselves.</StoryDesc_EN>
+        <DuraTime>5000 </DuraTime>
+    </TalkPages>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN></StoryDesc_SCN>
+        <StoryDesc_FCN></StoryDesc_FCN>
+        <StoryDesc_EN></StoryDesc_EN>
+        <DuraTime>0 </DuraTime>
+    </TalkPages>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN></StoryDesc_SCN>
+        <StoryDesc_FCN></StoryDesc_FCN>
+        <StoryDesc_EN></StoryDesc_EN>
+        <DuraTime>0 </DuraTime>
+    </TalkPages>
+    <StoryAudio>audio/system/guide/newguide/6_01</StoryAudio>
+    <ShortestTime>1000 </ShortestTime>
+    <NextID>10402 </NextID>
+    <StoryBreakType>0 </StoryBreakType>
+    <StorryBreakParam>0 </StorryBreakParam>
+    <ActorHeadIcon>prefab/character/human/hum_hero001/hum_hero001_H_pre</ActorHeadIcon>
+    <ActorName_SCN>安东尼</ActorName_SCN>
+    <ActorName_FCN>安东尼</ActorName_FCN>
+    <ActorName_EN>Anthony</ActorName_EN>
+    <ActorPosX>-2 </ActorPosX>
+    <ActorPosY>-398 </ActorPosY>
+    <ActorPosZ>303 </ActorPosZ>
+    <ActorScale>100 </ActorScale>
+    <ActorRotateY>180 </ActorRotateY>
+</ResGuideStoryDesc>
+<ResGuideStoryDesc version="1">
+    <ResID>10402 </ResID>
+    <GroupID>104 </GroupID>
+    <StoryName_SCN></StoryName_SCN>
+    <StoryName_FCN></StoryName_FCN>
+    <StoryName_EN></StoryName_EN>
+    <StoryType>0 </StoryType>
+    <TeamType>2 </TeamType>
+    <SpawnGroupID>-1 </SpawnGroupID>
+    <ActorResID>10000000 </ActorResID>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN>只有&lt;color=#5aff4b&gt;集中火力&lt;/color&gt;，才有机会&lt;color=#5aff4b&gt;摧毁水晶&lt;/color&gt;！</StoryDesc_SCN>
+        <StoryDesc_FCN>只有&lt;color=#5aff4b&gt;集中火力&lt;/color&gt;，才有机会&lt;color=#5aff4b&gt;摧毁水晶&lt;/color&gt;！</StoryDesc_FCN>
+        <StoryDesc_EN>The only way to destroy the crystals is to single out one of them!</StoryDesc_EN>
+        <DuraTime>3000 </DuraTime>
+    </TalkPages>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN></StoryDesc_SCN>
+        <StoryDesc_FCN></StoryDesc_FCN>
+        <StoryDesc_EN></StoryDesc_EN>
+        <DuraTime>0 </DuraTime>
+    </TalkPages>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN></StoryDesc_SCN>
+        <StoryDesc_FCN></StoryDesc_FCN>
+        <StoryDesc_EN></StoryDesc_EN>
+        <DuraTime>0 </DuraTime>
+    </TalkPages>
+    <StoryAudio>audio/system/guide/newguide/6_02</StoryAudio>
+    <ShortestTime>1000 </ShortestTime>
+    <NextID>0 </NextID>
+    <StoryBreakType>0 </StoryBreakType>
+    <StorryBreakParam>0 </StorryBreakParam>
+    <ActorHeadIcon>prefab/character/human/hum_hero001/hum_hero001_H_pre</ActorHeadIcon>
+    <ActorName_SCN>安东尼</ActorName_SCN>
+    <ActorName_FCN>安东尼</ActorName_FCN>
+    <ActorName_EN>Anthony</ActorName_EN>
+    <ActorPosX>-2 </ActorPosX>
+    <ActorPosY>-398 </ActorPosY>
+    <ActorPosZ>303 </ActorPosZ>
+    <ActorScale>100 </ActorScale>
+    <ActorRotateY>180 </ActorRotateY>
+</ResGuideStoryDesc>
+<ResGuideStoryDesc version="1">
+    <ResID>10501 </ResID>
+    <GroupID>105 </GroupID>
+    <StoryName_SCN></StoryName_SCN>
+    <StoryName_FCN></StoryName_FCN>
+    <StoryName_EN></StoryName_EN>
+    <StoryType>0 </StoryType>
+    <TeamType>2 </TeamType>
+    <SpawnGroupID>-1 </SpawnGroupID>
+    <ActorResID>10000000 </ActorResID>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN>你们在王国境内到底有什么阴谋！</StoryDesc_SCN>
+        <StoryDesc_FCN>你们在王国境内到底有什么阴谋！</StoryDesc_FCN>
+        <StoryDesc_EN>What foul abomination is this?!</StoryDesc_EN>
+        <DuraTime>3000 </DuraTime>
+    </TalkPages>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN></StoryDesc_SCN>
+        <StoryDesc_FCN></StoryDesc_FCN>
+        <StoryDesc_EN></StoryDesc_EN>
+        <DuraTime>0 </DuraTime>
+    </TalkPages>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN></StoryDesc_SCN>
+        <StoryDesc_FCN></StoryDesc_FCN>
+        <StoryDesc_EN></StoryDesc_EN>
+        <DuraTime>0 </DuraTime>
+    </TalkPages>
+    <StoryAudio>audio/system/guide/newguide/7</StoryAudio>
+    <ShortestTime>1000 </ShortestTime>
+    <NextID>10502 </NextID>
+    <StoryBreakType>0 </StoryBreakType>
+    <StorryBreakParam>0 </StorryBreakParam>
+    <ActorHeadIcon>prefab/character/human/hum_hero001/hum_hero001_H_pre</ActorHeadIcon>
+    <ActorName_SCN>安东尼</ActorName_SCN>
+    <ActorName_FCN>安东尼</ActorName_FCN>
+    <ActorName_EN>Anthony</ActorName_EN>
+    <ActorPosX>-2 </ActorPosX>
+    <ActorPosY>-398 </ActorPosY>
+    <ActorPosZ>303 </ActorPosZ>
+    <ActorScale>100 </ActorScale>
+    <ActorRotateY>180 </ActorRotateY>
+</ResGuideStoryDesc>
+<ResGuideStoryDesc version="1">
+    <ResID>10502 </ResID>
+    <GroupID>105 </GroupID>
+    <StoryName_SCN></StoryName_SCN>
+    <StoryName_FCN></StoryName_FCN>
+    <StoryName_EN></StoryName_EN>
+    <StoryType>0 </StoryType>
+    <TeamType>0 </TeamType>
+    <SpawnGroupID>1 </SpawnGroupID>
+    <ActorResID>20000744 </ActorResID>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN>兽人的荣耀将再次燃起！你们都将臣服！</StoryDesc_SCN>
+        <StoryDesc_FCN>兽人的荣耀将再次燃起！你们都将臣服！</StoryDesc_FCN>
+        <StoryDesc_EN>Orcs will rise again! You will kneel, all of you!</StoryDesc_EN>
+        <DuraTime>7000 </DuraTime>
+    </TalkPages>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN></StoryDesc_SCN>
+        <StoryDesc_FCN></StoryDesc_FCN>
+        <StoryDesc_EN></StoryDesc_EN>
+        <DuraTime>0 </DuraTime>
+    </TalkPages>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN></StoryDesc_SCN>
+        <StoryDesc_FCN></StoryDesc_FCN>
+        <StoryDesc_EN></StoryDesc_EN>
+        <DuraTime>0 </DuraTime>
+    </TalkPages>
+    <StoryAudio>audio/system/guide/newguide/46</StoryAudio>
+    <ShortestTime>1000 </ShortestTime>
+    <NextID>10503 </NextID>
+    <StoryBreakType>0 </StoryBreakType>
+    <StorryBreakParam>0 </StorryBreakParam>
+    <ActorHeadIcon>prefab/character/monster/monster_red/monster_red_show_pre</ActorHeadIcon>
+    <ActorName_SCN>兽人战神</ActorName_SCN>
+    <ActorName_FCN>兽人战神</ActorName_FCN>
+    <ActorName_EN>Orc Champion</ActorName_EN>
+    <ActorPosX>38 </ActorPosX>
+    <ActorPosY>-716 </ActorPosY>
+    <ActorPosZ>1392 </ActorPosZ>
+    <ActorScale>100 </ActorScale>
+    <ActorRotateY>180 </ActorRotateY>
+</ResGuideStoryDesc>
+<ResGuideStoryDesc version="1">
+    <ResID>10503 </ResID>
+    <GroupID>105 </GroupID>
+    <StoryName_SCN></StoryName_SCN>
+    <StoryName_FCN></StoryName_FCN>
+    <StoryName_EN></StoryName_EN>
+    <StoryType>0 </StoryType>
+    <TeamType>2 </TeamType>
+    <SpawnGroupID>-1 </SpawnGroupID>
+    <ActorResID>10000000 </ActorResID>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN>&lt;color=#5aff4b&gt;小心躲避&lt;/color&gt;这只怪物的攻击！</StoryDesc_SCN>
+        <StoryDesc_FCN>&lt;color=#5aff4b&gt;小心躲避&lt;/color&gt;这只怪物的攻击！</StoryDesc_FCN>
+        <StoryDesc_EN>It&apos;s coming! Keep your eyes peeled!</StoryDesc_EN>
+        <DuraTime>2000 </DuraTime>
+    </TalkPages>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN></StoryDesc_SCN>
+        <StoryDesc_FCN></StoryDesc_FCN>
+        <StoryDesc_EN></StoryDesc_EN>
+        <DuraTime>0 </DuraTime>
+    </TalkPages>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN></StoryDesc_SCN>
+        <StoryDesc_FCN></StoryDesc_FCN>
+        <StoryDesc_EN></StoryDesc_EN>
+        <DuraTime>0 </DuraTime>
+    </TalkPages>
+    <StoryAudio>audio/system/guide/newguide/8</StoryAudio>
+    <ShortestTime>1000 </ShortestTime>
+    <NextID>0 </NextID>
+    <StoryBreakType>0 </StoryBreakType>
+    <StorryBreakParam>0 </StorryBreakParam>
+    <ActorHeadIcon>prefab/character/human/hum_hero001/hum_hero001_H_pre</ActorHeadIcon>
+    <ActorName_SCN>安东尼</ActorName_SCN>
+    <ActorName_FCN>安东尼</ActorName_FCN>
+    <ActorName_EN>Anthony</ActorName_EN>
+    <ActorPosX>-2 </ActorPosX>
+    <ActorPosY>-398 </ActorPosY>
+    <ActorPosZ>303 </ActorPosZ>
+    <ActorScale>100 </ActorScale>
+    <ActorRotateY>180 </ActorRotateY>
+</ResGuideStoryDesc>
+<ResGuideStoryDesc version="1">
+    <ResID>20101 </ResID>
+    <GroupID>201 </GroupID>
+    <StoryName_SCN></StoryName_SCN>
+    <StoryName_FCN></StoryName_FCN>
+    <StoryName_EN></StoryName_EN>
+    <StoryType>0 </StoryType>
+    <TeamType>2 </TeamType>
+    <SpawnGroupID>-1 </SpawnGroupID>
+    <ActorResID>10000000 </ActorResID>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN>以我们现在的兵力，难以应对狡猾的兽人，我们需要&lt;color=#5aff4b&gt;训练更多士兵&lt;/color&gt;。</StoryDesc_SCN>
+        <StoryDesc_FCN>以我们现在的兵力，难以应对狡猾的兽人，我们需要&lt;color=#5aff4b&gt;训练更多士兵&lt;/color&gt;。</StoryDesc_FCN>
+        <StoryDesc_EN>We are not strong enough to defeat the Orcs on our own. We must train more soldiers.</StoryDesc_EN>
+        <DuraTime>5000 </DuraTime>
+    </TalkPages>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN></StoryDesc_SCN>
+        <StoryDesc_FCN></StoryDesc_FCN>
+        <StoryDesc_EN></StoryDesc_EN>
+        <DuraTime>0 </DuraTime>
+    </TalkPages>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN></StoryDesc_SCN>
+        <StoryDesc_FCN></StoryDesc_FCN>
+        <StoryDesc_EN></StoryDesc_EN>
+        <DuraTime>0 </DuraTime>
+    </TalkPages>
+    <StoryAudio>audio/system/guide/newguide/10</StoryAudio>
+    <ShortestTime>1000 </ShortestTime>
+    <NextID>0 </NextID>
+    <StoryBreakType>0 </StoryBreakType>
+    <StorryBreakParam>0 </StorryBreakParam>
+    <ActorHeadIcon>prefab/character/human/hum_hero001/hum_hero001_H_pre</ActorHeadIcon>
+    <ActorName_SCN>安东尼</ActorName_SCN>
+    <ActorName_FCN>安东尼</ActorName_FCN>
+    <ActorName_EN>Anthony</ActorName_EN>
+    <ActorPosX>-2 </ActorPosX>
+    <ActorPosY>-398 </ActorPosY>
+    <ActorPosZ>303 </ActorPosZ>
+    <ActorScale>100 </ActorScale>
+    <ActorRotateY>180 </ActorRotateY>
+</ResGuideStoryDesc>
+<ResGuideStoryDesc version="1">
+    <ResID>20201 </ResID>
+    <GroupID>202 </GroupID>
+    <StoryName_SCN></StoryName_SCN>
+    <StoryName_FCN></StoryName_FCN>
+    <StoryName_EN></StoryName_EN>
+    <StoryType>0 </StoryType>
+    <TeamType>2 </TeamType>
+    <SpawnGroupID>-1 </SpawnGroupID>
+    <ActorResID>10000000 </ActorResID>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN>&lt;color=#5aff4b&gt;训练矮人步兵&lt;/color&gt;吧。这些热心肠的矮人虽然聒噪，但是在战场上，他们绝对可靠。</StoryDesc_SCN>
+        <StoryDesc_FCN>&lt;color=#5aff4b&gt;训练矮人步兵&lt;/color&gt;吧。这些热心肠的矮人虽然聒噪，但是在战场上，他们绝对可靠。</StoryDesc_FCN>
+        <StoryDesc_EN>Train Dwarf Infantry. These warm-hearted dwarves are noisy, but are some of the most reliable soldiers on the battlefield.</StoryDesc_EN>
+        <DuraTime>6000 </DuraTime>
+    </TalkPages>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN></StoryDesc_SCN>
+        <StoryDesc_FCN></StoryDesc_FCN>
+        <StoryDesc_EN></StoryDesc_EN>
+        <DuraTime>0 </DuraTime>
+    </TalkPages>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN></StoryDesc_SCN>
+        <StoryDesc_FCN></StoryDesc_FCN>
+        <StoryDesc_EN></StoryDesc_EN>
+        <DuraTime>0 </DuraTime>
+    </TalkPages>
+    <StoryAudio>audio/system/guide/newguide/11</StoryAudio>
+    <ShortestTime>1000 </ShortestTime>
+    <NextID>0 </NextID>
+    <StoryBreakType>0 </StoryBreakType>
+    <StorryBreakParam>0 </StorryBreakParam>
+    <ActorHeadIcon>prefab/character/human/hum_hero001/hum_hero001_H_pre</ActorHeadIcon>
+    <ActorName_SCN>安东尼</ActorName_SCN>
+    <ActorName_FCN>安东尼</ActorName_FCN>
+    <ActorName_EN>Anthony</ActorName_EN>
+    <ActorPosX>-2 </ActorPosX>
+    <ActorPosY>-398 </ActorPosY>
+    <ActorPosZ>303 </ActorPosZ>
+    <ActorScale>100 </ActorScale>
+    <ActorRotateY>180 </ActorRotateY>
+</ResGuideStoryDesc>
+<ResGuideStoryDesc version="1">
+    <ResID>20301 </ResID>
+    <GroupID>203 </GroupID>
+    <StoryName_SCN></StoryName_SCN>
+    <StoryName_FCN></StoryName_FCN>
+    <StoryName_EN></StoryName_EN>
+    <StoryType>0 </StoryType>
+    <TeamType>2 </TeamType>
+    <SpawnGroupID>-1 </SpawnGroupID>
+    <ActorResID>10000000 </ActorResID>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN>训练好的矮人步兵已经在&lt;color=#5aff4b&gt;向部队集合&lt;/color&gt;了。</StoryDesc_SCN>
+        <StoryDesc_FCN>训练好的矮人步兵已经在&lt;color=#5aff4b&gt;向部队集合&lt;/color&gt;了。</StoryDesc_FCN>
+        <StoryDesc_EN>The Dwarves we trained are already gathering on the battlefield.</StoryDesc_EN>
+        <DuraTime>3000 </DuraTime>
+    </TalkPages>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN></StoryDesc_SCN>
+        <StoryDesc_FCN></StoryDesc_FCN>
+        <StoryDesc_EN></StoryDesc_EN>
+        <DuraTime>0 </DuraTime>
+    </TalkPages>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN></StoryDesc_SCN>
+        <StoryDesc_FCN></StoryDesc_FCN>
+        <StoryDesc_EN></StoryDesc_EN>
+        <DuraTime>0 </DuraTime>
+    </TalkPages>
+    <StoryAudio>audio/system/guide/newguide/12</StoryAudio>
+    <ShortestTime>1000 </ShortestTime>
+    <NextID>20302 </NextID>
+    <StoryBreakType>0 </StoryBreakType>
+    <StorryBreakParam>0 </StorryBreakParam>
+    <ActorHeadIcon>prefab/character/human/hum_hero001/hum_hero001_H_pre</ActorHeadIcon>
+    <ActorName_SCN>安东尼</ActorName_SCN>
+    <ActorName_FCN>安东尼</ActorName_FCN>
+    <ActorName_EN>Anthony</ActorName_EN>
+    <ActorPosX>-2 </ActorPosX>
+    <ActorPosY>-398 </ActorPosY>
+    <ActorPosZ>303 </ActorPosZ>
+    <ActorScale>100 </ActorScale>
+    <ActorRotateY>180 </ActorRotateY>
+</ResGuideStoryDesc>
+<ResGuideStoryDesc version="1">
+    <ResID>20302 </ResID>
+    <GroupID>203 </GroupID>
+    <StoryName_SCN></StoryName_SCN>
+    <StoryName_FCN></StoryName_FCN>
+    <StoryName_EN></StoryName_EN>
+    <StoryType>0 </StoryType>
+    <TeamType>2 </TeamType>
+    <SpawnGroupID>-1 </SpawnGroupID>
+    <ActorResID>10000000 </ActorResID>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN>准备出发，搜索那只怪物的踪迹。</StoryDesc_SCN>
+        <StoryDesc_FCN>准备出发，搜索那只怪物的踪迹。</StoryDesc_FCN>
+        <StoryDesc_EN>We are ready, let&apos;s follow the trail of these monsters.</StoryDesc_EN>
+        <DuraTime>3000 </DuraTime>
+    </TalkPages>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN></StoryDesc_SCN>
+        <StoryDesc_FCN></StoryDesc_FCN>
+        <StoryDesc_EN></StoryDesc_EN>
+        <DuraTime>0 </DuraTime>
+    </TalkPages>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN></StoryDesc_SCN>
+        <StoryDesc_FCN></StoryDesc_FCN>
+        <StoryDesc_EN></StoryDesc_EN>
+        <DuraTime>0 </DuraTime>
+    </TalkPages>
+    <StoryAudio>audio/system/guide/newguide/13</StoryAudio>
+    <ShortestTime>1000 </ShortestTime>
+    <NextID>0 </NextID>
+    <StoryBreakType>0 </StoryBreakType>
+    <StorryBreakParam>0 </StorryBreakParam>
+    <ActorHeadIcon>prefab/character/human/hum_hero001/hum_hero001_H_pre</ActorHeadIcon>
+    <ActorName_SCN>安东尼</ActorName_SCN>
+    <ActorName_FCN>安东尼</ActorName_FCN>
+    <ActorName_EN>Anthony</ActorName_EN>
+    <ActorPosX>-2 </ActorPosX>
+    <ActorPosY>-398 </ActorPosY>
+    <ActorPosZ>303 </ActorPosZ>
+    <ActorScale>100 </ActorScale>
+    <ActorRotateY>180 </ActorRotateY>
+</ResGuideStoryDesc>
+<ResGuideStoryDesc version="1">
+    <ResID>20401 </ResID>
+    <GroupID>204 </GroupID>
+    <StoryName_SCN></StoryName_SCN>
+    <StoryName_FCN></StoryName_FCN>
+    <StoryName_EN></StoryName_EN>
+    <StoryType>0 </StoryType>
+    <TeamType>2 </TeamType>
+    <SpawnGroupID>3 </SpawnGroupID>
+    <ActorResID>20000747 </ActorResID>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN>我们在巡逻的途中遭遇了兽人部队，没想到他们在这里运输&lt;color=#5aff4b&gt;金币&lt;/color&gt;。</StoryDesc_SCN>
+        <StoryDesc_FCN>我们在巡逻的途中遭遇了兽人部队，没想到他们在这里运输&lt;color=#5aff4b&gt;金币&lt;/color&gt;。</StoryDesc_FCN>
+        <StoryDesc_EN>Never thought we&apos;d encounter Orcs transporting Gold while we were on patrol.</StoryDesc_EN>
+        <DuraTime>5000 </DuraTime>
+    </TalkPages>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN></StoryDesc_SCN>
+        <StoryDesc_FCN></StoryDesc_FCN>
+        <StoryDesc_EN></StoryDesc_EN>
+        <DuraTime>0 </DuraTime>
+    </TalkPages>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN></StoryDesc_SCN>
+        <StoryDesc_FCN></StoryDesc_FCN>
+        <StoryDesc_EN></StoryDesc_EN>
+        <DuraTime>0 </DuraTime>
+    </TalkPages>
+    <StoryAudio>audio/system/guide/newguide/76</StoryAudio>
+    <ShortestTime>1000 </ShortestTime>
+    <NextID>20402 </NextID>
+    <StoryBreakType>0 </StoryBreakType>
+    <StorryBreakParam>0 </StorryBreakParam>
+    <ActorHeadIcon>prefab/character/human/hum_army02/hum_army02_H_pre</ActorHeadIcon>
+    <ActorName_SCN>弩手</ActorName_SCN>
+    <ActorName_FCN>弩手</ActorName_FCN>
+    <ActorName_EN>Crossbowman</ActorName_EN>
+    <ActorPosX>-10 </ActorPosX>
+    <ActorPosY>-286 </ActorPosY>
+    <ActorPosZ>371 </ActorPosZ>
+    <ActorScale>120 </ActorScale>
+    <ActorRotateY>148 </ActorRotateY>
+</ResGuideStoryDesc>
+<ResGuideStoryDesc version="1">
+    <ResID>20402 </ResID>
+    <GroupID>204 </GroupID>
+    <StoryName_SCN></StoryName_SCN>
+    <StoryName_FCN></StoryName_FCN>
+    <StoryName_EN></StoryName_EN>
+    <StoryType>0 </StoryType>
+    <TeamType>2 </TeamType>
+    <SpawnGroupID>3 </SpawnGroupID>
+    <ActorResID>20000747 </ActorResID>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN>兽人一定是想在这里建造根据地，守护者，让我们&lt;color=#5aff4b&gt;加入队伍&lt;/color&gt;追查真相吧！</StoryDesc_SCN>
+        <StoryDesc_FCN>兽人一定是想在这里建造根据地，守护者，让我们&lt;color=#5aff4b&gt;加入队伍&lt;/color&gt;追查真相吧！</StoryDesc_FCN>
+        <StoryDesc_EN>The Orcs must be here to build a base. Please let us join with you and find the truth.</StoryDesc_EN>
+        <DuraTime>6000 </DuraTime>
+    </TalkPages>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN></StoryDesc_SCN>
+        <StoryDesc_FCN></StoryDesc_FCN>
+        <StoryDesc_EN></StoryDesc_EN>
+        <DuraTime>0 </DuraTime>
+    </TalkPages>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN></StoryDesc_SCN>
+        <StoryDesc_FCN></StoryDesc_FCN>
+        <StoryDesc_EN></StoryDesc_EN>
+        <DuraTime>0 </DuraTime>
+    </TalkPages>
+    <StoryAudio>audio/system/guide/newguide/77</StoryAudio>
+    <ShortestTime>1000 </ShortestTime>
+    <NextID>20403 </NextID>
+    <StoryBreakType>0 </StoryBreakType>
+    <StorryBreakParam>0 </StorryBreakParam>
+    <ActorHeadIcon>prefab/character/human/hum_army02/hum_army02_H_pre</ActorHeadIcon>
+    <ActorName_SCN>弩手</ActorName_SCN>
+    <ActorName_FCN>弩手</ActorName_FCN>
+    <ActorName_EN>Crossbowman</ActorName_EN>
+    <ActorPosX>-10 </ActorPosX>
+    <ActorPosY>-286 </ActorPosY>
+    <ActorPosZ>371 </ActorPosZ>
+    <ActorScale>120 </ActorScale>
+    <ActorRotateY>148 </ActorRotateY>
+</ResGuideStoryDesc>
+<ResGuideStoryDesc version="1">
+    <ResID>20403 </ResID>
+    <GroupID>204 </GroupID>
+    <StoryName_SCN></StoryName_SCN>
+    <StoryName_FCN></StoryName_FCN>
+    <StoryName_EN></StoryName_EN>
+    <StoryType>0 </StoryType>
+    <TeamType>2 </TeamType>
+    <SpawnGroupID>-1 </SpawnGroupID>
+    <ActorResID>10000000 </ActorResID>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN>我们需要&lt;color=#5aff4b&gt;更多人口&lt;/color&gt;来容纳这些勇士。</StoryDesc_SCN>
+        <StoryDesc_FCN>我们需要&lt;color=#5aff4b&gt;更多人口&lt;/color&gt;来容纳这些勇士。</StoryDesc_FCN>
+        <StoryDesc_EN>You can train troops, view troop skills, upgrade Castle, Troop Cap, upgrade troop attack and defense in tech screen.We need to increase our Troop Cap for these men.</StoryDesc_EN>
+        <DuraTime>2800 </DuraTime>
+    </TalkPages>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN></StoryDesc_SCN>
+        <StoryDesc_FCN></StoryDesc_FCN>
+        <StoryDesc_EN></StoryDesc_EN>
+        <DuraTime>0 </DuraTime>
+    </TalkPages>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN></StoryDesc_SCN>
+        <StoryDesc_FCN></StoryDesc_FCN>
+        <StoryDesc_EN></StoryDesc_EN>
+        <DuraTime>0 </DuraTime>
+    </TalkPages>
+    <StoryAudio>audio/system/guide/newguide/18</StoryAudio>
+    <ShortestTime>1000 </ShortestTime>
+    <NextID>0 </NextID>
+    <StoryBreakType>0 </StoryBreakType>
+    <StorryBreakParam>0 </StorryBreakParam>
+    <ActorHeadIcon>prefab/character/human/hum_hero001/hum_hero001_H_pre</ActorHeadIcon>
+    <ActorName_SCN>安东尼</ActorName_SCN>
+    <ActorName_FCN>安东尼</ActorName_FCN>
+    <ActorName_EN>Anthony</ActorName_EN>
+    <ActorPosX>-2 </ActorPosX>
+    <ActorPosY>-398 </ActorPosY>
+    <ActorPosZ>303 </ActorPosZ>
+    <ActorScale>100 </ActorScale>
+    <ActorRotateY>180 </ActorRotateY>
+</ResGuideStoryDesc>
+<ResGuideStoryDesc version="1">
+    <ResID>20501 </ResID>
+    <GroupID>205 </GroupID>
+    <StoryName_SCN></StoryName_SCN>
+    <StoryName_FCN></StoryName_FCN>
+    <StoryName_EN></StoryName_EN>
+    <StoryType>0 </StoryType>
+    <TeamType>2 </TeamType>
+    <SpawnGroupID>-1 </SpawnGroupID>
+    <ActorResID>10000000 </ActorResID>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN>人口已经充足，这些出色的射手能在远处给予敌人致命的打击。&lt;color=#5aff4b&gt;训练2个弩手&lt;/color&gt;吧！</StoryDesc_SCN>
+        <StoryDesc_FCN>人口已经充足，这些出色的射手能在远处给予敌人致命的打击。&lt;color=#5aff4b&gt;训练2个弩手&lt;/color&gt;吧！</StoryDesc_FCN>
+        <StoryDesc_EN>Now we have enough room for these excellent ranged fighters. Let’s train 2 Crossbowmen.</StoryDesc_EN>
+        <DuraTime>6900 </DuraTime>
+    </TalkPages>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN></StoryDesc_SCN>
+        <StoryDesc_FCN></StoryDesc_FCN>
+        <StoryDesc_EN></StoryDesc_EN>
+        <DuraTime>0 </DuraTime>
+    </TalkPages>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN></StoryDesc_SCN>
+        <StoryDesc_FCN></StoryDesc_FCN>
+        <StoryDesc_EN></StoryDesc_EN>
+        <DuraTime>0 </DuraTime>
+    </TalkPages>
+    <StoryAudio>audio/system/guide/newguide/72</StoryAudio>
+    <ShortestTime>1000 </ShortestTime>
+    <NextID>0 </NextID>
+    <StoryBreakType>0 </StoryBreakType>
+    <StorryBreakParam>0 </StorryBreakParam>
+    <ActorHeadIcon>prefab/character/human/hum_hero001/hum_hero001_H_pre</ActorHeadIcon>
+    <ActorName_SCN>安东尼</ActorName_SCN>
+    <ActorName_FCN>安东尼</ActorName_FCN>
+    <ActorName_EN>Anthony</ActorName_EN>
+    <ActorPosX>-2 </ActorPosX>
+    <ActorPosY>-398 </ActorPosY>
+    <ActorPosZ>303 </ActorPosZ>
+    <ActorScale>100 </ActorScale>
+    <ActorRotateY>180 </ActorRotateY>
+</ResGuideStoryDesc>
+<ResGuideStoryDesc version="1">
+    <ResID>20601 </ResID>
+    <GroupID>206 </GroupID>
+    <StoryName_SCN></StoryName_SCN>
+    <StoryName_FCN></StoryName_FCN>
+    <StoryName_EN></StoryName_EN>
+    <StoryType>0 </StoryType>
+    <TeamType>2 </TeamType>
+    <SpawnGroupID>-1 </SpawnGroupID>
+    <ActorResID>10000000 </ActorResID>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN>部队扩充完毕，继续前进！</StoryDesc_SCN>
+        <StoryDesc_FCN>部队扩充完毕，继续前进！</StoryDesc_FCN>
+        <StoryDesc_EN>Alright, let’s keep moving!</StoryDesc_EN>
+        <DuraTime>1000 </DuraTime>
+    </TalkPages>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN></StoryDesc_SCN>
+        <StoryDesc_FCN></StoryDesc_FCN>
+        <StoryDesc_EN></StoryDesc_EN>
+        <DuraTime>0 </DuraTime>
+    </TalkPages>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN></StoryDesc_SCN>
+        <StoryDesc_FCN></StoryDesc_FCN>
+        <StoryDesc_EN></StoryDesc_EN>
+        <DuraTime>0 </DuraTime>
+    </TalkPages>
+    <StoryAudio>audio/system/guide/newguide/19</StoryAudio>
+    <ShortestTime>1000 </ShortestTime>
+    <NextID>0 </NextID>
+    <StoryBreakType>0 </StoryBreakType>
+    <StorryBreakParam>0 </StorryBreakParam>
+    <ActorHeadIcon>prefab/character/human/hum_hero001/hum_hero001_H_pre</ActorHeadIcon>
+    <ActorName_SCN>安东尼</ActorName_SCN>
+    <ActorName_FCN>安东尼</ActorName_FCN>
+    <ActorName_EN>Anthony</ActorName_EN>
+    <ActorPosX>-2 </ActorPosX>
+    <ActorPosY>-398 </ActorPosY>
+    <ActorPosZ>303 </ActorPosZ>
+    <ActorScale>100 </ActorScale>
+    <ActorRotateY>180 </ActorRotateY>
+</ResGuideStoryDesc>
+<ResGuideStoryDesc version="1">
+    <ResID>20701 </ResID>
+    <GroupID>207 </GroupID>
+    <StoryName_SCN></StoryName_SCN>
+    <StoryName_FCN></StoryName_FCN>
+    <StoryName_EN></StoryName_EN>
+    <StoryType>0 </StoryType>
+    <TeamType>2 </TeamType>
+    <SpawnGroupID>-1 </SpawnGroupID>
+    <ActorResID>10000000 </ActorResID>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN>这里有兽人的路障，看来我们离真相更近了一步。&lt;color=#5aff4b&gt;摧毁他们的路障&lt;/color&gt;！</StoryDesc_SCN>
+        <StoryDesc_FCN>这里有兽人的路障，看来我们离真相更近了一步。&lt;color=#5aff4b&gt;摧毁他们的路障&lt;/color&gt;！</StoryDesc_FCN>
+        <StoryDesc_EN>An Orcish roadblock, seems we are getting closer to the truth. Destroy it!</StoryDesc_EN>
+        <DuraTime>6000 </DuraTime>
+    </TalkPages>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN></StoryDesc_SCN>
+        <StoryDesc_FCN></StoryDesc_FCN>
+        <StoryDesc_EN></StoryDesc_EN>
+        <DuraTime>0 </DuraTime>
+    </TalkPages>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN></StoryDesc_SCN>
+        <StoryDesc_FCN></StoryDesc_FCN>
+        <StoryDesc_EN></StoryDesc_EN>
+        <DuraTime>0 </DuraTime>
+    </TalkPages>
+    <StoryAudio>audio/system/guide/newguide/21</StoryAudio>
+    <ShortestTime>1000 </ShortestTime>
+    <NextID>0 </NextID>
+    <StoryBreakType>0 </StoryBreakType>
+    <StorryBreakParam>0 </StorryBreakParam>
+    <ActorHeadIcon>prefab/character/human/hum_hero001/hum_hero001_H_pre</ActorHeadIcon>
+    <ActorName_SCN>安东尼</ActorName_SCN>
+    <ActorName_FCN>安东尼</ActorName_FCN>
+    <ActorName_EN>Anthony</ActorName_EN>
+    <ActorPosX>-2 </ActorPosX>
+    <ActorPosY>-398 </ActorPosY>
+    <ActorPosZ>303 </ActorPosZ>
+    <ActorScale>100 </ActorScale>
+    <ActorRotateY>180 </ActorRotateY>
+</ResGuideStoryDesc>
+<ResGuideStoryDesc version="1">
+    <ResID>20801 </ResID>
+    <GroupID>208 </GroupID>
+    <StoryName_SCN></StoryName_SCN>
+    <StoryName_FCN></StoryName_FCN>
+    <StoryName_EN></StoryName_EN>
+    <StoryType>0 </StoryType>
+    <TeamType>0 </TeamType>
+    <SpawnGroupID>1 </SpawnGroupID>
+    <ActorResID>20000744 </ActorResID>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN>没想到你们能找到这里，年轻的法师，不过，你的路就到此为止了。。。</StoryDesc_SCN>
+        <StoryDesc_FCN>没想到你们能找到这里，年轻的法师，不过，你的路就到此为止了。。。</StoryDesc_FCN>
+        <StoryDesc_EN>I did not expect you to find this, young mage, but this is as far as you go.</StoryDesc_EN>
+        <DuraTime>9300 </DuraTime>
+    </TalkPages>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN></StoryDesc_SCN>
+        <StoryDesc_FCN></StoryDesc_FCN>
+        <StoryDesc_EN></StoryDesc_EN>
+        <DuraTime>0 </DuraTime>
+    </TalkPages>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN></StoryDesc_SCN>
+        <StoryDesc_FCN></StoryDesc_FCN>
+        <StoryDesc_EN></StoryDesc_EN>
+        <DuraTime>0 </DuraTime>
+    </TalkPages>
+    <StoryAudio>audio/system/guide/newguide/47</StoryAudio>
+    <ShortestTime>1000 </ShortestTime>
+    <NextID>20802 </NextID>
+    <StoryBreakType>0 </StoryBreakType>
+    <StorryBreakParam>0 </StorryBreakParam>
+    <ActorHeadIcon>prefab/character/monster/monster_red/monster_red_show_pre</ActorHeadIcon>
+    <ActorName_SCN>兽人战神</ActorName_SCN>
+    <ActorName_FCN>兽人战神</ActorName_FCN>
+    <ActorName_EN>Orc Champion</ActorName_EN>
+    <ActorPosX>38 </ActorPosX>
+    <ActorPosY>-716 </ActorPosY>
+    <ActorPosZ>1392 </ActorPosZ>
+    <ActorScale>100 </ActorScale>
+    <ActorRotateY>180 </ActorRotateY>
+</ResGuideStoryDesc>
+<ResGuideStoryDesc version="1">
+    <ResID>20802 </ResID>
+    <GroupID>208 </GroupID>
+    <StoryName_SCN></StoryName_SCN>
+    <StoryName_FCN></StoryName_FCN>
+    <StoryName_EN></StoryName_EN>
+    <StoryType>0 </StoryType>
+    <TeamType>2 </TeamType>
+    <SpawnGroupID>-1 </SpawnGroupID>
+    <ActorResID>10000000 </ActorResID>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN>在阻止你们的阴谋之前，绝无可能！</StoryDesc_SCN>
+        <StoryDesc_FCN>在阻止你们的阴谋之前，绝无可能！</StoryDesc_FCN>
+        <StoryDesc_EN>I will stop at nothing to protect my people.</StoryDesc_EN>
+        <DuraTime>3000 </DuraTime>
+    </TalkPages>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN></StoryDesc_SCN>
+        <StoryDesc_FCN></StoryDesc_FCN>
+        <StoryDesc_EN></StoryDesc_EN>
+        <DuraTime>0 </DuraTime>
+    </TalkPages>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN></StoryDesc_SCN>
+        <StoryDesc_FCN></StoryDesc_FCN>
+        <StoryDesc_EN></StoryDesc_EN>
+        <DuraTime>0 </DuraTime>
+    </TalkPages>
+    <StoryAudio>audio/system/guide/newguide/22</StoryAudio>
+    <ShortestTime>1000 </ShortestTime>
+    <NextID>0 </NextID>
+    <StoryBreakType>0 </StoryBreakType>
+    <StorryBreakParam>0 </StorryBreakParam>
+    <ActorHeadIcon>prefab/character/human/hum_hero001/hum_hero001_H_pre</ActorHeadIcon>
+    <ActorName_SCN>安东尼</ActorName_SCN>
+    <ActorName_FCN>安东尼</ActorName_FCN>
+    <ActorName_EN>Anthony</ActorName_EN>
+    <ActorPosX>-2 </ActorPosX>
+    <ActorPosY>-398 </ActorPosY>
+    <ActorPosZ>303 </ActorPosZ>
+    <ActorScale>100 </ActorScale>
+    <ActorRotateY>180 </ActorRotateY>
+</ResGuideStoryDesc>
+<ResGuideStoryDesc version="1">
+    <ResID>30101 </ResID>
+    <GroupID>301 </GroupID>
+    <StoryName_SCN></StoryName_SCN>
+    <StoryName_FCN></StoryName_FCN>
+    <StoryName_EN></StoryName_EN>
+    <StoryType>0 </StoryType>
+    <TeamType>2 </TeamType>
+    <SpawnGroupID>-1 </SpawnGroupID>
+    <ActorResID>10000000 </ActorResID>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN>&lt;color=#5aff4b&gt;解决&lt;/color&gt;那些占据金矿的怪物，我们就能&lt;color=#5aff4b&gt;夺取这座金矿&lt;/color&gt;了！</StoryDesc_SCN>
+        <StoryDesc_FCN>&lt;color=#5aff4b&gt;解决&lt;/color&gt;那些占据金矿的怪物，我们就能&lt;color=#5aff4b&gt;夺取这座金矿&lt;/color&gt;了！</StoryDesc_FCN>
+        <StoryDesc_EN>Beat the monsters that control the Mine and it can be ours!</StoryDesc_EN>
+        <DuraTime>4000 </DuraTime>
+    </TalkPages>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN></StoryDesc_SCN>
+        <StoryDesc_FCN></StoryDesc_FCN>
+        <StoryDesc_EN></StoryDesc_EN>
+        <DuraTime>0 </DuraTime>
+    </TalkPages>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN></StoryDesc_SCN>
+        <StoryDesc_FCN></StoryDesc_FCN>
+        <StoryDesc_EN></StoryDesc_EN>
+        <DuraTime>0 </DuraTime>
+    </TalkPages>
+    <StoryAudio>audio/system/guide/newguide/65</StoryAudio>
+    <ShortestTime>1000 </ShortestTime>
+    <NextID>0 </NextID>
+    <StoryBreakType>0 </StoryBreakType>
+    <StorryBreakParam>0 </StorryBreakParam>
+    <ActorHeadIcon>prefab/character/human/hum_hero001/hum_hero001_H_pre</ActorHeadIcon>
+    <ActorName_SCN>安东尼</ActorName_SCN>
+    <ActorName_FCN>安东尼</ActorName_FCN>
+    <ActorName_EN>Anthony</ActorName_EN>
+    <ActorPosX>-2 </ActorPosX>
+    <ActorPosY>-398 </ActorPosY>
+    <ActorPosZ>303 </ActorPosZ>
+    <ActorScale>100 </ActorScale>
+    <ActorRotateY>180 </ActorRotateY>
+</ResGuideStoryDesc>
+<ResGuideStoryDesc version="1">
+    <ResID>30201 </ResID>
+    <GroupID>302 </GroupID>
+    <StoryName_SCN></StoryName_SCN>
+    <StoryName_FCN></StoryName_FCN>
+    <StoryName_EN></StoryName_EN>
+    <StoryType>0 </StoryType>
+    <TeamType>2 </TeamType>
+    <SpawnGroupID>-1 </SpawnGroupID>
+    <ActorResID>10000000 </ActorResID>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN>占据金矿的怪物已经被我们清理了，现在我们可以&lt;color=#5aff4b&gt;建造金矿&lt;/color&gt;来&lt;color=#5aff4b&gt;开采金币&lt;/color&gt;了。</StoryDesc_SCN>
+        <StoryDesc_FCN>占据金矿的怪物已经被我们清理了，现在我们可以&lt;color=#5aff4b&gt;建造金矿&lt;/color&gt;来&lt;color=#5aff4b&gt;开采金币&lt;/color&gt;了。</StoryDesc_FCN>
+        <StoryDesc_EN>Now that the monsters have been beaten, we can create a Mine to get more gold.</StoryDesc_EN>
+        <DuraTime>5400 </DuraTime>
+    </TalkPages>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN></StoryDesc_SCN>
+        <StoryDesc_FCN></StoryDesc_FCN>
+        <StoryDesc_EN></StoryDesc_EN>
+        <DuraTime>0 </DuraTime>
+    </TalkPages>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN></StoryDesc_SCN>
+        <StoryDesc_FCN></StoryDesc_FCN>
+        <StoryDesc_EN></StoryDesc_EN>
+        <DuraTime>0 </DuraTime>
+    </TalkPages>
+    <StoryAudio>audio/system/guide/newguide/66</StoryAudio>
+    <ShortestTime>1000 </ShortestTime>
+    <NextID>30202 </NextID>
+    <StoryBreakType>0 </StoryBreakType>
+    <StorryBreakParam>0 </StorryBreakParam>
+    <ActorHeadIcon>prefab/character/human/hum_hero001/hum_hero001_H_pre</ActorHeadIcon>
+    <ActorName_SCN>安东尼</ActorName_SCN>
+    <ActorName_FCN>安东尼</ActorName_FCN>
+    <ActorName_EN>Anthony</ActorName_EN>
+    <ActorPosX>-2 </ActorPosX>
+    <ActorPosY>-398 </ActorPosY>
+    <ActorPosZ>303 </ActorPosZ>
+    <ActorScale>100 </ActorScale>
+    <ActorRotateY>180 </ActorRotateY>
+</ResGuideStoryDesc>
+<ResGuideStoryDesc version="1">
+    <ResID>30202 </ResID>
+    <GroupID>302 </GroupID>
+    <StoryName_SCN></StoryName_SCN>
+    <StoryName_FCN></StoryName_FCN>
+    <StoryName_EN></StoryName_EN>
+    <StoryType>0 </StoryType>
+    <TeamType>2 </TeamType>
+    <SpawnGroupID>-1 </SpawnGroupID>
+    <ActorResID>10000000 </ActorResID>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN>有了&lt;color=#5aff4b&gt;金矿的支持&lt;/color&gt;，我们可以训练更多部队来对抗兽人了。</StoryDesc_SCN>
+        <StoryDesc_FCN>有了&lt;color=#5aff4b&gt;金矿的支持&lt;/color&gt;，我们可以训练更多部队来对抗兽人了。</StoryDesc_FCN>
+        <StoryDesc_EN>With the gold from the Mine we can train more troops to defeat the Orcs.</StoryDesc_EN>
+        <DuraTime>3500 </DuraTime>
+    </TalkPages>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN></StoryDesc_SCN>
+        <StoryDesc_FCN></StoryDesc_FCN>
+        <StoryDesc_EN></StoryDesc_EN>
+        <DuraTime>0 </DuraTime>
+    </TalkPages>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN></StoryDesc_SCN>
+        <StoryDesc_FCN></StoryDesc_FCN>
+        <StoryDesc_EN></StoryDesc_EN>
+        <DuraTime>0 </DuraTime>
+    </TalkPages>
+    <StoryAudio>audio/system/guide/newguide/67</StoryAudio>
+    <ShortestTime>1000 </ShortestTime>
+    <NextID>0 </NextID>
+    <StoryBreakType>0 </StoryBreakType>
+    <StorryBreakParam>0 </StorryBreakParam>
+    <ActorHeadIcon>prefab/character/human/hum_hero001/hum_hero001_H_pre</ActorHeadIcon>
+    <ActorName_SCN>安东尼</ActorName_SCN>
+    <ActorName_FCN>安东尼</ActorName_FCN>
+    <ActorName_EN>Anthony</ActorName_EN>
+    <ActorPosX>-2 </ActorPosX>
+    <ActorPosY>-398 </ActorPosY>
+    <ActorPosZ>303 </ActorPosZ>
+    <ActorScale>100 </ActorScale>
+    <ActorRotateY>180 </ActorRotateY>
+</ResGuideStoryDesc>
+<ResGuideStoryDesc version="1">
+    <ResID>30301 </ResID>
+    <GroupID>303 </GroupID>
+    <StoryName_SCN></StoryName_SCN>
+    <StoryName_FCN></StoryName_FCN>
+    <StoryName_EN></StoryName_EN>
+    <StoryType>0 </StoryType>
+    <TeamType>2 </TeamType>
+    <SpawnGroupID>-1 </SpawnGroupID>
+    <ActorResID>10000000 </ActorResID>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN>在兽人的领地随时都有可能&lt;color=#5aff4b&gt;遭受袭击&lt;/color&gt;。</StoryDesc_SCN>
+        <StoryDesc_FCN>在兽人的领地随时都有可能&lt;color=#5aff4b&gt;遭受袭击&lt;/color&gt;。</StoryDesc_FCN>
+        <StoryDesc_EN>Be on your guard, the Orcs may come any time.</StoryDesc_EN>
+        <DuraTime>3000 </DuraTime>
+    </TalkPages>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN></StoryDesc_SCN>
+        <StoryDesc_FCN></StoryDesc_FCN>
+        <StoryDesc_EN></StoryDesc_EN>
+        <DuraTime>0 </DuraTime>
+    </TalkPages>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN></StoryDesc_SCN>
+        <StoryDesc_FCN></StoryDesc_FCN>
+        <StoryDesc_EN></StoryDesc_EN>
+        <DuraTime>0 </DuraTime>
+    </TalkPages>
+    <StoryAudio>audio/system/guide/newguide/68</StoryAudio>
+    <ShortestTime>1000 </ShortestTime>
+    <NextID>30302 </NextID>
+    <StoryBreakType>0 </StoryBreakType>
+    <StorryBreakParam>0 </StorryBreakParam>
+    <ActorHeadIcon>prefab/character/human/hum_hero001/hum_hero001_H_pre</ActorHeadIcon>
+    <ActorName_SCN>安东尼</ActorName_SCN>
+    <ActorName_FCN>安东尼</ActorName_FCN>
+    <ActorName_EN>Anthony</ActorName_EN>
+    <ActorPosX>-2 </ActorPosX>
+    <ActorPosY>-398 </ActorPosY>
+    <ActorPosZ>303 </ActorPosZ>
+    <ActorScale>100 </ActorScale>
+    <ActorRotateY>180 </ActorRotateY>
+</ResGuideStoryDesc>
+<ResGuideStoryDesc version="1">
+    <ResID>30302 </ResID>
+    <GroupID>303 </GroupID>
+    <StoryName_SCN></StoryName_SCN>
+    <StoryName_FCN></StoryName_FCN>
+    <StoryName_EN></StoryName_EN>
+    <StoryType>0 </StoryType>
+    <TeamType>2 </TeamType>
+    <SpawnGroupID>-1 </SpawnGroupID>
+    <ActorResID>10000000 </ActorResID>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN>我们需要在金矿周围&lt;color=#5aff4b&gt;建造2座箭塔&lt;/color&gt;来确保金矿的安全。</StoryDesc_SCN>
+        <StoryDesc_FCN>我们需要在金矿周围&lt;color=#5aff4b&gt;建造2座箭塔&lt;/color&gt;来确保金矿的安全。</StoryDesc_FCN>
+        <StoryDesc_EN>We need to build 2 Turrets around the Mine to keep it safe.</StoryDesc_EN>
+        <DuraTime>4000 </DuraTime>
+    </TalkPages>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN></StoryDesc_SCN>
+        <StoryDesc_FCN></StoryDesc_FCN>
+        <StoryDesc_EN></StoryDesc_EN>
+        <DuraTime>0 </DuraTime>
+    </TalkPages>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN></StoryDesc_SCN>
+        <StoryDesc_FCN></StoryDesc_FCN>
+        <StoryDesc_EN></StoryDesc_EN>
+        <DuraTime>0 </DuraTime>
+    </TalkPages>
+    <StoryAudio>audio/system/guide/newguide/69</StoryAudio>
+    <ShortestTime>1000 </ShortestTime>
+    <NextID>0 </NextID>
+    <StoryBreakType>0 </StoryBreakType>
+    <StorryBreakParam>0 </StorryBreakParam>
+    <ActorHeadIcon>prefab/character/human/hum_hero001/hum_hero001_H_pre</ActorHeadIcon>
+    <ActorName_SCN>安东尼</ActorName_SCN>
+    <ActorName_FCN>安东尼</ActorName_FCN>
+    <ActorName_EN>Anthony</ActorName_EN>
+    <ActorPosX>-2 </ActorPosX>
+    <ActorPosY>-398 </ActorPosY>
+    <ActorPosZ>303 </ActorPosZ>
+    <ActorScale>100 </ActorScale>
+    <ActorRotateY>180 </ActorRotateY>
+</ResGuideStoryDesc>
+<ResGuideStoryDesc version="1">
+    <ResID>30401 </ResID>
+    <GroupID>304 </GroupID>
+    <StoryName_SCN></StoryName_SCN>
+    <StoryName_FCN></StoryName_FCN>
+    <StoryName_EN></StoryName_EN>
+    <StoryType>0 </StoryType>
+    <TeamType>1 </TeamType>
+    <SpawnGroupID>3 </SpawnGroupID>
+    <ActorResID>20000745 </ActorResID>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN>是人类的部队！别让他们活着回去！</StoryDesc_SCN>
+        <StoryDesc_FCN>是人类的部队！别让他们活着回去！</StoryDesc_FCN>
+        <StoryDesc_EN>It&apos;s the humans! Leave no one alive!</StoryDesc_EN>
+        <DuraTime>3700 </DuraTime>
+    </TalkPages>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN></StoryDesc_SCN>
+        <StoryDesc_FCN></StoryDesc_FCN>
+        <StoryDesc_EN></StoryDesc_EN>
+        <DuraTime>0 </DuraTime>
+    </TalkPages>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN></StoryDesc_SCN>
+        <StoryDesc_FCN></StoryDesc_FCN>
+        <StoryDesc_EN></StoryDesc_EN>
+        <DuraTime>0 </DuraTime>
+    </TalkPages>
+    <StoryAudio>audio/system/guide/newguide/50</StoryAudio>
+    <ShortestTime>1000 </ShortestTime>
+    <NextID>30402 </NextID>
+    <StoryBreakType>0 </StoryBreakType>
+    <StorryBreakParam>0 </StorryBreakParam>
+    <ActorHeadIcon>prefab/character/orc/orc_army01/orc_army01_H_pre</ActorHeadIcon>
+    <ActorName_SCN>兽人战士</ActorName_SCN>
+    <ActorName_FCN>兽人战士</ActorName_FCN>
+    <ActorName_EN>Orc Warrior</ActorName_EN>
+    <ActorPosX>-2 </ActorPosX>
+    <ActorPosY>-351 </ActorPosY>
+    <ActorPosZ>403 </ActorPosZ>
+    <ActorScale>120 </ActorScale>
+    <ActorRotateY>180 </ActorRotateY>
+</ResGuideStoryDesc>
+<ResGuideStoryDesc version="1">
+    <ResID>30402 </ResID>
+    <GroupID>304 </GroupID>
+    <StoryName_SCN></StoryName_SCN>
+    <StoryName_FCN></StoryName_FCN>
+    <StoryName_EN></StoryName_EN>
+    <StoryType>0 </StoryType>
+    <TeamType>2 </TeamType>
+    <SpawnGroupID>-1 </SpawnGroupID>
+    <ActorResID>10000000 </ActorResID>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN>准备作战！</StoryDesc_SCN>
+        <StoryDesc_FCN>准备作战！</StoryDesc_FCN>
+        <StoryDesc_EN>To arms!</StoryDesc_EN>
+        <DuraTime>1200 </DuraTime>
+    </TalkPages>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN></StoryDesc_SCN>
+        <StoryDesc_FCN></StoryDesc_FCN>
+        <StoryDesc_EN></StoryDesc_EN>
+        <DuraTime>0 </DuraTime>
+    </TalkPages>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN></StoryDesc_SCN>
+        <StoryDesc_FCN></StoryDesc_FCN>
+        <StoryDesc_EN></StoryDesc_EN>
+        <DuraTime>0 </DuraTime>
+    </TalkPages>
+    <StoryAudio>audio/system/guide/newguide/15</StoryAudio>
+    <ShortestTime>1000 </ShortestTime>
+    <NextID>0 </NextID>
+    <StoryBreakType>0 </StoryBreakType>
+    <StorryBreakParam>0 </StorryBreakParam>
+    <ActorHeadIcon>prefab/character/human/hum_hero001/hum_hero001_H_pre</ActorHeadIcon>
+    <ActorName_SCN>安东尼</ActorName_SCN>
+    <ActorName_FCN>安东尼</ActorName_FCN>
+    <ActorName_EN>Anthony</ActorName_EN>
+    <ActorPosX>-2 </ActorPosX>
+    <ActorPosY>-398 </ActorPosY>
+    <ActorPosZ>303 </ActorPosZ>
+    <ActorScale>100 </ActorScale>
+    <ActorRotateY>180 </ActorRotateY>
+</ResGuideStoryDesc>
+<ResGuideStoryDesc version="1">
+    <ResID>30501 </ResID>
+    <GroupID>305 </GroupID>
+    <StoryName_SCN></StoryName_SCN>
+    <StoryName_FCN></StoryName_FCN>
+    <StoryName_EN></StoryName_EN>
+    <StoryType>0 </StoryType>
+    <TeamType>2 </TeamType>
+    <SpawnGroupID>-1 </SpawnGroupID>
+    <ActorResID>20000707 </ActorResID>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN>守护者，我们的防御塔受到了严重的损伤，需要&lt;color=#5aff4b&gt;维修防御塔&lt;/color&gt;！</StoryDesc_SCN>
+        <StoryDesc_FCN>守护者，我们的防御塔受到了严重的损伤，需要&lt;color=#5aff4b&gt;维修防御塔&lt;/color&gt;！</StoryDesc_FCN>
+        <StoryDesc_EN>Our Turret is badly damaged and needs to be repaired!</StoryDesc_EN>
+        <DuraTime>5000 </DuraTime>
+    </TalkPages>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN></StoryDesc_SCN>
+        <StoryDesc_FCN></StoryDesc_FCN>
+        <StoryDesc_EN></StoryDesc_EN>
+        <DuraTime>0 </DuraTime>
+    </TalkPages>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN></StoryDesc_SCN>
+        <StoryDesc_FCN></StoryDesc_FCN>
+        <StoryDesc_EN></StoryDesc_EN>
+        <DuraTime>0 </DuraTime>
+    </TalkPages>
+    <StoryAudio>audio/system/guide/newguide/52</StoryAudio>
+    <ShortestTime>1000 </ShortestTime>
+    <NextID>0 </NextID>
+    <StoryBreakType>0 </StoryBreakType>
+    <StorryBreakParam>0 </StorryBreakParam>
+    <ActorHeadIcon>prefab/character/human/hum_army01/hum_army01_H_pre</ActorHeadIcon>
+    <ActorName_SCN>步兵队长</ActorName_SCN>
+    <ActorName_FCN>步兵队长</ActorName_FCN>
+    <ActorName_EN>Dwarf Captain</ActorName_EN>
+    <ActorPosX>-15 </ActorPosX>
+    <ActorPosY>-202 </ActorPosY>
+    <ActorPosZ>384 </ActorPosZ>
+    <ActorScale>120 </ActorScale>
+    <ActorRotateY>159 </ActorRotateY>
+</ResGuideStoryDesc>
+<ResGuideStoryDesc version="1">
+    <ResID>30601 </ResID>
+    <GroupID>306 </GroupID>
+    <StoryName_SCN></StoryName_SCN>
+    <StoryName_FCN></StoryName_FCN>
+    <StoryName_EN></StoryName_EN>
+    <StoryType>0 </StoryType>
+    <TeamType>2 </TeamType>
+    <SpawnGroupID>-1 </SpawnGroupID>
+    <ActorResID>10000000 </ActorResID>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN>看来这一切都是你的主意！</StoryDesc_SCN>
+        <StoryDesc_FCN>看来这一切都是你的主意！</StoryDesc_FCN>
+        <StoryDesc_EN>So this was all your idea!</StoryDesc_EN>
+        <DuraTime>3000 </DuraTime>
+    </TalkPages>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN></StoryDesc_SCN>
+        <StoryDesc_FCN></StoryDesc_FCN>
+        <StoryDesc_EN></StoryDesc_EN>
+        <DuraTime>0 </DuraTime>
+    </TalkPages>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN></StoryDesc_SCN>
+        <StoryDesc_FCN></StoryDesc_FCN>
+        <StoryDesc_EN></StoryDesc_EN>
+        <DuraTime>0 </DuraTime>
+    </TalkPages>
+    <StoryAudio>audio/system/guide/newguide/25</StoryAudio>
+    <ShortestTime>1000 </ShortestTime>
+    <NextID>30602 </NextID>
+    <StoryBreakType>0 </StoryBreakType>
+    <StorryBreakParam>0 </StorryBreakParam>
+    <ActorHeadIcon>prefab/character/human/hum_hero001/hum_hero001_H_pre</ActorHeadIcon>
+    <ActorName_SCN>安东尼</ActorName_SCN>
+    <ActorName_FCN>安东尼</ActorName_FCN>
+    <ActorName_EN>Anthony</ActorName_EN>
+    <ActorPosX>-2 </ActorPosX>
+    <ActorPosY>-398 </ActorPosY>
+    <ActorPosZ>303 </ActorPosZ>
+    <ActorScale>100 </ActorScale>
+    <ActorRotateY>180 </ActorRotateY>
+</ResGuideStoryDesc>
+<ResGuideStoryDesc version="1">
+    <ResID>30602 </ResID>
+    <GroupID>306 </GroupID>
+    <StoryName_SCN></StoryName_SCN>
+    <StoryName_FCN></StoryName_FCN>
+    <StoryName_EN></StoryName_EN>
+    <StoryType>0 </StoryType>
+    <TeamType>1 </TeamType>
+    <SpawnGroupID>-1 </SpawnGroupID>
+    <ActorResID>10000100 </ActorResID>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN>兽人… 已经蛰伏的太久了，现在，正是重振旗鼓的大好机会。</StoryDesc_SCN>
+        <StoryDesc_FCN>兽人… 已经蛰伏的太久了，现在，正是重振旗鼓的大好机会。</StoryDesc_FCN>
+        <StoryDesc_EN>We of the Orcs have been silent for too long. Now is the time for a comeback.</StoryDesc_EN>
+        <DuraTime>10000 </DuraTime>
+    </TalkPages>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN></StoryDesc_SCN>
+        <StoryDesc_FCN></StoryDesc_FCN>
+        <StoryDesc_EN></StoryDesc_EN>
+        <DuraTime>0 </DuraTime>
+    </TalkPages>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN></StoryDesc_SCN>
+        <StoryDesc_FCN></StoryDesc_FCN>
+        <StoryDesc_EN></StoryDesc_EN>
+        <DuraTime>0 </DuraTime>
+    </TalkPages>
+    <StoryAudio>audio/system/guide/newguide/55_01</StoryAudio>
+    <ShortestTime>1000 </ShortestTime>
+    <NextID>30603 </NextID>
+    <StoryBreakType>0 </StoryBreakType>
+    <StorryBreakParam>0 </StorryBreakParam>
+    <ActorHeadIcon>prefab/character/orc/orc_hero001/orc_hero001_H_pre</ActorHeadIcon>
+    <ActorName_SCN>索伦</ActorName_SCN>
+    <ActorName_FCN>索伦</ActorName_FCN>
+    <ActorName_EN>Rothol</ActorName_EN>
+    <ActorPosX>0 </ActorPosX>
+    <ActorPosY>-301 </ActorPosY>
+    <ActorPosZ>343 </ActorPosZ>
+    <ActorScale>100 </ActorScale>
+    <ActorRotateY>180 </ActorRotateY>
+</ResGuideStoryDesc>
+<ResGuideStoryDesc version="1">
+    <ResID>30603 </ResID>
+    <GroupID>306 </GroupID>
+    <StoryName_SCN></StoryName_SCN>
+    <StoryName_FCN></StoryName_FCN>
+    <StoryName_EN></StoryName_EN>
+    <StoryType>0 </StoryType>
+    <TeamType>1 </TeamType>
+    <SpawnGroupID>-1 </SpawnGroupID>
+    <ActorResID>10000100 </ActorResID>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN>我们会让整个&lt;color=#5aff4b&gt;莫格兰大陆&lt;/color&gt;都知道，谁才是真正的征服者！</StoryDesc_SCN>
+        <StoryDesc_FCN>我们会让整个&lt;color=#5aff4b&gt;莫格兰大陆&lt;/color&gt;都知道，谁才是真正的征服者！</StoryDesc_FCN>
+        <StoryDesc_EN>We will let all of Mogland know who the true conqueror is!</StoryDesc_EN>
+        <DuraTime>8000 </DuraTime>
+    </TalkPages>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN></StoryDesc_SCN>
+        <StoryDesc_FCN></StoryDesc_FCN>
+        <StoryDesc_EN></StoryDesc_EN>
+        <DuraTime>0 </DuraTime>
+    </TalkPages>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN></StoryDesc_SCN>
+        <StoryDesc_FCN></StoryDesc_FCN>
+        <StoryDesc_EN></StoryDesc_EN>
+        <DuraTime>0 </DuraTime>
+    </TalkPages>
+    <StoryAudio>audio/system/guide/newguide/55_02</StoryAudio>
+    <ShortestTime>1000 </ShortestTime>
+    <NextID>0 </NextID>
+    <StoryBreakType>0 </StoryBreakType>
+    <StorryBreakParam>0 </StorryBreakParam>
+    <ActorHeadIcon>prefab/character/orc/orc_hero001/orc_hero001_H_pre</ActorHeadIcon>
+    <ActorName_SCN>索伦</ActorName_SCN>
+    <ActorName_FCN>索伦</ActorName_FCN>
+    <ActorName_EN>Rothol</ActorName_EN>
+    <ActorPosX>0 </ActorPosX>
+    <ActorPosY>-301 </ActorPosY>
+    <ActorPosZ>343 </ActorPosZ>
+    <ActorScale>100 </ActorScale>
+    <ActorRotateY>180 </ActorRotateY>
+</ResGuideStoryDesc>
+<ResGuideStoryDesc version="1">
+    <ResID>30701 </ResID>
+    <GroupID>307 </GroupID>
+    <StoryName_SCN></StoryName_SCN>
+    <StoryName_FCN></StoryName_FCN>
+    <StoryName_EN></StoryName_EN>
+    <StoryType>0 </StoryType>
+    <TeamType>2 </TeamType>
+    <SpawnGroupID>-1 </SpawnGroupID>
+    <ActorResID>20000707 </ActorResID>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN>不好！有埋伏…是&lt;color=#5aff4b&gt;亡灵的部队&lt;/color&gt;！我们被包围了！</StoryDesc_SCN>
+        <StoryDesc_FCN>不好！有埋伏…是&lt;color=#5aff4b&gt;亡灵的部队&lt;/color&gt;！我们被包围了！</StoryDesc_FCN>
+        <StoryDesc_EN>No! It&apos;s an ambush! The Undead are here! We&apos;re surrounded!</StoryDesc_EN>
+        <DuraTime>4000 </DuraTime>
+    </TalkPages>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN></StoryDesc_SCN>
+        <StoryDesc_FCN></StoryDesc_FCN>
+        <StoryDesc_EN></StoryDesc_EN>
+        <DuraTime>0 </DuraTime>
+    </TalkPages>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN></StoryDesc_SCN>
+        <StoryDesc_FCN></StoryDesc_FCN>
+        <StoryDesc_EN></StoryDesc_EN>
+        <DuraTime>0 </DuraTime>
+    </TalkPages>
+    <StoryAudio>audio/system/guide/newguide/53</StoryAudio>
+    <ShortestTime>1000 </ShortestTime>
+    <NextID>30702 </NextID>
+    <StoryBreakType>0 </StoryBreakType>
+    <StorryBreakParam>0 </StorryBreakParam>
+    <ActorHeadIcon>prefab/character/human/hum_army01/hum_army01_H_pre</ActorHeadIcon>
+    <ActorName_SCN>步兵队长</ActorName_SCN>
+    <ActorName_FCN>步兵队长</ActorName_FCN>
+    <ActorName_EN>Dwarf Captain</ActorName_EN>
+    <ActorPosX>-2 </ActorPosX>
+    <ActorPosY>-398 </ActorPosY>
+    <ActorPosZ>303 </ActorPosZ>
+    <ActorScale>100 </ActorScale>
+    <ActorRotateY>180 </ActorRotateY>
+</ResGuideStoryDesc>
+<ResGuideStoryDesc version="1">
+    <ResID>30702 </ResID>
+    <GroupID>307 </GroupID>
+    <StoryName_SCN></StoryName_SCN>
+    <StoryName_FCN></StoryName_FCN>
+    <StoryName_EN></StoryName_EN>
+    <StoryType>0 </StoryType>
+    <TeamType>1 </TeamType>
+    <SpawnGroupID>-1 </SpawnGroupID>
+    <ActorResID>10000100 </ActorResID>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN>年轻的法师，你将为你的冒进付出代价！在此长眠吧！</StoryDesc_SCN>
+        <StoryDesc_FCN>年轻的法师，你将为你的冒进付出代价！在此长眠吧！</StoryDesc_FCN>
+        <StoryDesc_EN>Silly, young mage, your boldness will be the end of you! This is where you die!</StoryDesc_EN>
+        <DuraTime>9000 </DuraTime>
+    </TalkPages>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN></StoryDesc_SCN>
+        <StoryDesc_FCN></StoryDesc_FCN>
+        <StoryDesc_EN></StoryDesc_EN>
+        <DuraTime>0 </DuraTime>
+    </TalkPages>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN></StoryDesc_SCN>
+        <StoryDesc_FCN></StoryDesc_FCN>
+        <StoryDesc_EN></StoryDesc_EN>
+        <DuraTime>0 </DuraTime>
+    </TalkPages>
+    <StoryAudio>audio/system/guide/newguide/56</StoryAudio>
+    <ShortestTime>1000 </ShortestTime>
+    <NextID>0 </NextID>
+    <StoryBreakType>0 </StoryBreakType>
+    <StorryBreakParam>0 </StorryBreakParam>
+    <ActorHeadIcon>prefab/character/orc/orc_hero001/orc_hero001_H_pre</ActorHeadIcon>
+    <ActorName_SCN>索伦</ActorName_SCN>
+    <ActorName_FCN>索伦</ActorName_FCN>
+    <ActorName_EN>Rothol</ActorName_EN>
+    <ActorPosX>0 </ActorPosX>
+    <ActorPosY>-301 </ActorPosY>
+    <ActorPosZ>343 </ActorPosZ>
+    <ActorScale>100 </ActorScale>
+    <ActorRotateY>180 </ActorRotateY>
+</ResGuideStoryDesc>
+<ResGuideStoryDesc version="1">
+    <ResID>30801 </ResID>
+    <GroupID>308 </GroupID>
+    <StoryName_SCN></StoryName_SCN>
+    <StoryName_FCN></StoryName_FCN>
+    <StoryName_EN></StoryName_EN>
+    <StoryType>0 </StoryType>
+    <TeamType>2 </TeamType>
+    <SpawnGroupID>-1 </SpawnGroupID>
+    <ActorResID>10000000 </ActorResID>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN>坚持住，&lt;color=#5aff4b&gt;援军&lt;/color&gt;马上就到！</StoryDesc_SCN>
+        <StoryDesc_FCN>坚持住，&lt;color=#5aff4b&gt;援军&lt;/color&gt;马上就到！</StoryDesc_FCN>
+        <StoryDesc_EN>Hold your ground! Reinforcements are coming!</StoryDesc_EN>
+        <DuraTime>2100 </DuraTime>
+    </TalkPages>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN></StoryDesc_SCN>
+        <StoryDesc_FCN></StoryDesc_FCN>
+        <StoryDesc_EN></StoryDesc_EN>
+        <DuraTime>0 </DuraTime>
+    </TalkPages>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN></StoryDesc_SCN>
+        <StoryDesc_FCN></StoryDesc_FCN>
+        <StoryDesc_EN></StoryDesc_EN>
+        <DuraTime>0 </DuraTime>
+    </TalkPages>
+    <StoryAudio>audio/system/guide/newguide/70</StoryAudio>
+    <ShortestTime>1000 </ShortestTime>
+    <NextID>0 </NextID>
+    <StoryBreakType>0 </StoryBreakType>
+    <StorryBreakParam>0 </StorryBreakParam>
+    <ActorHeadIcon>prefab/character/human/hum_hero001/hum_hero001_H_pre</ActorHeadIcon>
+    <ActorName_SCN>安东尼</ActorName_SCN>
+    <ActorName_FCN>安东尼</ActorName_FCN>
+    <ActorName_EN>Anthony</ActorName_EN>
+    <ActorPosX>-2 </ActorPosX>
+    <ActorPosY>-398 </ActorPosY>
+    <ActorPosZ>303 </ActorPosZ>
+    <ActorScale>100 </ActorScale>
+    <ActorRotateY>180 </ActorRotateY>
+</ResGuideStoryDesc>
+<ResGuideStoryDesc version="1">
+    <ResID>39902 </ResID>
+    <GroupID>399 </GroupID>
+    <StoryName_SCN></StoryName_SCN>
+    <StoryName_FCN></StoryName_FCN>
+    <StoryName_EN></StoryName_EN>
+    <StoryType>0 </StoryType>
+    <TeamType>2 </TeamType>
+    <SpawnGroupID>-1 </SpawnGroupID>
+    <ActorResID>20000707 </ActorResID>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN>不好！兽人发现我们了！</StoryDesc_SCN>
+        <StoryDesc_FCN>不好！兽人发现我们了！</StoryDesc_FCN>
+        <StoryDesc_EN>No! The Orcs have found us!</StoryDesc_EN>
+        <DuraTime>3000 </DuraTime>
+    </TalkPages>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN></StoryDesc_SCN>
+        <StoryDesc_FCN></StoryDesc_FCN>
+        <StoryDesc_EN></StoryDesc_EN>
+        <DuraTime>0 </DuraTime>
+    </TalkPages>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN></StoryDesc_SCN>
+        <StoryDesc_FCN></StoryDesc_FCN>
+        <StoryDesc_EN></StoryDesc_EN>
+        <DuraTime>0 </DuraTime>
+    </TalkPages>
+    <StoryAudio>audio/system/guide/newguide/51</StoryAudio>
+    <ShortestTime>1000 </ShortestTime>
+    <NextID>0 </NextID>
+    <StoryBreakType>0 </StoryBreakType>
+    <StorryBreakParam>0 </StorryBreakParam>
+    <ActorHeadIcon>prefab/character/human/hum_army01/hum_army01_H_pre</ActorHeadIcon>
+    <ActorName_SCN>步兵队长</ActorName_SCN>
+    <ActorName_FCN>步兵队长</ActorName_FCN>
+    <ActorName_EN>Dwarf Captain</ActorName_EN>
+    <ActorPosX>-15 </ActorPosX>
+    <ActorPosY>-202 </ActorPosY>
+    <ActorPosZ>384 </ActorPosZ>
+    <ActorScale>120 </ActorScale>
+    <ActorRotateY>159 </ActorRotateY>
+</ResGuideStoryDesc>
+<ResGuideStoryDesc version="1">
+    <ResID>40101 </ResID>
+    <GroupID>401 </GroupID>
+    <StoryName_SCN></StoryName_SCN>
+    <StoryName_FCN></StoryName_FCN>
+    <StoryName_EN></StoryName_EN>
+    <StoryType>0 </StoryType>
+    <TeamType>2 </TeamType>
+    <SpawnGroupID>-1 </SpawnGroupID>
+    <ActorResID>10000000 </ActorResID>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN>我们成功守住了金矿，现在我们已经有足够的金币来&lt;color=#5aff4b&gt;升级城堡&lt;/color&gt;，并&lt;color=#5aff4b&gt;训练修女&lt;/color&gt;了！</StoryDesc_SCN>
+        <StoryDesc_FCN>我们成功守住了金矿，现在我们已经有足够的金币来&lt;color=#5aff4b&gt;升级城堡&lt;/color&gt;，并&lt;color=#5aff4b&gt;训练修女&lt;/color&gt;了！</StoryDesc_FCN>
+        <StoryDesc_EN>We now have enough gold to upgrade the castle and train Clerics!</StoryDesc_EN>
+        <DuraTime>6000 </DuraTime>
+    </TalkPages>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN></StoryDesc_SCN>
+        <StoryDesc_FCN></StoryDesc_FCN>
+        <StoryDesc_EN></StoryDesc_EN>
+        <DuraTime>0 </DuraTime>
+    </TalkPages>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN></StoryDesc_SCN>
+        <StoryDesc_FCN></StoryDesc_FCN>
+        <StoryDesc_EN></StoryDesc_EN>
+        <DuraTime>0 </DuraTime>
+    </TalkPages>
+    <StoryAudio>audio/system/guide/newguide/30</StoryAudio>
+    <ShortestTime>1000 </ShortestTime>
+    <NextID>0 </NextID>
+    <StoryBreakType>0 </StoryBreakType>
+    <StorryBreakParam>0 </StorryBreakParam>
+    <ActorHeadIcon>prefab/character/human/hum_hero001/hum_hero001_H_pre</ActorHeadIcon>
+    <ActorName_SCN>安东尼</ActorName_SCN>
+    <ActorName_FCN>安东尼</ActorName_FCN>
+    <ActorName_EN>Anthony</ActorName_EN>
+    <ActorPosX>-2 </ActorPosX>
+    <ActorPosY>-398 </ActorPosY>
+    <ActorPosZ>303 </ActorPosZ>
+    <ActorScale>100 </ActorScale>
+    <ActorRotateY>180 </ActorRotateY>
+</ResGuideStoryDesc>
+<ResGuideStoryDesc version="1">
+    <ResID>40201 </ResID>
+    <GroupID>402 </GroupID>
+    <StoryName_SCN></StoryName_SCN>
+    <StoryName_FCN></StoryName_FCN>
+    <StoryName_EN></StoryName_EN>
+    <StoryType>0 </StoryType>
+    <TeamType>2 </TeamType>
+    <SpawnGroupID>-1 </SpawnGroupID>
+    <ActorResID>20000707 </ActorResID>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN>守护者，城堡已经&lt;color=#5aff4b&gt;升级完成&lt;/color&gt;！</StoryDesc_SCN>
+        <StoryDesc_FCN>守护者，城堡已经&lt;color=#5aff4b&gt;升级完成&lt;/color&gt;！</StoryDesc_FCN>
+        <StoryDesc_EN>The Castle&apos;s upgrade is complete!</StoryDesc_EN>
+        <DuraTime>3000 </DuraTime>
+    </TalkPages>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN></StoryDesc_SCN>
+        <StoryDesc_FCN></StoryDesc_FCN>
+        <StoryDesc_EN></StoryDesc_EN>
+        <DuraTime>0 </DuraTime>
+    </TalkPages>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN></StoryDesc_SCN>
+        <StoryDesc_FCN></StoryDesc_FCN>
+        <StoryDesc_EN></StoryDesc_EN>
+        <DuraTime>0 </DuraTime>
+    </TalkPages>
+    <StoryAudio>audio/system/guide/newguide/54</StoryAudio>
+    <ShortestTime>1000 </ShortestTime>
+    <NextID>40202 </NextID>
+    <StoryBreakType>0 </StoryBreakType>
+    <StorryBreakParam>0 </StorryBreakParam>
+    <ActorHeadIcon>prefab/character/human/hum_army01/hum_army01_H_pre</ActorHeadIcon>
+    <ActorName_SCN>步兵队长</ActorName_SCN>
+    <ActorName_FCN>步兵队长</ActorName_FCN>
+    <ActorName_EN>Dwarf Captain</ActorName_EN>
+    <ActorPosX>-15 </ActorPosX>
+    <ActorPosY>-202 </ActorPosY>
+    <ActorPosZ>384 </ActorPosZ>
+    <ActorScale>120 </ActorScale>
+    <ActorRotateY>159 </ActorRotateY>
+</ResGuideStoryDesc>
+<ResGuideStoryDesc version="1">
+    <ResID>40202 </ResID>
+    <GroupID>402 </GroupID>
+    <StoryName_SCN></StoryName_SCN>
+    <StoryName_FCN></StoryName_FCN>
+    <StoryName_EN></StoryName_EN>
+    <StoryType>0 </StoryType>
+    <TeamType>2 </TeamType>
+    <SpawnGroupID>-1 </SpawnGroupID>
+    <ActorResID>10000000 </ActorResID>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN>很好，立刻&lt;color=#5aff4b&gt;训练修女&lt;/color&gt;，支援战斗！</StoryDesc_SCN>
+        <StoryDesc_FCN>很好，立刻&lt;color=#5aff4b&gt;训练修女&lt;/color&gt;，支援战斗！</StoryDesc_FCN>
+        <StoryDesc_EN>Great, now train Clerics to support our troops!</StoryDesc_EN>
+        <DuraTime>3000 </DuraTime>
+    </TalkPages>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN></StoryDesc_SCN>
+        <StoryDesc_FCN></StoryDesc_FCN>
+        <StoryDesc_EN></StoryDesc_EN>
+        <DuraTime>0 </DuraTime>
+    </TalkPages>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN></StoryDesc_SCN>
+        <StoryDesc_FCN></StoryDesc_FCN>
+        <StoryDesc_EN></StoryDesc_EN>
+        <DuraTime>0 </DuraTime>
+    </TalkPages>
+    <StoryAudio>audio/system/guide/newguide/31</StoryAudio>
+    <ShortestTime>1000 </ShortestTime>
+    <NextID>0 </NextID>
+    <StoryBreakType>0 </StoryBreakType>
+    <StorryBreakParam>0 </StorryBreakParam>
+    <ActorHeadIcon>prefab/character/human/hum_hero001/hum_hero001_H_pre</ActorHeadIcon>
+    <ActorName_SCN>安东尼</ActorName_SCN>
+    <ActorName_FCN>安东尼</ActorName_FCN>
+    <ActorName_EN>Anthony</ActorName_EN>
+    <ActorPosX>-2 </ActorPosX>
+    <ActorPosY>-398 </ActorPosY>
+    <ActorPosZ>303 </ActorPosZ>
+    <ActorScale>100 </ActorScale>
+    <ActorRotateY>180 </ActorRotateY>
+</ResGuideStoryDesc>
+<ResGuideStoryDesc version="1">
+    <ResID>40301 </ResID>
+    <GroupID>403 </GroupID>
+    <StoryName_SCN></StoryName_SCN>
+    <StoryName_FCN></StoryName_FCN>
+    <StoryName_EN></StoryName_EN>
+    <StoryType>0 </StoryType>
+    <TeamType>2 </TeamType>
+    <SpawnGroupID>4 </SpawnGroupID>
+    <ActorResID>20000755 </ActorResID>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN>守护者，我们侦查到峡谷深处栖息着一只&lt;color=#5aff4b&gt;圣甲虫&lt;/color&gt;。</StoryDesc_SCN>
+        <StoryDesc_FCN>守护者，我们侦查到峡谷深处栖息着一只&lt;color=#5aff4b&gt;圣甲虫&lt;/color&gt;。</StoryDesc_FCN>
+        <StoryDesc_EN>We have detected a Holy Scarab deep within the canyon.</StoryDesc_EN>
+        <DuraTime>5000 </DuraTime>
+    </TalkPages>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN></StoryDesc_SCN>
+        <StoryDesc_FCN></StoryDesc_FCN>
+        <StoryDesc_EN></StoryDesc_EN>
+        <DuraTime>0 </DuraTime>
+    </TalkPages>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN></StoryDesc_SCN>
+        <StoryDesc_FCN></StoryDesc_FCN>
+        <StoryDesc_EN></StoryDesc_EN>
+        <DuraTime>0 </DuraTime>
+    </TalkPages>
+    <StoryAudio>audio/system/guide/newguide/60_01</StoryAudio>
+    <ShortestTime>1000 </ShortestTime>
+    <NextID>40302 </NextID>
+    <StoryBreakType>0 </StoryBreakType>
+    <StorryBreakParam>0 </StorryBreakParam>
+    <ActorHeadIcon>prefab/character/monster/monster_maotouying/maotouying_ui_pre</ActorHeadIcon>
+    <ActorName_SCN>精灵信使</ActorName_SCN>
+    <ActorName_FCN>精灵信使</ActorName_FCN>
+    <ActorName_EN>Elf Messenger</ActorName_EN>
+    <ActorPosX>1 </ActorPosX>
+    <ActorPosY>-85 </ActorPosY>
+    <ActorPosZ>337 </ActorPosZ>
+    <ActorScale>120 </ActorScale>
+    <ActorRotateY>180 </ActorRotateY>
+</ResGuideStoryDesc>
+<ResGuideStoryDesc version="1">
+    <ResID>40302 </ResID>
+    <GroupID>403 </GroupID>
+    <StoryName_SCN></StoryName_SCN>
+    <StoryName_FCN></StoryName_FCN>
+    <StoryName_EN></StoryName_EN>
+    <StoryType>0 </StoryType>
+    <TeamType>2 </TeamType>
+    <SpawnGroupID>4 </SpawnGroupID>
+    <ActorResID>20000755 </ActorResID>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN>如果我们能&lt;color=#5aff4b&gt;击败圣甲虫&lt;/color&gt;，拿到它所看守的&lt;color=#5aff4b&gt;神器&lt;/color&gt;，可以帮助你战胜索伦。</StoryDesc_SCN>
+        <StoryDesc_FCN>如果我们能&lt;color=#5aff4b&gt;击败圣甲虫&lt;/color&gt;，拿到它所看守的&lt;color=#5aff4b&gt;神器&lt;/color&gt;，可以帮助你战胜索伦。</StoryDesc_FCN>
+        <StoryDesc_EN>If we can defeat the Holy Scarab and get the artifact it guards, it will help you defeat Rothol.</StoryDesc_EN>
+        <DuraTime>6000 </DuraTime>
+    </TalkPages>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN></StoryDesc_SCN>
+        <StoryDesc_FCN></StoryDesc_FCN>
+        <StoryDesc_EN></StoryDesc_EN>
+        <DuraTime>0 </DuraTime>
+    </TalkPages>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN></StoryDesc_SCN>
+        <StoryDesc_FCN></StoryDesc_FCN>
+        <StoryDesc_EN></StoryDesc_EN>
+        <DuraTime>0 </DuraTime>
+    </TalkPages>
+    <StoryAudio>audio/system/guide/newguide/60_02</StoryAudio>
+    <ShortestTime>1000 </ShortestTime>
+    <NextID>40303 </NextID>
+    <StoryBreakType>0 </StoryBreakType>
+    <StorryBreakParam>0 </StorryBreakParam>
+    <ActorHeadIcon>prefab/character/monster/monster_maotouying/maotouying_ui_pre</ActorHeadIcon>
+    <ActorName_SCN>精灵信使</ActorName_SCN>
+    <ActorName_FCN>精灵信使</ActorName_FCN>
+    <ActorName_EN>Elf Messenger</ActorName_EN>
+    <ActorPosX>1 </ActorPosX>
+    <ActorPosY>-85 </ActorPosY>
+    <ActorPosZ>337 </ActorPosZ>
+    <ActorScale>120 </ActorScale>
+    <ActorRotateY>180 </ActorRotateY>
+</ResGuideStoryDesc>
+<ResGuideStoryDesc version="1">
+    <ResID>40303 </ResID>
+    <GroupID>403 </GroupID>
+    <StoryName_SCN></StoryName_SCN>
+    <StoryName_FCN></StoryName_FCN>
+    <StoryName_EN></StoryName_EN>
+    <StoryType>0 </StoryType>
+    <TeamType>2 </TeamType>
+    <SpawnGroupID>-1 </SpawnGroupID>
+    <ActorResID>10000000 </ActorResID>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN>感谢你，信使。</StoryDesc_SCN>
+        <StoryDesc_FCN>感谢你，信使。</StoryDesc_FCN>
+        <StoryDesc_EN>You have my thanks.</StoryDesc_EN>
+        <DuraTime>3000 </DuraTime>
+    </TalkPages>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN></StoryDesc_SCN>
+        <StoryDesc_FCN></StoryDesc_FCN>
+        <StoryDesc_EN></StoryDesc_EN>
+        <DuraTime>0 </DuraTime>
+    </TalkPages>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN></StoryDesc_SCN>
+        <StoryDesc_FCN></StoryDesc_FCN>
+        <StoryDesc_EN></StoryDesc_EN>
+        <DuraTime>0 </DuraTime>
+    </TalkPages>
+    <StoryAudio>audio/system/guide/newguide/32</StoryAudio>
+    <ShortestTime>1000 </ShortestTime>
+    <NextID>0 </NextID>
+    <StoryBreakType>0 </StoryBreakType>
+    <StorryBreakParam>0 </StorryBreakParam>
+    <ActorHeadIcon>prefab/character/human/hum_hero001/hum_hero001_H_pre</ActorHeadIcon>
+    <ActorName_SCN>安东尼</ActorName_SCN>
+    <ActorName_FCN>安东尼</ActorName_FCN>
+    <ActorName_EN>Anthony</ActorName_EN>
+    <ActorPosX>-2 </ActorPosX>
+    <ActorPosY>-398 </ActorPosY>
+    <ActorPosZ>303 </ActorPosZ>
+    <ActorScale>100 </ActorScale>
+    <ActorRotateY>180 </ActorRotateY>
+</ResGuideStoryDesc>
+<ResGuideStoryDesc version="1">
+    <ResID>40401 </ResID>
+    <GroupID>404 </GroupID>
+    <StoryName_SCN></StoryName_SCN>
+    <StoryName_FCN></StoryName_FCN>
+    <StoryName_EN></StoryName_EN>
+    <StoryType>0 </StoryType>
+    <TeamType>2 </TeamType>
+    <SpawnGroupID>-1 </SpawnGroupID>
+    <ActorResID>10000000 </ActorResID>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN>打起精神，这将是一场恶战。</StoryDesc_SCN>
+        <StoryDesc_FCN>打起精神，这将是一场恶战。</StoryDesc_FCN>
+        <StoryDesc_EN>Keep your wits about you. This is going to be a tough fight.</StoryDesc_EN>
+        <DuraTime>3000 </DuraTime>
+    </TalkPages>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN></StoryDesc_SCN>
+        <StoryDesc_FCN></StoryDesc_FCN>
+        <StoryDesc_EN></StoryDesc_EN>
+        <DuraTime>0 </DuraTime>
+    </TalkPages>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN></StoryDesc_SCN>
+        <StoryDesc_FCN></StoryDesc_FCN>
+        <StoryDesc_EN></StoryDesc_EN>
+        <DuraTime>0 </DuraTime>
+    </TalkPages>
+    <StoryAudio>audio/system/guide/newguide/33</StoryAudio>
+    <ShortestTime>1000 </ShortestTime>
+    <NextID>0 </NextID>
+    <StoryBreakType>0 </StoryBreakType>
+    <StorryBreakParam>0 </StorryBreakParam>
+    <ActorHeadIcon>prefab/character/human/hum_hero001/hum_hero001_H_pre</ActorHeadIcon>
+    <ActorName_SCN>安东尼</ActorName_SCN>
+    <ActorName_FCN>安东尼</ActorName_FCN>
+    <ActorName_EN>Anthony</ActorName_EN>
+    <ActorPosX>-2 </ActorPosX>
+    <ActorPosY>-398 </ActorPosY>
+    <ActorPosZ>303 </ActorPosZ>
+    <ActorScale>100 </ActorScale>
+    <ActorRotateY>180 </ActorRotateY>
+</ResGuideStoryDesc>
+<ResGuideStoryDesc version="1">
+    <ResID>40501 </ResID>
+    <GroupID>405 </GroupID>
+    <StoryName_SCN></StoryName_SCN>
+    <StoryName_FCN></StoryName_FCN>
+    <StoryName_EN></StoryName_EN>
+    <StoryType>0 </StoryType>
+    <TeamType>2 </TeamType>
+    <SpawnGroupID>-1 </SpawnGroupID>
+    <ActorResID>10000000 </ActorResID>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN>&lt;color=#5aff4b&gt;冰霜守护&lt;/color&gt;！这件神器能大幅增强部队的&lt;color=#5aff4b&gt;防御能力&lt;/color&gt;。我们现在可以去摧毁传送门的能量来源了！</StoryDesc_SCN>
+        <StoryDesc_FCN>&lt;color=#5aff4b&gt;冰霜守护&lt;/color&gt;！这件神器能大幅增强部队的&lt;color=#5aff4b&gt;防御能力&lt;/color&gt;。我们现在可以去摧毁传送门的能量来源了！</StoryDesc_FCN>
+        <StoryDesc_EN>The Frost Guard! This artifact can greatly increase our troops defenses. Now we can go destroy the source of the portal.</StoryDesc_EN>
+        <DuraTime>8000 </DuraTime>
+    </TalkPages>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN></StoryDesc_SCN>
+        <StoryDesc_FCN></StoryDesc_FCN>
+        <StoryDesc_EN></StoryDesc_EN>
+        <DuraTime>0 </DuraTime>
+    </TalkPages>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN></StoryDesc_SCN>
+        <StoryDesc_FCN></StoryDesc_FCN>
+        <StoryDesc_EN></StoryDesc_EN>
+        <DuraTime>0 </DuraTime>
+    </TalkPages>
+    <StoryAudio>audio/system/guide/newguide/34</StoryAudio>
+    <ShortestTime>1000 </ShortestTime>
+    <NextID>0 </NextID>
+    <StoryBreakType>0 </StoryBreakType>
+    <StorryBreakParam>0 </StorryBreakParam>
+    <ActorHeadIcon>prefab/character/human/hum_hero001/hum_hero001_H_pre</ActorHeadIcon>
+    <ActorName_SCN>安东尼</ActorName_SCN>
+    <ActorName_FCN>安东尼</ActorName_FCN>
+    <ActorName_EN>Anthony</ActorName_EN>
+    <ActorPosX>-2 </ActorPosX>
+    <ActorPosY>-398 </ActorPosY>
+    <ActorPosZ>303 </ActorPosZ>
+    <ActorScale>100 </ActorScale>
+    <ActorRotateY>180 </ActorRotateY>
+</ResGuideStoryDesc>
+<ResGuideStoryDesc version="1">
+    <ResID>40601 </ResID>
+    <GroupID>406 </GroupID>
+    <StoryName_SCN></StoryName_SCN>
+    <StoryName_FCN></StoryName_FCN>
+    <StoryName_EN></StoryName_EN>
+    <StoryType>0 </StoryType>
+    <TeamType>2 </TeamType>
+    <SpawnGroupID>5 </SpawnGroupID>
+    <ActorResID>20000755 </ActorResID>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN>这里有着强烈的魔力涌动，传送门的能量之源应该就在这道&lt;color=#5aff4b&gt;石墙后面&lt;/color&gt;。</StoryDesc_SCN>
+        <StoryDesc_FCN>这里有着强烈的魔力涌动，传送门的能量之源应该就在这道&lt;color=#5aff4b&gt;石墙后面&lt;/color&gt;。</StoryDesc_FCN>
+        <StoryDesc_EN>I feel a strong surge of magic, the source of the portal energy should be behind this stone wall.</StoryDesc_EN>
+        <DuraTime>6200 </DuraTime>
+    </TalkPages>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN></StoryDesc_SCN>
+        <StoryDesc_FCN></StoryDesc_FCN>
+        <StoryDesc_EN></StoryDesc_EN>
+        <DuraTime>0 </DuraTime>
+    </TalkPages>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN></StoryDesc_SCN>
+        <StoryDesc_FCN></StoryDesc_FCN>
+        <StoryDesc_EN></StoryDesc_EN>
+        <DuraTime>0 </DuraTime>
+    </TalkPages>
+    <StoryAudio>audio/system/guide/newguide/61_01</StoryAudio>
+    <ShortestTime>1000 </ShortestTime>
+    <NextID>40602 </NextID>
+    <StoryBreakType>0 </StoryBreakType>
+    <StorryBreakParam>0 </StorryBreakParam>
+    <ActorHeadIcon>prefab/character/monster/monster_maotouying/maotouying_ui_pre</ActorHeadIcon>
+    <ActorName_SCN>精灵信使</ActorName_SCN>
+    <ActorName_FCN>精灵信使</ActorName_FCN>
+    <ActorName_EN>Elf Messenger</ActorName_EN>
+    <ActorPosX>1 </ActorPosX>
+    <ActorPosY>-85 </ActorPosY>
+    <ActorPosZ>337 </ActorPosZ>
+    <ActorScale>120 </ActorScale>
+    <ActorRotateY>180 </ActorRotateY>
+</ResGuideStoryDesc>
+<ResGuideStoryDesc version="1">
+    <ResID>40602 </ResID>
+    <GroupID>406 </GroupID>
+    <StoryName_SCN></StoryName_SCN>
+    <StoryName_FCN></StoryName_FCN>
+    <StoryName_EN></StoryName_EN>
+    <StoryType>0 </StoryType>
+    <TeamType>2 </TeamType>
+    <SpawnGroupID>5 </SpawnGroupID>
+    <ActorResID>20000755 </ActorResID>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN>如果能利用&lt;color=#5aff4b&gt;沙漠之王&lt;/color&gt;战士的&lt;color=#5aff4b&gt;强力一击&lt;/color&gt;，也许能瞬间瓦解掉这道石墙。</StoryDesc_SCN>
+        <StoryDesc_FCN>如果能利用&lt;color=#5aff4b&gt;沙漠之王&lt;/color&gt;战士的&lt;color=#5aff4b&gt;强力一击&lt;/color&gt;，也许能瞬间瓦解掉这道石墙。</StoryDesc_FCN>
+        <StoryDesc_EN>If you can invoke the power of the Desert King, it might be strong enough to break the wall.</StoryDesc_EN>
+        <DuraTime>6000 </DuraTime>
+    </TalkPages>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN></StoryDesc_SCN>
+        <StoryDesc_FCN></StoryDesc_FCN>
+        <StoryDesc_EN></StoryDesc_EN>
+        <DuraTime>0 </DuraTime>
+    </TalkPages>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN></StoryDesc_SCN>
+        <StoryDesc_FCN></StoryDesc_FCN>
+        <StoryDesc_EN></StoryDesc_EN>
+        <DuraTime>0 </DuraTime>
+    </TalkPages>
+    <StoryAudio>audio/system/guide/newguide/62_01</StoryAudio>
+    <ShortestTime>1000 </ShortestTime>
+    <NextID>40603 </NextID>
+    <StoryBreakType>0 </StoryBreakType>
+    <StorryBreakParam>0 </StorryBreakParam>
+    <ActorHeadIcon>prefab/character/monster/monster_maotouying/maotouying_ui_pre</ActorHeadIcon>
+    <ActorName_SCN>精灵信使</ActorName_SCN>
+    <ActorName_FCN>精灵信使</ActorName_FCN>
+    <ActorName_EN>Elf Messenger</ActorName_EN>
+    <ActorPosX>1 </ActorPosX>
+    <ActorPosY>-85 </ActorPosY>
+    <ActorPosZ>337 </ActorPosZ>
+    <ActorScale>120 </ActorScale>
+    <ActorRotateY>180 </ActorRotateY>
+</ResGuideStoryDesc>
+<ResGuideStoryDesc version="1">
+    <ResID>40603 </ResID>
+    <GroupID>406 </GroupID>
+    <StoryName_SCN></StoryName_SCN>
+    <StoryName_FCN></StoryName_FCN>
+    <StoryName_EN></StoryName_EN>
+    <StoryType>0 </StoryType>
+    <TeamType>2 </TeamType>
+    <SpawnGroupID>5 </SpawnGroupID>
+    <ActorResID>20000755 </ActorResID>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN>不过要&lt;color=#5aff4b&gt;召唤&lt;/color&gt;沙漠之王战士，必须要挑战强大的&lt;color=#5aff4b&gt;沙漠之王&lt;/color&gt;，拿到它的&lt;color=#5aff4b&gt;统帅之刃&lt;/color&gt;。</StoryDesc_SCN>
+        <StoryDesc_FCN>不过要&lt;color=#5aff4b&gt;召唤&lt;/color&gt;沙漠之王战士，必须要挑战强大的&lt;color=#5aff4b&gt;沙漠之王&lt;/color&gt;，拿到它的&lt;color=#5aff4b&gt;统帅之刃&lt;/color&gt;。</StoryDesc_FCN>
+        <StoryDesc_EN>In order to summon the Desert King, you must beat him and take his Blade of Commandment.</StoryDesc_EN>
+        <DuraTime>7000 </DuraTime>
+    </TalkPages>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN></StoryDesc_SCN>
+        <StoryDesc_FCN></StoryDesc_FCN>
+        <StoryDesc_EN></StoryDesc_EN>
+        <DuraTime>0 </DuraTime>
+    </TalkPages>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN></StoryDesc_SCN>
+        <StoryDesc_FCN></StoryDesc_FCN>
+        <StoryDesc_EN></StoryDesc_EN>
+        <DuraTime>0 </DuraTime>
+    </TalkPages>
+    <StoryAudio>audio/system/guide/newguide/62_02</StoryAudio>
+    <ShortestTime>1000 </ShortestTime>
+    <NextID>40604 </NextID>
+    <StoryBreakType>0 </StoryBreakType>
+    <StorryBreakParam>0 </StorryBreakParam>
+    <ActorHeadIcon>prefab/character/monster/monster_maotouying/maotouying_ui_pre</ActorHeadIcon>
+    <ActorName_SCN>精灵信使</ActorName_SCN>
+    <ActorName_FCN>精灵信使</ActorName_FCN>
+    <ActorName_EN>Elf Messenger</ActorName_EN>
+    <ActorPosX>1 </ActorPosX>
+    <ActorPosY>-85 </ActorPosY>
+    <ActorPosZ>337 </ActorPosZ>
+    <ActorScale>120 </ActorScale>
+    <ActorRotateY>180 </ActorRotateY>
+</ResGuideStoryDesc>
+<ResGuideStoryDesc version="1">
+    <ResID>40604 </ResID>
+    <GroupID>406 </GroupID>
+    <StoryName_SCN></StoryName_SCN>
+    <StoryName_FCN></StoryName_FCN>
+    <StoryName_EN></StoryName_EN>
+    <StoryType>0 </StoryType>
+    <TeamType>2 </TeamType>
+    <SpawnGroupID>-1 </SpawnGroupID>
+    <ActorResID>10000000 </ActorResID>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN>我们现在没有退路了。</StoryDesc_SCN>
+        <StoryDesc_FCN>我们现在没有退路了。</StoryDesc_FCN>
+        <StoryDesc_EN>Well, we didn&apos;t come this far to falter now.</StoryDesc_EN>
+        <DuraTime>2000 </DuraTime>
+    </TalkPages>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN></StoryDesc_SCN>
+        <StoryDesc_FCN></StoryDesc_FCN>
+        <StoryDesc_EN></StoryDesc_EN>
+        <DuraTime>0 </DuraTime>
+    </TalkPages>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN></StoryDesc_SCN>
+        <StoryDesc_FCN></StoryDesc_FCN>
+        <StoryDesc_EN></StoryDesc_EN>
+        <DuraTime>0 </DuraTime>
+    </TalkPages>
+    <StoryAudio>audio/system/guide/newguide/35</StoryAudio>
+    <ShortestTime>1000 </ShortestTime>
+    <NextID>0 </NextID>
+    <StoryBreakType>0 </StoryBreakType>
+    <StorryBreakParam>0 </StorryBreakParam>
+    <ActorHeadIcon>prefab/character/human/hum_hero001/hum_hero001_H_pre</ActorHeadIcon>
+    <ActorName_SCN>安东尼</ActorName_SCN>
+    <ActorName_FCN>安东尼</ActorName_FCN>
+    <ActorName_EN>Anthony</ActorName_EN>
+    <ActorPosX>-2 </ActorPosX>
+    <ActorPosY>-398 </ActorPosY>
+    <ActorPosZ>303 </ActorPosZ>
+    <ActorScale>100 </ActorScale>
+    <ActorRotateY>180 </ActorRotateY>
+</ResGuideStoryDesc>
+<ResGuideStoryDesc version="1">
+    <ResID>40701 </ResID>
+    <GroupID>407 </GroupID>
+    <StoryName_SCN></StoryName_SCN>
+    <StoryName_FCN></StoryName_FCN>
+    <StoryName_EN></StoryName_EN>
+    <StoryType>0 </StoryType>
+    <TeamType>0 </TeamType>
+    <SpawnGroupID>2 </SpawnGroupID>
+    <ActorResID>20000757 </ActorResID>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN>你们竟敢踏足我的领地…做好被碾碎的准备吧蝼蚁们！</StoryDesc_SCN>
+        <StoryDesc_FCN>你们竟敢踏足我的领地…做好被碾碎的准备吧蝼蚁们！</StoryDesc_FCN>
+        <StoryDesc_EN>How dare you come to my territory! You will be crushed like ants!</StoryDesc_EN>
+        <DuraTime>10100 </DuraTime>
+    </TalkPages>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN></StoryDesc_SCN>
+        <StoryDesc_FCN></StoryDesc_FCN>
+        <StoryDesc_EN></StoryDesc_EN>
+        <DuraTime>0 </DuraTime>
+    </TalkPages>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN></StoryDesc_SCN>
+        <StoryDesc_FCN></StoryDesc_FCN>
+        <StoryDesc_EN></StoryDesc_EN>
+        <DuraTime>0 </DuraTime>
+    </TalkPages>
+    <StoryAudio>audio/system/guide/newguide/63</StoryAudio>
+    <ShortestTime>1000 </ShortestTime>
+    <NextID>0 </NextID>
+    <StoryBreakType>0 </StoryBreakType>
+    <StorryBreakParam>0 </StorryBreakParam>
+    <ActorHeadIcon>prefab/character/monster/monster_sandking/monster_sandking_show_pre</ActorHeadIcon>
+    <ActorName_SCN>沙漠之王</ActorName_SCN>
+    <ActorName_FCN>沙漠之王</ActorName_FCN>
+    <ActorName_EN>The Desert King</ActorName_EN>
+    <ActorPosX>0 </ActorPosX>
+    <ActorPosY>-983 </ActorPosY>
+    <ActorPosZ>1494 </ActorPosZ>
+    <ActorScale>100 </ActorScale>
+    <ActorRotateY>137 </ActorRotateY>
+</ResGuideStoryDesc>
+<ResGuideStoryDesc version="1">
+    <ResID>40801 </ResID>
+    <GroupID>408 </GroupID>
+    <StoryName_SCN></StoryName_SCN>
+    <StoryName_FCN></StoryName_FCN>
+    <StoryName_EN></StoryName_EN>
+    <StoryType>0 </StoryType>
+    <TeamType>2 </TeamType>
+    <SpawnGroupID>-1 </SpawnGroupID>
+    <ActorResID>10000000 </ActorResID>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN>&lt;color=#5aff4b&gt;统帅之刃&lt;/color&gt;！是时候让兽人付出代价了！</StoryDesc_SCN>
+        <StoryDesc_FCN>&lt;color=#5aff4b&gt;统帅之刃&lt;/color&gt;！是时候让兽人付出代价了！</StoryDesc_FCN>
+        <StoryDesc_EN>The Blade of Commandment! It is time for these Orcs to pay!</StoryDesc_EN>
+        <DuraTime>3300 </DuraTime>
+    </TalkPages>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN></StoryDesc_SCN>
+        <StoryDesc_FCN></StoryDesc_FCN>
+        <StoryDesc_EN></StoryDesc_EN>
+        <DuraTime>0 </DuraTime>
+    </TalkPages>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN></StoryDesc_SCN>
+        <StoryDesc_FCN></StoryDesc_FCN>
+        <StoryDesc_EN></StoryDesc_EN>
+        <DuraTime>0 </DuraTime>
+    </TalkPages>
+    <StoryAudio>audio/system/guide/newguide/36</StoryAudio>
+    <ShortestTime>1000 </ShortestTime>
+    <NextID>0 </NextID>
+    <StoryBreakType>0 </StoryBreakType>
+    <StorryBreakParam>0 </StorryBreakParam>
+    <ActorHeadIcon>prefab/character/human/hum_hero001/hum_hero001_H_pre</ActorHeadIcon>
+    <ActorName_SCN>安东尼</ActorName_SCN>
+    <ActorName_FCN>安东尼</ActorName_FCN>
+    <ActorName_EN>Anthony</ActorName_EN>
+    <ActorPosX>-2 </ActorPosX>
+    <ActorPosY>-398 </ActorPosY>
+    <ActorPosZ>303 </ActorPosZ>
+    <ActorScale>100 </ActorScale>
+    <ActorRotateY>180 </ActorRotateY>
+</ResGuideStoryDesc>
+<ResGuideStoryDesc version="1">
+    <ResID>40901 </ResID>
+    <GroupID>409 </GroupID>
+    <StoryName_SCN></StoryName_SCN>
+    <StoryName_FCN></StoryName_FCN>
+    <StoryName_EN></StoryName_EN>
+    <StoryType>0 </StoryType>
+    <TeamType>1 </TeamType>
+    <SpawnGroupID>-1 </SpawnGroupID>
+    <ActorResID>10000100 </ActorResID>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN>你也许是为人类赢得了一点苟延残喘的时间……法师</StoryDesc_SCN>
+        <StoryDesc_FCN>你也许是为人类赢得了一点苟延残喘的时间……法师</StoryDesc_FCN>
+        <StoryDesc_EN>You may have given humanity a bit more time, mage.</StoryDesc_EN>
+        <DuraTime>7200 </DuraTime>
+    </TalkPages>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN></StoryDesc_SCN>
+        <StoryDesc_FCN></StoryDesc_FCN>
+        <StoryDesc_EN></StoryDesc_EN>
+        <DuraTime>0 </DuraTime>
+    </TalkPages>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN></StoryDesc_SCN>
+        <StoryDesc_FCN></StoryDesc_FCN>
+        <StoryDesc_EN></StoryDesc_EN>
+        <DuraTime>0 </DuraTime>
+    </TalkPages>
+    <StoryAudio>audio/system/guide/newguide/58_01</StoryAudio>
+    <ShortestTime>1000 </ShortestTime>
+    <NextID>40902 </NextID>
+    <StoryBreakType>0 </StoryBreakType>
+    <StorryBreakParam>0 </StorryBreakParam>
+    <ActorHeadIcon>prefab/character/orc/orc_hero001/orc_hero001_H_pre</ActorHeadIcon>
+    <ActorName_SCN>索伦</ActorName_SCN>
+    <ActorName_FCN>索伦</ActorName_FCN>
+    <ActorName_EN>Rothol</ActorName_EN>
+    <ActorPosX>0 </ActorPosX>
+    <ActorPosY>-301 </ActorPosY>
+    <ActorPosZ>343 </ActorPosZ>
+    <ActorScale>100 </ActorScale>
+    <ActorRotateY>180 </ActorRotateY>
+</ResGuideStoryDesc>
+<ResGuideStoryDesc version="1">
+    <ResID>40902 </ResID>
+    <GroupID>409 </GroupID>
+    <StoryName_SCN></StoryName_SCN>
+    <StoryName_FCN></StoryName_FCN>
+    <StoryName_EN></StoryName_EN>
+    <StoryType>0 </StoryType>
+    <TeamType>1 </TeamType>
+    <SpawnGroupID>-1 </SpawnGroupID>
+    <ActorResID>10000100 </ActorResID>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN>…但是你无法阻止兽人进攻的脚步…迟早…你们的王国将会倒在兽人的脚下！</StoryDesc_SCN>
+        <StoryDesc_FCN>…但是你无法阻止兽人进攻的脚步…迟早…你们的王国将会倒在兽人的脚下！</StoryDesc_FCN>
+        <StoryDesc_EN>But you can&apos;t stop us... Sooner or later your kingdom will crumble at our feet!</StoryDesc_EN>
+        <DuraTime>11000 </DuraTime>
+    </TalkPages>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN></StoryDesc_SCN>
+        <StoryDesc_FCN></StoryDesc_FCN>
+        <StoryDesc_EN></StoryDesc_EN>
+        <DuraTime>0 </DuraTime>
+    </TalkPages>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN></StoryDesc_SCN>
+        <StoryDesc_FCN></StoryDesc_FCN>
+        <StoryDesc_EN></StoryDesc_EN>
+        <DuraTime>0 </DuraTime>
+    </TalkPages>
+    <StoryAudio>audio/system/guide/newguide/58_02</StoryAudio>
+    <ShortestTime>1000 </ShortestTime>
+    <NextID>40903 </NextID>
+    <StoryBreakType>0 </StoryBreakType>
+    <StorryBreakParam>0 </StorryBreakParam>
+    <ActorHeadIcon>prefab/character/orc/orc_hero001/orc_hero001_H_pre</ActorHeadIcon>
+    <ActorName_SCN>索伦</ActorName_SCN>
+    <ActorName_FCN>索伦</ActorName_FCN>
+    <ActorName_EN>Rothol</ActorName_EN>
+    <ActorPosX>0 </ActorPosX>
+    <ActorPosY>-301 </ActorPosY>
+    <ActorPosZ>343 </ActorPosZ>
+    <ActorScale>100 </ActorScale>
+    <ActorRotateY>180 </ActorRotateY>
+</ResGuideStoryDesc>
+<ResGuideStoryDesc version="1">
+    <ResID>40903 </ResID>
+    <GroupID>409 </GroupID>
+    <StoryName_SCN></StoryName_SCN>
+    <StoryName_FCN></StoryName_FCN>
+    <StoryName_EN></StoryName_EN>
+    <StoryType>0 </StoryType>
+    <TeamType>2 </TeamType>
+    <SpawnGroupID>-1 </SpawnGroupID>
+    <ActorResID>10000000 </ActorResID>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN>那么到那时候，我仍将为人类的荣光而战，直至最后一刻！</StoryDesc_SCN>
+        <StoryDesc_FCN>那么到那时候，我仍将为人类的荣光而战，直至最后一刻！</StoryDesc_FCN>
+        <StoryDesc_EN>Not on my watch, Rothol. Do your worst, and I&apos;ll be there to stop you.</StoryDesc_EN>
+        <DuraTime>6000 </DuraTime>
+    </TalkPages>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN></StoryDesc_SCN>
+        <StoryDesc_FCN></StoryDesc_FCN>
+        <StoryDesc_EN></StoryDesc_EN>
+        <DuraTime>0 </DuraTime>
+    </TalkPages>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN></StoryDesc_SCN>
+        <StoryDesc_FCN></StoryDesc_FCN>
+        <StoryDesc_EN></StoryDesc_EN>
+        <DuraTime>0 </DuraTime>
+    </TalkPages>
+    <StoryAudio>audio/system/guide/newguide/40</StoryAudio>
+    <ShortestTime>1000 </ShortestTime>
+    <NextID>0 </NextID>
+    <StoryBreakType>0 </StoryBreakType>
+    <StorryBreakParam>0 </StorryBreakParam>
+    <ActorHeadIcon>prefab/character/human/hum_hero001/hum_hero001_H_pre</ActorHeadIcon>
+    <ActorName_SCN>安东尼</ActorName_SCN>
+    <ActorName_FCN>安东尼</ActorName_FCN>
+    <ActorName_EN>Anthony</ActorName_EN>
+    <ActorPosX>-2 </ActorPosX>
+    <ActorPosY>-398 </ActorPosY>
+    <ActorPosZ>303 </ActorPosZ>
+    <ActorScale>100 </ActorScale>
+    <ActorRotateY>180 </ActorRotateY>
+</ResGuideStoryDesc>
+<ResGuideStoryDesc version="1">
+    <ResID>49602 </ResID>
+    <GroupID>496 </GroupID>
+    <StoryName_SCN></StoryName_SCN>
+    <StoryName_FCN></StoryName_FCN>
+    <StoryName_EN></StoryName_EN>
+    <StoryType>0 </StoryType>
+    <TeamType>2 </TeamType>
+    <SpawnGroupID>5 </SpawnGroupID>
+    <ActorResID>20000755 </ActorResID>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN>但是有着亡灵魔法加固过的石墙，我们短时间内无法摧毁。</StoryDesc_SCN>
+        <StoryDesc_FCN>但是有着亡灵魔法加固过的石墙，我们短时间内无法摧毁。</StoryDesc_FCN>
+        <StoryDesc_EN>It will take time to destroy the wall as it has been reinforced by Undead magic.</StoryDesc_EN>
+        <DuraTime>5500 </DuraTime>
+    </TalkPages>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN></StoryDesc_SCN>
+        <StoryDesc_FCN></StoryDesc_FCN>
+        <StoryDesc_EN></StoryDesc_EN>
+        <DuraTime>0 </DuraTime>
+    </TalkPages>
+    <TalkPages type="ResGuideStoryTalkPage">
+        <StoryDesc_SCN></StoryDesc_SCN>
+        <StoryDesc_FCN></StoryDesc_FCN>
+        <StoryDesc_EN></StoryDesc_EN>
+        <DuraTime>0 </DuraTime>
+    </TalkPages>
+    <StoryAudio>audio/system/guide/newguide/61_02</StoryAudio>
+    <ShortestTime>1000 </ShortestTime>
+    <NextID>40603 </NextID>
+    <StoryBreakType>0 </StoryBreakType>
+    <StorryBreakParam>0 </StorryBreakParam>
+    <ActorHeadIcon>prefab/character/elf/elf_vision/elf_vision_pre</ActorHeadIcon>
+    <ActorName_SCN>精灵信使</ActorName_SCN>
+    <ActorName_FCN>精灵信使</ActorName_FCN>
+    <ActorName_EN>Elf Messenger</ActorName_EN>
+    <ActorPosX>0 </ActorPosX>
+    <ActorPosY>-156 </ActorPosY>
+    <ActorPosZ>743 </ActorPosZ>
+    <ActorScale>120 </ActorScale>
+    <ActorRotateY>180 </ActorRotateY>
+</ResGuideStoryDesc>
+</ResGuideStoryDesc_Tab>

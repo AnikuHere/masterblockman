@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<ResActivityCounterDesc_Tab>
+<TResHeadAll version="5">
+    <resHead type="TResHead">
+        <Magic>1397052237 </Magic>
+        <Version>6 </Version>
+        <Unit>19 </Unit>
+        <Count>18 </Count>
+        <MetalibHash>531d5b4a397ad5b3c0fbfb5cc8059e55</MetalibHash>
+        <ResVersion>0 </ResVersion>
+        <CreateTime>2023-04-19 20:42:37</CreateTime>
+        <ResEncording>UTF-8</ResEncording>
+        <ContentHash>0dbda77edc3b9b0d730810f505b2e6e7</ContentHash>
+    </resHead>
+    <resHeadExt type="TResHeadExt">
+        <DataOffset>136 </DataOffset>
+    </resHeadExt>
+</TResHeadAll>
+<ResActivityCounterDesc version="1">
+    <ID>1 </ID>
+    <Type>1 </Type>
+    <Param>12 14 </Param>
+    <NeedAct>1 </NeedAct>
+    <ActParam>0 </ActParam>
+    <ResetType>1 </ResetType>
+</ResActivityCounterDesc>
+<ResActivityCounterDesc version="1">
+    <ID>2 </ID>
+    <Type>1 </Type>
+    <Param>18 21 </Param>
+    <NeedAct>1 </NeedAct>
+    <ActParam>0 </ActParam>
+    <ResetType>1 </ResetType>
+</ResActivityCounterDesc>
+<ResActivityCounterDesc version="1">
+    <ID>3 </ID>
+    <Type>4 </Type>
+    <Param>0 0 </Param>
+    <NeedAct>1 </NeedAct>
+    <ActParam>0 </ActParam>
+    <ResetType>0 </ResetType>
+</ResActivityCounterDesc>
+<ResActivityCounterDesc version="1">
+    <ID>4 </ID>
+    <Type>3 </Type>
+    <Param>0 0 </Param>
+    <NeedAct>58 </NeedAct>
+    <ActParam>0 </ActParam>
+    <ResetType>0 </ResetType>
+</ResActivityCounterDesc>
+<ResActivityCounterDesc version="1">
+    <ID>5 </ID>
+    <Type>3 </Type>
+    <Param>0 0 </Param>
+    <NeedAct>58 </NeedAct>
+    <ActParam>0 </ActParam>
+    <ResetType>1 </ResetType>
+</ResActivityCounterDesc>
+<ResActivityCounterDesc version="1">
+    <ID>6 </ID>
+    <Type>0 </Type>
+    <Param>0 0 </Param>
+    <NeedAct>8 </NeedAct>
+    <ActParam>0 </ActParam>
+    <ResetType>1 </ResetType>
+</ResActivityCounterDesc>
+<ResActivityCounterDesc version="1">
+    <ID>7 </ID>
+    <Type>0 </Type>
+    <Param>0 0 </Param>
+    <NeedAct>12 </NeedAct>
+    <ActParam>0 </ActParam>
+    <ResetType>1 </ResetType>
+</ResActivityCounterDesc>
+<ResActivityCounterDesc version="1">
+    <ID>8 </ID>
+    <Type>0 </Type>
+    <Param>0 0 </Param>
+    <NeedAct>112 </NeedAct>
+    <ActParam>0 </ActParam>
+    <ResetType>1 </ResetType>
+</ResActivityCounterDesc>
+<ResActivityCounterDesc version="1">
+    <ID>9 </ID>
+    <Type>2 </Type>
+    <Param>0 0 </Param>
+    <NeedAct>1 </NeedAct>
+    <ActParam>0 </ActParam>
+    <ResetType>2 </ResetType>
+</ResActivityCounterDesc>
+<ResActivityCounterDesc version="1">
+    <ID>10 </ID>
+    <Type>2 </Type>
+    <Param>0 0 </Param>
+    <NeedAct>1 </NeedAct>
+    <ActParam>0 </ActParam>
+    <ResetType>0 </ResetType>
+</ResActivityCounterDesc>
+<ResActivityCounterDesc version="1">
+    <ID>11 </ID>
+    <Type>0 </Type>
+    <Param>0 0 </Param>
+    <NeedAct>8 </NeedAct>
+    <ActParam>0 </ActParam>
+    <ResetType>1 </ResetType>
+</ResActivityCounterDesc>
+<ResActivityCounterDesc version="1">
+    <ID>12 </ID>
+    <Type>0 </Type>
+    <Param>0 0 </Param>
+    <NeedAct>8 </NeedAct>
+    <ActParam>0 </ActParam>
+    <ResetType>1 </ResetType>
+</ResActivityCounterDesc>
+<ResActivityCounterDesc version="1">
+    <ID>13 </ID>
+    <Type>0 </Type>
+    <Param>0 0 </Param>
+    <NeedAct>8 </NeedAct>
+    <ActParam>0 </ActParam>
+    <ResetType>1 </ResetType>
+</ResActivityCounterDesc>
+<ResActivityCounterDesc version="1">
+    <ID>14 </ID>
+    <Type>0 </Type>
+    <Param>0 0 </Param>
+    <NeedAct>63 </NeedAct>
+    <ActParam>10000404 </ActParam>
+    <ResetType>1 </ResetType>
+</ResActivityCounterDesc>
+<ResActivityCounterDesc version="1">
+    <ID>15 </ID>
+    <Type>0 </Type>
+    <Param>0 0 </Param>
+    <NeedAct>63 </NeedAct>
+    <ActParam>10000404 </ActParam>
+    <ResetType>1 </ResetType>
+</ResActivityCounterDesc>
+<ResActivityCounterDesc version="1">
+    <ID>16 </ID>
+    <Type>0 </Type>
+    <Param>0 0 </Param>
+    <NeedAct>63 </NeedAct>
+    <ActParam>10000404 </ActParam>
+    <ResetType>1 </ResetType>
+</ResActivityCounterDesc>
+<ResActivityCounterDesc version="1">
+    <ID>17 </ID>
+    <Type>0 </Type>
+    <Param>0 0 </Param>
+    <NeedAct>64 </NeedAct>
+    <ActParam>31060022 </ActParam>
+    <ResetType>3 </ResetType>
+</ResActivityCounterDesc>
+<ResActivityCounterDesc version="1">
+    <ID>18 </ID>
+    <Type>0 </Type>
+    <Param>0 0 </Param>
+    <NeedAct>66 </NeedAct>
+    <ActParam>0 </ActParam>
+    <ResetType>0 </ResetType>
+</ResActivityCounterDesc>
+</ResActivityCounterDesc_Tab>

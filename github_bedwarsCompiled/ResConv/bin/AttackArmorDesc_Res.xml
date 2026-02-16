@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<ResAttackArmorDesc_Tab>
+<TResHeadAll version="5">
+    <resHead type="TResHead">
+        <Magic>1397052237 </Magic>
+        <Version>6 </Version>
+        <Unit>28 </Unit>
+        <Count>6 </Count>
+        <MetalibHash>531d5b4a397ad5b3c0fbfb5cc8059e55</MetalibHash>
+        <ResVersion>0 </ResVersion>
+        <CreateTime>2023-04-19 20:42:30</CreateTime>
+        <ResEncording>UTF-8</ResEncording>
+        <ContentHash>ed3d15430904760e8e6dbc71820a3706</ContentHash>
+    </resHead>
+    <resHeadExt type="TResHeadExt">
+        <DataOffset>136 </DataOffset>
+    </resHeadExt>
+</TResHeadAll>
+<ResAttackArmorDesc version="1">
+    <AttackType>1 </AttackType>
+    <LightArmor>100 </LightArmor>
+    <MidArmor>150 </MidArmor>
+    <HeavyArmor>100 </HeavyArmor>
+    <CityArmor>70 </CityArmor>
+    <HeroArmor>70 </HeroArmor>
+    <BuildingArmor>100 </BuildingArmor>
+</ResAttackArmorDesc>
+<ResAttackArmorDesc version="1">
+    <AttackType>2 </AttackType>
+    <LightArmor>150 </LightArmor>
+    <MidArmor>70 </MidArmor>
+    <HeavyArmor>100 </HeavyArmor>
+    <CityArmor>35 </CityArmor>
+    <HeroArmor>50 </HeroArmor>
+    <BuildingArmor>100 </BuildingArmor>
+</ResAttackArmorDesc>
+<ResAttackArmorDesc version="1">
+    <AttackType>3 </AttackType>
+    <LightArmor>100 </LightArmor>
+    <MidArmor>70 </MidArmor>
+    <HeavyArmor>200 </HeavyArmor>
+    <CityArmor>35 </CityArmor>
+    <HeroArmor>50 </HeroArmor>
+    <BuildingArmor>100 </BuildingArmor>
+</ResAttackArmorDesc>
+<ResAttackArmorDesc version="1">
+    <AttackType>4 </AttackType>
+    <LightArmor>150 </LightArmor>
+    <MidArmor>50 </MidArmor>
+    <HeavyArmor>100 </HeavyArmor>
+    <CityArmor>100 </CityArmor>
+    <HeroArmor>50 </HeroArmor>
+    <BuildingArmor>100 </BuildingArmor>
+</ResAttackArmorDesc>
+<ResAttackArmorDesc version="1">
+    <AttackType>5 </AttackType>
+    <LightArmor>100 </LightArmor>
+    <MidArmor>100 </MidArmor>
+    <HeavyArmor>100 </HeavyArmor>
+    <CityArmor>50 </CityArmor>
+    <HeroArmor>70 </HeroArmor>
+    <BuildingArmor>100 </BuildingArmor>
+</ResAttackArmorDesc>
+<ResAttackArmorDesc version="1">
+    <AttackType>6 </AttackType>
+    <LightArmor>100 </LightArmor>
+    <MidArmor>100 </MidArmor>
+    <HeavyArmor>100 </HeavyArmor>
+    <CityArmor>100 </CityArmor>
+    <HeroArmor>100 </HeroArmor>
+    <BuildingArmor>100 </BuildingArmor>
+</ResAttackArmorDesc>
+</ResAttackArmorDesc_Tab>

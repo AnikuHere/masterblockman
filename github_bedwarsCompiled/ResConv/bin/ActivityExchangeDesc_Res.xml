@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<ResActivityExchangeDesc_Tab>
+<TResHeadAll version="5">
+    <resHead type="TResHead">
+        <Magic>1397052237 </Magic>
+        <Version>6 </Version>
+        <Unit>28 </Unit>
+        <Count>2 </Count>
+        <MetalibHash>531d5b4a397ad5b3c0fbfb5cc8059e55</MetalibHash>
+        <ResVersion>0 </ResVersion>
+        <CreateTime>2023-04-19 20:42:37</CreateTime>
+        <ResEncording>UTF-8</ResEncording>
+        <ContentHash>0e688ba59f0b6ed547dc5eb032d0e23d</ContentHash>
+    </resHead>
+    <resHeadExt type="TResHeadExt">
+        <DataOffset>136 </DataOffset>
+    </resHeadExt>
+</TResHeadAll>
+<ResActivityExchangeDesc version="1">
+    <ID>120010 </ID>
+    <ActivityID>8 </ActivityID>
+    <NeedItemID>31100007 </NeedItemID>
+    <NeedItemCount>14 </NeedItemCount>
+    <TargetItemID>31060021 </TargetItemID>
+    <TargetItemCount>1 </TargetItemCount>
+    <LimitCount>1 </LimitCount>
+</ResActivityExchangeDesc>
+<ResActivityExchangeDesc version="1">
+    <ID>120011 </ID>
+    <ActivityID>8 </ActivityID>
+    <NeedItemID>31100007 </NeedItemID>
+    <NeedItemCount>1 </NeedItemCount>
+    <TargetItemID>31060020 </TargetItemID>
+    <TargetItemCount>1 </TargetItemCount>
+    <LimitCount>20 </LimitCount>
+</ResActivityExchangeDesc>
+</ResActivityExchangeDesc_Tab>

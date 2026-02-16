@@ -1,0 +1,2419 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<ResHeroRuneRecommendDesc_Tab>
+<TResHeadAll version="5">
+    <resHead type="TResHead">
+        <Magic>1397052237 </Magic>
+        <Version>6 </Version>
+        <Unit>1612 </Unit>
+        <Count>240 </Count>
+        <MetalibHash>531d5b4a397ad5b3c0fbfb5cc8059e55</MetalibHash>
+        <ResVersion>0 </ResVersion>
+        <CreateTime>2023-04-19 20:42:38</CreateTime>
+        <ResEncording>UTF-8</ResEncording>
+        <ContentHash>0bc4215f4430fb4a157c54fb3da59a1d</ContentHash>
+    </resHead>
+    <resHeadExt type="TResHeadExt">
+        <DataOffset>136 </DataOffset>
+    </resHeadExt>
+</TResHeadAll>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>101010 </ResID>
+    <HeroID>10000001 </HeroID>
+    <RuneLvl>1 </RuneLvl>
+    <RuneIndex>1 </RuneIndex>
+    <Detail_SCN>法穿暴击</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10021 10021 10021 20001 20001 20011 30001 30011 30001 10011 10021 10021 40061 40071 40041 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>101011 </ResID>
+    <HeroID>10000001 </HeroID>
+    <RuneLvl>2 </RuneLvl>
+    <RuneIndex>1 </RuneIndex>
+    <Detail_SCN>法穿暴击</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10022 10022 10022 20002 20002 20012 30002 30012 30002 10012 10022 10022 40062 40072 40042 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>101012 </ResID>
+    <HeroID>10000001 </HeroID>
+    <RuneLvl>3 </RuneLvl>
+    <RuneIndex>1 </RuneIndex>
+    <Detail_SCN>法穿暴击</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10023 10023 10023 20003 20003 20013 30003 30013 30003 10013 10023 10023 40063 40073 40043 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>101013 </ResID>
+    <HeroID>10000001 </HeroID>
+    <RuneLvl>4 </RuneLvl>
+    <RuneIndex>1 </RuneIndex>
+    <Detail_SCN>法穿暴击</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10024 10024 10024 20004 20004 20014 30004 30014 30004 10014 10024 10024 40064 40074 40044 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>101014 </ResID>
+    <HeroID>10000001 </HeroID>
+    <RuneLvl>5 </RuneLvl>
+    <RuneIndex>1 </RuneIndex>
+    <Detail_SCN>法穿暴击</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10025 10025 10025 20005 20005 20015 30005 30015 30005 10015 10025 10025 40065 40075 40045 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>101015 </ResID>
+    <HeroID>10000001 </HeroID>
+    <RuneLvl>1 </RuneLvl>
+    <RuneIndex>2 </RuneIndex>
+    <Detail_SCN>极限法强</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10011 10011 10021 20001 20001 20011 30001 30011 30001 10011 10011 10021 40041 40061 40081 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>101016 </ResID>
+    <HeroID>10000001 </HeroID>
+    <RuneLvl>2 </RuneLvl>
+    <RuneIndex>2 </RuneIndex>
+    <Detail_SCN>极限法强</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10012 10012 10022 20002 20002 20012 30002 30012 30002 10012 10012 10022 40042 40062 40082 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>101017 </ResID>
+    <HeroID>10000001 </HeroID>
+    <RuneLvl>3 </RuneLvl>
+    <RuneIndex>2 </RuneIndex>
+    <Detail_SCN>极限法强</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10013 10013 10023 20003 20003 20013 30003 30013 30003 10013 10013 10023 40043 40063 40083 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>101018 </ResID>
+    <HeroID>10000001 </HeroID>
+    <RuneLvl>4 </RuneLvl>
+    <RuneIndex>2 </RuneIndex>
+    <Detail_SCN>极限法强</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10014 10014 10024 20004 20004 20014 30004 30014 30004 10014 10014 10024 40044 40064 40084 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>101019 </ResID>
+    <HeroID>10000001 </HeroID>
+    <RuneLvl>5 </RuneLvl>
+    <RuneIndex>2 </RuneIndex>
+    <Detail_SCN>极限法强</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10015 10015 10025 20005 20005 20015 30005 30015 30005 10015 10015 10025 40045 40065 40085 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>102010 </ResID>
+    <HeroID>10000002 </HeroID>
+    <RuneLvl>1 </RuneLvl>
+    <RuneIndex>1 </RuneIndex>
+    <Detail_SCN>攻守兼备</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10001 10001 10021 20001 20001 20011 30001 30011 30001 30001 20011 20001 40001 40011 40081 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>102011 </ResID>
+    <HeroID>10000002 </HeroID>
+    <RuneLvl>2 </RuneLvl>
+    <RuneIndex>1 </RuneIndex>
+    <Detail_SCN>攻守兼备</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10002 10002 10022 20002 20002 20012 30002 30012 30002 30002 20012 20002 40002 40012 40082 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>102012 </ResID>
+    <HeroID>10000002 </HeroID>
+    <RuneLvl>3 </RuneLvl>
+    <RuneIndex>1 </RuneIndex>
+    <Detail_SCN>攻守兼备</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10003 10003 10023 20003 20003 20013 30003 30013 30003 30003 20013 20003 40003 40013 40083 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>102013 </ResID>
+    <HeroID>10000002 </HeroID>
+    <RuneLvl>4 </RuneLvl>
+    <RuneIndex>1 </RuneIndex>
+    <Detail_SCN>攻守兼备</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10004 10004 10024 20004 20004 20014 30004 30014 30004 30004 20014 20004 40004 40014 40084 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>102014 </ResID>
+    <HeroID>10000002 </HeroID>
+    <RuneLvl>5 </RuneLvl>
+    <RuneIndex>1 </RuneIndex>
+    <Detail_SCN>攻守兼备</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10005 10005 10025 20005 20005 20015 30005 30015 30005 30005 20015 20005 40005 40015 40085 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>102015 </ResID>
+    <HeroID>10000002 </HeroID>
+    <RuneLvl>1 </RuneLvl>
+    <RuneIndex>2 </RuneIndex>
+    <Detail_SCN>极限攻击</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10001 10001 10001 20001 20001 20011 30001 30011 30001 10001 10001 10001 40051 40021 40081 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>102016 </ResID>
+    <HeroID>10000002 </HeroID>
+    <RuneLvl>2 </RuneLvl>
+    <RuneIndex>2 </RuneIndex>
+    <Detail_SCN>极限攻击</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10002 10002 10002 20002 20002 20012 30002 30012 30002 10002 10002 10002 40052 40022 40082 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>102017 </ResID>
+    <HeroID>10000002 </HeroID>
+    <RuneLvl>3 </RuneLvl>
+    <RuneIndex>2 </RuneIndex>
+    <Detail_SCN>极限攻击</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10003 10003 10003 20003 20003 20013 30003 30013 30003 10003 10003 10003 40053 40023 40083 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>102018 </ResID>
+    <HeroID>10000002 </HeroID>
+    <RuneLvl>4 </RuneLvl>
+    <RuneIndex>2 </RuneIndex>
+    <Detail_SCN>极限攻击</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10004 10004 10004 20004 20004 20014 30004 30014 30004 10004 10004 10004 40054 40024 40084 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>102019 </ResID>
+    <HeroID>10000002 </HeroID>
+    <RuneLvl>5 </RuneLvl>
+    <RuneIndex>2 </RuneIndex>
+    <Detail_SCN>极限攻击</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10005 10005 10005 20005 20005 20015 30005 30015 30005 10005 10005 10005 40055 40025 40085 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>103010 </ResID>
+    <HeroID>10000003 </HeroID>
+    <RuneLvl>1 </RuneLvl>
+    <RuneIndex>1 </RuneIndex>
+    <Detail_SCN>冷却为主</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10011 10011 10021 20001 20001 20011 30001 30001 30001 10011 10011 10021 40001 40011 40081 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>103011 </ResID>
+    <HeroID>10000003 </HeroID>
+    <RuneLvl>2 </RuneLvl>
+    <RuneIndex>1 </RuneIndex>
+    <Detail_SCN>冷却为主</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10012 10012 10022 20002 20002 20012 30002 30002 30002 10012 10012 10022 40002 40012 40082 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>103012 </ResID>
+    <HeroID>10000003 </HeroID>
+    <RuneLvl>3 </RuneLvl>
+    <RuneIndex>1 </RuneIndex>
+    <Detail_SCN>冷却为主</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10013 10013 10023 20003 20003 20013 30003 30003 30003 10013 10013 10023 40003 40013 40083 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>103013 </ResID>
+    <HeroID>10000003 </HeroID>
+    <RuneLvl>4 </RuneLvl>
+    <RuneIndex>1 </RuneIndex>
+    <Detail_SCN>冷却为主</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10014 10014 10024 20004 20004 20014 30004 30004 30004 10014 10014 10024 40004 40014 40084 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>103014 </ResID>
+    <HeroID>10000003 </HeroID>
+    <RuneLvl>5 </RuneLvl>
+    <RuneIndex>1 </RuneIndex>
+    <Detail_SCN>冷却为主</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10015 10015 10025 20005 20005 20015 30005 30005 30005 10015 10015 10025 40005 40015 40085 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>103015 </ResID>
+    <HeroID>10000003 </HeroID>
+    <RuneLvl>1 </RuneLvl>
+    <RuneIndex>2 </RuneIndex>
+    <Detail_SCN>攻守兼备</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10011 10011 10021 20001 20001 20011 30001 30011 30001 10011 10021 10021 40001 40011 40041 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>103016 </ResID>
+    <HeroID>10000003 </HeroID>
+    <RuneLvl>2 </RuneLvl>
+    <RuneIndex>2 </RuneIndex>
+    <Detail_SCN>攻守兼备</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10012 10012 10022 20002 20002 20012 30002 30012 30002 10012 10022 10022 40002 40012 40042 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>103017 </ResID>
+    <HeroID>10000003 </HeroID>
+    <RuneLvl>3 </RuneLvl>
+    <RuneIndex>2 </RuneIndex>
+    <Detail_SCN>攻守兼备</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10013 10013 10023 20003 20003 20013 30003 30013 30003 10013 10023 10023 40003 40013 40043 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>103018 </ResID>
+    <HeroID>10000003 </HeroID>
+    <RuneLvl>4 </RuneLvl>
+    <RuneIndex>2 </RuneIndex>
+    <Detail_SCN>攻守兼备</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10014 10014 10024 20004 20004 20014 30004 30014 30004 10014 10024 10024 40004 40014 40044 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>103019 </ResID>
+    <HeroID>10000003 </HeroID>
+    <RuneLvl>5 </RuneLvl>
+    <RuneIndex>2 </RuneIndex>
+    <Detail_SCN>攻守兼备</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10015 10015 10025 20005 20005 20015 30005 30015 30005 10015 10025 10025 40005 40015 40045 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>104010 </ResID>
+    <HeroID>10000101 </HeroID>
+    <RuneLvl>1 </RuneLvl>
+    <RuneIndex>1 </RuneIndex>
+    <Detail_SCN>法穿暴击</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10021 10021 10021 20001 20001 20011 30001 30011 30001 10011 10021 10021 40061 40071 40041 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>104011 </ResID>
+    <HeroID>10000101 </HeroID>
+    <RuneLvl>2 </RuneLvl>
+    <RuneIndex>1 </RuneIndex>
+    <Detail_SCN>法穿暴击</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10022 10022 10022 20002 20002 20012 30002 30012 30002 10012 10022 10022 40062 40072 40042 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>104012 </ResID>
+    <HeroID>10000101 </HeroID>
+    <RuneLvl>3 </RuneLvl>
+    <RuneIndex>1 </RuneIndex>
+    <Detail_SCN>法穿暴击</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10023 10023 10023 20003 20003 20013 30003 30013 30003 10013 10023 10023 40063 40073 40043 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>104013 </ResID>
+    <HeroID>10000101 </HeroID>
+    <RuneLvl>4 </RuneLvl>
+    <RuneIndex>1 </RuneIndex>
+    <Detail_SCN>法穿暴击</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10024 10024 10024 20004 20004 20014 30004 30014 30004 10014 10024 10024 40064 40074 40044 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>104014 </ResID>
+    <HeroID>10000101 </HeroID>
+    <RuneLvl>5 </RuneLvl>
+    <RuneIndex>1 </RuneIndex>
+    <Detail_SCN>法穿暴击</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10025 10025 10025 20005 20005 20015 30005 30015 30005 10015 10025 10025 40065 40075 40045 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>104015 </ResID>
+    <HeroID>10000101 </HeroID>
+    <RuneLvl>1 </RuneLvl>
+    <RuneIndex>2 </RuneIndex>
+    <Detail_SCN>极限法强</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10011 10011 10021 20001 20001 20011 30001 30011 30001 10011 10011 10021 40041 40061 40081 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>104016 </ResID>
+    <HeroID>10000101 </HeroID>
+    <RuneLvl>2 </RuneLvl>
+    <RuneIndex>2 </RuneIndex>
+    <Detail_SCN>极限法强</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10012 10012 10022 20002 20002 20012 30002 30012 30002 10012 10012 10022 40042 40062 40082 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>104017 </ResID>
+    <HeroID>10000101 </HeroID>
+    <RuneLvl>3 </RuneLvl>
+    <RuneIndex>2 </RuneIndex>
+    <Detail_SCN>极限法强</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10013 10013 10023 20003 20003 20013 30003 30013 30003 10013 10013 10023 40043 40063 40083 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>104018 </ResID>
+    <HeroID>10000101 </HeroID>
+    <RuneLvl>4 </RuneLvl>
+    <RuneIndex>2 </RuneIndex>
+    <Detail_SCN>极限法强</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10014 10014 10024 20004 20004 20014 30004 30014 30004 10014 10014 10024 40044 40064 40084 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>104019 </ResID>
+    <HeroID>10000101 </HeroID>
+    <RuneLvl>5 </RuneLvl>
+    <RuneIndex>2 </RuneIndex>
+    <Detail_SCN>极限法强</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10015 10015 10025 20005 20005 20015 30005 30015 30005 10015 10015 10025 40045 40065 40085 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>105010 </ResID>
+    <HeroID>10000102 </HeroID>
+    <RuneLvl>1 </RuneLvl>
+    <RuneIndex>1 </RuneIndex>
+    <Detail_SCN>攻守兼备</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10001 10001 10021 20001 20001 20011 30001 30011 30001 30001 20011 20001 40051 40021 40081 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>105011 </ResID>
+    <HeroID>10000102 </HeroID>
+    <RuneLvl>2 </RuneLvl>
+    <RuneIndex>1 </RuneIndex>
+    <Detail_SCN>攻守兼备</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10002 10002 10022 20002 20002 20012 30002 30012 30002 30002 20012 20002 40052 40022 40082 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>105012 </ResID>
+    <HeroID>10000102 </HeroID>
+    <RuneLvl>3 </RuneLvl>
+    <RuneIndex>1 </RuneIndex>
+    <Detail_SCN>攻守兼备</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10003 10003 10023 20003 20003 20013 30003 30013 30003 30003 20013 20003 40053 40023 40083 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>105013 </ResID>
+    <HeroID>10000102 </HeroID>
+    <RuneLvl>4 </RuneLvl>
+    <RuneIndex>1 </RuneIndex>
+    <Detail_SCN>攻守兼备</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10004 10004 10024 20004 20004 20014 30004 30014 30004 30004 20014 20004 40054 40024 40084 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>105014 </ResID>
+    <HeroID>10000102 </HeroID>
+    <RuneLvl>5 </RuneLvl>
+    <RuneIndex>1 </RuneIndex>
+    <Detail_SCN>攻守兼备</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10005 10005 10025 20005 20005 20015 30005 30015 30005 30005 20015 20005 40055 40025 40085 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>105015 </ResID>
+    <HeroID>10000102 </HeroID>
+    <RuneLvl>1 </RuneLvl>
+    <RuneIndex>2 </RuneIndex>
+    <Detail_SCN>极限防御</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10001 10001 10001 20001 20001 20011 30001 30001 30001 20001 20011 30001 40001 40011 40081 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>105016 </ResID>
+    <HeroID>10000102 </HeroID>
+    <RuneLvl>2 </RuneLvl>
+    <RuneIndex>2 </RuneIndex>
+    <Detail_SCN>极限防御</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10002 10002 10001 20002 20002 20012 30002 30002 30002 20002 20012 30002 40002 40012 40082 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>105017 </ResID>
+    <HeroID>10000102 </HeroID>
+    <RuneLvl>3 </RuneLvl>
+    <RuneIndex>2 </RuneIndex>
+    <Detail_SCN>极限防御</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10003 10003 10001 20003 20003 20013 30003 30003 30003 20003 20013 30003 40003 40013 40083 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>105018 </ResID>
+    <HeroID>10000102 </HeroID>
+    <RuneLvl>4 </RuneLvl>
+    <RuneIndex>2 </RuneIndex>
+    <Detail_SCN>极限防御</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10004 10004 10001 20004 20004 20014 30004 30004 30004 20004 20014 30004 40004 40014 40084 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>105019 </ResID>
+    <HeroID>10000102 </HeroID>
+    <RuneLvl>5 </RuneLvl>
+    <RuneIndex>2 </RuneIndex>
+    <Detail_SCN>极限防御</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10005 10005 10001 20005 20005 20015 30005 30005 30005 20005 20015 30005 40005 40015 40085 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>106010 </ResID>
+    <HeroID>10000201 </HeroID>
+    <RuneLvl>1 </RuneLvl>
+    <RuneIndex>1 </RuneIndex>
+    <Detail_SCN>攻守兼备</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10001 10001 10021 20001 20001 20011 30001 30011 30001 30001 20011 20001 40001 40011 40081 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>106011 </ResID>
+    <HeroID>10000201 </HeroID>
+    <RuneLvl>2 </RuneLvl>
+    <RuneIndex>1 </RuneIndex>
+    <Detail_SCN>攻守兼备</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10002 10002 10022 20002 20002 20012 30002 30012 30002 30002 20012 20002 40002 40012 40082 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>106012 </ResID>
+    <HeroID>10000201 </HeroID>
+    <RuneLvl>3 </RuneLvl>
+    <RuneIndex>1 </RuneIndex>
+    <Detail_SCN>攻守兼备</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10003 10003 10023 20003 20003 20013 30003 30013 30003 30003 20013 20003 40003 40013 40083 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>106013 </ResID>
+    <HeroID>10000201 </HeroID>
+    <RuneLvl>4 </RuneLvl>
+    <RuneIndex>1 </RuneIndex>
+    <Detail_SCN>攻守兼备</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10004 10004 10024 20004 20004 20014 30004 30014 30004 30004 20014 20004 40004 40014 40084 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>106014 </ResID>
+    <HeroID>10000201 </HeroID>
+    <RuneLvl>5 </RuneLvl>
+    <RuneIndex>1 </RuneIndex>
+    <Detail_SCN>攻守兼备</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10005 10005 10025 20005 20005 20015 30005 30015 30005 30005 20015 20005 40005 40015 40085 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>106015 </ResID>
+    <HeroID>10000201 </HeroID>
+    <RuneLvl>1 </RuneLvl>
+    <RuneIndex>2 </RuneIndex>
+    <Detail_SCN>极限攻击</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10001 10001 10001 20001 20001 20011 30001 30011 30001 10001 10001 10001 40051 40021 40081 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>106016 </ResID>
+    <HeroID>10000201 </HeroID>
+    <RuneLvl>2 </RuneLvl>
+    <RuneIndex>2 </RuneIndex>
+    <Detail_SCN>极限攻击</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10002 10002 10002 20002 20002 20012 30002 30012 30002 10002 10002 10002 40052 40022 40082 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>106017 </ResID>
+    <HeroID>10000201 </HeroID>
+    <RuneLvl>3 </RuneLvl>
+    <RuneIndex>2 </RuneIndex>
+    <Detail_SCN>极限攻击</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10003 10003 10003 20003 20003 20013 30003 30013 30003 10003 10003 10003 40053 40023 40083 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>106018 </ResID>
+    <HeroID>10000201 </HeroID>
+    <RuneLvl>4 </RuneLvl>
+    <RuneIndex>2 </RuneIndex>
+    <Detail_SCN>极限攻击</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10004 10004 10004 20004 20004 20014 30004 30014 30004 10004 10004 10004 40054 40024 40084 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>106019 </ResID>
+    <HeroID>10000201 </HeroID>
+    <RuneLvl>5 </RuneLvl>
+    <RuneIndex>2 </RuneIndex>
+    <Detail_SCN>极限攻击</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10005 10005 10005 20005 20005 20015 30005 30015 30005 10005 10005 10005 40055 40025 40085 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>107010 </ResID>
+    <HeroID>10000202 </HeroID>
+    <RuneLvl>1 </RuneLvl>
+    <RuneIndex>1 </RuneIndex>
+    <Detail_SCN>法穿暴击</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10021 10021 10021 20001 20001 20011 30001 30011 30001 10011 10021 10021 40061 40071 40041 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>107011 </ResID>
+    <HeroID>10000202 </HeroID>
+    <RuneLvl>2 </RuneLvl>
+    <RuneIndex>1 </RuneIndex>
+    <Detail_SCN>法穿暴击</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10022 10022 10022 20002 20002 20012 30002 30012 30002 10012 10022 10022 40062 40072 40042 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>107012 </ResID>
+    <HeroID>10000202 </HeroID>
+    <RuneLvl>3 </RuneLvl>
+    <RuneIndex>1 </RuneIndex>
+    <Detail_SCN>法穿暴击</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10023 10023 10023 20003 20003 20013 30003 30013 30003 10013 10023 10023 40063 40073 40043 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>107013 </ResID>
+    <HeroID>10000202 </HeroID>
+    <RuneLvl>4 </RuneLvl>
+    <RuneIndex>1 </RuneIndex>
+    <Detail_SCN>法穿暴击</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10024 10024 10024 20004 20004 20014 30004 30014 30004 10014 10024 10024 40064 40074 40044 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>107014 </ResID>
+    <HeroID>10000202 </HeroID>
+    <RuneLvl>5 </RuneLvl>
+    <RuneIndex>1 </RuneIndex>
+    <Detail_SCN>法穿暴击</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10025 10025 10025 20005 20005 20015 30005 30015 30005 10015 10025 10025 40065 40075 40045 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>107015 </ResID>
+    <HeroID>10000202 </HeroID>
+    <RuneLvl>1 </RuneLvl>
+    <RuneIndex>2 </RuneIndex>
+    <Detail_SCN>极限法强</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10011 10011 10021 20001 20001 20011 30001 30011 30001 10011 10011 10021 40041 40061 40081 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>107016 </ResID>
+    <HeroID>10000202 </HeroID>
+    <RuneLvl>2 </RuneLvl>
+    <RuneIndex>2 </RuneIndex>
+    <Detail_SCN>极限法强</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10012 10012 10022 20002 20002 20012 30002 30012 30002 10012 10012 10022 40042 40062 40082 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>107017 </ResID>
+    <HeroID>10000202 </HeroID>
+    <RuneLvl>3 </RuneLvl>
+    <RuneIndex>2 </RuneIndex>
+    <Detail_SCN>极限法强</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10013 10013 10023 20003 20003 20013 30003 30013 30003 10013 10013 10023 40043 40063 40083 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>107018 </ResID>
+    <HeroID>10000202 </HeroID>
+    <RuneLvl>4 </RuneLvl>
+    <RuneIndex>2 </RuneIndex>
+    <Detail_SCN>极限法强</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10014 10014 10024 20004 20004 20014 30004 30014 30004 10014 10014 10024 40044 40064 40084 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>107019 </ResID>
+    <HeroID>10000202 </HeroID>
+    <RuneLvl>5 </RuneLvl>
+    <RuneIndex>2 </RuneIndex>
+    <Detail_SCN>极限法强</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10015 10015 10025 20005 20005 20015 30005 30015 30005 10015 10015 10025 40045 40065 40085 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>108010 </ResID>
+    <HeroID>10000203 </HeroID>
+    <RuneLvl>1 </RuneLvl>
+    <RuneIndex>1 </RuneIndex>
+    <Detail_SCN>攻守兼备</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10001 10001 10021 20001 20001 20011 30001 30011 30001 30001 20011 20001 40001 40011 40081 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>108011 </ResID>
+    <HeroID>10000203 </HeroID>
+    <RuneLvl>2 </RuneLvl>
+    <RuneIndex>1 </RuneIndex>
+    <Detail_SCN>攻守兼备</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10002 10002 10022 20002 20002 20012 30002 30012 30002 30002 20012 20002 40002 40012 40082 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>108012 </ResID>
+    <HeroID>10000203 </HeroID>
+    <RuneLvl>3 </RuneLvl>
+    <RuneIndex>1 </RuneIndex>
+    <Detail_SCN>攻守兼备</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10003 10003 10023 20003 20003 20013 30003 30013 30003 30003 20013 20003 40003 40013 40083 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>108013 </ResID>
+    <HeroID>10000203 </HeroID>
+    <RuneLvl>4 </RuneLvl>
+    <RuneIndex>1 </RuneIndex>
+    <Detail_SCN>攻守兼备</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10004 10004 10024 20004 20004 20014 30004 30014 30004 30004 20014 20004 40004 40014 40084 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>108014 </ResID>
+    <HeroID>10000203 </HeroID>
+    <RuneLvl>5 </RuneLvl>
+    <RuneIndex>1 </RuneIndex>
+    <Detail_SCN>攻守兼备</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10005 10005 10025 20005 20005 20015 30005 30015 30005 30005 20015 20005 40005 40015 40085 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>108015 </ResID>
+    <HeroID>10000203 </HeroID>
+    <RuneLvl>1 </RuneLvl>
+    <RuneIndex>2 </RuneIndex>
+    <Detail_SCN>极限攻击</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10001 10001 10001 20001 20001 20011 30001 30011 30001 10001 10001 10001 40051 40021 40081 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>108016 </ResID>
+    <HeroID>10000203 </HeroID>
+    <RuneLvl>2 </RuneLvl>
+    <RuneIndex>2 </RuneIndex>
+    <Detail_SCN>极限攻击</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10002 10002 10002 20002 20002 20012 30002 30012 30002 10002 10002 10002 40052 40022 40082 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>108017 </ResID>
+    <HeroID>10000203 </HeroID>
+    <RuneLvl>3 </RuneLvl>
+    <RuneIndex>2 </RuneIndex>
+    <Detail_SCN>极限攻击</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10003 10003 10003 20003 20003 20013 30003 30013 30003 10003 10003 10003 40053 40023 40083 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>108018 </ResID>
+    <HeroID>10000203 </HeroID>
+    <RuneLvl>4 </RuneLvl>
+    <RuneIndex>2 </RuneIndex>
+    <Detail_SCN>极限攻击</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10004 10004 10004 20004 20004 20014 30004 30014 30004 10004 10004 10004 40054 40024 40084 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>108019 </ResID>
+    <HeroID>10000203 </HeroID>
+    <RuneLvl>5 </RuneLvl>
+    <RuneIndex>2 </RuneIndex>
+    <Detail_SCN>极限攻击</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10005 10005 10005 20005 20005 20015 30005 30015 30005 10005 10005 10005 40055 40025 40085 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>109010 </ResID>
+    <HeroID>10000301 </HeroID>
+    <RuneLvl>1 </RuneLvl>
+    <RuneIndex>1 </RuneIndex>
+    <Detail_SCN>攻守兼备</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10001 10001 10021 20001 20001 20011 30001 30011 30001 30001 20011 20001 40001 40011 40081 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>109011 </ResID>
+    <HeroID>10000301 </HeroID>
+    <RuneLvl>2 </RuneLvl>
+    <RuneIndex>1 </RuneIndex>
+    <Detail_SCN>攻守兼备</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10002 10002 10022 20002 20002 20012 30002 30012 30002 30002 20012 20002 40002 40012 40082 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>109012 </ResID>
+    <HeroID>10000301 </HeroID>
+    <RuneLvl>3 </RuneLvl>
+    <RuneIndex>1 </RuneIndex>
+    <Detail_SCN>攻守兼备</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10003 10003 10023 20003 20003 20013 30003 30013 30003 30003 20013 20003 40003 40013 40083 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>109013 </ResID>
+    <HeroID>10000301 </HeroID>
+    <RuneLvl>4 </RuneLvl>
+    <RuneIndex>1 </RuneIndex>
+    <Detail_SCN>攻守兼备</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10004 10004 10024 20004 20004 20014 30004 30014 30004 30004 20014 20004 40004 40014 40084 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>109014 </ResID>
+    <HeroID>10000301 </HeroID>
+    <RuneLvl>5 </RuneLvl>
+    <RuneIndex>1 </RuneIndex>
+    <Detail_SCN>攻守兼备</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10005 10005 10025 20005 20005 20015 30005 30015 30005 30005 20015 20005 40005 40015 40085 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>109015 </ResID>
+    <HeroID>10000301 </HeroID>
+    <RuneLvl>1 </RuneLvl>
+    <RuneIndex>2 </RuneIndex>
+    <Detail_SCN>极限攻击</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10001 10001 10001 20001 20001 20011 30001 30011 30001 10001 10001 10001 40051 40021 40081 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>109016 </ResID>
+    <HeroID>10000301 </HeroID>
+    <RuneLvl>2 </RuneLvl>
+    <RuneIndex>2 </RuneIndex>
+    <Detail_SCN>极限攻击</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10002 10002 10002 20002 20002 20012 30002 30012 30002 10002 10002 10002 40052 40022 40082 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>109017 </ResID>
+    <HeroID>10000301 </HeroID>
+    <RuneLvl>3 </RuneLvl>
+    <RuneIndex>2 </RuneIndex>
+    <Detail_SCN>极限攻击</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10003 10003 10003 20003 20003 20013 30003 30013 30003 10003 10003 10003 40053 40023 40083 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>109018 </ResID>
+    <HeroID>10000301 </HeroID>
+    <RuneLvl>4 </RuneLvl>
+    <RuneIndex>2 </RuneIndex>
+    <Detail_SCN>极限攻击</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10004 10004 10004 20004 20004 20014 30004 30014 30004 10004 10004 10004 40054 40024 40084 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>109019 </ResID>
+    <HeroID>10000301 </HeroID>
+    <RuneLvl>5 </RuneLvl>
+    <RuneIndex>2 </RuneIndex>
+    <Detail_SCN>极限攻击</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10005 10005 10005 20005 20005 20015 30005 30015 30005 10005 10005 10005 40055 40025 40085 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>110010 </ResID>
+    <HeroID>10000302 </HeroID>
+    <RuneLvl>1 </RuneLvl>
+    <RuneIndex>1 </RuneIndex>
+    <Detail_SCN>攻速暴击</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10021 10021 10021 20001 20001 20011 30001 30011 30001 10021 10021 10021 40031 40041 40051 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>110011 </ResID>
+    <HeroID>10000302 </HeroID>
+    <RuneLvl>2 </RuneLvl>
+    <RuneIndex>1 </RuneIndex>
+    <Detail_SCN>攻速暴击</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10022 10022 10022 20002 20002 20012 30002 30012 30002 10022 10022 10022 40032 40042 40052 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>110012 </ResID>
+    <HeroID>10000302 </HeroID>
+    <RuneLvl>3 </RuneLvl>
+    <RuneIndex>1 </RuneIndex>
+    <Detail_SCN>攻速暴击</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10023 10023 10023 20003 20003 20013 30003 30013 30003 10023 10023 10023 40033 40043 40053 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>110013 </ResID>
+    <HeroID>10000302 </HeroID>
+    <RuneLvl>4 </RuneLvl>
+    <RuneIndex>1 </RuneIndex>
+    <Detail_SCN>攻速暴击</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10024 10024 10024 20004 20004 20014 30004 30014 30004 10024 10024 10024 40034 40044 40054 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>110014 </ResID>
+    <HeroID>10000302 </HeroID>
+    <RuneLvl>5 </RuneLvl>
+    <RuneIndex>1 </RuneIndex>
+    <Detail_SCN>攻速暴击</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10025 10025 10025 20005 20005 20015 30005 30015 30005 10025 10025 10025 40035 40045 40055 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>110015 </ResID>
+    <HeroID>10000302 </HeroID>
+    <RuneLvl>1 </RuneLvl>
+    <RuneIndex>2 </RuneIndex>
+    <Detail_SCN>极限攻击</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10001 10001 10001 20001 20001 20011 30001 30011 30001 10001 10001 10001 40051 40021 40081 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>110016 </ResID>
+    <HeroID>10000302 </HeroID>
+    <RuneLvl>2 </RuneLvl>
+    <RuneIndex>2 </RuneIndex>
+    <Detail_SCN>极限攻击</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10002 10002 10002 20002 20002 20012 30002 30012 30002 10002 10002 10002 40052 40022 40082 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>110017 </ResID>
+    <HeroID>10000302 </HeroID>
+    <RuneLvl>3 </RuneLvl>
+    <RuneIndex>2 </RuneIndex>
+    <Detail_SCN>极限攻击</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10003 10003 10003 20003 20003 20013 30003 30013 30003 10003 10003 10003 40053 40023 40083 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>110018 </ResID>
+    <HeroID>10000302 </HeroID>
+    <RuneLvl>4 </RuneLvl>
+    <RuneIndex>2 </RuneIndex>
+    <Detail_SCN>极限攻击</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10004 10004 10004 20004 20004 20014 30004 30014 30004 10004 10004 10004 40054 40024 40084 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>110019 </ResID>
+    <HeroID>10000302 </HeroID>
+    <RuneLvl>5 </RuneLvl>
+    <RuneIndex>2 </RuneIndex>
+    <Detail_SCN>极限攻击</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10005 10005 10005 20005 20005 20015 30005 30015 30005 10005 10005 10005 40055 40025 40085 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>111010 </ResID>
+    <HeroID>10000401 </HeroID>
+    <RuneLvl>1 </RuneLvl>
+    <RuneIndex>1 </RuneIndex>
+    <Detail_SCN>攻守兼备</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10001 10001 10021 20001 20001 20011 30001 30011 30001 30001 20011 20001 40001 40011 40081 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>111011 </ResID>
+    <HeroID>10000401 </HeroID>
+    <RuneLvl>2 </RuneLvl>
+    <RuneIndex>1 </RuneIndex>
+    <Detail_SCN>攻守兼备</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10002 10002 10022 20002 20002 20012 30002 30012 30002 30002 20012 20002 40002 40012 40082 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>111012 </ResID>
+    <HeroID>10000401 </HeroID>
+    <RuneLvl>3 </RuneLvl>
+    <RuneIndex>1 </RuneIndex>
+    <Detail_SCN>攻守兼备</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10003 10003 10023 20003 20003 20013 30003 30013 30003 30003 20013 20003 40003 40013 40083 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>111013 </ResID>
+    <HeroID>10000401 </HeroID>
+    <RuneLvl>4 </RuneLvl>
+    <RuneIndex>1 </RuneIndex>
+    <Detail_SCN>攻守兼备</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10004 10004 10024 20004 20004 20014 30004 30014 30004 30004 20014 20004 40004 40014 40084 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>111014 </ResID>
+    <HeroID>10000401 </HeroID>
+    <RuneLvl>5 </RuneLvl>
+    <RuneIndex>1 </RuneIndex>
+    <Detail_SCN>攻守兼备</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10005 10005 10025 20005 20005 20015 30005 30015 30005 30005 20015 20005 40005 40015 40085 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>111015 </ResID>
+    <HeroID>10000401 </HeroID>
+    <RuneLvl>1 </RuneLvl>
+    <RuneIndex>2 </RuneIndex>
+    <Detail_SCN>极限攻击</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10001 10001 10001 20001 20001 20011 30001 30011 30001 10001 10001 10001 40051 40021 40081 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>111016 </ResID>
+    <HeroID>10000401 </HeroID>
+    <RuneLvl>2 </RuneLvl>
+    <RuneIndex>2 </RuneIndex>
+    <Detail_SCN>极限攻击</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10002 10002 10002 20002 20002 20012 30002 30012 30002 10002 10002 10002 40052 40022 40082 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>111017 </ResID>
+    <HeroID>10000401 </HeroID>
+    <RuneLvl>3 </RuneLvl>
+    <RuneIndex>2 </RuneIndex>
+    <Detail_SCN>极限攻击</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10003 10003 10003 20003 20003 20013 30003 30013 30003 10003 10003 10003 40053 40023 40083 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>111018 </ResID>
+    <HeroID>10000401 </HeroID>
+    <RuneLvl>4 </RuneLvl>
+    <RuneIndex>2 </RuneIndex>
+    <Detail_SCN>极限攻击</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10004 10004 10004 20004 20004 20014 30004 30014 30004 10004 10004 10004 40054 40024 40084 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>111019 </ResID>
+    <HeroID>10000401 </HeroID>
+    <RuneLvl>5 </RuneLvl>
+    <RuneIndex>2 </RuneIndex>
+    <Detail_SCN>极限攻击</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10005 10005 10005 20005 20005 20015 30005 30015 30005 10005 10005 10005 40055 40025 40085 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>112010 </ResID>
+    <HeroID>10000402 </HeroID>
+    <RuneLvl>1 </RuneLvl>
+    <RuneIndex>1 </RuneIndex>
+    <Detail_SCN>攻守兼备</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10001 10001 10021 20001 20001 20011 30001 30011 30001 30001 20011 20001 40001 40011 40081 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>112011 </ResID>
+    <HeroID>10000402 </HeroID>
+    <RuneLvl>2 </RuneLvl>
+    <RuneIndex>1 </RuneIndex>
+    <Detail_SCN>攻守兼备</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10002 10002 10022 20002 20002 20012 30002 30012 30002 30002 20012 20002 40002 40012 40082 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>112012 </ResID>
+    <HeroID>10000402 </HeroID>
+    <RuneLvl>3 </RuneLvl>
+    <RuneIndex>1 </RuneIndex>
+    <Detail_SCN>攻守兼备</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10003 10003 10023 20003 20003 20013 30003 30013 30003 30003 20013 20003 40003 40013 40083 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>112013 </ResID>
+    <HeroID>10000402 </HeroID>
+    <RuneLvl>4 </RuneLvl>
+    <RuneIndex>1 </RuneIndex>
+    <Detail_SCN>攻守兼备</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10004 10004 10024 20004 20004 20014 30004 30014 30004 30004 20014 20004 40004 40014 40084 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>112014 </ResID>
+    <HeroID>10000402 </HeroID>
+    <RuneLvl>5 </RuneLvl>
+    <RuneIndex>1 </RuneIndex>
+    <Detail_SCN>攻守兼备</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10005 10005 10025 20005 20005 20015 30005 30015 30005 30005 20015 20005 40005 40015 40085 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>112015 </ResID>
+    <HeroID>10000402 </HeroID>
+    <RuneLvl>1 </RuneLvl>
+    <RuneIndex>2 </RuneIndex>
+    <Detail_SCN>极限攻击</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10001 10001 10001 20001 20001 20011 30001 30011 30001 10001 10001 10001 40051 40021 40081 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>112016 </ResID>
+    <HeroID>10000402 </HeroID>
+    <RuneLvl>2 </RuneLvl>
+    <RuneIndex>2 </RuneIndex>
+    <Detail_SCN>极限攻击</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10002 10002 10002 20002 20002 20012 30002 30012 30002 10002 10002 10002 40052 40022 40082 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>112017 </ResID>
+    <HeroID>10000402 </HeroID>
+    <RuneLvl>3 </RuneLvl>
+    <RuneIndex>2 </RuneIndex>
+    <Detail_SCN>极限攻击</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10003 10003 10003 20003 20003 20013 30003 30013 30003 10003 10003 10003 40053 40023 40083 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>112018 </ResID>
+    <HeroID>10000402 </HeroID>
+    <RuneLvl>4 </RuneLvl>
+    <RuneIndex>2 </RuneIndex>
+    <Detail_SCN>极限攻击</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10004 10004 10004 20004 20004 20014 30004 30014 30004 10004 10004 10004 40054 40024 40084 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>112019 </ResID>
+    <HeroID>10000402 </HeroID>
+    <RuneLvl>5 </RuneLvl>
+    <RuneIndex>2 </RuneIndex>
+    <Detail_SCN>极限攻击</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10005 10005 10005 20005 20005 20015 30005 30015 30005 10005 10005 10005 40055 40025 40085 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>113010 </ResID>
+    <HeroID>10000403 </HeroID>
+    <RuneLvl>1 </RuneLvl>
+    <RuneIndex>1 </RuneIndex>
+    <Detail_SCN>攻守兼备</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10001 10001 10021 20001 20001 20011 30001 30011 30001 30001 20011 20001 40051 40021 40081 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>113011 </ResID>
+    <HeroID>10000403 </HeroID>
+    <RuneLvl>2 </RuneLvl>
+    <RuneIndex>1 </RuneIndex>
+    <Detail_SCN>攻守兼备</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10002 10002 10022 20002 20002 20012 30002 30012 30002 30002 20012 20002 40052 40022 40082 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>113012 </ResID>
+    <HeroID>10000403 </HeroID>
+    <RuneLvl>3 </RuneLvl>
+    <RuneIndex>1 </RuneIndex>
+    <Detail_SCN>攻守兼备</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10003 10003 10023 20003 20003 20013 30003 30013 30003 30003 20013 20003 40053 40023 40083 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>113013 </ResID>
+    <HeroID>10000403 </HeroID>
+    <RuneLvl>4 </RuneLvl>
+    <RuneIndex>1 </RuneIndex>
+    <Detail_SCN>攻守兼备</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10004 10004 10024 20004 20004 20014 30004 30014 30004 30004 20014 20004 40054 40024 40084 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>113014 </ResID>
+    <HeroID>10000403 </HeroID>
+    <RuneLvl>5 </RuneLvl>
+    <RuneIndex>1 </RuneIndex>
+    <Detail_SCN>攻守兼备</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10005 10005 10025 20005 20005 20015 30005 30015 30005 30005 20015 20005 40055 40025 40085 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>113015 </ResID>
+    <HeroID>10000403 </HeroID>
+    <RuneLvl>1 </RuneLvl>
+    <RuneIndex>2 </RuneIndex>
+    <Detail_SCN>极限防御</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10001 10001 10001 20001 20001 20011 30001 30001 30001 20001 20011 30001 40001 40011 40081 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>113016 </ResID>
+    <HeroID>10000403 </HeroID>
+    <RuneLvl>2 </RuneLvl>
+    <RuneIndex>2 </RuneIndex>
+    <Detail_SCN>极限防御</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10002 10002 10001 20002 20002 20012 30002 30002 30002 20002 20012 30002 40002 40012 40082 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>113017 </ResID>
+    <HeroID>10000403 </HeroID>
+    <RuneLvl>3 </RuneLvl>
+    <RuneIndex>2 </RuneIndex>
+    <Detail_SCN>极限防御</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10003 10003 10001 20003 20003 20013 30003 30003 30003 20003 20013 30003 40003 40013 40083 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>113018 </ResID>
+    <HeroID>10000403 </HeroID>
+    <RuneLvl>4 </RuneLvl>
+    <RuneIndex>2 </RuneIndex>
+    <Detail_SCN>极限防御</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10004 10004 10001 20004 20004 20014 30004 30004 30004 20004 20014 30004 40004 40014 40084 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>113019 </ResID>
+    <HeroID>10000403 </HeroID>
+    <RuneLvl>5 </RuneLvl>
+    <RuneIndex>2 </RuneIndex>
+    <Detail_SCN>极限防御</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10005 10005 10001 20005 20005 20015 30005 30005 30005 20005 20015 30005 40005 40015 40085 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>114010 </ResID>
+    <HeroID>10000404 </HeroID>
+    <RuneLvl>1 </RuneLvl>
+    <RuneIndex>1 </RuneIndex>
+    <Detail_SCN>攻速暴击</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10021 10021 10021 20001 20001 20011 30001 30011 30001 10021 10021 10021 40031 40041 40051 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>114011 </ResID>
+    <HeroID>10000404 </HeroID>
+    <RuneLvl>2 </RuneLvl>
+    <RuneIndex>1 </RuneIndex>
+    <Detail_SCN>攻速暴击</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10022 10022 10022 20002 20002 20012 30002 30012 30002 10022 10022 10022 40032 40042 40052 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>114012 </ResID>
+    <HeroID>10000404 </HeroID>
+    <RuneLvl>3 </RuneLvl>
+    <RuneIndex>1 </RuneIndex>
+    <Detail_SCN>攻速暴击</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10023 10023 10023 20003 20003 20013 30003 30013 30003 10023 10023 10023 40033 40043 40053 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>114013 </ResID>
+    <HeroID>10000404 </HeroID>
+    <RuneLvl>4 </RuneLvl>
+    <RuneIndex>1 </RuneIndex>
+    <Detail_SCN>攻速暴击</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10024 10024 10024 20004 20004 20014 30004 30014 30004 10024 10024 10024 40034 40044 40054 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>114014 </ResID>
+    <HeroID>10000404 </HeroID>
+    <RuneLvl>5 </RuneLvl>
+    <RuneIndex>1 </RuneIndex>
+    <Detail_SCN>攻速暴击</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10025 10025 10025 20005 20005 20015 30005 30015 30005 10025 10025 10025 40035 40045 40055 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>114015 </ResID>
+    <HeroID>10000404 </HeroID>
+    <RuneLvl>1 </RuneLvl>
+    <RuneIndex>2 </RuneIndex>
+    <Detail_SCN>极限攻击</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10001 10001 10001 20001 20001 20011 30001 30011 30001 10001 10001 10001 40051 40021 40081 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>114016 </ResID>
+    <HeroID>10000404 </HeroID>
+    <RuneLvl>2 </RuneLvl>
+    <RuneIndex>2 </RuneIndex>
+    <Detail_SCN>极限攻击</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10002 10002 10002 20002 20002 20012 30002 30012 30002 10002 10002 10002 40052 40022 40082 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>114017 </ResID>
+    <HeroID>10000404 </HeroID>
+    <RuneLvl>3 </RuneLvl>
+    <RuneIndex>2 </RuneIndex>
+    <Detail_SCN>极限攻击</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10003 10003 10003 20003 20003 20013 30003 30013 30003 10003 10003 10003 40053 40023 40083 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>114018 </ResID>
+    <HeroID>10000404 </HeroID>
+    <RuneLvl>4 </RuneLvl>
+    <RuneIndex>2 </RuneIndex>
+    <Detail_SCN>极限攻击</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10004 10004 10004 20004 20004 20014 30004 30014 30004 10004 10004 10004 40054 40024 40084 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>114019 </ResID>
+    <HeroID>10000404 </HeroID>
+    <RuneLvl>5 </RuneLvl>
+    <RuneIndex>2 </RuneIndex>
+    <Detail_SCN>极限攻击</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10005 10005 10005 20005 20005 20015 30005 30015 30005 10005 10005 10005 40055 40025 40085 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>115010 </ResID>
+    <HeroID>10000405 </HeroID>
+    <RuneLvl>1 </RuneLvl>
+    <RuneIndex>1 </RuneIndex>
+    <Detail_SCN>法穿暴击</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10021 10021 10021 20001 20001 20011 30001 30011 30001 10011 10021 10021 40061 40071 40041 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>115011 </ResID>
+    <HeroID>10000405 </HeroID>
+    <RuneLvl>2 </RuneLvl>
+    <RuneIndex>1 </RuneIndex>
+    <Detail_SCN>法穿暴击</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10022 10022 10022 20002 20002 20012 30002 30012 30002 10012 10022 10022 40062 40072 40042 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>115012 </ResID>
+    <HeroID>10000405 </HeroID>
+    <RuneLvl>3 </RuneLvl>
+    <RuneIndex>1 </RuneIndex>
+    <Detail_SCN>法穿暴击</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10023 10023 10023 20003 20003 20013 30003 30013 30003 10013 10023 10023 40063 40073 40043 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>115013 </ResID>
+    <HeroID>10000405 </HeroID>
+    <RuneLvl>4 </RuneLvl>
+    <RuneIndex>1 </RuneIndex>
+    <Detail_SCN>法穿暴击</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10024 10024 10024 20004 20004 20014 30004 30014 30004 10014 10024 10024 40064 40074 40044 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>115014 </ResID>
+    <HeroID>10000405 </HeroID>
+    <RuneLvl>5 </RuneLvl>
+    <RuneIndex>1 </RuneIndex>
+    <Detail_SCN>法穿暴击</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10025 10025 10025 20005 20005 20015 30005 30015 30005 10015 10025 10025 40065 40075 40045 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>115015 </ResID>
+    <HeroID>10000405 </HeroID>
+    <RuneLvl>1 </RuneLvl>
+    <RuneIndex>2 </RuneIndex>
+    <Detail_SCN>极限法强</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10011 10011 10021 20001 20001 20011 30001 30011 30001 10011 10011 10021 40041 40061 40081 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>115016 </ResID>
+    <HeroID>10000405 </HeroID>
+    <RuneLvl>2 </RuneLvl>
+    <RuneIndex>2 </RuneIndex>
+    <Detail_SCN>极限法强</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10012 10012 10022 20002 20002 20012 30002 30012 30002 10012 10012 10022 40042 40062 40082 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>115017 </ResID>
+    <HeroID>10000405 </HeroID>
+    <RuneLvl>3 </RuneLvl>
+    <RuneIndex>2 </RuneIndex>
+    <Detail_SCN>极限法强</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10013 10013 10023 20003 20003 20013 30003 30013 30003 10013 10013 10023 40043 40063 40083 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>115018 </ResID>
+    <HeroID>10000405 </HeroID>
+    <RuneLvl>4 </RuneLvl>
+    <RuneIndex>2 </RuneIndex>
+    <Detail_SCN>极限法强</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10014 10014 10024 20004 20004 20014 30004 30014 30004 10014 10014 10024 40044 40064 40084 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>115019 </ResID>
+    <HeroID>10000405 </HeroID>
+    <RuneLvl>5 </RuneLvl>
+    <RuneIndex>2 </RuneIndex>
+    <Detail_SCN>极限法强</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10015 10015 10025 20005 20005 20015 30005 30015 30005 10015 10015 10025 40045 40065 40085 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>116010 </ResID>
+    <HeroID>10000406 </HeroID>
+    <RuneLvl>1 </RuneLvl>
+    <RuneIndex>1 </RuneIndex>
+    <Detail_SCN>攻守兼备</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10001 10001 10021 20001 20001 20011 30001 30011 30001 30001 20011 20001 40051 40021 40081 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>116011 </ResID>
+    <HeroID>10000406 </HeroID>
+    <RuneLvl>2 </RuneLvl>
+    <RuneIndex>1 </RuneIndex>
+    <Detail_SCN>攻守兼备</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10002 10002 10022 20002 20002 20012 30002 30012 30002 30002 20012 20002 40052 40022 40082 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>116012 </ResID>
+    <HeroID>10000406 </HeroID>
+    <RuneLvl>3 </RuneLvl>
+    <RuneIndex>1 </RuneIndex>
+    <Detail_SCN>攻守兼备</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10003 10003 10023 20003 20003 20013 30003 30013 30003 30003 20013 20003 40053 40023 40083 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>116013 </ResID>
+    <HeroID>10000406 </HeroID>
+    <RuneLvl>4 </RuneLvl>
+    <RuneIndex>1 </RuneIndex>
+    <Detail_SCN>攻守兼备</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10004 10004 10024 20004 20004 20014 30004 30014 30004 30004 20014 20004 40054 40024 40084 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>116014 </ResID>
+    <HeroID>10000406 </HeroID>
+    <RuneLvl>5 </RuneLvl>
+    <RuneIndex>1 </RuneIndex>
+    <Detail_SCN>攻守兼备</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10005 10005 10025 20005 20005 20015 30005 30015 30005 30005 20015 20005 40055 40025 40085 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>116015 </ResID>
+    <HeroID>10000406 </HeroID>
+    <RuneLvl>1 </RuneLvl>
+    <RuneIndex>2 </RuneIndex>
+    <Detail_SCN>极限防御</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10001 10001 10001 20001 20001 20011 30001 30001 30001 20001 20011 30001 40001 40011 40081 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>116016 </ResID>
+    <HeroID>10000406 </HeroID>
+    <RuneLvl>2 </RuneLvl>
+    <RuneIndex>2 </RuneIndex>
+    <Detail_SCN>极限防御</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10002 10002 10001 20002 20002 20012 30002 30002 30002 20002 20012 30002 40002 40012 40082 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>116017 </ResID>
+    <HeroID>10000406 </HeroID>
+    <RuneLvl>3 </RuneLvl>
+    <RuneIndex>2 </RuneIndex>
+    <Detail_SCN>极限防御</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10003 10003 10001 20003 20003 20013 30003 30003 30003 20003 20013 30003 40003 40013 40083 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>116018 </ResID>
+    <HeroID>10000406 </HeroID>
+    <RuneLvl>4 </RuneLvl>
+    <RuneIndex>2 </RuneIndex>
+    <Detail_SCN>极限防御</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10004 10004 10001 20004 20004 20014 30004 30004 30004 20004 20014 30004 40004 40014 40084 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>116019 </ResID>
+    <HeroID>10000406 </HeroID>
+    <RuneLvl>5 </RuneLvl>
+    <RuneIndex>2 </RuneIndex>
+    <Detail_SCN>极限防御</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10005 10005 10001 20005 20005 20015 30005 30005 30005 20005 20015 30005 40005 40015 40085 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>117010 </ResID>
+    <HeroID>10000407 </HeroID>
+    <RuneLvl>1 </RuneLvl>
+    <RuneIndex>1 </RuneIndex>
+    <Detail_SCN>攻守兼备</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10001 10001 10021 20001 20001 20011 30001 30011 30001 30001 20011 20001 40001 40011 40081 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>117011 </ResID>
+    <HeroID>10000407 </HeroID>
+    <RuneLvl>2 </RuneLvl>
+    <RuneIndex>1 </RuneIndex>
+    <Detail_SCN>攻守兼备</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10002 10002 10022 20002 20002 20012 30002 30012 30002 30002 20012 20002 40002 40012 40082 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>117012 </ResID>
+    <HeroID>10000407 </HeroID>
+    <RuneLvl>3 </RuneLvl>
+    <RuneIndex>1 </RuneIndex>
+    <Detail_SCN>攻守兼备</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10003 10003 10023 20003 20003 20013 30003 30013 30003 30003 20013 20003 40003 40013 40083 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>117013 </ResID>
+    <HeroID>10000407 </HeroID>
+    <RuneLvl>4 </RuneLvl>
+    <RuneIndex>1 </RuneIndex>
+    <Detail_SCN>攻守兼备</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10004 10004 10024 20004 20004 20014 30004 30014 30004 30004 20014 20004 40004 40014 40084 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>117014 </ResID>
+    <HeroID>10000407 </HeroID>
+    <RuneLvl>5 </RuneLvl>
+    <RuneIndex>1 </RuneIndex>
+    <Detail_SCN>攻守兼备</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10005 10005 10025 20005 20005 20015 30005 30015 30005 30005 20015 20005 40005 40015 40085 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>117015 </ResID>
+    <HeroID>10000407 </HeroID>
+    <RuneLvl>1 </RuneLvl>
+    <RuneIndex>2 </RuneIndex>
+    <Detail_SCN>极限攻击</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10001 10001 10001 20001 20001 20011 30001 30011 30001 10001 10001 10001 40051 40021 40081 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>117016 </ResID>
+    <HeroID>10000407 </HeroID>
+    <RuneLvl>2 </RuneLvl>
+    <RuneIndex>2 </RuneIndex>
+    <Detail_SCN>极限攻击</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10002 10002 10002 20002 20002 20012 30002 30012 30002 10002 10002 10002 40052 40022 40082 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>117017 </ResID>
+    <HeroID>10000407 </HeroID>
+    <RuneLvl>3 </RuneLvl>
+    <RuneIndex>2 </RuneIndex>
+    <Detail_SCN>极限攻击</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10003 10003 10003 20003 20003 20013 30003 30013 30003 10003 10003 10003 40053 40023 40083 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>117018 </ResID>
+    <HeroID>10000407 </HeroID>
+    <RuneLvl>4 </RuneLvl>
+    <RuneIndex>2 </RuneIndex>
+    <Detail_SCN>极限攻击</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10004 10004 10004 20004 20004 20014 30004 30014 30004 10004 10004 10004 40054 40024 40084 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>117019 </ResID>
+    <HeroID>10000407 </HeroID>
+    <RuneLvl>5 </RuneLvl>
+    <RuneIndex>2 </RuneIndex>
+    <Detail_SCN>极限攻击</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10005 10005 10005 20005 20005 20015 30005 30015 30005 10005 10005 10005 40055 40025 40085 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>118010 </ResID>
+    <HeroID>10000408 </HeroID>
+    <RuneLvl>1 </RuneLvl>
+    <RuneIndex>1 </RuneIndex>
+    <Detail_SCN>攻守兼备</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10001 10001 10021 20001 20001 20011 30001 30011 30001 30001 20011 20001 40001 40011 40081 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>118011 </ResID>
+    <HeroID>10000408 </HeroID>
+    <RuneLvl>2 </RuneLvl>
+    <RuneIndex>1 </RuneIndex>
+    <Detail_SCN>攻守兼备</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10002 10002 10022 20002 20002 20012 30002 30012 30002 30002 20012 20002 40002 40012 40082 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>118012 </ResID>
+    <HeroID>10000408 </HeroID>
+    <RuneLvl>3 </RuneLvl>
+    <RuneIndex>1 </RuneIndex>
+    <Detail_SCN>攻守兼备</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10003 10003 10023 20003 20003 20013 30003 30013 30003 30003 20013 20003 40003 40013 40083 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>118013 </ResID>
+    <HeroID>10000408 </HeroID>
+    <RuneLvl>4 </RuneLvl>
+    <RuneIndex>1 </RuneIndex>
+    <Detail_SCN>攻守兼备</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10004 10004 10024 20004 20004 20014 30004 30014 30004 30004 20014 20004 40004 40014 40084 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>118014 </ResID>
+    <HeroID>10000408 </HeroID>
+    <RuneLvl>5 </RuneLvl>
+    <RuneIndex>1 </RuneIndex>
+    <Detail_SCN>攻守兼备</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10005 10005 10025 20005 20005 20015 30005 30015 30005 30005 20015 20005 40005 40015 40085 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>118015 </ResID>
+    <HeroID>10000408 </HeroID>
+    <RuneLvl>1 </RuneLvl>
+    <RuneIndex>2 </RuneIndex>
+    <Detail_SCN>极限攻击</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10001 10001 10001 20001 20001 20011 30001 30011 30001 10001 10001 10001 40051 40021 40081 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>118016 </ResID>
+    <HeroID>10000408 </HeroID>
+    <RuneLvl>2 </RuneLvl>
+    <RuneIndex>2 </RuneIndex>
+    <Detail_SCN>极限攻击</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10002 10002 10002 20002 20002 20012 30002 30012 30002 10002 10002 10002 40052 40022 40082 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>118017 </ResID>
+    <HeroID>10000408 </HeroID>
+    <RuneLvl>3 </RuneLvl>
+    <RuneIndex>2 </RuneIndex>
+    <Detail_SCN>极限攻击</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10003 10003 10003 20003 20003 20013 30003 30013 30003 10003 10003 10003 40053 40023 40083 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>118018 </ResID>
+    <HeroID>10000408 </HeroID>
+    <RuneLvl>4 </RuneLvl>
+    <RuneIndex>2 </RuneIndex>
+    <Detail_SCN>极限攻击</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10004 10004 10004 20004 20004 20014 30004 30014 30004 10004 10004 10004 40054 40024 40084 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>118019 </ResID>
+    <HeroID>10000408 </HeroID>
+    <RuneLvl>5 </RuneLvl>
+    <RuneIndex>2 </RuneIndex>
+    <Detail_SCN>极限攻击</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10005 10005 10005 20005 20005 20015 30005 30015 30005 10005 10005 10005 40055 40025 40085 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>119010 </ResID>
+    <HeroID>10000409 </HeroID>
+    <RuneLvl>1 </RuneLvl>
+    <RuneIndex>1 </RuneIndex>
+    <Detail_SCN>冷却为主</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10011 10011 10021 20001 20001 20011 30001 30001 30001 10011 10011 10021 40001 40011 40081 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>119011 </ResID>
+    <HeroID>10000409 </HeroID>
+    <RuneLvl>2 </RuneLvl>
+    <RuneIndex>1 </RuneIndex>
+    <Detail_SCN>冷却为主</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10012 10012 10022 20002 20002 20012 30002 30002 30002 10012 10012 10022 40002 40012 40082 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>119012 </ResID>
+    <HeroID>10000409 </HeroID>
+    <RuneLvl>3 </RuneLvl>
+    <RuneIndex>1 </RuneIndex>
+    <Detail_SCN>冷却为主</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10013 10013 10023 20003 20003 20013 30003 30003 30003 10013 10013 10023 40003 40013 40083 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>119013 </ResID>
+    <HeroID>10000409 </HeroID>
+    <RuneLvl>4 </RuneLvl>
+    <RuneIndex>1 </RuneIndex>
+    <Detail_SCN>冷却为主</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10014 10014 10024 20004 20004 20014 30004 30004 30004 10014 10014 10024 40004 40014 40084 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>119014 </ResID>
+    <HeroID>10000409 </HeroID>
+    <RuneLvl>5 </RuneLvl>
+    <RuneIndex>1 </RuneIndex>
+    <Detail_SCN>冷却为主</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10015 10015 10025 20005 20005 20015 30005 30005 30005 10015 10015 10025 40005 40015 40085 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>119015 </ResID>
+    <HeroID>10000409 </HeroID>
+    <RuneLvl>1 </RuneLvl>
+    <RuneIndex>2 </RuneIndex>
+    <Detail_SCN>攻守兼备</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10011 10011 10021 20001 20001 20011 30001 30011 30001 10011 10021 10021 40001 40011 40041 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>119016 </ResID>
+    <HeroID>10000409 </HeroID>
+    <RuneLvl>2 </RuneLvl>
+    <RuneIndex>2 </RuneIndex>
+    <Detail_SCN>攻守兼备</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10012 10012 10022 20002 20002 20012 30002 30012 30002 10012 10022 10022 40002 40012 40042 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>119017 </ResID>
+    <HeroID>10000409 </HeroID>
+    <RuneLvl>3 </RuneLvl>
+    <RuneIndex>2 </RuneIndex>
+    <Detail_SCN>攻守兼备</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10013 10013 10023 20003 20003 20013 30003 30013 30003 10013 10023 10023 40003 40013 40043 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>119018 </ResID>
+    <HeroID>10000409 </HeroID>
+    <RuneLvl>4 </RuneLvl>
+    <RuneIndex>2 </RuneIndex>
+    <Detail_SCN>攻守兼备</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10014 10014 10024 20004 20004 20014 30004 30014 30004 10014 10024 10024 40004 40014 40044 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>119019 </ResID>
+    <HeroID>10000409 </HeroID>
+    <RuneLvl>5 </RuneLvl>
+    <RuneIndex>2 </RuneIndex>
+    <Detail_SCN>攻守兼备</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10015 10015 10025 20005 20005 20015 30005 30015 30005 10015 10025 10025 40005 40015 40045 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>120010 </ResID>
+    <HeroID>10000410 </HeroID>
+    <RuneLvl>1 </RuneLvl>
+    <RuneIndex>1 </RuneIndex>
+    <Detail_SCN>攻速暴击</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10021 10021 10021 20001 20001 20011 30001 30011 30001 10021 10021 10021 40031 40041 40051 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>120011 </ResID>
+    <HeroID>10000410 </HeroID>
+    <RuneLvl>2 </RuneLvl>
+    <RuneIndex>1 </RuneIndex>
+    <Detail_SCN>攻速暴击</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10022 10022 10022 20002 20002 20012 30002 30012 30002 10022 10022 10022 40032 40042 40052 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>120012 </ResID>
+    <HeroID>10000410 </HeroID>
+    <RuneLvl>3 </RuneLvl>
+    <RuneIndex>1 </RuneIndex>
+    <Detail_SCN>攻速暴击</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10023 10023 10023 20003 20003 20013 30003 30013 30003 10023 10023 10023 40033 40043 40053 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>120013 </ResID>
+    <HeroID>10000410 </HeroID>
+    <RuneLvl>4 </RuneLvl>
+    <RuneIndex>1 </RuneIndex>
+    <Detail_SCN>攻速暴击</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10024 10024 10024 20004 20004 20014 30004 30014 30004 10024 10024 10024 40034 40044 40054 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>120014 </ResID>
+    <HeroID>10000410 </HeroID>
+    <RuneLvl>5 </RuneLvl>
+    <RuneIndex>1 </RuneIndex>
+    <Detail_SCN>攻速暴击</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10025 10025 10025 20005 20005 20015 30005 30015 30005 10025 10025 10025 40035 40045 40055 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>120015 </ResID>
+    <HeroID>10000410 </HeroID>
+    <RuneLvl>1 </RuneLvl>
+    <RuneIndex>2 </RuneIndex>
+    <Detail_SCN>极限攻击</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10001 10001 10001 20001 20001 20011 30001 30011 30001 10001 10001 10001 40051 40021 40081 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>120016 </ResID>
+    <HeroID>10000410 </HeroID>
+    <RuneLvl>2 </RuneLvl>
+    <RuneIndex>2 </RuneIndex>
+    <Detail_SCN>极限攻击</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10002 10002 10002 20002 20002 20012 30002 30012 30002 10002 10002 10002 40052 40022 40082 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>120017 </ResID>
+    <HeroID>10000410 </HeroID>
+    <RuneLvl>3 </RuneLvl>
+    <RuneIndex>2 </RuneIndex>
+    <Detail_SCN>极限攻击</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10003 10003 10003 20003 20003 20013 30003 30013 30003 10003 10003 10003 40053 40023 40083 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>120018 </ResID>
+    <HeroID>10000410 </HeroID>
+    <RuneLvl>4 </RuneLvl>
+    <RuneIndex>2 </RuneIndex>
+    <Detail_SCN>极限攻击</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10004 10004 10004 20004 20004 20014 30004 30014 30004 10004 10004 10004 40054 40024 40084 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>120019 </ResID>
+    <HeroID>10000410 </HeroID>
+    <RuneLvl>5 </RuneLvl>
+    <RuneIndex>2 </RuneIndex>
+    <Detail_SCN>极限攻击</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10005 10005 10005 20005 20005 20015 30005 30015 30005 10005 10005 10005 40055 40025 40085 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>121010 </ResID>
+    <HeroID>10000411 </HeroID>
+    <RuneLvl>1 </RuneLvl>
+    <RuneIndex>1 </RuneIndex>
+    <Detail_SCN>攻守兼备</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10001 10001 10021 20001 20001 20011 30001 30011 30001 30001 20011 20001 40001 40011 40081 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>121011 </ResID>
+    <HeroID>10000411 </HeroID>
+    <RuneLvl>2 </RuneLvl>
+    <RuneIndex>1 </RuneIndex>
+    <Detail_SCN>攻守兼备</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10002 10002 10022 20002 20002 20012 30002 30012 30002 30002 20012 20002 40002 40012 40082 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>121012 </ResID>
+    <HeroID>10000411 </HeroID>
+    <RuneLvl>3 </RuneLvl>
+    <RuneIndex>1 </RuneIndex>
+    <Detail_SCN>攻守兼备</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10003 10003 10023 20003 20003 20013 30003 30013 30003 30003 20013 20003 40003 40013 40083 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>121013 </ResID>
+    <HeroID>10000411 </HeroID>
+    <RuneLvl>4 </RuneLvl>
+    <RuneIndex>1 </RuneIndex>
+    <Detail_SCN>攻守兼备</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10004 10004 10024 20004 20004 20014 30004 30014 30004 30004 20014 20004 40004 40014 40084 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>121014 </ResID>
+    <HeroID>10000411 </HeroID>
+    <RuneLvl>5 </RuneLvl>
+    <RuneIndex>1 </RuneIndex>
+    <Detail_SCN>攻守兼备</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10005 10005 10025 20005 20005 20015 30005 30015 30005 30005 20015 20005 40005 40015 40085 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>121015 </ResID>
+    <HeroID>10000411 </HeroID>
+    <RuneLvl>1 </RuneLvl>
+    <RuneIndex>2 </RuneIndex>
+    <Detail_SCN>极限攻击</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10001 10001 10001 20001 20001 20011 30001 30011 30001 10001 10001 10001 40051 40021 40081 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>121016 </ResID>
+    <HeroID>10000411 </HeroID>
+    <RuneLvl>2 </RuneLvl>
+    <RuneIndex>2 </RuneIndex>
+    <Detail_SCN>极限攻击</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10002 10002 10002 20002 20002 20012 30002 30012 30002 10002 10002 10002 40052 40022 40082 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>121017 </ResID>
+    <HeroID>10000411 </HeroID>
+    <RuneLvl>3 </RuneLvl>
+    <RuneIndex>2 </RuneIndex>
+    <Detail_SCN>极限攻击</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10003 10003 10003 20003 20003 20013 30003 30013 30003 10003 10003 10003 40053 40023 40083 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>121018 </ResID>
+    <HeroID>10000411 </HeroID>
+    <RuneLvl>4 </RuneLvl>
+    <RuneIndex>2 </RuneIndex>
+    <Detail_SCN>极限攻击</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10004 10004 10004 20004 20004 20014 30004 30014 30004 10004 10004 10004 40054 40024 40084 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>121019 </ResID>
+    <HeroID>10000411 </HeroID>
+    <RuneLvl>5 </RuneLvl>
+    <RuneIndex>2 </RuneIndex>
+    <Detail_SCN>极限攻击</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10005 10005 10005 20005 20005 20015 30005 30015 30005 10005 10005 10005 40055 40025 40085 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>122010 </ResID>
+    <HeroID>10000412 </HeroID>
+    <RuneLvl>1 </RuneLvl>
+    <RuneIndex>1 </RuneIndex>
+    <Detail_SCN>法穿暴击</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10021 10021 10021 20001 20001 20011 30001 30011 30001 10011 10021 10021 40061 40071 40041 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>122011 </ResID>
+    <HeroID>10000412 </HeroID>
+    <RuneLvl>2 </RuneLvl>
+    <RuneIndex>1 </RuneIndex>
+    <Detail_SCN>法穿暴击</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10022 10022 10022 20002 20002 20012 30002 30012 30002 10012 10022 10022 40062 40072 40042 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>122012 </ResID>
+    <HeroID>10000412 </HeroID>
+    <RuneLvl>3 </RuneLvl>
+    <RuneIndex>1 </RuneIndex>
+    <Detail_SCN>法穿暴击</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10023 10023 10023 20003 20003 20013 30003 30013 30003 10013 10023 10023 40063 40073 40043 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>122013 </ResID>
+    <HeroID>10000412 </HeroID>
+    <RuneLvl>4 </RuneLvl>
+    <RuneIndex>1 </RuneIndex>
+    <Detail_SCN>法穿暴击</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10024 10024 10024 20004 20004 20014 30004 30014 30004 10014 10024 10024 40064 40074 40044 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>122014 </ResID>
+    <HeroID>10000412 </HeroID>
+    <RuneLvl>5 </RuneLvl>
+    <RuneIndex>1 </RuneIndex>
+    <Detail_SCN>法穿暴击</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10025 10025 10025 20005 20005 20015 30005 30015 30005 10015 10025 10025 40065 40075 40045 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>122015 </ResID>
+    <HeroID>10000412 </HeroID>
+    <RuneLvl>1 </RuneLvl>
+    <RuneIndex>2 </RuneIndex>
+    <Detail_SCN>极限法强</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10011 10011 10021 20001 20001 20011 30001 30011 30001 10011 10011 10021 40041 40061 40081 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>122016 </ResID>
+    <HeroID>10000412 </HeroID>
+    <RuneLvl>2 </RuneLvl>
+    <RuneIndex>2 </RuneIndex>
+    <Detail_SCN>极限法强</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10012 10012 10022 20002 20002 20012 30002 30012 30002 10012 10012 10022 40042 40062 40082 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>122017 </ResID>
+    <HeroID>10000412 </HeroID>
+    <RuneLvl>3 </RuneLvl>
+    <RuneIndex>2 </RuneIndex>
+    <Detail_SCN>极限法强</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10013 10013 10023 20003 20003 20013 30003 30013 30003 10013 10013 10023 40043 40063 40083 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>122018 </ResID>
+    <HeroID>10000412 </HeroID>
+    <RuneLvl>4 </RuneLvl>
+    <RuneIndex>2 </RuneIndex>
+    <Detail_SCN>极限法强</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10014 10014 10024 20004 20004 20014 30004 30014 30004 10014 10014 10024 40044 40064 40084 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>122019 </ResID>
+    <HeroID>10000412 </HeroID>
+    <RuneLvl>5 </RuneLvl>
+    <RuneIndex>2 </RuneIndex>
+    <Detail_SCN>极限法强</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10015 10015 10025 20005 20005 20015 30005 30015 30005 10015 10015 10025 40045 40065 40085 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>123010 </ResID>
+    <HeroID>10000413 </HeroID>
+    <RuneLvl>1 </RuneLvl>
+    <RuneIndex>1 </RuneIndex>
+    <Detail_SCN>冷却为主</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10011 10011 10021 20001 20001 20011 30001 30001 30001 10011 10011 10021 40001 40011 40081 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>123011 </ResID>
+    <HeroID>10000413 </HeroID>
+    <RuneLvl>2 </RuneLvl>
+    <RuneIndex>1 </RuneIndex>
+    <Detail_SCN>冷却为主</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10012 10012 10022 20002 20002 20012 30002 30002 30002 10012 10012 10022 40002 40012 40082 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>123012 </ResID>
+    <HeroID>10000413 </HeroID>
+    <RuneLvl>3 </RuneLvl>
+    <RuneIndex>1 </RuneIndex>
+    <Detail_SCN>冷却为主</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10013 10013 10023 20003 20003 20013 30003 30003 30003 10013 10013 10023 40003 40013 40083 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>123013 </ResID>
+    <HeroID>10000413 </HeroID>
+    <RuneLvl>4 </RuneLvl>
+    <RuneIndex>1 </RuneIndex>
+    <Detail_SCN>冷却为主</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10014 10014 10024 20004 20004 20014 30004 30004 30004 10014 10014 10024 40004 40014 40084 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>123014 </ResID>
+    <HeroID>10000413 </HeroID>
+    <RuneLvl>5 </RuneLvl>
+    <RuneIndex>1 </RuneIndex>
+    <Detail_SCN>冷却为主</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10015 10015 10025 20005 20005 20015 30005 30005 30005 10015 10015 10025 40005 40015 40085 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>123015 </ResID>
+    <HeroID>10000413 </HeroID>
+    <RuneLvl>1 </RuneLvl>
+    <RuneIndex>2 </RuneIndex>
+    <Detail_SCN>攻守兼备</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10011 10011 10021 20001 20001 20011 30001 30011 30001 10011 10021 10021 40001 40011 40041 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>123016 </ResID>
+    <HeroID>10000413 </HeroID>
+    <RuneLvl>2 </RuneLvl>
+    <RuneIndex>2 </RuneIndex>
+    <Detail_SCN>攻守兼备</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10012 10012 10022 20002 20002 20012 30002 30012 30002 10012 10022 10022 40002 40012 40042 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>123017 </ResID>
+    <HeroID>10000413 </HeroID>
+    <RuneLvl>3 </RuneLvl>
+    <RuneIndex>2 </RuneIndex>
+    <Detail_SCN>攻守兼备</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10013 10013 10023 20003 20003 20013 30003 30013 30003 10013 10023 10023 40003 40013 40043 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>123018 </ResID>
+    <HeroID>10000413 </HeroID>
+    <RuneLvl>4 </RuneLvl>
+    <RuneIndex>2 </RuneIndex>
+    <Detail_SCN>攻守兼备</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10014 10014 10024 20004 20004 20014 30004 30014 30004 10014 10024 10024 40004 40014 40044 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>123019 </ResID>
+    <HeroID>10000413 </HeroID>
+    <RuneLvl>5 </RuneLvl>
+    <RuneIndex>2 </RuneIndex>
+    <Detail_SCN>攻守兼备</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10015 10015 10025 20005 20005 20015 30005 30015 30005 10015 10025 10025 40005 40015 40045 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>124010 </ResID>
+    <HeroID>10000414 </HeroID>
+    <RuneLvl>1 </RuneLvl>
+    <RuneIndex>1 </RuneIndex>
+    <Detail_SCN>攻速暴击</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10021 10021 10021 20001 20001 20011 30001 30011 30001 10021 10021 10021 40031 40041 40051 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>124011 </ResID>
+    <HeroID>10000414 </HeroID>
+    <RuneLvl>2 </RuneLvl>
+    <RuneIndex>1 </RuneIndex>
+    <Detail_SCN>攻速暴击</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10022 10022 10022 20002 20002 20012 30002 30012 30002 10022 10022 10022 40032 40042 40052 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>124012 </ResID>
+    <HeroID>10000414 </HeroID>
+    <RuneLvl>3 </RuneLvl>
+    <RuneIndex>1 </RuneIndex>
+    <Detail_SCN>攻速暴击</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10023 10023 10023 20003 20003 20013 30003 30013 30003 10023 10023 10023 40033 40043 40053 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>124013 </ResID>
+    <HeroID>10000414 </HeroID>
+    <RuneLvl>4 </RuneLvl>
+    <RuneIndex>1 </RuneIndex>
+    <Detail_SCN>攻速暴击</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10024 10024 10024 20004 20004 20014 30004 30014 30004 10024 10024 10024 40034 40044 40054 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>124014 </ResID>
+    <HeroID>10000414 </HeroID>
+    <RuneLvl>5 </RuneLvl>
+    <RuneIndex>1 </RuneIndex>
+    <Detail_SCN>攻速暴击</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10025 10025 10025 20005 20005 20015 30005 30015 30005 10025 10025 10025 40035 40045 40055 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>124015 </ResID>
+    <HeroID>10000414 </HeroID>
+    <RuneLvl>1 </RuneLvl>
+    <RuneIndex>2 </RuneIndex>
+    <Detail_SCN>极限攻击</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10001 10001 10001 20001 20001 20011 30001 30011 30001 10001 10001 10001 40051 40021 40081 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>124016 </ResID>
+    <HeroID>10000414 </HeroID>
+    <RuneLvl>2 </RuneLvl>
+    <RuneIndex>2 </RuneIndex>
+    <Detail_SCN>极限攻击</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10002 10002 10002 20002 20002 20012 30002 30012 30002 10002 10002 10002 40052 40022 40082 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>124017 </ResID>
+    <HeroID>10000414 </HeroID>
+    <RuneLvl>3 </RuneLvl>
+    <RuneIndex>2 </RuneIndex>
+    <Detail_SCN>极限攻击</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10003 10003 10003 20003 20003 20013 30003 30013 30003 10003 10003 10003 40053 40023 40083 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>124018 </ResID>
+    <HeroID>10000414 </HeroID>
+    <RuneLvl>4 </RuneLvl>
+    <RuneIndex>2 </RuneIndex>
+    <Detail_SCN>极限攻击</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10004 10004 10004 20004 20004 20014 30004 30014 30004 10004 10004 10004 40054 40024 40084 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+<ResHeroRuneRecommendDesc version="1">
+    <ResID>124019 </ResID>
+    <HeroID>10000414 </HeroID>
+    <RuneLvl>5 </RuneLvl>
+    <RuneIndex>2 </RuneIndex>
+    <Detail_SCN>极限攻击</Detail_SCN>
+    <Detail_FCN></Detail_FCN>
+    <Detail_EN></Detail_EN>
+    <RuneConfigId>10005 10005 10005 20005 20005 20015 30005 30015 30005 10005 10005 10005 40055 40025 40085 </RuneConfigId>
+</ResHeroRuneRecommendDesc>
+</ResHeroRuneRecommendDesc_Tab>

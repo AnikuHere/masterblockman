@@ -1,0 +1,2269 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<ResGoodsDisplayDesc_Tab>
+<TResHeadAll version="5">
+    <resHead type="TResHead">
+        <Magic>1397052237 </Magic>
+        <Version>6 </Version>
+        <Unit>964 </Unit>
+        <Count>250 </Count>
+        <MetalibHash>531d5b4a397ad5b3c0fbfb5cc8059e55</MetalibHash>
+        <ResVersion>0 </ResVersion>
+        <CreateTime>2023-04-19 20:42:38</CreateTime>
+        <ResEncording>UTF-8</ResEncording>
+        <ContentHash>8b77d467d31b809e2fa0cba49e70352e</ContentHash>
+    </resHead>
+    <resHeadExt type="TResHeadExt">
+        <DataOffset>136 </DataOffset>
+    </resHeadExt>
+</TResHeadAll>
+<ResGoodsDisplayDesc version="1">
+    <ResID>1 </ResID>
+    <GoodsName_SCN>经验</GoodsName_SCN>
+    <GoodsName_EN>EXP</GoodsName_EN>
+    <GoodsName_FCN>经验</GoodsName_FCN>
+    <GoodsDesc_SCN>通过对战、任务可获得经验值，经验值可提升召唤师等级</GoodsDesc_SCN>
+    <GoodsDesc_EN>EXP is gained from matches and tasks to level up your Summoner.</GoodsDesc_EN>
+    <GoodsDesc_FCN>通过对战、任务可获得经验值，经验值可提升召唤师等级</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>2 </ResID>
+    <GoodsName_SCN>战魂币</GoodsName_SCN>
+    <GoodsName_EN>Ticket</GoodsName_EN>
+    <GoodsName_FCN>战魂币</GoodsName_FCN>
+    <GoodsDesc_SCN>可用于购买任意道具</GoodsDesc_SCN>
+    <GoodsDesc_EN>Used to buy any item.</GoodsDesc_EN>
+    <GoodsDesc_FCN>可用于购买任意道具</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>3 </ResID>
+    <GoodsName_SCN>金币</GoodsName_SCN>
+    <GoodsName_EN>Hero Coin</GoodsName_EN>
+    <GoodsName_FCN>金币</GoodsName_FCN>
+    <GoodsDesc_SCN>通过对战、任务、活动等获得金币，可以购买更多的英雄</GoodsDesc_SCN>
+    <GoodsDesc_EN>Hero Coins are gained from matches and tasks to buy new Heroes.</GoodsDesc_EN>
+    <GoodsDesc_FCN>通过对战、任务、活动等获得金币，可以购买更多的英雄</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>4 </ResID>
+    <GoodsName_SCN>魂石</GoodsName_SCN>
+    <GoodsName_EN>Gem</GoodsName_EN>
+    <GoodsName_FCN>魂石</GoodsName_FCN>
+    <GoodsDesc_SCN>完成任务、成就可以获得魂石，可用于购买部分商品，战旗获取等</GoodsDesc_SCN>
+    <GoodsDesc_EN>Gems are gained from tasks and achievements to buy certain items.</GoodsDesc_EN>
+    <GoodsDesc_FCN>完成任务、成就可以获得魂石，可用于购买部分商品，战旗获取等</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>5 </ResID>
+    <GoodsName_SCN>活跃点</GoodsName_SCN>
+    <GoodsName_EN>Activity Point</GoodsName_EN>
+    <GoodsName_FCN>活跃点</GoodsName_FCN>
+    <GoodsDesc_SCN>通过日常任务获得，累计到一定程度后可获得丰厚奖励</GoodsDesc_SCN>
+    <GoodsDesc_EN>Gained from daily tasks. Collect to win great rewards.</GoodsDesc_EN>
+    <GoodsDesc_FCN>通过日常任务获得，累计到一定程度后可获得丰厚奖励</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>7 </ResID>
+    <GoodsName_SCN>成就点数</GoodsName_SCN>
+    <GoodsName_EN>Achievement Point</GoodsName_EN>
+    <GoodsName_FCN>成就点数</GoodsName_FCN>
+    <GoodsDesc_SCN>累计成就点数可增加成就等级，成就等级有对应的奖励</GoodsDesc_SCN>
+    <GoodsDesc_EN>Collect Achievement Points to unlock Achievement rewards.</GoodsDesc_EN>
+    <GoodsDesc_FCN>累计成就点数可增加成就等级，成就等级有对应的奖励</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>8 </ResID>
+    <GoodsName_SCN>竞技场积分</GoodsName_SCN>
+    <GoodsName_EN>Arena Point</GoodsName_EN>
+    <GoodsName_FCN>竞技场积分</GoodsName_FCN>
+    <GoodsDesc_SCN>增加竞技场积分</GoodsDesc_SCN>
+    <GoodsDesc_EN>Increases Arena Points.</GoodsDesc_EN>
+    <GoodsDesc_FCN>增加竞技场积分</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>9 </ResID>
+    <GoodsName_SCN>英雄战旗碎片</GoodsName_SCN>
+    <GoodsName_EN>英雄战旗碎片</GoodsName_EN>
+    <GoodsName_FCN>英雄战旗碎片</GoodsName_FCN>
+    <GoodsDesc_SCN>通过英雄战旗分解、活动等获得，可用于购买英雄战旗</GoodsDesc_SCN>
+    <GoodsDesc_EN>通过英雄战旗分解、活动等获得，可用于购买英雄战旗</GoodsDesc_EN>
+    <GoodsDesc_FCN>通过英雄战旗分解、活动等获得，可用于购买英雄战旗</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>10 </ResID>
+    <GoodsName_SCN>种族战旗碎片</GoodsName_SCN>
+    <GoodsName_EN>种族战旗碎片</GoodsName_EN>
+    <GoodsName_FCN>种族战旗碎片</GoodsName_FCN>
+    <GoodsDesc_SCN>通过种族战旗分解、活动等获得，可用于购买种族战旗</GoodsDesc_SCN>
+    <GoodsDesc_EN>通过种族战旗分解、活动等获得，可用于购买种族战旗</GoodsDesc_EN>
+    <GoodsDesc_FCN>通过种族战旗分解、活动等获得，可用于购买种族战旗</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31030001 </ResID>
+    <GoodsName_SCN>人族标志</GoodsName_SCN>
+    <GoodsName_EN>Human Emblem</GoodsName_EN>
+    <GoodsName_FCN>人族标志</GoodsName_FCN>
+    <GoodsDesc_SCN>使用后解锁领主头像：人族标志</GoodsDesc_SCN>
+    <GoodsDesc_EN>Use: Unlock Human Emblem Avatar.</GoodsDesc_EN>
+    <GoodsDesc_FCN>使用后解锁领主头像：人族标志</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31030002 </ResID>
+    <GoodsName_SCN>兽族标志</GoodsName_SCN>
+    <GoodsName_EN>Orcish Emblem</GoodsName_EN>
+    <GoodsName_FCN>兽族标志</GoodsName_FCN>
+    <GoodsDesc_SCN>使用后解锁领主头像：兽族标志</GoodsDesc_SCN>
+    <GoodsDesc_EN>Use: Unlock Orcish Emblem  Avatar.</GoodsDesc_EN>
+    <GoodsDesc_FCN>使用后解锁领主头像：兽族标志</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31030003 </ResID>
+    <GoodsName_SCN>亡灵标志</GoodsName_SCN>
+    <GoodsName_EN>Undead Emblem</GoodsName_EN>
+    <GoodsName_FCN>亡灵标志</GoodsName_FCN>
+    <GoodsDesc_SCN>使用后解锁领主头像：亡灵标志</GoodsDesc_SCN>
+    <GoodsDesc_EN>Use: Unlock Undead Emblem Avatar.</GoodsDesc_EN>
+    <GoodsDesc_FCN>使用后解锁领主头像：亡灵标志</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31030004 </ResID>
+    <GoodsName_SCN>精灵标志</GoodsName_SCN>
+    <GoodsName_EN>Elven Emblem</GoodsName_EN>
+    <GoodsName_FCN>精灵标志</GoodsName_FCN>
+    <GoodsDesc_SCN>使用后解锁领主头像：精灵标志</GoodsDesc_SCN>
+    <GoodsDesc_EN>Use: Unlock Elven Emblem Avatar.</GoodsDesc_EN>
+    <GoodsDesc_FCN>使用后解锁领主头像：精灵标志</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31030005 </ResID>
+    <GoodsName_SCN>真视之眼（头像）</GoodsName_SCN>
+    <GoodsName_EN>Vision Ward (Avatar)</GoodsName_EN>
+    <GoodsName_FCN>真视之眼（头像）</GoodsName_FCN>
+    <GoodsDesc_SCN>使用后解锁领主头像：真视之眼</GoodsDesc_SCN>
+    <GoodsDesc_EN>Use: Unlock Vision Ward  Avatar.</GoodsDesc_EN>
+    <GoodsDesc_FCN>使用后解锁领主头像：真视之眼</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31030006 </ResID>
+    <GoodsName_SCN>索伦（头像）</GoodsName_SCN>
+    <GoodsName_EN>Rothol(Avatar)</GoodsName_EN>
+    <GoodsName_FCN>索伦（头像）</GoodsName_FCN>
+    <GoodsDesc_SCN>使用后解锁领主头像：索伦</GoodsDesc_SCN>
+    <GoodsDesc_EN>Use: Unlock Rothol  Avatar.</GoodsDesc_EN>
+    <GoodsDesc_FCN>使用后解锁领主头像：索伦</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31030007 </ResID>
+    <GoodsName_SCN>艾米（头像）</GoodsName_SCN>
+    <GoodsName_EN>Aimee(Avatar)</GoodsName_EN>
+    <GoodsName_FCN>艾米（头像）</GoodsName_FCN>
+    <GoodsDesc_SCN>使用后解锁领主头像：艾米</GoodsDesc_SCN>
+    <GoodsDesc_EN>Use: Unlock Aimee  Avatar.</GoodsDesc_EN>
+    <GoodsDesc_FCN>使用后解锁领主头像：艾米</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31030008 </ResID>
+    <GoodsName_SCN>安东尼（头像）</GoodsName_SCN>
+    <GoodsName_EN>Anthony(Avatar)</GoodsName_EN>
+    <GoodsName_FCN>安东尼（头像）</GoodsName_FCN>
+    <GoodsDesc_SCN>使用后解锁领主头像：安东尼</GoodsDesc_SCN>
+    <GoodsDesc_EN>Use: Unlock Anthony  Avatar.</GoodsDesc_EN>
+    <GoodsDesc_FCN>使用后解锁领主头像：安东尼</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31030009 </ResID>
+    <GoodsName_SCN>哈迪斯（头像）</GoodsName_SCN>
+    <GoodsName_EN>Mot(Avatar)</GoodsName_EN>
+    <GoodsName_FCN>哈迪斯（头像）</GoodsName_FCN>
+    <GoodsDesc_SCN>使用后解锁领主头像：哈迪斯</GoodsDesc_SCN>
+    <GoodsDesc_EN>Use: Unlock Mot Avatar.</GoodsDesc_EN>
+    <GoodsDesc_FCN>使用后解锁领主头像：哈迪斯</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31030010 </ResID>
+    <GoodsName_SCN>罗刹（头像）</GoodsName_SCN>
+    <GoodsName_EN>Asuka(Avatar)</GoodsName_EN>
+    <GoodsName_FCN>罗刹（头像）</GoodsName_FCN>
+    <GoodsDesc_SCN>使用后解锁领主头像：罗刹</GoodsDesc_SCN>
+    <GoodsDesc_EN>Use: Unlock Asuka  Avatar.</GoodsDesc_EN>
+    <GoodsDesc_FCN>使用后解锁领主头像：罗刹</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31030011 </ResID>
+    <GoodsName_SCN>贝奥武夫（头像）</GoodsName_SCN>
+    <GoodsName_EN>Hogarth(Avatar)</GoodsName_EN>
+    <GoodsName_FCN>贝奥武夫（头像）</GoodsName_FCN>
+    <GoodsDesc_SCN>使用后解锁领主头像：贝奥武夫</GoodsDesc_SCN>
+    <GoodsDesc_EN>Use: Unlock Hogarth  Avatar.</GoodsDesc_EN>
+    <GoodsDesc_FCN>使用后解锁领主头像：贝奥武夫</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31030012 </ResID>
+    <GoodsName_SCN>蕾拉（头像）</GoodsName_SCN>
+    <GoodsName_EN>Nara(Avatar)</GoodsName_EN>
+    <GoodsName_FCN>蕾拉（头像）</GoodsName_FCN>
+    <GoodsDesc_SCN>使用后解锁领主头像：蕾拉</GoodsDesc_SCN>
+    <GoodsDesc_EN>Use: Unlock Nara  Avatar.</GoodsDesc_EN>
+    <GoodsDesc_FCN>使用后解锁领主头像：蕾拉</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31030013 </ResID>
+    <GoodsName_SCN>爱丽丝（头像）</GoodsName_SCN>
+    <GoodsName_EN>Sierra(Avatar)</GoodsName_EN>
+    <GoodsName_FCN>爱丽丝（头像）</GoodsName_FCN>
+    <GoodsDesc_SCN>使用后解锁领主头像：爱丽丝</GoodsDesc_SCN>
+    <GoodsDesc_EN>Use: Unlock Sierra  Avatar.</GoodsDesc_EN>
+    <GoodsDesc_FCN>使用后解锁领主头像：爱丽丝</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31030014 </ResID>
+    <GoodsName_SCN>欧若拉（头像）</GoodsName_SCN>
+    <GoodsName_EN>Angelica(Avatar)</GoodsName_EN>
+    <GoodsName_FCN>欧若拉（头像）</GoodsName_FCN>
+    <GoodsDesc_SCN>使用后解锁领主头像：欧若拉</GoodsDesc_SCN>
+    <GoodsDesc_EN>Use: Unlock Angelica  Avatar.</GoodsDesc_EN>
+    <GoodsDesc_FCN>使用后解锁领主头像：欧若拉</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31030015 </ResID>
+    <GoodsName_SCN>哥布林（头像）</GoodsName_SCN>
+    <GoodsName_EN>Garoth(Avatar)</GoodsName_EN>
+    <GoodsName_FCN>哥布林（头像）</GoodsName_FCN>
+    <GoodsDesc_SCN>使用后解锁领主头像：哥布林</GoodsDesc_SCN>
+    <GoodsDesc_EN>Use: Unlock Garoth  Avatar.</GoodsDesc_EN>
+    <GoodsDesc_FCN>使用后解锁领主头像：哥布林</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31030016 </ResID>
+    <GoodsName_SCN>凯撒（头像）</GoodsName_SCN>
+    <GoodsName_EN>Gaius(Avatar)</GoodsName_EN>
+    <GoodsName_FCN>凯撒（头像）</GoodsName_FCN>
+    <GoodsDesc_SCN>使用后解锁领主头像：凯撒</GoodsDesc_SCN>
+    <GoodsDesc_EN>Use: Unlock Gaius  Avatar.</GoodsDesc_EN>
+    <GoodsDesc_FCN>使用后解锁领主头像：凯撒</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31030017 </ResID>
+    <GoodsName_SCN>潘多拉（头像）</GoodsName_SCN>
+    <GoodsName_EN>Pandora(Avatar)</GoodsName_EN>
+    <GoodsName_FCN>潘多拉（头像）</GoodsName_FCN>
+    <GoodsDesc_SCN>使用后解锁领主头像：潘多拉</GoodsDesc_SCN>
+    <GoodsDesc_EN>Use: Unlock Pandora  Avatar.</GoodsDesc_EN>
+    <GoodsDesc_FCN>使用后解锁领主头像：潘多拉</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31030018 </ResID>
+    <GoodsName_SCN>但丁（头像）</GoodsName_SCN>
+    <GoodsName_EN>Dante(Avatar)</GoodsName_EN>
+    <GoodsName_FCN>但丁（头像）</GoodsName_FCN>
+    <GoodsDesc_SCN>使用后解锁领主头像：但丁</GoodsDesc_SCN>
+    <GoodsDesc_EN>Use: Unlock Dante  Avatar.</GoodsDesc_EN>
+    <GoodsDesc_FCN>使用后解锁领主头像：但丁</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31030019 </ResID>
+    <GoodsName_SCN>米琪（头像）</GoodsName_SCN>
+    <GoodsName_EN>Hilda(Avatar)</GoodsName_EN>
+    <GoodsName_FCN>米琪（头像）</GoodsName_FCN>
+    <GoodsDesc_SCN>使用后解锁领主头像：米琪</GoodsDesc_SCN>
+    <GoodsDesc_EN>Use: Unlock Hilda  Avatar.</GoodsDesc_EN>
+    <GoodsDesc_FCN>使用后解锁领主头像：米琪</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31030020 </ResID>
+    <GoodsName_SCN>闪耀红星</GoodsName_SCN>
+    <GoodsName_EN>Radiant Pentacle</GoodsName_EN>
+    <GoodsName_FCN>闪耀红星</GoodsName_FCN>
+    <GoodsDesc_SCN>使用后解锁领主头像框：闪耀红星</GoodsDesc_SCN>
+    <GoodsDesc_EN>Use: Unlock Radiant Pentacle.</GoodsDesc_EN>
+    <GoodsDesc_FCN>使用后解锁领主头像框：闪耀红星</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31050001 </ResID>
+    <GoodsName_SCN>小喇叭</GoodsName_SCN>
+    <GoodsName_EN>Small Horn</GoodsName_EN>
+    <GoodsName_FCN>小喇叭</GoodsName_FCN>
+    <GoodsDesc_SCN>全服喊话道具，使用后在聊天频道显示你想说的话</GoodsDesc_SCN>
+    <GoodsDesc_EN>Used to send global messages in the chat.</GoodsDesc_EN>
+    <GoodsDesc_FCN>全服喊话道具，使用后在聊天频道显示你想说的话</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31050002 </ResID>
+    <GoodsName_SCN>大喇叭</GoodsName_SCN>
+    <GoodsName_EN>Big Horn</GoodsName_EN>
+    <GoodsName_FCN>大喇叭</GoodsName_FCN>
+    <GoodsDesc_SCN>全服喊话道具，使用后在大厅界面上方显示你想说的话</GoodsDesc_SCN>
+    <GoodsDesc_EN>Used to send global messages that display on the top of the lobby screen.</GoodsDesc_EN>
+    <GoodsDesc_FCN>全服喊话道具，使用后在大厅界面上方显示你想说的话</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31060001 </ResID>
+    <GoodsName_SCN>礼包</GoodsName_SCN>
+    <GoodsName_EN>Pack</GoodsName_EN>
+    <GoodsName_FCN>礼包</GoodsName_FCN>
+    <GoodsDesc_SCN>打开后获得如下奖励中一种：588金币，60魂石</GoodsDesc_SCN>
+    <GoodsDesc_EN>Contains one of the following: 588 Hero Coins, 60 Gems.</GoodsDesc_EN>
+    <GoodsDesc_FCN>打开后获得如下奖励中一种：588金币，60魂石</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31060002 </ResID>
+    <GoodsName_SCN>test礼包固定道具</GoodsName_SCN>
+    <GoodsName_EN>test礼包固定道具</GoodsName_EN>
+    <GoodsName_FCN>test礼包固定道具</GoodsName_FCN>
+    <GoodsDesc_SCN>打开后获得1,3,7日双倍经验卡</GoodsDesc_SCN>
+    <GoodsDesc_EN>Contains 1 of each: Double EXP Card (1/3/7 days).</GoodsDesc_EN>
+    <GoodsDesc_FCN>打开后获得1,3,7日双倍经验卡</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31060003 </ResID>
+    <GoodsName_SCN>test礼包随机道具</GoodsName_SCN>
+    <GoodsName_EN>test礼包随机道具</GoodsName_EN>
+    <GoodsName_FCN>test礼包随机道具</GoodsName_FCN>
+    <GoodsDesc_SCN>打开后获得如下奖励中一种：1,3,7日双倍金币卡</GoodsDesc_SCN>
+    <GoodsDesc_EN>Contains one of the following: Double Hero Coins Card (1/3/7 days).</GoodsDesc_EN>
+    <GoodsDesc_FCN>打开后获得如下奖励中一种：1,3,7日双倍金币卡</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31060004 </ResID>
+    <GoodsName_SCN>test礼包随机英雄</GoodsName_SCN>
+    <GoodsName_EN>test礼包随机英雄</GoodsName_EN>
+    <GoodsName_FCN>test礼包随机英雄</GoodsName_FCN>
+    <GoodsDesc_SCN>打开后获得如下奖励中一种： 罗刹，欧若拉，1日双倍经验卡</GoodsDesc_SCN>
+    <GoodsDesc_EN>Contains one of the following: Asuka, Angelica, 1-Day Double EXP Card.</GoodsDesc_EN>
+    <GoodsDesc_FCN>打开后获得如下奖励中一种： 罗刹，欧若拉，1日双倍经验卡</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31060005 </ResID>
+    <GoodsName_SCN>特惠英雄体验礼包</GoodsName_SCN>
+    <GoodsName_EN>Best-Value Hero Trial Pack</GoodsName_EN>
+    <GoodsName_FCN>特惠英雄体验礼包</GoodsName_FCN>
+    <GoodsDesc_SCN>打开后随机获得如下英雄1日体验卡：&lt;color=#d2911e&gt;哥布林&lt;/color&gt;，&lt;color=#d2911e&gt;爱丽丝&lt;/color&gt;，&lt;color=#d2911e&gt;蕾拉&lt;/color&gt;，&lt;color=#d2911e&gt;泷&lt;/color&gt;</GoodsDesc_SCN>
+    <GoodsDesc_EN>Contains one of the following: 1-Day Hero Trial Card(&lt;color=#d2911e&gt;Garoth&lt;/color&gt;，&lt;color=#d2911e&gt;Sierra&lt;/color&gt;，&lt;color=#d2911e&gt;Layla&lt;/color&gt;，&lt;color=#d2911e&gt;Raine&lt;/color&gt;)</GoodsDesc_EN>
+    <GoodsDesc_FCN>打开后随机获得如下英雄1日体验卡：&lt;color=#d2911e&gt;哥布林&lt;/color&gt;，&lt;color=#d2911e&gt;爱丽丝&lt;/color&gt;，&lt;color=#d2911e&gt;蕾拉&lt;/color&gt;，&lt;color=#d2911e&gt;泷&lt;/color&gt;</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31060011 </ResID>
+    <GoodsName_SCN>青铜宝箱</GoodsName_SCN>
+    <GoodsName_EN>Bronze Chest</GoodsName_EN>
+    <GoodsName_FCN>青铜宝箱</GoodsName_FCN>
+    <GoodsDesc_SCN>日活跃达到&lt;color=#d2911e&gt;30&lt;/color&gt;点可领取，打开后获得&lt;color=#d2911e&gt;30&lt;/color&gt;金币，&lt;color=#d2911e&gt;5&lt;/color&gt;英雄战旗碎片，&lt;color=#d2911e&gt;5&lt;/color&gt;种族战旗碎片</GoodsDesc_SCN>
+    <GoodsDesc_EN>日活跃达到&lt;color=#d2911e&gt;30&lt;/color&gt;点可领取，打开后获得&lt;color=#d2911e&gt;30&lt;/color&gt;金币，&lt;color=#d2911e&gt;5&lt;/color&gt;英雄战旗碎片，&lt;color=#d2911e&gt;5&lt;/color&gt;种族战旗碎片</GoodsDesc_EN>
+    <GoodsDesc_FCN>日活跃达到&lt;color=#d2911e&gt;30&lt;/color&gt;点可领取，打开后获得&lt;color=#d2911e&gt;30&lt;/color&gt;金币，&lt;color=#d2911e&gt;5&lt;/color&gt;英雄战旗碎片，&lt;color=#d2911e&gt;5&lt;/color&gt;种族战旗碎片</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31060012 </ResID>
+    <GoodsName_SCN>白银宝箱</GoodsName_SCN>
+    <GoodsName_EN>Silver Chest</GoodsName_EN>
+    <GoodsName_FCN>白银宝箱</GoodsName_FCN>
+    <GoodsDesc_SCN>日活跃达到&lt;color=#d2911e&gt;60&lt;/color&gt;点可领取，打开后获得&lt;color=#d2911e&gt;45&lt;/color&gt;金币，&lt;color=#d2911e&gt;5&lt;/color&gt;英雄战旗碎片，&lt;color=#d2911e&gt;5&lt;/color&gt;种族战旗碎片</GoodsDesc_SCN>
+    <GoodsDesc_EN>日活跃达到&lt;color=#d2911e&gt;60&lt;/color&gt;点可领取，打开后获得&lt;color=#d2911e&gt;45&lt;/color&gt;金币，&lt;color=#d2911e&gt;5&lt;/color&gt;英雄战旗碎片，&lt;color=#d2911e&gt;5&lt;/color&gt;种族战旗碎片</GoodsDesc_EN>
+    <GoodsDesc_FCN>日活跃达到&lt;color=#d2911e&gt;60&lt;/color&gt;点可领取，打开后获得&lt;color=#d2911e&gt;45&lt;/color&gt;金币，&lt;color=#d2911e&gt;5&lt;/color&gt;英雄战旗碎片，&lt;color=#d2911e&gt;5&lt;/color&gt;种族战旗碎片</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31060013 </ResID>
+    <GoodsName_SCN>黄金宝箱</GoodsName_SCN>
+    <GoodsName_EN>Gold Chest</GoodsName_EN>
+    <GoodsName_FCN>黄金宝箱</GoodsName_FCN>
+    <GoodsDesc_SCN>日活跃达到&lt;color=#d2911e&gt;90&lt;/color&gt;点可领取，打开后获得&lt;color=#d2911e&gt;60&lt;/color&gt;金币，&lt;color=#d2911e&gt;5&lt;/color&gt;英雄战旗碎片，&lt;color=#d2911e&gt;5&lt;/color&gt;种族战旗碎片</GoodsDesc_SCN>
+    <GoodsDesc_EN>日活跃达到&lt;color=#d2911e&gt;90&lt;/color&gt;点可领取，打开后获得&lt;color=#d2911e&gt;60&lt;/color&gt;金币，&lt;color=#d2911e&gt;5&lt;/color&gt;英雄战旗碎片，&lt;color=#d2911e&gt;5&lt;/color&gt;种族战旗碎片</GoodsDesc_EN>
+    <GoodsDesc_FCN>日活跃达到&lt;color=#d2911e&gt;90&lt;/color&gt;点可领取，打开后获得&lt;color=#d2911e&gt;60&lt;/color&gt;金币，&lt;color=#d2911e&gt;5&lt;/color&gt;英雄战旗碎片，&lt;color=#d2911e&gt;5&lt;/color&gt;种族战旗碎片</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31060014 </ResID>
+    <GoodsName_SCN>铂金宝箱</GoodsName_SCN>
+    <GoodsName_EN>Platinum Chest</GoodsName_EN>
+    <GoodsName_FCN>铂金宝箱</GoodsName_FCN>
+    <GoodsDesc_SCN>日活跃达到&lt;color=#d2911e&gt;120&lt;/color&gt;点可领取，打开后获得&lt;color=#d2911e&gt;90&lt;/color&gt;金币，&lt;color=#d2911e&gt;15&lt;/color&gt;英雄战旗碎片，&lt;color=#d2911e&gt;15&lt;/color&gt;种族战旗碎片</GoodsDesc_SCN>
+    <GoodsDesc_EN>日活跃达到&lt;color=#d2911e&gt;120&lt;/color&gt;点可领取，打开后获得&lt;color=#d2911e&gt;90&lt;/color&gt;金币，&lt;color=#d2911e&gt;15&lt;/color&gt;英雄战旗碎片，&lt;color=#d2911e&gt;15&lt;/color&gt;种族战旗碎片</GoodsDesc_EN>
+    <GoodsDesc_FCN>日活跃达到&lt;color=#d2911e&gt;120&lt;/color&gt;点可领取，打开后获得&lt;color=#d2911e&gt;90&lt;/color&gt;金币，&lt;color=#d2911e&gt;15&lt;/color&gt;英雄战旗碎片，&lt;color=#d2911e&gt;15&lt;/color&gt;种族战旗碎片</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31060015 </ResID>
+    <GoodsName_SCN>神秘宝箱</GoodsName_SCN>
+    <GoodsName_EN>Mystery Chest</GoodsName_EN>
+    <GoodsName_FCN>神秘宝箱</GoodsName_FCN>
+    <GoodsDesc_SCN>日活跃达到&lt;color=#d2911e&gt;150&lt;/color&gt;点可领取，打开后获得&lt;color=#d2911e&gt;100&lt;/color&gt;金币，&lt;color=#d2911e&gt;20&lt;/color&gt;英雄战旗碎片，&lt;color=#d2911e&gt;20&lt;/color&gt;种族战旗碎片，有一定机率获得魂石</GoodsDesc_SCN>
+    <GoodsDesc_EN>日活跃达到&lt;color=#d2911e&gt;150&lt;/color&gt;点可领取，打开后获得&lt;color=#d2911e&gt;100&lt;/color&gt;金币，&lt;color=#d2911e&gt;20&lt;/color&gt;英雄战旗碎片，&lt;color=#d2911e&gt;20&lt;/color&gt;种族战旗碎片，有一定机率获得魂石</GoodsDesc_EN>
+    <GoodsDesc_FCN>日活跃达到&lt;color=#d2911e&gt;150&lt;/color&gt;点可领取，打开后获得&lt;color=#d2911e&gt;100&lt;/color&gt;金币，&lt;color=#d2911e&gt;20&lt;/color&gt;英雄战旗碎片，&lt;color=#d2911e&gt;20&lt;/color&gt;种族战旗碎片，有一定机率获得魂石</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31060016 </ResID>
+    <GoodsName_SCN>战争宝箱</GoodsName_SCN>
+    <GoodsName_EN>Gem Chest</GoodsName_EN>
+    <GoodsName_FCN>战争宝箱</GoodsName_FCN>
+    <GoodsDesc_SCN>周活跃达到&lt;color=#d2911e&gt;500&lt;/color&gt;点可领取，打开后获得&lt;color=#d2911e&gt;200&lt;/color&gt;金币，&lt;color=#d2911e&gt;100&lt;/color&gt;英雄战旗碎片，&lt;color=#d2911e&gt;100&lt;/color&gt;种族战旗碎片，有一定机率获得魂石</GoodsDesc_SCN>
+    <GoodsDesc_EN>周活跃达到&lt;color=#d2911e&gt;500&lt;/color&gt;点可领取，打开后获得&lt;color=#d2911e&gt;200&lt;/color&gt;金币，&lt;color=#d2911e&gt;100&lt;/color&gt;英雄战旗碎片，&lt;color=#d2911e&gt;100&lt;/color&gt;种族战旗碎片，有一定机率获得魂石</GoodsDesc_EN>
+    <GoodsDesc_FCN>周活跃达到&lt;color=#d2911e&gt;500&lt;/color&gt;点可领取，打开后获得&lt;color=#d2911e&gt;200&lt;/color&gt;金币，&lt;color=#d2911e&gt;100&lt;/color&gt;英雄战旗碎片，&lt;color=#d2911e&gt;100&lt;/color&gt;种族战旗碎片，有一定机率获得魂石</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31060017 </ResID>
+    <GoodsName_SCN>怒吼宝箱</GoodsName_SCN>
+    <GoodsName_EN>King&apos;s Chest</GoodsName_EN>
+    <GoodsName_FCN>怒吼宝箱</GoodsName_FCN>
+    <GoodsDesc_SCN>周活跃达到&lt;color=#d2911e&gt;1000&lt;/color&gt;点可领取，打开后获得&lt;color=#d2911e&gt;500&lt;/color&gt;金币，&lt;color=#d2911e&gt;200&lt;/color&gt;英雄战旗碎片，&lt;color=#d2911e&gt;200&lt;/color&gt;种族战旗碎片，有一定几率获得魂石</GoodsDesc_SCN>
+    <GoodsDesc_EN>周活跃达到&lt;color=#d2911e&gt;1000&lt;/color&gt;点可领取，打开后获得&lt;color=#d2911e&gt;500&lt;/color&gt;金币，&lt;color=#d2911e&gt;200&lt;/color&gt;英雄战旗碎片，&lt;color=#d2911e&gt;200&lt;/color&gt;种族战旗碎片，有一定几率获得魂石</GoodsDesc_EN>
+    <GoodsDesc_FCN>周活跃达到&lt;color=#d2911e&gt;1000&lt;/color&gt;点可领取，打开后获得&lt;color=#d2911e&gt;500&lt;/color&gt;金币，&lt;color=#d2911e&gt;200&lt;/color&gt;英雄战旗碎片，&lt;color=#d2911e&gt;200&lt;/color&gt;种族战旗碎片，有一定几率获得魂石</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31060018 </ResID>
+    <GoodsName_SCN>幸运宝箱</GoodsName_SCN>
+    <GoodsName_EN>Lucky Chest</GoodsName_EN>
+    <GoodsName_FCN>幸运宝箱</GoodsName_FCN>
+    <GoodsDesc_SCN>午间登录、晚间登录赠送，可获得10魂石。有一定机率获得英雄碎片</GoodsDesc_SCN>
+    <GoodsDesc_EN>Obtained from Afternoon Login and Evening Login. Contains 10 Gems. Also has a chance to contain Hero Shards.</GoodsDesc_EN>
+    <GoodsDesc_FCN>午间登录、晚间登录赠送，可获得10魂石。有一定机率获得英雄碎片</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31060019 </ResID>
+    <GoodsName_SCN>惊喜宝箱</GoodsName_SCN>
+    <GoodsName_EN>Surprise Chest</GoodsName_EN>
+    <GoodsName_FCN>惊喜宝箱</GoodsName_FCN>
+    <GoodsDesc_SCN>周末狂欢获得，有几率获得英雄战旗碎片（&lt;color=#d2911e&gt;10片或者50片&lt;/color&gt;）或者种族战旗碎片（&lt;color=#d2911e&gt;10片或者50片&lt;/color&gt;）</GoodsDesc_SCN>
+    <GoodsDesc_EN>周末狂欢获得，有几率获得英雄战旗碎片（&lt;color=#d2911e&gt;10或者50片&lt;/color&gt;）或者种族战旗碎片（&lt;color=#d2911e&gt;10或者50片&lt;/color&gt;）</GoodsDesc_EN>
+    <GoodsDesc_FCN>周末狂欢获得，有几率获得英雄战旗碎片（&lt;color=#d2911e&gt;10或者50片&lt;/color&gt;）或者种族战旗碎片（&lt;color=#d2911e&gt;10或者50片&lt;/color&gt;）</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31060020 </ResID>
+    <GoodsName_SCN>国庆快乐</GoodsName_SCN>
+    <GoodsName_EN>国庆快乐</GoodsName_EN>
+    <GoodsName_FCN>国庆快乐</GoodsName_FCN>
+    <GoodsDesc_SCN>国庆兑换宝箱，打开可获得魂石*3。</GoodsDesc_SCN>
+    <GoodsDesc_EN>国庆兑换宝箱，打开可获得魂石*3。</GoodsDesc_EN>
+    <GoodsDesc_FCN>国庆兑换宝箱，打开可获得魂石*3。</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31060021 </ResID>
+    <GoodsName_SCN>龙腾中国</GoodsName_SCN>
+    <GoodsName_EN>龙腾中国</GoodsName_EN>
+    <GoodsName_FCN>龙腾中国</GoodsName_FCN>
+    <GoodsDesc_SCN>国庆兑换宝箱，打开可获得闪耀红星头像框*1，魂石*50。</GoodsDesc_SCN>
+    <GoodsDesc_EN>国庆兑换宝箱，打开可获得闪耀红星头像框*1，魂石*50。</GoodsDesc_EN>
+    <GoodsDesc_FCN>国庆兑换宝箱，打开可获得闪耀红星头像框*1，魂石*50。</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31060022 </ResID>
+    <GoodsName_SCN>每月礼包</GoodsName_SCN>
+    <GoodsName_EN>Monthly Pack</GoodsName_EN>
+    <GoodsName_FCN>每月礼包</GoodsName_FCN>
+    <GoodsDesc_SCN>每月限时1元礼包，打开必得皮肤碎片*2，怒吼之令*1，7日皮肤体验卡礼包。</GoodsDesc_SCN>
+    <GoodsDesc_EN>Limited-time pack of the month. Contains: Skin Shard*2, Roar Token*1, 7-Day Skin Trial Card.</GoodsDesc_EN>
+    <GoodsDesc_FCN>每月限时1元礼包，打开必得皮肤碎片*2，怒吼之令*1，7日皮肤体验卡礼包。</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31060023 </ResID>
+    <GoodsName_SCN>7日皮肤体验卡礼包</GoodsName_SCN>
+    <GoodsName_EN>7-Day Skin Trial Card</GoodsName_EN>
+    <GoodsName_FCN>7日皮肤体验卡礼包</GoodsName_FCN>
+    <GoodsDesc_SCN>打开可能获得以下皮肤7日体验卡：战场女武神、恶魔之力、舞会绅士、金色曼陀罗。</GoodsDesc_SCN>
+    <GoodsDesc_EN>Contains 7-Day Skin Trial Cards of Task Force, Demon Hunter, Party Prince, and Golden Datura.</GoodsDesc_EN>
+    <GoodsDesc_FCN>打开可能获得以下皮肤7日体验卡：战场女武神、恶魔之力、舞会绅士、金色曼陀罗。</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31060024 </ResID>
+    <GoodsName_SCN>新英雄大礼包</GoodsName_SCN>
+    <GoodsName_EN>新英雄大礼包</GoodsName_EN>
+    <GoodsName_FCN>新英雄大礼包</GoodsName_FCN>
+    <GoodsDesc_SCN>仅需788点劵，绝美英雄带回家！</GoodsDesc_SCN>
+    <GoodsDesc_EN>仅需788点劵，绝美英雄带回家！</GoodsDesc_EN>
+    <GoodsDesc_FCN>仅需788点劵，绝美英雄带回家！</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31070001 </ResID>
+    <GoodsName_SCN>1日经验卡</GoodsName_SCN>
+    <GoodsName_EN>1-Day EXP Card</GoodsName_EN>
+    <GoodsName_FCN>1日经验卡</GoodsName_FCN>
+    <GoodsDesc_SCN>1日内，对战模式获得经验+100%，可与胜利卡叠加，叠加后对战模式获得经验+200%</GoodsDesc_SCN>
+    <GoodsDesc_EN>Use: +100% EXP for 1 day. Can stack with Win Cards to get +200% EXP in total upon winning.</GoodsDesc_EN>
+    <GoodsDesc_FCN>1日内，对战模式获得经验+100%，可与胜利卡叠加，叠加后对战模式获得经验+200%</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31070002 </ResID>
+    <GoodsName_SCN>3日经验卡</GoodsName_SCN>
+    <GoodsName_EN>3-Day EXP Card</GoodsName_EN>
+    <GoodsName_FCN>3日经验卡</GoodsName_FCN>
+    <GoodsDesc_SCN>3日内，对战模式获得经验+100%，可与胜利卡叠加，叠加后对战模式获得经验+200%</GoodsDesc_SCN>
+    <GoodsDesc_EN>Use: +100% EXP for 3 day. Can stack with Win Cards to get +200% EXP in total upon winning.</GoodsDesc_EN>
+    <GoodsDesc_FCN>3日内，对战模式获得经验+100%，可与胜利卡叠加，叠加后对战模式获得经验+200%</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31070003 </ResID>
+    <GoodsName_SCN>5日经验卡</GoodsName_SCN>
+    <GoodsName_EN>5-Day EXP Card</GoodsName_EN>
+    <GoodsName_FCN>5日经验卡</GoodsName_FCN>
+    <GoodsDesc_SCN>5日内，对战模式获得经验+100%，可与胜利卡叠加，叠加后对战模式获得经验+200%</GoodsDesc_SCN>
+    <GoodsDesc_EN>Use: +100% EXP for 5day. Can stack with Win Cards to get +200% EXP in total upon winning.</GoodsDesc_EN>
+    <GoodsDesc_FCN>5日内，对战模式获得经验+100%，可与胜利卡叠加，叠加后对战模式获得经验+200%</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31070004 </ResID>
+    <GoodsName_SCN>7日经验卡</GoodsName_SCN>
+    <GoodsName_EN>7-Day EXP Card</GoodsName_EN>
+    <GoodsName_FCN>7日经验卡</GoodsName_FCN>
+    <GoodsDesc_SCN>7日内，对战模式获得经验+100%，可与胜利卡叠加，叠加后对战模式获得经验+200%</GoodsDesc_SCN>
+    <GoodsDesc_EN>Use: +100% EXP for 7day. Can stack with Win Cards to get +200% EXP in total upon winning.</GoodsDesc_EN>
+    <GoodsDesc_FCN>7日内，对战模式获得经验+100%，可与胜利卡叠加，叠加后对战模式获得经验+200%</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31070005 </ResID>
+    <GoodsName_SCN>2胜经验卡</GoodsName_SCN>
+    <GoodsName_EN>2-Win EXP Card</GoodsName_EN>
+    <GoodsName_FCN>2胜经验卡</GoodsName_FCN>
+    <GoodsDesc_SCN>随后2次对战模式胜利时获得经验+100%，可与双倍经验卡叠加，叠加后对战模式胜利时获得经验+200%</GoodsDesc_SCN>
+    <GoodsDesc_EN>Use: +100% EXP for the next 2 wins. Can stack with Double EXP Cards to get +200% EXP in total upon winning.</GoodsDesc_EN>
+    <GoodsDesc_FCN>随后2次对战模式胜利时获得经验+100%，可与双倍经验卡叠加，叠加后对战模式胜利时获得经验+200%</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31070006 </ResID>
+    <GoodsName_SCN>4胜经验卡</GoodsName_SCN>
+    <GoodsName_EN>4-Win EXP Card</GoodsName_EN>
+    <GoodsName_FCN>4胜经验卡</GoodsName_FCN>
+    <GoodsDesc_SCN>随后4次对战模式胜利时获得经验+100%，可与双倍经验卡叠加，叠加后对战模式胜利时获得经验+200%</GoodsDesc_SCN>
+    <GoodsDesc_EN>Use: +100% EXP for the next 4 wins. Can stack with Double EXP Cards to get +200% EXP in total upon winning.</GoodsDesc_EN>
+    <GoodsDesc_FCN>随后4次对战模式胜利时获得经验+100%，可与双倍经验卡叠加，叠加后对战模式胜利时获得经验+200%</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31070007 </ResID>
+    <GoodsName_SCN>6胜经验卡</GoodsName_SCN>
+    <GoodsName_EN>6-Win EXP Card</GoodsName_EN>
+    <GoodsName_FCN>6胜经验卡</GoodsName_FCN>
+    <GoodsDesc_SCN>随后6次对战模式胜利时获得经验+100%，可与双倍经验卡叠加，叠加后对战模式胜利时获得经验+200%</GoodsDesc_SCN>
+    <GoodsDesc_EN>Use: +100% EXP for the next 6 wins. Can stack with Double EXP Cards to get +200% EXP in total upon winning.</GoodsDesc_EN>
+    <GoodsDesc_FCN>随后6次对战模式胜利时获得经验+100%，可与双倍经验卡叠加，叠加后对战模式胜利时获得经验+200%</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31070008 </ResID>
+    <GoodsName_SCN>8胜经验卡</GoodsName_SCN>
+    <GoodsName_EN>8-Win EXP Card</GoodsName_EN>
+    <GoodsName_FCN>8胜经验卡</GoodsName_FCN>
+    <GoodsDesc_SCN>随后8次对战模式胜利时获得经验+100%，可与双倍经验卡叠加，叠加后对战模式胜利时获得经验+200%</GoodsDesc_SCN>
+    <GoodsDesc_EN>Use: +100% EXP for the next 8 wins. Can stack with Double EXP Cards to get +200% EXP in total upon winning.</GoodsDesc_EN>
+    <GoodsDesc_FCN>随后8次对战模式胜利时获得经验+100%，可与双倍经验卡叠加，叠加后对战模式胜利时获得经验+200%</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31080001 </ResID>
+    <GoodsName_SCN>1日金币卡</GoodsName_SCN>
+    <GoodsName_EN>1-Day Hero Coins Card</GoodsName_EN>
+    <GoodsName_FCN>1日金币卡</GoodsName_FCN>
+    <GoodsDesc_SCN>1日内，对战模式获得金币+100%，可与胜利卡叠加，叠加后对战模式获得金币+200%</GoodsDesc_SCN>
+    <GoodsDesc_EN>Use: +100% Hero Coins for 1 day. Can stack with Win Cards to get +200% Hero Coins in total upon winning.</GoodsDesc_EN>
+    <GoodsDesc_FCN>1日内，对战模式获得金币+100%，可与胜利卡叠加，叠加后对战模式获得金币+200%</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31080002 </ResID>
+    <GoodsName_SCN>3日金币卡</GoodsName_SCN>
+    <GoodsName_EN>3-Day Hero Coins Card</GoodsName_EN>
+    <GoodsName_FCN>3日金币卡</GoodsName_FCN>
+    <GoodsDesc_SCN>3日内，对战模式获得金币+100%，可与胜利卡叠加，叠加后对战模式获得金币+200%</GoodsDesc_SCN>
+    <GoodsDesc_EN>Use: +100% Hero Coins for 3 day. Can stack with Win Cards to get +200% Hero Coins in total upon winning.</GoodsDesc_EN>
+    <GoodsDesc_FCN>3日内，对战模式获得金币+100%，可与胜利卡叠加，叠加后对战模式获得金币+200%</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31080003 </ResID>
+    <GoodsName_SCN>5日金币卡</GoodsName_SCN>
+    <GoodsName_EN>5-Day Hero Coins Card</GoodsName_EN>
+    <GoodsName_FCN>5日金币卡</GoodsName_FCN>
+    <GoodsDesc_SCN>5日内，对战模式获得金币+100%，可与胜利卡叠加，叠加后对战模式获得金币+200%</GoodsDesc_SCN>
+    <GoodsDesc_EN>Use: +100% Hero Coins for 5 day. Can stack with Win Cards to get +200% Hero Coins in total upon winning.</GoodsDesc_EN>
+    <GoodsDesc_FCN>5日内，对战模式获得金币+100%，可与胜利卡叠加，叠加后对战模式获得金币+200%</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31080004 </ResID>
+    <GoodsName_SCN>7日金币卡</GoodsName_SCN>
+    <GoodsName_EN>7-Day Hero Coins Card</GoodsName_EN>
+    <GoodsName_FCN>7日金币卡</GoodsName_FCN>
+    <GoodsDesc_SCN>7日内，对战模式获得金币+100%，可与胜利卡叠加，叠加后对战模式获得金币+200%</GoodsDesc_SCN>
+    <GoodsDesc_EN>Use: +100% Hero Coins for 7 day. Can stack with Win Cards to get +200% Hero Coins in total upon winning.</GoodsDesc_EN>
+    <GoodsDesc_FCN>7日内，对战模式获得金币+100%，可与胜利卡叠加，叠加后对战模式获得金币+200%</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31080005 </ResID>
+    <GoodsName_SCN>2胜金币卡</GoodsName_SCN>
+    <GoodsName_EN>2-Win Hero Coins Card</GoodsName_EN>
+    <GoodsName_FCN>2胜金币卡</GoodsName_FCN>
+    <GoodsDesc_SCN>随后2次对战模式胜利时获得金币+100%，可与双倍金币卡叠加，叠加后对战模式胜利时获得经验+200%</GoodsDesc_SCN>
+    <GoodsDesc_EN>Use: +100% Hero Coins for the next 2 wins. Can stack with Double Hero Coins Cards to get +200% Hero Coins in total upon winning.</GoodsDesc_EN>
+    <GoodsDesc_FCN>随后2次对战模式胜利时获得金币+100%，可与双倍金币卡叠加，叠加后对战模式胜利时获得经验+200%</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31080006 </ResID>
+    <GoodsName_SCN>4胜金币卡</GoodsName_SCN>
+    <GoodsName_EN>4-Win Hero Coins Card</GoodsName_EN>
+    <GoodsName_FCN>4胜金币卡</GoodsName_FCN>
+    <GoodsDesc_SCN>随后4次对战模式胜利时获得金币+100%，可与双倍金币卡叠加，叠加后对战模式胜利时获得经验+200%</GoodsDesc_SCN>
+    <GoodsDesc_EN>Use: +100% Hero Coins for the next 4 wins. Can stack with Double Hero Coins Cards to get +200% Hero Coins in total upon winning.</GoodsDesc_EN>
+    <GoodsDesc_FCN>随后4次对战模式胜利时获得金币+100%，可与双倍金币卡叠加，叠加后对战模式胜利时获得经验+200%</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31080007 </ResID>
+    <GoodsName_SCN>6胜金币卡</GoodsName_SCN>
+    <GoodsName_EN>6-Win Hero Coins Card</GoodsName_EN>
+    <GoodsName_FCN>6胜金币卡</GoodsName_FCN>
+    <GoodsDesc_SCN>随后6次对战模式胜利时获得金币+100%，可与双倍金币卡叠加，叠加后对战模式胜利时获得经验+200%</GoodsDesc_SCN>
+    <GoodsDesc_EN>Use: +100% Hero Coins for the next 6 wins. Can stack with Double Hero Coins Cards to get +200% Hero Coins in total upon winning.</GoodsDesc_EN>
+    <GoodsDesc_FCN>随后6次对战模式胜利时获得金币+100%，可与双倍金币卡叠加，叠加后对战模式胜利时获得经验+200%</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31080008 </ResID>
+    <GoodsName_SCN>8胜金币卡</GoodsName_SCN>
+    <GoodsName_EN>8-Win Hero Coins Card</GoodsName_EN>
+    <GoodsName_FCN>8胜金币卡</GoodsName_FCN>
+    <GoodsDesc_SCN>随后8次对战模式胜利时获得金币+100%，可与双倍金币卡叠加，叠加后对战模式胜利时获得金币+200%</GoodsDesc_SCN>
+    <GoodsDesc_EN>Use: +100% Hero Coins for the next 8 wins. Can stack with Double Hero Coins Cards to get +200% Hero Coins in total upon winning.</GoodsDesc_EN>
+    <GoodsDesc_FCN>随后8次对战模式胜利时获得金币+100%，可与双倍金币卡叠加，叠加后对战模式胜利时获得金币+200%</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31090001 </ResID>
+    <GoodsName_SCN>改名卡</GoodsName_SCN>
+    <GoodsName_EN>Renaming Card</GoodsName_EN>
+    <GoodsName_FCN>改名卡</GoodsName_FCN>
+    <GoodsDesc_SCN>更改您的指挥官名字，每3天可使用一次。</GoodsDesc_SCN>
+    <GoodsDesc_EN>Renames your name. Only usable once every 3 days.</GoodsDesc_EN>
+    <GoodsDesc_FCN>更改您的指挥官名字，每3天可使用一次。</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31090002 </ResID>
+    <GoodsName_SCN>公会改名卡</GoodsName_SCN>
+    <GoodsName_EN>Guild Renaming Card</GoodsName_EN>
+    <GoodsName_FCN>公会改名卡</GoodsName_FCN>
+    <GoodsDesc_SCN>更改您的公会名字，仅限公会会长使用，每7天可使用一次。</GoodsDesc_SCN>
+    <GoodsDesc_EN>Renames your Guild. Only usable by the Guild Master once every 7 days.</GoodsDesc_EN>
+    <GoodsDesc_FCN>更改您的公会名字，仅限公会会长使用，每7天可使用一次。</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31100001 </ResID>
+    <GoodsName_SCN>英雄碎片</GoodsName_SCN>
+    <GoodsName_EN>Hero Shard</GoodsName_EN>
+    <GoodsName_FCN>英雄碎片</GoodsName_FCN>
+    <GoodsDesc_SCN>可在碎片商店中兑换英雄</GoodsDesc_SCN>
+    <GoodsDesc_EN>Used to exchange for Heroes in the Shard Shop.</GoodsDesc_EN>
+    <GoodsDesc_FCN>可在碎片商店中兑换英雄</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31100002 </ResID>
+    <GoodsName_SCN>皮肤碎片</GoodsName_SCN>
+    <GoodsName_EN>Skin Shard</GoodsName_EN>
+    <GoodsName_FCN>皮肤碎片</GoodsName_FCN>
+    <GoodsDesc_SCN>可在碎片商店中兑换皮肤</GoodsDesc_SCN>
+    <GoodsDesc_EN>Used to exchange for skins in the Shard Shop.</GoodsDesc_EN>
+    <GoodsDesc_FCN>可在碎片商店中兑换皮肤</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31100003 </ResID>
+    <GoodsName_SCN>战争之牌</GoodsName_SCN>
+    <GoodsName_EN>War Token</GoodsName_EN>
+    <GoodsName_FCN>战争之牌</GoodsName_FCN>
+    <GoodsDesc_SCN>可在战争祭坛进行战争之祭一次</GoodsDesc_SCN>
+    <GoodsDesc_EN>Used to play Warfest 1 time.</GoodsDesc_EN>
+    <GoodsDesc_FCN>可在战争祭坛进行战争之祭一次</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31100004 </ResID>
+    <GoodsName_SCN>怒吼之令</GoodsName_SCN>
+    <GoodsName_EN>Roar Token</GoodsName_EN>
+    <GoodsName_FCN>怒吼之令</GoodsName_FCN>
+    <GoodsDesc_SCN>可在战争祭坛进行怒吼之礼一次</GoodsDesc_SCN>
+    <GoodsDesc_EN>Used to play Roaring Boon 1 time.</GoodsDesc_EN>
+    <GoodsDesc_FCN>可在战争祭坛进行怒吼之礼一次</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31100005 </ResID>
+    <GoodsName_SCN>战争勋章</GoodsName_SCN>
+    <GoodsName_EN>War Medal</GoodsName_EN>
+    <GoodsName_FCN>战争勋章</GoodsName_FCN>
+    <GoodsDesc_SCN>可在战争勋章商店中兑换商店专有英雄但丁、专有皮肤恶魔之力及万圣节女巫</GoodsDesc_SCN>
+    <GoodsDesc_EN>Used to exchange for exclusive Hero Dante, exclusive skins Demon Hunter and Trick or Treat in the War Medal Shop.</GoodsDesc_EN>
+    <GoodsDesc_FCN>可在战争勋章商店中兑换商店专有英雄但丁、专有皮肤恶魔之力及万圣节女巫</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31100006 </ResID>
+    <GoodsName_SCN>怒吼勋章</GoodsName_SCN>
+    <GoodsName_EN>Roar Medal</GoodsName_EN>
+    <GoodsName_FCN>怒吼勋章</GoodsName_FCN>
+    <GoodsDesc_SCN>可在怒吼勋章商店中兑换商店专有英雄骁、专有皮肤经典之骁及狮心猎手</GoodsDesc_SCN>
+    <GoodsDesc_EN>Used to exchange for exclusive Hero Kensei, exclusive skins Classic Kensei and Lion Heart in the Roar Medal Shop.</GoodsDesc_EN>
+    <GoodsDesc_FCN>可在怒吼勋章商店中兑换商店专有英雄骁、专有皮肤经典之骁及狮心猎手</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31100007 </ResID>
+    <GoodsName_SCN>红星徽章</GoodsName_SCN>
+    <GoodsName_EN>Pentacle Medal</GoodsName_EN>
+    <GoodsName_FCN>红星徽章</GoodsName_FCN>
+    <GoodsDesc_SCN>国庆活动产出，用于兑换国庆宝箱。</GoodsDesc_SCN>
+    <GoodsDesc_EN>国庆活动产出，用于兑换国庆宝箱。</GoodsDesc_EN>
+    <GoodsDesc_FCN>国庆活动产出，用于兑换国庆宝箱。</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31110001 </ResID>
+    <GoodsName_SCN>英雄体验卡</GoodsName_SCN>
+    <GoodsName_EN>Hero Trial Card</GoodsName_EN>
+    <GoodsName_FCN>英雄体验卡</GoodsName_FCN>
+    <GoodsDesc_SCN>体验卡：使用后可免费使用英雄1天，如果已拥有该英雄，使用后可获得5魂石</GoodsDesc_SCN>
+    <GoodsDesc_EN>Trial Card: Unlocks the Hero for 1 day. Grants 5 Gems if the Hero is already owned.</GoodsDesc_EN>
+    <GoodsDesc_FCN>体验卡：使用后可免费使用英雄1天，如果已拥有该英雄，使用后可获得5魂石</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31110002 </ResID>
+    <GoodsName_SCN>皮肤体验卡</GoodsName_SCN>
+    <GoodsName_EN>Skin Trial Card</GoodsName_EN>
+    <GoodsName_FCN>皮肤体验卡</GoodsName_FCN>
+    <GoodsDesc_SCN>体验卡：使用后可免费使用皮肤1天，如果已拥有该皮肤，使用后可获得5魂石</GoodsDesc_SCN>
+    <GoodsDesc_EN>Trial Card: Unlocks the skin for 1 day. Grants 5 Gems if the skin is already owned.</GoodsDesc_EN>
+    <GoodsDesc_FCN>体验卡：使用后可免费使用皮肤1天，如果已拥有该英雄，使用后可获得5魂石</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31120001 </ResID>
+    <GoodsName_SCN>符文</GoodsName_SCN>
+    <GoodsName_EN>Rune</GoodsName_EN>
+    <GoodsName_FCN>符文</GoodsName_FCN>
+    <GoodsDesc_SCN>最大生命+20</GoodsDesc_SCN>
+    <GoodsDesc_EN>Max Health +20</GoodsDesc_EN>
+    <GoodsDesc_FCN>最大生命+20</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31120002 </ResID>
+    <GoodsName_SCN>随机2级战旗</GoodsName_SCN>
+    <GoodsName_EN>随机2级战旗</GoodsName_EN>
+    <GoodsName_FCN>随机2级战旗</GoodsName_FCN>
+    <GoodsDesc_SCN>随机获得一个2级英雄或者种族战旗</GoodsDesc_SCN>
+    <GoodsDesc_EN>随机获得一个2级英雄或者种族战旗</GoodsDesc_EN>
+    <GoodsDesc_FCN>随机获得一个2级英雄或者种族战旗</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31130001 </ResID>
+    <GoodsName_SCN>安东尼</GoodsName_SCN>
+    <GoodsName_EN>安东尼</GoodsName_EN>
+    <GoodsName_FCN>安东尼</GoodsName_FCN>
+    <GoodsDesc_SCN>使用后获得永久英雄：安东尼</GoodsDesc_SCN>
+    <GoodsDesc_EN>使用后获得永久英雄：安东尼</GoodsDesc_EN>
+    <GoodsDesc_FCN>使用后获得永久英雄：安东尼</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31130002 </ResID>
+    <GoodsName_SCN>奥丁</GoodsName_SCN>
+    <GoodsName_EN>奥丁</GoodsName_EN>
+    <GoodsName_FCN>奥丁</GoodsName_FCN>
+    <GoodsDesc_SCN>使用后获得永久英雄：奥丁</GoodsDesc_SCN>
+    <GoodsDesc_EN>使用后获得永久英雄：奥丁</GoodsDesc_EN>
+    <GoodsDesc_FCN>使用后获得永久英雄：奥丁</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31130003 </ResID>
+    <GoodsName_SCN>帕拉丁</GoodsName_SCN>
+    <GoodsName_EN>帕拉丁</GoodsName_EN>
+    <GoodsName_FCN>帕拉丁</GoodsName_FCN>
+    <GoodsDesc_SCN>使用后获得永久英雄：帕拉丁</GoodsDesc_SCN>
+    <GoodsDesc_EN>使用后获得永久英雄：帕拉丁</GoodsDesc_EN>
+    <GoodsDesc_FCN>使用后获得永久英雄：帕拉丁</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31130005 </ResID>
+    <GoodsName_SCN>奥丁</GoodsName_SCN>
+    <GoodsName_EN>奥丁</GoodsName_EN>
+    <GoodsName_FCN>奥丁</GoodsName_FCN>
+    <GoodsDesc_SCN>使用后获得永久英雄：奥丁</GoodsDesc_SCN>
+    <GoodsDesc_EN>使用后获得永久英雄：奥丁</GoodsDesc_EN>
+    <GoodsDesc_FCN>使用后获得永久英雄：奥丁</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31130101 </ResID>
+    <GoodsName_SCN>索伦</GoodsName_SCN>
+    <GoodsName_EN>索伦</GoodsName_EN>
+    <GoodsName_FCN>索伦</GoodsName_FCN>
+    <GoodsDesc_SCN>使用后获得永久英雄：索伦</GoodsDesc_SCN>
+    <GoodsDesc_EN>使用后获得永久英雄：索伦</GoodsDesc_EN>
+    <GoodsDesc_FCN>使用后获得永久英雄：索伦</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31130102 </ResID>
+    <GoodsName_SCN>哥布林</GoodsName_SCN>
+    <GoodsName_EN>哥布林</GoodsName_EN>
+    <GoodsName_FCN>哥布林</GoodsName_FCN>
+    <GoodsDesc_SCN>使用后获得永久英雄：哥布林</GoodsDesc_SCN>
+    <GoodsDesc_EN>使用后获得永久英雄：哥布林</GoodsDesc_EN>
+    <GoodsDesc_FCN>使用后获得永久英雄：哥布林</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31130201 </ResID>
+    <GoodsName_SCN>凯撒（新）</GoodsName_SCN>
+    <GoodsName_EN>凯撒（新）</GoodsName_EN>
+    <GoodsName_FCN>凯撒（新）</GoodsName_FCN>
+    <GoodsDesc_SCN>使用后获得永久英雄：凯撒（新）</GoodsDesc_SCN>
+    <GoodsDesc_EN>使用后获得永久英雄：凯撒（新）</GoodsDesc_EN>
+    <GoodsDesc_FCN>使用后获得永久英雄：凯撒（新）</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31130202 </ResID>
+    <GoodsName_SCN>潘多拉</GoodsName_SCN>
+    <GoodsName_EN>潘多拉</GoodsName_EN>
+    <GoodsName_FCN>潘多拉</GoodsName_FCN>
+    <GoodsDesc_SCN>使用后获得永久英雄：潘多拉</GoodsDesc_SCN>
+    <GoodsDesc_EN>使用后获得永久英雄：潘多拉</GoodsDesc_EN>
+    <GoodsDesc_FCN>使用后获得永久英雄：潘多拉</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31130203 </ResID>
+    <GoodsName_SCN>哈迪斯</GoodsName_SCN>
+    <GoodsName_EN>哈迪斯</GoodsName_EN>
+    <GoodsName_FCN>哈迪斯</GoodsName_FCN>
+    <GoodsDesc_SCN>使用后获得永久英雄：哈迪斯</GoodsDesc_SCN>
+    <GoodsDesc_EN>使用后获得永久英雄：哈迪斯</GoodsDesc_EN>
+    <GoodsDesc_FCN>使用后获得永久英雄：哈迪斯</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31130205 </ResID>
+    <GoodsName_SCN>凯撒（新）</GoodsName_SCN>
+    <GoodsName_EN>凯撒（新）</GoodsName_EN>
+    <GoodsName_FCN>凯撒（新）</GoodsName_FCN>
+    <GoodsDesc_SCN>使用后获得永久英雄：凯撒（新）</GoodsDesc_SCN>
+    <GoodsDesc_EN>使用后获得永久英雄：凯撒（新）</GoodsDesc_EN>
+    <GoodsDesc_FCN>使用后获得永久英雄：凯撒（新）</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31130301 </ResID>
+    <GoodsName_SCN>但丁</GoodsName_SCN>
+    <GoodsName_EN>但丁</GoodsName_EN>
+    <GoodsName_FCN>但丁</GoodsName_FCN>
+    <GoodsDesc_SCN>使用后获得永久英雄：但丁</GoodsDesc_SCN>
+    <GoodsDesc_EN>使用后获得永久英雄：但丁</GoodsDesc_EN>
+    <GoodsDesc_FCN>使用后获得永久英雄：但丁</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31130302 </ResID>
+    <GoodsName_SCN>艾米</GoodsName_SCN>
+    <GoodsName_EN>艾米</GoodsName_EN>
+    <GoodsName_FCN>艾米</GoodsName_FCN>
+    <GoodsDesc_SCN>使用后获得永久英雄：艾米</GoodsDesc_SCN>
+    <GoodsDesc_EN>使用后获得永久英雄：艾米</GoodsDesc_EN>
+    <GoodsDesc_FCN>使用后获得永久英雄：艾米</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31130305 </ResID>
+    <GoodsName_SCN>但丁</GoodsName_SCN>
+    <GoodsName_EN>但丁</GoodsName_EN>
+    <GoodsName_FCN>但丁</GoodsName_FCN>
+    <GoodsDesc_SCN>使用后获得永久英雄：但丁</GoodsDesc_SCN>
+    <GoodsDesc_EN>使用后获得永久英雄：但丁</GoodsDesc_EN>
+    <GoodsDesc_FCN>使用后获得永久英雄：但丁</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31130401 </ResID>
+    <GoodsName_SCN>罗刹</GoodsName_SCN>
+    <GoodsName_EN>罗刹</GoodsName_EN>
+    <GoodsName_FCN>罗刹</GoodsName_FCN>
+    <GoodsDesc_SCN>使用后获得永久英雄：罗刹</GoodsDesc_SCN>
+    <GoodsDesc_EN>使用后获得永久英雄：罗刹</GoodsDesc_EN>
+    <GoodsDesc_FCN>使用后获得永久英雄：罗刹</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31130402 </ResID>
+    <GoodsName_SCN>撒旦</GoodsName_SCN>
+    <GoodsName_EN>撒旦</GoodsName_EN>
+    <GoodsName_FCN>撒旦</GoodsName_FCN>
+    <GoodsDesc_SCN>使用后获得永久英雄：撒旦</GoodsDesc_SCN>
+    <GoodsDesc_EN>使用后获得永久英雄：撒旦</GoodsDesc_EN>
+    <GoodsDesc_FCN>使用后获得永久英雄：撒旦</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31130403 </ResID>
+    <GoodsName_SCN>贝奥武夫</GoodsName_SCN>
+    <GoodsName_EN>贝奥武夫</GoodsName_EN>
+    <GoodsName_FCN>贝奥武夫</GoodsName_FCN>
+    <GoodsDesc_SCN>使用后获得永久英雄：贝奥武夫</GoodsDesc_SCN>
+    <GoodsDesc_EN>使用后获得永久英雄：贝奥武夫</GoodsDesc_EN>
+    <GoodsDesc_FCN>使用后获得永久英雄：贝奥武夫</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31130404 </ResID>
+    <GoodsName_SCN>安娜</GoodsName_SCN>
+    <GoodsName_EN>安娜</GoodsName_EN>
+    <GoodsName_FCN>安娜</GoodsName_FCN>
+    <GoodsDesc_SCN>使用后获得永久英雄：安娜</GoodsDesc_SCN>
+    <GoodsDesc_EN>使用后获得永久英雄：安娜</GoodsDesc_EN>
+    <GoodsDesc_FCN>使用后获得永久英雄：安娜</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31130405 </ResID>
+    <GoodsName_SCN>蕾拉</GoodsName_SCN>
+    <GoodsName_EN>蕾拉</GoodsName_EN>
+    <GoodsName_FCN>蕾拉</GoodsName_FCN>
+    <GoodsDesc_SCN>使用后获得永久英雄：蕾拉</GoodsDesc_SCN>
+    <GoodsDesc_EN>使用后获得永久英雄：蕾拉</GoodsDesc_EN>
+    <GoodsDesc_FCN>使用后获得永久英雄：蕾拉</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31130406 </ResID>
+    <GoodsName_SCN>特斯拉</GoodsName_SCN>
+    <GoodsName_EN>特斯拉</GoodsName_EN>
+    <GoodsName_FCN>特斯拉</GoodsName_FCN>
+    <GoodsDesc_SCN>使用后获得永久英雄：特斯拉</GoodsDesc_SCN>
+    <GoodsDesc_EN>使用后获得永久英雄：特斯拉</GoodsDesc_EN>
+    <GoodsDesc_FCN>使用后获得永久英雄：特斯拉</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31130407 </ResID>
+    <GoodsName_SCN>泷</GoodsName_SCN>
+    <GoodsName_EN>泷</GoodsName_EN>
+    <GoodsName_FCN>泷</GoodsName_FCN>
+    <GoodsDesc_SCN>使用后获得永久英雄：泷</GoodsDesc_SCN>
+    <GoodsDesc_EN>使用后获得永久英雄：泷</GoodsDesc_EN>
+    <GoodsDesc_FCN>使用后获得永久英雄：泷</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31130408 </ResID>
+    <GoodsName_SCN>天宝</GoodsName_SCN>
+    <GoodsName_EN>天宝</GoodsName_EN>
+    <GoodsName_FCN>天宝</GoodsName_FCN>
+    <GoodsDesc_SCN>使用后获得永久英雄：天宝</GoodsDesc_SCN>
+    <GoodsDesc_EN>使用后获得永久英雄：天宝</GoodsDesc_EN>
+    <GoodsDesc_FCN>使用后获得永久英雄：天宝</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31130409 </ResID>
+    <GoodsName_SCN>欧若拉</GoodsName_SCN>
+    <GoodsName_EN>欧若拉</GoodsName_EN>
+    <GoodsName_FCN>欧若拉</GoodsName_FCN>
+    <GoodsDesc_SCN>使用后获得永久英雄：欧若拉</GoodsDesc_SCN>
+    <GoodsDesc_EN>使用后获得永久英雄：欧若拉</GoodsDesc_EN>
+    <GoodsDesc_FCN>使用后获得永久英雄：欧若拉</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31130410 </ResID>
+    <GoodsName_SCN>爱丽丝</GoodsName_SCN>
+    <GoodsName_EN>爱丽丝</GoodsName_EN>
+    <GoodsName_FCN>爱丽丝</GoodsName_FCN>
+    <GoodsDesc_SCN>使用后获得永久英雄：爱丽丝</GoodsDesc_SCN>
+    <GoodsDesc_EN>使用后获得永久英雄：爱丽丝</GoodsDesc_EN>
+    <GoodsDesc_FCN>使用后获得永久英雄：爱丽丝</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31130411 </ResID>
+    <GoodsName_SCN>骁</GoodsName_SCN>
+    <GoodsName_EN>骁</GoodsName_EN>
+    <GoodsName_FCN>骁</GoodsName_FCN>
+    <GoodsDesc_SCN>使用后获得永久英雄：骁</GoodsDesc_SCN>
+    <GoodsDesc_EN>使用后获得永久英雄：骁</GoodsDesc_EN>
+    <GoodsDesc_FCN>使用后获得永久英雄：骁</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31130412 </ResID>
+    <GoodsName_SCN>丸子</GoodsName_SCN>
+    <GoodsName_EN>丸子</GoodsName_EN>
+    <GoodsName_FCN>丸子</GoodsName_FCN>
+    <GoodsDesc_SCN>使用后获得永久英雄：丸子</GoodsDesc_SCN>
+    <GoodsDesc_EN>使用后获得永久英雄：丸子</GoodsDesc_EN>
+    <GoodsDesc_FCN>使用后获得永久英雄：丸子</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31130413 </ResID>
+    <GoodsName_SCN>伊娃</GoodsName_SCN>
+    <GoodsName_EN>伊娃</GoodsName_EN>
+    <GoodsName_FCN>伊娃</GoodsName_FCN>
+    <GoodsDesc_SCN>使用后获得永久英雄：伊娃</GoodsDesc_SCN>
+    <GoodsDesc_EN>使用后获得永久英雄：伊娃</GoodsDesc_EN>
+    <GoodsDesc_FCN>使用后获得永久英雄：伊娃</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31130414 </ResID>
+    <GoodsName_SCN>阿灵</GoodsName_SCN>
+    <GoodsName_EN>阿灵</GoodsName_EN>
+    <GoodsName_FCN>阿灵</GoodsName_FCN>
+    <GoodsDesc_SCN>使用后获得永久英雄：阿灵</GoodsDesc_SCN>
+    <GoodsDesc_EN>使用后获得永久英雄：阿灵</GoodsDesc_EN>
+    <GoodsDesc_FCN>使用后获得永久英雄：阿灵</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31130415 </ResID>
+    <GoodsName_SCN>白龙</GoodsName_SCN>
+    <GoodsName_EN>白龙</GoodsName_EN>
+    <GoodsName_FCN>白龙</GoodsName_FCN>
+    <GoodsDesc_SCN>使用后获得永久英雄：白龙</GoodsDesc_SCN>
+    <GoodsDesc_EN>使用后获得永久英雄：白龙</GoodsDesc_EN>
+    <GoodsDesc_FCN>使用后获得永久英雄：白龙</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31130416 </ResID>
+    <GoodsName_SCN>貂蝉</GoodsName_SCN>
+    <GoodsName_EN>貂蝉</GoodsName_EN>
+    <GoodsName_FCN>貂蝉</GoodsName_FCN>
+    <GoodsDesc_SCN>使用后获得永久英雄：貂蝉</GoodsDesc_SCN>
+    <GoodsDesc_EN>使用后获得永久英雄：貂蝉</GoodsDesc_EN>
+    <GoodsDesc_FCN>使用后获得永久英雄：貂蝉</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31130417 </ResID>
+    <GoodsName_SCN>米琪</GoodsName_SCN>
+    <GoodsName_EN>米琪</GoodsName_EN>
+    <GoodsName_FCN>米琪</GoodsName_FCN>
+    <GoodsDesc_SCN>使用后获得永久英雄：米琪</GoodsDesc_SCN>
+    <GoodsDesc_EN>使用后获得永久英雄：米琪</GoodsDesc_EN>
+    <GoodsDesc_FCN>使用后获得永久英雄：米琪</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31140011 </ResID>
+    <GoodsName_SCN>守护者</GoodsName_SCN>
+    <GoodsName_EN>守护者</GoodsName_EN>
+    <GoodsName_FCN>守护者</GoodsName_FCN>
+    <GoodsDesc_SCN>使用后获得安东尼的永久皮肤：守护者</GoodsDesc_SCN>
+    <GoodsDesc_EN>使用后获得安东尼的永久皮肤：守护者</GoodsDesc_EN>
+    <GoodsDesc_FCN>使用后获得安东尼的永久皮肤：守护者</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31140012 </ResID>
+    <GoodsName_SCN>精灵王</GoodsName_SCN>
+    <GoodsName_EN>精灵王</GoodsName_EN>
+    <GoodsName_FCN>精灵王</GoodsName_FCN>
+    <GoodsDesc_SCN>使用后获得安东尼的永久皮肤：精灵王</GoodsDesc_SCN>
+    <GoodsDesc_EN>使用后获得安东尼的永久皮肤：精灵王</GoodsDesc_EN>
+    <GoodsDesc_FCN>使用后获得安东尼的永久皮肤：精灵王</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31140013 </ResID>
+    <GoodsName_SCN>英仙座</GoodsName_SCN>
+    <GoodsName_EN>英仙座</GoodsName_EN>
+    <GoodsName_FCN>英仙座</GoodsName_FCN>
+    <GoodsDesc_SCN>使用后获得安东尼的永久皮肤：英仙座</GoodsDesc_SCN>
+    <GoodsDesc_EN>使用后获得安东尼的永久皮肤：英仙座</GoodsDesc_EN>
+    <GoodsDesc_FCN>使用后获得安东尼的永久皮肤：英仙座</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31140021 </ResID>
+    <GoodsName_SCN>神灵之锤</GoodsName_SCN>
+    <GoodsName_EN>神灵之锤</GoodsName_EN>
+    <GoodsName_FCN>神灵之锤</GoodsName_FCN>
+    <GoodsDesc_SCN>使用后获得奥丁的永久皮肤：神灵之锤</GoodsDesc_SCN>
+    <GoodsDesc_EN>使用后获得奥丁的永久皮肤：神灵之锤</GoodsDesc_EN>
+    <GoodsDesc_FCN>使用后获得奥丁的永久皮肤：神灵之锤</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31140022 </ResID>
+    <GoodsName_SCN>奥林匹斯之王</GoodsName_SCN>
+    <GoodsName_EN>奥林匹斯之王</GoodsName_EN>
+    <GoodsName_FCN>奥林匹斯之王</GoodsName_FCN>
+    <GoodsDesc_SCN>使用后获得奥丁的永久皮肤：奥林匹斯之王</GoodsDesc_SCN>
+    <GoodsDesc_EN>使用后获得奥丁的永久皮肤：奥林匹斯之王</GoodsDesc_EN>
+    <GoodsDesc_FCN>使用后获得奥丁的永久皮肤：奥林匹斯之王</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31140031 </ResID>
+    <GoodsName_SCN>圣职者</GoodsName_SCN>
+    <GoodsName_EN>圣职者</GoodsName_EN>
+    <GoodsName_FCN>圣职者</GoodsName_FCN>
+    <GoodsDesc_SCN>使用后获得帕拉丁的永久皮肤：圣职者</GoodsDesc_SCN>
+    <GoodsDesc_EN>使用后获得帕拉丁的永久皮肤：圣职者</GoodsDesc_EN>
+    <GoodsDesc_FCN>使用后获得帕拉丁的永久皮肤：圣职者</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31140032 </ResID>
+    <GoodsName_SCN>至高之誓</GoodsName_SCN>
+    <GoodsName_EN>至高之誓</GoodsName_EN>
+    <GoodsName_FCN>至高之誓</GoodsName_FCN>
+    <GoodsDesc_SCN>使用后获得帕拉丁的永久皮肤：至高之誓</GoodsDesc_SCN>
+    <GoodsDesc_EN>使用后获得帕拉丁的永久皮肤：至高之誓</GoodsDesc_EN>
+    <GoodsDesc_FCN>使用后获得帕拉丁的永久皮肤：至高之誓</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31141011 </ResID>
+    <GoodsName_SCN>先知</GoodsName_SCN>
+    <GoodsName_EN>先知</GoodsName_EN>
+    <GoodsName_FCN>先知</GoodsName_FCN>
+    <GoodsDesc_SCN>使用后获得索伦的永久皮肤：先知</GoodsDesc_SCN>
+    <GoodsDesc_EN>使用后获得索伦的永久皮肤：先知</GoodsDesc_EN>
+    <GoodsDesc_FCN>使用后获得索伦的永久皮肤：先知</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31141012 </ResID>
+    <GoodsName_SCN>灾祸之源</GoodsName_SCN>
+    <GoodsName_EN>灾祸之源</GoodsName_EN>
+    <GoodsName_FCN>灾祸之源</GoodsName_FCN>
+    <GoodsDesc_SCN>使用后获得索伦的永久皮肤：灾祸之源</GoodsDesc_SCN>
+    <GoodsDesc_EN>使用后获得索伦的永久皮肤：灾祸之源</GoodsDesc_EN>
+    <GoodsDesc_FCN>使用后获得索伦的永久皮肤：灾祸之源</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31141021 </ResID>
+    <GoodsName_SCN>嗜血领主</GoodsName_SCN>
+    <GoodsName_EN>嗜血领主</GoodsName_EN>
+    <GoodsName_FCN>嗜血领主</GoodsName_FCN>
+    <GoodsDesc_SCN>使用后获得哥布林的永久皮肤：嗜血领主</GoodsDesc_SCN>
+    <GoodsDesc_EN>使用后获得哥布林的永久皮肤：嗜血领主</GoodsDesc_EN>
+    <GoodsDesc_FCN>使用后获得哥布林的永久皮肤：嗜血领主</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31141022 </ResID>
+    <GoodsName_SCN>科学怪人</GoodsName_SCN>
+    <GoodsName_EN>科学怪人</GoodsName_EN>
+    <GoodsName_FCN>科学怪人</GoodsName_FCN>
+    <GoodsDesc_SCN>使用后获得哥布林的永久皮肤：科学怪人</GoodsDesc_SCN>
+    <GoodsDesc_EN>使用后获得哥布林的永久皮肤：科学怪人</GoodsDesc_EN>
+    <GoodsDesc_FCN>使用后获得哥布林的永久皮肤：科学怪人</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31142011 </ResID>
+    <GoodsName_SCN>亡魂之主</GoodsName_SCN>
+    <GoodsName_EN>亡魂之主</GoodsName_EN>
+    <GoodsName_FCN>亡魂之主</GoodsName_FCN>
+    <GoodsDesc_SCN>使用后获得凯撒（新）的永久皮肤：亡魂之主</GoodsDesc_SCN>
+    <GoodsDesc_EN>使用后获得凯撒（新）的永久皮肤：亡魂之主</GoodsDesc_EN>
+    <GoodsDesc_FCN>使用后获得凯撒（新）的永久皮肤：亡魂之主</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31142011 </ResID>
+    <GoodsName_SCN>煞星</GoodsName_SCN>
+    <GoodsName_EN>煞星</GoodsName_EN>
+    <GoodsName_FCN>煞星</GoodsName_FCN>
+    <GoodsDesc_SCN>使用后获得凯撒（新）的永久皮肤：煞星</GoodsDesc_SCN>
+    <GoodsDesc_EN>使用后获得凯撒（新）的永久皮肤：煞星</GoodsDesc_EN>
+    <GoodsDesc_FCN>使用后获得凯撒（新）的永久皮肤：煞星</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31142021 </ResID>
+    <GoodsName_SCN>死灵女巫</GoodsName_SCN>
+    <GoodsName_EN>死灵女巫</GoodsName_EN>
+    <GoodsName_FCN>死灵女巫</GoodsName_FCN>
+    <GoodsDesc_SCN>使用后获得潘多拉的永久皮肤：死灵女巫</GoodsDesc_SCN>
+    <GoodsDesc_EN>使用后获得潘多拉的永久皮肤：死灵女巫</GoodsDesc_EN>
+    <GoodsDesc_FCN>使用后获得潘多拉的永久皮肤：死灵女巫</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31142022 </ResID>
+    <GoodsName_SCN>金色曼陀罗</GoodsName_SCN>
+    <GoodsName_EN>金色曼陀罗</GoodsName_EN>
+    <GoodsName_FCN>金色曼陀罗</GoodsName_FCN>
+    <GoodsDesc_SCN>使用后获得潘多拉的永久皮肤：金色曼陀罗</GoodsDesc_SCN>
+    <GoodsDesc_EN>使用后获得潘多拉的永久皮肤：金色曼陀罗</GoodsDesc_EN>
+    <GoodsDesc_FCN>使用后获得潘多拉的永久皮肤：金色曼陀罗</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31142031 </ResID>
+    <GoodsName_SCN>镰刀死神</GoodsName_SCN>
+    <GoodsName_EN>镰刀死神</GoodsName_EN>
+    <GoodsName_FCN>镰刀死神</GoodsName_FCN>
+    <GoodsDesc_SCN>使用后获得哈迪斯的永久皮肤：镰刀死神</GoodsDesc_SCN>
+    <GoodsDesc_EN>使用后获得哈迪斯的永久皮肤：镰刀死神</GoodsDesc_EN>
+    <GoodsDesc_FCN>使用后获得哈迪斯的永久皮肤：镰刀死神</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31142032 </ResID>
+    <GoodsName_SCN>舞会绅士</GoodsName_SCN>
+    <GoodsName_EN>舞会绅士</GoodsName_EN>
+    <GoodsName_FCN>舞会绅士</GoodsName_FCN>
+    <GoodsDesc_SCN>使用后获得哈迪斯的永久皮肤：舞会绅士</GoodsDesc_SCN>
+    <GoodsDesc_EN>使用后获得哈迪斯的永久皮肤：舞会绅士</GoodsDesc_EN>
+    <GoodsDesc_FCN>使用后获得哈迪斯的永久皮肤：舞会绅士</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31143011 </ResID>
+    <GoodsName_SCN>追猎者</GoodsName_SCN>
+    <GoodsName_EN>追猎者</GoodsName_EN>
+    <GoodsName_FCN>追猎者</GoodsName_FCN>
+    <GoodsDesc_SCN>使用后获得但丁的永久皮肤：追猎者</GoodsDesc_SCN>
+    <GoodsDesc_EN>使用后获得但丁的永久皮肤：追猎者</GoodsDesc_EN>
+    <GoodsDesc_FCN>使用后获得但丁的永久皮肤：追猎者</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31143012 </ResID>
+    <GoodsName_SCN>恶魔之力</GoodsName_SCN>
+    <GoodsName_EN>恶魔之力</GoodsName_EN>
+    <GoodsName_FCN>恶魔之力</GoodsName_FCN>
+    <GoodsDesc_SCN>使用后获得但丁的永久皮肤：恶魔之力</GoodsDesc_SCN>
+    <GoodsDesc_EN>使用后获得但丁的永久皮肤：恶魔之力</GoodsDesc_EN>
+    <GoodsDesc_FCN>使用后获得但丁的永久皮肤：恶魔之力</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31143021 </ResID>
+    <GoodsName_SCN>自然之箭</GoodsName_SCN>
+    <GoodsName_EN>自然之箭</GoodsName_EN>
+    <GoodsName_FCN>自然之箭</GoodsName_FCN>
+    <GoodsDesc_SCN>使用后获得艾米的永久皮肤：自然之箭</GoodsDesc_SCN>
+    <GoodsDesc_EN>使用后获得艾米的永久皮肤：自然之箭</GoodsDesc_EN>
+    <GoodsDesc_FCN>使用后获得艾米的永久皮肤：自然之箭</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31143022 </ResID>
+    <GoodsName_SCN>翎羽箭神</GoodsName_SCN>
+    <GoodsName_EN>翎羽箭神</GoodsName_EN>
+    <GoodsName_FCN>翎羽箭神</GoodsName_FCN>
+    <GoodsDesc_SCN>使用后获得艾米的永久皮肤：翎羽箭神</GoodsDesc_SCN>
+    <GoodsDesc_EN>使用后获得艾米的永久皮肤：翎羽箭神</GoodsDesc_EN>
+    <GoodsDesc_FCN>使用后获得艾米的永久皮肤：翎羽箭神</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31143051 </ResID>
+    <GoodsName_SCN>追猎者</GoodsName_SCN>
+    <GoodsName_EN>追猎者</GoodsName_EN>
+    <GoodsName_FCN>追猎者</GoodsName_FCN>
+    <GoodsDesc_SCN>使用后获得但丁的永久皮肤：追猎者</GoodsDesc_SCN>
+    <GoodsDesc_EN>使用后获得但丁的永久皮肤：追猎者</GoodsDesc_EN>
+    <GoodsDesc_FCN>使用后获得但丁的永久皮肤：追猎者</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31144011 </ResID>
+    <GoodsName_SCN>绯影剑姬</GoodsName_SCN>
+    <GoodsName_EN>绯影剑姬</GoodsName_EN>
+    <GoodsName_FCN>绯影剑姬</GoodsName_FCN>
+    <GoodsDesc_SCN>使用后获得罗刹的永久皮肤：绯影剑姬</GoodsDesc_SCN>
+    <GoodsDesc_EN>使用后获得罗刹的永久皮肤：绯影剑姬</GoodsDesc_EN>
+    <GoodsDesc_FCN>使用后获得罗刹的永久皮肤：绯影剑姬</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31144012 </ResID>
+    <GoodsName_SCN>剑意</GoodsName_SCN>
+    <GoodsName_EN>剑意</GoodsName_EN>
+    <GoodsName_FCN>剑意</GoodsName_FCN>
+    <GoodsDesc_SCN>使用后获得罗刹的永久皮肤：剑意</GoodsDesc_SCN>
+    <GoodsDesc_EN>使用后获得罗刹的永久皮肤：剑意</GoodsDesc_EN>
+    <GoodsDesc_FCN>使用后获得罗刹的永久皮肤：剑意</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31144013 </ResID>
+    <GoodsName_SCN>头号玩家</GoodsName_SCN>
+    <GoodsName_EN>头号玩家</GoodsName_EN>
+    <GoodsName_FCN>头号玩家</GoodsName_FCN>
+    <GoodsDesc_SCN>使用后获得罗刹的永久皮肤：头号玩家</GoodsDesc_SCN>
+    <GoodsDesc_EN>使用后获得罗刹的永久皮肤：头号玩家</GoodsDesc_EN>
+    <GoodsDesc_FCN>使用后获得罗刹的永久皮肤：头号玩家</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31144021 </ResID>
+    <GoodsName_SCN>异界魔王</GoodsName_SCN>
+    <GoodsName_EN>异界魔王</GoodsName_EN>
+    <GoodsName_FCN>异界魔王</GoodsName_FCN>
+    <GoodsDesc_SCN>使用后获得撒旦的永久皮肤：异界魔王</GoodsDesc_SCN>
+    <GoodsDesc_EN>使用后获得撒旦的永久皮肤：异界魔王</GoodsDesc_EN>
+    <GoodsDesc_FCN>使用后获得撒旦的永久皮肤：异界魔王</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31144022 </ResID>
+    <GoodsName_SCN>冰霜巨兽</GoodsName_SCN>
+    <GoodsName_EN>冰霜巨兽</GoodsName_EN>
+    <GoodsName_FCN>冰霜巨兽</GoodsName_FCN>
+    <GoodsDesc_SCN>使用后获得撒旦的永久皮肤：冰霜巨兽</GoodsDesc_SCN>
+    <GoodsDesc_EN>使用后获得撒旦的永久皮肤：冰霜巨兽</GoodsDesc_EN>
+    <GoodsDesc_FCN>使用后获得撒旦的永久皮肤：冰霜巨兽</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31144031 </ResID>
+    <GoodsName_SCN>维京斗士</GoodsName_SCN>
+    <GoodsName_EN>维京斗士</GoodsName_EN>
+    <GoodsName_FCN>维京斗士</GoodsName_FCN>
+    <GoodsDesc_SCN>使用后获得贝奥武夫的永久皮肤：维京斗士</GoodsDesc_SCN>
+    <GoodsDesc_EN>使用后获得贝奥武夫的永久皮肤：维京斗士</GoodsDesc_EN>
+    <GoodsDesc_FCN>使用后获得贝奥武夫的永久皮肤：维京斗士</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31144032 </ResID>
+    <GoodsName_SCN>熔岩之怒</GoodsName_SCN>
+    <GoodsName_EN>熔岩之怒</GoodsName_EN>
+    <GoodsName_FCN>熔岩之怒</GoodsName_FCN>
+    <GoodsDesc_SCN>使用后获得贝奥武夫的永久皮肤：熔岩之怒</GoodsDesc_SCN>
+    <GoodsDesc_EN>使用后获得贝奥武夫的永久皮肤：熔岩之怒</GoodsDesc_EN>
+    <GoodsDesc_FCN>使用后获得贝奥武夫的永久皮肤：熔岩之怒</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31144041 </ResID>
+    <GoodsName_SCN>魔力之羽</GoodsName_SCN>
+    <GoodsName_EN>魔力之羽</GoodsName_EN>
+    <GoodsName_FCN>魔力之羽</GoodsName_FCN>
+    <GoodsDesc_SCN>使用后获得安娜的永久皮肤：魔力之羽</GoodsDesc_SCN>
+    <GoodsDesc_EN>使用后获得安娜的永久皮肤：魔力之羽</GoodsDesc_EN>
+    <GoodsDesc_FCN>使用后获得安娜的永久皮肤：魔力之羽</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31144042 </ResID>
+    <GoodsName_SCN>密林侠盗</GoodsName_SCN>
+    <GoodsName_EN>密林侠盗</GoodsName_EN>
+    <GoodsName_FCN>密林侠盗</GoodsName_FCN>
+    <GoodsDesc_SCN>使用后获得安娜的永久皮肤：密林侠盗</GoodsDesc_SCN>
+    <GoodsDesc_EN>使用后获得安娜的永久皮肤：密林侠盗</GoodsDesc_EN>
+    <GoodsDesc_FCN>使用后获得安娜的永久皮肤：密林侠盗</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31144051 </ResID>
+    <GoodsName_SCN>恐龙骑手</GoodsName_SCN>
+    <GoodsName_EN>恐龙骑手</GoodsName_EN>
+    <GoodsName_FCN>恐龙骑手</GoodsName_FCN>
+    <GoodsDesc_SCN>使用后获得蕾拉的永久皮肤：恐龙骑手</GoodsDesc_SCN>
+    <GoodsDesc_EN>使用后获得蕾拉的永久皮肤：恐龙骑手</GoodsDesc_EN>
+    <GoodsDesc_FCN>使用后获得蕾拉的永久皮肤：恐龙骑手</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31144052 </ResID>
+    <GoodsName_SCN>粉红角斗士</GoodsName_SCN>
+    <GoodsName_EN>粉红角斗士</GoodsName_EN>
+    <GoodsName_FCN>粉红角斗士</GoodsName_FCN>
+    <GoodsDesc_SCN>使用后获得蕾拉的永久皮肤：粉红角斗士</GoodsDesc_SCN>
+    <GoodsDesc_EN>使用后获得蕾拉的永久皮肤：粉红角斗士</GoodsDesc_EN>
+    <GoodsDesc_FCN>使用后获得蕾拉的永久皮肤：粉红角斗士</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31144061 </ResID>
+    <GoodsName_SCN>合金机器人</GoodsName_SCN>
+    <GoodsName_EN>合金机器人</GoodsName_EN>
+    <GoodsName_FCN>合金机器人</GoodsName_FCN>
+    <GoodsDesc_SCN>使用后获得特斯拉的永久皮肤：合金机器人</GoodsDesc_SCN>
+    <GoodsDesc_EN>使用后获得特斯拉的永久皮肤：合金机器人</GoodsDesc_EN>
+    <GoodsDesc_FCN>使用后获得特斯拉的永久皮肤：合金机器人</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31144062 </ResID>
+    <GoodsName_SCN>机械危机</GoodsName_SCN>
+    <GoodsName_EN>机械危机</GoodsName_EN>
+    <GoodsName_FCN>机械危机</GoodsName_FCN>
+    <GoodsDesc_SCN>使用后获得特斯拉的永久皮肤：机械危机</GoodsDesc_SCN>
+    <GoodsDesc_EN>使用后获得特斯拉的永久皮肤：机械危机</GoodsDesc_EN>
+    <GoodsDesc_FCN>使用后获得特斯拉的永久皮肤：机械危机</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31144071 </ResID>
+    <GoodsName_SCN>影武者</GoodsName_SCN>
+    <GoodsName_EN>影武者</GoodsName_EN>
+    <GoodsName_FCN>影武者</GoodsName_FCN>
+    <GoodsDesc_SCN>使用后获得泷的永久皮肤：影武者</GoodsDesc_SCN>
+    <GoodsDesc_EN>使用后获得泷的永久皮肤：影武者</GoodsDesc_EN>
+    <GoodsDesc_FCN>使用后获得泷的永久皮肤：影武者</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31144072 </ResID>
+    <GoodsName_SCN>禁军之影</GoodsName_SCN>
+    <GoodsName_EN>禁军之影</GoodsName_EN>
+    <GoodsName_FCN>禁军之影</GoodsName_FCN>
+    <GoodsDesc_SCN>使用后获得泷的永久皮肤：禁军之影</GoodsDesc_SCN>
+    <GoodsDesc_EN>使用后获得泷的永久皮肤：禁军之影</GoodsDesc_EN>
+    <GoodsDesc_FCN>使用后获得泷的永久皮肤：禁军之影</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31144081 </ResID>
+    <GoodsName_SCN>暴走熊猫</GoodsName_SCN>
+    <GoodsName_EN>暴走熊猫</GoodsName_EN>
+    <GoodsName_FCN>暴走熊猫</GoodsName_FCN>
+    <GoodsDesc_SCN>使用后获得天宝的永久皮肤：暴走熊猫</GoodsDesc_SCN>
+    <GoodsDesc_EN>使用后获得天宝的永久皮肤：暴走熊猫</GoodsDesc_EN>
+    <GoodsDesc_FCN>使用后获得天宝的永久皮肤：暴走熊猫</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31144082 </ResID>
+    <GoodsName_SCN>功夫大师</GoodsName_SCN>
+    <GoodsName_EN>功夫大师</GoodsName_EN>
+    <GoodsName_FCN>功夫大师</GoodsName_FCN>
+    <GoodsDesc_SCN>使用后获得天宝的永久皮肤：功夫大师</GoodsDesc_SCN>
+    <GoodsDesc_EN>使用后获得天宝的永久皮肤：功夫大师</GoodsDesc_EN>
+    <GoodsDesc_FCN>使用后获得天宝的永久皮肤：功夫大师</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31144091 </ResID>
+    <GoodsName_SCN>圣洁之翼</GoodsName_SCN>
+    <GoodsName_EN>圣洁之翼</GoodsName_EN>
+    <GoodsName_FCN>圣洁之翼</GoodsName_FCN>
+    <GoodsDesc_SCN>使用后获得欧若拉的永久皮肤：圣洁之翼</GoodsDesc_SCN>
+    <GoodsDesc_EN>使用后获得欧若拉的永久皮肤：圣洁之翼</GoodsDesc_EN>
+    <GoodsDesc_FCN>使用后获得欧若拉的永久皮肤：圣洁之翼</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31144092 </ResID>
+    <GoodsName_SCN>收割之镰</GoodsName_SCN>
+    <GoodsName_EN>收割之镰</GoodsName_EN>
+    <GoodsName_FCN>收割之镰</GoodsName_FCN>
+    <GoodsDesc_SCN>使用后获得欧若拉的永久皮肤：收割之镰</GoodsDesc_SCN>
+    <GoodsDesc_EN>使用后获得欧若拉的永久皮肤：收割之镰</GoodsDesc_EN>
+    <GoodsDesc_FCN>使用后获得欧若拉的永久皮肤：收割之镰</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31144101 </ResID>
+    <GoodsName_SCN>魅影游侠</GoodsName_SCN>
+    <GoodsName_EN>魅影游侠</GoodsName_EN>
+    <GoodsName_FCN>魅影游侠</GoodsName_FCN>
+    <GoodsDesc_SCN>使用后获得爱丽丝的永久皮肤：魅影游侠</GoodsDesc_SCN>
+    <GoodsDesc_EN>使用后获得爱丽丝的永久皮肤：魅影游侠</GoodsDesc_EN>
+    <GoodsDesc_FCN>使用后获得爱丽丝的永久皮肤：魅影游侠</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31144102 </ResID>
+    <GoodsName_SCN>战场女武神</GoodsName_SCN>
+    <GoodsName_EN>战场女武神</GoodsName_EN>
+    <GoodsName_FCN>战场女武神</GoodsName_FCN>
+    <GoodsDesc_SCN>使用后获得爱丽丝的永久皮肤：战场女武神</GoodsDesc_SCN>
+    <GoodsDesc_EN>使用后获得爱丽丝的永久皮肤：战场女武神</GoodsDesc_EN>
+    <GoodsDesc_FCN>使用后获得爱丽丝的永久皮肤：战场女武神</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31144111 </ResID>
+    <GoodsName_SCN>鬼影狂刀</GoodsName_SCN>
+    <GoodsName_EN>鬼影狂刀</GoodsName_EN>
+    <GoodsName_FCN>鬼影狂刀</GoodsName_FCN>
+    <GoodsDesc_SCN>使用后获得骁的永久皮肤：鬼影狂刀</GoodsDesc_SCN>
+    <GoodsDesc_EN>使用后获得骁的永久皮肤：鬼影狂刀</GoodsDesc_EN>
+    <GoodsDesc_FCN>使用后获得骁的永久皮肤：鬼影狂刀</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31144112 </ResID>
+    <GoodsName_SCN>最后的武士</GoodsName_SCN>
+    <GoodsName_EN>最后的武士</GoodsName_EN>
+    <GoodsName_FCN>最后的武士</GoodsName_FCN>
+    <GoodsDesc_SCN>使用后获得骁的永久皮肤：最后的武士</GoodsDesc_SCN>
+    <GoodsDesc_EN>使用后获得骁的永久皮肤：最后的武士</GoodsDesc_EN>
+    <GoodsDesc_FCN>使用后获得骁的永久皮肤：最后的武士</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31144121 </ResID>
+    <GoodsName_SCN>红莲灯使</GoodsName_SCN>
+    <GoodsName_EN>红莲灯使</GoodsName_EN>
+    <GoodsName_FCN>红莲灯使</GoodsName_FCN>
+    <GoodsDesc_SCN>使用后获得丸子的永久皮肤：红莲灯使</GoodsDesc_SCN>
+    <GoodsDesc_EN>使用后获得丸子的永久皮肤：红莲灯使</GoodsDesc_EN>
+    <GoodsDesc_FCN>使用后获得丸子的永久皮肤：红莲灯使</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31144122 </ResID>
+    <GoodsName_SCN>万圣节女巫</GoodsName_SCN>
+    <GoodsName_EN>万圣节女巫</GoodsName_EN>
+    <GoodsName_FCN>万圣节女巫</GoodsName_FCN>
+    <GoodsDesc_SCN>使用后获得丸子的永久皮肤：万圣节女巫</GoodsDesc_SCN>
+    <GoodsDesc_EN>使用后获得丸子的永久皮肤：万圣节女巫</GoodsDesc_EN>
+    <GoodsDesc_FCN>使用后获得丸子的永久皮肤：万圣节女巫</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31144131 </ResID>
+    <GoodsName_SCN>光之女</GoodsName_SCN>
+    <GoodsName_EN>光之女</GoodsName_EN>
+    <GoodsName_FCN>光之女</GoodsName_FCN>
+    <GoodsDesc_SCN>使用后获得伊娃的永久皮肤：光之女</GoodsDesc_SCN>
+    <GoodsDesc_EN>使用后获得伊娃的永久皮肤：光之女</GoodsDesc_EN>
+    <GoodsDesc_FCN>使用后获得伊娃的永久皮肤：光之女</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31144132 </ResID>
+    <GoodsName_SCN>学院甜心</GoodsName_SCN>
+    <GoodsName_EN>学院甜心</GoodsName_EN>
+    <GoodsName_FCN>学院甜心</GoodsName_FCN>
+    <GoodsDesc_SCN>使用后获得伊娃的永久皮肤：学院甜心</GoodsDesc_SCN>
+    <GoodsDesc_EN>使用后获得伊娃的永久皮肤：学院甜心</GoodsDesc_EN>
+    <GoodsDesc_FCN>使用后获得伊娃的永久皮肤：学院甜心</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31144141 </ResID>
+    <GoodsName_SCN>驭风之影</GoodsName_SCN>
+    <GoodsName_EN>驭风之影</GoodsName_EN>
+    <GoodsName_FCN>驭风之影</GoodsName_FCN>
+    <GoodsDesc_SCN>使用后获得阿灵的永久皮肤：驭风之影</GoodsDesc_SCN>
+    <GoodsDesc_EN>使用后获得阿灵的永久皮肤：驭风之影</GoodsDesc_EN>
+    <GoodsDesc_FCN>使用后获得阿灵的永久皮肤：驭风之影</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31144142 </ResID>
+    <GoodsName_SCN>皇家猎手</GoodsName_SCN>
+    <GoodsName_EN>皇家猎手</GoodsName_EN>
+    <GoodsName_FCN>皇家猎手</GoodsName_FCN>
+    <GoodsDesc_SCN>使用后获得阿灵的永久皮肤：皇家猎手</GoodsDesc_SCN>
+    <GoodsDesc_EN>使用后获得阿灵的永久皮肤：皇家猎手</GoodsDesc_EN>
+    <GoodsDesc_FCN>使用后获得阿灵的永久皮肤：皇家猎手</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31144151 </ResID>
+    <GoodsName_SCN>金羽鹤仙</GoodsName_SCN>
+    <GoodsName_EN>金羽鹤仙</GoodsName_EN>
+    <GoodsName_FCN>金羽鹤仙</GoodsName_FCN>
+    <GoodsDesc_SCN>使用后获得白龙的永久皮肤：金羽鹤仙</GoodsDesc_SCN>
+    <GoodsDesc_EN>使用后获得白龙的永久皮肤：金羽鹤仙</GoodsDesc_EN>
+    <GoodsDesc_FCN>使用后获得白龙的永久皮肤：金羽鹤仙</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31144161 </ResID>
+    <GoodsName_SCN>绝代舞姬</GoodsName_SCN>
+    <GoodsName_EN>绝代舞姬</GoodsName_EN>
+    <GoodsName_FCN>绝代舞姬</GoodsName_FCN>
+    <GoodsDesc_SCN>使用后获得貂蝉的永久皮肤：绝代舞姬</GoodsDesc_SCN>
+    <GoodsDesc_EN>使用后获得貂蝉的永久皮肤：绝代舞姬</GoodsDesc_EN>
+    <GoodsDesc_FCN>使用后获得貂蝉的永久皮肤：绝代舞姬</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31144162 </ResID>
+    <GoodsName_SCN>闭月之姿</GoodsName_SCN>
+    <GoodsName_EN>闭月之姿</GoodsName_EN>
+    <GoodsName_FCN>闭月之姿</GoodsName_FCN>
+    <GoodsDesc_SCN>使用后获得貂蝉的永久皮肤：闭月之姿</GoodsDesc_SCN>
+    <GoodsDesc_EN>使用后获得貂蝉的永久皮肤：闭月之姿</GoodsDesc_EN>
+    <GoodsDesc_FCN>使用后获得貂蝉的永久皮肤：闭月之姿</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31144171 </ResID>
+    <GoodsName_SCN>风灵猎手</GoodsName_SCN>
+    <GoodsName_EN>风灵猎手</GoodsName_EN>
+    <GoodsName_FCN>风灵猎手</GoodsName_FCN>
+    <GoodsDesc_SCN>使用后获得米琪的永久皮肤：风灵猎手</GoodsDesc_SCN>
+    <GoodsDesc_EN>使用后获得米琪的永久皮肤：风灵猎手</GoodsDesc_EN>
+    <GoodsDesc_FCN>使用后获得米琪的永久皮肤：风灵猎手</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31144172 </ResID>
+    <GoodsName_SCN>海盗船长</GoodsName_SCN>
+    <GoodsName_EN>海盗船长</GoodsName_EN>
+    <GoodsName_FCN>海盗船长</GoodsName_FCN>
+    <GoodsDesc_SCN>使用后获得米琪的永久皮肤：海盗船长</GoodsDesc_SCN>
+    <GoodsDesc_EN>使用后获得米琪的永久皮肤：海盗船长</GoodsDesc_EN>
+    <GoodsDesc_FCN>使用后获得米琪的永久皮肤：海盗船长</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31151001 </ResID>
+    <GoodsName_SCN>安东尼</GoodsName_SCN>
+    <GoodsName_EN>Anthony</GoodsName_EN>
+    <GoodsName_FCN>安东尼</GoodsName_FCN>
+    <GoodsDesc_SCN>体验卡：使用后可免费使用英雄1天，如果已拥有该英雄，使用后可获得5魂石</GoodsDesc_SCN>
+    <GoodsDesc_EN>Trial Card: Unlocks the Hero for 1 day. Grants 5 Gems if the Hero is already owned.</GoodsDesc_EN>
+    <GoodsDesc_FCN>体验卡：使用后可免费使用英雄1天，如果已拥有该英雄，使用后可获得5魂石</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31151002 </ResID>
+    <GoodsName_SCN>奥丁</GoodsName_SCN>
+    <GoodsName_EN>Odin</GoodsName_EN>
+    <GoodsName_FCN>奥丁</GoodsName_FCN>
+    <GoodsDesc_SCN>体验卡：使用后可免费使用英雄1天，如果已拥有该英雄，使用后可获得5魂石</GoodsDesc_SCN>
+    <GoodsDesc_EN>Trial Card: Unlocks the Hero for 1 day. Grants 5 Gems if the Hero is already owned.</GoodsDesc_EN>
+    <GoodsDesc_FCN>体验卡：使用后可免费使用英雄1天，如果已拥有该英雄，使用后可获得5魂石</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31151003 </ResID>
+    <GoodsName_SCN>帕拉丁</GoodsName_SCN>
+    <GoodsName_EN>Pallidus</GoodsName_EN>
+    <GoodsName_FCN>帕拉丁</GoodsName_FCN>
+    <GoodsDesc_SCN>体验卡：使用后可免费使用英雄1天，如果已拥有该英雄，使用后可获得5魂石</GoodsDesc_SCN>
+    <GoodsDesc_EN>Trial Card: Unlocks the Hero for 1 day. Grants 5 Gems if the Hero is already owned.</GoodsDesc_EN>
+    <GoodsDesc_FCN>体验卡：使用后可免费使用英雄1天，如果已拥有该英雄，使用后可获得5魂石</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31151101 </ResID>
+    <GoodsName_SCN>索伦</GoodsName_SCN>
+    <GoodsName_EN>Rothol</GoodsName_EN>
+    <GoodsName_FCN>索伦</GoodsName_FCN>
+    <GoodsDesc_SCN>体验卡：使用后可免费使用英雄1天，如果已拥有该英雄，使用后可获得5魂石</GoodsDesc_SCN>
+    <GoodsDesc_EN>Trial Card: Unlocks the Hero for 1 day. Grants 5 Gems if the Hero is already owned.</GoodsDesc_EN>
+    <GoodsDesc_FCN>体验卡：使用后可免费使用英雄1天，如果已拥有该英雄，使用后可获得5魂石</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31151102 </ResID>
+    <GoodsName_SCN>哥布林</GoodsName_SCN>
+    <GoodsName_EN>Garoth</GoodsName_EN>
+    <GoodsName_FCN>哥布林</GoodsName_FCN>
+    <GoodsDesc_SCN>体验卡：使用后可免费使用英雄1天，如果已拥有该英雄，使用后可获得5魂石</GoodsDesc_SCN>
+    <GoodsDesc_EN>Trial Card: Unlocks the Hero for 1 day. Grants 5 Gems if the Hero is already owned.</GoodsDesc_EN>
+    <GoodsDesc_FCN>体验卡：使用后可免费使用英雄1天，如果已拥有该英雄，使用后可获得5魂石</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31151201 </ResID>
+    <GoodsName_SCN>凯撒</GoodsName_SCN>
+    <GoodsName_EN>Gaius</GoodsName_EN>
+    <GoodsName_FCN>凯撒</GoodsName_FCN>
+    <GoodsDesc_SCN>体验卡：使用后可免费使用英雄1天，如果已拥有该英雄，使用后可获得5魂石</GoodsDesc_SCN>
+    <GoodsDesc_EN>Trial Card: Unlocks the Hero for 1 day. Grants 5 Gems if the Hero is already owned.</GoodsDesc_EN>
+    <GoodsDesc_FCN>体验卡：使用后可免费使用英雄1天，如果已拥有该英雄，使用后可获得5魂石</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31151202 </ResID>
+    <GoodsName_SCN>潘多拉</GoodsName_SCN>
+    <GoodsName_EN>Pandora</GoodsName_EN>
+    <GoodsName_FCN>潘多拉</GoodsName_FCN>
+    <GoodsDesc_SCN>体验卡：使用后可免费使用英雄1天，如果已拥有该英雄，使用后可获得5魂石</GoodsDesc_SCN>
+    <GoodsDesc_EN>Trial Card: Unlocks the Hero for 1 day. Grants 5 Gems if the Hero is already owned.</GoodsDesc_EN>
+    <GoodsDesc_FCN>体验卡：使用后可免费使用英雄1天，如果已拥有该英雄，使用后可获得5魂石</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31151203 </ResID>
+    <GoodsName_SCN>哈迪斯</GoodsName_SCN>
+    <GoodsName_EN>Mot</GoodsName_EN>
+    <GoodsName_FCN>哈迪斯</GoodsName_FCN>
+    <GoodsDesc_SCN>体验卡：使用后可免费使用英雄1天，如果已拥有该英雄，使用后可获得5魂石</GoodsDesc_SCN>
+    <GoodsDesc_EN>Trial Card: Unlocks the Hero for 1 day. Grants 5 Gems if the Hero is already owned.</GoodsDesc_EN>
+    <GoodsDesc_FCN>体验卡：使用后可免费使用英雄1天，如果已拥有该英雄，使用后可获得5魂石</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31151301 </ResID>
+    <GoodsName_SCN>但丁</GoodsName_SCN>
+    <GoodsName_EN>Dante</GoodsName_EN>
+    <GoodsName_FCN>但丁</GoodsName_FCN>
+    <GoodsDesc_SCN>体验卡：使用后可免费使用英雄1天，如果已拥有该英雄，使用后可获得5魂石</GoodsDesc_SCN>
+    <GoodsDesc_EN>Trial Card: Unlocks the Hero for 1 day. Grants 5 Gems if the Hero is already owned.</GoodsDesc_EN>
+    <GoodsDesc_FCN>体验卡：使用后可免费使用英雄1天，如果已拥有该英雄，使用后可获得5魂石</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31151302 </ResID>
+    <GoodsName_SCN>艾米</GoodsName_SCN>
+    <GoodsName_EN>Aimee</GoodsName_EN>
+    <GoodsName_FCN>艾米</GoodsName_FCN>
+    <GoodsDesc_SCN>体验卡：使用后可免费使用英雄1天，如果已拥有该英雄，使用后可获得5魂石</GoodsDesc_SCN>
+    <GoodsDesc_EN>Trial Card: Unlocks the Hero for 1 day. Grants 5 Gems if the Hero is already owned.</GoodsDesc_EN>
+    <GoodsDesc_FCN>体验卡：使用后可免费使用英雄1天，如果已拥有该英雄，使用后可获得5魂石</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31151401 </ResID>
+    <GoodsName_SCN>罗刹</GoodsName_SCN>
+    <GoodsName_EN>Asuka</GoodsName_EN>
+    <GoodsName_FCN>罗刹</GoodsName_FCN>
+    <GoodsDesc_SCN>体验卡：使用后可免费使用英雄1天，如果已拥有该英雄，使用后可获得5魂石</GoodsDesc_SCN>
+    <GoodsDesc_EN>Trial Card: Unlocks the Hero for 1 day. Grants 5 Gems if the Hero is already owned.</GoodsDesc_EN>
+    <GoodsDesc_FCN>体验卡：使用后可免费使用英雄1天，如果已拥有该英雄，使用后可获得5魂石</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31151402 </ResID>
+    <GoodsName_SCN>撒旦</GoodsName_SCN>
+    <GoodsName_EN>Infernius</GoodsName_EN>
+    <GoodsName_FCN>撒旦</GoodsName_FCN>
+    <GoodsDesc_SCN>体验卡：使用后可免费使用英雄1天，如果已拥有该英雄，使用后可获得5魂石</GoodsDesc_SCN>
+    <GoodsDesc_EN>Trial Card: Unlocks the Hero for 1 day. Grants 5 Gems if the Hero is already owned.</GoodsDesc_EN>
+    <GoodsDesc_FCN>体验卡：使用后可免费使用英雄1天，如果已拥有该英雄，使用后可获得5魂石</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31151403 </ResID>
+    <GoodsName_SCN>贝奥武夫</GoodsName_SCN>
+    <GoodsName_EN>Hogarth</GoodsName_EN>
+    <GoodsName_FCN>贝奥武夫</GoodsName_FCN>
+    <GoodsDesc_SCN>体验卡：使用后可免费使用英雄1天，如果已拥有该英雄，使用后可获得5魂石</GoodsDesc_SCN>
+    <GoodsDesc_EN>Trial Card: Unlocks the Hero for 1 day. Grants 5 Gems if the Hero is already owned.</GoodsDesc_EN>
+    <GoodsDesc_FCN>体验卡：使用后可免费使用英雄1天，如果已拥有该英雄，使用后可获得5魂石</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31151404 </ResID>
+    <GoodsName_SCN>安娜</GoodsName_SCN>
+    <GoodsName_EN>Nara</GoodsName_EN>
+    <GoodsName_FCN>安娜</GoodsName_FCN>
+    <GoodsDesc_SCN>体验卡：使用后可免费使用英雄1天，如果已拥有该英雄，使用后可获得5魂石</GoodsDesc_SCN>
+    <GoodsDesc_EN>Trial Card: Unlocks the Hero for 1 day. Grants 5 Gems if the Hero is already owned.</GoodsDesc_EN>
+    <GoodsDesc_FCN>体验卡：使用后可免费使用英雄1天，如果已拥有该英雄，使用后可获得5魂石</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31151405 </ResID>
+    <GoodsName_SCN>蕾拉</GoodsName_SCN>
+    <GoodsName_EN>Layla</GoodsName_EN>
+    <GoodsName_FCN>蕾拉</GoodsName_FCN>
+    <GoodsDesc_SCN>体验卡：使用后可免费使用英雄1天，如果已拥有该英雄，使用后可获得5魂石</GoodsDesc_SCN>
+    <GoodsDesc_EN>Trial Card: Unlocks the Hero for 1 day. Grants 5 Gems if the Hero is already owned.</GoodsDesc_EN>
+    <GoodsDesc_FCN>体验卡：使用后可免费使用英雄1天，如果已拥有该英雄，使用后可获得5魂石</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31151406 </ResID>
+    <GoodsName_SCN>特斯拉</GoodsName_SCN>
+    <GoodsName_EN>Titanius</GoodsName_EN>
+    <GoodsName_FCN>特斯拉</GoodsName_FCN>
+    <GoodsDesc_SCN>体验卡：使用后可免费使用英雄1天，如果已拥有该英雄，使用后可获得5魂石</GoodsDesc_SCN>
+    <GoodsDesc_EN>Trial Card: Unlocks the Hero for 1 day. Grants 5 Gems if the Hero is already owned.</GoodsDesc_EN>
+    <GoodsDesc_FCN>体验卡：使用后可免费使用英雄1天，如果已拥有该英雄，使用后可获得5魂石</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31151407 </ResID>
+    <GoodsName_SCN>泷</GoodsName_SCN>
+    <GoodsName_EN>Raine</GoodsName_EN>
+    <GoodsName_FCN>泷</GoodsName_FCN>
+    <GoodsDesc_SCN>体验卡：使用后可免费使用英雄1天，如果已拥有该英雄，使用后可获得5魂石</GoodsDesc_SCN>
+    <GoodsDesc_EN>Trial Card: Unlocks the Hero for 1 day. Grants 5 Gems if the Hero is already owned.</GoodsDesc_EN>
+    <GoodsDesc_FCN>体验卡：使用后可免费使用英雄1天，如果已拥有该英雄，使用后可获得5魂石</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31151409 </ResID>
+    <GoodsName_SCN>欧若拉</GoodsName_SCN>
+    <GoodsName_EN>Angelica</GoodsName_EN>
+    <GoodsName_FCN>欧若拉</GoodsName_FCN>
+    <GoodsDesc_SCN>体验卡：使用后可免费使用英雄1天，如果已拥有该英雄，使用后可获得5魂石</GoodsDesc_SCN>
+    <GoodsDesc_EN>Trial Card: Unlocks the Hero for 1 day. Grants 5 Gems if the Hero is already owned.</GoodsDesc_EN>
+    <GoodsDesc_FCN>体验卡：使用后可免费使用英雄1天，如果已拥有该英雄，使用后可获得5魂石</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31151410 </ResID>
+    <GoodsName_SCN>爱丽丝</GoodsName_SCN>
+    <GoodsName_EN>Sierra</GoodsName_EN>
+    <GoodsName_FCN>爱丽丝</GoodsName_FCN>
+    <GoodsDesc_SCN>体验卡：使用后可免费使用英雄1天，如果已拥有该英雄，使用后可获得5魂石</GoodsDesc_SCN>
+    <GoodsDesc_EN>Trial Card: Unlocks the Hero for 1 day. Grants 5 Gems if the Hero is already owned.</GoodsDesc_EN>
+    <GoodsDesc_FCN>体验卡：使用后可免费使用英雄1天，如果已拥有该英雄，使用后可获得5魂石</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31151413 </ResID>
+    <GoodsName_SCN>伊娃</GoodsName_SCN>
+    <GoodsName_EN>Leah</GoodsName_EN>
+    <GoodsName_FCN>伊娃</GoodsName_FCN>
+    <GoodsDesc_SCN>体验卡：使用后可免费使用英雄1天，如果已拥有该英雄，使用后可获得5魂石</GoodsDesc_SCN>
+    <GoodsDesc_EN>Trial Card: Unlocks the Hero for 1 day. Grants 5 Gems if the Hero is already owned.</GoodsDesc_EN>
+    <GoodsDesc_FCN>体验卡：使用后可免费使用英雄1天，如果已拥有该英雄，使用后可获得5魂石</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31151416 </ResID>
+    <GoodsName_SCN>貂蝉</GoodsName_SCN>
+    <GoodsName_EN>Diao</GoodsName_EN>
+    <GoodsName_FCN>貂蝉</GoodsName_FCN>
+    <GoodsDesc_SCN>体验卡：使用后可免费使用英雄1天，如果已拥有该英雄，使用后可获得5魂石</GoodsDesc_SCN>
+    <GoodsDesc_EN>Trial Card: Unlocks the Hero for 1 day. Grants 5 Gems if the Hero is already owned.</GoodsDesc_EN>
+    <GoodsDesc_FCN>体验卡：使用后可免费使用英雄1天，如果已拥有该英雄，使用后可获得5魂石</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31151417 </ResID>
+    <GoodsName_SCN>米琪</GoodsName_SCN>
+    <GoodsName_EN>Hilda</GoodsName_EN>
+    <GoodsName_FCN>米琪</GoodsName_FCN>
+    <GoodsDesc_SCN>体验卡：使用后可免费使用英雄1天，如果已拥有该英雄，使用后可获得5魂石</GoodsDesc_SCN>
+    <GoodsDesc_EN>Trial Card: Unlocks the Hero for 1 day. Grants 5 Gems if the Hero is already owned.</GoodsDesc_EN>
+    <GoodsDesc_FCN>体验卡：使用后可免费使用英雄1天，如果已拥有该英雄，使用后可获得5魂石</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31153001 </ResID>
+    <GoodsName_SCN>安东尼</GoodsName_SCN>
+    <GoodsName_EN>Anthony</GoodsName_EN>
+    <GoodsName_FCN>安东尼</GoodsName_FCN>
+    <GoodsDesc_SCN>体验卡：使用后可免费使用英雄3天，如果已拥有该英雄，使用后可获得15魂石</GoodsDesc_SCN>
+    <GoodsDesc_EN>Trial Card: Unlocks the Hero for 3 day. Grants 15 Gems if the Hero is already owned.</GoodsDesc_EN>
+    <GoodsDesc_FCN>体验卡：使用后可免费使用英雄3天，如果已拥有该英雄，使用后可获得15魂石</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31153002 </ResID>
+    <GoodsName_SCN>奥丁</GoodsName_SCN>
+    <GoodsName_EN>Odin</GoodsName_EN>
+    <GoodsName_FCN>奥丁</GoodsName_FCN>
+    <GoodsDesc_SCN>体验卡：使用后可免费使用英雄3天，如果已拥有该英雄，使用后可获得15魂石</GoodsDesc_SCN>
+    <GoodsDesc_EN>Trial Card: Unlocks the Hero for 3 day. Grants 15 Gems if the Hero is already owned.</GoodsDesc_EN>
+    <GoodsDesc_FCN>体验卡：使用后可免费使用英雄3天，如果已拥有该英雄，使用后可获得15魂石</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31153003 </ResID>
+    <GoodsName_SCN>帕拉丁</GoodsName_SCN>
+    <GoodsName_EN>Pallidus</GoodsName_EN>
+    <GoodsName_FCN>帕拉丁</GoodsName_FCN>
+    <GoodsDesc_SCN>体验卡：使用后可免费使用英雄3天，如果已拥有该英雄，使用后可获得15魂石</GoodsDesc_SCN>
+    <GoodsDesc_EN>Trial Card: Unlocks the Hero for 3 day. Grants 15 Gems if the Hero is already owned.</GoodsDesc_EN>
+    <GoodsDesc_FCN>体验卡：使用后可免费使用英雄3天，如果已拥有该英雄，使用后可获得15魂石</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31153101 </ResID>
+    <GoodsName_SCN>索伦</GoodsName_SCN>
+    <GoodsName_EN>Rothol</GoodsName_EN>
+    <GoodsName_FCN>索伦</GoodsName_FCN>
+    <GoodsDesc_SCN>体验卡：使用后可免费使用英雄3天，如果已拥有该英雄，使用后可获得15魂石</GoodsDesc_SCN>
+    <GoodsDesc_EN>Trial Card: Unlocks the Hero for 3 day. Grants 15 Gems if the Hero is already owned.</GoodsDesc_EN>
+    <GoodsDesc_FCN>体验卡：使用后可免费使用英雄3天，如果已拥有该英雄，使用后可获得15魂石</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31153102 </ResID>
+    <GoodsName_SCN>哥布林</GoodsName_SCN>
+    <GoodsName_EN>Garoth</GoodsName_EN>
+    <GoodsName_FCN>哥布林</GoodsName_FCN>
+    <GoodsDesc_SCN>体验卡：使用后可免费使用英雄3天，如果已拥有该英雄，使用后可获得15魂石</GoodsDesc_SCN>
+    <GoodsDesc_EN>Trial Card: Unlocks the Hero for 3 day. Grants 15 Gems if the Hero is already owned.</GoodsDesc_EN>
+    <GoodsDesc_FCN>体验卡：使用后可免费使用英雄3天，如果已拥有该英雄，使用后可获得15魂石</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31153201 </ResID>
+    <GoodsName_SCN>凯撒</GoodsName_SCN>
+    <GoodsName_EN>Gaius</GoodsName_EN>
+    <GoodsName_FCN>凯撒</GoodsName_FCN>
+    <GoodsDesc_SCN>体验卡：使用后可免费使用英雄3天，如果已拥有该英雄，使用后可获得15魂石</GoodsDesc_SCN>
+    <GoodsDesc_EN>Trial Card: Unlocks the Hero for 3 day. Grants 15 Gems if the Hero is already owned.</GoodsDesc_EN>
+    <GoodsDesc_FCN>体验卡：使用后可免费使用英雄3天，如果已拥有该英雄，使用后可获得15魂石</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31153202 </ResID>
+    <GoodsName_SCN>潘多拉</GoodsName_SCN>
+    <GoodsName_EN>Pandora</GoodsName_EN>
+    <GoodsName_FCN>潘多拉</GoodsName_FCN>
+    <GoodsDesc_SCN>体验卡：使用后可免费使用英雄3天，如果已拥有该英雄，使用后可获得15魂石</GoodsDesc_SCN>
+    <GoodsDesc_EN>Trial Card: Unlocks the Hero for 3 day. Grants 15 Gems if the Hero is already owned.</GoodsDesc_EN>
+    <GoodsDesc_FCN>体验卡：使用后可免费使用英雄3天，如果已拥有该英雄，使用后可获得15魂石</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31153203 </ResID>
+    <GoodsName_SCN>哈迪斯</GoodsName_SCN>
+    <GoodsName_EN>Mot</GoodsName_EN>
+    <GoodsName_FCN>哈迪斯</GoodsName_FCN>
+    <GoodsDesc_SCN>体验卡：使用后可免费使用英雄3天，如果已拥有该英雄，使用后可获得15魂石</GoodsDesc_SCN>
+    <GoodsDesc_EN>Trial Card: Unlocks the Hero for 3 day. Grants 15 Gems if the Hero is already owned.</GoodsDesc_EN>
+    <GoodsDesc_FCN>体验卡：使用后可免费使用英雄3天，如果已拥有该英雄，使用后可获得15魂石</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31153301 </ResID>
+    <GoodsName_SCN>但丁</GoodsName_SCN>
+    <GoodsName_EN>Dante</GoodsName_EN>
+    <GoodsName_FCN>但丁</GoodsName_FCN>
+    <GoodsDesc_SCN>体验卡：使用后可免费使用英雄3天，如果已拥有该英雄，使用后可获得15魂石</GoodsDesc_SCN>
+    <GoodsDesc_EN>Trial Card: Unlocks the Hero for 3 day. Grants 15 Gems if the Hero is already owned.</GoodsDesc_EN>
+    <GoodsDesc_FCN>体验卡：使用后可免费使用英雄3天，如果已拥有该英雄，使用后可获得15魂石</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31153302 </ResID>
+    <GoodsName_SCN>艾米</GoodsName_SCN>
+    <GoodsName_EN>Aimee</GoodsName_EN>
+    <GoodsName_FCN>艾米</GoodsName_FCN>
+    <GoodsDesc_SCN>体验卡：使用后可免费使用英雄3天，如果已拥有该英雄，使用后可获得15魂石</GoodsDesc_SCN>
+    <GoodsDesc_EN>Trial Card: Unlocks the Hero for 3 day. Grants 15 Gems if the Hero is already owned.</GoodsDesc_EN>
+    <GoodsDesc_FCN>体验卡：使用后可免费使用英雄3天，如果已拥有该英雄，使用后可获得15魂石</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31153401 </ResID>
+    <GoodsName_SCN>罗刹</GoodsName_SCN>
+    <GoodsName_EN>Asuka</GoodsName_EN>
+    <GoodsName_FCN>罗刹</GoodsName_FCN>
+    <GoodsDesc_SCN>体验卡：使用后可免费使用英雄3天，如果已拥有该英雄，使用后可获得15魂石</GoodsDesc_SCN>
+    <GoodsDesc_EN>Trial Card: Unlocks the Hero for 3 day. Grants 15 Gems if the Hero is already owned.</GoodsDesc_EN>
+    <GoodsDesc_FCN>体验卡：使用后可免费使用英雄3天，如果已拥有该英雄，使用后可获得15魂石</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31153402 </ResID>
+    <GoodsName_SCN>撒旦</GoodsName_SCN>
+    <GoodsName_EN>Infernius</GoodsName_EN>
+    <GoodsName_FCN>撒旦</GoodsName_FCN>
+    <GoodsDesc_SCN>体验卡：使用后可免费使用英雄3天，如果已拥有该英雄，使用后可获得15魂石</GoodsDesc_SCN>
+    <GoodsDesc_EN>Trial Card: Unlocks the Hero for 3 day. Grants 15 Gems if the Hero is already owned.</GoodsDesc_EN>
+    <GoodsDesc_FCN>体验卡：使用后可免费使用英雄3天，如果已拥有该英雄，使用后可获得15魂石</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31153403 </ResID>
+    <GoodsName_SCN>贝奥武夫</GoodsName_SCN>
+    <GoodsName_EN>Hogarth</GoodsName_EN>
+    <GoodsName_FCN>贝奥武夫</GoodsName_FCN>
+    <GoodsDesc_SCN>体验卡：使用后可免费使用英雄3天，如果已拥有该英雄，使用后可获得15魂石</GoodsDesc_SCN>
+    <GoodsDesc_EN>Trial Card: Unlocks the Hero for 3 day. Grants 15 Gems if the Hero is already owned.</GoodsDesc_EN>
+    <GoodsDesc_FCN>体验卡：使用后可免费使用英雄3天，如果已拥有该英雄，使用后可获得15魂石</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31153404 </ResID>
+    <GoodsName_SCN>安娜</GoodsName_SCN>
+    <GoodsName_EN>Nara</GoodsName_EN>
+    <GoodsName_FCN>安娜</GoodsName_FCN>
+    <GoodsDesc_SCN>体验卡：使用后可免费使用英雄3天，如果已拥有该英雄，使用后可获得15魂石</GoodsDesc_SCN>
+    <GoodsDesc_EN>Trial Card: Unlocks the Hero for 3 day. Grants 15 Gems if the Hero is already owned.</GoodsDesc_EN>
+    <GoodsDesc_FCN>体验卡：使用后可免费使用英雄3天，如果已拥有该英雄，使用后可获得15魂石</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31153405 </ResID>
+    <GoodsName_SCN>蕾拉</GoodsName_SCN>
+    <GoodsName_EN>Layla</GoodsName_EN>
+    <GoodsName_FCN>蕾拉</GoodsName_FCN>
+    <GoodsDesc_SCN>体验卡：使用后可免费使用英雄3天，如果已拥有该英雄，使用后可获得15魂石</GoodsDesc_SCN>
+    <GoodsDesc_EN>Trial Card: Unlocks the Hero for 3 day. Grants 15 Gems if the Hero is already owned.</GoodsDesc_EN>
+    <GoodsDesc_FCN>体验卡：使用后可免费使用英雄3天，如果已拥有该英雄，使用后可获得15魂石</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31153406 </ResID>
+    <GoodsName_SCN>特斯拉</GoodsName_SCN>
+    <GoodsName_EN>Titanius</GoodsName_EN>
+    <GoodsName_FCN>特斯拉</GoodsName_FCN>
+    <GoodsDesc_SCN>体验卡：使用后可免费使用英雄3天，如果已拥有该英雄，使用后可获得15魂石</GoodsDesc_SCN>
+    <GoodsDesc_EN>Trial Card: Unlocks the Hero for 3 day. Grants 15 Gems if the Hero is already owned.</GoodsDesc_EN>
+    <GoodsDesc_FCN>体验卡：使用后可免费使用英雄3天，如果已拥有该英雄，使用后可获得15魂石</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31153407 </ResID>
+    <GoodsName_SCN>泷</GoodsName_SCN>
+    <GoodsName_EN>Raine</GoodsName_EN>
+    <GoodsName_FCN>泷</GoodsName_FCN>
+    <GoodsDesc_SCN>体验卡：使用后可免费使用英雄3天，如果已拥有该英雄，使用后可获得15魂石</GoodsDesc_SCN>
+    <GoodsDesc_EN>Trial Card: Unlocks the Hero for 3 day. Grants 15 Gems if the Hero is already owned.</GoodsDesc_EN>
+    <GoodsDesc_FCN>体验卡：使用后可免费使用英雄3天，如果已拥有该英雄，使用后可获得15魂石</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31153408 </ResID>
+    <GoodsName_SCN>天宝</GoodsName_SCN>
+    <GoodsName_EN>Yao</GoodsName_EN>
+    <GoodsName_FCN>天宝</GoodsName_FCN>
+    <GoodsDesc_SCN>体验卡：使用后可免费使用英雄3天，如果已拥有该英雄，使用后可获得15魂石</GoodsDesc_SCN>
+    <GoodsDesc_EN>Trial Card: Unlocks the Hero for 3 day. Grants 15 Gems if the Hero is already owned.</GoodsDesc_EN>
+    <GoodsDesc_FCN>体验卡：使用后可免费使用英雄3天，如果已拥有该英雄，使用后可获得15魂石</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31153409 </ResID>
+    <GoodsName_SCN>欧若拉</GoodsName_SCN>
+    <GoodsName_EN>Angelica</GoodsName_EN>
+    <GoodsName_FCN>欧若拉</GoodsName_FCN>
+    <GoodsDesc_SCN>体验卡：使用后可免费使用英雄3天，如果已拥有该英雄，使用后可获得15魂石</GoodsDesc_SCN>
+    <GoodsDesc_EN>Trial Card: Unlocks the Hero for 3 day. Grants 15 Gems if the Hero is already owned.</GoodsDesc_EN>
+    <GoodsDesc_FCN>体验卡：使用后可免费使用英雄3天，如果已拥有该英雄，使用后可获得15魂石</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31153410 </ResID>
+    <GoodsName_SCN>爱丽丝</GoodsName_SCN>
+    <GoodsName_EN>Sierra</GoodsName_EN>
+    <GoodsName_FCN>爱丽丝</GoodsName_FCN>
+    <GoodsDesc_SCN>体验卡：使用后可免费使用英雄3天，如果已拥有该英雄，使用后可获得15魂石</GoodsDesc_SCN>
+    <GoodsDesc_EN>Trial Card: Unlocks the Hero for 3 day. Grants 15 Gems if the Hero is already owned.</GoodsDesc_EN>
+    <GoodsDesc_FCN>体验卡：使用后可免费使用英雄3天，如果已拥有该英雄，使用后可获得15魂石</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31153411 </ResID>
+    <GoodsName_SCN>骁</GoodsName_SCN>
+    <GoodsName_EN>Kensei</GoodsName_EN>
+    <GoodsName_FCN>骁</GoodsName_FCN>
+    <GoodsDesc_SCN>体验卡：使用后可免费使用英雄3天，如果已拥有该英雄，使用后可获得15魂石</GoodsDesc_SCN>
+    <GoodsDesc_EN>Trial Card: Unlocks the Hero for 3 day. Grants 15 Gems if the Hero is already owned.</GoodsDesc_EN>
+    <GoodsDesc_FCN>体验卡：使用后可免费使用英雄3天，如果已拥有该英雄，使用后可获得15魂石</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31153413 </ResID>
+    <GoodsName_SCN>伊娃</GoodsName_SCN>
+    <GoodsName_EN>Leah</GoodsName_EN>
+    <GoodsName_FCN>伊娃</GoodsName_FCN>
+    <GoodsDesc_SCN>体验卡：使用后可免费使用英雄3天，如果已拥有该英雄，使用后可获得15魂石</GoodsDesc_SCN>
+    <GoodsDesc_EN>Trial Card: Unlocks the Hero for 3 day. Grants 15 Gems if the Hero is already owned.</GoodsDesc_EN>
+    <GoodsDesc_FCN>体验卡：使用后可免费使用英雄3天，如果已拥有该英雄，使用后可获得15魂石</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31153414 </ResID>
+    <GoodsName_SCN>阿灵</GoodsName_SCN>
+    <GoodsName_EN>Zore</GoodsName_EN>
+    <GoodsName_FCN>阿灵</GoodsName_FCN>
+    <GoodsDesc_SCN>体验卡：使用后可免费使用英雄3天，如果已拥有该英雄，使用后可获得15魂石</GoodsDesc_SCN>
+    <GoodsDesc_EN>Trial Card: Unlocks the Hero for 3 day. Grants 15 Gems if the Hero is already owned.</GoodsDesc_EN>
+    <GoodsDesc_FCN>体验卡：使用后可免费使用英雄3天，如果已拥有该英雄，使用后可获得15魂石</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31153416 </ResID>
+    <GoodsName_SCN>貂蝉</GoodsName_SCN>
+    <GoodsName_EN>Diao</GoodsName_EN>
+    <GoodsName_FCN>貂蝉</GoodsName_FCN>
+    <GoodsDesc_SCN>体验卡：使用后可免费使用英雄3天，如果已拥有该英雄，使用后可获得15魂石</GoodsDesc_SCN>
+    <GoodsDesc_EN>Trial Card: Unlocks the Hero for 3 day. Grants 15 Gems if the Hero is already owned.</GoodsDesc_EN>
+    <GoodsDesc_FCN>体验卡：使用后可免费使用英雄3天，如果已拥有该英雄，使用后可获得15魂石</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>31153417 </ResID>
+    <GoodsName_SCN>米琪</GoodsName_SCN>
+    <GoodsName_EN>Hilda</GoodsName_EN>
+    <GoodsName_FCN>米琪</GoodsName_FCN>
+    <GoodsDesc_SCN>体验卡：使用后可免费使用英雄3天，如果已拥有该英雄，使用后可获得15魂石</GoodsDesc_SCN>
+    <GoodsDesc_EN>Trial Card: Unlocks the Hero for 3 day. Grants 15 Gems if the Hero is already owned.</GoodsDesc_EN>
+    <GoodsDesc_FCN>体验卡：使用后可免费使用英雄3天，如果已拥有该英雄，使用后可获得15魂石</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>41001002 </ResID>
+    <GoodsName_SCN>精灵王</GoodsName_SCN>
+    <GoodsName_EN>Elven Lord</GoodsName_EN>
+    <GoodsName_FCN>精灵王</GoodsName_FCN>
+    <GoodsDesc_SCN>体验卡：使用后可免费使用皮肤1天，如果已拥有该皮肤，使用后可获得5魂石</GoodsDesc_SCN>
+    <GoodsDesc_EN>Trial Card: Unlocks the skin for 1 day. Grants 5 Gems if the skin is already owned.</GoodsDesc_EN>
+    <GoodsDesc_FCN>体验卡：使用后可免费使用皮肤1天，如果已拥有该皮肤，使用后可获得5魂石</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>41002002 </ResID>
+    <GoodsName_SCN>奥林匹斯之王</GoodsName_SCN>
+    <GoodsName_EN>King of Olympus</GoodsName_EN>
+    <GoodsName_FCN>奥林匹斯之王</GoodsName_FCN>
+    <GoodsDesc_SCN>体验卡：使用后可免费使用皮肤1天，如果已拥有该皮肤，使用后可获得5魂石</GoodsDesc_SCN>
+    <GoodsDesc_EN>Trial Card: Unlocks the skin for 1 day. Grants 5 Gems if the skin is already owned.</GoodsDesc_EN>
+    <GoodsDesc_FCN>体验卡：使用后可免费使用皮肤1天，如果已拥有该皮肤，使用后可获得5魂石</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>41202002 </ResID>
+    <GoodsName_SCN>金色曼陀罗</GoodsName_SCN>
+    <GoodsName_EN>Golden Datura</GoodsName_EN>
+    <GoodsName_FCN>金色曼陀罗</GoodsName_FCN>
+    <GoodsDesc_SCN>体验卡：使用后可免费使用皮肤1天，如果已拥有该皮肤，使用后可获得5魂石</GoodsDesc_SCN>
+    <GoodsDesc_EN>Trial Card: Unlocks the skin for 1 day. Grants 5 Gems if the skin is already owned.</GoodsDesc_EN>
+    <GoodsDesc_FCN>体验卡：使用后可免费使用皮肤1天，如果已拥有该皮肤，使用后可获得5魂石</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>41301002 </ResID>
+    <GoodsName_SCN>恶魔之力</GoodsName_SCN>
+    <GoodsName_EN>Demon Hunter</GoodsName_EN>
+    <GoodsName_FCN>恶魔之力</GoodsName_FCN>
+    <GoodsDesc_SCN>体验卡：使用后可免费使用皮肤1天，如果已拥有该皮肤，使用后可获得5魂石</GoodsDesc_SCN>
+    <GoodsDesc_EN>Trial Card: Unlocks the skin for 1 day. Grants 5 Gems if the skin is already owned.</GoodsDesc_EN>
+    <GoodsDesc_FCN>体验卡：使用后可免费使用皮肤1天，如果已拥有该皮肤，使用后可获得5魂石</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>41302002 </ResID>
+    <GoodsName_SCN>翎羽箭神</GoodsName_SCN>
+    <GoodsName_EN>Scarlet Regalia</GoodsName_EN>
+    <GoodsName_FCN>翎羽箭神</GoodsName_FCN>
+    <GoodsDesc_SCN>体验卡：使用后可免费使用皮肤1天，如果已拥有该皮肤，使用后可获得5魂石</GoodsDesc_SCN>
+    <GoodsDesc_EN>Trial Card: Unlocks the skin for 1 day. Grants 5 Gems if the skin is already owned.</GoodsDesc_EN>
+    <GoodsDesc_FCN>体验卡：使用后可免费使用皮肤1天，如果已拥有该皮肤，使用后可获得5魂石</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>41401002 </ResID>
+    <GoodsName_SCN>剑意</GoodsName_SCN>
+    <GoodsName_EN>Blade&apos;s Will</GoodsName_EN>
+    <GoodsName_FCN>剑意</GoodsName_FCN>
+    <GoodsDesc_SCN>体验卡：使用后可免费使用皮肤1天，如果已拥有该皮肤，使用后可获得5魂石</GoodsDesc_SCN>
+    <GoodsDesc_EN>Trial Card: Unlocks the skin for 1 day. Grants 5 Gems if the skin is already owned.</GoodsDesc_EN>
+    <GoodsDesc_FCN>体验卡：使用后可免费使用皮肤1天，如果已拥有该皮肤，使用后可获得5魂石</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>41403002 </ResID>
+    <GoodsName_SCN>熔岩之怒</GoodsName_SCN>
+    <GoodsName_EN>Raging Lava</GoodsName_EN>
+    <GoodsName_FCN>熔岩之怒</GoodsName_FCN>
+    <GoodsDesc_SCN>体验卡：使用后可免费使用皮肤1天，如果已拥有该皮肤，使用后可获得5魂石</GoodsDesc_SCN>
+    <GoodsDesc_EN>Trial Card: Unlocks the skin for 1 day. Grants 5 Gems if the skin is already owned.</GoodsDesc_EN>
+    <GoodsDesc_FCN>体验卡：使用后可免费使用皮肤1天，如果已拥有该皮肤，使用后可获得5魂石</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>41405002 </ResID>
+    <GoodsName_SCN>粉红角斗士</GoodsName_SCN>
+    <GoodsName_EN>Cherry Contender</GoodsName_EN>
+    <GoodsName_FCN>粉红角斗士</GoodsName_FCN>
+    <GoodsDesc_SCN>体验卡：使用后可免费使用皮肤1天，如果已拥有该皮肤，使用后可获得5魂石</GoodsDesc_SCN>
+    <GoodsDesc_EN>Trial Card: Unlocks the skin for 1 day. Grants 5 Gems if the skin is already owned.</GoodsDesc_EN>
+    <GoodsDesc_FCN>体验卡：使用后可免费使用皮肤1天，如果已拥有该皮肤，使用后可获得5魂石</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>41406002 </ResID>
+    <GoodsName_SCN>机械危机</GoodsName_SCN>
+    <GoodsName_EN>Power Surging</GoodsName_EN>
+    <GoodsName_FCN>机械危机</GoodsName_FCN>
+    <GoodsDesc_SCN>体验卡：使用后可免费使用皮肤1天，如果已拥有该皮肤，使用后可获得5魂石</GoodsDesc_SCN>
+    <GoodsDesc_EN>Trial Card: Unlocks the skin for 1 day. Grants 5 Gems if the skin is already owned.</GoodsDesc_EN>
+    <GoodsDesc_FCN>体验卡：使用后可免费使用皮肤1天，如果已拥有该皮肤，使用后可获得5魂石</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>41407002 </ResID>
+    <GoodsName_SCN>禁军之影</GoodsName_SCN>
+    <GoodsName_EN>Imperial Blade</GoodsName_EN>
+    <GoodsName_FCN>禁军之影</GoodsName_FCN>
+    <GoodsDesc_SCN>体验卡：使用后可免费使用皮肤1天，如果已拥有该皮肤，使用后可获得5魂石</GoodsDesc_SCN>
+    <GoodsDesc_EN>Trial Card: Unlocks the skin for 1 day. Grants 5 Gems if the skin is already owned.</GoodsDesc_EN>
+    <GoodsDesc_FCN>体验卡：使用后可免费使用皮肤1天，如果已拥有该皮肤，使用后可获得5魂石</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>41409002 </ResID>
+    <GoodsName_SCN>收割之镰</GoodsName_SCN>
+    <GoodsName_EN>Reaper of Souls</GoodsName_EN>
+    <GoodsName_FCN>收割之镰</GoodsName_FCN>
+    <GoodsDesc_SCN>体验卡：使用后可免费使用皮肤1天，如果已拥有该皮肤，使用后可获得5魂石</GoodsDesc_SCN>
+    <GoodsDesc_EN>Trial Card: Unlocks the skin for 1 day. Grants 5 Gems if the skin is already owned.</GoodsDesc_EN>
+    <GoodsDesc_FCN>体验卡：使用后可免费使用皮肤1天，如果已拥有该皮肤，使用后可获得5魂石</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>41410002 </ResID>
+    <GoodsName_SCN>战场女武神</GoodsName_SCN>
+    <GoodsName_EN>Task Force</GoodsName_EN>
+    <GoodsName_FCN>战场女武神</GoodsName_FCN>
+    <GoodsDesc_SCN>体验卡：使用后可免费使用皮肤1天，如果已拥有该皮肤，使用后可获得5魂石</GoodsDesc_SCN>
+    <GoodsDesc_EN>Trial Card: Unlocks the skin for 1 day. Grants 5 Gems if the skin is already owned.</GoodsDesc_EN>
+    <GoodsDesc_FCN>体验卡：使用后可免费使用皮肤1天，如果已拥有该皮肤，使用后可获得5魂石</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>41413002 </ResID>
+    <GoodsName_SCN>学院甜心</GoodsName_SCN>
+    <GoodsName_EN>School Day</GoodsName_EN>
+    <GoodsName_FCN>学院甜心</GoodsName_FCN>
+    <GoodsDesc_SCN>体验卡：使用后可免费使用皮肤1天，如果已拥有该皮肤，使用后可获得5魂石</GoodsDesc_SCN>
+    <GoodsDesc_EN>Trial Card: Unlocks the skin for 1 day. Grants 5 Gems if the skin is already owned.</GoodsDesc_EN>
+    <GoodsDesc_FCN>体验卡：使用后可免费使用皮肤1天，如果已拥有该皮肤，使用后可获得5魂石</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>41416002 </ResID>
+    <GoodsName_SCN>闭月之姿</GoodsName_SCN>
+    <GoodsName_EN>Charming Crush</GoodsName_EN>
+    <GoodsName_FCN>闭月之姿</GoodsName_FCN>
+    <GoodsDesc_SCN>体验卡：使用后可免费使用皮肤1天，如果已拥有该皮肤，使用后可获得5魂石</GoodsDesc_SCN>
+    <GoodsDesc_EN>Trial Card: Unlocks the skin for 1 day. Grants 5 Gems if the skin is already owned.</GoodsDesc_EN>
+    <GoodsDesc_FCN>体验卡：使用后可免费使用皮肤1天，如果已拥有该皮肤，使用后可获得5魂石</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>41417002 </ResID>
+    <GoodsName_SCN>海盗船长</GoodsName_SCN>
+    <GoodsName_EN>Pirate Captain</GoodsName_EN>
+    <GoodsName_FCN>海盗船长</GoodsName_FCN>
+    <GoodsDesc_SCN>体验卡：使用后可免费使用皮肤1天，如果已拥有该皮肤，使用后可获得5魂石</GoodsDesc_SCN>
+    <GoodsDesc_EN>Trial Card: Unlocks the skin for 1 day. Grants 5 Gems if the skin is already owned.</GoodsDesc_EN>
+    <GoodsDesc_FCN>体验卡：使用后可免费使用皮肤1天，如果已拥有该皮肤，使用后可获得5魂石</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>43001002 </ResID>
+    <GoodsName_SCN>精灵王</GoodsName_SCN>
+    <GoodsName_EN>Elven Lord</GoodsName_EN>
+    <GoodsName_FCN>精灵王</GoodsName_FCN>
+    <GoodsDesc_SCN>体验卡：使用后可免费使用皮肤3天，如果已拥有该皮肤，使用后可获得15魂石</GoodsDesc_SCN>
+    <GoodsDesc_EN>Trial Card: Unlocks the skin for 3 day. Grants 15 Gems if the skin is already owned.</GoodsDesc_EN>
+    <GoodsDesc_FCN>体验卡：使用后可免费使用皮肤3天，如果已拥有该皮肤，使用后可获得15魂石</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>43002002 </ResID>
+    <GoodsName_SCN>奥林匹斯之王</GoodsName_SCN>
+    <GoodsName_EN>King of Olympus</GoodsName_EN>
+    <GoodsName_FCN>奥林匹斯之王</GoodsName_FCN>
+    <GoodsDesc_SCN>体验卡：使用后可免费使用皮肤3天，如果已拥有该皮肤，使用后可获得15魂石</GoodsDesc_SCN>
+    <GoodsDesc_EN>Trial Card: Unlocks the skin for 3 day. Grants 15 Gems if the skin is already owned.</GoodsDesc_EN>
+    <GoodsDesc_FCN>体验卡：使用后可免费使用皮肤3天，如果已拥有该皮肤，使用后可获得15魂石</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>43101002 </ResID>
+    <GoodsName_SCN>灾祸之源</GoodsName_SCN>
+    <GoodsName_EN>Banebringer</GoodsName_EN>
+    <GoodsName_FCN>灾祸之源</GoodsName_FCN>
+    <GoodsDesc_SCN>体验卡：使用后可免费使用皮肤3天，如果已拥有该皮肤，使用后可获得15魂石</GoodsDesc_SCN>
+    <GoodsDesc_EN>Trial Card: Unlocks the skin for 3 day. Grants 15 Gems if the skin is already owned.</GoodsDesc_EN>
+    <GoodsDesc_FCN>体验卡：使用后可免费使用皮肤3天，如果已拥有该皮肤，使用后可获得15魂石</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>43202002 </ResID>
+    <GoodsName_SCN>金色曼陀罗</GoodsName_SCN>
+    <GoodsName_EN>Golden Datura</GoodsName_EN>
+    <GoodsName_FCN>金色曼陀罗</GoodsName_FCN>
+    <GoodsDesc_SCN>体验卡：使用后可免费使用皮肤3天，如果已拥有该皮肤，使用后可获得15魂石</GoodsDesc_SCN>
+    <GoodsDesc_EN>Trial Card: Unlocks the skin for 3 day. Grants 15 Gems if the skin is already owned.</GoodsDesc_EN>
+    <GoodsDesc_FCN>体验卡：使用后可免费使用皮肤3天，如果已拥有该皮肤，使用后可获得15魂石</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>43203002 </ResID>
+    <GoodsName_SCN>舞会绅士</GoodsName_SCN>
+    <GoodsName_EN>Party Prince</GoodsName_EN>
+    <GoodsName_FCN>舞会绅士</GoodsName_FCN>
+    <GoodsDesc_SCN>体验卡：使用后可免费使用皮肤3天，如果已拥有该皮肤，使用后可获得15魂石</GoodsDesc_SCN>
+    <GoodsDesc_EN>Trial Card: Unlocks the skin for 3 day. Grants 15 Gems if the skin is already owned.</GoodsDesc_EN>
+    <GoodsDesc_FCN>体验卡：使用后可免费使用皮肤3天，如果已拥有该皮肤，使用后可获得15魂石</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>43301002 </ResID>
+    <GoodsName_SCN>恶魔之力</GoodsName_SCN>
+    <GoodsName_EN>Demon Hunter</GoodsName_EN>
+    <GoodsName_FCN>恶魔之力</GoodsName_FCN>
+    <GoodsDesc_SCN>体验卡：使用后可免费使用皮肤3天，如果已拥有该皮肤，使用后可获得15魂石</GoodsDesc_SCN>
+    <GoodsDesc_EN>Trial Card: Unlocks the skin for 3 day. Grants 15 Gems if the skin is already owned.</GoodsDesc_EN>
+    <GoodsDesc_FCN>体验卡：使用后可免费使用皮肤3天，如果已拥有该皮肤，使用后可获得15魂石</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>43302002 </ResID>
+    <GoodsName_SCN>翎羽箭神</GoodsName_SCN>
+    <GoodsName_EN>Scarlet Regalia</GoodsName_EN>
+    <GoodsName_FCN>翎羽箭神</GoodsName_FCN>
+    <GoodsDesc_SCN>体验卡：使用后可免费使用皮肤3天，如果已拥有该皮肤，使用后可获得15魂石</GoodsDesc_SCN>
+    <GoodsDesc_EN>Trial Card: Unlocks the skin for 3 day. Grants 15 Gems if the skin is already owned.</GoodsDesc_EN>
+    <GoodsDesc_FCN>体验卡：使用后可免费使用皮肤3天，如果已拥有该皮肤，使用后可获得15魂石</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>43401002 </ResID>
+    <GoodsName_SCN>剑意</GoodsName_SCN>
+    <GoodsName_EN>Blade&apos;s Will</GoodsName_EN>
+    <GoodsName_FCN>剑意</GoodsName_FCN>
+    <GoodsDesc_SCN>体验卡：使用后可免费使用皮肤3天，如果已拥有该皮肤，使用后可获得15魂石</GoodsDesc_SCN>
+    <GoodsDesc_EN>Trial Card: Unlocks the skin for 3 day. Grants 15 Gems if the skin is already owned.</GoodsDesc_EN>
+    <GoodsDesc_FCN>体验卡：使用后可免费使用皮肤3天，如果已拥有该皮肤，使用后可获得15魂石</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>43403002 </ResID>
+    <GoodsName_SCN>熔岩之怒</GoodsName_SCN>
+    <GoodsName_EN>Raging Lava</GoodsName_EN>
+    <GoodsName_FCN>熔岩之怒</GoodsName_FCN>
+    <GoodsDesc_SCN>体验卡：使用后可免费使用皮肤3天，如果已拥有该皮肤，使用后可获得15魂石</GoodsDesc_SCN>
+    <GoodsDesc_EN>Trial Card: Unlocks the skin for 3 day. Grants 15 Gems if the skin is already owned.</GoodsDesc_EN>
+    <GoodsDesc_FCN>体验卡：使用后可免费使用皮肤3天，如果已拥有该皮肤，使用后可获得15魂石</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>43405002 </ResID>
+    <GoodsName_SCN>粉红角斗士</GoodsName_SCN>
+    <GoodsName_EN>Cherry Contender</GoodsName_EN>
+    <GoodsName_FCN>粉红角斗士</GoodsName_FCN>
+    <GoodsDesc_SCN>体验卡：使用后可免费使用皮肤3天，如果已拥有该皮肤，使用后可获得15魂石</GoodsDesc_SCN>
+    <GoodsDesc_EN>Trial Card: Unlocks the skin for 3 day. Grants 15 Gems if the skin is already owned.</GoodsDesc_EN>
+    <GoodsDesc_FCN>体验卡：使用后可免费使用皮肤3天，如果已拥有该皮肤，使用后可获得15魂石</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>43406002 </ResID>
+    <GoodsName_SCN>机械危机</GoodsName_SCN>
+    <GoodsName_EN>Power Surging</GoodsName_EN>
+    <GoodsName_FCN>机械危机</GoodsName_FCN>
+    <GoodsDesc_SCN>体验卡：使用后可免费使用皮肤3天，如果已拥有该皮肤，使用后可获得15魂石</GoodsDesc_SCN>
+    <GoodsDesc_EN>Trial Card: Unlocks the skin for 3 day. Grants 15 Gems if the skin is already owned.</GoodsDesc_EN>
+    <GoodsDesc_FCN>体验卡：使用后可免费使用皮肤3天，如果已拥有该皮肤，使用后可获得15魂石</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>43407002 </ResID>
+    <GoodsName_SCN>禁军之影</GoodsName_SCN>
+    <GoodsName_EN>Imperial Blade</GoodsName_EN>
+    <GoodsName_FCN>禁军之影</GoodsName_FCN>
+    <GoodsDesc_SCN>体验卡：使用后可免费使用皮肤3天，如果已拥有该皮肤，使用后可获得15魂石</GoodsDesc_SCN>
+    <GoodsDesc_EN>Trial Card: Unlocks the skin for 3 day. Grants 15 Gems if the skin is already owned.</GoodsDesc_EN>
+    <GoodsDesc_FCN>体验卡：使用后可免费使用皮肤3天，如果已拥有该皮肤，使用后可获得15魂石</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>43408002 </ResID>
+    <GoodsName_SCN>功夫大师</GoodsName_SCN>
+    <GoodsName_EN>Kung Fu Panda</GoodsName_EN>
+    <GoodsName_FCN>功夫大师</GoodsName_FCN>
+    <GoodsDesc_SCN>体验卡：使用后可免费使用皮肤3天，如果已拥有该皮肤，使用后可获得15魂石</GoodsDesc_SCN>
+    <GoodsDesc_EN>Trial Card: Unlocks the skin for 3 day. Grants 15 Gems if the skin is already owned.</GoodsDesc_EN>
+    <GoodsDesc_FCN>体验卡：使用后可免费使用皮肤3天，如果已拥有该皮肤，使用后可获得15魂石</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>43409002 </ResID>
+    <GoodsName_SCN>收割之镰</GoodsName_SCN>
+    <GoodsName_EN>Reaper of Souls</GoodsName_EN>
+    <GoodsName_FCN>收割之镰</GoodsName_FCN>
+    <GoodsDesc_SCN>体验卡：使用后可免费使用皮肤3天，如果已拥有该皮肤，使用后可获得15魂石</GoodsDesc_SCN>
+    <GoodsDesc_EN>Trial Card: Unlocks the skin for 3 day. Grants 15 Gems if the skin is already owned.</GoodsDesc_EN>
+    <GoodsDesc_FCN>体验卡：使用后可免费使用皮肤3天，如果已拥有该皮肤，使用后可获得15魂石</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>43410002 </ResID>
+    <GoodsName_SCN>战场女武神</GoodsName_SCN>
+    <GoodsName_EN>Task Force</GoodsName_EN>
+    <GoodsName_FCN>战场女武神</GoodsName_FCN>
+    <GoodsDesc_SCN>体验卡：使用后可免费使用皮肤3天，如果已拥有该皮肤，使用后可获得15魂石</GoodsDesc_SCN>
+    <GoodsDesc_EN>Trial Card: Unlocks the skin for 3 day. Grants 15 Gems if the skin is already owned.</GoodsDesc_EN>
+    <GoodsDesc_FCN>体验卡：使用后可免费使用皮肤3天，如果已拥有该皮肤，使用后可获得15魂石</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>43413002 </ResID>
+    <GoodsName_SCN>学院甜心</GoodsName_SCN>
+    <GoodsName_EN>School Day</GoodsName_EN>
+    <GoodsName_FCN>学院甜心</GoodsName_FCN>
+    <GoodsDesc_SCN>体验卡：使用后可免费使用皮肤3天，如果已拥有该皮肤，使用后可获得15魂石</GoodsDesc_SCN>
+    <GoodsDesc_EN>Trial Card: Unlocks the skin for 3 day. Grants 15 Gems if the skin is already owned.</GoodsDesc_EN>
+    <GoodsDesc_FCN>体验卡：使用后可免费使用皮肤3天，如果已拥有该皮肤，使用后可获得15魂石</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>43414002 </ResID>
+    <GoodsName_SCN>皇家猎手</GoodsName_SCN>
+    <GoodsName_EN>Royal Hunter</GoodsName_EN>
+    <GoodsName_FCN>皇家猎手</GoodsName_FCN>
+    <GoodsDesc_SCN>体验卡：使用后可免费使用皮肤3天，如果已拥有该皮肤，使用后可获得15魂石</GoodsDesc_SCN>
+    <GoodsDesc_EN>Trial Card: Unlocks the skin for 3 day. Grants 15 Gems if the skin is already owned.</GoodsDesc_EN>
+    <GoodsDesc_FCN>体验卡：使用后可免费使用皮肤3天，如果已拥有该皮肤，使用后可获得15魂石</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>43416002 </ResID>
+    <GoodsName_SCN>闭月之姿</GoodsName_SCN>
+    <GoodsName_EN>Charming Crush</GoodsName_EN>
+    <GoodsName_FCN>闭月之姿</GoodsName_FCN>
+    <GoodsDesc_SCN>体验卡：使用后可免费使用皮肤3天，如果已拥有该皮肤，使用后可获得15魂石</GoodsDesc_SCN>
+    <GoodsDesc_EN>Trial Card: Unlocks the skin for 3 day. Grants 15 Gems if the skin is already owned.</GoodsDesc_EN>
+    <GoodsDesc_FCN>体验卡：使用后可免费使用皮肤3天，如果已拥有该皮肤，使用后可获得15魂石</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>43417002 </ResID>
+    <GoodsName_SCN>海盗船长</GoodsName_SCN>
+    <GoodsName_EN>Pirate Captain</GoodsName_EN>
+    <GoodsName_FCN>海盗船长</GoodsName_FCN>
+    <GoodsDesc_SCN>体验卡：使用后可免费使用皮肤3天，如果已拥有该皮肤，使用后可获得15魂石</GoodsDesc_SCN>
+    <GoodsDesc_EN>Trial Card: Unlocks the skin for 3 day. Grants 15 Gems if the skin is already owned.</GoodsDesc_EN>
+    <GoodsDesc_FCN>体验卡：使用后可免费使用皮肤3天，如果已拥有该皮肤，使用后可获得15魂石</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>47202002 </ResID>
+    <GoodsName_SCN>金色曼陀罗</GoodsName_SCN>
+    <GoodsName_EN>Golden Datura</GoodsName_EN>
+    <GoodsName_FCN>金色曼陀罗</GoodsName_FCN>
+    <GoodsDesc_SCN>体验卡：使用后可免费使用皮肤7天，如果已拥有该皮肤，使用后可获得35魂石</GoodsDesc_SCN>
+    <GoodsDesc_EN>Trial Card: Unlocks the skin for 7 day. Grants 35 Gems if the skin is already owned.</GoodsDesc_EN>
+    <GoodsDesc_FCN>体验卡：使用后可免费使用皮肤7天，如果已拥有该皮肤，使用后可获得35魂石</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>47301002 </ResID>
+    <GoodsName_SCN>恶魔之力</GoodsName_SCN>
+    <GoodsName_EN>Demon Hunter</GoodsName_EN>
+    <GoodsName_FCN>恶魔之力</GoodsName_FCN>
+    <GoodsDesc_SCN>体验卡：使用后可免费使用皮肤7天，如果已拥有该皮肤，使用后可获得35魂石</GoodsDesc_SCN>
+    <GoodsDesc_EN>Trial Card: Unlocks the skin for 7 day. Grants 35 Gems if the skin is already owned.</GoodsDesc_EN>
+    <GoodsDesc_FCN>体验卡：使用后可免费使用皮肤7天，如果已拥有该皮肤，使用后可获得35魂石</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>47404002 </ResID>
+    <GoodsName_SCN>密林侠盗</GoodsName_SCN>
+    <GoodsName_EN>密林侠盗</GoodsName_EN>
+    <GoodsName_FCN>密林侠盗</GoodsName_FCN>
+    <GoodsDesc_SCN>体验卡：使用后可免费使用皮肤7天，如果已拥有该皮肤，使用后可获得35魂石</GoodsDesc_SCN>
+    <GoodsDesc_EN>Trial Card: Unlocks the skin for 7 day. Grants 35 Gems if the skin is already owned.</GoodsDesc_EN>
+    <GoodsDesc_FCN>体验卡：使用后可免费使用皮肤7天，如果已拥有该皮肤，使用后可获得35魂石</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+<ResGoodsDisplayDesc version="1">
+    <ResID>47410002 </ResID>
+    <GoodsName_SCN>战场女武神</GoodsName_SCN>
+    <GoodsName_EN>Task Force</GoodsName_EN>
+    <GoodsName_FCN>战场女武神</GoodsName_FCN>
+    <GoodsDesc_SCN>体验卡：使用后可免费使用皮肤7天，如果已拥有该皮肤，使用后可获得35魂石</GoodsDesc_SCN>
+    <GoodsDesc_EN>Trial Card: Unlocks the skin for 7 day. Grants 35 Gems if the skin is already owned.</GoodsDesc_EN>
+    <GoodsDesc_FCN>体验卡：使用后可免费使用皮肤7天，如果已拥有该皮肤，使用后可获得35魂石</GoodsDesc_FCN>
+</ResGoodsDisplayDesc>
+</ResGoodsDisplayDesc_Tab>

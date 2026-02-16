@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<ResHallBox_Tab>
+<TResHeadAll version="5">
+    <resHead type="TResHead">
+        <Magic>1397052237 </Magic>
+        <Version>6 </Version>
+        <Unit>844 </Unit>
+        <Count>2 </Count>
+        <MetalibHash>531d5b4a397ad5b3c0fbfb5cc8059e55</MetalibHash>
+        <ResVersion>0 </ResVersion>
+        <CreateTime>2023-04-19 20:42:38</CreateTime>
+        <ResEncording>UTF-8</ResEncording>
+        <ContentHash>b3666d3d6905db5d34cde43c0c97803b</ContentHash>
+    </resHead>
+    <resHeadExt type="TResHeadExt">
+        <DataOffset>136 </DataOffset>
+    </resHeadExt>
+</TResHeadAll>
+<ResHallBox version="1">
+    <ResID>1 </ResID>
+    <BoxName_SCN></BoxName_SCN>
+    <BoxName_FCN></BoxName_FCN>
+    <BoxName_EN></BoxName_EN>
+    <Layer>1 </Layer>
+    <MaxPoint>10 </MaxPoint>
+    <CoolDown>0 </CoolDown>
+    <HeroRune>10 </HeroRune>
+    <RaceRune>10 </RaceRune>
+    <Diamond>20 </Diamond>
+    <Gold>100 </Gold>
+    <RandomItemID>31100002 </RandomItemID>
+    <RandomItemNum>1 </RandomItemNum>
+    <RandomItemRate>10 </RandomItemRate>
+    <RandomItemMaxCount>7 </RandomItemMaxCount>
+    <SkinItems>0 0 0 0 0 0 </SkinItems>
+    <RandomRuneLevel>2 </RandomRuneLevel>
+</ResHallBox>
+<ResHallBox version="1">
+    <ResID>2 </ResID>
+    <BoxName_SCN></BoxName_SCN>
+    <BoxName_FCN></BoxName_FCN>
+    <BoxName_EN></BoxName_EN>
+    <Layer>2 </Layer>
+    <MaxPoint>0 </MaxPoint>
+    <CoolDown>14400 </CoolDown>
+    <HeroRune>2 </HeroRune>
+    <RaceRune>2 </RaceRune>
+    <Diamond>0 </Diamond>
+    <Gold>0 </Gold>
+    <RandomItemID>4 </RandomItemID>
+    <RandomItemNum>10 </RandomItemNum>
+    <RandomItemRate>10 </RandomItemRate>
+    <RandomItemMaxCount>3 </RandomItemMaxCount>
+    <SkinItems>0 0 0 0 0 0 </SkinItems>
+    <RandomRuneLevel>0 </RandomRuneLevel>
+</ResHallBox>
+</ResHallBox_Tab>

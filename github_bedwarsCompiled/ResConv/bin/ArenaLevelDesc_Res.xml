@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<ResArenaLevelDesc_Tab>
+<TResHeadAll version="5">
+    <resHead type="TResHead">
+        <Magic>1397052237 </Magic>
+        <Version>6 </Version>
+        <Unit>9 </Unit>
+        <Count>4 </Count>
+        <MetalibHash>531d5b4a397ad5b3c0fbfb5cc8059e55</MetalibHash>
+        <ResVersion>0 </ResVersion>
+        <CreateTime>2023-04-19 20:42:34</CreateTime>
+        <ResEncording>UTF-8</ResEncording>
+        <ContentHash>23dc67309cb55ebc84b419ae1ff8f713</ContentHash>
+    </resHead>
+    <resHeadExt type="TResHeadExt">
+        <DataOffset>136 </DataOffset>
+    </resHeadExt>
+</TResHeadAll>
+<ResArenaLevelDesc version="1">
+    <Level>1 </Level>
+    <MaxExp>500 </MaxExp>
+    <TechTreeType>1 </TechTreeType>
+</ResArenaLevelDesc>
+<ResArenaLevelDesc version="1">
+    <Level>2 </Level>
+    <MaxExp>750 </MaxExp>
+    <TechTreeType>2 </TechTreeType>
+</ResArenaLevelDesc>
+<ResArenaLevelDesc version="1">
+    <Level>3 </Level>
+    <MaxExp>1000 </MaxExp>
+    <TechTreeType>3 </TechTreeType>
+</ResArenaLevelDesc>
+<ResArenaLevelDesc version="1">
+    <Level>4 </Level>
+    <MaxExp>1250 </MaxExp>
+    <TechTreeType>4 </TechTreeType>
+</ResArenaLevelDesc>
+</ResArenaLevelDesc_Tab>

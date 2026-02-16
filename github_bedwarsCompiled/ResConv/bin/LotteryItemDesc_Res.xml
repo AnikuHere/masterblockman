@@ -1,0 +1,1699 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<ResLotteryItemDesc_Tab>
+<TResHeadAll version="5">
+    <resHead type="TResHead">
+        <Magic>1397052237 </Magic>
+        <Version>6 </Version>
+        <Unit>14 </Unit>
+        <Count>240 </Count>
+        <MetalibHash>531d5b4a397ad5b3c0fbfb5cc8059e55</MetalibHash>
+        <ResVersion>0 </ResVersion>
+        <CreateTime>2023-04-19 20:42:37</CreateTime>
+        <ResEncording>UTF-8</ResEncording>
+        <ContentHash>1c9fe80510a869f7f92bc4d3bb99e0ea</ContentHash>
+    </resHead>
+    <resHeadExt type="TResHeadExt">
+        <DataOffset>136 </DataOffset>
+    </resHeadExt>
+</TResHeadAll>
+<ResLotteryItemDesc version="1">
+    <ID>500031 </ID>
+    <ItemID>3 </ItemID>
+    <ItemCnt>68 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>500032 </ID>
+    <ItemID>3 </ItemID>
+    <ItemCnt>88 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>500033 </ID>
+    <ItemID>3 </ItemID>
+    <ItemCnt>108 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>500034 </ID>
+    <ItemID>3 </ItemID>
+    <ItemCnt>128 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>500041 </ID>
+    <ItemID>4 </ItemID>
+    <ItemCnt>48 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>500042 </ID>
+    <ItemID>4 </ItemID>
+    <ItemCnt>58 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>500043 </ID>
+    <ItemID>4 </ItemID>
+    <ItemCnt>68 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>500044 </ID>
+    <ItemID>4 </ItemID>
+    <ItemCnt>88 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>500081 </ID>
+    <ItemID>9 </ItemID>
+    <ItemCnt>48 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>500082 </ID>
+    <ItemID>9 </ItemID>
+    <ItemCnt>58 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>500083 </ID>
+    <ItemID>9 </ItemID>
+    <ItemCnt>68 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>500084 </ID>
+    <ItemID>9 </ItemID>
+    <ItemCnt>88 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>500091 </ID>
+    <ItemID>10 </ItemID>
+    <ItemCnt>48 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>500092 </ID>
+    <ItemID>10 </ItemID>
+    <ItemCnt>58 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>500093 </ID>
+    <ItemID>10 </ItemID>
+    <ItemCnt>68 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>500094 </ID>
+    <ItemID>10 </ItemID>
+    <ItemCnt>88 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>520019 </ID>
+    <ItemID>31070001 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>520020 </ID>
+    <ItemID>31070002 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>520021 </ID>
+    <ItemID>31070003 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>520022 </ID>
+    <ItemID>31070004 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>520023 </ID>
+    <ItemID>31070005 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>520024 </ID>
+    <ItemID>31070006 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>520025 </ID>
+    <ItemID>31070007 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>520026 </ID>
+    <ItemID>31070008 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>520027 </ID>
+    <ItemID>31080001 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>520028 </ID>
+    <ItemID>31080002 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>520029 </ID>
+    <ItemID>31080003 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>520030 </ID>
+    <ItemID>31080004 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>520031 </ID>
+    <ItemID>31080005 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>520032 </ID>
+    <ItemID>31080006 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>520033 </ID>
+    <ItemID>31080007 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>520034 </ID>
+    <ItemID>31080008 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>530001 </ID>
+    <ItemID>31100001 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>530002 </ID>
+    <ItemID>31100002 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>530003 </ID>
+    <ItemID>31100003 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>1 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>530004 </ID>
+    <ItemID>31100004 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>1 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>530005 </ID>
+    <ItemID>31100005 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>1 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>530006 </ID>
+    <ItemID>31100006 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>1 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>530015 </ID>
+    <ItemID>31100005 </ItemID>
+    <ItemCnt>2 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>1 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>530016 </ID>
+    <ItemID>31100006 </ItemID>
+    <ItemCnt>2 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>1 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>560003 </ID>
+    <ItemID>31151003 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>560004 </ID>
+    <ItemID>31151101 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>560005 </ID>
+    <ItemID>31151102 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>560020 </ID>
+    <ItemID>31151413 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>560027 </ID>
+    <ItemID>41202002 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>560029 </ID>
+    <ItemID>41403002 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>560035 </ID>
+    <ItemID>41413002 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>560040 </ID>
+    <ItemID>31153003 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>560041 </ID>
+    <ItemID>31153101 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>560042 </ID>
+    <ItemID>31153102 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>560043 </ID>
+    <ItemID>31153201 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>560044 </ID>
+    <ItemID>31153202 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>560047 </ID>
+    <ItemID>31153302 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>560050 </ID>
+    <ItemID>31153403 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>560059 </ID>
+    <ItemID>31153413 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>560067 </ID>
+    <ItemID>43202002 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>560070 </ID>
+    <ItemID>43403002 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>560072 </ID>
+    <ItemID>43301002 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>560073 </ID>
+    <ItemID>43408002 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>560077 </ID>
+    <ItemID>43413002 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>610001 </ID>
+    <ItemID>10001 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>610002 </ID>
+    <ItemID>10002 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>610003 </ID>
+    <ItemID>10003 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>610004 </ID>
+    <ItemID>10004 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>610005 </ID>
+    <ItemID>10005 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>1 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>610011 </ID>
+    <ItemID>10011 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>610012 </ID>
+    <ItemID>10012 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>610013 </ID>
+    <ItemID>10013 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>610014 </ID>
+    <ItemID>10014 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>610015 </ID>
+    <ItemID>10015 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>1 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>610021 </ID>
+    <ItemID>10021 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>610022 </ID>
+    <ItemID>10022 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>610023 </ID>
+    <ItemID>10023 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>610024 </ID>
+    <ItemID>10024 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>610025 </ID>
+    <ItemID>10025 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>1 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>620001 </ID>
+    <ItemID>20001 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>620002 </ID>
+    <ItemID>20002 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>620003 </ID>
+    <ItemID>20003 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>620004 </ID>
+    <ItemID>20004 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>620005 </ID>
+    <ItemID>20005 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>1 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>620011 </ID>
+    <ItemID>20011 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>620012 </ID>
+    <ItemID>20012 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>620013 </ID>
+    <ItemID>20013 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>620014 </ID>
+    <ItemID>20014 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>620015 </ID>
+    <ItemID>20015 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>1 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>630001 </ID>
+    <ItemID>30001 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>630002 </ID>
+    <ItemID>30002 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>630003 </ID>
+    <ItemID>30003 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>630004 </ID>
+    <ItemID>30004 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>630005 </ID>
+    <ItemID>30005 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>1 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>630011 </ID>
+    <ItemID>30011 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>630012 </ID>
+    <ItemID>30012 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>630013 </ID>
+    <ItemID>30013 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>630014 </ID>
+    <ItemID>30014 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>630015 </ID>
+    <ItemID>30015 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>1 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>640001 </ID>
+    <ItemID>40001 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>640002 </ID>
+    <ItemID>40002 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>640003 </ID>
+    <ItemID>40003 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>640004 </ID>
+    <ItemID>40004 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>640005 </ID>
+    <ItemID>40005 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>1 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>640011 </ID>
+    <ItemID>40011 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>640012 </ID>
+    <ItemID>40012 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>640013 </ID>
+    <ItemID>40013 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>640014 </ID>
+    <ItemID>40014 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>640015 </ID>
+    <ItemID>40015 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>1 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>640021 </ID>
+    <ItemID>40021 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>640022 </ID>
+    <ItemID>40022 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>640023 </ID>
+    <ItemID>40023 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>640024 </ID>
+    <ItemID>40024 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>640025 </ID>
+    <ItemID>40025 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>1 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>640031 </ID>
+    <ItemID>40031 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>640032 </ID>
+    <ItemID>40032 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>640033 </ID>
+    <ItemID>40033 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>640034 </ID>
+    <ItemID>40034 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>640035 </ID>
+    <ItemID>40035 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>1 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>640041 </ID>
+    <ItemID>40041 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>640042 </ID>
+    <ItemID>40042 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>640043 </ID>
+    <ItemID>40043 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>640044 </ID>
+    <ItemID>40044 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>640045 </ID>
+    <ItemID>40045 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>1 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>640051 </ID>
+    <ItemID>40051 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>640052 </ID>
+    <ItemID>40052 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>640053 </ID>
+    <ItemID>40053 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>640054 </ID>
+    <ItemID>40054 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>640055 </ID>
+    <ItemID>40055 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>1 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>640061 </ID>
+    <ItemID>40061 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>640062 </ID>
+    <ItemID>40062 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>640063 </ID>
+    <ItemID>40063 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>640064 </ID>
+    <ItemID>40064 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>640065 </ID>
+    <ItemID>40065 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>1 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>640071 </ID>
+    <ItemID>40071 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>640072 </ID>
+    <ItemID>40072 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>640073 </ID>
+    <ItemID>40073 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>640074 </ID>
+    <ItemID>40074 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>640075 </ID>
+    <ItemID>40075 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>1 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>640081 </ID>
+    <ItemID>40081 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>640082 </ID>
+    <ItemID>40082 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>640083 </ID>
+    <ItemID>40083 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>640084 </ID>
+    <ItemID>40084 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>640085 </ID>
+    <ItemID>40085 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>1 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>710001 </ID>
+    <ItemID>10001 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>710002 </ID>
+    <ItemID>10002 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>710003 </ID>
+    <ItemID>10003 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>710004 </ID>
+    <ItemID>10004 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>710005 </ID>
+    <ItemID>10005 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>1 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>720001 </ID>
+    <ItemID>20001 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>720002 </ID>
+    <ItemID>20002 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>720003 </ID>
+    <ItemID>20003 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>720004 </ID>
+    <ItemID>20004 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>720005 </ID>
+    <ItemID>20005 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>1 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>730001 </ID>
+    <ItemID>30001 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>730002 </ID>
+    <ItemID>30002 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>730003 </ID>
+    <ItemID>30003 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>730004 </ID>
+    <ItemID>30004 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>730005 </ID>
+    <ItemID>30005 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>1 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>730011 </ID>
+    <ItemID>30011 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>730012 </ID>
+    <ItemID>30012 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>730013 </ID>
+    <ItemID>30013 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>730014 </ID>
+    <ItemID>30014 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>730015 </ID>
+    <ItemID>30015 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>1 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>740001 </ID>
+    <ItemID>40001 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>740002 </ID>
+    <ItemID>40002 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>740003 </ID>
+    <ItemID>40003 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>740004 </ID>
+    <ItemID>40004 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>740005 </ID>
+    <ItemID>40005 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>1 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>740011 </ID>
+    <ItemID>40011 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>740012 </ID>
+    <ItemID>40012 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>740013 </ID>
+    <ItemID>40013 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>740014 </ID>
+    <ItemID>40014 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>740015 </ID>
+    <ItemID>40015 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>1 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>740021 </ID>
+    <ItemID>40021 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>740022 </ID>
+    <ItemID>40022 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>740023 </ID>
+    <ItemID>40023 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>740024 </ID>
+    <ItemID>40024 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>740025 </ID>
+    <ItemID>40025 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>1 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>740031 </ID>
+    <ItemID>40031 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>740032 </ID>
+    <ItemID>40032 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>740033 </ID>
+    <ItemID>40033 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>740034 </ID>
+    <ItemID>40034 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>740035 </ID>
+    <ItemID>40035 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>1 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>740041 </ID>
+    <ItemID>40041 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>740042 </ID>
+    <ItemID>40042 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>740043 </ID>
+    <ItemID>40043 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>740044 </ID>
+    <ItemID>40044 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>740045 </ID>
+    <ItemID>40045 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>1 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>740051 </ID>
+    <ItemID>40051 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>740052 </ID>
+    <ItemID>40052 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>740053 </ID>
+    <ItemID>40053 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>740054 </ID>
+    <ItemID>40054 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>740055 </ID>
+    <ItemID>40055 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>1 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>740061 </ID>
+    <ItemID>40061 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>740062 </ID>
+    <ItemID>40062 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>740063 </ID>
+    <ItemID>40063 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>740064 </ID>
+    <ItemID>40064 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>740065 </ID>
+    <ItemID>40065 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>1 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>740071 </ID>
+    <ItemID>40071 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>740072 </ID>
+    <ItemID>40072 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>740073 </ID>
+    <ItemID>40073 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>740074 </ID>
+    <ItemID>40074 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>740075 </ID>
+    <ItemID>40075 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>1 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>740081 </ID>
+    <ItemID>40081 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>740082 </ID>
+    <ItemID>40082 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>740083 </ID>
+    <ItemID>40083 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>740084 </ID>
+    <ItemID>40084 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>740085 </ID>
+    <ItemID>40085 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>1 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>740091 </ID>
+    <ItemID>40091 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>740092 </ID>
+    <ItemID>40092 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>740093 </ID>
+    <ItemID>40093 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>740094 </ID>
+    <ItemID>40094 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>740095 </ID>
+    <ItemID>40095 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>1 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>740101 </ID>
+    <ItemID>40101 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>740102 </ID>
+    <ItemID>40102 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>740103 </ID>
+    <ItemID>40103 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>740104 </ID>
+    <ItemID>40104 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>740105 </ID>
+    <ItemID>40105 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>1 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>740111 </ID>
+    <ItemID>40111 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>740112 </ID>
+    <ItemID>40112 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>740113 </ID>
+    <ItemID>40113 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>740114 </ID>
+    <ItemID>40114 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>740115 </ID>
+    <ItemID>40115 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>1 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>740121 </ID>
+    <ItemID>40121 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>740122 </ID>
+    <ItemID>40122 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>740123 </ID>
+    <ItemID>40123 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>740124 </ID>
+    <ItemID>40124 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>740125 </ID>
+    <ItemID>40125 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>1 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>740131 </ID>
+    <ItemID>40131 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>740132 </ID>
+    <ItemID>40132 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>740133 </ID>
+    <ItemID>40133 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>740134 </ID>
+    <ItemID>40134 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>740135 </ID>
+    <ItemID>40135 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>1 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>740141 </ID>
+    <ItemID>40141 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>740142 </ID>
+    <ItemID>40142 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>740143 </ID>
+    <ItemID>40143 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>740144 </ID>
+    <ItemID>40144 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>740145 </ID>
+    <ItemID>40145 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>1 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>740151 </ID>
+    <ItemID>40151 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>740152 </ID>
+    <ItemID>40152 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>740153 </ID>
+    <ItemID>40153 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>740154 </ID>
+    <ItemID>40154 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>0 </Broadcast>
+</ResLotteryItemDesc>
+<ResLotteryItemDesc version="1">
+    <ID>740155 </ID>
+    <ItemID>40155 </ItemID>
+    <ItemCnt>1 </ItemCnt>
+    <Shop>1 </Shop>
+    <Broadcast>1 </Broadcast>
+</ResLotteryItemDesc>
+</ResLotteryItemDesc_Tab>

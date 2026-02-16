@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<ResBattleMsgRspDesc_Tab>
+<TResHeadAll version="5">
+    <resHead type="TResHead">
+        <Magic>1397052237 </Magic>
+        <Version>6 </Version>
+        <Unit>524 </Unit>
+        <Count>39 </Count>
+        <MetalibHash>531d5b4a397ad5b3c0fbfb5cc8059e55</MetalibHash>
+        <ResVersion>0 </ResVersion>
+        <CreateTime>2023-04-19 20:42:35</CreateTime>
+        <ResEncording>UTF-8</ResEncording>
+        <ContentHash>846ee5ec143515f19e573b509ce3fbe6</ContentHash>
+    </resHead>
+    <resHeadExt type="TResHeadExt">
+        <DataOffset>136 </DataOffset>
+    </resHeadExt>
+</TResHeadAll>
+<ResBattleMsgRspDesc version="1">
+    <ID>1 </ID>
+    <Type>1 </Type>
+    <DeFaultIndex>0 </DeFaultIndex>
+    <Desc_SCN>集合蹲人</Desc_SCN>
+    <Desc_EN>Lets hide in the bushes.</Desc_EN>
+    <Desc_FCN>集合蹲人</Desc_FCN>
+    <Path>audio/system/message/caocongdunren</Path>
+</ResBattleMsgRspDesc>
+<ResBattleMsgRspDesc version="1">
+    <ID>2 </ID>
+    <Type>1 </Type>
+    <DeFaultIndex>1 </DeFaultIndex>
+    <Desc_SCN>集合抓人</Desc_SCN>
+    <Desc_EN>Gather and get them.</Desc_EN>
+    <Desc_FCN>集合抓人</Desc_FCN>
+    <Path>audio/system/message/jihezhuaren</Path>
+</ResBattleMsgRspDesc>
+<ResBattleMsgRspDesc version="1">
+    <ID>3 </ID>
+    <Type>1 </Type>
+    <DeFaultIndex>0 </DeFaultIndex>
+    <Desc_SCN>牵制敌方，我去偷家</Desc_SCN>
+    <Desc_EN>Contain the enemy while I take their base.</Desc_EN>
+    <Desc_FCN>牵制敌方，我去偷家</Desc_FCN>
+    <Path>audio/system/message/qianzhidifang</Path>
+</ResBattleMsgRspDesc>
+<ResBattleMsgRspDesc version="1">
+    <ID>4 </ID>
+    <Type>1 </Type>
+    <DeFaultIndex>0 </DeFaultIndex>
+    <Desc_SCN>进攻敌人分矿</Desc_SCN>
+    <Desc_EN>Attack enemy mine.</Desc_EN>
+    <Desc_FCN>进攻敌人分矿</Desc_FCN>
+    <Path>audio/system/message/jingongfenkuang</Path>
+</ResBattleMsgRspDesc>
+<ResBattleMsgRspDesc version="1">
+    <ID>5 </ID>
+    <Type>1 </Type>
+    <DeFaultIndex>0 </DeFaultIndex>
+    <Desc_SCN>优先拆塔</Desc_SCN>
+    <Desc_EN>Destroy the turret first.</Desc_EN>
+    <Desc_FCN>优先拆塔</Desc_FCN>
+    <Path>audio/system/message/youxianchaita</Path>
+</ResBattleMsgRspDesc>
+<ResBattleMsgRspDesc version="1">
+    <ID>6 </ID>
+    <Type>1 </Type>
+    <DeFaultIndex>0 </DeFaultIndex>
+    <Desc_SCN>优先攻击敌方英雄</Desc_SCN>
+    <Desc_EN>Attack the Heroes first.</Desc_EN>
+    <Desc_FCN>优先攻击敌方英雄</Desc_FCN>
+    <Path>audio/system/message/youxianyingxiong</Path>
+</ResBattleMsgRspDesc>
+<ResBattleMsgRspDesc version="1">
+    <ID>7 </ID>
+    <Type>1 </Type>
+    <DeFaultIndex>0 </DeFaultIndex>
+    <Desc_SCN>优先攻击敌方小兵</Desc_SCN>
+    <Desc_EN>Attack their soldiers first.</Desc_EN>
+    <Desc_FCN>优先攻击敌方小兵</Desc_FCN>
+    <Path>audio/system/message/youxianxiaobing</Path>
+</ResBattleMsgRspDesc>
+<ResBattleMsgRspDesc version="1">
+    <ID>8 </ID>
+    <Type>1 </Type>
+    <DeFaultIndex>0 </DeFaultIndex>
+    <Desc_SCN>进攻红点野怪</Desc_SCN>
+    <Desc_EN>Attack the red wild monster.</Desc_EN>
+    <Desc_FCN>进攻红点野怪</Desc_FCN>
+    <Path>audio/system/message/jingonghongdian</Path>
+</ResBattleMsgRspDesc>
+<ResBattleMsgRspDesc version="1">
+    <ID>9 </ID>
+    <Type>1 </Type>
+    <DeFaultIndex>0 </DeFaultIndex>
+    <Desc_SCN>正在前往支援</Desc_SCN>
+    <Desc_EN>Coming to support.</Desc_EN>
+    <Desc_FCN>正在前往支援</Desc_FCN>
+    <Path>audio/system/message/zhengzaizhiyuan</Path>
+</ResBattleMsgRspDesc>
+<ResBattleMsgRspDesc version="1">
+    <ID>10 </ID>
+    <Type>1 </Type>
+    <DeFaultIndex>0 </DeFaultIndex>
+    <Desc_SCN>注意侦查视野</Desc_SCN>
+    <Desc_EN>Pay attention to map sight.</Desc_EN>
+    <Desc_FCN>注意侦查视野</Desc_FCN>
+    <Path>audio/system/message/zhuyishiye</Path>
+</ResBattleMsgRspDesc>
+<ResBattleMsgRspDesc version="1">
+    <ID>11 </ID>
+    <Type>1 </Type>
+    <DeFaultIndex>0 </DeFaultIndex>
+    <Desc_SCN>进攻圣甲虫</Desc_SCN>
+    <Desc_EN>Attack the Holy Scarab.</Desc_EN>
+    <Desc_FCN>进攻圣甲虫</Desc_FCN>
+    <Path></Path>
+</ResBattleMsgRspDesc>
+<ResBattleMsgRspDesc version="1">
+    <ID>12 </ID>
+    <Type>1 </Type>
+    <DeFaultIndex>0 </DeFaultIndex>
+    <Desc_SCN>进攻沙漠之王</Desc_SCN>
+    <Desc_EN>Attack the Desert King.</Desc_EN>
+    <Desc_FCN>进攻沙漠之王</Desc_FCN>
+    <Path></Path>
+</ResBattleMsgRspDesc>
+<ResBattleMsgRspDesc version="1">
+    <ID>13 </ID>
+    <Type>1 </Type>
+    <DeFaultIndex>0 </DeFaultIndex>
+    <Desc_SCN>治疗准备好了</Desc_SCN>
+    <Desc_EN>Healing is ready.</Desc_EN>
+    <Desc_FCN>治疗准备好了</Desc_FCN>
+    <Path>audio/system/message/zhiliaozhunbei</Path>
+</ResBattleMsgRspDesc>
+<ResBattleMsgRspDesc version="1">
+    <ID>14 </ID>
+    <Type>1 </Type>
+    <DeFaultIndex>0 </DeFaultIndex>
+    <Desc_SCN>大招准备好了</Desc_SCN>
+    <Desc_EN>Ultimate is ready.</Desc_EN>
+    <Desc_FCN>大招准备好了</Desc_FCN>
+    <Path>audio/system/message/dazhaozhunbei</Path>
+</ResBattleMsgRspDesc>
+<ResBattleMsgRspDesc version="1">
+    <ID>15 </ID>
+    <Type>2 </Type>
+    <DeFaultIndex>0 </DeFaultIndex>
+    <Desc_SCN>敌人消失，小心</Desc_SCN>
+    <Desc_EN>Enemy disappeared, be careful.</Desc_EN>
+    <Desc_FCN>敌人消失，小心</Desc_FCN>
+    <Path>audio/system/message/direnxiaoshi</Path>
+</ResBattleMsgRspDesc>
+<ResBattleMsgRspDesc version="1">
+    <ID>16 </ID>
+    <Type>2 </Type>
+    <DeFaultIndex>0 </DeFaultIndex>
+    <Desc_SCN>回防基地</Desc_SCN>
+    <Desc_EN>Help needed at our base.</Desc_EN>
+    <Desc_FCN>回防基地</Desc_FCN>
+    <Path>audio/system/message/huifangjidi</Path>
+</ResBattleMsgRspDesc>
+<ResBattleMsgRspDesc version="1">
+    <ID>17 </ID>
+    <Type>2 </Type>
+    <DeFaultIndex>5 </DeFaultIndex>
+    <Desc_SCN>请求支援</Desc_SCN>
+    <Desc_EN>Need support.</Desc_EN>
+    <Desc_FCN>请求支援</Desc_FCN>
+    <Path>audio/system/message/qingqiuzhiyuan</Path>
+</ResBattleMsgRspDesc>
+<ResBattleMsgRspDesc version="1">
+    <ID>18 </ID>
+    <Type>2 </Type>
+    <DeFaultIndex>3 </DeFaultIndex>
+    <Desc_SCN>优先发育，避免交战</Desc_SCN>
+    <Desc_EN>Focus on farming and avoid fights.</Desc_EN>
+    <Desc_FCN>优先发育，避免交战</Desc_FCN>
+    <Path>audio/system/message/youxianfayu</Path>
+</ResBattleMsgRspDesc>
+<ResBattleMsgRspDesc version="1">
+    <ID>19 </ID>
+    <Type>2 </Type>
+    <DeFaultIndex>6 </DeFaultIndex>
+    <Desc_SCN>保护我方分矿</Desc_SCN>
+    <Desc_EN>Protect our mines.</Desc_EN>
+    <Desc_FCN>保护我方分矿</Desc_FCN>
+    <Path>audio/system/message/baohufenkuang</Path>
+</ResBattleMsgRspDesc>
+<ResBattleMsgRspDesc version="1">
+    <ID>20 </ID>
+    <Type>2 </Type>
+    <DeFaultIndex>0 </DeFaultIndex>
+    <Desc_SCN>帮忙造塔，谢谢</Desc_SCN>
+    <Desc_EN>Please build a tower.</Desc_EN>
+    <Desc_FCN>帮忙造塔，谢谢</Desc_FCN>
+    <Path>audio/system/message/bangmangzaota</Path>
+</ResBattleMsgRspDesc>
+<ResBattleMsgRspDesc version="1">
+    <ID>21 </ID>
+    <Type>2 </Type>
+    <DeFaultIndex>0 </DeFaultIndex>
+    <Desc_SCN>注意队伍站位</Desc_SCN>
+    <Desc_EN>Pay attention to your position.</Desc_EN>
+    <Desc_FCN>注意队伍站位</Desc_FCN>
+    <Path>audio/system/message/zhuyizhanwei</Path>
+</ResBattleMsgRspDesc>
+<ResBattleMsgRspDesc version="1">
+    <ID>22 </ID>
+    <Type>2 </Type>
+    <DeFaultIndex>2 </DeFaultIndex>
+    <Desc_SCN>注意兵种搭配</Desc_SCN>
+    <Desc_EN>Pay attention to troop composition.</Desc_EN>
+    <Desc_FCN>注意兵种搭配</Desc_FCN>
+    <Path>audio/system/message/zhuyibingzhongdapei</Path>
+</ResBattleMsgRspDesc>
+<ResBattleMsgRspDesc version="1">
+    <ID>23 </ID>
+    <Type>2 </Type>
+    <DeFaultIndex>0 </DeFaultIndex>
+    <Desc_SCN>注意升级科技</Desc_SCN>
+    <Desc_EN>Remember to upgrade your tech.</Desc_EN>
+    <Desc_FCN>注意升级科技</Desc_FCN>
+    <Path>audio/system/message/zhuyikeji</Path>
+</ResBattleMsgRspDesc>
+<ResBattleMsgRspDesc version="1">
+    <ID>24 </ID>
+    <Type>2 </Type>
+    <DeFaultIndex>0 </DeFaultIndex>
+    <Desc_SCN>偷偷开矿</Desc_SCN>
+    <Desc_EN>Sneakily get the mine.</Desc_EN>
+    <Desc_FCN>偷偷开矿</Desc_FCN>
+    <Path>audio/system/message/toutoukaikuang</Path>
+</ResBattleMsgRspDesc>
+<ResBattleMsgRspDesc version="1">
+    <ID>25 </ID>
+    <Type>2 </Type>
+    <DeFaultIndex>0 </DeFaultIndex>
+    <Desc_SCN>小心草丛</Desc_SCN>
+    <Desc_EN>Be careful of the bushes.</Desc_EN>
+    <Desc_FCN>小心草丛</Desc_FCN>
+    <Path>audio/system/message/xiaoxincaocong</Path>
+</ResBattleMsgRspDesc>
+<ResBattleMsgRspDesc version="1">
+    <ID>26 </ID>
+    <Type>2 </Type>
+    <DeFaultIndex>4 </DeFaultIndex>
+    <Desc_SCN>状态不好，避免交战</Desc_SCN>
+    <Desc_EN>I&apos;m hurting, best to avoid fights.</Desc_EN>
+    <Desc_FCN>状态不好，避免交战</Desc_FCN>
+    <Path>audio/system/message/zhuangtaibuhao</Path>
+</ResBattleMsgRspDesc>
+<ResBattleMsgRspDesc version="1">
+    <ID>27 </ID>
+    <Type>2 </Type>
+    <DeFaultIndex>0 </DeFaultIndex>
+    <Desc_SCN>需要肉盾兵种</Desc_SCN>
+    <Desc_EN>Need Tank troops.</Desc_EN>
+    <Desc_FCN>需要肉盾兵种</Desc_FCN>
+    <Path></Path>
+</ResBattleMsgRspDesc>
+<ResBattleMsgRspDesc version="1">
+    <ID>28 </ID>
+    <Type>2 </Type>
+    <DeFaultIndex>0 </DeFaultIndex>
+    <Desc_SCN>需要控制兵种</Desc_SCN>
+    <Desc_EN>Need Control troops.</Desc_EN>
+    <Desc_FCN>需要控制兵种</Desc_FCN>
+    <Path></Path>
+</ResBattleMsgRspDesc>
+<ResBattleMsgRspDesc version="1">
+    <ID>29 </ID>
+    <Type>2 </Type>
+    <DeFaultIndex>0 </DeFaultIndex>
+    <Desc_SCN>需要治疗兵种</Desc_SCN>
+    <Desc_EN>Need Healer troops.</Desc_EN>
+    <Desc_FCN>需要治疗兵种</Desc_FCN>
+    <Path></Path>
+</ResBattleMsgRspDesc>
+<ResBattleMsgRspDesc version="1">
+    <ID>30 </ID>
+    <Type>2 </Type>
+    <DeFaultIndex>0 </DeFaultIndex>
+    <Desc_SCN>需要制空兵种</Desc_SCN>
+    <Desc_EN>Need Anti-Air troops.</Desc_EN>
+    <Desc_FCN>需要制空兵种</Desc_FCN>
+    <Path></Path>
+</ResBattleMsgRspDesc>
+<ResBattleMsgRspDesc version="1">
+    <ID>31 </ID>
+    <Type>2 </Type>
+    <DeFaultIndex>0 </DeFaultIndex>
+    <Desc_SCN>稳住，我们能赢</Desc_SCN>
+    <Desc_EN>Steady, we can win this!</Desc_EN>
+    <Desc_FCN>稳住，我们能赢</Desc_FCN>
+    <Path></Path>
+</ResBattleMsgRspDesc>
+<ResBattleMsgRspDesc version="1">
+    <ID>32 </ID>
+    <Type>2 </Type>
+    <DeFaultIndex>0 </DeFaultIndex>
+    <Desc_SCN>跟着我</Desc_SCN>
+    <Desc_EN>Follow me.</Desc_EN>
+    <Desc_FCN>跟着我</Desc_FCN>
+    <Path></Path>
+</ResBattleMsgRspDesc>
+<ResBattleMsgRspDesc version="1">
+    <ID>33 </ID>
+    <Type>3 </Type>
+    <DeFaultIndex>0 </DeFaultIndex>
+    <Desc_SCN>干得漂亮</Desc_SCN>
+    <Desc_EN>Great job!</Desc_EN>
+    <Desc_FCN>干得漂亮</Desc_FCN>
+    <Path>audio/system/message/gandepiaoliang</Path>
+</ResBattleMsgRspDesc>
+<ResBattleMsgRspDesc version="1">
+    <ID>34 </ID>
+    <Type>3 </Type>
+    <DeFaultIndex>0 </DeFaultIndex>
+    <Desc_SCN>抱歉</Desc_SCN>
+    <Desc_EN>Sorry!</Desc_EN>
+    <Desc_FCN>抱歉</Desc_FCN>
+    <Path></Path>
+</ResBattleMsgRspDesc>
+<ResBattleMsgRspDesc version="1">
+    <ID>35 </ID>
+    <Type>3 </Type>
+    <DeFaultIndex>0 </DeFaultIndex>
+    <Desc_SCN>谢谢你</Desc_SCN>
+    <Desc_EN>Thanks!</Desc_EN>
+    <Desc_FCN>谢谢你</Desc_FCN>
+    <Path></Path>
+</ResBattleMsgRspDesc>
+<ResBattleMsgRspDesc version="1">
+    <ID>36 </ID>
+    <Type>3 </Type>
+    <DeFaultIndex>0 </DeFaultIndex>
+    <Desc_SCN>不客气</Desc_SCN>
+    <Desc_EN>You&apos;re welcome!</Desc_EN>
+    <Desc_FCN>不客气</Desc_FCN>
+    <Path></Path>
+</ResBattleMsgRspDesc>
+<ResBattleMsgRspDesc version="1">
+    <ID>37 </ID>
+    <Type>3 </Type>
+    <DeFaultIndex>0 </DeFaultIndex>
+    <Desc_SCN>好的</Desc_SCN>
+    <Desc_EN>Okay.</Desc_EN>
+    <Desc_FCN>好的</Desc_FCN>
+    <Path></Path>
+</ResBattleMsgRspDesc>
+<ResBattleMsgRspDesc version="1">
+    <ID>38 </ID>
+    <Type>3 </Type>
+    <DeFaultIndex>0 </DeFaultIndex>
+    <Desc_SCN>加油</Desc_SCN>
+    <Desc_EN>Fight on!</Desc_EN>
+    <Desc_FCN>加油</Desc_FCN>
+    <Path></Path>
+</ResBattleMsgRspDesc>
+<ResBattleMsgRspDesc version="1">
+    <ID>39 </ID>
+    <Type>3 </Type>
+    <DeFaultIndex>0 </DeFaultIndex>
+    <Desc_SCN>等等我，马上到</Desc_SCN>
+    <Desc_EN>Wait for me, I’ll be right there.</Desc_EN>
+    <Desc_FCN>等等我，马上到</Desc_FCN>
+    <Path>audio/system/message/dengdengwo</Path>
+</ResBattleMsgRspDesc>
+</ResBattleMsgRspDesc_Tab>

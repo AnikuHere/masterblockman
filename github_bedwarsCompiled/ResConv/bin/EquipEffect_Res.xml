@@ -1,0 +1,1175 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<ResEquipEffect_Tab>
+<TResHeadAll version="5">
+    <resHead type="TResHead">
+        <Magic>1397052237 </Magic>
+        <Version>6 </Version>
+        <Unit>81 </Unit>
+        <Count>34 </Count>
+        <MetalibHash>531d5b4a397ad5b3c0fbfb5cc8059e55</MetalibHash>
+        <ResVersion>0 </ResVersion>
+        <CreateTime>2023-04-19 20:42:31</CreateTime>
+        <ResEncording>UTF-8</ResEncording>
+        <ContentHash>517f5ce37728dfb7cb7e7a1c488b5262</ContentHash>
+    </resHead>
+    <resHeadExt type="TResHeadExt">
+        <DataOffset>136 </DataOffset>
+    </resHeadExt>
+</TResHeadAll>
+<ResEquipEffect version="1">
+    <ResID>1001 </ResID>
+    <Attrs type="EquipAttrEffect">
+        <AttrID>8 </AttrID>
+        <AtrrAddType>2 </AtrrAddType>
+        <AttrValue>10 </AttrValue>
+    </Attrs>
+    <Attrs type="EquipAttrEffect">
+        <AttrID>0 </AttrID>
+        <AtrrAddType>0 </AtrrAddType>
+        <AttrValue>0 </AttrValue>
+    </Attrs>
+    <Attrs type="EquipAttrEffect">
+        <AttrID>0 </AttrID>
+        <AtrrAddType>0 </AtrrAddType>
+        <AttrValue>0 </AttrValue>
+    </Attrs>
+    <Attrs type="EquipAttrEffect">
+        <AttrID>0 </AttrID>
+        <AtrrAddType>0 </AtrrAddType>
+        <AttrValue>0 </AttrValue>
+    </Attrs>
+    <Skills type="EquipSkillEffect">
+        <SkillID>0 </SkillID>
+        <GroupID>0 </GroupID>
+    </Skills>
+    <Skills type="EquipSkillEffect">
+        <SkillID>0 </SkillID>
+        <GroupID>0 </GroupID>
+    </Skills>
+    <Buffs>0 0 0 </Buffs>
+    <CDSkillIndex>-1 </CDSkillIndex>
+    <RemoveBuffs>0 0 0 </RemoveBuffs>
+</ResEquipEffect>
+<ResEquipEffect version="1">
+    <ResID>1002 </ResID>
+    <Attrs type="EquipAttrEffect">
+        <AttrID>12 </AttrID>
+        <AtrrAddType>3 </AtrrAddType>
+        <AttrValue>800 </AttrValue>
+    </Attrs>
+    <Attrs type="EquipAttrEffect">
+        <AttrID>14 </AttrID>
+        <AtrrAddType>2 </AtrrAddType>
+        <AttrValue>500 </AttrValue>
+    </Attrs>
+    <Attrs type="EquipAttrEffect">
+        <AttrID>0 </AttrID>
+        <AtrrAddType>0 </AtrrAddType>
+        <AttrValue>0 </AttrValue>
+    </Attrs>
+    <Attrs type="EquipAttrEffect">
+        <AttrID>0 </AttrID>
+        <AtrrAddType>0 </AtrrAddType>
+        <AttrValue>0 </AttrValue>
+    </Attrs>
+    <Skills type="EquipSkillEffect">
+        <SkillID>0 </SkillID>
+        <GroupID>0 </GroupID>
+    </Skills>
+    <Skills type="EquipSkillEffect">
+        <SkillID>0 </SkillID>
+        <GroupID>0 </GroupID>
+    </Skills>
+    <Buffs>0 0 0 </Buffs>
+    <CDSkillIndex>-1 </CDSkillIndex>
+    <RemoveBuffs>0 0 0 </RemoveBuffs>
+</ResEquipEffect>
+<ResEquipEffect version="1">
+    <ResID>1003 </ResID>
+    <Attrs type="EquipAttrEffect">
+        <AttrID>8 </AttrID>
+        <AtrrAddType>2 </AtrrAddType>
+        <AttrValue>24 </AttrValue>
+    </Attrs>
+    <Attrs type="EquipAttrEffect">
+        <AttrID>0 </AttrID>
+        <AtrrAddType>0 </AtrrAddType>
+        <AttrValue>0 </AttrValue>
+    </Attrs>
+    <Attrs type="EquipAttrEffect">
+        <AttrID>0 </AttrID>
+        <AtrrAddType>0 </AtrrAddType>
+        <AttrValue>0 </AttrValue>
+    </Attrs>
+    <Attrs type="EquipAttrEffect">
+        <AttrID>0 </AttrID>
+        <AtrrAddType>0 </AtrrAddType>
+        <AttrValue>0 </AttrValue>
+    </Attrs>
+    <Skills type="EquipSkillEffect">
+        <SkillID>0 </SkillID>
+        <GroupID>0 </GroupID>
+    </Skills>
+    <Skills type="EquipSkillEffect">
+        <SkillID>0 </SkillID>
+        <GroupID>0 </GroupID>
+    </Skills>
+    <Buffs>0 0 0 </Buffs>
+    <CDSkillIndex>-1 </CDSkillIndex>
+    <RemoveBuffs>0 0 0 </RemoveBuffs>
+</ResEquipEffect>
+<ResEquipEffect version="1">
+    <ResID>1004 </ResID>
+    <Attrs type="EquipAttrEffect">
+        <AttrID>8 </AttrID>
+        <AtrrAddType>2 </AtrrAddType>
+        <AttrValue>40 </AttrValue>
+    </Attrs>
+    <Attrs type="EquipAttrEffect">
+        <AttrID>0 </AttrID>
+        <AtrrAddType>0 </AtrrAddType>
+        <AttrValue>0 </AttrValue>
+    </Attrs>
+    <Attrs type="EquipAttrEffect">
+        <AttrID>0 </AttrID>
+        <AtrrAddType>0 </AtrrAddType>
+        <AttrValue>0 </AttrValue>
+    </Attrs>
+    <Attrs type="EquipAttrEffect">
+        <AttrID>0 </AttrID>
+        <AtrrAddType>0 </AtrrAddType>
+        <AttrValue>0 </AttrValue>
+    </Attrs>
+    <Skills type="EquipSkillEffect">
+        <SkillID>0 </SkillID>
+        <GroupID>0 </GroupID>
+    </Skills>
+    <Skills type="EquipSkillEffect">
+        <SkillID>0 </SkillID>
+        <GroupID>0 </GroupID>
+    </Skills>
+    <Buffs>0 0 0 </Buffs>
+    <CDSkillIndex>-1 </CDSkillIndex>
+    <RemoveBuffs>0 0 0 </RemoveBuffs>
+</ResEquipEffect>
+<ResEquipEffect version="1">
+    <ResID>1005 </ResID>
+    <Attrs type="EquipAttrEffect">
+        <AttrID>12 </AttrID>
+        <AtrrAddType>3 </AtrrAddType>
+        <AttrValue>1500 </AttrValue>
+    </Attrs>
+    <Attrs type="EquipAttrEffect">
+        <AttrID>14 </AttrID>
+        <AtrrAddType>2 </AtrrAddType>
+        <AttrValue>1000 </AttrValue>
+    </Attrs>
+    <Attrs type="EquipAttrEffect">
+        <AttrID>23 </AttrID>
+        <AtrrAddType>3 </AtrrAddType>
+        <AttrValue>500 </AttrValue>
+    </Attrs>
+    <Attrs type="EquipAttrEffect">
+        <AttrID>0 </AttrID>
+        <AtrrAddType>0 </AtrrAddType>
+        <AttrValue>0 </AttrValue>
+    </Attrs>
+    <Skills type="EquipSkillEffect">
+        <SkillID>0 </SkillID>
+        <GroupID>0 </GroupID>
+    </Skills>
+    <Skills type="EquipSkillEffect">
+        <SkillID>0 </SkillID>
+        <GroupID>0 </GroupID>
+    </Skills>
+    <Buffs>0 0 0 </Buffs>
+    <CDSkillIndex>-1 </CDSkillIndex>
+    <RemoveBuffs>0 0 0 </RemoveBuffs>
+</ResEquipEffect>
+<ResEquipEffect version="1">
+    <ResID>1006 </ResID>
+    <Attrs type="EquipAttrEffect">
+        <AttrID>8 </AttrID>
+        <AtrrAddType>2 </AtrrAddType>
+        <AttrValue>50 </AttrValue>
+    </Attrs>
+    <Attrs type="EquipAttrEffect">
+        <AttrID>13 </AttrID>
+        <AtrrAddType>2 </AtrrAddType>
+        <AttrValue>1500 </AttrValue>
+    </Attrs>
+    <Attrs type="EquipAttrEffect">
+        <AttrID>0 </AttrID>
+        <AtrrAddType>0 </AtrrAddType>
+        <AttrValue>0 </AttrValue>
+    </Attrs>
+    <Attrs type="EquipAttrEffect">
+        <AttrID>0 </AttrID>
+        <AtrrAddType>0 </AtrrAddType>
+        <AttrValue>0 </AttrValue>
+    </Attrs>
+    <Skills type="EquipSkillEffect">
+        <SkillID>0 </SkillID>
+        <GroupID>0 </GroupID>
+    </Skills>
+    <Skills type="EquipSkillEffect">
+        <SkillID>0 </SkillID>
+        <GroupID>0 </GroupID>
+    </Skills>
+    <Buffs>0 0 0 </Buffs>
+    <CDSkillIndex>-1 </CDSkillIndex>
+    <RemoveBuffs>0 0 0 </RemoveBuffs>
+</ResEquipEffect>
+<ResEquipEffect version="1">
+    <ResID>1007 </ResID>
+    <Attrs type="EquipAttrEffect">
+        <AttrID>8 </AttrID>
+        <AtrrAddType>2 </AtrrAddType>
+        <AttrValue>25 </AttrValue>
+    </Attrs>
+    <Attrs type="EquipAttrEffect">
+        <AttrID>2 </AttrID>
+        <AtrrAddType>2 </AtrrAddType>
+        <AttrValue>300 </AttrValue>
+    </Attrs>
+    <Attrs type="EquipAttrEffect">
+        <AttrID>0 </AttrID>
+        <AtrrAddType>0 </AtrrAddType>
+        <AttrValue>0 </AttrValue>
+    </Attrs>
+    <Attrs type="EquipAttrEffect">
+        <AttrID>0 </AttrID>
+        <AtrrAddType>0 </AtrrAddType>
+        <AttrValue>0 </AttrValue>
+    </Attrs>
+    <Skills type="EquipSkillEffect">
+        <SkillID>60000201 </SkillID>
+        <GroupID>600002 </GroupID>
+    </Skills>
+    <Skills type="EquipSkillEffect">
+        <SkillID>0 </SkillID>
+        <GroupID>0 </GroupID>
+    </Skills>
+    <Buffs>600002301 0 0 </Buffs>
+    <CDSkillIndex>-1 </CDSkillIndex>
+    <RemoveBuffs>0 0 0 </RemoveBuffs>
+</ResEquipEffect>
+<ResEquipEffect version="1">
+    <ResID>1008 </ResID>
+    <Attrs type="EquipAttrEffect">
+        <AttrID>8 </AttrID>
+        <AtrrAddType>2 </AtrrAddType>
+        <AttrValue>60 </AttrValue>
+    </Attrs>
+    <Attrs type="EquipAttrEffect">
+        <AttrID>14 </AttrID>
+        <AtrrAddType>2 </AtrrAddType>
+        <AttrValue>2000 </AttrValue>
+    </Attrs>
+    <Attrs type="EquipAttrEffect">
+        <AttrID>0 </AttrID>
+        <AtrrAddType>0 </AtrrAddType>
+        <AttrValue>0 </AttrValue>
+    </Attrs>
+    <Attrs type="EquipAttrEffect">
+        <AttrID>0 </AttrID>
+        <AtrrAddType>0 </AtrrAddType>
+        <AttrValue>0 </AttrValue>
+    </Attrs>
+    <Skills type="EquipSkillEffect">
+        <SkillID>0 </SkillID>
+        <GroupID>0 </GroupID>
+    </Skills>
+    <Skills type="EquipSkillEffect">
+        <SkillID>0 </SkillID>
+        <GroupID>0 </GroupID>
+    </Skills>
+    <Buffs>600008101 0 0 </Buffs>
+    <CDSkillIndex>-1 </CDSkillIndex>
+    <RemoveBuffs>0 0 0 </RemoveBuffs>
+</ResEquipEffect>
+<ResEquipEffect version="1">
+    <ResID>2001 </ResID>
+    <Attrs type="EquipAttrEffect">
+        <AttrID>16 </AttrID>
+        <AtrrAddType>2 </AtrrAddType>
+        <AttrValue>17 </AttrValue>
+    </Attrs>
+    <Attrs type="EquipAttrEffect">
+        <AttrID>0 </AttrID>
+        <AtrrAddType>0 </AtrrAddType>
+        <AttrValue>0 </AttrValue>
+    </Attrs>
+    <Attrs type="EquipAttrEffect">
+        <AttrID>0 </AttrID>
+        <AtrrAddType>0 </AtrrAddType>
+        <AttrValue>0 </AttrValue>
+    </Attrs>
+    <Attrs type="EquipAttrEffect">
+        <AttrID>0 </AttrID>
+        <AtrrAddType>0 </AtrrAddType>
+        <AttrValue>0 </AttrValue>
+    </Attrs>
+    <Skills type="EquipSkillEffect">
+        <SkillID>0 </SkillID>
+        <GroupID>0 </GroupID>
+    </Skills>
+    <Skills type="EquipSkillEffect">
+        <SkillID>0 </SkillID>
+        <GroupID>0 </GroupID>
+    </Skills>
+    <Buffs>0 0 0 </Buffs>
+    <CDSkillIndex>-1 </CDSkillIndex>
+    <RemoveBuffs>0 0 0 </RemoveBuffs>
+</ResEquipEffect>
+<ResEquipEffect version="1">
+    <ResID>2002 </ResID>
+    <Attrs type="EquipAttrEffect">
+        <AttrID>5 </AttrID>
+        <AtrrAddType>2 </AtrrAddType>
+        <AttrValue>75 </AttrValue>
+    </Attrs>
+    <Attrs type="EquipAttrEffect">
+        <AttrID>0 </AttrID>
+        <AtrrAddType>0 </AtrrAddType>
+        <AttrValue>0 </AttrValue>
+    </Attrs>
+    <Attrs type="EquipAttrEffect">
+        <AttrID>0 </AttrID>
+        <AtrrAddType>0 </AtrrAddType>
+        <AttrValue>0 </AttrValue>
+    </Attrs>
+    <Attrs type="EquipAttrEffect">
+        <AttrID>0 </AttrID>
+        <AtrrAddType>0 </AtrrAddType>
+        <AttrValue>0 </AttrValue>
+    </Attrs>
+    <Skills type="EquipSkillEffect">
+        <SkillID>0 </SkillID>
+        <GroupID>0 </GroupID>
+    </Skills>
+    <Skills type="EquipSkillEffect">
+        <SkillID>0 </SkillID>
+        <GroupID>0 </GroupID>
+    </Skills>
+    <Buffs>0 0 0 </Buffs>
+    <CDSkillIndex>-1 </CDSkillIndex>
+    <RemoveBuffs>0 0 0 </RemoveBuffs>
+</ResEquipEffect>
+<ResEquipEffect version="1">
+    <ResID>2003 </ResID>
+    <Attrs type="EquipAttrEffect">
+        <AttrID>16 </AttrID>
+        <AtrrAddType>2 </AtrrAddType>
+        <AttrValue>20 </AttrValue>
+    </Attrs>
+    <Attrs type="EquipAttrEffect">
+        <AttrID>22 </AttrID>
+        <AtrrAddType>2 </AtrrAddType>
+        <AttrValue>500 </AttrValue>
+    </Attrs>
+    <Attrs type="EquipAttrEffect">
+        <AttrID>0 </AttrID>
+        <AtrrAddType>0 </AtrrAddType>
+        <AttrValue>0 </AttrValue>
+    </Attrs>
+    <Attrs type="EquipAttrEffect">
+        <AttrID>0 </AttrID>
+        <AtrrAddType>0 </AtrrAddType>
+        <AttrValue>0 </AttrValue>
+    </Attrs>
+    <Skills type="EquipSkillEffect">
+        <SkillID>0 </SkillID>
+        <GroupID>0 </GroupID>
+    </Skills>
+    <Skills type="EquipSkillEffect">
+        <SkillID>0 </SkillID>
+        <GroupID>0 </GroupID>
+    </Skills>
+    <Buffs>0 0 0 </Buffs>
+    <CDSkillIndex>-1 </CDSkillIndex>
+    <RemoveBuffs>0 0 0 </RemoveBuffs>
+</ResEquipEffect>
+<ResEquipEffect version="1">
+    <ResID>2004 </ResID>
+    <Attrs type="EquipAttrEffect">
+        <AttrID>5 </AttrID>
+        <AtrrAddType>2 </AtrrAddType>
+        <AttrValue>230 </AttrValue>
+    </Attrs>
+    <Attrs type="EquipAttrEffect">
+        <AttrID>0 </AttrID>
+        <AtrrAddType>0 </AtrrAddType>
+        <AttrValue>0 </AttrValue>
+    </Attrs>
+    <Attrs type="EquipAttrEffect">
+        <AttrID>0 </AttrID>
+        <AtrrAddType>0 </AtrrAddType>
+        <AttrValue>0 </AttrValue>
+    </Attrs>
+    <Attrs type="EquipAttrEffect">
+        <AttrID>0 </AttrID>
+        <AtrrAddType>0 </AtrrAddType>
+        <AttrValue>0 </AttrValue>
+    </Attrs>
+    <Skills type="EquipSkillEffect">
+        <SkillID>0 </SkillID>
+        <GroupID>0 </GroupID>
+    </Skills>
+    <Skills type="EquipSkillEffect">
+        <SkillID>0 </SkillID>
+        <GroupID>0 </GroupID>
+    </Skills>
+    <Buffs>0 0 0 </Buffs>
+    <CDSkillIndex>-1 </CDSkillIndex>
+    <RemoveBuffs>0 0 0 </RemoveBuffs>
+</ResEquipEffect>
+<ResEquipEffect version="1">
+    <ResID>2005 </ResID>
+    <Attrs type="EquipAttrEffect">
+        <AttrID>16 </AttrID>
+        <AtrrAddType>2 </AtrrAddType>
+        <AttrValue>60 </AttrValue>
+    </Attrs>
+    <Attrs type="EquipAttrEffect">
+        <AttrID>0 </AttrID>
+        <AtrrAddType>0 </AtrrAddType>
+        <AttrValue>0 </AttrValue>
+    </Attrs>
+    <Attrs type="EquipAttrEffect">
+        <AttrID>0 </AttrID>
+        <AtrrAddType>0 </AtrrAddType>
+        <AttrValue>0 </AttrValue>
+    </Attrs>
+    <Attrs type="EquipAttrEffect">
+        <AttrID>0 </AttrID>
+        <AtrrAddType>0 </AtrrAddType>
+        <AttrValue>0 </AttrValue>
+    </Attrs>
+    <Skills type="EquipSkillEffect">
+        <SkillID>0 </SkillID>
+        <GroupID>0 </GroupID>
+    </Skills>
+    <Skills type="EquipSkillEffect">
+        <SkillID>0 </SkillID>
+        <GroupID>0 </GroupID>
+    </Skills>
+    <Buffs>0 0 0 </Buffs>
+    <CDSkillIndex>-1 </CDSkillIndex>
+    <RemoveBuffs>0 0 0 </RemoveBuffs>
+</ResEquipEffect>
+<ResEquipEffect version="1">
+    <ResID>2006 </ResID>
+    <Attrs type="EquipAttrEffect">
+        <AttrID>16 </AttrID>
+        <AtrrAddType>2 </AtrrAddType>
+        <AttrValue>40 </AttrValue>
+    </Attrs>
+    <Attrs type="EquipAttrEffect">
+        <AttrID>22 </AttrID>
+        <AtrrAddType>2 </AtrrAddType>
+        <AttrValue>500 </AttrValue>
+    </Attrs>
+    <Attrs type="EquipAttrEffect">
+        <AttrID>7 </AttrID>
+        <AtrrAddType>2 </AtrrAddType>
+        <AttrValue>20 </AttrValue>
+    </Attrs>
+    <Attrs type="EquipAttrEffect">
+        <AttrID>0 </AttrID>
+        <AtrrAddType>0 </AtrrAddType>
+        <AttrValue>0 </AttrValue>
+    </Attrs>
+    <Skills type="EquipSkillEffect">
+        <SkillID>0 </SkillID>
+        <GroupID>0 </GroupID>
+    </Skills>
+    <Skills type="EquipSkillEffect">
+        <SkillID>0 </SkillID>
+        <GroupID>0 </GroupID>
+    </Skills>
+    <Buffs>0 0 0 </Buffs>
+    <CDSkillIndex>-1 </CDSkillIndex>
+    <RemoveBuffs>0 0 0 </RemoveBuffs>
+</ResEquipEffect>
+<ResEquipEffect version="1">
+    <ResID>2007 </ResID>
+    <Attrs type="EquipAttrEffect">
+        <AttrID>16 </AttrID>
+        <AtrrAddType>2 </AtrrAddType>
+        <AttrValue>100 </AttrValue>
+    </Attrs>
+    <Attrs type="EquipAttrEffect">
+        <AttrID>2 </AttrID>
+        <AtrrAddType>2 </AtrrAddType>
+        <AttrValue>300 </AttrValue>
+    </Attrs>
+    <Attrs type="EquipAttrEffect">
+        <AttrID>22 </AttrID>
+        <AtrrAddType>2 </AtrrAddType>
+        <AttrValue>1000 </AttrValue>
+    </Attrs>
+    <Attrs type="EquipAttrEffect">
+        <AttrID>0 </AttrID>
+        <AtrrAddType>0 </AtrrAddType>
+        <AttrValue>0 </AttrValue>
+    </Attrs>
+    <Skills type="EquipSkillEffect">
+        <SkillID>0 </SkillID>
+        <GroupID>0 </GroupID>
+    </Skills>
+    <Skills type="EquipSkillEffect">
+        <SkillID>0 </SkillID>
+        <GroupID>0 </GroupID>
+    </Skills>
+    <Buffs>600011101 0 0 </Buffs>
+    <CDSkillIndex>-1 </CDSkillIndex>
+    <RemoveBuffs>0 0 0 </RemoveBuffs>
+</ResEquipEffect>
+<ResEquipEffect version="1">
+    <ResID>2008 </ResID>
+    <Attrs type="EquipAttrEffect">
+        <AttrID>16 </AttrID>
+        <AtrrAddType>2 </AtrrAddType>
+        <AttrValue>180 </AttrValue>
+    </Attrs>
+    <Attrs type="EquipAttrEffect">
+        <AttrID>0 </AttrID>
+        <AtrrAddType>0 </AtrrAddType>
+        <AttrValue>0 </AttrValue>
+    </Attrs>
+    <Attrs type="EquipAttrEffect">
+        <AttrID>0 </AttrID>
+        <AtrrAddType>0 </AtrrAddType>
+        <AttrValue>0 </AttrValue>
+    </Attrs>
+    <Attrs type="EquipAttrEffect">
+        <AttrID>0 </AttrID>
+        <AtrrAddType>0 </AtrrAddType>
+        <AttrValue>0 </AttrValue>
+    </Attrs>
+    <Skills type="EquipSkillEffect">
+        <SkillID>0 </SkillID>
+        <GroupID>0 </GroupID>
+    </Skills>
+    <Skills type="EquipSkillEffect">
+        <SkillID>0 </SkillID>
+        <GroupID>0 </GroupID>
+    </Skills>
+    <Buffs>600009101 0 0 </Buffs>
+    <CDSkillIndex>-1 </CDSkillIndex>
+    <RemoveBuffs>0 0 0 </RemoveBuffs>
+</ResEquipEffect>
+<ResEquipEffect version="1">
+    <ResID>3001 </ResID>
+    <Attrs type="EquipAttrEffect">
+        <AttrID>2 </AttrID>
+        <AtrrAddType>2 </AtrrAddType>
+        <AttrValue>125 </AttrValue>
+    </Attrs>
+    <Attrs type="EquipAttrEffect">
+        <AttrID>0 </AttrID>
+        <AtrrAddType>0 </AtrrAddType>
+        <AttrValue>0 </AttrValue>
+    </Attrs>
+    <Attrs type="EquipAttrEffect">
+        <AttrID>0 </AttrID>
+        <AtrrAddType>0 </AtrrAddType>
+        <AttrValue>0 </AttrValue>
+    </Attrs>
+    <Attrs type="EquipAttrEffect">
+        <AttrID>0 </AttrID>
+        <AtrrAddType>0 </AtrrAddType>
+        <AttrValue>0 </AttrValue>
+    </Attrs>
+    <Skills type="EquipSkillEffect">
+        <SkillID>0 </SkillID>
+        <GroupID>0 </GroupID>
+    </Skills>
+    <Skills type="EquipSkillEffect">
+        <SkillID>0 </SkillID>
+        <GroupID>0 </GroupID>
+    </Skills>
+    <Buffs>0 0 0 </Buffs>
+    <CDSkillIndex>-1 </CDSkillIndex>
+    <RemoveBuffs>0 0 0 </RemoveBuffs>
+</ResEquipEffect>
+<ResEquipEffect version="1">
+    <ResID>3002 </ResID>
+    <Attrs type="EquipAttrEffect">
+        <AttrID>9 </AttrID>
+        <AtrrAddType>2 </AtrrAddType>
+        <AttrValue>24 </AttrValue>
+    </Attrs>
+    <Attrs type="EquipAttrEffect">
+        <AttrID>0 </AttrID>
+        <AtrrAddType>0 </AtrrAddType>
+        <AttrValue>0 </AttrValue>
+    </Attrs>
+    <Attrs type="EquipAttrEffect">
+        <AttrID>0 </AttrID>
+        <AtrrAddType>0 </AtrrAddType>
+        <AttrValue>0 </AttrValue>
+    </Attrs>
+    <Attrs type="EquipAttrEffect">
+        <AttrID>0 </AttrID>
+        <AtrrAddType>0 </AtrrAddType>
+        <AttrValue>0 </AttrValue>
+    </Attrs>
+    <Skills type="EquipSkillEffect">
+        <SkillID>0 </SkillID>
+        <GroupID>0 </GroupID>
+    </Skills>
+    <Skills type="EquipSkillEffect">
+        <SkillID>0 </SkillID>
+        <GroupID>0 </GroupID>
+    </Skills>
+    <Buffs>0 0 0 </Buffs>
+    <CDSkillIndex>-1 </CDSkillIndex>
+    <RemoveBuffs>0 0 0 </RemoveBuffs>
+</ResEquipEffect>
+<ResEquipEffect version="1">
+    <ResID>3003 </ResID>
+    <Attrs type="EquipAttrEffect">
+        <AttrID>9 </AttrID>
+        <AtrrAddType>2 </AtrrAddType>
+        <AttrValue>36 </AttrValue>
+    </Attrs>
+    <Attrs type="EquipAttrEffect">
+        <AttrID>0 </AttrID>
+        <AtrrAddType>0 </AtrrAddType>
+        <AttrValue>0 </AttrValue>
+    </Attrs>
+    <Attrs type="EquipAttrEffect">
+        <AttrID>0 </AttrID>
+        <AtrrAddType>0 </AtrrAddType>
+        <AttrValue>0 </AttrValue>
+    </Attrs>
+    <Attrs type="EquipAttrEffect">
+        <AttrID>0 </AttrID>
+        <AtrrAddType>0 </AtrrAddType>
+        <AttrValue>0 </AttrValue>
+    </Attrs>
+    <Skills type="EquipSkillEffect">
+        <SkillID>0 </SkillID>
+        <GroupID>0 </GroupID>
+    </Skills>
+    <Skills type="EquipSkillEffect">
+        <SkillID>0 </SkillID>
+        <GroupID>0 </GroupID>
+    </Skills>
+    <Buffs>0 0 0 </Buffs>
+    <CDSkillIndex>-1 </CDSkillIndex>
+    <RemoveBuffs>0 0 0 </RemoveBuffs>
+</ResEquipEffect>
+<ResEquipEffect version="1">
+    <ResID>3004 </ResID>
+    <Attrs type="EquipAttrEffect">
+        <AttrID>2 </AttrID>
+        <AtrrAddType>2 </AtrrAddType>
+        <AttrValue>380 </AttrValue>
+    </Attrs>
+    <Attrs type="EquipAttrEffect">
+        <AttrID>0 </AttrID>
+        <AtrrAddType>0 </AtrrAddType>
+        <AttrValue>0 </AttrValue>
+    </Attrs>
+    <Attrs type="EquipAttrEffect">
+        <AttrID>0 </AttrID>
+        <AtrrAddType>0 </AtrrAddType>
+        <AttrValue>0 </AttrValue>
+    </Attrs>
+    <Attrs type="EquipAttrEffect">
+        <AttrID>0 </AttrID>
+        <AtrrAddType>0 </AtrrAddType>
+        <AttrValue>0 </AttrValue>
+    </Attrs>
+    <Skills type="EquipSkillEffect">
+        <SkillID>0 </SkillID>
+        <GroupID>0 </GroupID>
+    </Skills>
+    <Skills type="EquipSkillEffect">
+        <SkillID>0 </SkillID>
+        <GroupID>0 </GroupID>
+    </Skills>
+    <Buffs>0 0 0 </Buffs>
+    <CDSkillIndex>-1 </CDSkillIndex>
+    <RemoveBuffs>0 0 0 </RemoveBuffs>
+</ResEquipEffect>
+<ResEquipEffect version="1">
+    <ResID>3005 </ResID>
+    <Attrs type="EquipAttrEffect">
+        <AttrID>24 </AttrID>
+        <AtrrAddType>2 </AtrrAddType>
+        <AttrValue>1500 </AttrValue>
+    </Attrs>
+    <Attrs type="EquipAttrEffect">
+        <AttrID>0 </AttrID>
+        <AtrrAddType>0 </AtrrAddType>
+        <AttrValue>0 </AttrValue>
+    </Attrs>
+    <Attrs type="EquipAttrEffect">
+        <AttrID>0 </AttrID>
+        <AtrrAddType>0 </AtrrAddType>
+        <AttrValue>0 </AttrValue>
+    </Attrs>
+    <Attrs type="EquipAttrEffect">
+        <AttrID>0 </AttrID>
+        <AtrrAddType>0 </AtrrAddType>
+        <AttrValue>0 </AttrValue>
+    </Attrs>
+    <Skills type="EquipSkillEffect">
+        <SkillID>0 </SkillID>
+        <GroupID>0 </GroupID>
+    </Skills>
+    <Skills type="EquipSkillEffect">
+        <SkillID>0 </SkillID>
+        <GroupID>0 </GroupID>
+    </Skills>
+    <Buffs>0 0 0 </Buffs>
+    <CDSkillIndex>-1 </CDSkillIndex>
+    <RemoveBuffs>0 0 0 </RemoveBuffs>
+</ResEquipEffect>
+<ResEquipEffect version="1">
+    <ResID>3006 </ResID>
+    <Attrs type="EquipAttrEffect">
+        <AttrID>2 </AttrID>
+        <AtrrAddType>2 </AtrrAddType>
+        <AttrValue>350 </AttrValue>
+    </Attrs>
+    <Attrs type="EquipAttrEffect">
+        <AttrID>17 </AttrID>
+        <AtrrAddType>2 </AtrrAddType>
+        <AttrValue>36 </AttrValue>
+    </Attrs>
+    <Attrs type="EquipAttrEffect">
+        <AttrID>3 </AttrID>
+        <AtrrAddType>2 </AtrrAddType>
+        <AttrValue>25 </AttrValue>
+    </Attrs>
+    <Attrs type="EquipAttrEffect">
+        <AttrID>0 </AttrID>
+        <AtrrAddType>0 </AtrrAddType>
+        <AttrValue>0 </AttrValue>
+    </Attrs>
+    <Skills type="EquipSkillEffect">
+        <SkillID>0 </SkillID>
+        <GroupID>0 </GroupID>
+    </Skills>
+    <Skills type="EquipSkillEffect">
+        <SkillID>0 </SkillID>
+        <GroupID>0 </GroupID>
+    </Skills>
+    <Buffs>0 0 0 </Buffs>
+    <CDSkillIndex>-1 </CDSkillIndex>
+    <RemoveBuffs>0 0 0 </RemoveBuffs>
+</ResEquipEffect>
+<ResEquipEffect version="1">
+    <ResID>3007 </ResID>
+    <Attrs type="EquipAttrEffect">
+        <AttrID>2 </AttrID>
+        <AtrrAddType>2 </AtrrAddType>
+        <AttrValue>350 </AttrValue>
+    </Attrs>
+    <Attrs type="EquipAttrEffect">
+        <AttrID>9 </AttrID>
+        <AtrrAddType>2 </AtrrAddType>
+        <AttrValue>36 </AttrValue>
+    </Attrs>
+    <Attrs type="EquipAttrEffect">
+        <AttrID>3 </AttrID>
+        <AtrrAddType>2 </AtrrAddType>
+        <AttrValue>25 </AttrValue>
+    </Attrs>
+    <Attrs type="EquipAttrEffect">
+        <AttrID>0 </AttrID>
+        <AtrrAddType>0 </AtrrAddType>
+        <AttrValue>0 </AttrValue>
+    </Attrs>
+    <Skills type="EquipSkillEffect">
+        <SkillID>0 </SkillID>
+        <GroupID>0 </GroupID>
+    </Skills>
+    <Skills type="EquipSkillEffect">
+        <SkillID>0 </SkillID>
+        <GroupID>0 </GroupID>
+    </Skills>
+    <Buffs>0 0 0 </Buffs>
+    <CDSkillIndex>-1 </CDSkillIndex>
+    <RemoveBuffs>0 0 0 </RemoveBuffs>
+</ResEquipEffect>
+<ResEquipEffect version="1">
+    <ResID>3008 </ResID>
+    <Attrs type="EquipAttrEffect">
+        <AttrID>2 </AttrID>
+        <AtrrAddType>2 </AtrrAddType>
+        <AttrValue>300 </AttrValue>
+    </Attrs>
+    <Attrs type="EquipAttrEffect">
+        <AttrID>5 </AttrID>
+        <AtrrAddType>2 </AtrrAddType>
+        <AttrValue>210 </AttrValue>
+    </Attrs>
+    <Attrs type="EquipAttrEffect">
+        <AttrID>0 </AttrID>
+        <AtrrAddType>0 </AtrrAddType>
+        <AttrValue>0 </AttrValue>
+    </Attrs>
+    <Attrs type="EquipAttrEffect">
+        <AttrID>0 </AttrID>
+        <AtrrAddType>0 </AtrrAddType>
+        <AttrValue>0 </AttrValue>
+    </Attrs>
+    <Skills type="EquipSkillEffect">
+        <SkillID>0 </SkillID>
+        <GroupID>0 </GroupID>
+    </Skills>
+    <Skills type="EquipSkillEffect">
+        <SkillID>0 </SkillID>
+        <GroupID>0 </GroupID>
+    </Skills>
+    <Buffs>0 0 0 </Buffs>
+    <CDSkillIndex>-1 </CDSkillIndex>
+    <RemoveBuffs>0 0 0 </RemoveBuffs>
+</ResEquipEffect>
+<ResEquipEffect version="1">
+    <ResID>3009 </ResID>
+    <Attrs type="EquipAttrEffect">
+        <AttrID>2 </AttrID>
+        <AtrrAddType>2 </AtrrAddType>
+        <AttrValue>500 </AttrValue>
+    </Attrs>
+    <Attrs type="EquipAttrEffect">
+        <AttrID>17 </AttrID>
+        <AtrrAddType>2 </AtrrAddType>
+        <AttrValue>108 </AttrValue>
+    </Attrs>
+    <Attrs type="EquipAttrEffect">
+        <AttrID>0 </AttrID>
+        <AtrrAddType>0 </AtrrAddType>
+        <AttrValue>0 </AttrValue>
+    </Attrs>
+    <Attrs type="EquipAttrEffect">
+        <AttrID>0 </AttrID>
+        <AtrrAddType>0 </AtrrAddType>
+        <AttrValue>0 </AttrValue>
+    </Attrs>
+    <Skills type="EquipSkillEffect">
+        <SkillID>60001001 </SkillID>
+        <GroupID>600010 </GroupID>
+    </Skills>
+    <Skills type="EquipSkillEffect">
+        <SkillID>0 </SkillID>
+        <GroupID>0 </GroupID>
+    </Skills>
+    <Buffs>0 0 0 </Buffs>
+    <CDSkillIndex>-1 </CDSkillIndex>
+    <RemoveBuffs>600010101 0 0 </RemoveBuffs>
+</ResEquipEffect>
+<ResEquipEffect version="1">
+    <ResID>3010 </ResID>
+    <Attrs type="EquipAttrEffect">
+        <AttrID>2 </AttrID>
+        <AtrrAddType>2 </AtrrAddType>
+        <AttrValue>400 </AttrValue>
+    </Attrs>
+    <Attrs type="EquipAttrEffect">
+        <AttrID>9 </AttrID>
+        <AtrrAddType>2 </AtrrAddType>
+        <AttrValue>72 </AttrValue>
+    </Attrs>
+    <Attrs type="EquipAttrEffect">
+        <AttrID>0 </AttrID>
+        <AtrrAddType>0 </AtrrAddType>
+        <AttrValue>0 </AttrValue>
+    </Attrs>
+    <Attrs type="EquipAttrEffect">
+        <AttrID>0 </AttrID>
+        <AtrrAddType>0 </AtrrAddType>
+        <AttrValue>0 </AttrValue>
+    </Attrs>
+    <Skills type="EquipSkillEffect">
+        <SkillID>60000101 </SkillID>
+        <GroupID>600001 </GroupID>
+    </Skills>
+    <Skills type="EquipSkillEffect">
+        <SkillID>0 </SkillID>
+        <GroupID>0 </GroupID>
+    </Skills>
+    <Buffs>0 0 0 </Buffs>
+    <CDSkillIndex>-1 </CDSkillIndex>
+    <RemoveBuffs>0 0 0 </RemoveBuffs>
+</ResEquipEffect>
+<ResEquipEffect version="1">
+    <ResID>3011 </ResID>
+    <Attrs type="EquipAttrEffect">
+        <AttrID>9 </AttrID>
+        <AtrrAddType>2 </AtrrAddType>
+        <AttrValue>66 </AttrValue>
+    </Attrs>
+    <Attrs type="EquipAttrEffect">
+        <AttrID>17 </AttrID>
+        <AtrrAddType>2 </AtrrAddType>
+        <AttrValue>66 </AttrValue>
+    </Attrs>
+    <Attrs type="EquipAttrEffect">
+        <AttrID>0 </AttrID>
+        <AtrrAddType>0 </AtrrAddType>
+        <AttrValue>0 </AttrValue>
+    </Attrs>
+    <Attrs type="EquipAttrEffect">
+        <AttrID>0 </AttrID>
+        <AtrrAddType>0 </AtrrAddType>
+        <AttrValue>0 </AttrValue>
+    </Attrs>
+    <Skills type="EquipSkillEffect">
+        <SkillID>60001101 </SkillID>
+        <GroupID>600011 </GroupID>
+    </Skills>
+    <Skills type="EquipSkillEffect">
+        <SkillID>0 </SkillID>
+        <GroupID>0 </GroupID>
+    </Skills>
+    <Buffs>0 0 0 </Buffs>
+    <CDSkillIndex>0 </CDSkillIndex>
+    <RemoveBuffs>0 0 0 </RemoveBuffs>
+</ResEquipEffect>
+<ResEquipEffect version="1">
+    <ResID>3012 </ResID>
+    <Attrs type="EquipAttrEffect">
+        <AttrID>9 </AttrID>
+        <AtrrAddType>2 </AtrrAddType>
+        <AttrValue>72 </AttrValue>
+    </Attrs>
+    <Attrs type="EquipAttrEffect">
+        <AttrID>12 </AttrID>
+        <AtrrAddType>3 </AtrrAddType>
+        <AttrValue>500 </AttrValue>
+    </Attrs>
+    <Attrs type="EquipAttrEffect">
+        <AttrID>0 </AttrID>
+        <AtrrAddType>0 </AtrrAddType>
+        <AttrValue>0 </AttrValue>
+    </Attrs>
+    <Attrs type="EquipAttrEffect">
+        <AttrID>0 </AttrID>
+        <AtrrAddType>0 </AtrrAddType>
+        <AttrValue>0 </AttrValue>
+    </Attrs>
+    <Skills type="EquipSkillEffect">
+        <SkillID>60000301 </SkillID>
+        <GroupID>600003 </GroupID>
+    </Skills>
+    <Skills type="EquipSkillEffect">
+        <SkillID>0 </SkillID>
+        <GroupID>0 </GroupID>
+    </Skills>
+    <Buffs>600003301 0 0 </Buffs>
+    <CDSkillIndex>-1 </CDSkillIndex>
+    <RemoveBuffs>0 0 0 </RemoveBuffs>
+</ResEquipEffect>
+<ResEquipEffect version="1">
+    <ResID>3013 </ResID>
+    <Attrs type="EquipAttrEffect">
+        <AttrID>17 </AttrID>
+        <AtrrAddType>2 </AtrrAddType>
+        <AttrValue>108 </AttrValue>
+    </Attrs>
+    <Attrs type="EquipAttrEffect">
+        <AttrID>16 </AttrID>
+        <AtrrAddType>2 </AtrrAddType>
+        <AttrValue>50 </AttrValue>
+    </Attrs>
+    <Attrs type="EquipAttrEffect">
+        <AttrID>5 </AttrID>
+        <AtrrAddType>2 </AtrrAddType>
+        <AttrValue>250 </AttrValue>
+    </Attrs>
+    <Attrs type="EquipAttrEffect">
+        <AttrID>0 </AttrID>
+        <AtrrAddType>0 </AtrrAddType>
+        <AttrValue>0 </AttrValue>
+    </Attrs>
+    <Skills type="EquipSkillEffect">
+        <SkillID>60000401 </SkillID>
+        <GroupID>600004 </GroupID>
+    </Skills>
+    <Skills type="EquipSkillEffect">
+        <SkillID>0 </SkillID>
+        <GroupID>0 </GroupID>
+    </Skills>
+    <Buffs>600004201 0 0 </Buffs>
+    <CDSkillIndex>-1 </CDSkillIndex>
+    <RemoveBuffs>0 0 0 </RemoveBuffs>
+</ResEquipEffect>
+<ResEquipEffect version="1">
+    <ResID>4001 </ResID>
+    <Attrs type="EquipAttrEffect">
+        <AttrID>12 </AttrID>
+        <AtrrAddType>3 </AtrrAddType>
+        <AttrValue>1500 </AttrValue>
+    </Attrs>
+    <Attrs type="EquipAttrEffect">
+        <AttrID>0 </AttrID>
+        <AtrrAddType>0 </AtrrAddType>
+        <AttrValue>0 </AttrValue>
+    </Attrs>
+    <Attrs type="EquipAttrEffect">
+        <AttrID>0 </AttrID>
+        <AtrrAddType>0 </AtrrAddType>
+        <AttrValue>0 </AttrValue>
+    </Attrs>
+    <Attrs type="EquipAttrEffect">
+        <AttrID>0 </AttrID>
+        <AtrrAddType>0 </AtrrAddType>
+        <AttrValue>0 </AttrValue>
+    </Attrs>
+    <Skills type="EquipSkillEffect">
+        <SkillID>0 </SkillID>
+        <GroupID>0 </GroupID>
+    </Skills>
+    <Skills type="EquipSkillEffect">
+        <SkillID>0 </SkillID>
+        <GroupID>0 </GroupID>
+    </Skills>
+    <Buffs>600005101 0 0 </Buffs>
+    <CDSkillIndex>-1 </CDSkillIndex>
+    <RemoveBuffs>0 0 0 </RemoveBuffs>
+</ResEquipEffect>
+<ResEquipEffect version="1">
+    <ResID>4002 </ResID>
+    <Attrs type="EquipAttrEffect">
+        <AttrID>18 </AttrID>
+        <AtrrAddType>2 </AtrrAddType>
+        <AttrValue>30 </AttrValue>
+    </Attrs>
+    <Attrs type="EquipAttrEffect">
+        <AttrID>0 </AttrID>
+        <AtrrAddType>0 </AtrrAddType>
+        <AttrValue>0 </AttrValue>
+    </Attrs>
+    <Attrs type="EquipAttrEffect">
+        <AttrID>0 </AttrID>
+        <AtrrAddType>0 </AtrrAddType>
+        <AttrValue>0 </AttrValue>
+    </Attrs>
+    <Attrs type="EquipAttrEffect">
+        <AttrID>0 </AttrID>
+        <AtrrAddType>0 </AtrrAddType>
+        <AttrValue>0 </AttrValue>
+    </Attrs>
+    <Skills type="EquipSkillEffect">
+        <SkillID>0 </SkillID>
+        <GroupID>0 </GroupID>
+    </Skills>
+    <Skills type="EquipSkillEffect">
+        <SkillID>0 </SkillID>
+        <GroupID>0 </GroupID>
+    </Skills>
+    <Buffs>600005101 0 0 </Buffs>
+    <CDSkillIndex>-1 </CDSkillIndex>
+    <RemoveBuffs>0 0 0 </RemoveBuffs>
+</ResEquipEffect>
+<ResEquipEffect version="1">
+    <ResID>4003 </ResID>
+    <Attrs type="EquipAttrEffect">
+        <AttrID>17 </AttrID>
+        <AtrrAddType>2 </AtrrAddType>
+        <AttrValue>30 </AttrValue>
+    </Attrs>
+    <Attrs type="EquipAttrEffect">
+        <AttrID>0 </AttrID>
+        <AtrrAddType>0 </AtrrAddType>
+        <AttrValue>0 </AttrValue>
+    </Attrs>
+    <Attrs type="EquipAttrEffect">
+        <AttrID>0 </AttrID>
+        <AtrrAddType>0 </AtrrAddType>
+        <AttrValue>0 </AttrValue>
+    </Attrs>
+    <Attrs type="EquipAttrEffect">
+        <AttrID>0 </AttrID>
+        <AtrrAddType>0 </AtrrAddType>
+        <AttrValue>0 </AttrValue>
+    </Attrs>
+    <Skills type="EquipSkillEffect">
+        <SkillID>0 </SkillID>
+        <GroupID>0 </GroupID>
+    </Skills>
+    <Skills type="EquipSkillEffect">
+        <SkillID>0 </SkillID>
+        <GroupID>0 </GroupID>
+    </Skills>
+    <Buffs>600005101 600006101 0 </Buffs>
+    <CDSkillIndex>-1 </CDSkillIndex>
+    <RemoveBuffs>0 0 0 </RemoveBuffs>
+</ResEquipEffect>
+<ResEquipEffect version="1">
+    <ResID>4004 </ResID>
+    <Attrs type="EquipAttrEffect">
+        <AttrID>9 </AttrID>
+        <AtrrAddType>2 </AtrrAddType>
+        <AttrValue>30 </AttrValue>
+    </Attrs>
+    <Attrs type="EquipAttrEffect">
+        <AttrID>0 </AttrID>
+        <AtrrAddType>0 </AtrrAddType>
+        <AttrValue>0 </AttrValue>
+    </Attrs>
+    <Attrs type="EquipAttrEffect">
+        <AttrID>0 </AttrID>
+        <AtrrAddType>0 </AtrrAddType>
+        <AttrValue>0 </AttrValue>
+    </Attrs>
+    <Attrs type="EquipAttrEffect">
+        <AttrID>0 </AttrID>
+        <AtrrAddType>0 </AtrrAddType>
+        <AttrValue>0 </AttrValue>
+    </Attrs>
+    <Skills type="EquipSkillEffect">
+        <SkillID>0 </SkillID>
+        <GroupID>0 </GroupID>
+    </Skills>
+    <Skills type="EquipSkillEffect">
+        <SkillID>0 </SkillID>
+        <GroupID>0 </GroupID>
+    </Skills>
+    <Buffs>600005101 600007101 0 </Buffs>
+    <CDSkillIndex>-1 </CDSkillIndex>
+    <RemoveBuffs>0 0 0 </RemoveBuffs>
+</ResEquipEffect>
+<ResEquipEffect version="1">
+    <ResID>4005 </ResID>
+    <Attrs type="EquipAttrEffect">
+        <AttrID>0 </AttrID>
+        <AtrrAddType>0 </AtrrAddType>
+        <AttrValue>0 </AttrValue>
+    </Attrs>
+    <Attrs type="EquipAttrEffect">
+        <AttrID>0 </AttrID>
+        <AtrrAddType>0 </AtrrAddType>
+        <AttrValue>0 </AttrValue>
+    </Attrs>
+    <Attrs type="EquipAttrEffect">
+        <AttrID>0 </AttrID>
+        <AtrrAddType>0 </AtrrAddType>
+        <AttrValue>0 </AttrValue>
+    </Attrs>
+    <Attrs type="EquipAttrEffect">
+        <AttrID>0 </AttrID>
+        <AtrrAddType>0 </AtrrAddType>
+        <AttrValue>0 </AttrValue>
+    </Attrs>
+    <Skills type="EquipSkillEffect">
+        <SkillID>60000501 </SkillID>
+        <GroupID>600005 </GroupID>
+    </Skills>
+    <Skills type="EquipSkillEffect">
+        <SkillID>0 </SkillID>
+        <GroupID>0 </GroupID>
+    </Skills>
+    <Buffs>600005101 0 0 </Buffs>
+    <CDSkillIndex>-1 </CDSkillIndex>
+    <RemoveBuffs>0 0 0 </RemoveBuffs>
+</ResEquipEffect>
+</ResEquipEffect_Tab>

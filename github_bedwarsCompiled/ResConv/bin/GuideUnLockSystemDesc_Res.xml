@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<ResGuideUnLockSystemDesc_Tab>
+<TResHeadAll version="5">
+    <resHead type="TResHead">
+        <Magic>1397052237 </Magic>
+        <Version>6 </Version>
+        <Unit>8 </Unit>
+        <Count>29 </Count>
+        <MetalibHash>531d5b4a397ad5b3c0fbfb5cc8059e55</MetalibHash>
+        <ResVersion>0 </ResVersion>
+        <CreateTime>2023-04-19 20:42:34</CreateTime>
+        <ResEncording>UTF-8</ResEncording>
+        <ContentHash>d387f8ffe4b7a3c9c197d17bca2a41e6</ContentHash>
+    </resHead>
+    <resHeadExt type="TResHeadExt">
+        <DataOffset>136 </DataOffset>
+    </resHeadExt>
+</TResHeadAll>
+<ResGuideUnLockSystemDesc version="1">
+    <UnLockType>1 </UnLockType>
+    <UnLockPlayerLevel>2 </UnLockPlayerLevel>
+    <UnLockArenaLevel>0 </UnLockArenaLevel>
+    <GuidePlayerLevel>2 </GuidePlayerLevel>
+    <GuideArenaLevel>0 </GuideArenaLevel>
+</ResGuideUnLockSystemDesc>
+<ResGuideUnLockSystemDesc version="1">
+    <UnLockType>2 </UnLockType>
+    <UnLockPlayerLevel>3 </UnLockPlayerLevel>
+    <UnLockArenaLevel>0 </UnLockArenaLevel>
+    <GuidePlayerLevel>3 </GuidePlayerLevel>
+    <GuideArenaLevel>0 </GuideArenaLevel>
+</ResGuideUnLockSystemDesc>
+<ResGuideUnLockSystemDesc version="1">
+    <UnLockType>3 </UnLockType>
+    <UnLockPlayerLevel>0 </UnLockPlayerLevel>
+    <UnLockArenaLevel>0 </UnLockArenaLevel>
+    <GuidePlayerLevel>4 </GuidePlayerLevel>
+    <GuideArenaLevel>0 </GuideArenaLevel>
+</ResGuideUnLockSystemDesc>
+<ResGuideUnLockSystemDesc version="1">
+    <UnLockType>4 </UnLockType>
+    <UnLockPlayerLevel>5 </UnLockPlayerLevel>
+    <UnLockArenaLevel>0 </UnLockArenaLevel>
+    <GuidePlayerLevel>5 </GuidePlayerLevel>
+    <GuideArenaLevel>0 </GuideArenaLevel>
+</ResGuideUnLockSystemDesc>
+<ResGuideUnLockSystemDesc version="1">
+    <UnLockType>5 </UnLockType>
+    <UnLockPlayerLevel>6 </UnLockPlayerLevel>
+    <UnLockArenaLevel>4 </UnLockArenaLevel>
+    <GuidePlayerLevel>6 </GuidePlayerLevel>
+    <GuideArenaLevel>0 </GuideArenaLevel>
+</ResGuideUnLockSystemDesc>
+<ResGuideUnLockSystemDesc version="1">
+    <UnLockType>6 </UnLockType>
+    <UnLockPlayerLevel>0 </UnLockPlayerLevel>
+    <UnLockArenaLevel>4 </UnLockArenaLevel>
+    <GuidePlayerLevel>0 </GuidePlayerLevel>
+    <GuideArenaLevel>0 </GuideArenaLevel>
+</ResGuideUnLockSystemDesc>
+<ResGuideUnLockSystemDesc version="1">
+    <UnLockType>7 </UnLockType>
+    <UnLockPlayerLevel>0 </UnLockPlayerLevel>
+    <UnLockArenaLevel>4 </UnLockArenaLevel>
+    <GuidePlayerLevel>0 </GuidePlayerLevel>
+    <GuideArenaLevel>0 </GuideArenaLevel>
+</ResGuideUnLockSystemDesc>
+<ResGuideUnLockSystemDesc version="1">
+    <UnLockType>8 </UnLockType>
+    <UnLockPlayerLevel>0 </UnLockPlayerLevel>
+    <UnLockArenaLevel>4 </UnLockArenaLevel>
+    <GuidePlayerLevel>0 </GuidePlayerLevel>
+    <GuideArenaLevel>0 </GuideArenaLevel>
+</ResGuideUnLockSystemDesc>
+<ResGuideUnLockSystemDesc version="1">
+    <UnLockType>9 </UnLockType>
+    <UnLockPlayerLevel>0 </UnLockPlayerLevel>
+    <UnLockArenaLevel>0 </UnLockArenaLevel>
+    <GuidePlayerLevel>0 </GuidePlayerLevel>
+    <GuideArenaLevel>0 </GuideArenaLevel>
+</ResGuideUnLockSystemDesc>
+<ResGuideUnLockSystemDesc version="1">
+    <UnLockType>10 </UnLockType>
+    <UnLockPlayerLevel>0 </UnLockPlayerLevel>
+    <UnLockArenaLevel>3 </UnLockArenaLevel>
+    <GuidePlayerLevel>0 </GuidePlayerLevel>
+    <GuideArenaLevel>0 </GuideArenaLevel>
+</ResGuideUnLockSystemDesc>
+<ResGuideUnLockSystemDesc version="1">
+    <UnLockType>11 </UnLockType>
+    <UnLockPlayerLevel>0 </UnLockPlayerLevel>
+    <UnLockArenaLevel>0 </UnLockArenaLevel>
+    <GuidePlayerLevel>0 </GuidePlayerLevel>
+    <GuideArenaLevel>0 </GuideArenaLevel>
+</ResGuideUnLockSystemDesc>
+<ResGuideUnLockSystemDesc version="1">
+    <UnLockType>12 </UnLockType>
+    <UnLockPlayerLevel>0 </UnLockPlayerLevel>
+    <UnLockArenaLevel>0 </UnLockArenaLevel>
+    <GuidePlayerLevel>0 </GuidePlayerLevel>
+    <GuideArenaLevel>0 </GuideArenaLevel>
+</ResGuideUnLockSystemDesc>
+<ResGuideUnLockSystemDesc version="1">
+    <UnLockType>13 </UnLockType>
+    <UnLockPlayerLevel>0 </UnLockPlayerLevel>
+    <UnLockArenaLevel>3 </UnLockArenaLevel>
+    <GuidePlayerLevel>0 </GuidePlayerLevel>
+    <GuideArenaLevel>0 </GuideArenaLevel>
+</ResGuideUnLockSystemDesc>
+<ResGuideUnLockSystemDesc version="1">
+    <UnLockType>14 </UnLockType>
+    <UnLockPlayerLevel>0 </UnLockPlayerLevel>
+    <UnLockArenaLevel>0 </UnLockArenaLevel>
+    <GuidePlayerLevel>0 </GuidePlayerLevel>
+    <GuideArenaLevel>0 </GuideArenaLevel>
+</ResGuideUnLockSystemDesc>
+<ResGuideUnLockSystemDesc version="1">
+    <UnLockType>15 </UnLockType>
+    <UnLockPlayerLevel>0 </UnLockPlayerLevel>
+    <UnLockArenaLevel>0 </UnLockArenaLevel>
+    <GuidePlayerLevel>0 </GuidePlayerLevel>
+    <GuideArenaLevel>0 </GuideArenaLevel>
+</ResGuideUnLockSystemDesc>
+<ResGuideUnLockSystemDesc version="1">
+    <UnLockType>16 </UnLockType>
+    <UnLockPlayerLevel>10 </UnLockPlayerLevel>
+    <UnLockArenaLevel>0 </UnLockArenaLevel>
+    <GuidePlayerLevel>0 </GuidePlayerLevel>
+    <GuideArenaLevel>0 </GuideArenaLevel>
+</ResGuideUnLockSystemDesc>
+<ResGuideUnLockSystemDesc version="1">
+    <UnLockType>17 </UnLockType>
+    <UnLockPlayerLevel>10 </UnLockPlayerLevel>
+    <UnLockArenaLevel>0 </UnLockArenaLevel>
+    <GuidePlayerLevel>0 </GuidePlayerLevel>
+    <GuideArenaLevel>0 </GuideArenaLevel>
+</ResGuideUnLockSystemDesc>
+<ResGuideUnLockSystemDesc version="1">
+    <UnLockType>18 </UnLockType>
+    <UnLockPlayerLevel>10 </UnLockPlayerLevel>
+    <UnLockArenaLevel>0 </UnLockArenaLevel>
+    <GuidePlayerLevel>0 </GuidePlayerLevel>
+    <GuideArenaLevel>0 </GuideArenaLevel>
+</ResGuideUnLockSystemDesc>
+<ResGuideUnLockSystemDesc version="1">
+    <UnLockType>19 </UnLockType>
+    <UnLockPlayerLevel>0 </UnLockPlayerLevel>
+    <UnLockArenaLevel>0 </UnLockArenaLevel>
+    <GuidePlayerLevel>0 </GuidePlayerLevel>
+    <GuideArenaLevel>0 </GuideArenaLevel>
+</ResGuideUnLockSystemDesc>
+<ResGuideUnLockSystemDesc version="1">
+    <UnLockType>20 </UnLockType>
+    <UnLockPlayerLevel>0 </UnLockPlayerLevel>
+    <UnLockArenaLevel>3 </UnLockArenaLevel>
+    <GuidePlayerLevel>0 </GuidePlayerLevel>
+    <GuideArenaLevel>0 </GuideArenaLevel>
+</ResGuideUnLockSystemDesc>
+<ResGuideUnLockSystemDesc version="1">
+    <UnLockType>21 </UnLockType>
+    <UnLockPlayerLevel>0 </UnLockPlayerLevel>
+    <UnLockArenaLevel>0 </UnLockArenaLevel>
+    <GuidePlayerLevel>0 </GuidePlayerLevel>
+    <GuideArenaLevel>0 </GuideArenaLevel>
+</ResGuideUnLockSystemDesc>
+<ResGuideUnLockSystemDesc version="1">
+    <UnLockType>22 </UnLockType>
+    <UnLockPlayerLevel>2 </UnLockPlayerLevel>
+    <UnLockArenaLevel>0 </UnLockArenaLevel>
+    <GuidePlayerLevel>0 </GuidePlayerLevel>
+    <GuideArenaLevel>0 </GuideArenaLevel>
+</ResGuideUnLockSystemDesc>
+<ResGuideUnLockSystemDesc version="1">
+    <UnLockType>23 </UnLockType>
+    <UnLockPlayerLevel>2 </UnLockPlayerLevel>
+    <UnLockArenaLevel>0 </UnLockArenaLevel>
+    <GuidePlayerLevel>0 </GuidePlayerLevel>
+    <GuideArenaLevel>0 </GuideArenaLevel>
+</ResGuideUnLockSystemDesc>
+<ResGuideUnLockSystemDesc version="1">
+    <UnLockType>24 </UnLockType>
+    <UnLockPlayerLevel>2 </UnLockPlayerLevel>
+    <UnLockArenaLevel>0 </UnLockArenaLevel>
+    <GuidePlayerLevel>0 </GuidePlayerLevel>
+    <GuideArenaLevel>0 </GuideArenaLevel>
+</ResGuideUnLockSystemDesc>
+<ResGuideUnLockSystemDesc version="1">
+    <UnLockType>25 </UnLockType>
+    <UnLockPlayerLevel>0 </UnLockPlayerLevel>
+    <UnLockArenaLevel>3 </UnLockArenaLevel>
+    <GuidePlayerLevel>0 </GuidePlayerLevel>
+    <GuideArenaLevel>0 </GuideArenaLevel>
+</ResGuideUnLockSystemDesc>
+<ResGuideUnLockSystemDesc version="1">
+    <UnLockType>26 </UnLockType>
+    <UnLockPlayerLevel>0 </UnLockPlayerLevel>
+    <UnLockArenaLevel>0 </UnLockArenaLevel>
+    <GuidePlayerLevel>0 </GuidePlayerLevel>
+    <GuideArenaLevel>0 </GuideArenaLevel>
+</ResGuideUnLockSystemDesc>
+<ResGuideUnLockSystemDesc version="1">
+    <UnLockType>27 </UnLockType>
+    <UnLockPlayerLevel>7 </UnLockPlayerLevel>
+    <UnLockArenaLevel>0 </UnLockArenaLevel>
+    <GuidePlayerLevel>0 </GuidePlayerLevel>
+    <GuideArenaLevel>0 </GuideArenaLevel>
+</ResGuideUnLockSystemDesc>
+<ResGuideUnLockSystemDesc version="1">
+    <UnLockType>28 </UnLockType>
+    <UnLockPlayerLevel>2 </UnLockPlayerLevel>
+    <UnLockArenaLevel>0 </UnLockArenaLevel>
+    <GuidePlayerLevel>0 </GuidePlayerLevel>
+    <GuideArenaLevel>0 </GuideArenaLevel>
+</ResGuideUnLockSystemDesc>
+<ResGuideUnLockSystemDesc version="1">
+    <UnLockType>29 </UnLockType>
+    <UnLockPlayerLevel>2 </UnLockPlayerLevel>
+    <UnLockArenaLevel>0 </UnLockArenaLevel>
+    <GuidePlayerLevel>0 </GuidePlayerLevel>
+    <GuideArenaLevel>0 </GuideArenaLevel>
+</ResGuideUnLockSystemDesc>
+</ResGuideUnLockSystemDesc_Tab>

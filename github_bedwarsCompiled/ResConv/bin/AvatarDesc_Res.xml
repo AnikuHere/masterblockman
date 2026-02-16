@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<ResAvatarDesc_Tab>
+<TResHeadAll version="5">
+    <resHead type="TResHead">
+        <Magic>1397052237 </Magic>
+        <Version>6 </Version>
+        <Unit>660 </Unit>
+        <Count>7 </Count>
+        <MetalibHash>531d5b4a397ad5b3c0fbfb5cc8059e55</MetalibHash>
+        <ResVersion>0 </ResVersion>
+        <CreateTime>2023-04-19 20:42:26</CreateTime>
+        <ResEncording>UTF-8</ResEncording>
+        <ContentHash>63cc6030100988155d950fbe5dac3ae9</ContentHash>
+    </resHead>
+    <resHeadExt type="TResHeadExt">
+        <DataOffset>136 </DataOffset>
+    </resHeadExt>
+</TResHeadAll>
+<ResAvatarDesc version="1">
+    <ResID>1001 </ResID>
+    <ModePath>prefab/character/elf/elf_hero001/elf_hero001_02/elf_hero001_02_M_pre</ModePath>
+    <AvatarSkins type="ResAvatarSkinDesc">
+        <SkinID>1301002 </SkinID>
+        <ModePath>prefab/character/elf/elf_hero005/elf_hero005_01_skin01/elf_hero001_02_skin01/elf_hero005_02_M_skin01_pre</ModePath>
+    </AvatarSkins>
+    <AvatarSkins type="ResAvatarSkinDesc">
+        <SkinID>0 </SkinID>
+        <ModePath></ModePath>
+    </AvatarSkins>
+    <AvatarSkins type="ResAvatarSkinDesc">
+        <SkinID>0 </SkinID>
+        <ModePath></ModePath>
+    </AvatarSkins>
+    <AvatarSkins type="ResAvatarSkinDesc">
+        <SkinID>0 </SkinID>
+        <ModePath></ModePath>
+    </AvatarSkins>
+</ResAvatarDesc>
+<ResAvatarDesc version="1">
+    <ResID>1002 </ResID>
+    <ModePath>prefab/character/neu/neu_hero010/neu_hero010_02_M_pre</ModePath>
+    <AvatarSkins type="ResAvatarSkinDesc">
+        <SkinID>1410002 </SkinID>
+        <ModePath>prefab/character/neu/neu_hero010/neu_hero010_skin01/neu_hero010_02_M_skin01_pre</ModePath>
+    </AvatarSkins>
+    <AvatarSkins type="ResAvatarSkinDesc">
+        <SkinID>0 </SkinID>
+        <ModePath></ModePath>
+    </AvatarSkins>
+    <AvatarSkins type="ResAvatarSkinDesc">
+        <SkinID>0 </SkinID>
+        <ModePath></ModePath>
+    </AvatarSkins>
+    <AvatarSkins type="ResAvatarSkinDesc">
+        <SkinID>0 </SkinID>
+        <ModePath></ModePath>
+    </AvatarSkins>
+</ResAvatarDesc>
+<ResAvatarDesc version="1">
+    <ResID>1003 </ResID>
+    <ModePath>prefab/character/polymorph/monster_pig/monster_pig_pre</ModePath>
+    <AvatarSkins type="ResAvatarSkinDesc">
+        <SkinID>0 </SkinID>
+        <ModePath></ModePath>
+    </AvatarSkins>
+    <AvatarSkins type="ResAvatarSkinDesc">
+        <SkinID>0 </SkinID>
+        <ModePath></ModePath>
+    </AvatarSkins>
+    <AvatarSkins type="ResAvatarSkinDesc">
+        <SkinID>0 </SkinID>
+        <ModePath></ModePath>
+    </AvatarSkins>
+    <AvatarSkins type="ResAvatarSkinDesc">
+        <SkinID>0 </SkinID>
+        <ModePath></ModePath>
+    </AvatarSkins>
+</ResAvatarDesc>
+<ResAvatarDesc version="1">
+    <ResID>1004 </ResID>
+    <ModePath>prefab/character/polymorph/monster_pig/monster_flypig_pre</ModePath>
+    <AvatarSkins type="ResAvatarSkinDesc">
+        <SkinID>0 </SkinID>
+        <ModePath></ModePath>
+    </AvatarSkins>
+    <AvatarSkins type="ResAvatarSkinDesc">
+        <SkinID>0 </SkinID>
+        <ModePath></ModePath>
+    </AvatarSkins>
+    <AvatarSkins type="ResAvatarSkinDesc">
+        <SkinID>0 </SkinID>
+        <ModePath></ModePath>
+    </AvatarSkins>
+    <AvatarSkins type="ResAvatarSkinDesc">
+        <SkinID>0 </SkinID>
+        <ModePath></ModePath>
+    </AvatarSkins>
+</ResAvatarDesc>
+<ResAvatarDesc version="1">
+    <ResID>1005 </ResID>
+    <ModePath>prefab/character/elf/elf_army05/elf_army05_02_M_pre</ModePath>
+    <AvatarSkins type="ResAvatarSkinDesc">
+        <SkinID>0 </SkinID>
+        <ModePath></ModePath>
+    </AvatarSkins>
+    <AvatarSkins type="ResAvatarSkinDesc">
+        <SkinID>0 </SkinID>
+        <ModePath></ModePath>
+    </AvatarSkins>
+    <AvatarSkins type="ResAvatarSkinDesc">
+        <SkinID>0 </SkinID>
+        <ModePath></ModePath>
+    </AvatarSkins>
+    <AvatarSkins type="ResAvatarSkinDesc">
+        <SkinID>0 </SkinID>
+        <ModePath></ModePath>
+    </AvatarSkins>
+</ResAvatarDesc>
+<ResAvatarDesc version="1">
+    <ResID>1006 </ResID>
+    <ModePath>prefab/character/neu/neu_hero012/neu_hero012_baby_pre</ModePath>
+    <AvatarSkins type="ResAvatarSkinDesc">
+        <SkinID>0 </SkinID>
+        <ModePath></ModePath>
+    </AvatarSkins>
+    <AvatarSkins type="ResAvatarSkinDesc">
+        <SkinID>0 </SkinID>
+        <ModePath></ModePath>
+    </AvatarSkins>
+    <AvatarSkins type="ResAvatarSkinDesc">
+        <SkinID>0 </SkinID>
+        <ModePath></ModePath>
+    </AvatarSkins>
+    <AvatarSkins type="ResAvatarSkinDesc">
+        <SkinID>0 </SkinID>
+        <ModePath></ModePath>
+    </AvatarSkins>
+</ResAvatarDesc>
+<ResAvatarDesc version="1">
+    <ResID>1007 </ResID>
+    <ModePath>prefab/character/elf/elf_hero005/elf_hero005_02_M_pre</ModePath>
+    <AvatarSkins type="ResAvatarSkinDesc">
+        <SkinID>1301002 </SkinID>
+        <ModePath>prefab/character/elf/elf_hero005/elf_hero005_01_skin01/elf_hero001_02_skin01/elf_hero005_02_M_skin01_pre</ModePath>
+    </AvatarSkins>
+    <AvatarSkins type="ResAvatarSkinDesc">
+        <SkinID>0 </SkinID>
+        <ModePath></ModePath>
+    </AvatarSkins>
+    <AvatarSkins type="ResAvatarSkinDesc">
+        <SkinID>0 </SkinID>
+        <ModePath></ModePath>
+    </AvatarSkins>
+    <AvatarSkins type="ResAvatarSkinDesc">
+        <SkinID>0 </SkinID>
+        <ModePath></ModePath>
+    </AvatarSkins>
+</ResAvatarDesc>
+</ResAvatarDesc_Tab>

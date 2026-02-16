@@ -1,0 +1,505 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<ResLODEffectDesc_Tab>
+<TResHeadAll version="5">
+    <resHead type="TResHead">
+        <Magic>1397052237 </Magic>
+        <Version>6 </Version>
+        <Unit>10 </Unit>
+        <Count>54 </Count>
+        <MetalibHash>531d5b4a397ad5b3c0fbfb5cc8059e55</MetalibHash>
+        <ResVersion>0 </ResVersion>
+        <CreateTime>2023-04-19 20:42:31</CreateTime>
+        <ResEncording>UTF-8</ResEncording>
+        <ContentHash>6728dead9e98556fc92ffd25a9cab6aa</ContentHash>
+    </resHead>
+    <resHeadExt type="TResHeadExt">
+        <DataOffset>136 </DataOffset>
+    </resHeadExt>
+</TResHeadAll>
+<ResLODEffectDesc version="1">
+    <ID>1 </ID>
+    <EffectType>0 </EffectType>
+    <CastType>0 </CastType>
+    <TargetType>0 </TargetType>
+    <LowFlag>1 </LowFlag>
+    <MidFlag>1 </MidFlag>
+    <HighFlag>1 </HighFlag>
+</ResLODEffectDesc>
+<ResLODEffectDesc version="1">
+    <ID>2 </ID>
+    <EffectType>0 </EffectType>
+    <CastType>1 </CastType>
+    <TargetType>1 </TargetType>
+    <LowFlag>0 </LowFlag>
+    <MidFlag>0 </MidFlag>
+    <HighFlag>1 </HighFlag>
+</ResLODEffectDesc>
+<ResLODEffectDesc version="1">
+    <ID>3 </ID>
+    <EffectType>0 </EffectType>
+    <CastType>2 </CastType>
+    <TargetType>2 </TargetType>
+    <LowFlag>0 </LowFlag>
+    <MidFlag>0 </MidFlag>
+    <HighFlag>1 </HighFlag>
+</ResLODEffectDesc>
+<ResLODEffectDesc version="1">
+    <ID>4 </ID>
+    <EffectType>1 </EffectType>
+    <CastType>0 </CastType>
+    <TargetType>0 </TargetType>
+    <LowFlag>1 </LowFlag>
+    <MidFlag>1 </MidFlag>
+    <HighFlag>1 </HighFlag>
+</ResLODEffectDesc>
+<ResLODEffectDesc version="1">
+    <ID>5 </ID>
+    <EffectType>1 </EffectType>
+    <CastType>1 </CastType>
+    <TargetType>0 </TargetType>
+    <LowFlag>1 </LowFlag>
+    <MidFlag>1 </MidFlag>
+    <HighFlag>1 </HighFlag>
+</ResLODEffectDesc>
+<ResLODEffectDesc version="1">
+    <ID>6 </ID>
+    <EffectType>1 </EffectType>
+    <CastType>2 </CastType>
+    <TargetType>0 </TargetType>
+    <LowFlag>1 </LowFlag>
+    <MidFlag>1 </MidFlag>
+    <HighFlag>1 </HighFlag>
+</ResLODEffectDesc>
+<ResLODEffectDesc version="1">
+    <ID>7 </ID>
+    <EffectType>1 </EffectType>
+    <CastType>0 </CastType>
+    <TargetType>1 </TargetType>
+    <LowFlag>1 </LowFlag>
+    <MidFlag>1 </MidFlag>
+    <HighFlag>1 </HighFlag>
+</ResLODEffectDesc>
+<ResLODEffectDesc version="1">
+    <ID>8 </ID>
+    <EffectType>1 </EffectType>
+    <CastType>1 </CastType>
+    <TargetType>1 </TargetType>
+    <LowFlag>0 </LowFlag>
+    <MidFlag>0 </MidFlag>
+    <HighFlag>1 </HighFlag>
+</ResLODEffectDesc>
+<ResLODEffectDesc version="1">
+    <ID>9 </ID>
+    <EffectType>1 </EffectType>
+    <CastType>2 </CastType>
+    <TargetType>1 </TargetType>
+    <LowFlag>0 </LowFlag>
+    <MidFlag>1 </MidFlag>
+    <HighFlag>1 </HighFlag>
+</ResLODEffectDesc>
+<ResLODEffectDesc version="1">
+    <ID>10 </ID>
+    <EffectType>1 </EffectType>
+    <CastType>0 </CastType>
+    <TargetType>2 </TargetType>
+    <LowFlag>1 </LowFlag>
+    <MidFlag>1 </MidFlag>
+    <HighFlag>1 </HighFlag>
+</ResLODEffectDesc>
+<ResLODEffectDesc version="1">
+    <ID>11 </ID>
+    <EffectType>1 </EffectType>
+    <CastType>1 </CastType>
+    <TargetType>2 </TargetType>
+    <LowFlag>0 </LowFlag>
+    <MidFlag>1 </MidFlag>
+    <HighFlag>1 </HighFlag>
+</ResLODEffectDesc>
+<ResLODEffectDesc version="1">
+    <ID>12 </ID>
+    <EffectType>1 </EffectType>
+    <CastType>2 </CastType>
+    <TargetType>2 </TargetType>
+    <LowFlag>0 </LowFlag>
+    <MidFlag>1 </MidFlag>
+    <HighFlag>1 </HighFlag>
+</ResLODEffectDesc>
+<ResLODEffectDesc version="1">
+    <ID>13 </ID>
+    <EffectType>2 </EffectType>
+    <CastType>0 </CastType>
+    <TargetType>0 </TargetType>
+    <LowFlag>0 </LowFlag>
+    <MidFlag>1 </MidFlag>
+    <HighFlag>1 </HighFlag>
+</ResLODEffectDesc>
+<ResLODEffectDesc version="1">
+    <ID>14 </ID>
+    <EffectType>2 </EffectType>
+    <CastType>1 </CastType>
+    <TargetType>0 </TargetType>
+    <LowFlag>0 </LowFlag>
+    <MidFlag>1 </MidFlag>
+    <HighFlag>1 </HighFlag>
+</ResLODEffectDesc>
+<ResLODEffectDesc version="1">
+    <ID>15 </ID>
+    <EffectType>2 </EffectType>
+    <CastType>2 </CastType>
+    <TargetType>0 </TargetType>
+    <LowFlag>0 </LowFlag>
+    <MidFlag>1 </MidFlag>
+    <HighFlag>1 </HighFlag>
+</ResLODEffectDesc>
+<ResLODEffectDesc version="1">
+    <ID>16 </ID>
+    <EffectType>2 </EffectType>
+    <CastType>0 </CastType>
+    <TargetType>1 </TargetType>
+    <LowFlag>0 </LowFlag>
+    <MidFlag>0 </MidFlag>
+    <HighFlag>1 </HighFlag>
+</ResLODEffectDesc>
+<ResLODEffectDesc version="1">
+    <ID>17 </ID>
+    <EffectType>2 </EffectType>
+    <CastType>1 </CastType>
+    <TargetType>1 </TargetType>
+    <LowFlag>0 </LowFlag>
+    <MidFlag>0 </MidFlag>
+    <HighFlag>1 </HighFlag>
+</ResLODEffectDesc>
+<ResLODEffectDesc version="1">
+    <ID>18 </ID>
+    <EffectType>2 </EffectType>
+    <CastType>2 </CastType>
+    <TargetType>1 </TargetType>
+    <LowFlag>0 </LowFlag>
+    <MidFlag>0 </MidFlag>
+    <HighFlag>1 </HighFlag>
+</ResLODEffectDesc>
+<ResLODEffectDesc version="1">
+    <ID>19 </ID>
+    <EffectType>2 </EffectType>
+    <CastType>0 </CastType>
+    <TargetType>2 </TargetType>
+    <LowFlag>0 </LowFlag>
+    <MidFlag>1 </MidFlag>
+    <HighFlag>1 </HighFlag>
+</ResLODEffectDesc>
+<ResLODEffectDesc version="1">
+    <ID>20 </ID>
+    <EffectType>2 </EffectType>
+    <CastType>1 </CastType>
+    <TargetType>2 </TargetType>
+    <LowFlag>0 </LowFlag>
+    <MidFlag>0 </MidFlag>
+    <HighFlag>1 </HighFlag>
+</ResLODEffectDesc>
+<ResLODEffectDesc version="1">
+    <ID>21 </ID>
+    <EffectType>2 </EffectType>
+    <CastType>2 </CastType>
+    <TargetType>2 </TargetType>
+    <LowFlag>0 </LowFlag>
+    <MidFlag>0 </MidFlag>
+    <HighFlag>1 </HighFlag>
+</ResLODEffectDesc>
+<ResLODEffectDesc version="1">
+    <ID>22 </ID>
+    <EffectType>3 </EffectType>
+    <CastType>0 </CastType>
+    <TargetType>0 </TargetType>
+    <LowFlag>1 </LowFlag>
+    <MidFlag>1 </MidFlag>
+    <HighFlag>1 </HighFlag>
+</ResLODEffectDesc>
+<ResLODEffectDesc version="1">
+    <ID>23 </ID>
+    <EffectType>3 </EffectType>
+    <CastType>1 </CastType>
+    <TargetType>0 </TargetType>
+    <LowFlag>1 </LowFlag>
+    <MidFlag>1 </MidFlag>
+    <HighFlag>1 </HighFlag>
+</ResLODEffectDesc>
+<ResLODEffectDesc version="1">
+    <ID>24 </ID>
+    <EffectType>3 </EffectType>
+    <CastType>2 </CastType>
+    <TargetType>0 </TargetType>
+    <LowFlag>1 </LowFlag>
+    <MidFlag>1 </MidFlag>
+    <HighFlag>1 </HighFlag>
+</ResLODEffectDesc>
+<ResLODEffectDesc version="1">
+    <ID>25 </ID>
+    <EffectType>4 </EffectType>
+    <CastType>0 </CastType>
+    <TargetType>0 </TargetType>
+    <LowFlag>0 </LowFlag>
+    <MidFlag>1 </MidFlag>
+    <HighFlag>1 </HighFlag>
+</ResLODEffectDesc>
+<ResLODEffectDesc version="1">
+    <ID>26 </ID>
+    <EffectType>4 </EffectType>
+    <CastType>1 </CastType>
+    <TargetType>0 </TargetType>
+    <LowFlag>0 </LowFlag>
+    <MidFlag>0 </MidFlag>
+    <HighFlag>1 </HighFlag>
+</ResLODEffectDesc>
+<ResLODEffectDesc version="1">
+    <ID>27 </ID>
+    <EffectType>4 </EffectType>
+    <CastType>2 </CastType>
+    <TargetType>0 </TargetType>
+    <LowFlag>0 </LowFlag>
+    <MidFlag>0 </MidFlag>
+    <HighFlag>1 </HighFlag>
+</ResLODEffectDesc>
+<ResLODEffectDesc version="1">
+    <ID>28 </ID>
+    <EffectType>5 </EffectType>
+    <CastType>0 </CastType>
+    <TargetType>0 </TargetType>
+    <LowFlag>1 </LowFlag>
+    <MidFlag>1 </MidFlag>
+    <HighFlag>1 </HighFlag>
+</ResLODEffectDesc>
+<ResLODEffectDesc version="1">
+    <ID>29 </ID>
+    <EffectType>5 </EffectType>
+    <CastType>1 </CastType>
+    <TargetType>0 </TargetType>
+    <LowFlag>1 </LowFlag>
+    <MidFlag>1 </MidFlag>
+    <HighFlag>1 </HighFlag>
+</ResLODEffectDesc>
+<ResLODEffectDesc version="1">
+    <ID>30 </ID>
+    <EffectType>5 </EffectType>
+    <CastType>2 </CastType>
+    <TargetType>0 </TargetType>
+    <LowFlag>1 </LowFlag>
+    <MidFlag>1 </MidFlag>
+    <HighFlag>1 </HighFlag>
+</ResLODEffectDesc>
+<ResLODEffectDesc version="1">
+    <ID>31 </ID>
+    <EffectType>5 </EffectType>
+    <CastType>0 </CastType>
+    <TargetType>1 </TargetType>
+    <LowFlag>0 </LowFlag>
+    <MidFlag>1 </MidFlag>
+    <HighFlag>1 </HighFlag>
+</ResLODEffectDesc>
+<ResLODEffectDesc version="1">
+    <ID>32 </ID>
+    <EffectType>5 </EffectType>
+    <CastType>1 </CastType>
+    <TargetType>1 </TargetType>
+    <LowFlag>0 </LowFlag>
+    <MidFlag>0 </MidFlag>
+    <HighFlag>1 </HighFlag>
+</ResLODEffectDesc>
+<ResLODEffectDesc version="1">
+    <ID>33 </ID>
+    <EffectType>5 </EffectType>
+    <CastType>2 </CastType>
+    <TargetType>1 </TargetType>
+    <LowFlag>0 </LowFlag>
+    <MidFlag>1 </MidFlag>
+    <HighFlag>1 </HighFlag>
+</ResLODEffectDesc>
+<ResLODEffectDesc version="1">
+    <ID>34 </ID>
+    <EffectType>5 </EffectType>
+    <CastType>0 </CastType>
+    <TargetType>2 </TargetType>
+    <LowFlag>1 </LowFlag>
+    <MidFlag>1 </MidFlag>
+    <HighFlag>1 </HighFlag>
+</ResLODEffectDesc>
+<ResLODEffectDesc version="1">
+    <ID>35 </ID>
+    <EffectType>5 </EffectType>
+    <CastType>1 </CastType>
+    <TargetType>2 </TargetType>
+    <LowFlag>0 </LowFlag>
+    <MidFlag>1 </MidFlag>
+    <HighFlag>1 </HighFlag>
+</ResLODEffectDesc>
+<ResLODEffectDesc version="1">
+    <ID>36 </ID>
+    <EffectType>5 </EffectType>
+    <CastType>2 </CastType>
+    <TargetType>2 </TargetType>
+    <LowFlag>0 </LowFlag>
+    <MidFlag>1 </MidFlag>
+    <HighFlag>1 </HighFlag>
+</ResLODEffectDesc>
+<ResLODEffectDesc version="1">
+    <ID>37 </ID>
+    <EffectType>6 </EffectType>
+    <CastType>0 </CastType>
+    <TargetType>0 </TargetType>
+    <LowFlag>1 </LowFlag>
+    <MidFlag>1 </MidFlag>
+    <HighFlag>1 </HighFlag>
+</ResLODEffectDesc>
+<ResLODEffectDesc version="1">
+    <ID>38 </ID>
+    <EffectType>6 </EffectType>
+    <CastType>1 </CastType>
+    <TargetType>1 </TargetType>
+    <LowFlag>1 </LowFlag>
+    <MidFlag>1 </MidFlag>
+    <HighFlag>1 </HighFlag>
+</ResLODEffectDesc>
+<ResLODEffectDesc version="1">
+    <ID>39 </ID>
+    <EffectType>6 </EffectType>
+    <CastType>2 </CastType>
+    <TargetType>2 </TargetType>
+    <LowFlag>1 </LowFlag>
+    <MidFlag>1 </MidFlag>
+    <HighFlag>1 </HighFlag>
+</ResLODEffectDesc>
+<ResLODEffectDesc version="1">
+    <ID>40 </ID>
+    <EffectType>7 </EffectType>
+    <CastType>0 </CastType>
+    <TargetType>0 </TargetType>
+    <LowFlag>1 </LowFlag>
+    <MidFlag>1 </MidFlag>
+    <HighFlag>1 </HighFlag>
+</ResLODEffectDesc>
+<ResLODEffectDesc version="1">
+    <ID>41 </ID>
+    <EffectType>7 </EffectType>
+    <CastType>1 </CastType>
+    <TargetType>0 </TargetType>
+    <LowFlag>1 </LowFlag>
+    <MidFlag>1 </MidFlag>
+    <HighFlag>1 </HighFlag>
+</ResLODEffectDesc>
+<ResLODEffectDesc version="1">
+    <ID>42 </ID>
+    <EffectType>7 </EffectType>
+    <CastType>2 </CastType>
+    <TargetType>0 </TargetType>
+    <LowFlag>1 </LowFlag>
+    <MidFlag>1 </MidFlag>
+    <HighFlag>1 </HighFlag>
+</ResLODEffectDesc>
+<ResLODEffectDesc version="1">
+    <ID>43 </ID>
+    <EffectType>7 </EffectType>
+    <CastType>0 </CastType>
+    <TargetType>1 </TargetType>
+    <LowFlag>1 </LowFlag>
+    <MidFlag>1 </MidFlag>
+    <HighFlag>1 </HighFlag>
+</ResLODEffectDesc>
+<ResLODEffectDesc version="1">
+    <ID>44 </ID>
+    <EffectType>7 </EffectType>
+    <CastType>1 </CastType>
+    <TargetType>1 </TargetType>
+    <LowFlag>1 </LowFlag>
+    <MidFlag>1 </MidFlag>
+    <HighFlag>1 </HighFlag>
+</ResLODEffectDesc>
+<ResLODEffectDesc version="1">
+    <ID>45 </ID>
+    <EffectType>7 </EffectType>
+    <CastType>2 </CastType>
+    <TargetType>1 </TargetType>
+    <LowFlag>1 </LowFlag>
+    <MidFlag>1 </MidFlag>
+    <HighFlag>1 </HighFlag>
+</ResLODEffectDesc>
+<ResLODEffectDesc version="1">
+    <ID>46 </ID>
+    <EffectType>7 </EffectType>
+    <CastType>0 </CastType>
+    <TargetType>2 </TargetType>
+    <LowFlag>1 </LowFlag>
+    <MidFlag>1 </MidFlag>
+    <HighFlag>1 </HighFlag>
+</ResLODEffectDesc>
+<ResLODEffectDesc version="1">
+    <ID>47 </ID>
+    <EffectType>7 </EffectType>
+    <CastType>1 </CastType>
+    <TargetType>2 </TargetType>
+    <LowFlag>1 </LowFlag>
+    <MidFlag>1 </MidFlag>
+    <HighFlag>1 </HighFlag>
+</ResLODEffectDesc>
+<ResLODEffectDesc version="1">
+    <ID>48 </ID>
+    <EffectType>7 </EffectType>
+    <CastType>2 </CastType>
+    <TargetType>2 </TargetType>
+    <LowFlag>1 </LowFlag>
+    <MidFlag>1 </MidFlag>
+    <HighFlag>1 </HighFlag>
+</ResLODEffectDesc>
+<ResLODEffectDesc version="1">
+    <ID>49 </ID>
+    <EffectType>8 </EffectType>
+    <CastType>0 </CastType>
+    <TargetType>0 </TargetType>
+    <LowFlag>1 </LowFlag>
+    <MidFlag>1 </MidFlag>
+    <HighFlag>1 </HighFlag>
+</ResLODEffectDesc>
+<ResLODEffectDesc version="1">
+    <ID>50 </ID>
+    <EffectType>8 </EffectType>
+    <CastType>1 </CastType>
+    <TargetType>1 </TargetType>
+    <LowFlag>1 </LowFlag>
+    <MidFlag>1 </MidFlag>
+    <HighFlag>1 </HighFlag>
+</ResLODEffectDesc>
+<ResLODEffectDesc version="1">
+    <ID>51 </ID>
+    <EffectType>8 </EffectType>
+    <CastType>2 </CastType>
+    <TargetType>2 </TargetType>
+    <LowFlag>1 </LowFlag>
+    <MidFlag>1 </MidFlag>
+    <HighFlag>1 </HighFlag>
+</ResLODEffectDesc>
+<ResLODEffectDesc version="1">
+    <ID>52 </ID>
+    <EffectType>9 </EffectType>
+    <CastType>0 </CastType>
+    <TargetType>0 </TargetType>
+    <LowFlag>1 </LowFlag>
+    <MidFlag>1 </MidFlag>
+    <HighFlag>1 </HighFlag>
+</ResLODEffectDesc>
+<ResLODEffectDesc version="1">
+    <ID>53 </ID>
+    <EffectType>9 </EffectType>
+    <CastType>1 </CastType>
+    <TargetType>1 </TargetType>
+    <LowFlag>1 </LowFlag>
+    <MidFlag>1 </MidFlag>
+    <HighFlag>1 </HighFlag>
+</ResLODEffectDesc>
+<ResLODEffectDesc version="1">
+    <ID>54 </ID>
+    <EffectType>9 </EffectType>
+    <CastType>2 </CastType>
+    <TargetType>2 </TargetType>
+    <LowFlag>1 </LowFlag>
+    <MidFlag>1 </MidFlag>
+    <HighFlag>1 </HighFlag>
+</ResLODEffectDesc>
+</ResLODEffectDesc_Tab>

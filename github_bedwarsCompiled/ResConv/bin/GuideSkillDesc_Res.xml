@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<ResGuideSkillDesc_Tab>
+<TResHeadAll version="5">
+    <resHead type="TResHead">
+        <Magic>1397052237 </Magic>
+        <Version>6 </Version>
+        <Unit>1293 </Unit>
+        <Count>13 </Count>
+        <MetalibHash>531d5b4a397ad5b3c0fbfb5cc8059e55</MetalibHash>
+        <ResVersion>0 </ResVersion>
+        <CreateTime>2023-04-19 20:42:35</CreateTime>
+        <ResEncording>UTF-8</ResEncording>
+        <ContentHash>4580bc763bc79a2fdb7cfe60eb67f610</ContentHash>
+    </resHead>
+    <resHeadExt type="TResHeadExt">
+        <DataOffset>136 </DataOffset>
+    </resHeadExt>
+</TResHeadAll>
+<ResGuideSkillDesc version="1">
+    <ID>400 </ID>
+    <Name_SCN>集火</Name_SCN>
+    <Name_EN>Focus Fire</Name_EN>
+    <Name_FCN>集火</Name_FCN>
+    <Desc_SCN>使用集火按钮来对单个敌人进行集中火力攻击，攻击效果更强</Desc_SCN>
+    <Desc_EN>Use Focus Fire to concentrate your attack on a single target, taking them out more efficiently.</Desc_EN>
+    <Desc_FCN>使用集火按钮来对单个敌人进行集中火力攻击，攻击效果更强</Desc_FCN>
+    <GuideSkillIcon>UITexture/system/jiaoxue/T_ICON_jihuo</GuideSkillIcon>
+    <GuideSkillType>1 </GuideSkillType>
+    <AwardID>4 </AwardID>
+    <AwardNum>30 </AwardNum>
+    <ResVideo>Video/jihuo</ResVideo>
+    <VideoIcon>UITexture/system/jiaoxue/jihuo</VideoIcon>
+</ResGuideSkillDesc>
+<ResGuideSkillDesc version="1">
+    <ID>401 </ID>
+    <Name_SCN>跟随</Name_SCN>
+    <Name_EN>Follow</Name_EN>
+    <Name_FCN>跟随</Name_FCN>
+    <Desc_SCN>使用跟随按钮来控制兵种跟随英雄同步移动，可用来躲避敌人技能，也可在撤退中使兵种快速跟随撤离</Desc_SCN>
+    <Desc_EN>Command your troops to follow you. This is very useful when dodging enemy AOE skills or retreating from combat.</Desc_EN>
+    <Desc_FCN>使用跟随按钮来控制兵种跟随英雄同步移动，可用来躲避敌人技能，也可在撤退中使兵种快速跟随撤离</Desc_FCN>
+    <GuideSkillIcon>UITexture/system/jiaoxue/T_ICON_gensui</GuideSkillIcon>
+    <GuideSkillType>1 </GuideSkillType>
+    <AwardID>4 </AwardID>
+    <AwardNum>30 </AwardNum>
+    <ResVideo>Video/gensui</ResVideo>
+    <VideoIcon>UITexture/system/jiaoxue/gensui</VideoIcon>
+</ResGuideSkillDesc>
+<ResGuideSkillDesc version="1">
+    <ID>402 </ID>
+    <Name_SCN>镜像模式</Name_SCN>
+    <Name_EN>Image Mode</Name_EN>
+    <Name_FCN>镜像模式</Name_FCN>
+    <Desc_SCN>在还有剩余部队的情况下英雄溃败后会变成镜像状态，镜像状态不能使用技能或攻击，但仍然可以指挥部队进行战斗</Desc_SCN>
+    <Desc_EN>Your Hero becomes an image invisible to enemies upon death, allowing your to command your troops as usual.</Desc_EN>
+    <Desc_FCN>在还有剩余部队的情况下英雄溃败后会变成镜像状态，镜像状态不能使用技能或攻击，但仍然可以指挥部队进行战斗</Desc_FCN>
+    <GuideSkillIcon>UITexture/system/jiaoxue/T_ICON_youling</GuideSkillIcon>
+    <GuideSkillType>1 </GuideSkillType>
+    <AwardID>4 </AwardID>
+    <AwardNum>30 </AwardNum>
+    <ResVideo>Video/youlingmoshi</ResVideo>
+    <VideoIcon>UITexture/system/jiaoxue/youlingmoshi</VideoIcon>
+</ResGuideSkillDesc>
+<ResGuideSkillDesc version="1">
+    <ID>403 </ID>
+    <Name_SCN>传送</Name_SCN>
+    <Name_EN>Teleport</Name_EN>
+    <Name_FCN>传送</Name_FCN>
+    <Desc_SCN>使用传送技能可以快速传送到队友或者金矿位置来进行支援</Desc_SCN>
+    <Desc_EN>Use Teleport to quickly travel to ally location or mines. Time is of the essence!</Desc_EN>
+    <Desc_FCN>使用传送技能可以快速传送到队友或者金矿位置来进行支援</Desc_FCN>
+    <GuideSkillIcon>UITexture/system/jiaoxue/T_ICON_chuansong</GuideSkillIcon>
+    <GuideSkillType>1 </GuideSkillType>
+    <AwardID>4 </AwardID>
+    <AwardNum>30 </AwardNum>
+    <ResVideo>Video/chuansong</ResVideo>
+    <VideoIcon>UITexture/system/jiaoxue/chuansong</VideoIcon>
+</ResGuideSkillDesc>
+<ResGuideSkillDesc version="1">
+    <ID>404 </ID>
+    <Name_SCN>开矿</Name_SCN>
+    <Name_EN>Expand</Name_EN>
+    <Name_FCN>开矿</Name_FCN>
+    <Desc_SCN>开启野外金矿增加金币产出，增快金币获取速度</Desc_SCN>
+    <Desc_EN>Expand to unoccupied mines to increase your Gold production.</Desc_EN>
+    <Desc_FCN>开启野外金矿增加金币产出，增快金币获取速度</Desc_FCN>
+    <GuideSkillIcon>UITexture/system/jiaoxue/T_ICON_kaikuang</GuideSkillIcon>
+    <GuideSkillType>2 </GuideSkillType>
+    <AwardID>4 </AwardID>
+    <AwardNum>30 </AwardNum>
+    <ResVideo>Video/zaokuang</ResVideo>
+    <VideoIcon>UITexture/system/jiaoxue/zaokuang</VideoIcon>
+</ResGuideSkillDesc>
+<ResGuideSkillDesc version="1">
+    <ID>405 </ID>
+    <Name_SCN>造塔</Name_SCN>
+    <Name_EN>Build Turrets</Name_EN>
+    <Name_FCN>造塔</Name_FCN>
+    <Desc_SCN>在任意位置建造防御塔进行防守或者进攻，防御塔不仅可以反隐，并且是固定火力输出点</Desc_SCN>
+    <Desc_EN>Build Turrets anywhere to assist you in combat. They provide solid firepower while being able to detect Stealthy units.</Desc_EN>
+    <Desc_FCN>在任意位置建造防御塔进行防守或者进攻，防御塔不仅可以反隐，并且是固定火力输出点</Desc_FCN>
+    <GuideSkillIcon>UITexture/system/jiaoxue/T_ICON_zaota</GuideSkillIcon>
+    <GuideSkillType>2 </GuideSkillType>
+    <AwardID>4 </AwardID>
+    <AwardNum>30 </AwardNum>
+    <ResVideo>Video/zaota</ResVideo>
+    <VideoIcon>UITexture/system/jiaoxue/zaota</VideoIcon>
+</ResGuideSkillDesc>
+<ResGuideSkillDesc version="1">
+    <ID>406 </ID>
+    <Name_SCN>维修</Name_SCN>
+    <Name_EN>Repair</Name_EN>
+    <Name_FCN>维修</Name_FCN>
+    <Desc_SCN>对受损的建筑进行维修，使其保持最佳状态</Desc_SCN>
+    <Desc_EN>Repair damaged buildings to keep them in good shape.</Desc_EN>
+    <Desc_FCN>对受损的建筑进行维修，使其保持最佳状态</Desc_FCN>
+    <GuideSkillIcon>UITexture/system/jiaoxue/T_ICON_weixiu</GuideSkillIcon>
+    <GuideSkillType>2 </GuideSkillType>
+    <AwardID>4 </AwardID>
+    <AwardNum>30 </AwardNum>
+    <ResVideo>Video/weixiu</ResVideo>
+    <VideoIcon>UITexture/system/jiaoxue/weixiu</VideoIcon>
+</ResGuideSkillDesc>
+<ResGuideSkillDesc version="1">
+    <ID>407 </ID>
+    <Name_SCN>侦查</Name_SCN>
+    <Name_EN>Scout</Name_EN>
+    <Name_FCN>侦查</Name_FCN>
+    <Desc_SCN>每个种族都拥有自己独一无二的侦查技能，使用侦查技能可以有效了解战场信息及敌人动态</Desc_SCN>
+    <Desc_EN>The four races each have their unique Scouting Skills. Use them wisely to control the map and enemy movements.</Desc_EN>
+    <Desc_FCN>每个种族都拥有自己独一无二的侦查技能，使用侦查技能可以有效了解战场信息及敌人动态</Desc_FCN>
+    <GuideSkillIcon>UITexture/system/jiaoxue/T_ICON_zhencha</GuideSkillIcon>
+    <GuideSkillType>2 </GuideSkillType>
+    <AwardID>4 </AwardID>
+    <AwardNum>30 </AwardNum>
+    <ResVideo>Video/zhencha</ResVideo>
+    <VideoIcon>UITexture/system/jiaoxue/zhencha</VideoIcon>
+</ResGuideSkillDesc>
+<ResGuideSkillDesc version="1">
+    <ID>408 </ID>
+    <Name_SCN>科技界面</Name_SCN>
+    <Name_EN>Tech Screen</Name_EN>
+    <Name_FCN>科技界面</Name_FCN>
+    <Desc_SCN>科技界面可以进行兵种训练，查看兵种技能效果，也可以对主基地，人口，兵种攻防进行升级</Desc_SCN>
+    <Desc_EN>You can train troops, view troop skills, upgrade Castle, Supply Cap, upgrade troop attack and defense in tech screen.</Desc_EN>
+    <Desc_FCN>科技界面可以进行兵种训练，查看兵种技能效果，也可以对主基地，人口，兵种攻防进行升级</Desc_FCN>
+    <GuideSkillIcon>UITexture/system/jiaoxue/T_ICON_kejijiemian</GuideSkillIcon>
+    <GuideSkillType>3 </GuideSkillType>
+    <AwardID>4 </AwardID>
+    <AwardNum>30 </AwardNum>
+    <ResVideo>Video/kejijiemian</ResVideo>
+    <VideoIcon>UITexture/system/jiaoxue/kuaijiekeji</VideoIcon>
+</ResGuideSkillDesc>
+<ResGuideSkillDesc version="1">
+    <ID>409 </ID>
+    <Name_SCN>装备</Name_SCN>
+    <Name_EN>Gear</Name_EN>
+    <Name_FCN>装备</Name_FCN>
+    <Desc_SCN>打野会掉落不同等级的装备，可以拾取获得装备，并在装备界面查看装备属性或者丢弃，出售该装备</Desc_SCN>
+    <Desc_EN>Wild monsters provide gear of various rarities. Once you pick up a piece of gear, you can find them in your inventory, where you can discard or sell them.</Desc_EN>
+    <Desc_FCN>打野会掉落不同等级的装备，可以拾取获得装备，并在装备界面查看装备属性或者丢弃，出售该装备</Desc_FCN>
+    <GuideSkillIcon>UITexture/system/jiaoxue/T_ICON_zhuangbei</GuideSkillIcon>
+    <GuideSkillType>3 </GuideSkillType>
+    <AwardID>4 </AwardID>
+    <AwardNum>30 </AwardNum>
+    <ResVideo>Video/zhuangbei</ResVideo>
+    <VideoIcon>UITexture/system/jiaoxue/zhuangbei</VideoIcon>
+</ResGuideSkillDesc>
+<ResGuideSkillDesc version="1">
+    <ID>410 </ID>
+    <Name_SCN>快捷出兵</Name_SCN>
+    <Name_EN>Quick Troop</Name_EN>
+    <Name_FCN>快捷出兵</Name_FCN>
+    <Desc_SCN>通过对快捷出兵的设置可以改变推荐出兵的内容，从而根据自己的战术喜好来快速出兵</Desc_SCN>
+    <Desc_EN>Quick Troop allows you to customize your own army composition that has the best synergy with your tactics.</Desc_EN>
+    <Desc_FCN>通过对快捷出兵的设置可以改变推荐出兵的内容，从而根据自己的战术喜好来快速出兵</Desc_FCN>
+    <GuideSkillIcon>UITexture/system/jiaoxue/T_ICON_kuaijiechubing</GuideSkillIcon>
+    <GuideSkillType>3 </GuideSkillType>
+    <AwardID>4 </AwardID>
+    <AwardNum>30 </AwardNum>
+    <ResVideo>Video/kuaijiechubing</ResVideo>
+    <VideoIcon>UITexture/system/jiaoxue/kuaijiechubing</VideoIcon>
+</ResGuideSkillDesc>
+<ResGuideSkillDesc version="1">
+    <ID>411 </ID>
+    <Name_SCN>快捷科技界面</Name_SCN>
+    <Name_EN>Quick Tech Screen</Name_EN>
+    <Name_FCN>快捷科技界面</Name_FCN>
+    <Desc_SCN>科技界面可以通过使用快捷科技界面按钮在完整版与简化版来回切换</Desc_SCN>
+    <Desc_EN>In tech screen, you can toggle between complete and simple views by tapping on the Quick Tech Screen button.</Desc_EN>
+    <Desc_FCN>科技界面可以通过使用快捷科技界面按钮在完整版与简化版来回切换</Desc_FCN>
+    <GuideSkillIcon>UITexture/system/jiaoxue/T_ICON_kuaijiekeji</GuideSkillIcon>
+    <GuideSkillType>3 </GuideSkillType>
+    <AwardID>4 </AwardID>
+    <AwardNum>30 </AwardNum>
+    <ResVideo>Video/kuaijiekeji</ResVideo>
+    <VideoIcon>UITexture/system/jiaoxue/kuaijiekeji</VideoIcon>
+</ResGuideSkillDesc>
+<ResGuideSkillDesc version="1">
+    <ID>412 </ID>
+    <Name_SCN>兵种解散</Name_SCN>
+    <Name_EN>Dismiss Troops</Name_EN>
+    <Name_FCN>兵种解散</Name_FCN>
+    <Desc_SCN>在泉水中对兵种进行解散，可以使其转换成金钱并释放所占用的人口</Desc_SCN>
+    <Desc_EN>You can dismiss your troops near your Fountain to get refunds and make room for other troops.</Desc_EN>
+    <Desc_FCN>在泉水中对兵种进行解散，可以使其转换成金钱并释放所占用的人口</Desc_FCN>
+    <GuideSkillIcon>UITexture/system/jiaoxue/T_ICON_jiesan</GuideSkillIcon>
+    <GuideSkillType>3 </GuideSkillType>
+    <AwardID>4 </AwardID>
+    <AwardNum>30 </AwardNum>
+    <ResVideo>Video/qiansan</ResVideo>
+    <VideoIcon>UITexture/system/jiaoxue/qiansan</VideoIcon>
+</ResGuideSkillDesc>
+</ResGuideSkillDesc_Tab>

@@ -1,0 +1,2181 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<ResGoodsItemDesc_Tab>
+<TResHeadAll version="5">
+    <resHead type="TResHead">
+        <Magic>1397052237 </Magic>
+        <Version>6 </Version>
+        <Unit>2425 </Unit>
+        <Count>54 </Count>
+        <MetalibHash>531d5b4a397ad5b3c0fbfb5cc8059e55</MetalibHash>
+        <ResVersion>0 </ResVersion>
+        <CreateTime>2023-04-19 20:42:31</CreateTime>
+        <ResEncording>UTF-8</ResEncording>
+        <ContentHash>90d1779808406dc8c019abf792999a39</ContentHash>
+    </resHead>
+    <resHeadExt type="TResHeadExt">
+        <DataOffset>136 </DataOffset>
+    </resHeadExt>
+</TResHeadAll>
+<ResGoodsItemDesc version="1">
+    <ResID>10000101 </ResID>
+    <Type>1 </Type>
+    <Level>9 </Level>
+    <Quality>0 </Quality>
+    <Name_SCN>回城</Name_SCN>
+    <Name_EN>Return</Name_EN>
+    <Name_FCN>回城</Name_FCN>
+    <Desc_SCN>回城</Desc_SCN>
+    <Desc_EN>Return</Desc_EN>
+    <Desc_FCN>回城</Desc_FCN>
+    <DescDetail_SCN></DescDetail_SCN>
+    <DescDetail_EN>Return</DescDetail_EN>
+    <DescDetail_FCN></DescDetail_FCN>
+    <Icon>UITexture/Item/summoner/T_BG_xunlian_35</Icon>
+    <DropModelPath></DropModelPath>
+    <EquipFlowPath></EquipFlowPath>
+    <DropPickupEffectPath></DropPickupEffectPath>
+    <TipsText_SCN></TipsText_SCN>
+    <TipsText_EN></TipsText_EN>
+    <TipsText_FCN></TipsText_FCN>
+    <MaxHoldNum>9999 </MaxHoldNum>
+    <UseCd>0 </UseCd>
+    <CostType>0 </CostType>
+    <UseCost>1 </UseCost>
+    <GoldCost>0 </GoldCost>
+    <ValidityTime>-1 </ValidityTime>
+    <PickType>1 </PickType>
+    <PickParams>0 0 </PickParams>
+    <UseType>1 </UseType>
+    <ItemGrade>0 </ItemGrade>
+    <Effects type="ResItemEffect">
+        <Type>1 </Type>
+        <Param>70000001 1 </Param>
+    </Effects>
+    <Effects type="ResItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 </Param>
+    </Effects>
+</ResGoodsItemDesc>
+<ResGoodsItemDesc version="1">
+    <ResID>10000102 </ResID>
+    <Type>1 </Type>
+    <Level>9 </Level>
+    <Quality>0 </Quality>
+    <Name_SCN>传送</Name_SCN>
+    <Name_EN>Teleport</Name_EN>
+    <Name_FCN>传送</Name_FCN>
+    <Desc_SCN>传送</Desc_SCN>
+    <Desc_EN>Teleport</Desc_EN>
+    <Desc_FCN>传送</Desc_FCN>
+    <DescDetail_SCN></DescDetail_SCN>
+    <DescDetail_EN>Teleport</DescDetail_EN>
+    <DescDetail_FCN></DescDetail_FCN>
+    <Icon>UITexture/Item/summoner/T_BG_xunlian_34</Icon>
+    <DropModelPath></DropModelPath>
+    <EquipFlowPath></EquipFlowPath>
+    <DropPickupEffectPath></DropPickupEffectPath>
+    <TipsText_SCN></TipsText_SCN>
+    <TipsText_EN></TipsText_EN>
+    <TipsText_FCN></TipsText_FCN>
+    <MaxHoldNum>9999 </MaxHoldNum>
+    <UseCd>120000 </UseCd>
+    <CostType>0 </CostType>
+    <UseCost>1 </UseCost>
+    <GoldCost>0 </GoldCost>
+    <ValidityTime>-1 </ValidityTime>
+    <PickType>1 </PickType>
+    <PickParams>0 0 </PickParams>
+    <UseType>1 </UseType>
+    <ItemGrade>0 </ItemGrade>
+    <Effects type="ResItemEffect">
+        <Type>1 </Type>
+        <Param>70000701 0 </Param>
+    </Effects>
+    <Effects type="ResItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 </Param>
+    </Effects>
+</ResGoodsItemDesc>
+<ResGoodsItemDesc version="1">
+    <ResID>10000201 </ResID>
+    <Type>2 </Type>
+    <Level>1 </Level>
+    <Quality>1 </Quality>
+    <Name_SCN>金币+75</Name_SCN>
+    <Name_EN>Hero Coins +75</Name_EN>
+    <Name_FCN>金币+75</Name_FCN>
+    <Desc_SCN>拾取后金币+75</Desc_SCN>
+    <Desc_EN>Gold +75</Desc_EN>
+    <Desc_FCN>拾取后金币+75</Desc_FCN>
+    <DescDetail_SCN>拾取后金币+75</DescDetail_SCN>
+    <DescDetail_EN>Gold +75</DescDetail_EN>
+    <DescDetail_FCN>拾取后金币+75</DescDetail_FCN>
+    <Icon>UITexture/Item/gold/jinbi</Icon>
+    <DropModelPath>prefab/item/item_jinbi/item_jinbi_pre</DropModelPath>
+    <EquipFlowPath></EquipFlowPath>
+    <DropPickupEffectPath>data/skillflow/rts/monster/drop/drop_pickup_gold</DropPickupEffectPath>
+    <TipsText_SCN></TipsText_SCN>
+    <TipsText_EN></TipsText_EN>
+    <TipsText_FCN></TipsText_FCN>
+    <MaxHoldNum>9999 </MaxHoldNum>
+    <UseCd>0 </UseCd>
+    <CostType>0 </CostType>
+    <UseCost>1 </UseCost>
+    <GoldCost>0 </GoldCost>
+    <ValidityTime>-1 </ValidityTime>
+    <PickType>1 </PickType>
+    <PickParams>0 0 </PickParams>
+    <UseType>2 </UseType>
+    <ItemGrade>0 </ItemGrade>
+    <Effects type="ResItemEffect">
+        <Type>3 </Type>
+        <Param>0 75 </Param>
+    </Effects>
+    <Effects type="ResItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 </Param>
+    </Effects>
+</ResGoodsItemDesc>
+<ResGoodsItemDesc version="1">
+    <ResID>10000202 </ResID>
+    <Type>2 </Type>
+    <Level>2 </Level>
+    <Quality>2 </Quality>
+    <Name_SCN>金币+80</Name_SCN>
+    <Name_EN>Hero Coins +80</Name_EN>
+    <Name_FCN>金币+80</Name_FCN>
+    <Desc_SCN>拾取后金币+80</Desc_SCN>
+    <Desc_EN>Gold +80</Desc_EN>
+    <Desc_FCN>拾取后金币+80</Desc_FCN>
+    <DescDetail_SCN>拾取后金币+80</DescDetail_SCN>
+    <DescDetail_EN>Gold +80</DescDetail_EN>
+    <DescDetail_FCN>拾取后金币+80</DescDetail_FCN>
+    <Icon>UITexture/Item/gold/jinbi</Icon>
+    <DropModelPath>prefab/item/item_jinbi/item_jinbi_pre</DropModelPath>
+    <EquipFlowPath></EquipFlowPath>
+    <DropPickupEffectPath>data/skillflow/rts/monster/drop/drop_pickup_gold</DropPickupEffectPath>
+    <TipsText_SCN></TipsText_SCN>
+    <TipsText_EN></TipsText_EN>
+    <TipsText_FCN></TipsText_FCN>
+    <MaxHoldNum>9999 </MaxHoldNum>
+    <UseCd>0 </UseCd>
+    <CostType>0 </CostType>
+    <UseCost>1 </UseCost>
+    <GoldCost>0 </GoldCost>
+    <ValidityTime>-1 </ValidityTime>
+    <PickType>1 </PickType>
+    <PickParams>0 0 </PickParams>
+    <UseType>2 </UseType>
+    <ItemGrade>0 </ItemGrade>
+    <Effects type="ResItemEffect">
+        <Type>3 </Type>
+        <Param>0 120 </Param>
+    </Effects>
+    <Effects type="ResItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 </Param>
+    </Effects>
+</ResGoodsItemDesc>
+<ResGoodsItemDesc version="1">
+    <ResID>10000203 </ResID>
+    <Type>2 </Type>
+    <Level>3 </Level>
+    <Quality>3 </Quality>
+    <Name_SCN>金币+120</Name_SCN>
+    <Name_EN>Hero Coins +120</Name_EN>
+    <Name_FCN>金币+120</Name_FCN>
+    <Desc_SCN>拾取后金币+120</Desc_SCN>
+    <Desc_EN>Gold +120</Desc_EN>
+    <Desc_FCN>拾取后金币+120</Desc_FCN>
+    <DescDetail_SCN>拾取后金币+120</DescDetail_SCN>
+    <DescDetail_EN>Gold +120</DescDetail_EN>
+    <DescDetail_FCN>拾取后金币+120</DescDetail_FCN>
+    <Icon>UITexture/Item/gold/jinbi</Icon>
+    <DropModelPath>prefab/item/item_jinbi/item_jinbi_pre</DropModelPath>
+    <EquipFlowPath></EquipFlowPath>
+    <DropPickupEffectPath>data/skillflow/rts/monster/drop/drop_pickup_gold</DropPickupEffectPath>
+    <TipsText_SCN></TipsText_SCN>
+    <TipsText_EN></TipsText_EN>
+    <TipsText_FCN></TipsText_FCN>
+    <MaxHoldNum>9999 </MaxHoldNum>
+    <UseCd>0 </UseCd>
+    <CostType>0 </CostType>
+    <UseCost>1 </UseCost>
+    <GoldCost>0 </GoldCost>
+    <ValidityTime>-1 </ValidityTime>
+    <PickType>1 </PickType>
+    <PickParams>0 0 </PickParams>
+    <UseType>2 </UseType>
+    <ItemGrade>0 </ItemGrade>
+    <Effects type="ResItemEffect">
+        <Type>3 </Type>
+        <Param>0 180 </Param>
+    </Effects>
+    <Effects type="ResItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 </Param>
+    </Effects>
+</ResGoodsItemDesc>
+<ResGoodsItemDesc version="1">
+    <ResID>10000204 </ResID>
+    <Type>2 </Type>
+    <Level>4 </Level>
+    <Quality>4 </Quality>
+    <Name_SCN>金币+200</Name_SCN>
+    <Name_EN>Hero Coins +200</Name_EN>
+    <Name_FCN>金币+200</Name_FCN>
+    <Desc_SCN>拾取后金币+200</Desc_SCN>
+    <Desc_EN>Gold +200</Desc_EN>
+    <Desc_FCN>拾取后金币+200</Desc_FCN>
+    <DescDetail_SCN>拾取后金币+200</DescDetail_SCN>
+    <DescDetail_EN>Gold +200</DescDetail_EN>
+    <DescDetail_FCN>拾取后金币+200</DescDetail_FCN>
+    <Icon>UITexture/Item/gold/jinbi</Icon>
+    <DropModelPath>prefab/item/item_jinbi/item_jinbi_pre</DropModelPath>
+    <EquipFlowPath></EquipFlowPath>
+    <DropPickupEffectPath>data/skillflow/rts/monster/drop/drop_pickup_gold</DropPickupEffectPath>
+    <TipsText_SCN></TipsText_SCN>
+    <TipsText_EN></TipsText_EN>
+    <TipsText_FCN></TipsText_FCN>
+    <MaxHoldNum>9999 </MaxHoldNum>
+    <UseCd>0 </UseCd>
+    <CostType>0 </CostType>
+    <UseCost>1 </UseCost>
+    <GoldCost>0 </GoldCost>
+    <ValidityTime>-1 </ValidityTime>
+    <PickType>1 </PickType>
+    <PickParams>0 0 </PickParams>
+    <UseType>2 </UseType>
+    <ItemGrade>0 </ItemGrade>
+    <Effects type="ResItemEffect">
+        <Type>3 </Type>
+        <Param>0 300 </Param>
+    </Effects>
+    <Effects type="ResItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 </Param>
+    </Effects>
+</ResGoodsItemDesc>
+<ResGoodsItemDesc version="1">
+    <ResID>10000301 </ResID>
+    <Type>3 </Type>
+    <Level>1 </Level>
+    <Quality>1 </Quality>
+    <Name_SCN>生命卷轴+1</Name_SCN>
+    <Name_EN>Health Book +1</Name_EN>
+    <Name_FCN>生命卷轴+1</Name_FCN>
+    <Desc_SCN>拾取永久增加英雄125点生命值</Desc_SCN>
+    <Desc_EN>Increase Hero Health +125</Desc_EN>
+    <Desc_FCN>拾取永久增加英雄125点生命值</Desc_FCN>
+    <DescDetail_SCN>拾取永久增加英雄125点生命值</DescDetail_SCN>
+    <DescDetail_EN>Increase Hero Health +125</DescDetail_EN>
+    <DescDetail_FCN>拾取永久增加英雄125点生命值</DescDetail_FCN>
+    <Icon>UITexture/Item/book/item_book_green</Icon>
+    <DropModelPath>prefab/item/item_book/item_book_green_pre</DropModelPath>
+    <EquipFlowPath></EquipFlowPath>
+    <DropPickupEffectPath>data/skillflow/rts/monster/drop/drop_pickup_book</DropPickupEffectPath>
+    <TipsText_SCN>属性提升</TipsText_SCN>
+    <TipsText_EN>属性提升</TipsText_EN>
+    <TipsText_FCN>属性提升</TipsText_FCN>
+    <MaxHoldNum>9999 </MaxHoldNum>
+    <UseCd>0 </UseCd>
+    <CostType>0 </CostType>
+    <UseCost>1 </UseCost>
+    <GoldCost>0 </GoldCost>
+    <ValidityTime>-1 </ValidityTime>
+    <PickType>1 </PickType>
+    <PickParams>0 0 </PickParams>
+    <UseType>2 </UseType>
+    <ItemGrade>0 </ItemGrade>
+    <Effects type="ResItemEffect">
+        <Type>2 </Type>
+        <Param>600301101 0 </Param>
+    </Effects>
+    <Effects type="ResItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 </Param>
+    </Effects>
+</ResGoodsItemDesc>
+<ResGoodsItemDesc version="1">
+    <ResID>10000302 </ResID>
+    <Type>3 </Type>
+    <Level>1 </Level>
+    <Quality>1 </Quality>
+    <Name_SCN>魔法卷轴+1</Name_SCN>
+    <Name_EN>Magic Book +1</Name_EN>
+    <Name_FCN>魔法卷轴+1</Name_FCN>
+    <Desc_SCN>拾取永久增加英雄17点法术强度</Desc_SCN>
+    <Desc_EN>Increase Hero Magic Power +17</Desc_EN>
+    <Desc_FCN>拾取永久增加英雄17点法术强度</Desc_FCN>
+    <DescDetail_SCN>拾取永久增加英雄17点法术强度</DescDetail_SCN>
+    <DescDetail_EN>Increase Hero Magic Power +17</DescDetail_EN>
+    <DescDetail_FCN>拾取永久增加英雄17点法术强度</DescDetail_FCN>
+    <Icon>UITexture/Item/book/item_book_blue</Icon>
+    <DropModelPath>prefab/item/item_book/item_book_blue_pre</DropModelPath>
+    <EquipFlowPath></EquipFlowPath>
+    <DropPickupEffectPath>data/skillflow/rts/monster/drop/drop_pickup_book</DropPickupEffectPath>
+    <TipsText_SCN>属性提升</TipsText_SCN>
+    <TipsText_EN>属性提升</TipsText_EN>
+    <TipsText_FCN>属性提升</TipsText_FCN>
+    <MaxHoldNum>9999 </MaxHoldNum>
+    <UseCd>0 </UseCd>
+    <CostType>0 </CostType>
+    <UseCost>1 </UseCost>
+    <GoldCost>0 </GoldCost>
+    <ValidityTime>-1 </ValidityTime>
+    <PickType>1 </PickType>
+    <PickParams>0 0 </PickParams>
+    <UseType>2 </UseType>
+    <ItemGrade>0 </ItemGrade>
+    <Effects type="ResItemEffect">
+        <Type>2 </Type>
+        <Param>600302101 0 </Param>
+    </Effects>
+    <Effects type="ResItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 </Param>
+    </Effects>
+</ResGoodsItemDesc>
+<ResGoodsItemDesc version="1">
+    <ResID>10000303 </ResID>
+    <Type>3 </Type>
+    <Level>1 </Level>
+    <Quality>1 </Quality>
+    <Name_SCN>力量卷轴+1</Name_SCN>
+    <Name_EN>Power Book +1</Name_EN>
+    <Name_FCN>力量卷轴+1</Name_FCN>
+    <Desc_SCN>拾取永久增加英雄10点攻击力</Desc_SCN>
+    <Desc_EN>Increase Hero Attack Power +10</Desc_EN>
+    <Desc_FCN>拾取永久增加英雄10点攻击力</Desc_FCN>
+    <DescDetail_SCN>拾取永久增加英雄10点攻击力</DescDetail_SCN>
+    <DescDetail_EN>Increase Hero Attack Power +10</DescDetail_EN>
+    <DescDetail_FCN>拾取永久增加英雄10点攻击力</DescDetail_FCN>
+    <Icon>UITexture/Item/book/item_book_red</Icon>
+    <DropModelPath>prefab/item/item_book/item_book_red_pre</DropModelPath>
+    <EquipFlowPath></EquipFlowPath>
+    <DropPickupEffectPath>data/skillflow/rts/monster/drop/drop_pickup_book</DropPickupEffectPath>
+    <TipsText_SCN>属性提升</TipsText_SCN>
+    <TipsText_EN>属性提升</TipsText_EN>
+    <TipsText_FCN>属性提升</TipsText_FCN>
+    <MaxHoldNum>9999 </MaxHoldNum>
+    <UseCd>0 </UseCd>
+    <CostType>0 </CostType>
+    <UseCost>1 </UseCost>
+    <GoldCost>0 </GoldCost>
+    <ValidityTime>-1 </ValidityTime>
+    <PickType>1 </PickType>
+    <PickParams>0 0 </PickParams>
+    <UseType>2 </UseType>
+    <ItemGrade>0 </ItemGrade>
+    <Effects type="ResItemEffect">
+        <Type>2 </Type>
+        <Param>600303101 0 </Param>
+    </Effects>
+    <Effects type="ResItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 </Param>
+    </Effects>
+</ResGoodsItemDesc>
+<ResGoodsItemDesc version="1">
+    <ResID>10000304 </ResID>
+    <Type>3 </Type>
+    <Level>1 </Level>
+    <Quality>1 </Quality>
+    <Name_SCN>守护卷轴+1</Name_SCN>
+    <Name_EN>Protection Book +1</Name_EN>
+    <Name_FCN>守护卷轴+1</Name_FCN>
+    <Desc_SCN>拾取永久增加英雄24点护甲值</Desc_SCN>
+    <Desc_EN>Increase Hero Armor +24</Desc_EN>
+    <Desc_FCN>拾取永久增加英雄24点护甲值</Desc_FCN>
+    <DescDetail_SCN>拾取永久增加英雄24点护甲值</DescDetail_SCN>
+    <DescDetail_EN>Increase Hero Armor +24</DescDetail_EN>
+    <DescDetail_FCN>拾取永久增加英雄24点护甲值</DescDetail_FCN>
+    <Icon>UITexture/Item/book/item_book_yellow</Icon>
+    <DropModelPath>prefab/item/item_book/item_book_yellow_pre</DropModelPath>
+    <EquipFlowPath></EquipFlowPath>
+    <DropPickupEffectPath>data/skillflow/rts/monster/drop/drop_pickup_book</DropPickupEffectPath>
+    <TipsText_SCN>属性提升</TipsText_SCN>
+    <TipsText_EN>属性提升</TipsText_EN>
+    <TipsText_FCN>属性提升</TipsText_FCN>
+    <MaxHoldNum>9999 </MaxHoldNum>
+    <UseCd>0 </UseCd>
+    <CostType>0 </CostType>
+    <UseCost>1 </UseCost>
+    <GoldCost>0 </GoldCost>
+    <ValidityTime>-1 </ValidityTime>
+    <PickType>1 </PickType>
+    <PickParams>0 0 </PickParams>
+    <UseType>2 </UseType>
+    <ItemGrade>0 </ItemGrade>
+    <Effects type="ResItemEffect">
+        <Type>2 </Type>
+        <Param>600304101 0 </Param>
+    </Effects>
+    <Effects type="ResItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 </Param>
+    </Effects>
+</ResGoodsItemDesc>
+<ResGoodsItemDesc version="1">
+    <ResID>10000305 </ResID>
+    <Type>3 </Type>
+    <Level>2 </Level>
+    <Quality>2 </Quality>
+    <Name_SCN>生命卷轴+2</Name_SCN>
+    <Name_EN>Health Book +2</Name_EN>
+    <Name_FCN>生命卷轴+2</Name_FCN>
+    <Desc_SCN>拾取永久增加英雄250点生命值</Desc_SCN>
+    <Desc_EN>Increase Hero Health +250</Desc_EN>
+    <Desc_FCN>拾取永久增加英雄250点生命值</Desc_FCN>
+    <DescDetail_SCN>拾取永久增加英雄250点生命值</DescDetail_SCN>
+    <DescDetail_EN>Increase Hero Health +250</DescDetail_EN>
+    <DescDetail_FCN>拾取永久增加英雄250点生命值</DescDetail_FCN>
+    <Icon>UITexture/Item/book/item_book_green</Icon>
+    <DropModelPath>prefab/item/item_book/item_book_green_pre</DropModelPath>
+    <EquipFlowPath></EquipFlowPath>
+    <DropPickupEffectPath>data/skillflow/rts/monster/drop/drop_pickup_book</DropPickupEffectPath>
+    <TipsText_SCN>属性提升</TipsText_SCN>
+    <TipsText_EN>属性提升</TipsText_EN>
+    <TipsText_FCN>属性提升</TipsText_FCN>
+    <MaxHoldNum>9999 </MaxHoldNum>
+    <UseCd>0 </UseCd>
+    <CostType>0 </CostType>
+    <UseCost>1 </UseCost>
+    <GoldCost>0 </GoldCost>
+    <ValidityTime>-1 </ValidityTime>
+    <PickType>1 </PickType>
+    <PickParams>0 0 </PickParams>
+    <UseType>2 </UseType>
+    <ItemGrade>0 </ItemGrade>
+    <Effects type="ResItemEffect">
+        <Type>2 </Type>
+        <Param>600305101 0 </Param>
+    </Effects>
+    <Effects type="ResItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 </Param>
+    </Effects>
+</ResGoodsItemDesc>
+<ResGoodsItemDesc version="1">
+    <ResID>10000306 </ResID>
+    <Type>3 </Type>
+    <Level>2 </Level>
+    <Quality>2 </Quality>
+    <Name_SCN>魔法卷轴+2</Name_SCN>
+    <Name_EN>Magic Book +2</Name_EN>
+    <Name_FCN>魔法卷轴+2</Name_FCN>
+    <Desc_SCN>拾取永久增加英雄34点法术强度</Desc_SCN>
+    <Desc_EN>Increase Hero Magic Power +34</Desc_EN>
+    <Desc_FCN>拾取永久增加英雄34点法术强度</Desc_FCN>
+    <DescDetail_SCN>拾取永久增加英雄34点法术强度</DescDetail_SCN>
+    <DescDetail_EN>Increase Hero Magic Power +34</DescDetail_EN>
+    <DescDetail_FCN>拾取永久增加英雄34点法术强度</DescDetail_FCN>
+    <Icon>UITexture/Item/book/item_book_blue</Icon>
+    <DropModelPath>prefab/item/item_book/item_book_blue_pre</DropModelPath>
+    <EquipFlowPath></EquipFlowPath>
+    <DropPickupEffectPath>data/skillflow/rts/monster/drop/drop_pickup_book</DropPickupEffectPath>
+    <TipsText_SCN>属性提升</TipsText_SCN>
+    <TipsText_EN>属性提升</TipsText_EN>
+    <TipsText_FCN>属性提升</TipsText_FCN>
+    <MaxHoldNum>9999 </MaxHoldNum>
+    <UseCd>0 </UseCd>
+    <CostType>0 </CostType>
+    <UseCost>1 </UseCost>
+    <GoldCost>0 </GoldCost>
+    <ValidityTime>-1 </ValidityTime>
+    <PickType>1 </PickType>
+    <PickParams>0 0 </PickParams>
+    <UseType>2 </UseType>
+    <ItemGrade>0 </ItemGrade>
+    <Effects type="ResItemEffect">
+        <Type>2 </Type>
+        <Param>600306101 0 </Param>
+    </Effects>
+    <Effects type="ResItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 </Param>
+    </Effects>
+</ResGoodsItemDesc>
+<ResGoodsItemDesc version="1">
+    <ResID>10000307 </ResID>
+    <Type>3 </Type>
+    <Level>2 </Level>
+    <Quality>2 </Quality>
+    <Name_SCN>力量卷轴+2</Name_SCN>
+    <Name_EN>Power Book +2</Name_EN>
+    <Name_FCN>力量卷轴+2</Name_FCN>
+    <Desc_SCN>拾取永久增加英雄20点攻击力</Desc_SCN>
+    <Desc_EN>Increase Hero Attack Power +20</Desc_EN>
+    <Desc_FCN>拾取永久增加英雄20点攻击力</Desc_FCN>
+    <DescDetail_SCN>拾取永久增加英雄20点攻击力</DescDetail_SCN>
+    <DescDetail_EN>Increase Hero Attack Power +20</DescDetail_EN>
+    <DescDetail_FCN>拾取永久增加英雄20点攻击力</DescDetail_FCN>
+    <Icon>UITexture/Item/book/item_book_red</Icon>
+    <DropModelPath>prefab/item/item_book/item_book_red_pre</DropModelPath>
+    <EquipFlowPath></EquipFlowPath>
+    <DropPickupEffectPath>data/skillflow/rts/monster/drop/drop_pickup_book</DropPickupEffectPath>
+    <TipsText_SCN>属性提升</TipsText_SCN>
+    <TipsText_EN>属性提升</TipsText_EN>
+    <TipsText_FCN>属性提升</TipsText_FCN>
+    <MaxHoldNum>9999 </MaxHoldNum>
+    <UseCd>0 </UseCd>
+    <CostType>0 </CostType>
+    <UseCost>1 </UseCost>
+    <GoldCost>0 </GoldCost>
+    <ValidityTime>-1 </ValidityTime>
+    <PickType>1 </PickType>
+    <PickParams>0 0 </PickParams>
+    <UseType>2 </UseType>
+    <ItemGrade>0 </ItemGrade>
+    <Effects type="ResItemEffect">
+        <Type>2 </Type>
+        <Param>600307101 0 </Param>
+    </Effects>
+    <Effects type="ResItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 </Param>
+    </Effects>
+</ResGoodsItemDesc>
+<ResGoodsItemDesc version="1">
+    <ResID>10000308 </ResID>
+    <Type>3 </Type>
+    <Level>2 </Level>
+    <Quality>2 </Quality>
+    <Name_SCN>守护卷轴+2</Name_SCN>
+    <Name_EN>Protection Book +2</Name_EN>
+    <Name_FCN>守护卷轴+2</Name_FCN>
+    <Desc_SCN>拾取永久增加英雄48点护甲值</Desc_SCN>
+    <Desc_EN>Increase Hero Armor +48</Desc_EN>
+    <Desc_FCN>拾取永久增加英雄48点护甲值</Desc_FCN>
+    <DescDetail_SCN>拾取永久增加英雄48点护甲值</DescDetail_SCN>
+    <DescDetail_EN>Increase Hero Armor +48</DescDetail_EN>
+    <DescDetail_FCN>拾取永久增加英雄48点护甲值</DescDetail_FCN>
+    <Icon>UITexture/Item/book/item_book_yellow</Icon>
+    <DropModelPath>prefab/item/item_book/item_book_yellow_pre</DropModelPath>
+    <EquipFlowPath></EquipFlowPath>
+    <DropPickupEffectPath>data/skillflow/rts/monster/drop/drop_pickup_book</DropPickupEffectPath>
+    <TipsText_SCN>属性提升</TipsText_SCN>
+    <TipsText_EN>属性提升</TipsText_EN>
+    <TipsText_FCN>属性提升</TipsText_FCN>
+    <MaxHoldNum>9999 </MaxHoldNum>
+    <UseCd>0 </UseCd>
+    <CostType>0 </CostType>
+    <UseCost>1 </UseCost>
+    <GoldCost>0 </GoldCost>
+    <ValidityTime>-1 </ValidityTime>
+    <PickType>1 </PickType>
+    <PickParams>0 0 </PickParams>
+    <UseType>2 </UseType>
+    <ItemGrade>0 </ItemGrade>
+    <Effects type="ResItemEffect">
+        <Type>2 </Type>
+        <Param>600308101 0 </Param>
+    </Effects>
+    <Effects type="ResItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 </Param>
+    </Effects>
+</ResGoodsItemDesc>
+<ResGoodsItemDesc version="1">
+    <ResID>10000309 </ResID>
+    <Type>3 </Type>
+    <Level>3 </Level>
+    <Quality>3 </Quality>
+    <Name_SCN>全能卷轴</Name_SCN>
+    <Name_EN>Almighty Book</Name_EN>
+    <Name_FCN>全能卷轴</Name_FCN>
+    <Desc_SCN>拾取永久增加英雄生命、法强、攻击、护甲</Desc_SCN>
+    <Desc_EN>Increases Hero Health, Magic, Attack, and Armor</Desc_EN>
+    <Desc_FCN>拾取永久增加英雄生命、法强、攻击、护甲</Desc_FCN>
+    <DescDetail_SCN>拾取永久增加英雄生命、法强、攻击、护甲</DescDetail_SCN>
+    <DescDetail_EN>Increases Hero Health, Magic, Attack, and Armor</DescDetail_EN>
+    <DescDetail_FCN>拾取永久增加英雄生命、法强、攻击、护甲</DescDetail_FCN>
+    <Icon>UITexture/Item/book/item_book_omni</Icon>
+    <DropModelPath>prefab/item/item_book/item_book_omni_pre</DropModelPath>
+    <EquipFlowPath></EquipFlowPath>
+    <DropPickupEffectPath>data/skillflow/rts/monster/drop/drop_pickup_book</DropPickupEffectPath>
+    <TipsText_SCN>属性提升</TipsText_SCN>
+    <TipsText_EN>属性提升</TipsText_EN>
+    <TipsText_FCN>属性提升</TipsText_FCN>
+    <MaxHoldNum>9999 </MaxHoldNum>
+    <UseCd>0 </UseCd>
+    <CostType>0 </CostType>
+    <UseCost>1 </UseCost>
+    <GoldCost>0 </GoldCost>
+    <ValidityTime>-1 </ValidityTime>
+    <PickType>1 </PickType>
+    <PickParams>0 0 </PickParams>
+    <UseType>2 </UseType>
+    <ItemGrade>0 </ItemGrade>
+    <Effects type="ResItemEffect">
+        <Type>2 </Type>
+        <Param>600309101 0 </Param>
+    </Effects>
+    <Effects type="ResItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 </Param>
+    </Effects>
+</ResGoodsItemDesc>
+<ResGoodsItemDesc version="1">
+    <ResID>10000310 </ResID>
+    <Type>3 </Type>
+    <Level>3 </Level>
+    <Quality>3 </Quality>
+    <Name_SCN>经验卷轴</Name_SCN>
+    <Name_EN>Exp Book</Name_EN>
+    <Name_FCN>经验卷轴</Name_FCN>
+    <Desc_SCN>拾取增加英雄300点经验值</Desc_SCN>
+    <Desc_EN>Increases Hero Exp 300 points.</Desc_EN>
+    <Desc_FCN>拾取增加英雄300点经验值</Desc_FCN>
+    <DescDetail_SCN>拾取增加英雄300点经验值</DescDetail_SCN>
+    <DescDetail_EN>Increases Hero Exp 300 points.</DescDetail_EN>
+    <DescDetail_FCN>拾取增加英雄300点经验值</DescDetail_FCN>
+    <Icon>UITexture/Item/book/item_book_exp</Icon>
+    <DropModelPath>prefab/item/item_book/item_book_exp_pre</DropModelPath>
+    <EquipFlowPath></EquipFlowPath>
+    <DropPickupEffectPath>data/skillflow/rts/monster/drop/drop_pickup_book</DropPickupEffectPath>
+    <TipsText_SCN>属性提升</TipsText_SCN>
+    <TipsText_EN>属性提升</TipsText_EN>
+    <TipsText_FCN>属性提升</TipsText_FCN>
+    <MaxHoldNum>9999 </MaxHoldNum>
+    <UseCd>0 </UseCd>
+    <CostType>0 </CostType>
+    <UseCost>1 </UseCost>
+    <GoldCost>0 </GoldCost>
+    <ValidityTime>-1 </ValidityTime>
+    <PickType>1 </PickType>
+    <PickParams>0 0 </PickParams>
+    <UseType>2 </UseType>
+    <ItemGrade>0 </ItemGrade>
+    <Effects type="ResItemEffect">
+        <Type>2 </Type>
+        <Param>600310101 0 </Param>
+    </Effects>
+    <Effects type="ResItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 </Param>
+    </Effects>
+</ResGoodsItemDesc>
+<ResGoodsItemDesc version="1">
+    <ResID>10000401 </ResID>
+    <Type>7 </Type>
+    <Level>1 </Level>
+    <Quality>1 </Quality>
+    <Name_SCN>侦查守卫</Name_SCN>
+    <Name_EN>Sight Guard</Name_EN>
+    <Name_FCN>侦查守卫</Name_FCN>
+    <Desc_SCN>侦查守卫</Desc_SCN>
+    <Desc_EN>Sight Guard</Desc_EN>
+    <Desc_FCN>侦查守卫</Desc_FCN>
+    <DescDetail_SCN></DescDetail_SCN>
+    <DescDetail_EN>Sight Guard</DescDetail_EN>
+    <DescDetail_FCN></DescDetail_FCN>
+    <Icon></Icon>
+    <DropModelPath></DropModelPath>
+    <EquipFlowPath></EquipFlowPath>
+    <DropPickupEffectPath></DropPickupEffectPath>
+    <TipsText_SCN></TipsText_SCN>
+    <TipsText_EN></TipsText_EN>
+    <TipsText_FCN></TipsText_FCN>
+    <MaxHoldNum>9999 </MaxHoldNum>
+    <UseCd>150000 </UseCd>
+    <CostType>0 </CostType>
+    <UseCost>1 </UseCost>
+    <GoldCost>0 </GoldCost>
+    <ValidityTime>-1 </ValidityTime>
+    <PickType>1 </PickType>
+    <PickParams>0 0 </PickParams>
+    <UseType>1 </UseType>
+    <ItemGrade>0 </ItemGrade>
+    <Effects type="ResItemEffect">
+        <Type>1 </Type>
+        <Param>70000801 0 </Param>
+    </Effects>
+    <Effects type="ResItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 </Param>
+    </Effects>
+</ResGoodsItemDesc>
+<ResGoodsItemDesc version="1">
+    <ResID>10000501 </ResID>
+    <Type>6 </Type>
+    <Level>1 </Level>
+    <Quality>1 </Quality>
+    <Name_SCN>恢复神符</Name_SCN>
+    <Name_EN>Recovery Rune</Name_EN>
+    <Name_FCN>恢复神符</Name_FCN>
+    <Desc_SCN>拾取恢复附近友军生命值和法术值</Desc_SCN>
+    <Desc_EN>Restores nearby allies’ Health and Magic.</Desc_EN>
+    <Desc_FCN>拾取恢复附近友军生命值和法术值</Desc_FCN>
+    <DescDetail_SCN>拾取恢复附近友军生命值和法术值</DescDetail_SCN>
+    <DescDetail_EN>Restores nearby allies’ Health and Magic.</DescDetail_EN>
+    <DescDetail_FCN>拾取恢复附近友军生命值和法术值</DescDetail_FCN>
+    <Icon>UITexture/Item/rune/zhiliaofu</Icon>
+    <DropModelPath>prefab/item/item_zhiliaofu/item_zhiliaofu_pre</DropModelPath>
+    <EquipFlowPath></EquipFlowPath>
+    <DropPickupEffectPath>data/skillflow/rts/monster/drop/drop_pickup_book</DropPickupEffectPath>
+    <TipsText_SCN></TipsText_SCN>
+    <TipsText_EN></TipsText_EN>
+    <TipsText_FCN></TipsText_FCN>
+    <MaxHoldNum>9999 </MaxHoldNum>
+    <UseCd>0 </UseCd>
+    <CostType>0 </CostType>
+    <UseCost>1 </UseCost>
+    <GoldCost>0 </GoldCost>
+    <ValidityTime>-1 </ValidityTime>
+    <PickType>1 </PickType>
+    <PickParams>0 0 </PickParams>
+    <UseType>2 </UseType>
+    <ItemGrade>0 </ItemGrade>
+    <Effects type="ResItemEffect">
+        <Type>1 </Type>
+        <Param>70000601 0 </Param>
+    </Effects>
+    <Effects type="ResItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 </Param>
+    </Effects>
+</ResGoodsItemDesc>
+<ResGoodsItemDesc version="1">
+    <ResID>10000601 </ResID>
+    <Type>9 </Type>
+    <Level>4 </Level>
+    <Quality>4 </Quality>
+    <Name_SCN>统帅之刃</Name_SCN>
+    <Name_EN>Blade of Commandment</Name_EN>
+    <Name_FCN>统帅之刃</Name_FCN>
+    <Desc_SCN></Desc_SCN>
+    <Desc_EN></Desc_EN>
+    <Desc_FCN></Desc_FCN>
+    <DescDetail_SCN></DescDetail_SCN>
+    <DescDetail_EN></DescDetail_EN>
+    <DescDetail_FCN></DescDetail_FCN>
+    <Icon>UITexture/Charactar/yeguai/monster_sandking</Icon>
+    <DropModelPath>prefab/character/monster/monster_sandking/monster_sandking_egg_pre</DropModelPath>
+    <EquipFlowPath></EquipFlowPath>
+    <DropPickupEffectPath>data/skillflow/rts/monster/drop/drop_pickup_sandking_egg</DropPickupEffectPath>
+    <TipsText_SCN></TipsText_SCN>
+    <TipsText_EN></TipsText_EN>
+    <TipsText_FCN></TipsText_FCN>
+    <MaxHoldNum>9999 </MaxHoldNum>
+    <UseCd>0 </UseCd>
+    <CostType>1 </CostType>
+    <UseCost>1 </UseCost>
+    <GoldCost>0 </GoldCost>
+    <ValidityTime>120000 </ValidityTime>
+    <PickType>2 </PickType>
+    <PickParams>500 3000 </PickParams>
+    <UseType>1 </UseType>
+    <ItemGrade>0 </ItemGrade>
+    <Effects type="ResItemEffect">
+        <Type>1 </Type>
+        <Param>60060001 0 </Param>
+    </Effects>
+    <Effects type="ResItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 </Param>
+    </Effects>
+</ResGoodsItemDesc>
+<ResGoodsItemDesc version="1">
+    <ResID>10000611 </ResID>
+    <Type>9 </Type>
+    <Level>4 </Level>
+    <Quality>4 </Quality>
+    <Name_SCN>统帅之刃</Name_SCN>
+    <Name_EN>Blade of Commandment</Name_EN>
+    <Name_FCN>统帅之刃</Name_FCN>
+    <Desc_SCN></Desc_SCN>
+    <Desc_EN></Desc_EN>
+    <Desc_FCN></Desc_FCN>
+    <DescDetail_SCN></DescDetail_SCN>
+    <DescDetail_EN></DescDetail_EN>
+    <DescDetail_FCN></DescDetail_FCN>
+    <Icon>UITexture/Charactar/yeguai/monster_sandking</Icon>
+    <DropModelPath>prefab/character/monster/monster_sandking/monster_sandking_egg_pre</DropModelPath>
+    <EquipFlowPath></EquipFlowPath>
+    <DropPickupEffectPath>data/skillflow/rts/monster/drop/drop_pickup_sandking_egg</DropPickupEffectPath>
+    <TipsText_SCN></TipsText_SCN>
+    <TipsText_EN></TipsText_EN>
+    <TipsText_FCN></TipsText_FCN>
+    <MaxHoldNum>9999 </MaxHoldNum>
+    <UseCd>0 </UseCd>
+    <CostType>1 </CostType>
+    <UseCost>1 </UseCost>
+    <GoldCost>0 </GoldCost>
+    <ValidityTime>999999999 </ValidityTime>
+    <PickType>2 </PickType>
+    <PickParams>500 3000 </PickParams>
+    <UseType>1 </UseType>
+    <ItemGrade>0 </ItemGrade>
+    <Effects type="ResItemEffect">
+        <Type>1 </Type>
+        <Param>60061001 0 </Param>
+    </Effects>
+    <Effects type="ResItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 </Param>
+    </Effects>
+</ResGoodsItemDesc>
+<ResGoodsItemDesc version="1">
+    <ResID>10001001 </ResID>
+    <Type>8 </Type>
+    <Level>99 </Level>
+    <Quality>0 </Quality>
+    <Name_SCN>匕首</Name_SCN>
+    <Name_EN>Dagger</Name_EN>
+    <Name_FCN>匕首</Name_FCN>
+    <Desc_SCN></Desc_SCN>
+    <Desc_EN></Desc_EN>
+    <Desc_FCN></Desc_FCN>
+    <DescDetail_SCN></DescDetail_SCN>
+    <DescDetail_EN></DescDetail_EN>
+    <DescDetail_FCN></DescDetail_FCN>
+    <Icon>UITexture/Item/equipment/bishou</Icon>
+    <DropModelPath>prefab/item/item_dropbox/item_dropbox_pre</DropModelPath>
+    <EquipFlowPath></EquipFlowPath>
+    <DropPickupEffectPath>data/skillflow/rts/monster/drop/drop_pickup_book</DropPickupEffectPath>
+    <TipsText_SCN></TipsText_SCN>
+    <TipsText_EN></TipsText_EN>
+    <TipsText_FCN></TipsText_FCN>
+    <MaxHoldNum>9999 </MaxHoldNum>
+    <UseCd>0 </UseCd>
+    <CostType>0 </CostType>
+    <UseCost>1 </UseCost>
+    <GoldCost>125 </GoldCost>
+    <ValidityTime>-1 </ValidityTime>
+    <PickType>1 </PickType>
+    <PickParams>0 0 </PickParams>
+    <UseType>0 </UseType>
+    <ItemGrade>1000 </ItemGrade>
+    <Effects type="ResItemEffect">
+        <Type>4 </Type>
+        <Param>1001 0 </Param>
+    </Effects>
+    <Effects type="ResItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 </Param>
+    </Effects>
+</ResGoodsItemDesc>
+<ResGoodsItemDesc version="1">
+    <ResID>10001002 </ResID>
+    <Type>8 </Type>
+    <Level>1 </Level>
+    <Quality>1 </Quality>
+    <Name_SCN>十字长枪</Name_SCN>
+    <Name_EN>Speargun</Name_EN>
+    <Name_FCN>十字长枪</Name_FCN>
+    <Desc_SCN></Desc_SCN>
+    <Desc_EN></Desc_EN>
+    <Desc_FCN></Desc_FCN>
+    <DescDetail_SCN></DescDetail_SCN>
+    <DescDetail_EN></DescDetail_EN>
+    <DescDetail_FCN></DescDetail_FCN>
+    <Icon>UITexture/Item/equipment/shizichangqiang</Icon>
+    <DropModelPath>prefab/item/item_dropbox/item_dropbox_pre</DropModelPath>
+    <EquipFlowPath></EquipFlowPath>
+    <DropPickupEffectPath>data/skillflow/rts/monster/drop/drop_pickup_book</DropPickupEffectPath>
+    <TipsText_SCN></TipsText_SCN>
+    <TipsText_EN></TipsText_EN>
+    <TipsText_FCN></TipsText_FCN>
+    <MaxHoldNum>9999 </MaxHoldNum>
+    <UseCd>0 </UseCd>
+    <CostType>0 </CostType>
+    <UseCost>1 </UseCost>
+    <GoldCost>125 </GoldCost>
+    <ValidityTime>-1 </ValidityTime>
+    <PickType>1 </PickType>
+    <PickParams>0 0 </PickParams>
+    <UseType>0 </UseType>
+    <ItemGrade>500 </ItemGrade>
+    <Effects type="ResItemEffect">
+        <Type>4 </Type>
+        <Param>1002 0 </Param>
+    </Effects>
+    <Effects type="ResItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 </Param>
+    </Effects>
+</ResGoodsItemDesc>
+<ResGoodsItemDesc version="1">
+    <ResID>10001003 </ResID>
+    <Type>8 </Type>
+    <Level>1 </Level>
+    <Quality>1 </Quality>
+    <Name_SCN>白银刀锋</Name_SCN>
+    <Name_EN>Silver Blade</Name_EN>
+    <Name_FCN>白银刀锋</Name_FCN>
+    <Desc_SCN></Desc_SCN>
+    <Desc_EN></Desc_EN>
+    <Desc_FCN></Desc_FCN>
+    <DescDetail_SCN></DescDetail_SCN>
+    <DescDetail_EN></DescDetail_EN>
+    <DescDetail_FCN></DescDetail_FCN>
+    <Icon>UITexture/Item/equipment/baiyindaofeng</Icon>
+    <DropModelPath>prefab/item/item_dropbox/item_dropbox_pre</DropModelPath>
+    <EquipFlowPath></EquipFlowPath>
+    <DropPickupEffectPath>data/skillflow/rts/monster/drop/drop_pickup_book</DropPickupEffectPath>
+    <TipsText_SCN></TipsText_SCN>
+    <TipsText_EN></TipsText_EN>
+    <TipsText_FCN></TipsText_FCN>
+    <MaxHoldNum>9999 </MaxHoldNum>
+    <UseCd>0 </UseCd>
+    <CostType>0 </CostType>
+    <UseCost>1 </UseCost>
+    <GoldCost>125 </GoldCost>
+    <ValidityTime>-1 </ValidityTime>
+    <PickType>1 </PickType>
+    <PickParams>0 0 </PickParams>
+    <UseType>0 </UseType>
+    <ItemGrade>500 </ItemGrade>
+    <Effects type="ResItemEffect">
+        <Type>4 </Type>
+        <Param>1003 0 </Param>
+    </Effects>
+    <Effects type="ResItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 </Param>
+    </Effects>
+</ResGoodsItemDesc>
+<ResGoodsItemDesc version="1">
+    <ResID>10001004 </ResID>
+    <Type>8 </Type>
+    <Level>2 </Level>
+    <Quality>2 </Quality>
+    <Name_SCN>恶魔大剑</Name_SCN>
+    <Name_EN>Demonic Sword</Name_EN>
+    <Name_FCN>恶魔大剑</Name_FCN>
+    <Desc_SCN></Desc_SCN>
+    <Desc_EN></Desc_EN>
+    <Desc_FCN></Desc_FCN>
+    <DescDetail_SCN></DescDetail_SCN>
+    <DescDetail_EN></DescDetail_EN>
+    <DescDetail_FCN></DescDetail_FCN>
+    <Icon>UITexture/Item/equipment/emodajian</Icon>
+    <DropModelPath>prefab/item/item_dropbox/item_dropbox_pre</DropModelPath>
+    <EquipFlowPath></EquipFlowPath>
+    <DropPickupEffectPath>data/skillflow/rts/monster/drop/drop_pickup_book</DropPickupEffectPath>
+    <TipsText_SCN></TipsText_SCN>
+    <TipsText_EN></TipsText_EN>
+    <TipsText_FCN></TipsText_FCN>
+    <MaxHoldNum>9999 </MaxHoldNum>
+    <UseCd>0 </UseCd>
+    <CostType>0 </CostType>
+    <UseCost>1 </UseCost>
+    <GoldCost>250 </GoldCost>
+    <ValidityTime>-1 </ValidityTime>
+    <PickType>1 </PickType>
+    <PickParams>0 0 </PickParams>
+    <UseType>0 </UseType>
+    <ItemGrade>1000 </ItemGrade>
+    <Effects type="ResItemEffect">
+        <Type>4 </Type>
+        <Param>1004 0 </Param>
+    </Effects>
+    <Effects type="ResItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 </Param>
+    </Effects>
+</ResGoodsItemDesc>
+<ResGoodsItemDesc version="1">
+    <ResID>10001005 </ResID>
+    <Type>8 </Type>
+    <Level>2 </Level>
+    <Quality>2 </Quality>
+    <Name_SCN>精灵对剑</Name_SCN>
+    <Name_EN>Elf Dual Swords</Name_EN>
+    <Name_FCN>精灵对剑</Name_FCN>
+    <Desc_SCN></Desc_SCN>
+    <Desc_EN></Desc_EN>
+    <Desc_FCN></Desc_FCN>
+    <DescDetail_SCN></DescDetail_SCN>
+    <DescDetail_EN></DescDetail_EN>
+    <DescDetail_FCN></DescDetail_FCN>
+    <Icon>UITexture/Item/equipment/jinglingduijian</Icon>
+    <DropModelPath>prefab/item/item_dropbox/item_dropbox_pre</DropModelPath>
+    <EquipFlowPath></EquipFlowPath>
+    <DropPickupEffectPath>data/skillflow/rts/monster/drop/drop_pickup_book</DropPickupEffectPath>
+    <TipsText_SCN></TipsText_SCN>
+    <TipsText_EN></TipsText_EN>
+    <TipsText_FCN></TipsText_FCN>
+    <MaxHoldNum>9999 </MaxHoldNum>
+    <UseCd>0 </UseCd>
+    <CostType>0 </CostType>
+    <UseCost>1 </UseCost>
+    <GoldCost>250 </GoldCost>
+    <ValidityTime>-1 </ValidityTime>
+    <PickType>1 </PickType>
+    <PickParams>0 0 </PickParams>
+    <UseType>0 </UseType>
+    <ItemGrade>1000 </ItemGrade>
+    <Effects type="ResItemEffect">
+        <Type>4 </Type>
+        <Param>1005 0 </Param>
+    </Effects>
+    <Effects type="ResItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 </Param>
+    </Effects>
+</ResGoodsItemDesc>
+<ResGoodsItemDesc version="1">
+    <ResID>10001006 </ResID>
+    <Type>8 </Type>
+    <Level>3 </Level>
+    <Quality>3 </Quality>
+    <Name_SCN>吸血鬼面罩</Name_SCN>
+    <Name_EN>Life Steal Mask</Name_EN>
+    <Name_FCN>吸血鬼面罩</Name_FCN>
+    <Desc_SCN></Desc_SCN>
+    <Desc_EN></Desc_EN>
+    <Desc_FCN></Desc_FCN>
+    <DescDetail_SCN></DescDetail_SCN>
+    <DescDetail_EN></DescDetail_EN>
+    <DescDetail_FCN></DescDetail_FCN>
+    <Icon>UITexture/Item/equipment/xixueguimianzhao</Icon>
+    <DropModelPath>prefab/item/item_dropbox/item_dropbox_pre</DropModelPath>
+    <EquipFlowPath></EquipFlowPath>
+    <DropPickupEffectPath>data/skillflow/rts/monster/drop/drop_pickup_book</DropPickupEffectPath>
+    <TipsText_SCN></TipsText_SCN>
+    <TipsText_EN></TipsText_EN>
+    <TipsText_FCN></TipsText_FCN>
+    <MaxHoldNum>9999 </MaxHoldNum>
+    <UseCd>0 </UseCd>
+    <CostType>0 </CostType>
+    <UseCost>1 </UseCost>
+    <GoldCost>375 </GoldCost>
+    <ValidityTime>-1 </ValidityTime>
+    <PickType>1 </PickType>
+    <PickParams>0 0 </PickParams>
+    <UseType>0 </UseType>
+    <ItemGrade>2000 </ItemGrade>
+    <Effects type="ResItemEffect">
+        <Type>4 </Type>
+        <Param>1006 0 </Param>
+    </Effects>
+    <Effects type="ResItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 </Param>
+    </Effects>
+</ResGoodsItemDesc>
+<ResGoodsItemDesc version="1">
+    <ResID>10001007 </ResID>
+    <Type>8 </Type>
+    <Level>3 </Level>
+    <Quality>3 </Quality>
+    <Name_SCN>嗜血者垂饰</Name_SCN>
+    <Name_EN>Bloodthirsty Pendant</Name_EN>
+    <Name_FCN>嗜血者垂饰</Name_FCN>
+    <Desc_SCN>唯一被动：【吸血光环】</Desc_SCN>
+    <Desc_EN>Passive ability [Blood Aura]</Desc_EN>
+    <Desc_FCN>唯一被动：【吸血光环】</Desc_FCN>
+    <DescDetail_SCN>唯一被动【吸血光环】：为附近的友军近战单位提供15%吸血效果</DescDetail_SCN>
+    <DescDetail_EN>Passive ability [Blood Aura]: Increases nearby allies’ Life Steal +15%.</DescDetail_EN>
+    <DescDetail_FCN>唯一被动【吸血光环】：为附近的友军近战单位提供15%吸血效果</DescDetail_FCN>
+    <Icon>UITexture/Item/equipment/wanglingguzhong</Icon>
+    <DropModelPath>prefab/item/item_dropbox/item_dropbox_pre</DropModelPath>
+    <EquipFlowPath>data/skillflow/item/BoneClock</EquipFlowPath>
+    <DropPickupEffectPath>data/skillflow/rts/monster/drop/drop_pickup_book</DropPickupEffectPath>
+    <TipsText_SCN></TipsText_SCN>
+    <TipsText_EN></TipsText_EN>
+    <TipsText_FCN></TipsText_FCN>
+    <MaxHoldNum>9999 </MaxHoldNum>
+    <UseCd>0 </UseCd>
+    <CostType>0 </CostType>
+    <UseCost>1 </UseCost>
+    <GoldCost>375 </GoldCost>
+    <ValidityTime>-1 </ValidityTime>
+    <PickType>1 </PickType>
+    <PickParams>0 0 </PickParams>
+    <UseType>0 </UseType>
+    <ItemGrade>2000 </ItemGrade>
+    <Effects type="ResItemEffect">
+        <Type>4 </Type>
+        <Param>1007 0 </Param>
+    </Effects>
+    <Effects type="ResItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 </Param>
+    </Effects>
+</ResGoodsItemDesc>
+<ResGoodsItemDesc version="1">
+    <ResID>10001008 </ResID>
+    <Type>8 </Type>
+    <Level>4 </Level>
+    <Quality>4 </Quality>
+    <Name_SCN>无尽刀锋</Name_SCN>
+    <Name_EN>Endless Blade</Name_EN>
+    <Name_FCN>无尽刀锋</Name_FCN>
+    <Desc_SCN>唯一被动：+50%暴击效果</Desc_SCN>
+    <Desc_EN>Passive: Critical Strike +50%</Desc_EN>
+    <Desc_FCN>唯一被动：+50%暴击效果</Desc_FCN>
+    <DescDetail_SCN>唯一被动：+50%暴击效果</DescDetail_SCN>
+    <DescDetail_EN>Passive: Critical Strike +50%</DescDetail_EN>
+    <DescDetail_FCN>唯一被动：+50%暴击效果</DescDetail_FCN>
+    <Icon>UITexture/Item/equipment/wujindaofeng</Icon>
+    <DropModelPath>prefab/item/item_dropbox/item_dropbox_pre</DropModelPath>
+    <EquipFlowPath></EquipFlowPath>
+    <DropPickupEffectPath>data/skillflow/rts/monster/drop/drop_pickup_book</DropPickupEffectPath>
+    <TipsText_SCN></TipsText_SCN>
+    <TipsText_EN></TipsText_EN>
+    <TipsText_FCN></TipsText_FCN>
+    <MaxHoldNum>9999 </MaxHoldNum>
+    <UseCd>0 </UseCd>
+    <CostType>0 </CostType>
+    <UseCost>1 </UseCost>
+    <GoldCost>500 </GoldCost>
+    <ValidityTime>-1 </ValidityTime>
+    <PickType>1 </PickType>
+    <PickParams>0 0 </PickParams>
+    <UseType>0 </UseType>
+    <ItemGrade>3000 </ItemGrade>
+    <Effects type="ResItemEffect">
+        <Type>4 </Type>
+        <Param>1008 0 </Param>
+    </Effects>
+    <Effects type="ResItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 </Param>
+    </Effects>
+</ResGoodsItemDesc>
+<ResGoodsItemDesc version="1">
+    <ResID>10002001 </ResID>
+    <Type>8 </Type>
+    <Level>99 </Level>
+    <Quality>0 </Quality>
+    <Name_SCN>魔杖</Name_SCN>
+    <Name_EN>Wand</Name_EN>
+    <Name_FCN>魔杖</Name_FCN>
+    <Desc_SCN></Desc_SCN>
+    <Desc_EN></Desc_EN>
+    <Desc_FCN></Desc_FCN>
+    <DescDetail_SCN></DescDetail_SCN>
+    <DescDetail_EN></DescDetail_EN>
+    <DescDetail_FCN></DescDetail_FCN>
+    <Icon>UITexture/Item/equipment/mozhang</Icon>
+    <DropModelPath>prefab/item/item_dropbox/item_dropbox_pre</DropModelPath>
+    <EquipFlowPath></EquipFlowPath>
+    <DropPickupEffectPath>data/skillflow/rts/monster/drop/drop_pickup_book</DropPickupEffectPath>
+    <TipsText_SCN></TipsText_SCN>
+    <TipsText_EN></TipsText_EN>
+    <TipsText_FCN></TipsText_FCN>
+    <MaxHoldNum>9999 </MaxHoldNum>
+    <UseCd>0 </UseCd>
+    <CostType>0 </CostType>
+    <UseCost>1 </UseCost>
+    <GoldCost>125 </GoldCost>
+    <ValidityTime>-1 </ValidityTime>
+    <PickType>1 </PickType>
+    <PickParams>0 0 </PickParams>
+    <UseType>0 </UseType>
+    <ItemGrade>1000 </ItemGrade>
+    <Effects type="ResItemEffect">
+        <Type>4 </Type>
+        <Param>2001 0 </Param>
+    </Effects>
+    <Effects type="ResItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 </Param>
+    </Effects>
+</ResGoodsItemDesc>
+<ResGoodsItemDesc version="1">
+    <ResID>10002002 </ResID>
+    <Type>8 </Type>
+    <Level>99 </Level>
+    <Quality>0 </Quality>
+    <Name_SCN>蓝水晶</Name_SCN>
+    <Name_EN>Blue Crystal</Name_EN>
+    <Name_FCN>蓝水晶</Name_FCN>
+    <Desc_SCN></Desc_SCN>
+    <Desc_EN></Desc_EN>
+    <Desc_FCN></Desc_FCN>
+    <DescDetail_SCN></DescDetail_SCN>
+    <DescDetail_EN></DescDetail_EN>
+    <DescDetail_FCN></DescDetail_FCN>
+    <Icon>UITexture/Item/equipment/lanshuijing</Icon>
+    <DropModelPath>prefab/item/item_dropbox/item_dropbox_pre</DropModelPath>
+    <EquipFlowPath></EquipFlowPath>
+    <DropPickupEffectPath>data/skillflow/rts/monster/drop/drop_pickup_book</DropPickupEffectPath>
+    <TipsText_SCN></TipsText_SCN>
+    <TipsText_EN></TipsText_EN>
+    <TipsText_FCN></TipsText_FCN>
+    <MaxHoldNum>9999 </MaxHoldNum>
+    <UseCd>0 </UseCd>
+    <CostType>0 </CostType>
+    <UseCost>1 </UseCost>
+    <GoldCost>125 </GoldCost>
+    <ValidityTime>-1 </ValidityTime>
+    <PickType>1 </PickType>
+    <PickParams>0 0 </PickParams>
+    <UseType>0 </UseType>
+    <ItemGrade>1000 </ItemGrade>
+    <Effects type="ResItemEffect">
+        <Type>4 </Type>
+        <Param>2002 0 </Param>
+    </Effects>
+    <Effects type="ResItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 </Param>
+    </Effects>
+</ResGoodsItemDesc>
+<ResGoodsItemDesc version="1">
+    <ResID>10002003 </ResID>
+    <Type>8 </Type>
+    <Level>1 </Level>
+    <Quality>1 </Quality>
+    <Name_SCN>元素之球</Name_SCN>
+    <Name_EN>Elemental Orb</Name_EN>
+    <Name_FCN>元素之球</Name_FCN>
+    <Desc_SCN></Desc_SCN>
+    <Desc_EN></Desc_EN>
+    <Desc_FCN></Desc_FCN>
+    <DescDetail_SCN></DescDetail_SCN>
+    <DescDetail_EN></DescDetail_EN>
+    <DescDetail_FCN></DescDetail_FCN>
+    <Icon>UITexture/Item/equipment/yuansuzhiqiu</Icon>
+    <DropModelPath>prefab/item/item_dropbox/item_dropbox_pre</DropModelPath>
+    <EquipFlowPath></EquipFlowPath>
+    <DropPickupEffectPath>data/skillflow/rts/monster/drop/drop_pickup_book</DropPickupEffectPath>
+    <TipsText_SCN></TipsText_SCN>
+    <TipsText_EN></TipsText_EN>
+    <TipsText_FCN></TipsText_FCN>
+    <MaxHoldNum>9999 </MaxHoldNum>
+    <UseCd>0 </UseCd>
+    <CostType>0 </CostType>
+    <UseCost>1 </UseCost>
+    <GoldCost>125 </GoldCost>
+    <ValidityTime>-1 </ValidityTime>
+    <PickType>1 </PickType>
+    <PickParams>0 0 </PickParams>
+    <UseType>0 </UseType>
+    <ItemGrade>500 </ItemGrade>
+    <Effects type="ResItemEffect">
+        <Type>4 </Type>
+        <Param>2003 0 </Param>
+    </Effects>
+    <Effects type="ResItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 </Param>
+    </Effects>
+</ResGoodsItemDesc>
+<ResGoodsItemDesc version="1">
+    <ResID>10002004 </ResID>
+    <Type>8 </Type>
+    <Level>1 </Level>
+    <Quality>1 </Quality>
+    <Name_SCN>魔法精粹</Name_SCN>
+    <Name_EN>Magic Essence</Name_EN>
+    <Name_FCN>魔法精粹</Name_FCN>
+    <Desc_SCN></Desc_SCN>
+    <Desc_EN></Desc_EN>
+    <Desc_FCN></Desc_FCN>
+    <DescDetail_SCN></DescDetail_SCN>
+    <DescDetail_EN></DescDetail_EN>
+    <DescDetail_FCN></DescDetail_FCN>
+    <Icon>UITexture/Item/equipment/nengliangdiaozhui</Icon>
+    <DropModelPath>prefab/item/item_dropbox/item_dropbox_pre</DropModelPath>
+    <EquipFlowPath></EquipFlowPath>
+    <DropPickupEffectPath>data/skillflow/rts/monster/drop/drop_pickup_book</DropPickupEffectPath>
+    <TipsText_SCN></TipsText_SCN>
+    <TipsText_EN></TipsText_EN>
+    <TipsText_FCN></TipsText_FCN>
+    <MaxHoldNum>9999 </MaxHoldNum>
+    <UseCd>0 </UseCd>
+    <CostType>0 </CostType>
+    <UseCost>1 </UseCost>
+    <GoldCost>125 </GoldCost>
+    <ValidityTime>-1 </ValidityTime>
+    <PickType>1 </PickType>
+    <PickParams>0 0 </PickParams>
+    <UseType>0 </UseType>
+    <ItemGrade>500 </ItemGrade>
+    <Effects type="ResItemEffect">
+        <Type>4 </Type>
+        <Param>2004 0 </Param>
+    </Effects>
+    <Effects type="ResItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 </Param>
+    </Effects>
+</ResGoodsItemDesc>
+<ResGoodsItemDesc version="1">
+    <ResID>10002005 </ResID>
+    <Type>8 </Type>
+    <Level>2 </Level>
+    <Quality>2 </Quality>
+    <Name_SCN>智慧法杖</Name_SCN>
+    <Name_EN>Wisdom Staff</Name_EN>
+    <Name_FCN>智慧法杖</Name_FCN>
+    <Desc_SCN></Desc_SCN>
+    <Desc_EN></Desc_EN>
+    <Desc_FCN></Desc_FCN>
+    <DescDetail_SCN></DescDetail_SCN>
+    <DescDetail_EN></DescDetail_EN>
+    <DescDetail_FCN></DescDetail_FCN>
+    <Icon>UITexture/Item/equipment/zhihuifazhang</Icon>
+    <DropModelPath>prefab/item/item_dropbox/item_dropbox_pre</DropModelPath>
+    <EquipFlowPath></EquipFlowPath>
+    <DropPickupEffectPath>data/skillflow/rts/monster/drop/drop_pickup_book</DropPickupEffectPath>
+    <TipsText_SCN></TipsText_SCN>
+    <TipsText_EN></TipsText_EN>
+    <TipsText_FCN></TipsText_FCN>
+    <MaxHoldNum>9999 </MaxHoldNum>
+    <UseCd>0 </UseCd>
+    <CostType>0 </CostType>
+    <UseCost>1 </UseCost>
+    <GoldCost>250 </GoldCost>
+    <ValidityTime>-1 </ValidityTime>
+    <PickType>1 </PickType>
+    <PickParams>0 0 </PickParams>
+    <UseType>0 </UseType>
+    <ItemGrade>1000 </ItemGrade>
+    <Effects type="ResItemEffect">
+        <Type>4 </Type>
+        <Param>2005 0 </Param>
+    </Effects>
+    <Effects type="ResItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 </Param>
+    </Effects>
+</ResGoodsItemDesc>
+<ResGoodsItemDesc version="1">
+    <ResID>10002006 </ResID>
+    <Type>8 </Type>
+    <Level>2 </Level>
+    <Quality>2 </Quality>
+    <Name_SCN>学徒长袍</Name_SCN>
+    <Name_EN>Apprentice Robe</Name_EN>
+    <Name_FCN>学徒长袍</Name_FCN>
+    <Desc_SCN></Desc_SCN>
+    <Desc_EN></Desc_EN>
+    <Desc_FCN></Desc_FCN>
+    <DescDetail_SCN></DescDetail_SCN>
+    <DescDetail_EN></DescDetail_EN>
+    <DescDetail_FCN></DescDetail_FCN>
+    <Icon>UITexture/Item/equipment/fashichangpao</Icon>
+    <DropModelPath>prefab/item/item_dropbox/item_dropbox_pre</DropModelPath>
+    <EquipFlowPath></EquipFlowPath>
+    <DropPickupEffectPath>data/skillflow/rts/monster/drop/drop_pickup_book</DropPickupEffectPath>
+    <TipsText_SCN></TipsText_SCN>
+    <TipsText_EN></TipsText_EN>
+    <TipsText_FCN></TipsText_FCN>
+    <MaxHoldNum>9999 </MaxHoldNum>
+    <UseCd>0 </UseCd>
+    <CostType>0 </CostType>
+    <UseCost>1 </UseCost>
+    <GoldCost>250 </GoldCost>
+    <ValidityTime>-1 </ValidityTime>
+    <PickType>1 </PickType>
+    <PickParams>0 0 </PickParams>
+    <UseType>0 </UseType>
+    <ItemGrade>1000 </ItemGrade>
+    <Effects type="ResItemEffect">
+        <Type>4 </Type>
+        <Param>2006 0 </Param>
+    </Effects>
+    <Effects type="ResItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 </Param>
+    </Effects>
+</ResGoodsItemDesc>
+<ResGoodsItemDesc version="1">
+    <ResID>10002007 </ResID>
+    <Type>8 </Type>
+    <Level>3 </Level>
+    <Quality>3 </Quality>
+    <Name_SCN>噬魂之杖</Name_SCN>
+    <Name_EN>Soul Eater Staff</Name_EN>
+    <Name_FCN>噬魂之杖</Name_FCN>
+    <Desc_SCN>唯一被动：【法术吸血】</Desc_SCN>
+    <Desc_EN>Passive ability [Magic Life Steal]</Desc_EN>
+    <Desc_FCN>唯一被动：【法术吸血】</Desc_FCN>
+    <DescDetail_SCN>唯一被动【法术吸血】：增加25%法术吸血</DescDetail_SCN>
+    <DescDetail_EN>Passive ability [Magic Life Steal]: Increases Magic Life Steal +25%</DescDetail_EN>
+    <DescDetail_FCN>唯一被动【法术吸血】：增加25%法术吸血</DescDetail_FCN>
+    <Icon>UITexture/Item/equipment/shihunzhizhang</Icon>
+    <DropModelPath>prefab/item/item_dropbox/item_dropbox_pre</DropModelPath>
+    <EquipFlowPath></EquipFlowPath>
+    <DropPickupEffectPath>data/skillflow/rts/monster/drop/drop_pickup_book</DropPickupEffectPath>
+    <TipsText_SCN></TipsText_SCN>
+    <TipsText_EN></TipsText_EN>
+    <TipsText_FCN></TipsText_FCN>
+    <MaxHoldNum>9999 </MaxHoldNum>
+    <UseCd>0 </UseCd>
+    <CostType>0 </CostType>
+    <UseCost>1 </UseCost>
+    <GoldCost>375 </GoldCost>
+    <ValidityTime>-1 </ValidityTime>
+    <PickType>1 </PickType>
+    <PickParams>0 0 </PickParams>
+    <UseType>0 </UseType>
+    <ItemGrade>2000 </ItemGrade>
+    <Effects type="ResItemEffect">
+        <Type>4 </Type>
+        <Param>2007 0 </Param>
+    </Effects>
+    <Effects type="ResItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 </Param>
+    </Effects>
+</ResGoodsItemDesc>
+<ResGoodsItemDesc version="1">
+    <ResID>10002008 </ResID>
+    <Type>8 </Type>
+    <Level>4 </Level>
+    <Quality>4 </Quality>
+    <Name_SCN>巫师之怒</Name_SCN>
+    <Name_EN>The Wrath of the Gods</Name_EN>
+    <Name_FCN>巫师之怒</Name_FCN>
+    <Desc_SCN>唯一被动：提升20%法术攻击</Desc_SCN>
+    <Desc_EN>Passive: Magic Attack +20%</Desc_EN>
+    <Desc_FCN>唯一被动：提升20%法术攻击</Desc_FCN>
+    <DescDetail_SCN>唯一被动：提升20%法术攻击</DescDetail_SCN>
+    <DescDetail_EN>Passive: Magic Attack +20%</DescDetail_EN>
+    <DescDetail_FCN>唯一被动：提升20%法术攻击</DescDetail_FCN>
+    <Icon>UITexture/Item/equipment/wushizhinu</Icon>
+    <DropModelPath>prefab/item/item_dropbox/item_dropbox_pre</DropModelPath>
+    <EquipFlowPath></EquipFlowPath>
+    <DropPickupEffectPath>data/skillflow/rts/monster/drop/drop_pickup_book</DropPickupEffectPath>
+    <TipsText_SCN></TipsText_SCN>
+    <TipsText_EN></TipsText_EN>
+    <TipsText_FCN></TipsText_FCN>
+    <MaxHoldNum>9999 </MaxHoldNum>
+    <UseCd>0 </UseCd>
+    <CostType>0 </CostType>
+    <UseCost>1 </UseCost>
+    <GoldCost>500 </GoldCost>
+    <ValidityTime>-1 </ValidityTime>
+    <PickType>1 </PickType>
+    <PickParams>0 0 </PickParams>
+    <UseType>0 </UseType>
+    <ItemGrade>3000 </ItemGrade>
+    <Effects type="ResItemEffect">
+        <Type>4 </Type>
+        <Param>2008 0 </Param>
+    </Effects>
+    <Effects type="ResItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 </Param>
+    </Effects>
+</ResGoodsItemDesc>
+<ResGoodsItemDesc version="1">
+    <ResID>10003001 </ResID>
+    <Type>8 </Type>
+    <Level>99 </Level>
+    <Quality>0 </Quality>
+    <Name_SCN>红宝石</Name_SCN>
+    <Name_EN>Ruby</Name_EN>
+    <Name_FCN>红宝石</Name_FCN>
+    <Desc_SCN></Desc_SCN>
+    <Desc_EN></Desc_EN>
+    <Desc_FCN></Desc_FCN>
+    <DescDetail_SCN></DescDetail_SCN>
+    <DescDetail_EN></DescDetail_EN>
+    <DescDetail_FCN></DescDetail_FCN>
+    <Icon>UITexture/Item/equipment/hongbaoshi</Icon>
+    <DropModelPath>prefab/item/item_dropbox/item_dropbox_pre</DropModelPath>
+    <EquipFlowPath></EquipFlowPath>
+    <DropPickupEffectPath>data/skillflow/rts/monster/drop/drop_pickup_book</DropPickupEffectPath>
+    <TipsText_SCN></TipsText_SCN>
+    <TipsText_EN></TipsText_EN>
+    <TipsText_FCN></TipsText_FCN>
+    <MaxHoldNum>9999 </MaxHoldNum>
+    <UseCd>0 </UseCd>
+    <CostType>0 </CostType>
+    <UseCost>1 </UseCost>
+    <GoldCost>125 </GoldCost>
+    <ValidityTime>-1 </ValidityTime>
+    <PickType>1 </PickType>
+    <PickParams>0 0 </PickParams>
+    <UseType>0 </UseType>
+    <ItemGrade>1000 </ItemGrade>
+    <Effects type="ResItemEffect">
+        <Type>4 </Type>
+        <Param>3001 0 </Param>
+    </Effects>
+    <Effects type="ResItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 </Param>
+    </Effects>
+</ResGoodsItemDesc>
+<ResGoodsItemDesc version="1">
+    <ResID>10003002 </ResID>
+    <Type>8 </Type>
+    <Level>99 </Level>
+    <Quality>0 </Quality>
+    <Name_SCN>哨兵圆盾</Name_SCN>
+    <Name_EN>Sentinel Shield</Name_EN>
+    <Name_FCN>哨兵圆盾</Name_FCN>
+    <Desc_SCN></Desc_SCN>
+    <Desc_EN></Desc_EN>
+    <Desc_FCN></Desc_FCN>
+    <DescDetail_SCN></DescDetail_SCN>
+    <DescDetail_EN></DescDetail_EN>
+    <DescDetail_FCN></DescDetail_FCN>
+    <Icon>UITexture/Item/equipment/shaobingyuandun</Icon>
+    <DropModelPath>prefab/item/item_dropbox/item_dropbox_pre</DropModelPath>
+    <EquipFlowPath></EquipFlowPath>
+    <DropPickupEffectPath>data/skillflow/rts/monster/drop/drop_pickup_book</DropPickupEffectPath>
+    <TipsText_SCN></TipsText_SCN>
+    <TipsText_EN></TipsText_EN>
+    <TipsText_FCN></TipsText_FCN>
+    <MaxHoldNum>9999 </MaxHoldNum>
+    <UseCd>0 </UseCd>
+    <CostType>0 </CostType>
+    <UseCost>1 </UseCost>
+    <GoldCost>125 </GoldCost>
+    <ValidityTime>-1 </ValidityTime>
+    <PickType>1 </PickType>
+    <PickParams>0 0 </PickParams>
+    <UseType>0 </UseType>
+    <ItemGrade>1000 </ItemGrade>
+    <Effects type="ResItemEffect">
+        <Type>4 </Type>
+        <Param>3002 0 </Param>
+    </Effects>
+    <Effects type="ResItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 </Param>
+    </Effects>
+</ResGoodsItemDesc>
+<ResGoodsItemDesc version="1">
+    <ResID>10003003 </ResID>
+    <Type>8 </Type>
+    <Level>1 </Level>
+    <Quality>1 </Quality>
+    <Name_SCN>骑士之盾</Name_SCN>
+    <Name_EN>Knight’s Shield</Name_EN>
+    <Name_FCN>骑士之盾</Name_FCN>
+    <Desc_SCN></Desc_SCN>
+    <Desc_EN></Desc_EN>
+    <Desc_FCN></Desc_FCN>
+    <DescDetail_SCN></DescDetail_SCN>
+    <DescDetail_EN></DescDetail_EN>
+    <DescDetail_FCN></DescDetail_FCN>
+    <Icon>UITexture/Item/equipment/qishizhidun</Icon>
+    <DropModelPath>prefab/item/item_dropbox/item_dropbox_pre</DropModelPath>
+    <EquipFlowPath></EquipFlowPath>
+    <DropPickupEffectPath>data/skillflow/rts/monster/drop/drop_pickup_book</DropPickupEffectPath>
+    <TipsText_SCN></TipsText_SCN>
+    <TipsText_EN></TipsText_EN>
+    <TipsText_FCN></TipsText_FCN>
+    <MaxHoldNum>9999 </MaxHoldNum>
+    <UseCd>0 </UseCd>
+    <CostType>0 </CostType>
+    <UseCost>1 </UseCost>
+    <GoldCost>125 </GoldCost>
+    <ValidityTime>-1 </ValidityTime>
+    <PickType>1 </PickType>
+    <PickParams>0 0 </PickParams>
+    <UseType>0 </UseType>
+    <ItemGrade>500 </ItemGrade>
+    <Effects type="ResItemEffect">
+        <Type>4 </Type>
+        <Param>3003 0 </Param>
+    </Effects>
+    <Effects type="ResItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 </Param>
+    </Effects>
+</ResGoodsItemDesc>
+<ResGoodsItemDesc version="1">
+    <ResID>10003004 </ResID>
+    <Type>8 </Type>
+    <Level>1 </Level>
+    <Quality>1 </Quality>
+    <Name_SCN>生命勋章</Name_SCN>
+    <Name_EN>Health Medal</Name_EN>
+    <Name_FCN>生命勋章</Name_FCN>
+    <Desc_SCN></Desc_SCN>
+    <Desc_EN></Desc_EN>
+    <Desc_FCN></Desc_FCN>
+    <DescDetail_SCN></DescDetail_SCN>
+    <DescDetail_EN></DescDetail_EN>
+    <DescDetail_FCN></DescDetail_FCN>
+    <Icon>UITexture/Item/equipment/shengmingxunzhang</Icon>
+    <DropModelPath>prefab/item/item_dropbox/item_dropbox_pre</DropModelPath>
+    <EquipFlowPath></EquipFlowPath>
+    <DropPickupEffectPath>data/skillflow/rts/monster/drop/drop_pickup_book</DropPickupEffectPath>
+    <TipsText_SCN></TipsText_SCN>
+    <TipsText_EN></TipsText_EN>
+    <TipsText_FCN></TipsText_FCN>
+    <MaxHoldNum>9999 </MaxHoldNum>
+    <UseCd>0 </UseCd>
+    <CostType>0 </CostType>
+    <UseCost>1 </UseCost>
+    <GoldCost>125 </GoldCost>
+    <ValidityTime>-1 </ValidityTime>
+    <PickType>1 </PickType>
+    <PickParams>0 0 </PickParams>
+    <UseType>0 </UseType>
+    <ItemGrade>500 </ItemGrade>
+    <Effects type="ResItemEffect">
+        <Type>4 </Type>
+        <Param>3004 0 </Param>
+    </Effects>
+    <Effects type="ResItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 </Param>
+    </Effects>
+</ResGoodsItemDesc>
+<ResGoodsItemDesc version="1">
+    <ResID>10003005 </ResID>
+    <Type>8 </Type>
+    <Level>1 </Level>
+    <Quality>1 </Quality>
+    <Name_SCN>灵巧咒符</Name_SCN>
+    <Name_EN>Dexterity Charm</Name_EN>
+    <Name_FCN>灵巧咒符</Name_FCN>
+    <Desc_SCN></Desc_SCN>
+    <Desc_EN></Desc_EN>
+    <Desc_FCN></Desc_FCN>
+    <DescDetail_SCN></DescDetail_SCN>
+    <DescDetail_EN></DescDetail_EN>
+    <DescDetail_FCN></DescDetail_FCN>
+    <Icon>UITexture/Item/equipment/shanbihufu</Icon>
+    <DropModelPath>prefab/item/item_dropbox/item_dropbox_pre</DropModelPath>
+    <EquipFlowPath></EquipFlowPath>
+    <DropPickupEffectPath>data/skillflow/rts/monster/drop/drop_pickup_book</DropPickupEffectPath>
+    <TipsText_SCN></TipsText_SCN>
+    <TipsText_EN></TipsText_EN>
+    <TipsText_FCN></TipsText_FCN>
+    <MaxHoldNum>9999 </MaxHoldNum>
+    <UseCd>0 </UseCd>
+    <CostType>0 </CostType>
+    <UseCost>1 </UseCost>
+    <GoldCost>125 </GoldCost>
+    <ValidityTime>-1 </ValidityTime>
+    <PickType>1 </PickType>
+    <PickParams>0 0 </PickParams>
+    <UseType>0 </UseType>
+    <ItemGrade>500 </ItemGrade>
+    <Effects type="ResItemEffect">
+        <Type>4 </Type>
+        <Param>3005 0 </Param>
+    </Effects>
+    <Effects type="ResItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 </Param>
+    </Effects>
+</ResGoodsItemDesc>
+<ResGoodsItemDesc version="1">
+    <ResID>10003006 </ResID>
+    <Type>8 </Type>
+    <Level>2 </Level>
+    <Quality>2 </Quality>
+    <Name_SCN>神秘斗篷</Name_SCN>
+    <Name_EN>Mystery Cloak</Name_EN>
+    <Name_FCN>神秘斗篷</Name_FCN>
+    <Desc_SCN></Desc_SCN>
+    <Desc_EN></Desc_EN>
+    <Desc_FCN></Desc_FCN>
+    <DescDetail_SCN></DescDetail_SCN>
+    <DescDetail_EN></DescDetail_EN>
+    <DescDetail_FCN></DescDetail_FCN>
+    <Icon>UITexture/Item/equipment/shenmidoupeng</Icon>
+    <DropModelPath>prefab/item/item_dropbox/item_dropbox_pre</DropModelPath>
+    <EquipFlowPath></EquipFlowPath>
+    <DropPickupEffectPath>data/skillflow/rts/monster/drop/drop_pickup_book</DropPickupEffectPath>
+    <TipsText_SCN></TipsText_SCN>
+    <TipsText_EN></TipsText_EN>
+    <TipsText_FCN></TipsText_FCN>
+    <MaxHoldNum>9999 </MaxHoldNum>
+    <UseCd>0 </UseCd>
+    <CostType>0 </CostType>
+    <UseCost>1 </UseCost>
+    <GoldCost>250 </GoldCost>
+    <ValidityTime>-1 </ValidityTime>
+    <PickType>1 </PickType>
+    <PickParams>0 0 </PickParams>
+    <UseType>0 </UseType>
+    <ItemGrade>1000 </ItemGrade>
+    <Effects type="ResItemEffect">
+        <Type>4 </Type>
+        <Param>3006 0 </Param>
+    </Effects>
+    <Effects type="ResItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 </Param>
+    </Effects>
+</ResGoodsItemDesc>
+<ResGoodsItemDesc version="1">
+    <ResID>10003007 </ResID>
+    <Type>8 </Type>
+    <Level>2 </Level>
+    <Quality>2 </Quality>
+    <Name_SCN>力量铠甲</Name_SCN>
+    <Name_EN>Power Cloak</Name_EN>
+    <Name_FCN>力量铠甲</Name_FCN>
+    <Desc_SCN></Desc_SCN>
+    <Desc_EN></Desc_EN>
+    <Desc_FCN></Desc_FCN>
+    <DescDetail_SCN></DescDetail_SCN>
+    <DescDetail_EN></DescDetail_EN>
+    <DescDetail_FCN></DescDetail_FCN>
+    <Icon>UITexture/Item/equipment/liliangkaijia</Icon>
+    <DropModelPath>prefab/item/item_dropbox/item_dropbox_pre</DropModelPath>
+    <EquipFlowPath></EquipFlowPath>
+    <DropPickupEffectPath>data/skillflow/rts/monster/drop/drop_pickup_book</DropPickupEffectPath>
+    <TipsText_SCN></TipsText_SCN>
+    <TipsText_EN></TipsText_EN>
+    <TipsText_FCN></TipsText_FCN>
+    <MaxHoldNum>9999 </MaxHoldNum>
+    <UseCd>0 </UseCd>
+    <CostType>0 </CostType>
+    <UseCost>1 </UseCost>
+    <GoldCost>250 </GoldCost>
+    <ValidityTime>-1 </ValidityTime>
+    <PickType>1 </PickType>
+    <PickParams>0 0 </PickParams>
+    <UseType>0 </UseType>
+    <ItemGrade>1000 </ItemGrade>
+    <Effects type="ResItemEffect">
+        <Type>4 </Type>
+        <Param>3007 0 </Param>
+    </Effects>
+    <Effects type="ResItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 </Param>
+    </Effects>
+</ResGoodsItemDesc>
+<ResGoodsItemDesc version="1">
+    <ResID>10003008 </ResID>
+    <Type>8 </Type>
+    <Level>2 </Level>
+    <Quality>2 </Quality>
+    <Name_SCN>活力之石</Name_SCN>
+    <Name_EN>Vitality Stone</Name_EN>
+    <Name_FCN>活力之石</Name_FCN>
+    <Desc_SCN></Desc_SCN>
+    <Desc_EN></Desc_EN>
+    <Desc_FCN></Desc_FCN>
+    <DescDetail_SCN></DescDetail_SCN>
+    <DescDetail_EN></DescDetail_EN>
+    <DescDetail_FCN></DescDetail_FCN>
+    <Icon>UITexture/Item/equipment/huolizhishi</Icon>
+    <DropModelPath>prefab/item/item_dropbox/item_dropbox_pre</DropModelPath>
+    <EquipFlowPath></EquipFlowPath>
+    <DropPickupEffectPath>data/skillflow/rts/monster/drop/drop_pickup_book</DropPickupEffectPath>
+    <TipsText_SCN></TipsText_SCN>
+    <TipsText_EN></TipsText_EN>
+    <TipsText_FCN></TipsText_FCN>
+    <MaxHoldNum>9999 </MaxHoldNum>
+    <UseCd>0 </UseCd>
+    <CostType>0 </CostType>
+    <UseCost>1 </UseCost>
+    <GoldCost>250 </GoldCost>
+    <ValidityTime>-1 </ValidityTime>
+    <PickType>1 </PickType>
+    <PickParams>0 0 </PickParams>
+    <UseType>0 </UseType>
+    <ItemGrade>1000 </ItemGrade>
+    <Effects type="ResItemEffect">
+        <Type>4 </Type>
+        <Param>3008 0 </Param>
+    </Effects>
+    <Effects type="ResItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 </Param>
+    </Effects>
+</ResGoodsItemDesc>
+<ResGoodsItemDesc version="1">
+    <ResID>10003009 </ResID>
+    <Type>8 </Type>
+    <Level>3 </Level>
+    <Quality>3 </Quality>
+    <Name_SCN>妖精斗篷</Name_SCN>
+    <Name_EN>Malevolent Cloak</Name_EN>
+    <Name_FCN>妖精斗篷</Name_FCN>
+    <Desc_SCN>唯一被动：【法术护盾】</Desc_SCN>
+    <Desc_EN>Passive ability [Magic Shield]</Desc_EN>
+    <Desc_FCN>唯一被动：【法术护盾】</Desc_FCN>
+    <DescDetail_SCN>唯一被动【法术护盾】：脱战6秒后获得一个吸收（600+英雄等级*90点）法术伤害的护盾</DescDetail_SCN>
+    <DescDetail_EN>Passive ability [Magic Shield]: Creates a Magic absorbing shield (600 + Hero Level *90) for 6 secs.</DescDetail_EN>
+    <DescDetail_FCN>唯一被动【法术护盾】：脱战6秒后获得一个吸收（600+英雄等级*90点）法术伤害的护盾</DescDetail_FCN>
+    <Icon>UITexture/Item/equipment/yaojingdoupeng</Icon>
+    <DropModelPath>prefab/item/item_dropbox/item_dropbox_pre</DropModelPath>
+    <EquipFlowPath></EquipFlowPath>
+    <DropPickupEffectPath>data/skillflow/rts/monster/drop/drop_pickup_book</DropPickupEffectPath>
+    <TipsText_SCN></TipsText_SCN>
+    <TipsText_EN></TipsText_EN>
+    <TipsText_FCN></TipsText_FCN>
+    <MaxHoldNum>9999 </MaxHoldNum>
+    <UseCd>0 </UseCd>
+    <CostType>0 </CostType>
+    <UseCost>1 </UseCost>
+    <GoldCost>375 </GoldCost>
+    <ValidityTime>-1 </ValidityTime>
+    <PickType>1 </PickType>
+    <PickParams>0 0 </PickParams>
+    <UseType>0 </UseType>
+    <ItemGrade>2000 </ItemGrade>
+    <Effects type="ResItemEffect">
+        <Type>4 </Type>
+        <Param>3009 0 </Param>
+    </Effects>
+    <Effects type="ResItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 </Param>
+    </Effects>
+</ResGoodsItemDesc>
+<ResGoodsItemDesc version="1">
+    <ResID>10003010 </ResID>
+    <Type>8 </Type>
+    <Level>3 </Level>
+    <Quality>3 </Quality>
+    <Name_SCN>燃火战袍</Name_SCN>
+    <Name_EN>Burning Tunic</Name_EN>
+    <Name_FCN>燃火战袍</Name_FCN>
+    <Desc_SCN>唯一被动：【火焰罩】</Desc_SCN>
+    <Desc_EN>Passive ability [Flame Shield]</Desc_EN>
+    <Desc_FCN>唯一被动：【火焰罩】</Desc_FCN>
+    <DescDetail_SCN>唯一被动【火焰罩】：使英雄处于火焰包围中，每秒对周围地面单位造成（25+英雄等级*5）点法术伤害</DescDetail_SCN>
+    <DescDetail_EN>Passive ability [Flame Shield]: The hero is surrounded by flames which causes Magic Damage (25 + Hero Level *5) to surrounding units.</DescDetail_EN>
+    <DescDetail_FCN>唯一被动【火焰罩】：使英雄处于火焰包围中，每秒对周围地面单位造成（25+英雄等级*5）点法术伤害</DescDetail_FCN>
+    <Icon>UITexture/Item/equipment/huoyanpifeng</Icon>
+    <DropModelPath>prefab/item/item_dropbox/item_dropbox_pre</DropModelPath>
+    <EquipFlowPath>data/skillflow/item/BurnningCape</EquipFlowPath>
+    <DropPickupEffectPath>data/skillflow/rts/monster/drop/drop_pickup_book</DropPickupEffectPath>
+    <TipsText_SCN></TipsText_SCN>
+    <TipsText_EN></TipsText_EN>
+    <TipsText_FCN></TipsText_FCN>
+    <MaxHoldNum>9999 </MaxHoldNum>
+    <UseCd>0 </UseCd>
+    <CostType>0 </CostType>
+    <UseCost>1 </UseCost>
+    <GoldCost>375 </GoldCost>
+    <ValidityTime>-1 </ValidityTime>
+    <PickType>1 </PickType>
+    <PickParams>0 0 </PickParams>
+    <UseType>0 </UseType>
+    <ItemGrade>2000 </ItemGrade>
+    <Effects type="ResItemEffect">
+        <Type>4 </Type>
+        <Param>3010 0 </Param>
+    </Effects>
+    <Effects type="ResItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 </Param>
+    </Effects>
+</ResGoodsItemDesc>
+<ResGoodsItemDesc version="1">
+    <ResID>10003011 </ResID>
+    <Type>8 </Type>
+    <Level>4 </Level>
+    <Quality>4 </Quality>
+    <Name_SCN>复活十字章</Name_SCN>
+    <Name_EN>Resurrection Cross</Name_EN>
+    <Name_FCN>复活十字章</Name_FCN>
+    <Desc_SCN>唯一被动：【重生】</Desc_SCN>
+    <Desc_EN>Passive ability [Rebirth]</Desc_EN>
+    <Desc_FCN>唯一被动：【重生】</Desc_FCN>
+    <DescDetail_SCN>唯一被动【重生】：死亡后3秒原地复活，获得(2000+英雄等级*100)点生命值，冷却时间：180秒</DescDetail_SCN>
+    <DescDetail_EN>Passive ability [Rebirth]: 3 seconds after dying will be resurrected with Health (2000 + Hero Level *100). Cooldown 180 Secs.</DescDetail_EN>
+    <DescDetail_FCN>唯一被动【重生】：死亡后3秒原地复活，获得(2000+英雄等级*100)点生命值，冷却时间：180秒</DescDetail_FCN>
+    <Icon>UITexture/Item/equipment/fuhuoshizizhang</Icon>
+    <DropModelPath>prefab/item/item_dropbox/item_dropbox_pre</DropModelPath>
+    <EquipFlowPath>data/skillflow/item/Ankh_active</EquipFlowPath>
+    <DropPickupEffectPath>data/skillflow/rts/monster/drop/drop_pickup_book</DropPickupEffectPath>
+    <TipsText_SCN></TipsText_SCN>
+    <TipsText_EN></TipsText_EN>
+    <TipsText_FCN></TipsText_FCN>
+    <MaxHoldNum>9999 </MaxHoldNum>
+    <UseCd>0 </UseCd>
+    <CostType>0 </CostType>
+    <UseCost>1 </UseCost>
+    <GoldCost>500 </GoldCost>
+    <ValidityTime>-1 </ValidityTime>
+    <PickType>1 </PickType>
+    <PickParams>0 0 </PickParams>
+    <UseType>0 </UseType>
+    <ItemGrade>3000 </ItemGrade>
+    <Effects type="ResItemEffect">
+        <Type>4 </Type>
+        <Param>3011 0 </Param>
+    </Effects>
+    <Effects type="ResItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 </Param>
+    </Effects>
+</ResGoodsItemDesc>
+<ResGoodsItemDesc version="1">
+    <ResID>10003012 </ResID>
+    <Type>8 </Type>
+    <Level>3 </Level>
+    <Quality>3 </Quality>
+    <Name_SCN>强袭装甲</Name_SCN>
+    <Name_EN>Assault Armor</Name_EN>
+    <Name_FCN>强袭装甲</Name_FCN>
+    <Desc_SCN>唯一被动：【强袭光环】</Desc_SCN>
+    <Desc_EN>Passive ability [Strike Aura]</Desc_EN>
+    <Desc_FCN>唯一被动：【强袭光环】</Desc_FCN>
+    <DescDetail_SCN>唯一被动【强袭光环】：提升附近友军10%攻击速度和36点护甲，削弱附近敌军-36点护甲</DescDetail_SCN>
+    <DescDetail_EN>Passive ability [Strike Aura]: Gives nearby allies’ Attack Speed +10% and Armor +36, reduces enemy Armor -36.</DescDetail_EN>
+    <DescDetail_FCN>唯一被动【强袭光环】：提升附近友军10%攻击速度和36点护甲，削弱附近敌军-36点护甲</DescDetail_FCN>
+    <Icon>UITexture/Item/equipment/qiangxizhuangjia</Icon>
+    <DropModelPath>prefab/item/item_dropbox/item_dropbox_pre</DropModelPath>
+    <EquipFlowPath>data/skillflow/item/AssaultCuirass</EquipFlowPath>
+    <DropPickupEffectPath>data/skillflow/rts/monster/drop/drop_pickup_book</DropPickupEffectPath>
+    <TipsText_SCN></TipsText_SCN>
+    <TipsText_EN></TipsText_EN>
+    <TipsText_FCN></TipsText_FCN>
+    <MaxHoldNum>9999 </MaxHoldNum>
+    <UseCd>0 </UseCd>
+    <CostType>0 </CostType>
+    <UseCost>1 </UseCost>
+    <GoldCost>375 </GoldCost>
+    <ValidityTime>-1 </ValidityTime>
+    <PickType>1 </PickType>
+    <PickParams>0 0 </PickParams>
+    <UseType>0 </UseType>
+    <ItemGrade>2000 </ItemGrade>
+    <Effects type="ResItemEffect">
+        <Type>4 </Type>
+        <Param>3012 0 </Param>
+    </Effects>
+    <Effects type="ResItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 </Param>
+    </Effects>
+</ResGoodsItemDesc>
+<ResGoodsItemDesc version="1">
+    <ResID>10003013 </ResID>
+    <Type>8 </Type>
+    <Level>3 </Level>
+    <Quality>3 </Quality>
+    <Name_SCN>冰霜守护</Name_SCN>
+    <Name_EN>Frost Guard</Name_EN>
+    <Name_FCN>冰霜守护</Name_FCN>
+    <Desc_SCN>唯一被动：【冰霜光环】</Desc_SCN>
+    <Desc_EN>Passive ability [Frost Aura]</Desc_EN>
+    <Desc_FCN>唯一被动：【冰霜光环】</Desc_FCN>
+    <DescDetail_SCN>唯一被动【冰霜光环】：降低附近敌军10%攻击速度和5%移动速度</DescDetail_SCN>
+    <DescDetail_EN>Passive ability [Frost Aura]: Reduces nearby enemies’ Attack Speed -10% and Movement Speed -5%.</DescDetail_EN>
+    <DescDetail_FCN>唯一被动【冰霜光环】：降低附近敌军10%攻击速度和5%移动速度</DescDetail_FCN>
+    <Icon>UITexture/Item/equipment/bingshuangshouhu</Icon>
+    <DropModelPath>prefab/item/item_dropbox/item_dropbox_pre</DropModelPath>
+    <EquipFlowPath>data/skillflow/item/ProtectionOfFrost</EquipFlowPath>
+    <DropPickupEffectPath>data/skillflow/rts/monster/drop/drop_pickup_book</DropPickupEffectPath>
+    <TipsText_SCN></TipsText_SCN>
+    <TipsText_EN></TipsText_EN>
+    <TipsText_FCN></TipsText_FCN>
+    <MaxHoldNum>9999 </MaxHoldNum>
+    <UseCd>0 </UseCd>
+    <CostType>0 </CostType>
+    <UseCost>1 </UseCost>
+    <GoldCost>375 </GoldCost>
+    <ValidityTime>-1 </ValidityTime>
+    <PickType>1 </PickType>
+    <PickParams>0 0 </PickParams>
+    <UseType>0 </UseType>
+    <ItemGrade>2000 </ItemGrade>
+    <Effects type="ResItemEffect">
+        <Type>4 </Type>
+        <Param>3013 0 </Param>
+    </Effects>
+    <Effects type="ResItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 </Param>
+    </Effects>
+</ResGoodsItemDesc>
+<ResGoodsItemDesc version="1">
+    <ResID>10004001 </ResID>
+    <Type>8 </Type>
+    <Level>99 </Level>
+    <Quality>0 </Quality>
+    <Name_SCN>速攻之靴</Name_SCN>
+    <Name_EN>Haste Boots</Name_EN>
+    <Name_FCN>速攻之靴</Name_FCN>
+    <Desc_SCN>唯一被动：+30移速</Desc_SCN>
+    <Desc_EN>Passive: Movement Speed +30</Desc_EN>
+    <Desc_FCN>唯一被动：+30移速</Desc_FCN>
+    <DescDetail_SCN>唯一被动：+30移动速度</DescDetail_SCN>
+    <DescDetail_EN>Passive: Movement Speed +30</DescDetail_EN>
+    <DescDetail_FCN>唯一被动：+30移动速度</DescDetail_FCN>
+    <Icon>UITexture/Item/equipment/minjiezhixue</Icon>
+    <DropModelPath>prefab/item/item_dropbox/item_dropbox_pre</DropModelPath>
+    <EquipFlowPath></EquipFlowPath>
+    <DropPickupEffectPath>data/skillflow/rts/monster/drop/drop_pickup_book</DropPickupEffectPath>
+    <TipsText_SCN></TipsText_SCN>
+    <TipsText_EN></TipsText_EN>
+    <TipsText_FCN></TipsText_FCN>
+    <MaxHoldNum>9999 </MaxHoldNum>
+    <UseCd>0 </UseCd>
+    <CostType>0 </CostType>
+    <UseCost>1 </UseCost>
+    <GoldCost>250 </GoldCost>
+    <ValidityTime>-1 </ValidityTime>
+    <PickType>1 </PickType>
+    <PickParams>0 0 </PickParams>
+    <UseType>0 </UseType>
+    <ItemGrade>1000 </ItemGrade>
+    <Effects type="ResItemEffect">
+        <Type>4 </Type>
+        <Param>4001 0 </Param>
+    </Effects>
+    <Effects type="ResItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 </Param>
+    </Effects>
+</ResGoodsItemDesc>
+<ResGoodsItemDesc version="1">
+    <ResID>10004002 </ResID>
+    <Type>8 </Type>
+    <Level>99 </Level>
+    <Quality>0 </Quality>
+    <Name_SCN>魔法之靴</Name_SCN>
+    <Name_EN>Magic Boots</Name_EN>
+    <Name_FCN>魔法之靴</Name_FCN>
+    <Desc_SCN>唯一被动：+30移速</Desc_SCN>
+    <Desc_EN>Passive: Movement Speed +30</Desc_EN>
+    <Desc_FCN>唯一被动：+30移速</Desc_FCN>
+    <DescDetail_SCN>唯一被动：+30移动速度</DescDetail_SCN>
+    <DescDetail_EN>Passive: Movement Speed +30</DescDetail_EN>
+    <DescDetail_FCN>唯一被动：+30移动速度</DescDetail_FCN>
+    <Icon>UITexture/Item/equipment/mofazhixue</Icon>
+    <DropModelPath>prefab/item/item_dropbox/item_dropbox_pre</DropModelPath>
+    <EquipFlowPath></EquipFlowPath>
+    <DropPickupEffectPath>data/skillflow/rts/monster/drop/drop_pickup_book</DropPickupEffectPath>
+    <TipsText_SCN></TipsText_SCN>
+    <TipsText_EN></TipsText_EN>
+    <TipsText_FCN></TipsText_FCN>
+    <MaxHoldNum>9999 </MaxHoldNum>
+    <UseCd>0 </UseCd>
+    <CostType>0 </CostType>
+    <UseCost>1 </UseCost>
+    <GoldCost>250 </GoldCost>
+    <ValidityTime>-1 </ValidityTime>
+    <PickType>1 </PickType>
+    <PickParams>0 0 </PickParams>
+    <UseType>0 </UseType>
+    <ItemGrade>1000 </ItemGrade>
+    <Effects type="ResItemEffect">
+        <Type>4 </Type>
+        <Param>4002 0 </Param>
+    </Effects>
+    <Effects type="ResItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 </Param>
+    </Effects>
+</ResGoodsItemDesc>
+<ResGoodsItemDesc version="1">
+    <ResID>10004003 </ResID>
+    <Type>8 </Type>
+    <Level>99 </Level>
+    <Quality>0 </Quality>
+    <Name_SCN>耐力之靴</Name_SCN>
+    <Name_EN>Endurance Boots</Name_EN>
+    <Name_FCN>耐力之靴</Name_FCN>
+    <Desc_SCN>唯一被动：+30移速,+20%韧性</Desc_SCN>
+    <Desc_EN>Passive: Movement Speed +30, Tenacity +20%</Desc_EN>
+    <Desc_FCN>唯一被动：+30移速,+20%韧性</Desc_FCN>
+    <DescDetail_SCN>唯一被动：+30移动速度，+20%韧性</DescDetail_SCN>
+    <DescDetail_EN>Passive: Movement Speed +30, Tenacity +20%</DescDetail_EN>
+    <DescDetail_FCN>唯一被动：+30移动速度，+20%韧性</DescDetail_FCN>
+    <Icon>UITexture/Item/equipment/nailizhixue</Icon>
+    <DropModelPath>prefab/item/item_dropbox/item_dropbox_pre</DropModelPath>
+    <EquipFlowPath></EquipFlowPath>
+    <DropPickupEffectPath>data/skillflow/rts/monster/drop/drop_pickup_book</DropPickupEffectPath>
+    <TipsText_SCN></TipsText_SCN>
+    <TipsText_EN></TipsText_EN>
+    <TipsText_FCN></TipsText_FCN>
+    <MaxHoldNum>9999 </MaxHoldNum>
+    <UseCd>0 </UseCd>
+    <CostType>0 </CostType>
+    <UseCost>1 </UseCost>
+    <GoldCost>250 </GoldCost>
+    <ValidityTime>-1 </ValidityTime>
+    <PickType>1 </PickType>
+    <PickParams>0 0 </PickParams>
+    <UseType>0 </UseType>
+    <ItemGrade>1000 </ItemGrade>
+    <Effects type="ResItemEffect">
+        <Type>4 </Type>
+        <Param>4003 0 </Param>
+    </Effects>
+    <Effects type="ResItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 </Param>
+    </Effects>
+</ResGoodsItemDesc>
+<ResGoodsItemDesc version="1">
+    <ResID>10004004 </ResID>
+    <Type>8 </Type>
+    <Level>99 </Level>
+    <Quality>0 </Quality>
+    <Name_SCN>防护之靴</Name_SCN>
+    <Name_EN>Protection Boots</Name_EN>
+    <Name_FCN>防护之靴</Name_FCN>
+    <Desc_SCN>唯一被动：+30移速，+10%普攻减伤</Desc_SCN>
+    <Desc_EN>Passive: Movement Speed +30, Normal Damage Reduction +10</Desc_EN>
+    <Desc_FCN>唯一被动：+30移速，+10%普攻减伤</Desc_FCN>
+    <DescDetail_SCN>唯一被动：+30移动速度，+10%受到普攻伤害减免</DescDetail_SCN>
+    <DescDetail_EN>Passive: Movement Speed +30, Normal Damage Reduction +10</DescDetail_EN>
+    <DescDetail_FCN>唯一被动：+30移动速度，+10%受到普攻伤害减免</DescDetail_FCN>
+    <Icon>UITexture/Item/equipment/fanghuzhixue</Icon>
+    <DropModelPath>prefab/item/item_dropbox/item_dropbox_pre</DropModelPath>
+    <EquipFlowPath></EquipFlowPath>
+    <DropPickupEffectPath>data/skillflow/rts/monster/drop/drop_pickup_book</DropPickupEffectPath>
+    <TipsText_SCN></TipsText_SCN>
+    <TipsText_EN></TipsText_EN>
+    <TipsText_FCN></TipsText_FCN>
+    <MaxHoldNum>9999 </MaxHoldNum>
+    <UseCd>0 </UseCd>
+    <CostType>0 </CostType>
+    <UseCost>1 </UseCost>
+    <GoldCost>250 </GoldCost>
+    <ValidityTime>-1 </ValidityTime>
+    <PickType>1 </PickType>
+    <PickParams>0 0 </PickParams>
+    <UseType>0 </UseType>
+    <ItemGrade>1000 </ItemGrade>
+    <Effects type="ResItemEffect">
+        <Type>4 </Type>
+        <Param>4004 0 </Param>
+    </Effects>
+    <Effects type="ResItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 </Param>
+    </Effects>
+</ResGoodsItemDesc>
+<ResGoodsItemDesc version="1">
+    <ResID>10004005 </ResID>
+    <Type>8 </Type>
+    <Level>2 </Level>
+    <Quality>2 </Quality>
+    <Name_SCN>移速之靴</Name_SCN>
+    <Name_EN>Speed Boots</Name_EN>
+    <Name_FCN>移速之靴</Name_FCN>
+    <Desc_SCN>唯一被动：+30移速,【移速光环】</Desc_SCN>
+    <Desc_EN>Passive: Hero Movement Speed +30</Desc_EN>
+    <Desc_FCN>唯一被动：+30移速,【移速光环】</Desc_FCN>
+    <DescDetail_SCN>唯一被动：+30英雄移动速度
+唯一被动【移速光环】：友方单位脱战5秒后+30移动速度</DescDetail_SCN>
+    <DescDetail_EN>Passive: Hero Movement Speed +30</DescDetail_EN>
+    <DescDetail_FCN>唯一被动：+30英雄移动速度
+唯一被动【移速光环】：友方单位脱战5秒后+30移动速度</DescDetail_FCN>
+    <Icon>UITexture/Item/equipment/suduzhixue</Icon>
+    <DropModelPath>prefab/item/item_dropbox/item_dropbox_pre</DropModelPath>
+    <EquipFlowPath></EquipFlowPath>
+    <DropPickupEffectPath>data/skillflow/rts/monster/drop/drop_pickup_book</DropPickupEffectPath>
+    <TipsText_SCN></TipsText_SCN>
+    <TipsText_EN></TipsText_EN>
+    <TipsText_FCN></TipsText_FCN>
+    <MaxHoldNum>9999 </MaxHoldNum>
+    <UseCd>0 </UseCd>
+    <CostType>0 </CostType>
+    <UseCost>1 </UseCost>
+    <GoldCost>250 </GoldCost>
+    <ValidityTime>-1 </ValidityTime>
+    <PickType>1 </PickType>
+    <PickParams>0 0 </PickParams>
+    <UseType>0 </UseType>
+    <ItemGrade>1000 </ItemGrade>
+    <Effects type="ResItemEffect">
+        <Type>4 </Type>
+        <Param>4005 0 </Param>
+    </Effects>
+    <Effects type="ResItemEffect">
+        <Type>0 </Type>
+        <Param>0 0 </Param>
+    </Effects>
+</ResGoodsItemDesc>
+</ResGoodsItemDesc_Tab>

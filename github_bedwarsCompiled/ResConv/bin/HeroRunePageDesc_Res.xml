@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<ResHeroRunePageDesc_Tab>
+<TResHeadAll version="5">
+    <resHead type="TResHead">
+        <Magic>1397052237 </Magic>
+        <Version>6 </Version>
+        <Unit>28 </Unit>
+        <Count>15 </Count>
+        <MetalibHash>531d5b4a397ad5b3c0fbfb5cc8059e55</MetalibHash>
+        <ResVersion>0 </ResVersion>
+        <CreateTime>2023-04-19 20:42:37</CreateTime>
+        <ResEncording>UTF-8</ResEncording>
+        <ContentHash>150c252115f67a3b058675039d373287</ContentHash>
+    </resHead>
+    <resHeadExt type="TResHeadExt">
+        <DataOffset>136 </DataOffset>
+    </resHeadExt>
+</TResHeadAll>
+<ResHeroRunePageDesc version="1">
+    <ResID>1 </ResID>
+    <RuneType>0 </RuneType>
+    <UnlockLevel>2 </UnlockLevel>
+    <MoneyConsume type="ResMoneyConsume">
+        <Type>0 </Type>
+        <Num>40 </Num>
+    </MoneyConsume>
+    <MoneyConsume type="ResMoneyConsume">
+        <Type>0 </Type>
+        <Num>0 </Num>
+    </MoneyConsume>
+</ResHeroRunePageDesc>
+<ResHeroRunePageDesc version="1">
+    <ResID>2 </ResID>
+    <RuneType>0 </RuneType>
+    <UnlockLevel>12 </UnlockLevel>
+    <MoneyConsume type="ResMoneyConsume">
+        <Type>2 </Type>
+        <Num>140 </Num>
+    </MoneyConsume>
+    <MoneyConsume type="ResMoneyConsume">
+        <Type>0 </Type>
+        <Num>0 </Num>
+    </MoneyConsume>
+</ResHeroRunePageDesc>
+<ResHeroRunePageDesc version="1">
+    <ResID>3 </ResID>
+    <RuneType>0 </RuneType>
+    <UnlockLevel>22 </UnlockLevel>
+    <MoneyConsume type="ResMoneyConsume">
+        <Type>2 </Type>
+        <Num>320 </Num>
+    </MoneyConsume>
+    <MoneyConsume type="ResMoneyConsume">
+        <Type>0 </Type>
+        <Num>0 </Num>
+    </MoneyConsume>
+</ResHeroRunePageDesc>
+<ResHeroRunePageDesc version="1">
+    <ResID>4 </ResID>
+    <RuneType>1 </RuneType>
+    <UnlockLevel>3 </UnlockLevel>
+    <MoneyConsume type="ResMoneyConsume">
+        <Type>2 </Type>
+        <Num>60 </Num>
+    </MoneyConsume>
+    <MoneyConsume type="ResMoneyConsume">
+        <Type>0 </Type>
+        <Num>0 </Num>
+    </MoneyConsume>
+</ResHeroRunePageDesc>
+<ResHeroRunePageDesc version="1">
+    <ResID>5 </ResID>
+    <RuneType>1 </RuneType>
+    <UnlockLevel>14 </UnlockLevel>
+    <MoneyConsume type="ResMoneyConsume">
+        <Type>2 </Type>
+        <Num>180 </Num>
+    </MoneyConsume>
+    <MoneyConsume type="ResMoneyConsume">
+        <Type>0 </Type>
+        <Num>0 </Num>
+    </MoneyConsume>
+</ResHeroRunePageDesc>
+<ResHeroRunePageDesc version="1">
+    <ResID>6 </ResID>
+    <RuneType>1 </RuneType>
+    <UnlockLevel>24 </UnlockLevel>
+    <MoneyConsume type="ResMoneyConsume">
+        <Type>2 </Type>
+        <Num>400 </Num>
+    </MoneyConsume>
+    <MoneyConsume type="ResMoneyConsume">
+        <Type>0 </Type>
+        <Num>0 </Num>
+    </MoneyConsume>
+</ResHeroRunePageDesc>
+<ResHeroRunePageDesc version="1">
+    <ResID>7 </ResID>
+    <RuneType>2 </RuneType>
+    <UnlockLevel>5 </UnlockLevel>
+    <MoneyConsume type="ResMoneyConsume">
+        <Type>2 </Type>
+        <Num>80 </Num>
+    </MoneyConsume>
+    <MoneyConsume type="ResMoneyConsume">
+        <Type>0 </Type>
+        <Num>0 </Num>
+    </MoneyConsume>
+</ResHeroRunePageDesc>
+<ResHeroRunePageDesc version="1">
+    <ResID>8 </ResID>
+    <RuneType>2 </RuneType>
+    <UnlockLevel>16 </UnlockLevel>
+    <MoneyConsume type="ResMoneyConsume">
+        <Type>2 </Type>
+        <Num>220 </Num>
+    </MoneyConsume>
+    <MoneyConsume type="ResMoneyConsume">
+        <Type>0 </Type>
+        <Num>0 </Num>
+    </MoneyConsume>
+</ResHeroRunePageDesc>
+<ResHeroRunePageDesc version="1">
+    <ResID>9 </ResID>
+    <RuneType>2 </RuneType>
+    <UnlockLevel>26 </UnlockLevel>
+    <MoneyConsume type="ResMoneyConsume">
+        <Type>2 </Type>
+        <Num>480 </Num>
+    </MoneyConsume>
+    <MoneyConsume type="ResMoneyConsume">
+        <Type>0 </Type>
+        <Num>0 </Num>
+    </MoneyConsume>
+</ResHeroRunePageDesc>
+<ResHeroRunePageDesc version="1">
+    <ResID>10 </ResID>
+    <RuneType>4 </RuneType>
+    <UnlockLevel>8 </UnlockLevel>
+    <MoneyConsume type="ResMoneyConsume">
+        <Type>2 </Type>
+        <Num>100 </Num>
+    </MoneyConsume>
+    <MoneyConsume type="ResMoneyConsume">
+        <Type>0 </Type>
+        <Num>0 </Num>
+    </MoneyConsume>
+</ResHeroRunePageDesc>
+<ResHeroRunePageDesc version="1">
+    <ResID>11 </ResID>
+    <RuneType>4 </RuneType>
+    <UnlockLevel>18 </UnlockLevel>
+    <MoneyConsume type="ResMoneyConsume">
+        <Type>2 </Type>
+        <Num>260 </Num>
+    </MoneyConsume>
+    <MoneyConsume type="ResMoneyConsume">
+        <Type>0 </Type>
+        <Num>0 </Num>
+    </MoneyConsume>
+</ResHeroRunePageDesc>
+<ResHeroRunePageDesc version="1">
+    <ResID>12 </ResID>
+    <RuneType>4 </RuneType>
+    <UnlockLevel>28 </UnlockLevel>
+    <MoneyConsume type="ResMoneyConsume">
+        <Type>2 </Type>
+        <Num>560 </Num>
+    </MoneyConsume>
+    <MoneyConsume type="ResMoneyConsume">
+        <Type>0 </Type>
+        <Num>0 </Num>
+    </MoneyConsume>
+</ResHeroRunePageDesc>
+<ResHeroRunePageDesc version="1">
+    <ResID>13 </ResID>
+    <RuneType>3 </RuneType>
+    <UnlockLevel>10 </UnlockLevel>
+    <MoneyConsume type="ResMoneyConsume">
+        <Type>2 </Type>
+        <Num>100 </Num>
+    </MoneyConsume>
+    <MoneyConsume type="ResMoneyConsume">
+        <Type>0 </Type>
+        <Num>0 </Num>
+    </MoneyConsume>
+</ResHeroRunePageDesc>
+<ResHeroRunePageDesc version="1">
+    <ResID>14 </ResID>
+    <RuneType>3 </RuneType>
+    <UnlockLevel>20 </UnlockLevel>
+    <MoneyConsume type="ResMoneyConsume">
+        <Type>2 </Type>
+        <Num>300 </Num>
+    </MoneyConsume>
+    <MoneyConsume type="ResMoneyConsume">
+        <Type>0 </Type>
+        <Num>0 </Num>
+    </MoneyConsume>
+</ResHeroRunePageDesc>
+<ResHeroRunePageDesc version="1">
+    <ResID>15 </ResID>
+    <RuneType>3 </RuneType>
+    <UnlockLevel>30 </UnlockLevel>
+    <MoneyConsume type="ResMoneyConsume">
+        <Type>2 </Type>
+        <Num>600 </Num>
+    </MoneyConsume>
+    <MoneyConsume type="ResMoneyConsume">
+        <Type>0 </Type>
+        <Num>0 </Num>
+    </MoneyConsume>
+</ResHeroRunePageDesc>
+</ResHeroRunePageDesc_Tab>

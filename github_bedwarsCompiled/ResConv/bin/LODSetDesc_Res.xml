@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<ResLODSetDesc_Tab>
+<TResHeadAll version="5">
+    <resHead type="TResHead">
+        <Magic>1397052237 </Magic>
+        <Version>6 </Version>
+        <Unit>8 </Unit>
+        <Count>3 </Count>
+        <MetalibHash>531d5b4a397ad5b3c0fbfb5cc8059e55</MetalibHash>
+        <ResVersion>0 </ResVersion>
+        <CreateTime>2023-04-19 20:42:31</CreateTime>
+        <ResEncording>UTF-8</ResEncording>
+        <ContentHash>7a84525d3d33288b919482ab2b46db48</ContentHash>
+    </resHead>
+    <resHeadExt type="TResHeadExt">
+        <DataOffset>136 </DataOffset>
+    </resHeadExt>
+</TResHeadAll>
+<ResLODSetDesc version="1">
+    <ID>0 </ID>
+    <MaxCnt>8 </MaxCnt>
+    <FriendMinCnt>0 </FriendMinCnt>
+    <MeCnt>15 </MeCnt>
+    <MeLOD>1 </MeLOD>
+</ResLODSetDesc>
+<ResLODSetDesc version="1">
+    <ID>1 </ID>
+    <MaxCnt>20 </MaxCnt>
+    <FriendMinCnt>8 </FriendMinCnt>
+    <MeCnt>20 </MeCnt>
+    <MeLOD>0 </MeLOD>
+</ResLODSetDesc>
+<ResLODSetDesc version="1">
+    <ID>2 </ID>
+    <MaxCnt>40 </MaxCnt>
+    <FriendMinCnt>20 </FriendMinCnt>
+    <MeCnt>20 </MeCnt>
+    <MeLOD>0 </MeLOD>
+</ResLODSetDesc>
+</ResLODSetDesc_Tab>

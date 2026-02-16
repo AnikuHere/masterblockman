@@ -1,0 +1,1819 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<ResHeroDesc_Tab>
+<TResHeadAll version="5">
+    <resHead type="TResHead">
+        <Magic>1397052237 </Magic>
+        <Version>6 </Version>
+        <Unit>222 </Unit>
+        <Count>36 </Count>
+        <MetalibHash>531d5b4a397ad5b3c0fbfb5cc8059e55</MetalibHash>
+        <ResVersion>0 </ResVersion>
+        <CreateTime>2023-04-19 20:42:26</CreateTime>
+        <ResEncording>UTF-8</ResEncording>
+        <ContentHash>b167a5558654a1be82798138543a996d</ContentHash>
+    </resHead>
+    <resHeadExt type="TResHeadExt">
+        <DataOffset>136 </DataOffset>
+    </resHeadExt>
+</TResHeadAll>
+<ResHeroDesc version="1">
+    <ResID>10000000 </ResID>
+    <Country>0 </Country>
+    <Sex>1 </Sex>
+    <RaceType>0 </RaceType>
+    <CanView>0 </CanView>
+    <CanSelect>0 </CanSelect>
+    <CanHave>1 </CanHave>
+    <AICanUse>0 </AICanUse>
+    <AIArenaLevelCanUse>0 </AIArenaLevelCanUse>
+    <AIPlayerLevelCanUse>0 </AIPlayerLevelCanUse>
+    <CapacityType>2 </CapacityType>
+    <CapacitySubType>2 </CapacitySubType>
+    <WeaponType>1 </WeaponType>
+    <MobaAIId>1000 </MobaAIId>
+    <AITargetType>2 0 0 </AITargetType>
+    <SkillAttackType>5 </SkillAttackType>
+    <ArmorType>4 </ArmorType>
+    <SpeedType>1 </SpeedType>
+    <SkillAtkActorType>2 </SkillAtkActorType>
+    <MoveType>0 </MoveType>
+    <CrowdSize>3 </CrowdSize>
+    <Food>0 </Food>
+    <MaxSkillEnergy>0 </MaxSkillEnergy>
+    <FogViewType>0 </FogViewType>
+    <DayFowRadius>350000 </DayFowRadius>
+    <NightFowRadius>200000 </NightFowRadius>
+    <ActorPetID>0 </ActorPetID>
+    <TeamGhostID>20000924 </TeamGhostID>
+    <NormalSkills>100200101 0 0 </NormalSkills>
+    <Skills>100201001 100202001 100203001 0 0 0 0 0 </Skills>
+    <TalentSkills>100204001 0 0 </TalentSkills>
+    <SummonerSkills>70000001 0 0 </SummonerSkills>
+    <AvatarSkills>0 0 0 0 </AvatarSkills>
+    <HiddenSkills>100020001 0 0 0 </HiddenSkills>
+    <DynsSkills>0 0 </DynsSkills>
+    <HeroSkins>1000001 0 0 0 0 0 </HeroSkins>
+    <Guide1v1RecID>1000 </Guide1v1RecID>
+    <Guide3v3RecID>0 </Guide3v3RecID>
+    <HumRecID>1001 </HumRecID>
+    <OrcRecID>1101 </OrcRecID>
+    <GhostRecID>1201 </GhostRecID>
+    <ElfRecID>1301 </ElfRecID>
+    <LiveVal>4 </LiveVal>
+    <ATKVal>3 </ATKVal>
+    <SkillDamageVal>8 </SkillDamageVal>
+    <UseDifficultyVal>4 </UseDifficultyVal>
+    <PaybackItemID>0 </PaybackItemID>
+    <PaybackItemNum>0 </PaybackItemNum>
+</ResHeroDesc>
+<ResHeroDesc version="1">
+    <ResID>10000001 </ResID>
+    <Country>0 </Country>
+    <Sex>1 </Sex>
+    <RaceType>0 </RaceType>
+    <CanView>1 </CanView>
+    <CanSelect>1 </CanSelect>
+    <CanHave>1 </CanHave>
+    <AICanUse>1 </AICanUse>
+    <AIArenaLevelCanUse>0 </AIArenaLevelCanUse>
+    <AIPlayerLevelCanUse>0 </AIPlayerLevelCanUse>
+    <CapacityType>2 </CapacityType>
+    <CapacitySubType>2 </CapacitySubType>
+    <WeaponType>1 </WeaponType>
+    <MobaAIId>1000 </MobaAIId>
+    <AITargetType>2 0 0 </AITargetType>
+    <SkillAttackType>5 </SkillAttackType>
+    <ArmorType>4 </ArmorType>
+    <SpeedType>1 </SpeedType>
+    <SkillAtkActorType>2 </SkillAtkActorType>
+    <MoveType>0 </MoveType>
+    <CrowdSize>3 </CrowdSize>
+    <Food>0 </Food>
+    <MaxSkillEnergy>0 </MaxSkillEnergy>
+    <FogViewType>0 </FogViewType>
+    <DayFowRadius>350000 </DayFowRadius>
+    <NightFowRadius>200000 </NightFowRadius>
+    <ActorPetID>0 </ActorPetID>
+    <TeamGhostID>20000924 </TeamGhostID>
+    <NormalSkills>100200101 0 0 </NormalSkills>
+    <Skills>100201001 100202001 100203001 0 0 0 0 0 </Skills>
+    <TalentSkills>100204001 0 0 </TalentSkills>
+    <SummonerSkills>70000001 0 0 </SummonerSkills>
+    <AvatarSkills>0 0 0 0 </AvatarSkills>
+    <HiddenSkills>0 0 0 0 </HiddenSkills>
+    <DynsSkills>0 0 </DynsSkills>
+    <HeroSkins>1001001 1001002 1001003 0 0 0 </HeroSkins>
+    <Guide1v1RecID>1000 </Guide1v1RecID>
+    <Guide3v3RecID>0 </Guide3v3RecID>
+    <HumRecID>1001 </HumRecID>
+    <OrcRecID>1101 </OrcRecID>
+    <GhostRecID>1201 </GhostRecID>
+    <ElfRecID>1301 </ElfRecID>
+    <LiveVal>4 </LiveVal>
+    <ATKVal>3 </ATKVal>
+    <SkillDamageVal>8 </SkillDamageVal>
+    <UseDifficultyVal>4 </UseDifficultyVal>
+    <PaybackItemID>31100001 </PaybackItemID>
+    <PaybackItemNum>5 </PaybackItemNum>
+</ResHeroDesc>
+<ResHeroDesc version="1">
+    <ResID>10000002 </ResID>
+    <Country>0 </Country>
+    <Sex>1 </Sex>
+    <RaceType>0 </RaceType>
+    <CanView>0 </CanView>
+    <CanSelect>0 </CanSelect>
+    <CanHave>0 </CanHave>
+    <AICanUse>0 </AICanUse>
+    <AIArenaLevelCanUse>0 </AIArenaLevelCanUse>
+    <AIPlayerLevelCanUse>0 </AIPlayerLevelCanUse>
+    <CapacityType>1 </CapacityType>
+    <CapacitySubType>1 </CapacitySubType>
+    <WeaponType>0 </WeaponType>
+    <MobaAIId>1000 </MobaAIId>
+    <AITargetType>2 0 0 </AITargetType>
+    <SkillAttackType>5 </SkillAttackType>
+    <ArmorType>4 </ArmorType>
+    <SpeedType>1 </SpeedType>
+    <SkillAtkActorType>2 </SkillAtkActorType>
+    <MoveType>0 </MoveType>
+    <CrowdSize>3 </CrowdSize>
+    <Food>0 </Food>
+    <MaxSkillEnergy>0 </MaxSkillEnergy>
+    <FogViewType>0 </FogViewType>
+    <DayFowRadius>350000 </DayFowRadius>
+    <NightFowRadius>200000 </NightFowRadius>
+    <ActorPetID>0 </ActorPetID>
+    <TeamGhostID>20000924 </TeamGhostID>
+    <NormalSkills>100100101 100100301 0 </NormalSkills>
+    <Skills>100101001 100102001 100103001 0 0 0 0 0 </Skills>
+    <TalentSkills>100104001 0 0 </TalentSkills>
+    <SummonerSkills>70000001 0 0 </SummonerSkills>
+    <AvatarSkills>100100201 0 0 0 </AvatarSkills>
+    <HiddenSkills>0 0 0 0 </HiddenSkills>
+    <DynsSkills>0 0 </DynsSkills>
+    <HeroSkins>1002001 1002002 0 0 0 0 </HeroSkins>
+    <Guide1v1RecID>0 </Guide1v1RecID>
+    <Guide3v3RecID>0 </Guide3v3RecID>
+    <HumRecID>1001 </HumRecID>
+    <OrcRecID>1101 </OrcRecID>
+    <GhostRecID>1201 </GhostRecID>
+    <ElfRecID>1301 </ElfRecID>
+    <LiveVal>8 </LiveVal>
+    <ATKVal>6 </ATKVal>
+    <SkillDamageVal>4 </SkillDamageVal>
+    <UseDifficultyVal>5 </UseDifficultyVal>
+    <PaybackItemID>31100001 </PaybackItemID>
+    <PaybackItemNum>5 </PaybackItemNum>
+</ResHeroDesc>
+<ResHeroDesc version="1">
+    <ResID>10000003 </ResID>
+    <Country>0 </Country>
+    <Sex>1 </Sex>
+    <RaceType>0 </RaceType>
+    <CanView>1 </CanView>
+    <CanSelect>1 </CanSelect>
+    <CanHave>0 </CanHave>
+    <AICanUse>1 </AICanUse>
+    <AIArenaLevelCanUse>0 </AIArenaLevelCanUse>
+    <AIPlayerLevelCanUse>0 </AIPlayerLevelCanUse>
+    <CapacityType>3 </CapacityType>
+    <CapacitySubType>2 </CapacitySubType>
+    <WeaponType>0 </WeaponType>
+    <MobaAIId>1000 </MobaAIId>
+    <AITargetType>2 0 0 </AITargetType>
+    <SkillAttackType>5 </SkillAttackType>
+    <ArmorType>4 </ArmorType>
+    <SpeedType>1 </SpeedType>
+    <SkillAtkActorType>2 </SkillAtkActorType>
+    <MoveType>0 </MoveType>
+    <CrowdSize>3 </CrowdSize>
+    <Food>0 </Food>
+    <MaxSkillEnergy>0 </MaxSkillEnergy>
+    <FogViewType>0 </FogViewType>
+    <DayFowRadius>350000 </DayFowRadius>
+    <NightFowRadius>200000 </NightFowRadius>
+    <ActorPetID>0 </ActorPetID>
+    <TeamGhostID>20000924 </TeamGhostID>
+    <NormalSkills>100300101 100300201 0 </NormalSkills>
+    <Skills>100301001 100302001 100304001 0 0 0 0 0 </Skills>
+    <TalentSkills>100320001 0 0 </TalentSkills>
+    <SummonerSkills>70000001 0 0 </SummonerSkills>
+    <AvatarSkills>0 0 0 0 </AvatarSkills>
+    <HiddenSkills>0 0 0 0 </HiddenSkills>
+    <DynsSkills>0 0 </DynsSkills>
+    <HeroSkins>1003001 1003002 0 0 0 0 </HeroSkins>
+    <Guide1v1RecID>0 </Guide1v1RecID>
+    <Guide3v3RecID>0 </Guide3v3RecID>
+    <HumRecID>1001 </HumRecID>
+    <OrcRecID>1101 </OrcRecID>
+    <GhostRecID>1201 </GhostRecID>
+    <ElfRecID>1301 </ElfRecID>
+    <LiveVal>7 </LiveVal>
+    <ATKVal>4 </ATKVal>
+    <SkillDamageVal>7 </SkillDamageVal>
+    <UseDifficultyVal>5 </UseDifficultyVal>
+    <PaybackItemID>31100001 </PaybackItemID>
+    <PaybackItemNum>5 </PaybackItemNum>
+</ResHeroDesc>
+<ResHeroDesc version="1">
+    <ResID>10000005 </ResID>
+    <Country>0 </Country>
+    <Sex>1 </Sex>
+    <RaceType>0 </RaceType>
+    <CanView>0 </CanView>
+    <CanSelect>0 </CanSelect>
+    <CanHave>0 </CanHave>
+    <AICanUse>0 </AICanUse>
+    <AIArenaLevelCanUse>0 </AIArenaLevelCanUse>
+    <AIPlayerLevelCanUse>0 </AIPlayerLevelCanUse>
+    <CapacityType>1 </CapacityType>
+    <CapacitySubType>1 </CapacitySubType>
+    <WeaponType>0 </WeaponType>
+    <MobaAIId>1000 </MobaAIId>
+    <AITargetType>2 0 0 </AITargetType>
+    <SkillAttackType>5 </SkillAttackType>
+    <ArmorType>4 </ArmorType>
+    <SpeedType>1 </SpeedType>
+    <SkillAtkActorType>2 </SkillAtkActorType>
+    <MoveType>0 </MoveType>
+    <CrowdSize>3 </CrowdSize>
+    <Food>0 </Food>
+    <MaxSkillEnergy>3 </MaxSkillEnergy>
+    <FogViewType>0 </FogViewType>
+    <DayFowRadius>350000 </DayFowRadius>
+    <NightFowRadius>200000 </NightFowRadius>
+    <ActorPetID>0 </ActorPetID>
+    <TeamGhostID>20000924 </TeamGhostID>
+    <NormalSkills>100100101 100100301 0 </NormalSkills>
+    <Skills>100101001 100102001 100103001 0 0 0 0 0 </Skills>
+    <TalentSkills>100104001 0 0 </TalentSkills>
+    <SummonerSkills>70000001 0 0 </SummonerSkills>
+    <AvatarSkills>100100201 0 0 0 </AvatarSkills>
+    <HiddenSkills>0 0 0 0 </HiddenSkills>
+    <DynsSkills>0 0 </DynsSkills>
+    <HeroSkins>1002001 1002002 0 0 0 0 </HeroSkins>
+    <Guide1v1RecID>0 </Guide1v1RecID>
+    <Guide3v3RecID>0 </Guide3v3RecID>
+    <HumRecID>1001 </HumRecID>
+    <OrcRecID>1101 </OrcRecID>
+    <GhostRecID>1201 </GhostRecID>
+    <ElfRecID>1301 </ElfRecID>
+    <LiveVal>8 </LiveVal>
+    <ATKVal>6 </ATKVal>
+    <SkillDamageVal>4 </SkillDamageVal>
+    <UseDifficultyVal>5 </UseDifficultyVal>
+    <PaybackItemID>31100001 </PaybackItemID>
+    <PaybackItemNum>5 </PaybackItemNum>
+</ResHeroDesc>
+<ResHeroDesc version="1">
+    <ResID>10000100 </ResID>
+    <Country>0 </Country>
+    <Sex>1 </Sex>
+    <RaceType>0 </RaceType>
+    <CanView>0 </CanView>
+    <CanSelect>0 </CanSelect>
+    <CanHave>0 </CanHave>
+    <AICanUse>0 </AICanUse>
+    <AIArenaLevelCanUse>0 </AIArenaLevelCanUse>
+    <AIPlayerLevelCanUse>0 </AIPlayerLevelCanUse>
+    <CapacityType>2 </CapacityType>
+    <CapacitySubType>2 </CapacitySubType>
+    <WeaponType>1 </WeaponType>
+    <MobaAIId>1000 </MobaAIId>
+    <AITargetType>2 0 0 </AITargetType>
+    <SkillAttackType>5 </SkillAttackType>
+    <ArmorType>4 </ArmorType>
+    <SpeedType>1 </SpeedType>
+    <SkillAtkActorType>2 </SkillAtkActorType>
+    <MoveType>0 </MoveType>
+    <CrowdSize>3 </CrowdSize>
+    <Food>0 </Food>
+    <MaxSkillEnergy>0 </MaxSkillEnergy>
+    <FogViewType>0 </FogViewType>
+    <DayFowRadius>350000 </DayFowRadius>
+    <NightFowRadius>200000 </NightFowRadius>
+    <ActorPetID>0 </ActorPetID>
+    <TeamGhostID>20000924 </TeamGhostID>
+    <NormalSkills>110100101 0 0 </NormalSkills>
+    <Skills>110101001 110103001 110104001 0 0 0 0 0 </Skills>
+    <TalentSkills>110102001 0 0 </TalentSkills>
+    <SummonerSkills>70000001 0 0 </SummonerSkills>
+    <AvatarSkills>0 0 0 0 </AvatarSkills>
+    <HiddenSkills>100020001 0 0 0 </HiddenSkills>
+    <DynsSkills>0 0 </DynsSkills>
+    <HeroSkins>1101001 0 0 0 0 0 </HeroSkins>
+    <Guide1v1RecID>0 </Guide1v1RecID>
+    <Guide3v3RecID>0 </Guide3v3RecID>
+    <HumRecID>1001 </HumRecID>
+    <OrcRecID>1101 </OrcRecID>
+    <GhostRecID>1201 </GhostRecID>
+    <ElfRecID>1301 </ElfRecID>
+    <LiveVal>3 </LiveVal>
+    <ATKVal>3 </ATKVal>
+    <SkillDamageVal>8 </SkillDamageVal>
+    <UseDifficultyVal>5 </UseDifficultyVal>
+    <PaybackItemID>31100001 </PaybackItemID>
+    <PaybackItemNum>5 </PaybackItemNum>
+</ResHeroDesc>
+<ResHeroDesc version="1">
+    <ResID>10000101 </ResID>
+    <Country>0 </Country>
+    <Sex>1 </Sex>
+    <RaceType>0 </RaceType>
+    <CanView>1 </CanView>
+    <CanSelect>1 </CanSelect>
+    <CanHave>0 </CanHave>
+    <AICanUse>1 </AICanUse>
+    <AIArenaLevelCanUse>0 </AIArenaLevelCanUse>
+    <AIPlayerLevelCanUse>0 </AIPlayerLevelCanUse>
+    <CapacityType>2 </CapacityType>
+    <CapacitySubType>2 </CapacitySubType>
+    <WeaponType>1 </WeaponType>
+    <MobaAIId>1000 </MobaAIId>
+    <AITargetType>2 0 0 </AITargetType>
+    <SkillAttackType>5 </SkillAttackType>
+    <ArmorType>4 </ArmorType>
+    <SpeedType>1 </SpeedType>
+    <SkillAtkActorType>2 </SkillAtkActorType>
+    <MoveType>0 </MoveType>
+    <CrowdSize>3 </CrowdSize>
+    <Food>0 </Food>
+    <MaxSkillEnergy>0 </MaxSkillEnergy>
+    <FogViewType>0 </FogViewType>
+    <DayFowRadius>350000 </DayFowRadius>
+    <NightFowRadius>200000 </NightFowRadius>
+    <ActorPetID>0 </ActorPetID>
+    <TeamGhostID>20000924 </TeamGhostID>
+    <NormalSkills>110100101 0 0 </NormalSkills>
+    <Skills>110101001 110103001 110104001 0 0 0 0 0 </Skills>
+    <TalentSkills>110102001 0 0 </TalentSkills>
+    <SummonerSkills>70000001 0 0 </SummonerSkills>
+    <AvatarSkills>0 0 0 0 </AvatarSkills>
+    <HiddenSkills>0 0 0 0 </HiddenSkills>
+    <DynsSkills>0 0 </DynsSkills>
+    <HeroSkins>1101001 1101002 0 0 0 0 </HeroSkins>
+    <Guide1v1RecID>0 </Guide1v1RecID>
+    <Guide3v3RecID>0 </Guide3v3RecID>
+    <HumRecID>1001 </HumRecID>
+    <OrcRecID>1101 </OrcRecID>
+    <GhostRecID>1201 </GhostRecID>
+    <ElfRecID>1301 </ElfRecID>
+    <LiveVal>3 </LiveVal>
+    <ATKVal>3 </ATKVal>
+    <SkillDamageVal>8 </SkillDamageVal>
+    <UseDifficultyVal>5 </UseDifficultyVal>
+    <PaybackItemID>31100001 </PaybackItemID>
+    <PaybackItemNum>5 </PaybackItemNum>
+</ResHeroDesc>
+<ResHeroDesc version="1">
+    <ResID>10000102 </ResID>
+    <Country>0 </Country>
+    <Sex>1 </Sex>
+    <RaceType>0 </RaceType>
+    <CanView>1 </CanView>
+    <CanSelect>1 </CanSelect>
+    <CanHave>0 </CanHave>
+    <AICanUse>1 </AICanUse>
+    <AIArenaLevelCanUse>0 </AIArenaLevelCanUse>
+    <AIPlayerLevelCanUse>0 </AIPlayerLevelCanUse>
+    <CapacityType>5 </CapacityType>
+    <CapacitySubType>1 </CapacitySubType>
+    <WeaponType>0 </WeaponType>
+    <MobaAIId>1000 </MobaAIId>
+    <AITargetType>2 0 0 </AITargetType>
+    <SkillAttackType>5 </SkillAttackType>
+    <ArmorType>4 </ArmorType>
+    <SpeedType>1 </SpeedType>
+    <SkillAtkActorType>2 </SkillAtkActorType>
+    <MoveType>0 </MoveType>
+    <CrowdSize>3 </CrowdSize>
+    <Food>0 </Food>
+    <MaxSkillEnergy>0 </MaxSkillEnergy>
+    <FogViewType>0 </FogViewType>
+    <DayFowRadius>350000 </DayFowRadius>
+    <NightFowRadius>200000 </NightFowRadius>
+    <ActorPetID>0 </ActorPetID>
+    <TeamGhostID>20000924 </TeamGhostID>
+    <NormalSkills>110200101 110200201 0 </NormalSkills>
+    <Skills>110201001 110202001 110204001 0 0 0 0 0 </Skills>
+    <TalentSkills>110203001 0 0 </TalentSkills>
+    <SummonerSkills>70000001 0 0 </SummonerSkills>
+    <AvatarSkills>0 0 0 0 </AvatarSkills>
+    <HiddenSkills>0 0 0 0 </HiddenSkills>
+    <DynsSkills>0 0 </DynsSkills>
+    <HeroSkins>1102001 1102002 0 0 0 0 </HeroSkins>
+    <Guide1v1RecID>0 </Guide1v1RecID>
+    <Guide3v3RecID>0 </Guide3v3RecID>
+    <HumRecID>1001 </HumRecID>
+    <OrcRecID>1101 </OrcRecID>
+    <GhostRecID>1201 </GhostRecID>
+    <ElfRecID>1301 </ElfRecID>
+    <LiveVal>8 </LiveVal>
+    <ATKVal>4 </ATKVal>
+    <SkillDamageVal>6 </SkillDamageVal>
+    <UseDifficultyVal>6 </UseDifficultyVal>
+    <PaybackItemID>31100001 </PaybackItemID>
+    <PaybackItemNum>5 </PaybackItemNum>
+</ResHeroDesc>
+<ResHeroDesc version="1">
+    <ResID>10000201 </ResID>
+    <Country>0 </Country>
+    <Sex>1 </Sex>
+    <RaceType>0 </RaceType>
+    <CanView>1 </CanView>
+    <CanSelect>1 </CanSelect>
+    <CanHave>0 </CanHave>
+    <AICanUse>1 </AICanUse>
+    <AIArenaLevelCanUse>4 </AIArenaLevelCanUse>
+    <AIPlayerLevelCanUse>0 </AIPlayerLevelCanUse>
+    <CapacityType>1 </CapacityType>
+    <CapacitySubType>2 </CapacitySubType>
+    <WeaponType>0 </WeaponType>
+    <MobaAIId>1000 </MobaAIId>
+    <AITargetType>2 0 0 </AITargetType>
+    <SkillAttackType>5 </SkillAttackType>
+    <ArmorType>4 </ArmorType>
+    <SpeedType>1 </SpeedType>
+    <SkillAtkActorType>2 </SkillAtkActorType>
+    <MoveType>0 </MoveType>
+    <CrowdSize>3 </CrowdSize>
+    <Food>0 </Food>
+    <MaxSkillEnergy>1 </MaxSkillEnergy>
+    <FogViewType>0 </FogViewType>
+    <DayFowRadius>350000 </DayFowRadius>
+    <NightFowRadius>200000 </NightFowRadius>
+    <ActorPetID>0 </ActorPetID>
+    <TeamGhostID>20000924 </TeamGhostID>
+    <NormalSkills>120500101 120500201 0 </NormalSkills>
+    <Skills>120501001 120502001 120504001 0 0 0 0 0 </Skills>
+    <TalentSkills>120520001 0 0 </TalentSkills>
+    <SummonerSkills>70000001 0 0 </SummonerSkills>
+    <AvatarSkills>120500301 0 0 0 </AvatarSkills>
+    <HiddenSkills>120510001 0 0 0 </HiddenSkills>
+    <DynsSkills>0 0 </DynsSkills>
+    <HeroSkins>1201001 0 0 0 0 0 </HeroSkins>
+    <Guide1v1RecID>0 </Guide1v1RecID>
+    <Guide3v3RecID>0 </Guide3v3RecID>
+    <HumRecID>1001 </HumRecID>
+    <OrcRecID>1101 </OrcRecID>
+    <GhostRecID>1201 </GhostRecID>
+    <ElfRecID>1301 </ElfRecID>
+    <LiveVal>6 </LiveVal>
+    <ATKVal>4 </ATKVal>
+    <SkillDamageVal>7 </SkillDamageVal>
+    <UseDifficultyVal>6 </UseDifficultyVal>
+    <PaybackItemID>31100001 </PaybackItemID>
+    <PaybackItemNum>5 </PaybackItemNum>
+</ResHeroDesc>
+<ResHeroDesc version="1">
+    <ResID>10000202 </ResID>
+    <Country>0 </Country>
+    <Sex>2 </Sex>
+    <RaceType>0 </RaceType>
+    <CanView>1 </CanView>
+    <CanSelect>1 </CanSelect>
+    <CanHave>0 </CanHave>
+    <AICanUse>1 </AICanUse>
+    <AIArenaLevelCanUse>0 </AIArenaLevelCanUse>
+    <AIPlayerLevelCanUse>0 </AIPlayerLevelCanUse>
+    <CapacityType>2 </CapacityType>
+    <CapacitySubType>2 </CapacitySubType>
+    <WeaponType>1 </WeaponType>
+    <MobaAIId>1000 </MobaAIId>
+    <AITargetType>2 0 0 </AITargetType>
+    <SkillAttackType>5 </SkillAttackType>
+    <ArmorType>4 </ArmorType>
+    <SpeedType>1 </SpeedType>
+    <SkillAtkActorType>2 </SkillAtkActorType>
+    <MoveType>0 </MoveType>
+    <CrowdSize>3 </CrowdSize>
+    <Food>0 </Food>
+    <MaxSkillEnergy>0 </MaxSkillEnergy>
+    <FogViewType>0 </FogViewType>
+    <DayFowRadius>350000 </DayFowRadius>
+    <NightFowRadius>200000 </NightFowRadius>
+    <ActorPetID>0 </ActorPetID>
+    <TeamGhostID>20000924 </TeamGhostID>
+    <NormalSkills>120200101 0 0 </NormalSkills>
+    <Skills>120201001 120202001 120204001 0 0 0 0 0 </Skills>
+    <TalentSkills>120220001 0 0 </TalentSkills>
+    <SummonerSkills>70000001 0 0 </SummonerSkills>
+    <AvatarSkills>0 0 0 0 </AvatarSkills>
+    <HiddenSkills>0 0 0 0 </HiddenSkills>
+    <DynsSkills>0 0 </DynsSkills>
+    <HeroSkins>1202001 1202002 0 0 0 0 </HeroSkins>
+    <Guide1v1RecID>0 </Guide1v1RecID>
+    <Guide3v3RecID>0 </Guide3v3RecID>
+    <HumRecID>1001 </HumRecID>
+    <OrcRecID>1101 </OrcRecID>
+    <GhostRecID>1201 </GhostRecID>
+    <ElfRecID>1301 </ElfRecID>
+    <LiveVal>4 </LiveVal>
+    <ATKVal>4 </ATKVal>
+    <SkillDamageVal>8 </SkillDamageVal>
+    <UseDifficultyVal>5 </UseDifficultyVal>
+    <PaybackItemID>31100001 </PaybackItemID>
+    <PaybackItemNum>5 </PaybackItemNum>
+</ResHeroDesc>
+<ResHeroDesc version="1">
+    <ResID>10000203 </ResID>
+    <Country>0 </Country>
+    <Sex>1 </Sex>
+    <RaceType>0 </RaceType>
+    <CanView>1 </CanView>
+    <CanSelect>1 </CanSelect>
+    <CanHave>0 </CanHave>
+    <AICanUse>1 </AICanUse>
+    <AIArenaLevelCanUse>3 </AIArenaLevelCanUse>
+    <AIPlayerLevelCanUse>0 </AIPlayerLevelCanUse>
+    <CapacityType>1 </CapacityType>
+    <CapacitySubType>1 </CapacitySubType>
+    <WeaponType>0 </WeaponType>
+    <MobaAIId>1000 </MobaAIId>
+    <AITargetType>2 0 0 </AITargetType>
+    <SkillAttackType>5 </SkillAttackType>
+    <ArmorType>4 </ArmorType>
+    <SpeedType>1 </SpeedType>
+    <SkillAtkActorType>2 </SkillAtkActorType>
+    <MoveType>0 </MoveType>
+    <CrowdSize>3 </CrowdSize>
+    <Food>0 </Food>
+    <MaxSkillEnergy>0 </MaxSkillEnergy>
+    <FogViewType>0 </FogViewType>
+    <DayFowRadius>350000 </DayFowRadius>
+    <NightFowRadius>200000 </NightFowRadius>
+    <ActorPetID>0 </ActorPetID>
+    <TeamGhostID>20000924 </TeamGhostID>
+    <NormalSkills>120300101 120300201 0 </NormalSkills>
+    <Skills>120301001 120302001 120304001 0 0 0 0 0 </Skills>
+    <TalentSkills>120320001 0 0 </TalentSkills>
+    <SummonerSkills>70000001 0 0 </SummonerSkills>
+    <AvatarSkills>0 0 0 0 </AvatarSkills>
+    <HiddenSkills>120310001 0 0 0 </HiddenSkills>
+    <DynsSkills>0 0 </DynsSkills>
+    <HeroSkins>1203001 1203002 0 0 0 0 </HeroSkins>
+    <Guide1v1RecID>0 </Guide1v1RecID>
+    <Guide3v3RecID>0 </Guide3v3RecID>
+    <HumRecID>1001 </HumRecID>
+    <OrcRecID>1101 </OrcRecID>
+    <GhostRecID>1201 </GhostRecID>
+    <ElfRecID>1301 </ElfRecID>
+    <LiveVal>6 </LiveVal>
+    <ATKVal>4 </ATKVal>
+    <SkillDamageVal>7 </SkillDamageVal>
+    <UseDifficultyVal>6 </UseDifficultyVal>
+    <PaybackItemID>31100001 </PaybackItemID>
+    <PaybackItemNum>5 </PaybackItemNum>
+</ResHeroDesc>
+<ResHeroDesc version="1">
+    <ResID>10000205 </ResID>
+    <Country>0 </Country>
+    <Sex>1 </Sex>
+    <RaceType>0 </RaceType>
+    <CanView>0 </CanView>
+    <CanSelect>0 </CanSelect>
+    <CanHave>0 </CanHave>
+    <AICanUse>0 </AICanUse>
+    <AIArenaLevelCanUse>4 </AIArenaLevelCanUse>
+    <AIPlayerLevelCanUse>0 </AIPlayerLevelCanUse>
+    <CapacityType>1 </CapacityType>
+    <CapacitySubType>2 </CapacitySubType>
+    <WeaponType>0 </WeaponType>
+    <MobaAIId>1000 </MobaAIId>
+    <AITargetType>2 0 0 </AITargetType>
+    <SkillAttackType>5 </SkillAttackType>
+    <ArmorType>4 </ArmorType>
+    <SpeedType>1 </SpeedType>
+    <SkillAtkActorType>2 </SkillAtkActorType>
+    <MoveType>0 </MoveType>
+    <CrowdSize>3 </CrowdSize>
+    <Food>0 </Food>
+    <MaxSkillEnergy>1 </MaxSkillEnergy>
+    <FogViewType>0 </FogViewType>
+    <DayFowRadius>350000 </DayFowRadius>
+    <NightFowRadius>200000 </NightFowRadius>
+    <ActorPetID>0 </ActorPetID>
+    <TeamGhostID>20000924 </TeamGhostID>
+    <NormalSkills>120500101 120500201 0 </NormalSkills>
+    <Skills>120501001 120502001 120504001 0 0 0 0 0 </Skills>
+    <TalentSkills>120520001 0 0 </TalentSkills>
+    <SummonerSkills>70000001 0 0 </SummonerSkills>
+    <AvatarSkills>120500301 0 0 0 </AvatarSkills>
+    <HiddenSkills>120510001 0 0 0 </HiddenSkills>
+    <DynsSkills>0 0 </DynsSkills>
+    <HeroSkins>1201001 0 0 0 0 0 </HeroSkins>
+    <Guide1v1RecID>0 </Guide1v1RecID>
+    <Guide3v3RecID>0 </Guide3v3RecID>
+    <HumRecID>1001 </HumRecID>
+    <OrcRecID>1101 </OrcRecID>
+    <GhostRecID>1201 </GhostRecID>
+    <ElfRecID>1301 </ElfRecID>
+    <LiveVal>6 </LiveVal>
+    <ATKVal>4 </ATKVal>
+    <SkillDamageVal>7 </SkillDamageVal>
+    <UseDifficultyVal>6 </UseDifficultyVal>
+    <PaybackItemID>31100001 </PaybackItemID>
+    <PaybackItemNum>5 </PaybackItemNum>
+</ResHeroDesc>
+<ResHeroDesc version="1">
+    <ResID>10000300 </ResID>
+    <Country>0 </Country>
+    <Sex>2 </Sex>
+    <RaceType>0 </RaceType>
+    <CanView>0 </CanView>
+    <CanSelect>0 </CanSelect>
+    <CanHave>0 </CanHave>
+    <AICanUse>0 </AICanUse>
+    <AIArenaLevelCanUse>0 </AIArenaLevelCanUse>
+    <AIPlayerLevelCanUse>0 </AIPlayerLevelCanUse>
+    <CapacityType>4 </CapacityType>
+    <CapacitySubType>3 </CapacitySubType>
+    <WeaponType>1 </WeaponType>
+    <MobaAIId>1000 </MobaAIId>
+    <AITargetType>2 0 0 </AITargetType>
+    <SkillAttackType>5 </SkillAttackType>
+    <ArmorType>4 </ArmorType>
+    <SpeedType>1 </SpeedType>
+    <SkillAtkActorType>2 </SkillAtkActorType>
+    <MoveType>0 </MoveType>
+    <CrowdSize>3 </CrowdSize>
+    <Food>0 </Food>
+    <MaxSkillEnergy>0 </MaxSkillEnergy>
+    <FogViewType>0 </FogViewType>
+    <DayFowRadius>350000 </DayFowRadius>
+    <NightFowRadius>200000 </NightFowRadius>
+    <ActorPetID>0 </ActorPetID>
+    <TeamGhostID>20000924 </TeamGhostID>
+    <NormalSkills>130200101 0 0 </NormalSkills>
+    <Skills>130201001 130202001 130204001 0 0 0 0 0 </Skills>
+    <TalentSkills>130220001 0 0 </TalentSkills>
+    <SummonerSkills>70000001 0 0 </SummonerSkills>
+    <AvatarSkills>0 0 0 0 </AvatarSkills>
+    <HiddenSkills>100020001 0 0 0 </HiddenSkills>
+    <DynsSkills>0 0 </DynsSkills>
+    <HeroSkins>1302001 0 0 0 0 0 </HeroSkins>
+    <Guide1v1RecID>0 </Guide1v1RecID>
+    <Guide3v3RecID>0 </Guide3v3RecID>
+    <HumRecID>1001 </HumRecID>
+    <OrcRecID>1101 </OrcRecID>
+    <GhostRecID>1201 </GhostRecID>
+    <ElfRecID>1301 </ElfRecID>
+    <LiveVal>4 </LiveVal>
+    <ATKVal>9 </ATKVal>
+    <SkillDamageVal>6 </SkillDamageVal>
+    <UseDifficultyVal>8 </UseDifficultyVal>
+    <PaybackItemID>31100001 </PaybackItemID>
+    <PaybackItemNum>5 </PaybackItemNum>
+</ResHeroDesc>
+<ResHeroDesc version="1">
+    <ResID>10000301 </ResID>
+    <Country>0 </Country>
+    <Sex>1 </Sex>
+    <RaceType>0 </RaceType>
+    <CanView>1 </CanView>
+    <CanSelect>1 </CanSelect>
+    <CanHave>0 </CanHave>
+    <AICanUse>1 </AICanUse>
+    <AIArenaLevelCanUse>5 </AIArenaLevelCanUse>
+    <AIPlayerLevelCanUse>0 </AIPlayerLevelCanUse>
+    <CapacityType>1 </CapacityType>
+    <CapacitySubType>1 </CapacitySubType>
+    <WeaponType>0 </WeaponType>
+    <MobaAIId>1000 </MobaAIId>
+    <AITargetType>2 0 0 </AITargetType>
+    <SkillAttackType>5 </SkillAttackType>
+    <ArmorType>4 </ArmorType>
+    <SpeedType>1 </SpeedType>
+    <SkillAtkActorType>2 </SkillAtkActorType>
+    <MoveType>0 </MoveType>
+    <CrowdSize>3 </CrowdSize>
+    <Food>0 </Food>
+    <MaxSkillEnergy>1 </MaxSkillEnergy>
+    <FogViewType>0 </FogViewType>
+    <DayFowRadius>350000 </DayFowRadius>
+    <NightFowRadius>200000 </NightFowRadius>
+    <ActorPetID>0 </ActorPetID>
+    <TeamGhostID>20000924 </TeamGhostID>
+    <NormalSkills>130500101 130500201 0 </NormalSkills>
+    <Skills>130501001 130502001 130504001 0 0 0 0 0 </Skills>
+    <TalentSkills>130520001 0 0 </TalentSkills>
+    <SummonerSkills>70000001 0 0 </SummonerSkills>
+    <AvatarSkills>0 0 0 0 </AvatarSkills>
+    <HiddenSkills>130510001 0 0 0 </HiddenSkills>
+    <DynsSkills>0 0 </DynsSkills>
+    <HeroSkins>1305001 1301002 0 0 0 0 </HeroSkins>
+    <Guide1v1RecID>0 </Guide1v1RecID>
+    <Guide3v3RecID>0 </Guide3v3RecID>
+    <HumRecID>1001 </HumRecID>
+    <OrcRecID>1101 </OrcRecID>
+    <GhostRecID>1201 </GhostRecID>
+    <ElfRecID>1301 </ElfRecID>
+    <LiveVal>6 </LiveVal>
+    <ATKVal>8 </ATKVal>
+    <SkillDamageVal>5 </SkillDamageVal>
+    <UseDifficultyVal>7 </UseDifficultyVal>
+    <PaybackItemID>31100001 </PaybackItemID>
+    <PaybackItemNum>5 </PaybackItemNum>
+</ResHeroDesc>
+<ResHeroDesc version="1">
+    <ResID>10000302 </ResID>
+    <Country>0 </Country>
+    <Sex>2 </Sex>
+    <RaceType>0 </RaceType>
+    <CanView>1 </CanView>
+    <CanSelect>1 </CanSelect>
+    <CanHave>0 </CanHave>
+    <AICanUse>1 </AICanUse>
+    <AIArenaLevelCanUse>5 </AIArenaLevelCanUse>
+    <AIPlayerLevelCanUse>0 </AIPlayerLevelCanUse>
+    <CapacityType>4 </CapacityType>
+    <CapacitySubType>3 </CapacitySubType>
+    <WeaponType>1 </WeaponType>
+    <MobaAIId>1000 </MobaAIId>
+    <AITargetType>2 0 0 </AITargetType>
+    <SkillAttackType>5 </SkillAttackType>
+    <ArmorType>4 </ArmorType>
+    <SpeedType>1 </SpeedType>
+    <SkillAtkActorType>2 </SkillAtkActorType>
+    <MoveType>0 </MoveType>
+    <CrowdSize>3 </CrowdSize>
+    <Food>0 </Food>
+    <MaxSkillEnergy>0 </MaxSkillEnergy>
+    <FogViewType>0 </FogViewType>
+    <DayFowRadius>350000 </DayFowRadius>
+    <NightFowRadius>200000 </NightFowRadius>
+    <ActorPetID>0 </ActorPetID>
+    <TeamGhostID>20000924 </TeamGhostID>
+    <NormalSkills>130200101 0 0 </NormalSkills>
+    <Skills>130201001 130202001 130204001 0 0 0 0 0 </Skills>
+    <TalentSkills>130220001 0 0 </TalentSkills>
+    <SummonerSkills>70000001 0 0 </SummonerSkills>
+    <AvatarSkills>0 0 0 0 </AvatarSkills>
+    <HiddenSkills>0 0 0 0 </HiddenSkills>
+    <DynsSkills>0 0 </DynsSkills>
+    <HeroSkins>1302001 1302002 0 0 0 0 </HeroSkins>
+    <Guide1v1RecID>0 </Guide1v1RecID>
+    <Guide3v3RecID>0 </Guide3v3RecID>
+    <HumRecID>1001 </HumRecID>
+    <OrcRecID>1101 </OrcRecID>
+    <GhostRecID>1201 </GhostRecID>
+    <ElfRecID>1301 </ElfRecID>
+    <LiveVal>4 </LiveVal>
+    <ATKVal>9 </ATKVal>
+    <SkillDamageVal>6 </SkillDamageVal>
+    <UseDifficultyVal>8 </UseDifficultyVal>
+    <PaybackItemID>31100001 </PaybackItemID>
+    <PaybackItemNum>5 </PaybackItemNum>
+</ResHeroDesc>
+<ResHeroDesc version="1">
+    <ResID>10000305 </ResID>
+    <Country>0 </Country>
+    <Sex>1 </Sex>
+    <RaceType>0 </RaceType>
+    <CanView>0 </CanView>
+    <CanSelect>0 </CanSelect>
+    <CanHave>0 </CanHave>
+    <AICanUse>0 </AICanUse>
+    <AIArenaLevelCanUse>5 </AIArenaLevelCanUse>
+    <AIPlayerLevelCanUse>0 </AIPlayerLevelCanUse>
+    <CapacityType>1 </CapacityType>
+    <CapacitySubType>1 </CapacitySubType>
+    <WeaponType>0 </WeaponType>
+    <MobaAIId>1000 </MobaAIId>
+    <AITargetType>2 0 0 </AITargetType>
+    <SkillAttackType>5 </SkillAttackType>
+    <ArmorType>4 </ArmorType>
+    <SpeedType>1 </SpeedType>
+    <SkillAtkActorType>2 </SkillAtkActorType>
+    <MoveType>0 </MoveType>
+    <CrowdSize>3 </CrowdSize>
+    <Food>0 </Food>
+    <MaxSkillEnergy>1 </MaxSkillEnergy>
+    <FogViewType>0 </FogViewType>
+    <DayFowRadius>350000 </DayFowRadius>
+    <NightFowRadius>200000 </NightFowRadius>
+    <ActorPetID>0 </ActorPetID>
+    <TeamGhostID>20000924 </TeamGhostID>
+    <NormalSkills>130500101 130500201 0 </NormalSkills>
+    <Skills>130501001 130502001 130504001 0 0 0 0 0 </Skills>
+    <TalentSkills>130520001 0 0 </TalentSkills>
+    <SummonerSkills>70000001 0 0 </SummonerSkills>
+    <AvatarSkills>0 0 0 0 </AvatarSkills>
+    <HiddenSkills>130510001 0 0 0 </HiddenSkills>
+    <DynsSkills>0 0 </DynsSkills>
+    <HeroSkins>1305001 1301002 0 0 0 0 </HeroSkins>
+    <Guide1v1RecID>0 </Guide1v1RecID>
+    <Guide3v3RecID>0 </Guide3v3RecID>
+    <HumRecID>1001 </HumRecID>
+    <OrcRecID>1101 </OrcRecID>
+    <GhostRecID>1201 </GhostRecID>
+    <ElfRecID>1301 </ElfRecID>
+    <LiveVal>6 </LiveVal>
+    <ATKVal>8 </ATKVal>
+    <SkillDamageVal>5 </SkillDamageVal>
+    <UseDifficultyVal>7 </UseDifficultyVal>
+    <PaybackItemID>31100001 </PaybackItemID>
+    <PaybackItemNum>5 </PaybackItemNum>
+</ResHeroDesc>
+<ResHeroDesc version="1">
+    <ResID>10000401 </ResID>
+    <Country>0 </Country>
+    <Sex>2 </Sex>
+    <RaceType>0 </RaceType>
+    <CanView>1 </CanView>
+    <CanSelect>1 </CanSelect>
+    <CanHave>0 </CanHave>
+    <AICanUse>1 </AICanUse>
+    <AIArenaLevelCanUse>3 </AIArenaLevelCanUse>
+    <AIPlayerLevelCanUse>0 </AIPlayerLevelCanUse>
+    <CapacityType>1 </CapacityType>
+    <CapacitySubType>1 </CapacitySubType>
+    <WeaponType>0 </WeaponType>
+    <MobaAIId>1000 </MobaAIId>
+    <AITargetType>2 0 0 </AITargetType>
+    <SkillAttackType>5 </SkillAttackType>
+    <ArmorType>4 </ArmorType>
+    <SpeedType>1 </SpeedType>
+    <SkillAtkActorType>2 </SkillAtkActorType>
+    <MoveType>0 </MoveType>
+    <CrowdSize>3 </CrowdSize>
+    <Food>0 </Food>
+    <MaxSkillEnergy>0 </MaxSkillEnergy>
+    <FogViewType>0 </FogViewType>
+    <DayFowRadius>350000 </DayFowRadius>
+    <NightFowRadius>200000 </NightFowRadius>
+    <ActorPetID>0 </ActorPetID>
+    <TeamGhostID>20000924 </TeamGhostID>
+    <NormalSkills>140100101 140100201 0 </NormalSkills>
+    <Skills>140101001 140102001 140104001 0 0 0 0 0 </Skills>
+    <TalentSkills>140120001 0 0 </TalentSkills>
+    <SummonerSkills>70000001 0 0 </SummonerSkills>
+    <AvatarSkills>0 0 0 0 </AvatarSkills>
+    <HiddenSkills>0 0 0 0 </HiddenSkills>
+    <DynsSkills>0 0 </DynsSkills>
+    <HeroSkins>1401001 1401002 1401003 0 0 0 </HeroSkins>
+    <Guide1v1RecID>0 </Guide1v1RecID>
+    <Guide3v3RecID>0 </Guide3v3RecID>
+    <HumRecID>1001 </HumRecID>
+    <OrcRecID>1101 </OrcRecID>
+    <GhostRecID>1201 </GhostRecID>
+    <ElfRecID>1301 </ElfRecID>
+    <LiveVal>4 </LiveVal>
+    <ATKVal>9 </ATKVal>
+    <SkillDamageVal>6 </SkillDamageVal>
+    <UseDifficultyVal>8 </UseDifficultyVal>
+    <PaybackItemID>31100001 </PaybackItemID>
+    <PaybackItemNum>5 </PaybackItemNum>
+</ResHeroDesc>
+<ResHeroDesc version="1">
+    <ResID>10000402 </ResID>
+    <Country>0 </Country>
+    <Sex>1 </Sex>
+    <RaceType>0 </RaceType>
+    <CanView>0 </CanView>
+    <CanSelect>0 </CanSelect>
+    <CanHave>0 </CanHave>
+    <AICanUse>0 </AICanUse>
+    <AIArenaLevelCanUse>0 </AIArenaLevelCanUse>
+    <AIPlayerLevelCanUse>0 </AIPlayerLevelCanUse>
+    <CapacityType>1 </CapacityType>
+    <CapacitySubType>2 </CapacitySubType>
+    <WeaponType>0 </WeaponType>
+    <MobaAIId>1000 </MobaAIId>
+    <AITargetType>2 0 0 </AITargetType>
+    <SkillAttackType>5 </SkillAttackType>
+    <ArmorType>4 </ArmorType>
+    <SpeedType>1 </SpeedType>
+    <SkillAtkActorType>2 </SkillAtkActorType>
+    <MoveType>0 </MoveType>
+    <CrowdSize>3 </CrowdSize>
+    <Food>0 </Food>
+    <MaxSkillEnergy>0 </MaxSkillEnergy>
+    <FogViewType>0 </FogViewType>
+    <DayFowRadius>350000 </DayFowRadius>
+    <NightFowRadius>200000 </NightFowRadius>
+    <ActorPetID>0 </ActorPetID>
+    <TeamGhostID>20000924 </TeamGhostID>
+    <NormalSkills>140200101 140200201 0 </NormalSkills>
+    <Skills>140201001 140202001 140204001 0 0 0 0 0 </Skills>
+    <TalentSkills>140220001 0 0 </TalentSkills>
+    <SummonerSkills>70000001 0 0 </SummonerSkills>
+    <AvatarSkills>0 0 0 0 </AvatarSkills>
+    <HiddenSkills>0 0 0 0 </HiddenSkills>
+    <DynsSkills>0 0 </DynsSkills>
+    <HeroSkins>1402001 1402002 0 0 0 0 </HeroSkins>
+    <Guide1v1RecID>0 </Guide1v1RecID>
+    <Guide3v3RecID>0 </Guide3v3RecID>
+    <HumRecID>1001 </HumRecID>
+    <OrcRecID>1101 </OrcRecID>
+    <GhostRecID>1201 </GhostRecID>
+    <ElfRecID>1301 </ElfRecID>
+    <LiveVal>7 </LiveVal>
+    <ATKVal>5 </ATKVal>
+    <SkillDamageVal>8 </SkillDamageVal>
+    <UseDifficultyVal>7 </UseDifficultyVal>
+    <PaybackItemID>31100001 </PaybackItemID>
+    <PaybackItemNum>5 </PaybackItemNum>
+</ResHeroDesc>
+<ResHeroDesc version="1">
+    <ResID>10000403 </ResID>
+    <Country>0 </Country>
+    <Sex>1 </Sex>
+    <RaceType>0 </RaceType>
+    <CanView>1 </CanView>
+    <CanSelect>1 </CanSelect>
+    <CanHave>0 </CanHave>
+    <AICanUse>1 </AICanUse>
+    <AIArenaLevelCanUse>3 </AIArenaLevelCanUse>
+    <AIPlayerLevelCanUse>0 </AIPlayerLevelCanUse>
+    <CapacityType>5 </CapacityType>
+    <CapacitySubType>1 </CapacitySubType>
+    <WeaponType>0 </WeaponType>
+    <MobaAIId>1000 </MobaAIId>
+    <AITargetType>2 0 0 </AITargetType>
+    <SkillAttackType>5 </SkillAttackType>
+    <ArmorType>4 </ArmorType>
+    <SpeedType>1 </SpeedType>
+    <SkillAtkActorType>2 </SkillAtkActorType>
+    <MoveType>0 </MoveType>
+    <CrowdSize>3 </CrowdSize>
+    <Food>0 </Food>
+    <MaxSkillEnergy>0 </MaxSkillEnergy>
+    <FogViewType>0 </FogViewType>
+    <DayFowRadius>350000 </DayFowRadius>
+    <NightFowRadius>200000 </NightFowRadius>
+    <ActorPetID>0 </ActorPetID>
+    <TeamGhostID>20000924 </TeamGhostID>
+    <NormalSkills>140300101 140300201 0 </NormalSkills>
+    <Skills>140301001 140302001 140304001 0 0 0 0 0 </Skills>
+    <TalentSkills>140320001 0 0 </TalentSkills>
+    <SummonerSkills>70000001 0 0 </SummonerSkills>
+    <AvatarSkills>0 0 0 0 </AvatarSkills>
+    <HiddenSkills>0 0 0 0 </HiddenSkills>
+    <DynsSkills>0 0 </DynsSkills>
+    <HeroSkins>1403001 1403002 0 0 0 0 </HeroSkins>
+    <Guide1v1RecID>0 </Guide1v1RecID>
+    <Guide3v3RecID>0 </Guide3v3RecID>
+    <HumRecID>1001 </HumRecID>
+    <OrcRecID>1101 </OrcRecID>
+    <GhostRecID>1201 </GhostRecID>
+    <ElfRecID>1301 </ElfRecID>
+    <LiveVal>9 </LiveVal>
+    <ATKVal>4 </ATKVal>
+    <SkillDamageVal>5 </SkillDamageVal>
+    <UseDifficultyVal>4 </UseDifficultyVal>
+    <PaybackItemID>31100001 </PaybackItemID>
+    <PaybackItemNum>5 </PaybackItemNum>
+</ResHeroDesc>
+<ResHeroDesc version="1">
+    <ResID>10000404 </ResID>
+    <Country>0 </Country>
+    <Sex>2 </Sex>
+    <RaceType>0 </RaceType>
+    <CanView>1 </CanView>
+    <CanSelect>1 </CanSelect>
+    <CanHave>0 </CanHave>
+    <AICanUse>1 </AICanUse>
+    <AIArenaLevelCanUse>5 </AIArenaLevelCanUse>
+    <AIPlayerLevelCanUse>0 </AIPlayerLevelCanUse>
+    <CapacityType>4 </CapacityType>
+    <CapacitySubType>4 </CapacitySubType>
+    <WeaponType>1 </WeaponType>
+    <MobaAIId>1000 </MobaAIId>
+    <AITargetType>2 0 0 </AITargetType>
+    <SkillAttackType>5 </SkillAttackType>
+    <ArmorType>4 </ArmorType>
+    <SpeedType>1 </SpeedType>
+    <SkillAtkActorType>2 </SkillAtkActorType>
+    <MoveType>0 </MoveType>
+    <CrowdSize>3 </CrowdSize>
+    <Food>0 </Food>
+    <MaxSkillEnergy>0 </MaxSkillEnergy>
+    <FogViewType>0 </FogViewType>
+    <DayFowRadius>350000 </DayFowRadius>
+    <NightFowRadius>200000 </NightFowRadius>
+    <ActorPetID>0 </ActorPetID>
+    <TeamGhostID>20000924 </TeamGhostID>
+    <NormalSkills>140400101 0 0 </NormalSkills>
+    <Skills>140401001 140402001 140404001 0 0 0 0 0 </Skills>
+    <TalentSkills>140420001 0 0 </TalentSkills>
+    <SummonerSkills>70000001 0 0 </SummonerSkills>
+    <AvatarSkills>0 0 0 0 </AvatarSkills>
+    <HiddenSkills>0 0 0 0 </HiddenSkills>
+    <DynsSkills>0 0 </DynsSkills>
+    <HeroSkins>1404001 1404002 0 0 0 0 </HeroSkins>
+    <Guide1v1RecID>0 </Guide1v1RecID>
+    <Guide3v3RecID>0 </Guide3v3RecID>
+    <HumRecID>1001 </HumRecID>
+    <OrcRecID>1101 </OrcRecID>
+    <GhostRecID>1201 </GhostRecID>
+    <ElfRecID>1301 </ElfRecID>
+    <LiveVal>4 </LiveVal>
+    <ATKVal>7 </ATKVal>
+    <SkillDamageVal>9 </SkillDamageVal>
+    <UseDifficultyVal>6 </UseDifficultyVal>
+    <PaybackItemID>31100001 </PaybackItemID>
+    <PaybackItemNum>5 </PaybackItemNum>
+</ResHeroDesc>
+<ResHeroDesc version="1">
+    <ResID>10000405 </ResID>
+    <Country>0 </Country>
+    <Sex>2 </Sex>
+    <RaceType>0 </RaceType>
+    <CanView>1 </CanView>
+    <CanSelect>1 </CanSelect>
+    <CanHave>0 </CanHave>
+    <AICanUse>1 </AICanUse>
+    <AIArenaLevelCanUse>0 </AIArenaLevelCanUse>
+    <AIPlayerLevelCanUse>0 </AIPlayerLevelCanUse>
+    <CapacityType>2 </CapacityType>
+    <CapacitySubType>2 </CapacitySubType>
+    <WeaponType>1 </WeaponType>
+    <MobaAIId>1000 </MobaAIId>
+    <AITargetType>2 0 0 </AITargetType>
+    <SkillAttackType>5 </SkillAttackType>
+    <ArmorType>4 </ArmorType>
+    <SpeedType>1 </SpeedType>
+    <SkillAtkActorType>2 </SkillAtkActorType>
+    <MoveType>0 </MoveType>
+    <CrowdSize>3 </CrowdSize>
+    <Food>0 </Food>
+    <MaxSkillEnergy>4 </MaxSkillEnergy>
+    <FogViewType>0 </FogViewType>
+    <DayFowRadius>350000 </DayFowRadius>
+    <NightFowRadius>200000 </NightFowRadius>
+    <ActorPetID>0 </ActorPetID>
+    <TeamGhostID>20000924 </TeamGhostID>
+    <NormalSkills>140500101 0 0 </NormalSkills>
+    <Skills>140501001 140502001 140504001 0 0 0 0 0 </Skills>
+    <TalentSkills>140520001 0 0 </TalentSkills>
+    <SummonerSkills>70000001 0 0 </SummonerSkills>
+    <AvatarSkills>0 0 0 0 </AvatarSkills>
+    <HiddenSkills>140510001 0 0 0 </HiddenSkills>
+    <DynsSkills>0 0 </DynsSkills>
+    <HeroSkins>1405001 1405002 0 0 0 0 </HeroSkins>
+    <Guide1v1RecID>0 </Guide1v1RecID>
+    <Guide3v3RecID>0 </Guide3v3RecID>
+    <HumRecID>1001 </HumRecID>
+    <OrcRecID>1101 </OrcRecID>
+    <GhostRecID>1201 </GhostRecID>
+    <ElfRecID>1301 </ElfRecID>
+    <LiveVal>3 </LiveVal>
+    <ATKVal>3 </ATKVal>
+    <SkillDamageVal>9 </SkillDamageVal>
+    <UseDifficultyVal>6 </UseDifficultyVal>
+    <PaybackItemID>31100001 </PaybackItemID>
+    <PaybackItemNum>5 </PaybackItemNum>
+</ResHeroDesc>
+<ResHeroDesc version="1">
+    <ResID>10000406 </ResID>
+    <Country>0 </Country>
+    <Sex>1 </Sex>
+    <RaceType>0 </RaceType>
+    <CanView>0 </CanView>
+    <CanSelect>0 </CanSelect>
+    <CanHave>0 </CanHave>
+    <AICanUse>0 </AICanUse>
+    <AIArenaLevelCanUse>0 </AIArenaLevelCanUse>
+    <AIPlayerLevelCanUse>0 </AIPlayerLevelCanUse>
+    <CapacityType>5 </CapacityType>
+    <CapacitySubType>1 </CapacitySubType>
+    <WeaponType>0 </WeaponType>
+    <MobaAIId>1000 </MobaAIId>
+    <AITargetType>2 0 0 </AITargetType>
+    <SkillAttackType>5 </SkillAttackType>
+    <ArmorType>4 </ArmorType>
+    <SpeedType>1 </SpeedType>
+    <SkillAtkActorType>2 </SkillAtkActorType>
+    <MoveType>0 </MoveType>
+    <CrowdSize>3 </CrowdSize>
+    <Food>0 </Food>
+    <MaxSkillEnergy>0 </MaxSkillEnergy>
+    <FogViewType>0 </FogViewType>
+    <DayFowRadius>350000 </DayFowRadius>
+    <NightFowRadius>200000 </NightFowRadius>
+    <ActorPetID>0 </ActorPetID>
+    <TeamGhostID>20000924 </TeamGhostID>
+    <NormalSkills>140600101 140600201 0 </NormalSkills>
+    <Skills>140601001 140602001 140604001 0 0 0 0 0 </Skills>
+    <TalentSkills>140620001 0 0 </TalentSkills>
+    <SummonerSkills>70000001 0 0 </SummonerSkills>
+    <AvatarSkills>0 0 0 0 </AvatarSkills>
+    <HiddenSkills>0 0 0 0 </HiddenSkills>
+    <DynsSkills>0 0 </DynsSkills>
+    <HeroSkins>1406001 1406002 0 0 0 0 </HeroSkins>
+    <Guide1v1RecID>0 </Guide1v1RecID>
+    <Guide3v3RecID>0 </Guide3v3RecID>
+    <HumRecID>1001 </HumRecID>
+    <OrcRecID>1101 </OrcRecID>
+    <GhostRecID>1201 </GhostRecID>
+    <ElfRecID>1301 </ElfRecID>
+    <LiveVal>8 </LiveVal>
+    <ATKVal>4 </ATKVal>
+    <SkillDamageVal>6 </SkillDamageVal>
+    <UseDifficultyVal>5 </UseDifficultyVal>
+    <PaybackItemID>31100001 </PaybackItemID>
+    <PaybackItemNum>5 </PaybackItemNum>
+</ResHeroDesc>
+<ResHeroDesc version="1">
+    <ResID>10000407 </ResID>
+    <Country>0 </Country>
+    <Sex>1 </Sex>
+    <RaceType>0 </RaceType>
+    <CanView>0 </CanView>
+    <CanSelect>0 </CanSelect>
+    <CanHave>0 </CanHave>
+    <AICanUse>0 </AICanUse>
+    <AIArenaLevelCanUse>0 </AIArenaLevelCanUse>
+    <AIPlayerLevelCanUse>0 </AIPlayerLevelCanUse>
+    <CapacityType>1 </CapacityType>
+    <CapacitySubType>1 </CapacitySubType>
+    <WeaponType>0 </WeaponType>
+    <MobaAIId>1000 </MobaAIId>
+    <AITargetType>2 0 0 </AITargetType>
+    <SkillAttackType>5 </SkillAttackType>
+    <ArmorType>4 </ArmorType>
+    <SpeedType>1 </SpeedType>
+    <SkillAtkActorType>2 </SkillAtkActorType>
+    <MoveType>0 </MoveType>
+    <CrowdSize>3 </CrowdSize>
+    <Food>0 </Food>
+    <MaxSkillEnergy>0 </MaxSkillEnergy>
+    <FogViewType>0 </FogViewType>
+    <DayFowRadius>350000 </DayFowRadius>
+    <NightFowRadius>200000 </NightFowRadius>
+    <ActorPetID>0 </ActorPetID>
+    <TeamGhostID>20000924 </TeamGhostID>
+    <NormalSkills>140700101 140700201 0 </NormalSkills>
+    <Skills>140701001 140702001 140704001 0 0 0 0 0 </Skills>
+    <TalentSkills>140720001 0 0 </TalentSkills>
+    <SummonerSkills>70000001 0 0 </SummonerSkills>
+    <AvatarSkills>140700301 0 0 0 </AvatarSkills>
+    <HiddenSkills>0 0 0 0 </HiddenSkills>
+    <DynsSkills>0 0 </DynsSkills>
+    <HeroSkins>1407001 1407002 0 0 0 0 </HeroSkins>
+    <Guide1v1RecID>0 </Guide1v1RecID>
+    <Guide3v3RecID>0 </Guide3v3RecID>
+    <HumRecID>1001 </HumRecID>
+    <OrcRecID>1101 </OrcRecID>
+    <GhostRecID>1201 </GhostRecID>
+    <ElfRecID>1301 </ElfRecID>
+    <LiveVal>4 </LiveVal>
+    <ATKVal>8 </ATKVal>
+    <SkillDamageVal>6 </SkillDamageVal>
+    <UseDifficultyVal>6 </UseDifficultyVal>
+    <PaybackItemID>31100001 </PaybackItemID>
+    <PaybackItemNum>5 </PaybackItemNum>
+</ResHeroDesc>
+<ResHeroDesc version="1">
+    <ResID>10000408 </ResID>
+    <Country>0 </Country>
+    <Sex>1 </Sex>
+    <RaceType>0 </RaceType>
+    <CanView>1 </CanView>
+    <CanSelect>1 </CanSelect>
+    <CanHave>0 </CanHave>
+    <AICanUse>1 </AICanUse>
+    <AIArenaLevelCanUse>4 </AIArenaLevelCanUse>
+    <AIPlayerLevelCanUse>0 </AIPlayerLevelCanUse>
+    <CapacityType>1 </CapacityType>
+    <CapacitySubType>1 </CapacitySubType>
+    <WeaponType>0 </WeaponType>
+    <MobaAIId>1000 </MobaAIId>
+    <AITargetType>2 0 0 </AITargetType>
+    <SkillAttackType>5 </SkillAttackType>
+    <ArmorType>4 </ArmorType>
+    <SpeedType>1 </SpeedType>
+    <SkillAtkActorType>2 </SkillAtkActorType>
+    <MoveType>0 </MoveType>
+    <CrowdSize>3 </CrowdSize>
+    <Food>0 </Food>
+    <MaxSkillEnergy>10 </MaxSkillEnergy>
+    <FogViewType>0 </FogViewType>
+    <DayFowRadius>350000 </DayFowRadius>
+    <NightFowRadius>200000 </NightFowRadius>
+    <ActorPetID>0 </ActorPetID>
+    <TeamGhostID>20000924 </TeamGhostID>
+    <NormalSkills>140800101 140800201 0 </NormalSkills>
+    <Skills>140801001 140802001 140803001 0 0 0 0 0 </Skills>
+    <TalentSkills>140804001 0 0 </TalentSkills>
+    <SummonerSkills>70000001 0 0 </SummonerSkills>
+    <AvatarSkills>0 0 0 0 </AvatarSkills>
+    <HiddenSkills>0 0 0 0 </HiddenSkills>
+    <DynsSkills>0 0 </DynsSkills>
+    <HeroSkins>1408001 1408002 0 0 0 0 </HeroSkins>
+    <Guide1v1RecID>0 </Guide1v1RecID>
+    <Guide3v3RecID>0 </Guide3v3RecID>
+    <HumRecID>1001 </HumRecID>
+    <OrcRecID>1101 </OrcRecID>
+    <GhostRecID>1201 </GhostRecID>
+    <ElfRecID>1301 </ElfRecID>
+    <LiveVal>7 </LiveVal>
+    <ATKVal>5 </ATKVal>
+    <SkillDamageVal>6 </SkillDamageVal>
+    <UseDifficultyVal>7 </UseDifficultyVal>
+    <PaybackItemID>31100001 </PaybackItemID>
+    <PaybackItemNum>5 </PaybackItemNum>
+</ResHeroDesc>
+<ResHeroDesc version="1">
+    <ResID>10000409 </ResID>
+    <Country>0 </Country>
+    <Sex>2 </Sex>
+    <RaceType>0 </RaceType>
+    <CanView>1 </CanView>
+    <CanSelect>1 </CanSelect>
+    <CanHave>0 </CanHave>
+    <AICanUse>1 </AICanUse>
+    <AIArenaLevelCanUse>5 </AIArenaLevelCanUse>
+    <AIPlayerLevelCanUse>0 </AIPlayerLevelCanUse>
+    <CapacityType>3 </CapacityType>
+    <CapacitySubType>2 </CapacitySubType>
+    <WeaponType>1 </WeaponType>
+    <MobaAIId>1000 </MobaAIId>
+    <AITargetType>2 0 0 </AITargetType>
+    <SkillAttackType>5 </SkillAttackType>
+    <ArmorType>4 </ArmorType>
+    <SpeedType>1 </SpeedType>
+    <SkillAtkActorType>2 </SkillAtkActorType>
+    <MoveType>0 </MoveType>
+    <CrowdSize>3 </CrowdSize>
+    <Food>0 </Food>
+    <MaxSkillEnergy>10 </MaxSkillEnergy>
+    <FogViewType>0 </FogViewType>
+    <DayFowRadius>350000 </DayFowRadius>
+    <NightFowRadius>200000 </NightFowRadius>
+    <ActorPetID>0 </ActorPetID>
+    <TeamGhostID>20000924 </TeamGhostID>
+    <NormalSkills>140900101 0 0 </NormalSkills>
+    <Skills>140901001 140902001 140904001 0 0 0 0 0 </Skills>
+    <TalentSkills>140903001 0 0 </TalentSkills>
+    <SummonerSkills>70000001 0 0 </SummonerSkills>
+    <AvatarSkills>0 0 0 0 </AvatarSkills>
+    <HiddenSkills>0 0 0 0 </HiddenSkills>
+    <DynsSkills>0 0 </DynsSkills>
+    <HeroSkins>1409001 1409002 0 0 0 0 </HeroSkins>
+    <Guide1v1RecID>0 </Guide1v1RecID>
+    <Guide3v3RecID>0 </Guide3v3RecID>
+    <HumRecID>1001 </HumRecID>
+    <OrcRecID>1101 </OrcRecID>
+    <GhostRecID>1201 </GhostRecID>
+    <ElfRecID>1301 </ElfRecID>
+    <LiveVal>7 </LiveVal>
+    <ATKVal>6 </ATKVal>
+    <SkillDamageVal>8 </SkillDamageVal>
+    <UseDifficultyVal>8 </UseDifficultyVal>
+    <PaybackItemID>31100001 </PaybackItemID>
+    <PaybackItemNum>5 </PaybackItemNum>
+</ResHeroDesc>
+<ResHeroDesc version="1">
+    <ResID>10000410 </ResID>
+    <Country>0 </Country>
+    <Sex>2 </Sex>
+    <RaceType>0 </RaceType>
+    <CanView>1 </CanView>
+    <CanSelect>1 </CanSelect>
+    <CanHave>0 </CanHave>
+    <AICanUse>1 </AICanUse>
+    <AIArenaLevelCanUse>0 </AIArenaLevelCanUse>
+    <AIPlayerLevelCanUse>0 </AIPlayerLevelCanUse>
+    <CapacityType>4 </CapacityType>
+    <CapacitySubType>4 </CapacitySubType>
+    <WeaponType>1 </WeaponType>
+    <MobaAIId>1000 </MobaAIId>
+    <AITargetType>2 0 0 </AITargetType>
+    <SkillAttackType>5 </SkillAttackType>
+    <ArmorType>4 </ArmorType>
+    <SpeedType>1 </SpeedType>
+    <SkillAtkActorType>2 </SkillAtkActorType>
+    <MoveType>0 </MoveType>
+    <CrowdSize>3 </CrowdSize>
+    <Food>0 </Food>
+    <MaxSkillEnergy>5 </MaxSkillEnergy>
+    <FogViewType>0 </FogViewType>
+    <DayFowRadius>350000 </DayFowRadius>
+    <NightFowRadius>200000 </NightFowRadius>
+    <ActorPetID>0 </ActorPetID>
+    <TeamGhostID>20000924 </TeamGhostID>
+    <NormalSkills>141000101 0 0 </NormalSkills>
+    <Skills>141001001 141002001 141004001 0 0 0 0 0 </Skills>
+    <TalentSkills>141020001 0 0 </TalentSkills>
+    <SummonerSkills>70000001 0 0 </SummonerSkills>
+    <AvatarSkills>141000201 0 0 0 </AvatarSkills>
+    <HiddenSkills>0 0 0 0 </HiddenSkills>
+    <DynsSkills>0 0 </DynsSkills>
+    <HeroSkins>1410001 1410002 0 0 0 0 </HeroSkins>
+    <Guide1v1RecID>0 </Guide1v1RecID>
+    <Guide3v3RecID>0 </Guide3v3RecID>
+    <HumRecID>1001 </HumRecID>
+    <OrcRecID>1101 </OrcRecID>
+    <GhostRecID>1201 </GhostRecID>
+    <ElfRecID>1301 </ElfRecID>
+    <LiveVal>5 </LiveVal>
+    <ATKVal>9 </ATKVal>
+    <SkillDamageVal>6 </SkillDamageVal>
+    <UseDifficultyVal>7 </UseDifficultyVal>
+    <PaybackItemID>31100001 </PaybackItemID>
+    <PaybackItemNum>5 </PaybackItemNum>
+</ResHeroDesc>
+<ResHeroDesc version="1">
+    <ResID>10000411 </ResID>
+    <Country>0 </Country>
+    <Sex>1 </Sex>
+    <RaceType>0 </RaceType>
+    <CanView>1 </CanView>
+    <CanSelect>1 </CanSelect>
+    <CanHave>0 </CanHave>
+    <AICanUse>1 </AICanUse>
+    <AIArenaLevelCanUse>5 </AIArenaLevelCanUse>
+    <AIPlayerLevelCanUse>0 </AIPlayerLevelCanUse>
+    <CapacityType>1 </CapacityType>
+    <CapacitySubType>1 </CapacitySubType>
+    <WeaponType>0 </WeaponType>
+    <MobaAIId>1000 </MobaAIId>
+    <AITargetType>2 0 0 </AITargetType>
+    <SkillAttackType>5 </SkillAttackType>
+    <ArmorType>4 </ArmorType>
+    <SpeedType>1 </SpeedType>
+    <SkillAtkActorType>2 </SkillAtkActorType>
+    <MoveType>0 </MoveType>
+    <CrowdSize>3 </CrowdSize>
+    <Food>0 </Food>
+    <MaxSkillEnergy>0 </MaxSkillEnergy>
+    <FogViewType>0 </FogViewType>
+    <DayFowRadius>350000 </DayFowRadius>
+    <NightFowRadius>200000 </NightFowRadius>
+    <ActorPetID>0 </ActorPetID>
+    <TeamGhostID>20000924 </TeamGhostID>
+    <NormalSkills>141100101 141100201 0 </NormalSkills>
+    <Skills>141101001 141102001 141104001 0 0 0 0 0 </Skills>
+    <TalentSkills>141120001 0 0 </TalentSkills>
+    <SummonerSkills>70000001 0 0 </SummonerSkills>
+    <AvatarSkills>141100301 0 0 0 </AvatarSkills>
+    <HiddenSkills>0 0 0 0 </HiddenSkills>
+    <DynsSkills>0 0 </DynsSkills>
+    <HeroSkins>1411001 1411002 0 0 0 0 </HeroSkins>
+    <Guide1v1RecID>0 </Guide1v1RecID>
+    <Guide3v3RecID>0 </Guide3v3RecID>
+    <HumRecID>1001 </HumRecID>
+    <OrcRecID>1101 </OrcRecID>
+    <GhostRecID>1201 </GhostRecID>
+    <ElfRecID>1301 </ElfRecID>
+    <LiveVal>5 </LiveVal>
+    <ATKVal>8 </ATKVal>
+    <SkillDamageVal>4 </SkillDamageVal>
+    <UseDifficultyVal>6 </UseDifficultyVal>
+    <PaybackItemID>31100001 </PaybackItemID>
+    <PaybackItemNum>5 </PaybackItemNum>
+</ResHeroDesc>
+<ResHeroDesc version="1">
+    <ResID>10000412 </ResID>
+    <Country>0 </Country>
+    <Sex>2 </Sex>
+    <RaceType>0 </RaceType>
+    <CanView>1 </CanView>
+    <CanSelect>1 </CanSelect>
+    <CanHave>0 </CanHave>
+    <AICanUse>1 </AICanUse>
+    <AIArenaLevelCanUse>5 </AIArenaLevelCanUse>
+    <AIPlayerLevelCanUse>0 </AIPlayerLevelCanUse>
+    <CapacityType>2 </CapacityType>
+    <CapacitySubType>2 </CapacitySubType>
+    <WeaponType>1 </WeaponType>
+    <MobaAIId>1000 </MobaAIId>
+    <AITargetType>2 0 0 </AITargetType>
+    <SkillAttackType>5 </SkillAttackType>
+    <ArmorType>4 </ArmorType>
+    <SpeedType>1 </SpeedType>
+    <SkillAtkActorType>2 </SkillAtkActorType>
+    <MoveType>0 </MoveType>
+    <CrowdSize>3 </CrowdSize>
+    <Food>0 </Food>
+    <MaxSkillEnergy>2 </MaxSkillEnergy>
+    <FogViewType>0 </FogViewType>
+    <DayFowRadius>350000 </DayFowRadius>
+    <NightFowRadius>200000 </NightFowRadius>
+    <ActorPetID>0 </ActorPetID>
+    <TeamGhostID>20000924 </TeamGhostID>
+    <NormalSkills>141200101 141200301 0 </NormalSkills>
+    <Skills>141201001 141202001 141204001 0 0 0 0 0 </Skills>
+    <TalentSkills>141220001 0 0 </TalentSkills>
+    <SummonerSkills>70000001 0 0 </SummonerSkills>
+    <AvatarSkills>141200201 0 0 0 </AvatarSkills>
+    <HiddenSkills>0 0 0 0 </HiddenSkills>
+    <DynsSkills>0 0 </DynsSkills>
+    <HeroSkins>1412001 1412002 0 0 0 0 </HeroSkins>
+    <Guide1v1RecID>0 </Guide1v1RecID>
+    <Guide3v3RecID>0 </Guide3v3RecID>
+    <HumRecID>1001 </HumRecID>
+    <OrcRecID>1101 </OrcRecID>
+    <GhostRecID>1201 </GhostRecID>
+    <ElfRecID>1301 </ElfRecID>
+    <LiveVal>4 </LiveVal>
+    <ATKVal>4 </ATKVal>
+    <SkillDamageVal>8 </SkillDamageVal>
+    <UseDifficultyVal>5 </UseDifficultyVal>
+    <PaybackItemID>31100001 </PaybackItemID>
+    <PaybackItemNum>5 </PaybackItemNum>
+</ResHeroDesc>
+<ResHeroDesc version="1">
+    <ResID>10000413 </ResID>
+    <Country>0 </Country>
+    <Sex>2 </Sex>
+    <RaceType>0 </RaceType>
+    <CanView>1 </CanView>
+    <CanSelect>1 </CanSelect>
+    <CanHave>0 </CanHave>
+    <AICanUse>1 </AICanUse>
+    <AIArenaLevelCanUse>5 </AIArenaLevelCanUse>
+    <AIPlayerLevelCanUse>0 </AIPlayerLevelCanUse>
+    <CapacityType>3 </CapacityType>
+    <CapacitySubType>2 </CapacitySubType>
+    <WeaponType>1 </WeaponType>
+    <MobaAIId>1000 </MobaAIId>
+    <AITargetType>2 0 0 </AITargetType>
+    <SkillAttackType>5 </SkillAttackType>
+    <ArmorType>4 </ArmorType>
+    <SpeedType>1 </SpeedType>
+    <SkillAtkActorType>2 </SkillAtkActorType>
+    <MoveType>0 </MoveType>
+    <CrowdSize>3 </CrowdSize>
+    <Food>0 </Food>
+    <MaxSkillEnergy>4 </MaxSkillEnergy>
+    <FogViewType>0 </FogViewType>
+    <DayFowRadius>350000 </DayFowRadius>
+    <NightFowRadius>200000 </NightFowRadius>
+    <ActorPetID>0 </ActorPetID>
+    <TeamGhostID>20000924 </TeamGhostID>
+    <NormalSkills>141300101 0 0 </NormalSkills>
+    <Skills>141301001 141302001 141304001 0 0 0 0 0 </Skills>
+    <TalentSkills>141320001 0 0 </TalentSkills>
+    <SummonerSkills>70000001 0 0 </SummonerSkills>
+    <AvatarSkills>0 0 0 0 </AvatarSkills>
+    <HiddenSkills>140510001 0 0 0 </HiddenSkills>
+    <DynsSkills>0 0 </DynsSkills>
+    <HeroSkins>1413001 1413002 0 0 0 0 </HeroSkins>
+    <Guide1v1RecID>0 </Guide1v1RecID>
+    <Guide3v3RecID>0 </Guide3v3RecID>
+    <HumRecID>1001 </HumRecID>
+    <OrcRecID>1101 </OrcRecID>
+    <GhostRecID>1201 </GhostRecID>
+    <ElfRecID>1301 </ElfRecID>
+    <LiveVal>5 </LiveVal>
+    <ATKVal>3 </ATKVal>
+    <SkillDamageVal>7 </SkillDamageVal>
+    <UseDifficultyVal>6 </UseDifficultyVal>
+    <PaybackItemID>31100001 </PaybackItemID>
+    <PaybackItemNum>5 </PaybackItemNum>
+</ResHeroDesc>
+<ResHeroDesc version="1">
+    <ResID>10000414 </ResID>
+    <Country>0 </Country>
+    <Sex>1 </Sex>
+    <RaceType>0 </RaceType>
+    <CanView>1 </CanView>
+    <CanSelect>1 </CanSelect>
+    <CanHave>0 </CanHave>
+    <AICanUse>1 </AICanUse>
+    <AIArenaLevelCanUse>0 </AIArenaLevelCanUse>
+    <AIPlayerLevelCanUse>0 </AIPlayerLevelCanUse>
+    <CapacityType>4 </CapacityType>
+    <CapacitySubType>4 </CapacitySubType>
+    <WeaponType>1 </WeaponType>
+    <MobaAIId>1000 </MobaAIId>
+    <AITargetType>2 0 0 </AITargetType>
+    <SkillAttackType>5 </SkillAttackType>
+    <ArmorType>4 </ArmorType>
+    <SpeedType>1 </SpeedType>
+    <SkillAtkActorType>2 </SkillAtkActorType>
+    <MoveType>0 </MoveType>
+    <CrowdSize>3 </CrowdSize>
+    <Food>0 </Food>
+    <MaxSkillEnergy>0 </MaxSkillEnergy>
+    <FogViewType>0 </FogViewType>
+    <DayFowRadius>350000 </DayFowRadius>
+    <NightFowRadius>200000 </NightFowRadius>
+    <ActorPetID>0 </ActorPetID>
+    <TeamGhostID>20000924 </TeamGhostID>
+    <NormalSkills>141400101 0 0 </NormalSkills>
+    <Skills>141401001 141402001 141404001 0 0 0 0 0 </Skills>
+    <TalentSkills>141420001 0 0 </TalentSkills>
+    <SummonerSkills>70000001 0 0 </SummonerSkills>
+    <AvatarSkills>141400201 0 0 0 </AvatarSkills>
+    <HiddenSkills>141410001 0 0 0 </HiddenSkills>
+    <DynsSkills>0 0 </DynsSkills>
+    <HeroSkins>1414001 1414002 0 0 0 0 </HeroSkins>
+    <Guide1v1RecID>0 </Guide1v1RecID>
+    <Guide3v3RecID>0 </Guide3v3RecID>
+    <HumRecID>1001 </HumRecID>
+    <OrcRecID>1101 </OrcRecID>
+    <GhostRecID>1201 </GhostRecID>
+    <ElfRecID>1301 </ElfRecID>
+    <LiveVal>4 </LiveVal>
+    <ATKVal>8 </ATKVal>
+    <SkillDamageVal>4 </SkillDamageVal>
+    <UseDifficultyVal>7 </UseDifficultyVal>
+    <PaybackItemID>31100001 </PaybackItemID>
+    <PaybackItemNum>5 </PaybackItemNum>
+</ResHeroDesc>
+<ResHeroDesc version="1">
+    <ResID>10000415 </ResID>
+    <Country>0 </Country>
+    <Sex>1 </Sex>
+    <RaceType>0 </RaceType>
+    <CanView>0 </CanView>
+    <CanSelect>0 </CanSelect>
+    <CanHave>0 </CanHave>
+    <AICanUse>0 </AICanUse>
+    <AIArenaLevelCanUse>0 </AIArenaLevelCanUse>
+    <AIPlayerLevelCanUse>0 </AIPlayerLevelCanUse>
+    <CapacityType>2 </CapacityType>
+    <CapacitySubType>3 </CapacitySubType>
+    <WeaponType>1 </WeaponType>
+    <MobaAIId>1000 </MobaAIId>
+    <AITargetType>2 0 0 </AITargetType>
+    <SkillAttackType>5 </SkillAttackType>
+    <ArmorType>4 </ArmorType>
+    <SpeedType>1 </SpeedType>
+    <SkillAtkActorType>2 </SkillAtkActorType>
+    <MoveType>0 </MoveType>
+    <CrowdSize>3 </CrowdSize>
+    <Food>0 </Food>
+    <MaxSkillEnergy>0 </MaxSkillEnergy>
+    <FogViewType>0 </FogViewType>
+    <DayFowRadius>350000 </DayFowRadius>
+    <NightFowRadius>200000 </NightFowRadius>
+    <ActorPetID>0 </ActorPetID>
+    <TeamGhostID>20000924 </TeamGhostID>
+    <NormalSkills>141500101 0 0 </NormalSkills>
+    <Skills>141501001 141502001 141504001 0 0 0 0 0 </Skills>
+    <TalentSkills>141520001 0 0 </TalentSkills>
+    <SummonerSkills>70000001 0 0 </SummonerSkills>
+    <AvatarSkills>141500201 0 0 0 </AvatarSkills>
+    <HiddenSkills>0 0 0 0 </HiddenSkills>
+    <DynsSkills>0 0 </DynsSkills>
+    <HeroSkins>1415001 0 0 0 0 0 </HeroSkins>
+    <Guide1v1RecID>0 </Guide1v1RecID>
+    <Guide3v3RecID>0 </Guide3v3RecID>
+    <HumRecID>1001 </HumRecID>
+    <OrcRecID>1101 </OrcRecID>
+    <GhostRecID>1201 </GhostRecID>
+    <ElfRecID>1301 </ElfRecID>
+    <LiveVal>4 </LiveVal>
+    <ATKVal>4 </ATKVal>
+    <SkillDamageVal>8 </SkillDamageVal>
+    <UseDifficultyVal>8 </UseDifficultyVal>
+    <PaybackItemID>31100001 </PaybackItemID>
+    <PaybackItemNum>5 </PaybackItemNum>
+</ResHeroDesc>
+<ResHeroDesc version="1">
+    <ResID>10000416 </ResID>
+    <Country>0 </Country>
+    <Sex>2 </Sex>
+    <RaceType>0 </RaceType>
+    <CanView>0 </CanView>
+    <CanSelect>0 </CanSelect>
+    <CanHave>0 </CanHave>
+    <AICanUse>0 </AICanUse>
+    <AIArenaLevelCanUse>0 </AIArenaLevelCanUse>
+    <AIPlayerLevelCanUse>0 </AIPlayerLevelCanUse>
+    <CapacityType>2 </CapacityType>
+    <CapacitySubType>2 </CapacitySubType>
+    <WeaponType>1 </WeaponType>
+    <MobaAIId>1000 </MobaAIId>
+    <AITargetType>2 0 0 </AITargetType>
+    <SkillAttackType>5 </SkillAttackType>
+    <ArmorType>4 </ArmorType>
+    <SpeedType>1 </SpeedType>
+    <SkillAtkActorType>2 </SkillAtkActorType>
+    <MoveType>0 </MoveType>
+    <CrowdSize>3 </CrowdSize>
+    <Food>0 </Food>
+    <MaxSkillEnergy>0 </MaxSkillEnergy>
+    <FogViewType>0 </FogViewType>
+    <DayFowRadius>350000 </DayFowRadius>
+    <NightFowRadius>200000 </NightFowRadius>
+    <ActorPetID>0 </ActorPetID>
+    <TeamGhostID>20000924 </TeamGhostID>
+    <NormalSkills>141600101 0 0 </NormalSkills>
+    <Skills>141601001 141602001 141604001 0 0 0 0 0 </Skills>
+    <TalentSkills>141620001 0 0 </TalentSkills>
+    <SummonerSkills>70000001 0 0 </SummonerSkills>
+    <AvatarSkills>0 0 0 0 </AvatarSkills>
+    <HiddenSkills>0 0 0 0 </HiddenSkills>
+    <DynsSkills>0 0 </DynsSkills>
+    <HeroSkins>1416001 1416002 0 0 0 0 </HeroSkins>
+    <Guide1v1RecID>0 </Guide1v1RecID>
+    <Guide3v3RecID>0 </Guide3v3RecID>
+    <HumRecID>1001 </HumRecID>
+    <OrcRecID>1101 </OrcRecID>
+    <GhostRecID>1201 </GhostRecID>
+    <ElfRecID>1301 </ElfRecID>
+    <LiveVal>5 </LiveVal>
+    <ATKVal>3 </ATKVal>
+    <SkillDamageVal>9 </SkillDamageVal>
+    <UseDifficultyVal>8 </UseDifficultyVal>
+    <PaybackItemID>31100001 </PaybackItemID>
+    <PaybackItemNum>5 </PaybackItemNum>
+</ResHeroDesc>
+<ResHeroDesc version="1">
+    <ResID>10000417 </ResID>
+    <Country>0 </Country>
+    <Sex>2 </Sex>
+    <RaceType>0 </RaceType>
+    <CanView>0 </CanView>
+    <CanSelect>0 </CanSelect>
+    <CanHave>0 </CanHave>
+    <AICanUse>0 </AICanUse>
+    <AIArenaLevelCanUse>0 </AIArenaLevelCanUse>
+    <AIPlayerLevelCanUse>0 </AIPlayerLevelCanUse>
+    <CapacityType>4 </CapacityType>
+    <CapacitySubType>4 </CapacitySubType>
+    <WeaponType>1 </WeaponType>
+    <MobaAIId>1000 </MobaAIId>
+    <AITargetType>2 0 0 </AITargetType>
+    <SkillAttackType>5 </SkillAttackType>
+    <ArmorType>4 </ArmorType>
+    <SpeedType>1 </SpeedType>
+    <SkillAtkActorType>2 </SkillAtkActorType>
+    <MoveType>0 </MoveType>
+    <CrowdSize>3 </CrowdSize>
+    <Food>0 </Food>
+    <MaxSkillEnergy>0 </MaxSkillEnergy>
+    <FogViewType>0 </FogViewType>
+    <DayFowRadius>350000 </DayFowRadius>
+    <NightFowRadius>200000 </NightFowRadius>
+    <ActorPetID>20000824 </ActorPetID>
+    <TeamGhostID>20000924 </TeamGhostID>
+    <NormalSkills>141700101 0 0 </NormalSkills>
+    <Skills>141701001 141702001 141704001 0 0 0 0 0 </Skills>
+    <TalentSkills>141703001 0 0 </TalentSkills>
+    <SummonerSkills>70000001 0 0 </SummonerSkills>
+    <AvatarSkills>0 0 0 0 </AvatarSkills>
+    <HiddenSkills>0 0 0 0 </HiddenSkills>
+    <DynsSkills>0 0 </DynsSkills>
+    <HeroSkins>1417001 1417002 0 0 0 0 </HeroSkins>
+    <Guide1v1RecID>0 </Guide1v1RecID>
+    <Guide3v3RecID>0 </Guide3v3RecID>
+    <HumRecID>1001 </HumRecID>
+    <OrcRecID>1101 </OrcRecID>
+    <GhostRecID>1201 </GhostRecID>
+    <ElfRecID>1301 </ElfRecID>
+    <LiveVal>5 </LiveVal>
+    <ATKVal>7 </ATKVal>
+    <SkillDamageVal>7 </SkillDamageVal>
+    <UseDifficultyVal>7 </UseDifficultyVal>
+    <PaybackItemID>31100001 </PaybackItemID>
+    <PaybackItemNum>5 </PaybackItemNum>
+</ResHeroDesc>
+<ResHeroDesc version="1">
+    <ResID>10000601 </ResID>
+    <Country>0 </Country>
+    <Sex>1 </Sex>
+    <RaceType>0 </RaceType>
+    <CanView>0 </CanView>
+    <CanSelect>0 </CanSelect>
+    <CanHave>0 </CanHave>
+    <AICanUse>0 </AICanUse>
+    <AIArenaLevelCanUse>0 </AIArenaLevelCanUse>
+    <AIPlayerLevelCanUse>0 </AIPlayerLevelCanUse>
+    <CapacityType>1 </CapacityType>
+    <CapacitySubType>1 </CapacitySubType>
+    <WeaponType>0 </WeaponType>
+    <MobaAIId>1000 </MobaAIId>
+    <AITargetType>2 0 0 </AITargetType>
+    <SkillAttackType>5 </SkillAttackType>
+    <ArmorType>4 </ArmorType>
+    <SpeedType>1 </SpeedType>
+    <SkillAtkActorType>2 </SkillAtkActorType>
+    <MoveType>0 </MoveType>
+    <CrowdSize>3 </CrowdSize>
+    <Food>0 </Food>
+    <MaxSkillEnergy>0 </MaxSkillEnergy>
+    <FogViewType>0 </FogViewType>
+    <DayFowRadius>350000 </DayFowRadius>
+    <NightFowRadius>200000 </NightFowRadius>
+    <ActorPetID>0 </ActorPetID>
+    <TeamGhostID>20000924 </TeamGhostID>
+    <NormalSkills>140600101 140600201 0 </NormalSkills>
+    <Skills>140601001 140602001 140604001 0 0 0 0 0 </Skills>
+    <TalentSkills>140620001 0 0 </TalentSkills>
+    <SummonerSkills>70000001 0 0 </SummonerSkills>
+    <AvatarSkills>0 0 0 0 </AvatarSkills>
+    <HiddenSkills>0 0 0 0 </HiddenSkills>
+    <DynsSkills>0 0 </DynsSkills>
+    <HeroSkins>1601001 0 0 0 0 0 </HeroSkins>
+    <Guide1v1RecID>0 </Guide1v1RecID>
+    <Guide3v3RecID>0 </Guide3v3RecID>
+    <HumRecID>1001 </HumRecID>
+    <OrcRecID>1101 </OrcRecID>
+    <GhostRecID>1201 </GhostRecID>
+    <ElfRecID>1301 </ElfRecID>
+    <LiveVal>8 </LiveVal>
+    <ATKVal>4 </ATKVal>
+    <SkillDamageVal>6 </SkillDamageVal>
+    <UseDifficultyVal>5 </UseDifficultyVal>
+    <PaybackItemID>0 </PaybackItemID>
+    <PaybackItemNum>0 </PaybackItemNum>
+</ResHeroDesc>
+<ResHeroDesc version="1">
+    <ResID>10000602 </ResID>
+    <Country>0 </Country>
+    <Sex>2 </Sex>
+    <RaceType>0 </RaceType>
+    <CanView>0 </CanView>
+    <CanSelect>0 </CanSelect>
+    <CanHave>0 </CanHave>
+    <AICanUse>0 </AICanUse>
+    <AIArenaLevelCanUse>0 </AIArenaLevelCanUse>
+    <AIPlayerLevelCanUse>0 </AIPlayerLevelCanUse>
+    <CapacityType>2 </CapacityType>
+    <CapacitySubType>2 </CapacitySubType>
+    <WeaponType>1 </WeaponType>
+    <MobaAIId>1000 </MobaAIId>
+    <AITargetType>2 0 0 </AITargetType>
+    <SkillAttackType>5 </SkillAttackType>
+    <ArmorType>4 </ArmorType>
+    <SpeedType>1 </SpeedType>
+    <SkillAtkActorType>2 </SkillAtkActorType>
+    <MoveType>0 </MoveType>
+    <CrowdSize>3 </CrowdSize>
+    <Food>0 </Food>
+    <MaxSkillEnergy>0 </MaxSkillEnergy>
+    <FogViewType>0 </FogViewType>
+    <DayFowRadius>350000 </DayFowRadius>
+    <NightFowRadius>200000 </NightFowRadius>
+    <ActorPetID>0 </ActorPetID>
+    <TeamGhostID>20000924 </TeamGhostID>
+    <NormalSkills>110100101 0 0 </NormalSkills>
+    <Skills>110101001 110103001 110104001 0 0 0 0 0 </Skills>
+    <TalentSkills>110102001 0 0 </TalentSkills>
+    <SummonerSkills>70000001 0 0 </SummonerSkills>
+    <AvatarSkills>0 0 0 0 </AvatarSkills>
+    <HiddenSkills>0 0 0 0 </HiddenSkills>
+    <DynsSkills>0 0 </DynsSkills>
+    <HeroSkins>1602001 0 0 0 0 0 </HeroSkins>
+    <Guide1v1RecID>0 </Guide1v1RecID>
+    <Guide3v3RecID>0 </Guide3v3RecID>
+    <HumRecID>1001 </HumRecID>
+    <OrcRecID>1101 </OrcRecID>
+    <GhostRecID>1201 </GhostRecID>
+    <ElfRecID>1301 </ElfRecID>
+    <LiveVal>3 </LiveVal>
+    <ATKVal>3 </ATKVal>
+    <SkillDamageVal>8 </SkillDamageVal>
+    <UseDifficultyVal>5 </UseDifficultyVal>
+    <PaybackItemID>0 </PaybackItemID>
+    <PaybackItemNum>0 </PaybackItemNum>
+</ResHeroDesc>
+<ResHeroDesc version="1">
+    <ResID>10000603 </ResID>
+    <Country>0 </Country>
+    <Sex>2 </Sex>
+    <RaceType>0 </RaceType>
+    <CanView>0 </CanView>
+    <CanSelect>0 </CanSelect>
+    <CanHave>0 </CanHave>
+    <AICanUse>0 </AICanUse>
+    <AIArenaLevelCanUse>0 </AIArenaLevelCanUse>
+    <AIPlayerLevelCanUse>0 </AIPlayerLevelCanUse>
+    <CapacityType>2 </CapacityType>
+    <CapacitySubType>2 </CapacitySubType>
+    <WeaponType>1 </WeaponType>
+    <MobaAIId>1000 </MobaAIId>
+    <AITargetType>2 0 0 </AITargetType>
+    <SkillAttackType>5 </SkillAttackType>
+    <ArmorType>4 </ArmorType>
+    <SpeedType>1 </SpeedType>
+    <SkillAtkActorType>2 </SkillAtkActorType>
+    <MoveType>0 </MoveType>
+    <CrowdSize>3 </CrowdSize>
+    <Food>0 </Food>
+    <MaxSkillEnergy>0 </MaxSkillEnergy>
+    <FogViewType>0 </FogViewType>
+    <DayFowRadius>350000 </DayFowRadius>
+    <NightFowRadius>200000 </NightFowRadius>
+    <ActorPetID>0 </ActorPetID>
+    <TeamGhostID>20000924 </TeamGhostID>
+    <NormalSkills>110100101 0 0 </NormalSkills>
+    <Skills>110101001 110103001 110104001 0 0 0 0 0 </Skills>
+    <TalentSkills>110102001 0 0 </TalentSkills>
+    <SummonerSkills>70000001 0 0 </SummonerSkills>
+    <AvatarSkills>0 0 0 0 </AvatarSkills>
+    <HiddenSkills>0 0 0 0 </HiddenSkills>
+    <DynsSkills>0 0 </DynsSkills>
+    <HeroSkins>1603001 0 0 0 0 0 </HeroSkins>
+    <Guide1v1RecID>0 </Guide1v1RecID>
+    <Guide3v3RecID>0 </Guide3v3RecID>
+    <HumRecID>1001 </HumRecID>
+    <OrcRecID>1101 </OrcRecID>
+    <GhostRecID>1201 </GhostRecID>
+    <ElfRecID>1301 </ElfRecID>
+    <LiveVal>3 </LiveVal>
+    <ATKVal>3 </ATKVal>
+    <SkillDamageVal>8 </SkillDamageVal>
+    <UseDifficultyVal>5 </UseDifficultyVal>
+    <PaybackItemID>0 </PaybackItemID>
+    <PaybackItemNum>0 </PaybackItemNum>
+</ResHeroDesc>
+</ResHeroDesc_Tab>

@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<ResActorAIDesc_Tab>
+<TResHeadAll version="5">
+    <resHead type="TResHead">
+        <Magic>1397052237 </Magic>
+        <Version>6 </Version>
+        <Unit>60 </Unit>
+        <Count>7 </Count>
+        <MetalibHash>531d5b4a397ad5b3c0fbfb5cc8059e55</MetalibHash>
+        <ResVersion>0 </ResVersion>
+        <CreateTime>2023-04-19 20:42:32</CreateTime>
+        <ResEncording>UTF-8</ResEncording>
+        <ContentHash>a3c1f51490f03539b6dac0dbd4582387</ContentHash>
+    </resHead>
+    <resHeadExt type="TResHeadExt">
+        <DataOffset>136 </DataOffset>
+    </resHeadExt>
+</TResHeadAll>
+<ResActorAIDesc version="1">
+    <AiConfigType>0 </AiConfigType>
+    <EscapeHeroInterval>6000 </EscapeHeroInterval>
+    <EscapeOtherInterval>10000 </EscapeOtherInterval>
+    <EscapeMTime>3000 </EscapeMTime>
+    <EscapeMonsterMinHpPrecent>5000 </EscapeMonsterMinHpPrecent>
+    <EscapeOtherMinHpPrecent>3000 </EscapeOtherMinHpPrecent>
+    <EscapeMinHpVal>500 </EscapeMinHpVal>
+    <EscapeDmgInterval>2000 </EscapeDmgInterval>
+    <EscapeDmg>2000 </EscapeDmg>
+    <EscapeDis_NN>80000 </EscapeDis_NN>
+    <EscapeDis_NF>80000 </EscapeDis_NF>
+    <EscapeDis_FN>180000 </EscapeDis_FN>
+    <EscapeDis_FF>80000 </EscapeDis_FF>
+    <KeepDisMoveTime>3000 </KeepDisMoveTime>
+    <KeepDisFailedMoveTime>1000 </KeepDisFailedMoveTime>
+</ResActorAIDesc>
+<ResActorAIDesc version="1">
+    <AiConfigType>2 </AiConfigType>
+    <EscapeHeroInterval>6000 </EscapeHeroInterval>
+    <EscapeOtherInterval>10000 </EscapeOtherInterval>
+    <EscapeMTime>3000 </EscapeMTime>
+    <EscapeMonsterMinHpPrecent>5000 </EscapeMonsterMinHpPrecent>
+    <EscapeOtherMinHpPrecent>3000 </EscapeOtherMinHpPrecent>
+    <EscapeMinHpVal>500 </EscapeMinHpVal>
+    <EscapeDmgInterval>2000 </EscapeDmgInterval>
+    <EscapeDmg>2000 </EscapeDmg>
+    <EscapeDis_NN>80000 </EscapeDis_NN>
+    <EscapeDis_NF>80000 </EscapeDis_NF>
+    <EscapeDis_FN>180000 </EscapeDis_FN>
+    <EscapeDis_FF>80000 </EscapeDis_FF>
+    <KeepDisMoveTime>3000 </KeepDisMoveTime>
+    <KeepDisFailedMoveTime>1000 </KeepDisFailedMoveTime>
+</ResActorAIDesc>
+<ResActorAIDesc version="1">
+    <AiConfigType>3 </AiConfigType>
+    <EscapeHeroInterval>6000 </EscapeHeroInterval>
+    <EscapeOtherInterval>10000 </EscapeOtherInterval>
+    <EscapeMTime>3000 </EscapeMTime>
+    <EscapeMonsterMinHpPrecent>5000 </EscapeMonsterMinHpPrecent>
+    <EscapeOtherMinHpPrecent>3000 </EscapeOtherMinHpPrecent>
+    <EscapeMinHpVal>500 </EscapeMinHpVal>
+    <EscapeDmgInterval>2000 </EscapeDmgInterval>
+    <EscapeDmg>2000 </EscapeDmg>
+    <EscapeDis_NN>80000 </EscapeDis_NN>
+    <EscapeDis_NF>80000 </EscapeDis_NF>
+    <EscapeDis_FN>180000 </EscapeDis_FN>
+    <EscapeDis_FF>80000 </EscapeDis_FF>
+    <KeepDisMoveTime>3000 </KeepDisMoveTime>
+    <KeepDisFailedMoveTime>1000 </KeepDisFailedMoveTime>
+</ResActorAIDesc>
+<ResActorAIDesc version="1">
+    <AiConfigType>4 </AiConfigType>
+    <EscapeHeroInterval>6000 </EscapeHeroInterval>
+    <EscapeOtherInterval>10000 </EscapeOtherInterval>
+    <EscapeMTime>3000 </EscapeMTime>
+    <EscapeMonsterMinHpPrecent>5000 </EscapeMonsterMinHpPrecent>
+    <EscapeOtherMinHpPrecent>3000 </EscapeOtherMinHpPrecent>
+    <EscapeMinHpVal>500 </EscapeMinHpVal>
+    <EscapeDmgInterval>2000 </EscapeDmgInterval>
+    <EscapeDmg>2000 </EscapeDmg>
+    <EscapeDis_NN>80000 </EscapeDis_NN>
+    <EscapeDis_NF>80000 </EscapeDis_NF>
+    <EscapeDis_FN>180000 </EscapeDis_FN>
+    <EscapeDis_FF>80000 </EscapeDis_FF>
+    <KeepDisMoveTime>3000 </KeepDisMoveTime>
+    <KeepDisFailedMoveTime>1000 </KeepDisFailedMoveTime>
+</ResActorAIDesc>
+<ResActorAIDesc version="1">
+    <AiConfigType>5 </AiConfigType>
+    <EscapeHeroInterval>6000 </EscapeHeroInterval>
+    <EscapeOtherInterval>10000 </EscapeOtherInterval>
+    <EscapeMTime>3000 </EscapeMTime>
+    <EscapeMonsterMinHpPrecent>5000 </EscapeMonsterMinHpPrecent>
+    <EscapeOtherMinHpPrecent>3000 </EscapeOtherMinHpPrecent>
+    <EscapeMinHpVal>500 </EscapeMinHpVal>
+    <EscapeDmgInterval>2000 </EscapeDmgInterval>
+    <EscapeDmg>2000 </EscapeDmg>
+    <EscapeDis_NN>80000 </EscapeDis_NN>
+    <EscapeDis_NF>80000 </EscapeDis_NF>
+    <EscapeDis_FN>180000 </EscapeDis_FN>
+    <EscapeDis_FF>80000 </EscapeDis_FF>
+    <KeepDisMoveTime>3000 </KeepDisMoveTime>
+    <KeepDisFailedMoveTime>1000 </KeepDisFailedMoveTime>
+</ResActorAIDesc>
+<ResActorAIDesc version="1">
+    <AiConfigType>6 </AiConfigType>
+    <EscapeHeroInterval>6000 </EscapeHeroInterval>
+    <EscapeOtherInterval>10000 </EscapeOtherInterval>
+    <EscapeMTime>3000 </EscapeMTime>
+    <EscapeMonsterMinHpPrecent>5000 </EscapeMonsterMinHpPrecent>
+    <EscapeOtherMinHpPrecent>3000 </EscapeOtherMinHpPrecent>
+    <EscapeMinHpVal>500 </EscapeMinHpVal>
+    <EscapeDmgInterval>2000 </EscapeDmgInterval>
+    <EscapeDmg>2000 </EscapeDmg>
+    <EscapeDis_NN>80000 </EscapeDis_NN>
+    <EscapeDis_NF>80000 </EscapeDis_NF>
+    <EscapeDis_FN>180000 </EscapeDis_FN>
+    <EscapeDis_FF>80000 </EscapeDis_FF>
+    <KeepDisMoveTime>3000 </KeepDisMoveTime>
+    <KeepDisFailedMoveTime>1000 </KeepDisFailedMoveTime>
+</ResActorAIDesc>
+<ResActorAIDesc version="1">
+    <AiConfigType>7 </AiConfigType>
+    <EscapeHeroInterval>6000 </EscapeHeroInterval>
+    <EscapeOtherInterval>10000 </EscapeOtherInterval>
+    <EscapeMTime>3000 </EscapeMTime>
+    <EscapeMonsterMinHpPrecent>5000 </EscapeMonsterMinHpPrecent>
+    <EscapeOtherMinHpPrecent>3000 </EscapeOtherMinHpPrecent>
+    <EscapeMinHpVal>500 </EscapeMinHpVal>
+    <EscapeDmgInterval>2000 </EscapeDmgInterval>
+    <EscapeDmg>2000 </EscapeDmg>
+    <EscapeDis_NN>80000 </EscapeDis_NN>
+    <EscapeDis_NF>80000 </EscapeDis_NF>
+    <EscapeDis_FN>180000 </EscapeDis_FN>
+    <EscapeDis_FF>80000 </EscapeDis_FF>
+    <KeepDisMoveTime>3000 </KeepDisMoveTime>
+    <KeepDisFailedMoveTime>1000 </KeepDisFailedMoveTime>
+</ResActorAIDesc>
+</ResActorAIDesc_Tab>

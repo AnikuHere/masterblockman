@@ -1,0 +1,1097 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<ResActivityQuestDesc_Tab>
+<TResHeadAll version="5">
+    <resHead type="TResHead">
+        <Magic>1397052237 </Magic>
+        <Version>6 </Version>
+        <Unit>48 </Unit>
+        <Count>49 </Count>
+        <MetalibHash>531d5b4a397ad5b3c0fbfb5cc8059e55</MetalibHash>
+        <ResVersion>0 </ResVersion>
+        <CreateTime>2023-04-19 20:42:37</CreateTime>
+        <ResEncording>UTF-8</ResEncording>
+        <ContentHash>832497fe0da1a12941070e81d468b7d8</ContentHash>
+    </resHead>
+    <resHeadExt type="TResHeadExt">
+        <DataOffset>136 </DataOffset>
+    </resHeadExt>
+</TResHeadAll>
+<ResActivityQuestDesc version="1">
+    <ID>1 </ID>
+    <ActivityID>1 </ActivityID>
+    <CounterID>1 </CounterID>
+    <TargetCount>1 </TargetCount>
+    <Reward type="ItemReward">
+        <ItemID>31060018 </ItemID>
+        <ItemNum>1 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResActivityQuestDesc>
+<ResActivityQuestDesc version="1">
+    <ID>2 </ID>
+    <ActivityID>2 </ActivityID>
+    <CounterID>2 </CounterID>
+    <TargetCount>1 </TargetCount>
+    <Reward type="ItemReward">
+        <ItemID>31060018 </ItemID>
+        <ItemNum>1 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResActivityQuestDesc>
+<ResActivityQuestDesc version="1">
+    <ID>3 </ID>
+    <ActivityID>3 </ActivityID>
+    <CounterID>3 </CounterID>
+    <TargetCount>1 </TargetCount>
+    <Reward type="ItemReward">
+        <ItemID>4 </ItemID>
+        <ItemNum>68 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResActivityQuestDesc>
+<ResActivityQuestDesc version="1">
+    <ID>4 </ID>
+    <ActivityID>3 </ActivityID>
+    <CounterID>3 </CounterID>
+    <TargetCount>2 </TargetCount>
+    <Reward type="ItemReward">
+        <ItemID>31140012 </ItemID>
+        <ItemNum>1 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResActivityQuestDesc>
+<ResActivityQuestDesc version="1">
+    <ID>5 </ID>
+    <ActivityID>3 </ActivityID>
+    <CounterID>3 </CounterID>
+    <TargetCount>3 </TargetCount>
+    <Reward type="ItemReward">
+        <ItemID>31130203 </ItemID>
+        <ItemNum>1 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResActivityQuestDesc>
+<ResActivityQuestDesc version="1">
+    <ID>6 </ID>
+    <ActivityID>3 </ActivityID>
+    <CounterID>3 </CounterID>
+    <TargetCount>4 </TargetCount>
+    <Reward type="ItemReward">
+        <ItemID>3 </ItemID>
+        <ItemNum>188 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResActivityQuestDesc>
+<ResActivityQuestDesc version="1">
+    <ID>7 </ID>
+    <ActivityID>3 </ActivityID>
+    <CounterID>3 </CounterID>
+    <TargetCount>5 </TargetCount>
+    <Reward type="ItemReward">
+        <ItemID>31130401 </ItemID>
+        <ItemNum>1 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResActivityQuestDesc>
+<ResActivityQuestDesc version="1">
+    <ID>8 </ID>
+    <ActivityID>3 </ActivityID>
+    <CounterID>3 </CounterID>
+    <TargetCount>6 </TargetCount>
+    <Reward type="ItemReward">
+        <ItemID>3 </ItemID>
+        <ItemNum>188 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResActivityQuestDesc>
+<ResActivityQuestDesc version="1">
+    <ID>9 </ID>
+    <ActivityID>3 </ActivityID>
+    <CounterID>3 </CounterID>
+    <TargetCount>7 </TargetCount>
+    <Reward type="ItemReward">
+        <ItemID>31144013 </ItemID>
+        <ItemNum>1 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResActivityQuestDesc>
+<ResActivityQuestDesc version="1">
+    <ID>10 </ID>
+    <ActivityID>3 </ActivityID>
+    <CounterID>3 </CounterID>
+    <TargetCount>8 </TargetCount>
+    <Reward type="ItemReward">
+        <ItemID>4 </ItemID>
+        <ItemNum>68 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResActivityQuestDesc>
+<ResActivityQuestDesc version="1">
+    <ID>11 </ID>
+    <ActivityID>3 </ActivityID>
+    <CounterID>3 </CounterID>
+    <TargetCount>9 </TargetCount>
+    <Reward type="ItemReward">
+        <ItemID>3 </ItemID>
+        <ItemNum>288 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResActivityQuestDesc>
+<ResActivityQuestDesc version="1">
+    <ID>12 </ID>
+    <ActivityID>3 </ActivityID>
+    <CounterID>3 </CounterID>
+    <TargetCount>10 </TargetCount>
+    <Reward type="ItemReward">
+        <ItemID>31130405 </ItemID>
+        <ItemNum>1 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResActivityQuestDesc>
+<ResActivityQuestDesc version="1">
+    <ID>13 </ID>
+    <ActivityID>3 </ActivityID>
+    <CounterID>3 </CounterID>
+    <TargetCount>11 </TargetCount>
+    <Reward type="ItemReward">
+        <ItemID>4 </ItemID>
+        <ItemNum>68 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResActivityQuestDesc>
+<ResActivityQuestDesc version="1">
+    <ID>14 </ID>
+    <ActivityID>3 </ActivityID>
+    <CounterID>3 </CounterID>
+    <TargetCount>12 </TargetCount>
+    <Reward type="ItemReward">
+        <ItemID>3 </ItemID>
+        <ItemNum>388 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResActivityQuestDesc>
+<ResActivityQuestDesc version="1">
+    <ID>15 </ID>
+    <ActivityID>3 </ActivityID>
+    <CounterID>3 </CounterID>
+    <TargetCount>13 </TargetCount>
+    <Reward type="ItemReward">
+        <ItemID>4 </ItemID>
+        <ItemNum>68 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResActivityQuestDesc>
+<ResActivityQuestDesc version="1">
+    <ID>16 </ID>
+    <ActivityID>3 </ActivityID>
+    <CounterID>3 </CounterID>
+    <TargetCount>14 </TargetCount>
+    <Reward type="ItemReward">
+        <ItemID>31144052 </ItemID>
+        <ItemNum>1 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResActivityQuestDesc>
+<ResActivityQuestDesc version="1">
+    <ID>17 </ID>
+    <ActivityID>4 </ActivityID>
+    <CounterID>4 </CounterID>
+    <TargetCount>10 </TargetCount>
+    <Reward type="ItemReward">
+        <ItemID>4 </ItemID>
+        <ItemNum>100 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResActivityQuestDesc>
+<ResActivityQuestDesc version="1">
+    <ID>18 </ID>
+    <ActivityID>4 </ActivityID>
+    <CounterID>4 </CounterID>
+    <TargetCount>100 </TargetCount>
+    <Reward type="ItemReward">
+        <ItemID>9 </ItemID>
+        <ItemNum>300 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>10 </ItemID>
+        <ItemNum>300 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResActivityQuestDesc>
+<ResActivityQuestDesc version="1">
+    <ID>19 </ID>
+    <ActivityID>4 </ActivityID>
+    <CounterID>4 </CounterID>
+    <TargetCount>400 </TargetCount>
+    <Reward type="ItemReward">
+        <ItemID>31144012 </ItemID>
+        <ItemNum>1 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResActivityQuestDesc>
+<ResActivityQuestDesc version="1">
+    <ID>100010 </ID>
+    <ActivityID>5 </ActivityID>
+    <CounterID>5 </CounterID>
+    <TargetCount>10 </TargetCount>
+    <Reward type="ItemReward">
+        <ItemID>9 </ItemID>
+        <ItemNum>10 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>10 </ItemID>
+        <ItemNum>10 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>31100002 </ItemID>
+        <ItemNum>1 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResActivityQuestDesc>
+<ResActivityQuestDesc version="1">
+    <ID>100011 </ID>
+    <ActivityID>5 </ActivityID>
+    <CounterID>5 </CounterID>
+    <TargetCount>60 </TargetCount>
+    <Reward type="ItemReward">
+        <ItemID>9 </ItemID>
+        <ItemNum>60 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>10 </ItemID>
+        <ItemNum>60 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>31100002 </ItemID>
+        <ItemNum>2 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResActivityQuestDesc>
+<ResActivityQuestDesc version="1">
+    <ID>100012 </ID>
+    <ActivityID>5 </ActivityID>
+    <CounterID>5 </CounterID>
+    <TargetCount>300 </TargetCount>
+    <Reward type="ItemReward">
+        <ItemID>9 </ItemID>
+        <ItemNum>188 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>10 </ItemID>
+        <ItemNum>188 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>31100002 </ItemID>
+        <ItemNum>3 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResActivityQuestDesc>
+<ResActivityQuestDesc version="1">
+    <ID>100013 </ID>
+    <ActivityID>5 </ActivityID>
+    <CounterID>5 </CounterID>
+    <TargetCount>1000 </TargetCount>
+    <Reward type="ItemReward">
+        <ItemID>9 </ItemID>
+        <ItemNum>388 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>10 </ItemID>
+        <ItemNum>388 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResActivityQuestDesc>
+<ResActivityQuestDesc version="1">
+    <ID>100014 </ID>
+    <ActivityID>5 </ActivityID>
+    <CounterID>5 </CounterID>
+    <TargetCount>1888 </TargetCount>
+    <Reward type="ItemReward">
+        <ItemID>9 </ItemID>
+        <ItemNum>888 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>10 </ItemID>
+        <ItemNum>888 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResActivityQuestDesc>
+<ResActivityQuestDesc version="1">
+    <ID>110010 </ID>
+    <ActivityID>6 </ActivityID>
+    <CounterID>9 </CounterID>
+    <TargetCount>1 </TargetCount>
+    <Reward type="ItemReward">
+        <ItemID>31153413 </ItemID>
+        <ItemNum>1 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>43413002 </ItemID>
+        <ItemNum>1 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResActivityQuestDesc>
+<ResActivityQuestDesc version="1">
+    <ID>110011 </ID>
+    <ActivityID>6 </ActivityID>
+    <CounterID>9 </CounterID>
+    <TargetCount>2 </TargetCount>
+    <Reward type="ItemReward">
+        <ItemID>31153408 </ItemID>
+        <ItemNum>1 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>43408002 </ItemID>
+        <ItemNum>1 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResActivityQuestDesc>
+<ResActivityQuestDesc version="1">
+    <ID>110012 </ID>
+    <ActivityID>6 </ActivityID>
+    <CounterID>9 </CounterID>
+    <TargetCount>3 </TargetCount>
+    <Reward type="ItemReward">
+        <ItemID>31153414 </ItemID>
+        <ItemNum>1 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>43414002 </ItemID>
+        <ItemNum>1 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResActivityQuestDesc>
+<ResActivityQuestDesc version="1">
+    <ID>110013 </ID>
+    <ActivityID>7 </ActivityID>
+    <CounterID>6 </CounterID>
+    <TargetCount>3 </TargetCount>
+    <Reward type="ItemReward">
+        <ItemID>31060019 </ItemID>
+        <ItemNum>1 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResActivityQuestDesc>
+<ResActivityQuestDesc version="1">
+    <ID>110014 </ID>
+    <ActivityID>7 </ActivityID>
+    <CounterID>7 </CounterID>
+    <TargetCount>1 </TargetCount>
+    <Reward type="ItemReward">
+        <ItemID>31060019 </ItemID>
+        <ItemNum>1 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResActivityQuestDesc>
+<ResActivityQuestDesc version="1">
+    <ID>110015 </ID>
+    <ActivityID>7 </ActivityID>
+    <CounterID>8 </CounterID>
+    <TargetCount>1 </TargetCount>
+    <Reward type="ItemReward">
+        <ItemID>31060019 </ItemID>
+        <ItemNum>1 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResActivityQuestDesc>
+<ResActivityQuestDesc version="1">
+    <ID>120012 </ID>
+    <ActivityID>9 </ActivityID>
+    <CounterID>10 </CounterID>
+    <TargetCount>1 </TargetCount>
+    <Reward type="ItemReward">
+        <ItemID>31100007 </ItemID>
+        <ItemNum>1 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>4 </ItemID>
+        <ItemNum>10 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResActivityQuestDesc>
+<ResActivityQuestDesc version="1">
+    <ID>120013 </ID>
+    <ActivityID>9 </ActivityID>
+    <CounterID>10 </CounterID>
+    <TargetCount>2 </TargetCount>
+    <Reward type="ItemReward">
+        <ItemID>31100007 </ItemID>
+        <ItemNum>1 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>31100001 </ItemID>
+        <ItemNum>1 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResActivityQuestDesc>
+<ResActivityQuestDesc version="1">
+    <ID>120014 </ID>
+    <ActivityID>9 </ActivityID>
+    <CounterID>10 </CounterID>
+    <TargetCount>3 </TargetCount>
+    <Reward type="ItemReward">
+        <ItemID>31100007 </ItemID>
+        <ItemNum>1 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>4 </ItemID>
+        <ItemNum>10 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResActivityQuestDesc>
+<ResActivityQuestDesc version="1">
+    <ID>120015 </ID>
+    <ActivityID>9 </ActivityID>
+    <CounterID>10 </CounterID>
+    <TargetCount>4 </TargetCount>
+    <Reward type="ItemReward">
+        <ItemID>31100007 </ItemID>
+        <ItemNum>1 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>31100001 </ItemID>
+        <ItemNum>1 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResActivityQuestDesc>
+<ResActivityQuestDesc version="1">
+    <ID>120016 </ID>
+    <ActivityID>9 </ActivityID>
+    <CounterID>10 </CounterID>
+    <TargetCount>5 </TargetCount>
+    <Reward type="ItemReward">
+        <ItemID>31100007 </ItemID>
+        <ItemNum>1 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>4 </ItemID>
+        <ItemNum>15 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResActivityQuestDesc>
+<ResActivityQuestDesc version="1">
+    <ID>120017 </ID>
+    <ActivityID>9 </ActivityID>
+    <CounterID>10 </CounterID>
+    <TargetCount>6 </TargetCount>
+    <Reward type="ItemReward">
+        <ItemID>31100007 </ItemID>
+        <ItemNum>1 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>31100002 </ItemID>
+        <ItemNum>1 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResActivityQuestDesc>
+<ResActivityQuestDesc version="1">
+    <ID>120018 </ID>
+    <ActivityID>9 </ActivityID>
+    <CounterID>10 </CounterID>
+    <TargetCount>7 </TargetCount>
+    <Reward type="ItemReward">
+        <ItemID>31100007 </ItemID>
+        <ItemNum>1 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>31100004 </ItemID>
+        <ItemNum>1 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResActivityQuestDesc>
+<ResActivityQuestDesc version="1">
+    <ID>120019 </ID>
+    <ActivityID>10 </ActivityID>
+    <CounterID>11 </CounterID>
+    <TargetCount>1 </TargetCount>
+    <Reward type="ItemReward">
+        <ItemID>31100007 </ItemID>
+        <ItemNum>1 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResActivityQuestDesc>
+<ResActivityQuestDesc version="1">
+    <ID>120020 </ID>
+    <ActivityID>10 </ActivityID>
+    <CounterID>12 </CounterID>
+    <TargetCount>2 </TargetCount>
+    <Reward type="ItemReward">
+        <ItemID>31100007 </ItemID>
+        <ItemNum>1 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResActivityQuestDesc>
+<ResActivityQuestDesc version="1">
+    <ID>120021 </ID>
+    <ActivityID>10 </ActivityID>
+    <CounterID>13 </CounterID>
+    <TargetCount>3 </TargetCount>
+    <Reward type="ItemReward">
+        <ItemID>31100007 </ItemID>
+        <ItemNum>1 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>4 </ItemID>
+        <ItemNum>5 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResActivityQuestDesc>
+<ResActivityQuestDesc version="1">
+    <ID>130010 </ID>
+    <ActivityID>11 </ActivityID>
+    <CounterID>14 </CounterID>
+    <TargetCount>1 </TargetCount>
+    <Reward type="ItemReward">
+        <ItemID>9 </ItemID>
+        <ItemNum>10 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>10 </ItemID>
+        <ItemNum>10 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResActivityQuestDesc>
+<ResActivityQuestDesc version="1">
+    <ID>130011 </ID>
+    <ActivityID>11 </ActivityID>
+    <CounterID>15 </CounterID>
+    <TargetCount>2 </TargetCount>
+    <Reward type="ItemReward">
+        <ItemID>9 </ItemID>
+        <ItemNum>10 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>10 </ItemID>
+        <ItemNum>10 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResActivityQuestDesc>
+<ResActivityQuestDesc version="1">
+    <ID>130012 </ID>
+    <ActivityID>11 </ActivityID>
+    <CounterID>16 </CounterID>
+    <TargetCount>3 </TargetCount>
+    <Reward type="ItemReward">
+        <ItemID>9 </ItemID>
+        <ItemNum>20 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>10 </ItemID>
+        <ItemNum>20 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResActivityQuestDesc>
+<ResActivityQuestDesc version="1">
+    <ID>160001 </ID>
+    <ActivityID>16 </ActivityID>
+    <CounterID>18 </CounterID>
+    <TargetCount>1 </TargetCount>
+    <Reward type="ItemReward">
+        <ItemID>2 </ItemID>
+        <ItemNum>10 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResActivityQuestDesc>
+<ResActivityQuestDesc version="1">
+    <ID>160002 </ID>
+    <ActivityID>16 </ActivityID>
+    <CounterID>18 </CounterID>
+    <TargetCount>2 </TargetCount>
+    <Reward type="ItemReward">
+        <ItemID>2 </ItemID>
+        <ItemNum>20 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResActivityQuestDesc>
+<ResActivityQuestDesc version="1">
+    <ID>160003 </ID>
+    <ActivityID>16 </ActivityID>
+    <CounterID>18 </CounterID>
+    <TargetCount>3 </TargetCount>
+    <Reward type="ItemReward">
+        <ItemID>2 </ItemID>
+        <ItemNum>30 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResActivityQuestDesc>
+<ResActivityQuestDesc version="1">
+    <ID>160004 </ID>
+    <ActivityID>16 </ActivityID>
+    <CounterID>18 </CounterID>
+    <TargetCount>5 </TargetCount>
+    <Reward type="ItemReward">
+        <ItemID>2 </ItemID>
+        <ItemNum>50 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResActivityQuestDesc>
+<ResActivityQuestDesc version="1">
+    <ID>160005 </ID>
+    <ActivityID>16 </ActivityID>
+    <CounterID>18 </CounterID>
+    <TargetCount>7 </TargetCount>
+    <Reward type="ItemReward">
+        <ItemID>2 </ItemID>
+        <ItemNum>100 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResActivityQuestDesc>
+<ResActivityQuestDesc version="1">
+    <ID>500001 </ID>
+    <ActivityID>15 </ActivityID>
+    <CounterID>17 </CounterID>
+    <TargetCount>2 </TargetCount>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResActivityQuestDesc>
+</ResActivityQuestDesc_Tab>

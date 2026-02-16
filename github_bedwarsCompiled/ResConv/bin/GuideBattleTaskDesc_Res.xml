@@ -1,0 +1,976 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<ResGuideBattleTaskDesc_Tab>
+<TResHeadAll version="5">
+    <resHead type="TResHead">
+        <Magic>1397052237 </Magic>
+        <Version>6 </Version>
+        <Unit>2529 </Unit>
+        <Count>33 </Count>
+        <MetalibHash>531d5b4a397ad5b3c0fbfb5cc8059e55</MetalibHash>
+        <ResVersion>0 </ResVersion>
+        <CreateTime>2023-04-19 20:42:33</CreateTime>
+        <ResEncording>UTF-8</ResEncording>
+        <ContentHash>7444e4e5fae77306e393c829a2e09d37</ContentHash>
+    </resHead>
+    <resHeadExt type="TResHeadExt">
+        <DataOffset>136 </DataOffset>
+    </resHeadExt>
+</TResHeadAll>
+<ResGuideBattleTaskDesc version="1">
+    <ResID>10001 </ResID>
+    <BattleSceneType>4 </BattleSceneType>
+    <TaskType>1 </TaskType>
+    <ActiveParam type="ResGuideBattleTaskActiveDesc">
+        <Type>0 </Type>
+        <Param>0 0 </Param>
+    </ActiveParam>
+    <CompleteParams type="ResGuideBattleTaskCompleteDesc">
+        <Type>0 </Type>
+        <Param>0 0 </Param>
+        <Desc_SCN>&lt;color=#5aff4b&gt;跟随指引&lt;/color&gt;，追踪兽人痕迹</Desc_SCN>
+        <Desc_FCN>&lt;color=#5aff4b&gt;跟随指引&lt;/color&gt;，追踪兽人痕迹</Desc_FCN>
+        <Desc_EN>Follow the traces of Orcs.</Desc_EN>
+    </CompleteParams>
+    <CompleteParams type="ResGuideBattleTaskCompleteDesc">
+        <Type>0 </Type>
+        <Param>0 0 </Param>
+        <Desc_SCN></Desc_SCN>
+        <Desc_FCN></Desc_FCN>
+        <Desc_EN></Desc_EN>
+    </CompleteParams>
+    <TaskName_SCN>兽人痕迹</TaskName_SCN>
+    <TaskName_FCN>兽人痕迹</TaskName_FCN>
+    <TaskName_EN>Traces of Orcs</TaskName_EN>
+    <TipsDesc_SCN></TipsDesc_SCN>
+    <TipsDesc_FCN></TipsDesc_FCN>
+    <TipsDesc_EN></TipsDesc_EN>
+</ResGuideBattleTaskDesc>
+<ResGuideBattleTaskDesc version="1">
+    <ResID>10002 </ResID>
+    <BattleSceneType>4 </BattleSceneType>
+    <TaskType>1 </TaskType>
+    <ActiveParam type="ResGuideBattleTaskActiveDesc">
+        <Type>0 </Type>
+        <Param>0 0 </Param>
+    </ActiveParam>
+    <CompleteParams type="ResGuideBattleTaskCompleteDesc">
+        <Type>0 </Type>
+        <Param>0 0 </Param>
+        <Desc_SCN>&lt;color=#5aff4b&gt;跟随指引&lt;/color&gt;，寻找精灵部队</Desc_SCN>
+        <Desc_FCN>&lt;color=#5aff4b&gt;跟随指引&lt;/color&gt;，寻找精灵部队</Desc_FCN>
+        <Desc_EN>Find elven troops.</Desc_EN>
+    </CompleteParams>
+    <CompleteParams type="ResGuideBattleTaskCompleteDesc">
+        <Type>0 </Type>
+        <Param>0 0 </Param>
+        <Desc_SCN></Desc_SCN>
+        <Desc_FCN></Desc_FCN>
+        <Desc_EN></Desc_EN>
+    </CompleteParams>
+    <TaskName_SCN>精灵部队</TaskName_SCN>
+    <TaskName_FCN>精灵部队</TaskName_FCN>
+    <TaskName_EN>Elven Troops</TaskName_EN>
+    <TipsDesc_SCN></TipsDesc_SCN>
+    <TipsDesc_FCN></TipsDesc_FCN>
+    <TipsDesc_EN></TipsDesc_EN>
+</ResGuideBattleTaskDesc>
+<ResGuideBattleTaskDesc version="1">
+    <ResID>10003 </ResID>
+    <BattleSceneType>4 </BattleSceneType>
+    <TaskType>1 </TaskType>
+    <ActiveParam type="ResGuideBattleTaskActiveDesc">
+        <Type>0 </Type>
+        <Param>0 0 </Param>
+    </ActiveParam>
+    <CompleteParams type="ResGuideBattleTaskCompleteDesc">
+        <Type>1 </Type>
+        <Param>20000745 3 </Param>
+        <Desc_SCN>击败&lt;color=#5aff4b&gt;3个兽人战士&lt;/color&gt;</Desc_SCN>
+        <Desc_FCN>击败&lt;color=#5aff4b&gt;3个兽人战士&lt;/color&gt;</Desc_FCN>
+        <Desc_EN>Slay 3 Orc Warriors.</Desc_EN>
+    </CompleteParams>
+    <CompleteParams type="ResGuideBattleTaskCompleteDesc">
+        <Type>0 </Type>
+        <Param>0 0 </Param>
+        <Desc_SCN></Desc_SCN>
+        <Desc_FCN></Desc_FCN>
+        <Desc_EN></Desc_EN>
+    </CompleteParams>
+    <TaskName_SCN>解救艾米({0}/{1})</TaskName_SCN>
+    <TaskName_FCN>解救艾米({0}/{1})</TaskName_FCN>
+    <TaskName_EN>Save Aimee</TaskName_EN>
+    <TipsDesc_SCN>击败兽人战士({0}/{1})</TipsDesc_SCN>
+    <TipsDesc_FCN>击败兽人战士({0}/{1})</TipsDesc_FCN>
+    <TipsDesc_EN>Defeat Orc Warriors.</TipsDesc_EN>
+</ResGuideBattleTaskDesc>
+<ResGuideBattleTaskDesc version="1">
+    <ResID>10004 </ResID>
+    <BattleSceneType>4 </BattleSceneType>
+    <TaskType>1 </TaskType>
+    <ActiveParam type="ResGuideBattleTaskActiveDesc">
+        <Type>0 </Type>
+        <Param>0 0 </Param>
+    </ActiveParam>
+    <CompleteParams type="ResGuideBattleTaskCompleteDesc">
+        <Type>0 </Type>
+        <Param>0 0 </Param>
+        <Desc_SCN>&lt;color=#5aff4b&gt;跟随指引&lt;/color&gt;，探查兽人仪式</Desc_SCN>
+        <Desc_FCN>&lt;color=#5aff4b&gt;跟随指引&lt;/color&gt;，探查兽人仪式</Desc_FCN>
+        <Desc_EN>Investigate Orcish rituals.</Desc_EN>
+    </CompleteParams>
+    <CompleteParams type="ResGuideBattleTaskCompleteDesc">
+        <Type>0 </Type>
+        <Param>0 0 </Param>
+        <Desc_SCN></Desc_SCN>
+        <Desc_FCN></Desc_FCN>
+        <Desc_EN></Desc_EN>
+    </CompleteParams>
+    <TaskName_SCN>兽人仪式</TaskName_SCN>
+    <TaskName_FCN>兽人仪式</TaskName_FCN>
+    <TaskName_EN>Orcish Ritual</TaskName_EN>
+    <TipsDesc_SCN></TipsDesc_SCN>
+    <TipsDesc_FCN></TipsDesc_FCN>
+    <TipsDesc_EN></TipsDesc_EN>
+</ResGuideBattleTaskDesc>
+<ResGuideBattleTaskDesc version="1">
+    <ResID>10005 </ResID>
+    <BattleSceneType>4 </BattleSceneType>
+    <TaskType>1 </TaskType>
+    <ActiveParam type="ResGuideBattleTaskActiveDesc">
+        <Type>0 </Type>
+        <Param>0 0 </Param>
+    </ActiveParam>
+    <CompleteParams type="ResGuideBattleTaskCompleteDesc">
+        <Type>1 </Type>
+        <Param>20000743 3 </Param>
+        <Desc_SCN>&lt;color=#5aff4b&gt;使用集火&lt;/color&gt;，摧毁&lt;color=#5aff4b&gt;3个水晶&lt;/color&gt;</Desc_SCN>
+        <Desc_FCN>&lt;color=#5aff4b&gt;使用集火&lt;/color&gt;，摧毁&lt;color=#5aff4b&gt;3个水晶&lt;/color&gt;</Desc_FCN>
+        <Desc_EN>Destroy 3 crystals by focusing fire.</Desc_EN>
+    </CompleteParams>
+    <CompleteParams type="ResGuideBattleTaskCompleteDesc">
+        <Type>0 </Type>
+        <Param>0 0 </Param>
+        <Desc_SCN></Desc_SCN>
+        <Desc_FCN></Desc_FCN>
+        <Desc_EN></Desc_EN>
+    </CompleteParams>
+    <TaskName_SCN>魔能水晶({0}/{1})</TaskName_SCN>
+    <TaskName_FCN>魔能水晶({0}/{1})</TaskName_FCN>
+    <TaskName_EN>Magic Crystals</TaskName_EN>
+    <TipsDesc_SCN>摧毁魔能水晶({0}/{1})</TipsDesc_SCN>
+    <TipsDesc_FCN>摧毁魔能水晶({0}/{1})</TipsDesc_FCN>
+    <TipsDesc_EN>Destroy Magic Crystals.</TipsDesc_EN>
+</ResGuideBattleTaskDesc>
+<ResGuideBattleTaskDesc version="1">
+    <ResID>10006 </ResID>
+    <BattleSceneType>4 </BattleSceneType>
+    <TaskType>1 </TaskType>
+    <ActiveParam type="ResGuideBattleTaskActiveDesc">
+        <Type>0 </Type>
+        <Param>0 0 </Param>
+    </ActiveParam>
+    <CompleteParams type="ResGuideBattleTaskCompleteDesc">
+        <Type>1 </Type>
+        <Param>20000744 1 </Param>
+        <Desc_SCN>攻击兽人战神</Desc_SCN>
+        <Desc_FCN>攻击兽人战神</Desc_FCN>
+        <Desc_EN>Attack the Orc Champion.</Desc_EN>
+    </CompleteParams>
+    <CompleteParams type="ResGuideBattleTaskCompleteDesc">
+        <Type>0 </Type>
+        <Param>0 0 </Param>
+        <Desc_SCN></Desc_SCN>
+        <Desc_FCN></Desc_FCN>
+        <Desc_EN></Desc_EN>
+    </CompleteParams>
+    <TaskName_SCN>兽人战神</TaskName_SCN>
+    <TaskName_FCN>兽人战神</TaskName_FCN>
+    <TaskName_EN>Orc Champion</TaskName_EN>
+    <TipsDesc_SCN></TipsDesc_SCN>
+    <TipsDesc_FCN></TipsDesc_FCN>
+    <TipsDesc_EN></TipsDesc_EN>
+</ResGuideBattleTaskDesc>
+<ResGuideBattleTaskDesc version="1">
+    <ResID>10007 </ResID>
+    <BattleSceneType>4 </BattleSceneType>
+    <TaskType>0 </TaskType>
+    <ActiveParam type="ResGuideBattleTaskActiveDesc">
+        <Type>0 </Type>
+        <Param>0 0 </Param>
+    </ActiveParam>
+    <CompleteParams type="ResGuideBattleTaskCompleteDesc">
+        <Type>7 </Type>
+        <Param>0 3 </Param>
+        <Desc_SCN>&lt;color=#5aff4b&gt;使用跟随&lt;/color&gt;，躲避&lt;color=#5aff4b&gt;3次技能&lt;/color&gt;</Desc_SCN>
+        <Desc_FCN>&lt;color=#5aff4b&gt;使用跟随&lt;/color&gt;，躲避&lt;color=#5aff4b&gt;3次技能&lt;/color&gt;</Desc_FCN>
+        <Desc_EN>Use Follow to dodge 3 skills.</Desc_EN>
+    </CompleteParams>
+    <CompleteParams type="ResGuideBattleTaskCompleteDesc">
+        <Type>0 </Type>
+        <Param>0 0 </Param>
+        <Desc_SCN></Desc_SCN>
+        <Desc_FCN></Desc_FCN>
+        <Desc_EN></Desc_EN>
+    </CompleteParams>
+    <TaskName_SCN>躲避技能({0}/{1})</TaskName_SCN>
+    <TaskName_FCN>躲避技能({0}/{1})</TaskName_FCN>
+    <TaskName_EN>Dodge Skills</TaskName_EN>
+    <TipsDesc_SCN>躲避技能({0}/{1})</TipsDesc_SCN>
+    <TipsDesc_FCN>躲避技能({0}/{1})</TipsDesc_FCN>
+    <TipsDesc_EN>Dodge skills.</TipsDesc_EN>
+</ResGuideBattleTaskDesc>
+<ResGuideBattleTaskDesc version="1">
+    <ResID>20001 </ResID>
+    <BattleSceneType>5 </BattleSceneType>
+    <TaskType>1 </TaskType>
+    <ActiveParam type="ResGuideBattleTaskActiveDesc">
+        <Type>0 </Type>
+        <Param>0 0 </Param>
+    </ActiveParam>
+    <CompleteParams type="ResGuideBattleTaskCompleteDesc">
+        <Type>0 </Type>
+        <Param>0 0 </Param>
+        <Desc_SCN>&lt;color=#5aff4b&gt;跟随指引&lt;/color&gt;，接管哨站</Desc_SCN>
+        <Desc_FCN>&lt;color=#5aff4b&gt;跟随指引&lt;/color&gt;，接管哨站</Desc_FCN>
+        <Desc_EN>Take over the outpost.</Desc_EN>
+    </CompleteParams>
+    <CompleteParams type="ResGuideBattleTaskCompleteDesc">
+        <Type>0 </Type>
+        <Param>0 0 </Param>
+        <Desc_SCN></Desc_SCN>
+        <Desc_FCN></Desc_FCN>
+        <Desc_EN></Desc_EN>
+    </CompleteParams>
+    <TaskName_SCN>接管哨站</TaskName_SCN>
+    <TaskName_FCN>接管哨站</TaskName_FCN>
+    <TaskName_EN>Outpost Takeover</TaskName_EN>
+    <TipsDesc_SCN></TipsDesc_SCN>
+    <TipsDesc_FCN></TipsDesc_FCN>
+    <TipsDesc_EN></TipsDesc_EN>
+</ResGuideBattleTaskDesc>
+<ResGuideBattleTaskDesc version="1">
+    <ResID>20002 </ResID>
+    <BattleSceneType>5 </BattleSceneType>
+    <TaskType>1 </TaskType>
+    <ActiveParam type="ResGuideBattleTaskActiveDesc">
+        <Type>0 </Type>
+        <Param>0 0 </Param>
+    </ActiveParam>
+    <CompleteParams type="ResGuideBattleTaskCompleteDesc">
+        <Type>2 </Type>
+        <Param>20000707 3 </Param>
+        <Desc_SCN>训练&lt;color=#5aff4b&gt;3个矮人步兵&lt;/color&gt;</Desc_SCN>
+        <Desc_FCN>训练&lt;color=#5aff4b&gt;3个矮人步兵&lt;/color&gt;</Desc_FCN>
+        <Desc_EN>Train 3 Dwarf Infantry.</Desc_EN>
+    </CompleteParams>
+    <CompleteParams type="ResGuideBattleTaskCompleteDesc">
+        <Type>0 </Type>
+        <Param>0 0 </Param>
+        <Desc_SCN></Desc_SCN>
+        <Desc_FCN></Desc_FCN>
+        <Desc_EN></Desc_EN>
+    </CompleteParams>
+    <TaskName_SCN>训练士兵({0}/{1})</TaskName_SCN>
+    <TaskName_FCN>训练士兵({0}/{1})</TaskName_FCN>
+    <TaskName_EN>Train Soldiers</TaskName_EN>
+    <TipsDesc_SCN>训练矮人步兵({0}/{1})</TipsDesc_SCN>
+    <TipsDesc_FCN>训练矮人步兵({0}/{1})</TipsDesc_FCN>
+    <TipsDesc_EN>Train Dwarf Infantry.</TipsDesc_EN>
+</ResGuideBattleTaskDesc>
+<ResGuideBattleTaskDesc version="1">
+    <ResID>20003 </ResID>
+    <BattleSceneType>5 </BattleSceneType>
+    <TaskType>1 </TaskType>
+    <ActiveParam type="ResGuideBattleTaskActiveDesc">
+        <Type>0 </Type>
+        <Param>0 0 </Param>
+    </ActiveParam>
+    <CompleteParams type="ResGuideBattleTaskCompleteDesc">
+        <Type>2 </Type>
+        <Param>20000707 2 </Param>
+        <Desc_SCN>训练2个矮人步兵({0}/{1})</Desc_SCN>
+        <Desc_FCN>训练2个矮人步兵({0}/{1})</Desc_FCN>
+        <Desc_EN>Train 2 Dwarf Infantry.</Desc_EN>
+    </CompleteParams>
+    <CompleteParams type="ResGuideBattleTaskCompleteDesc">
+        <Type>0 </Type>
+        <Param>0 0 </Param>
+        <Desc_SCN></Desc_SCN>
+        <Desc_FCN></Desc_FCN>
+        <Desc_EN></Desc_EN>
+    </CompleteParams>
+    <TaskName_SCN>训练部队</TaskName_SCN>
+    <TaskName_FCN>训练部队</TaskName_FCN>
+    <TaskName_EN>Train Troops</TaskName_EN>
+    <TipsDesc_SCN>训练矮人步兵({0}/{1})</TipsDesc_SCN>
+    <TipsDesc_FCN>训练矮人步兵({0}/{1})</TipsDesc_FCN>
+    <TipsDesc_EN>Train Dwarf Infantry.</TipsDesc_EN>
+</ResGuideBattleTaskDesc>
+<ResGuideBattleTaskDesc version="1">
+    <ResID>20004 </ResID>
+    <BattleSceneType>5 </BattleSceneType>
+    <TaskType>1 </TaskType>
+    <ActiveParam type="ResGuideBattleTaskActiveDesc">
+        <Type>0 </Type>
+        <Param>0 0 </Param>
+    </ActiveParam>
+    <CompleteParams type="ResGuideBattleTaskCompleteDesc">
+        <Type>0 </Type>
+        <Param>0 0 </Param>
+        <Desc_SCN>&lt;color=#5aff4b&gt;跟随指引&lt;/color&gt;，寻找兽人踪迹</Desc_SCN>
+        <Desc_FCN>&lt;color=#5aff4b&gt;跟随指引&lt;/color&gt;，寻找兽人踪迹</Desc_FCN>
+        <Desc_EN>Search for tracers of Orcs.</Desc_EN>
+    </CompleteParams>
+    <CompleteParams type="ResGuideBattleTaskCompleteDesc">
+        <Type>0 </Type>
+        <Param>0 0 </Param>
+        <Desc_SCN></Desc_SCN>
+        <Desc_FCN></Desc_FCN>
+        <Desc_EN></Desc_EN>
+    </CompleteParams>
+    <TaskName_SCN>追踪兽人战神</TaskName_SCN>
+    <TaskName_FCN>追踪兽人战神</TaskName_FCN>
+    <TaskName_EN>Track Down the Orc Champion</TaskName_EN>
+    <TipsDesc_SCN></TipsDesc_SCN>
+    <TipsDesc_FCN></TipsDesc_FCN>
+    <TipsDesc_EN></TipsDesc_EN>
+</ResGuideBattleTaskDesc>
+<ResGuideBattleTaskDesc version="1">
+    <ResID>20005 </ResID>
+    <BattleSceneType>5 </BattleSceneType>
+    <TaskType>1 </TaskType>
+    <ActiveParam type="ResGuideBattleTaskActiveDesc">
+        <Type>0 </Type>
+        <Param>0 0 </Param>
+    </ActiveParam>
+    <CompleteParams type="ResGuideBattleTaskCompleteDesc">
+        <Type>1 </Type>
+        <Param>20000745 2 </Param>
+        <Desc_SCN>击败兽人部队，&lt;color=#5aff4b&gt;截获金币&lt;/color&gt;</Desc_SCN>
+        <Desc_FCN>击败兽人部队，&lt;color=#5aff4b&gt;截获金币&lt;/color&gt;</Desc_FCN>
+        <Desc_EN>Snatch Gold from Orcs.</Desc_EN>
+    </CompleteParams>
+    <CompleteParams type="ResGuideBattleTaskCompleteDesc">
+        <Type>0 </Type>
+        <Param>0 0 </Param>
+        <Desc_SCN></Desc_SCN>
+        <Desc_FCN></Desc_FCN>
+        <Desc_EN></Desc_EN>
+    </CompleteParams>
+    <TaskName_SCN>截获矿车</TaskName_SCN>
+    <TaskName_FCN>截获矿车</TaskName_FCN>
+    <TaskName_EN>Miner Interception</TaskName_EN>
+    <TipsDesc_SCN></TipsDesc_SCN>
+    <TipsDesc_FCN></TipsDesc_FCN>
+    <TipsDesc_EN></TipsDesc_EN>
+</ResGuideBattleTaskDesc>
+<ResGuideBattleTaskDesc version="1">
+    <ResID>20006 </ResID>
+    <BattleSceneType>5 </BattleSceneType>
+    <TaskType>1 </TaskType>
+    <ActiveParam type="ResGuideBattleTaskActiveDesc">
+        <Type>0 </Type>
+        <Param>0 0 </Param>
+    </ActiveParam>
+    <CompleteParams type="ResGuideBattleTaskCompleteDesc">
+        <Type>2 </Type>
+        <Param>20000708 2 </Param>
+        <Desc_SCN>训练&lt;color=#5aff4b&gt;2个弩手&lt;/color&gt;</Desc_SCN>
+        <Desc_FCN>训练&lt;color=#5aff4b&gt;2个弩手&lt;/color&gt;</Desc_FCN>
+        <Desc_EN>Train 2 Crossbowmen.</Desc_EN>
+    </CompleteParams>
+    <CompleteParams type="ResGuideBattleTaskCompleteDesc">
+        <Type>0 </Type>
+        <Param>0 0 </Param>
+        <Desc_SCN></Desc_SCN>
+        <Desc_FCN></Desc_FCN>
+        <Desc_EN></Desc_EN>
+    </CompleteParams>
+    <TaskName_SCN>训练弩手({0}/{1})</TaskName_SCN>
+    <TaskName_FCN>训练弩手({0}/{1})</TaskName_FCN>
+    <TaskName_EN>Train Crossbowmen</TaskName_EN>
+    <TipsDesc_SCN>训练弩手({0}/{1})</TipsDesc_SCN>
+    <TipsDesc_FCN>训练弩手({0}/{1})</TipsDesc_FCN>
+    <TipsDesc_EN>Train Crossbowmen</TipsDesc_EN>
+</ResGuideBattleTaskDesc>
+<ResGuideBattleTaskDesc version="1">
+    <ResID>20007 </ResID>
+    <BattleSceneType>5 </BattleSceneType>
+    <TaskType>1 </TaskType>
+    <ActiveParam type="ResGuideBattleTaskActiveDesc">
+        <Type>0 </Type>
+        <Param>0 0 </Param>
+    </ActiveParam>
+    <CompleteParams type="ResGuideBattleTaskCompleteDesc">
+        <Type>0 </Type>
+        <Param>0 0 </Param>
+        <Desc_SCN>&lt;color=#5aff4b&gt;跟随指引&lt;/color&gt;，寻找兽人踪迹</Desc_SCN>
+        <Desc_FCN>&lt;color=#5aff4b&gt;跟随指引&lt;/color&gt;，寻找兽人踪迹</Desc_FCN>
+        <Desc_EN>Search for tracers of Orcs.</Desc_EN>
+    </CompleteParams>
+    <CompleteParams type="ResGuideBattleTaskCompleteDesc">
+        <Type>0 </Type>
+        <Param>0 0 </Param>
+        <Desc_SCN></Desc_SCN>
+        <Desc_FCN></Desc_FCN>
+        <Desc_EN></Desc_EN>
+    </CompleteParams>
+    <TaskName_SCN>继续追踪</TaskName_SCN>
+    <TaskName_FCN>继续追踪</TaskName_FCN>
+    <TaskName_EN>Track On</TaskName_EN>
+    <TipsDesc_SCN></TipsDesc_SCN>
+    <TipsDesc_FCN></TipsDesc_FCN>
+    <TipsDesc_EN></TipsDesc_EN>
+</ResGuideBattleTaskDesc>
+<ResGuideBattleTaskDesc version="1">
+    <ResID>20008 </ResID>
+    <BattleSceneType>5 </BattleSceneType>
+    <TaskType>1 </TaskType>
+    <ActiveParam type="ResGuideBattleTaskActiveDesc">
+        <Type>0 </Type>
+        <Param>0 0 </Param>
+    </ActiveParam>
+    <CompleteParams type="ResGuideBattleTaskCompleteDesc">
+        <Type>1 </Type>
+        <Param>20000745 2 </Param>
+        <Desc_SCN>消灭兽人先锋部队</Desc_SCN>
+        <Desc_FCN>消灭兽人先锋部队</Desc_FCN>
+        <Desc_EN>Eliminate Orc Vanguard</Desc_EN>
+    </CompleteParams>
+    <CompleteParams type="ResGuideBattleTaskCompleteDesc">
+        <Type>0 </Type>
+        <Param>0 0 </Param>
+        <Desc_SCN></Desc_SCN>
+        <Desc_FCN></Desc_FCN>
+        <Desc_EN></Desc_EN>
+    </CompleteParams>
+    <TaskName_SCN>消灭兽人先锋部队</TaskName_SCN>
+    <TaskName_FCN>消灭兽人先锋部队</TaskName_FCN>
+    <TaskName_EN>Eliminate Orc Vanguard</TaskName_EN>
+    <TipsDesc_SCN></TipsDesc_SCN>
+    <TipsDesc_FCN></TipsDesc_FCN>
+    <TipsDesc_EN></TipsDesc_EN>
+</ResGuideBattleTaskDesc>
+<ResGuideBattleTaskDesc version="1">
+    <ResID>20009 </ResID>
+    <BattleSceneType>5 </BattleSceneType>
+    <TaskType>1 </TaskType>
+    <ActiveParam type="ResGuideBattleTaskActiveDesc">
+        <Type>0 </Type>
+        <Param>0 0 </Param>
+    </ActiveParam>
+    <CompleteParams type="ResGuideBattleTaskCompleteDesc">
+        <Type>2 </Type>
+        <Param>20000707 2 </Param>
+        <Desc_SCN>训练2个弩手({0}/{1})</Desc_SCN>
+        <Desc_FCN>训练2个弩手({0}/{1})</Desc_FCN>
+        <Desc_EN>Train 2 Crossbowmen.</Desc_EN>
+    </CompleteParams>
+    <CompleteParams type="ResGuideBattleTaskCompleteDesc">
+        <Type>0 </Type>
+        <Param>0 0 </Param>
+        <Desc_SCN></Desc_SCN>
+        <Desc_FCN></Desc_FCN>
+        <Desc_EN></Desc_EN>
+    </CompleteParams>
+    <TaskName_SCN>训练部队</TaskName_SCN>
+    <TaskName_FCN>训练部队</TaskName_FCN>
+    <TaskName_EN>Train Troops</TaskName_EN>
+    <TipsDesc_SCN>训练弩手({0}/{1})</TipsDesc_SCN>
+    <TipsDesc_FCN>训练弩手({0}/{1})</TipsDesc_FCN>
+    <TipsDesc_EN>Train Crossbowmen</TipsDesc_EN>
+</ResGuideBattleTaskDesc>
+<ResGuideBattleTaskDesc version="1">
+    <ResID>20010 </ResID>
+    <BattleSceneType>5 </BattleSceneType>
+    <TaskType>1 </TaskType>
+    <ActiveParam type="ResGuideBattleTaskActiveDesc">
+        <Type>0 </Type>
+        <Param>0 0 </Param>
+    </ActiveParam>
+    <CompleteParams type="ResGuideBattleTaskCompleteDesc">
+        <Type>0 </Type>
+        <Param>0 0 </Param>
+        <Desc_SCN>移动到目标点</Desc_SCN>
+        <Desc_FCN>移动到目标点</Desc_FCN>
+        <Desc_EN>Move to the target location.</Desc_EN>
+    </CompleteParams>
+    <CompleteParams type="ResGuideBattleTaskCompleteDesc">
+        <Type>0 </Type>
+        <Param>0 0 </Param>
+        <Desc_SCN></Desc_SCN>
+        <Desc_FCN></Desc_FCN>
+        <Desc_EN></Desc_EN>
+    </CompleteParams>
+    <TaskName_SCN>追踪兽人战神3</TaskName_SCN>
+    <TaskName_FCN>追踪兽人战神3</TaskName_FCN>
+    <TaskName_EN>Track Down the Orc Champion3</TaskName_EN>
+    <TipsDesc_SCN></TipsDesc_SCN>
+    <TipsDesc_FCN></TipsDesc_FCN>
+    <TipsDesc_EN></TipsDesc_EN>
+</ResGuideBattleTaskDesc>
+<ResGuideBattleTaskDesc version="1">
+    <ResID>20011 </ResID>
+    <BattleSceneType>5 </BattleSceneType>
+    <TaskType>1 </TaskType>
+    <ActiveParam type="ResGuideBattleTaskActiveDesc">
+        <Type>0 </Type>
+        <Param>0 0 </Param>
+    </ActiveParam>
+    <CompleteParams type="ResGuideBattleTaskCompleteDesc">
+        <Type>1 </Type>
+        <Param>20000748 1 </Param>
+        <Desc_SCN>摧毁兽人的路障</Desc_SCN>
+        <Desc_FCN>摧毁兽人的路障</Desc_FCN>
+        <Desc_EN>Destroy Orcish Roadblock.</Desc_EN>
+    </CompleteParams>
+    <CompleteParams type="ResGuideBattleTaskCompleteDesc">
+        <Type>0 </Type>
+        <Param>0 0 </Param>
+        <Desc_SCN></Desc_SCN>
+        <Desc_FCN></Desc_FCN>
+        <Desc_EN></Desc_EN>
+    </CompleteParams>
+    <TaskName_SCN>摧毁路障</TaskName_SCN>
+    <TaskName_FCN>摧毁路障</TaskName_FCN>
+    <TaskName_EN>Destroy the Roadblock</TaskName_EN>
+    <TipsDesc_SCN></TipsDesc_SCN>
+    <TipsDesc_FCN></TipsDesc_FCN>
+    <TipsDesc_EN></TipsDesc_EN>
+</ResGuideBattleTaskDesc>
+<ResGuideBattleTaskDesc version="1">
+    <ResID>20012 </ResID>
+    <BattleSceneType>5 </BattleSceneType>
+    <TaskType>1 </TaskType>
+    <ActiveParam type="ResGuideBattleTaskActiveDesc">
+        <Type>0 </Type>
+        <Param>0 0 </Param>
+    </ActiveParam>
+    <CompleteParams type="ResGuideBattleTaskCompleteDesc">
+        <Type>1 </Type>
+        <Param>20000767 1 </Param>
+        <Desc_SCN>击败兽人战神</Desc_SCN>
+        <Desc_FCN>击败兽人战神</Desc_FCN>
+        <Desc_EN>Defeat the Orc Champion.</Desc_EN>
+    </CompleteParams>
+    <CompleteParams type="ResGuideBattleTaskCompleteDesc">
+        <Type>0 </Type>
+        <Param>0 0 </Param>
+        <Desc_SCN></Desc_SCN>
+        <Desc_FCN></Desc_FCN>
+        <Desc_EN></Desc_EN>
+    </CompleteParams>
+    <TaskName_SCN>阻止阴谋</TaskName_SCN>
+    <TaskName_FCN>阻止阴谋</TaskName_FCN>
+    <TaskName_EN>Stop Their Plan</TaskName_EN>
+    <TipsDesc_SCN></TipsDesc_SCN>
+    <TipsDesc_FCN></TipsDesc_FCN>
+    <TipsDesc_EN></TipsDesc_EN>
+</ResGuideBattleTaskDesc>
+<ResGuideBattleTaskDesc version="1">
+    <ResID>30001 </ResID>
+    <BattleSceneType>6 </BattleSceneType>
+    <TaskType>1 </TaskType>
+    <ActiveParam type="ResGuideBattleTaskActiveDesc">
+        <Type>0 </Type>
+        <Param>0 0 </Param>
+    </ActiveParam>
+    <CompleteParams type="ResGuideBattleTaskCompleteDesc">
+        <Type>0 </Type>
+        <Param>0 0 </Param>
+        <Desc_SCN>&lt;color=#5aff4b&gt;跟随指引&lt;/color&gt;，前往金矿位置</Desc_SCN>
+        <Desc_FCN>&lt;color=#5aff4b&gt;跟随指引&lt;/color&gt;，前往金矿位置</Desc_FCN>
+        <Desc_EN>Move to the mine.</Desc_EN>
+    </CompleteParams>
+    <CompleteParams type="ResGuideBattleTaskCompleteDesc">
+        <Type>0 </Type>
+        <Param>0 0 </Param>
+        <Desc_SCN></Desc_SCN>
+        <Desc_FCN></Desc_FCN>
+        <Desc_EN></Desc_EN>
+    </CompleteParams>
+    <TaskName_SCN>前往金矿</TaskName_SCN>
+    <TaskName_FCN>前往金矿</TaskName_FCN>
+    <TaskName_EN>To the Mine</TaskName_EN>
+    <TipsDesc_SCN></TipsDesc_SCN>
+    <TipsDesc_FCN></TipsDesc_FCN>
+    <TipsDesc_EN></TipsDesc_EN>
+</ResGuideBattleTaskDesc>
+<ResGuideBattleTaskDesc version="1">
+    <ResID>30002 </ResID>
+    <BattleSceneType>6 </BattleSceneType>
+    <TaskType>1 </TaskType>
+    <ActiveParam type="ResGuideBattleTaskActiveDesc">
+        <Type>0 </Type>
+        <Param>0 0 </Param>
+    </ActiveParam>
+    <CompleteParams type="ResGuideBattleTaskCompleteDesc">
+        <Type>0 </Type>
+        <Param>0 0 </Param>
+        <Desc_SCN>&lt;color=#5aff4b&gt;消灭&lt;/color&gt;占据金矿的怪物</Desc_SCN>
+        <Desc_FCN>&lt;color=#5aff4b&gt;消灭&lt;/color&gt;占据金矿的怪物</Desc_FCN>
+        <Desc_EN>Secure the mine.</Desc_EN>
+    </CompleteParams>
+    <CompleteParams type="ResGuideBattleTaskCompleteDesc">
+        <Type>0 </Type>
+        <Param>0 0 </Param>
+        <Desc_SCN></Desc_SCN>
+        <Desc_FCN></Desc_FCN>
+        <Desc_EN></Desc_EN>
+    </CompleteParams>
+    <TaskName_SCN>攻占金矿</TaskName_SCN>
+    <TaskName_FCN>攻占金矿</TaskName_FCN>
+    <TaskName_EN>Take the Mine</TaskName_EN>
+    <TipsDesc_SCN></TipsDesc_SCN>
+    <TipsDesc_FCN></TipsDesc_FCN>
+    <TipsDesc_EN></TipsDesc_EN>
+</ResGuideBattleTaskDesc>
+<ResGuideBattleTaskDesc version="1">
+    <ResID>30003 </ResID>
+    <BattleSceneType>6 </BattleSceneType>
+    <TaskType>1 </TaskType>
+    <ActiveParam type="ResGuideBattleTaskActiveDesc">
+        <Type>0 </Type>
+        <Param>0 0 </Param>
+    </ActiveParam>
+    <CompleteParams type="ResGuideBattleTaskCompleteDesc">
+        <Type>5 </Type>
+        <Param>20000717 1 </Param>
+        <Desc_SCN>建造一个&lt;color=#5aff4b&gt;金矿&lt;/color&gt;</Desc_SCN>
+        <Desc_FCN>建造一个&lt;color=#5aff4b&gt;金矿&lt;/color&gt;</Desc_FCN>
+        <Desc_EN>Build your mine.</Desc_EN>
+    </CompleteParams>
+    <CompleteParams type="ResGuideBattleTaskCompleteDesc">
+        <Type>0 </Type>
+        <Param>0 0 </Param>
+        <Desc_SCN></Desc_SCN>
+        <Desc_FCN></Desc_FCN>
+        <Desc_EN></Desc_EN>
+    </CompleteParams>
+    <TaskName_SCN>建造金矿</TaskName_SCN>
+    <TaskName_FCN>建造金矿</TaskName_FCN>
+    <TaskName_EN>Build Your Mine</TaskName_EN>
+    <TipsDesc_SCN></TipsDesc_SCN>
+    <TipsDesc_FCN></TipsDesc_FCN>
+    <TipsDesc_EN></TipsDesc_EN>
+</ResGuideBattleTaskDesc>
+<ResGuideBattleTaskDesc version="1">
+    <ResID>30004 </ResID>
+    <BattleSceneType>6 </BattleSceneType>
+    <TaskType>1 </TaskType>
+    <ActiveParam type="ResGuideBattleTaskActiveDesc">
+        <Type>0 </Type>
+        <Param>0 0 </Param>
+    </ActiveParam>
+    <CompleteParams type="ResGuideBattleTaskCompleteDesc">
+        <Type>5 </Type>
+        <Param>20000718 2 </Param>
+        <Desc_SCN>建造&lt;color=#5aff4b&gt;2个箭塔&lt;/color&gt;</Desc_SCN>
+        <Desc_FCN>建造&lt;color=#5aff4b&gt;2个箭塔&lt;/color&gt;</Desc_FCN>
+        <Desc_EN>Build 2 Turrets.</Desc_EN>
+    </CompleteParams>
+    <CompleteParams type="ResGuideBattleTaskCompleteDesc">
+        <Type>0 </Type>
+        <Param>0 0 </Param>
+        <Desc_SCN></Desc_SCN>
+        <Desc_FCN></Desc_FCN>
+        <Desc_EN></Desc_EN>
+    </CompleteParams>
+    <TaskName_SCN>建造箭塔({0}/{1})</TaskName_SCN>
+    <TaskName_FCN>建造箭塔({0}/{1})</TaskName_FCN>
+    <TaskName_EN>Build Turrets</TaskName_EN>
+    <TipsDesc_SCN>建造箭塔({0}/{1})</TipsDesc_SCN>
+    <TipsDesc_FCN>建造箭塔({0}/{1})</TipsDesc_FCN>
+    <TipsDesc_EN>Build Turrets</TipsDesc_EN>
+</ResGuideBattleTaskDesc>
+<ResGuideBattleTaskDesc version="1">
+    <ResID>30005 </ResID>
+    <BattleSceneType>6 </BattleSceneType>
+    <TaskType>1 </TaskType>
+    <ActiveParam type="ResGuideBattleTaskActiveDesc">
+        <Type>0 </Type>
+        <Param>0 0 </Param>
+    </ActiveParam>
+    <CompleteParams type="ResGuideBattleTaskCompleteDesc">
+        <Type>8 </Type>
+        <Param>0 1500 </Param>
+        <Desc_SCN>&lt;color=#5aff4b&gt;守卫金矿&lt;/color&gt;，开采&lt;color=#5aff4b&gt;1500&lt;/color&gt;金币</Desc_SCN>
+        <Desc_FCN>&lt;color=#5aff4b&gt;守卫金矿&lt;/color&gt;，开采&lt;color=#5aff4b&gt;1500&lt;/color&gt;金币</Desc_FCN>
+        <Desc_EN>Guard your mine until 1500 Gold has been mined.</Desc_EN>
+    </CompleteParams>
+    <CompleteParams type="ResGuideBattleTaskCompleteDesc">
+        <Type>0 </Type>
+        <Param>0 0 </Param>
+        <Desc_SCN></Desc_SCN>
+        <Desc_FCN></Desc_FCN>
+        <Desc_EN></Desc_EN>
+    </CompleteParams>
+    <TaskName_SCN>守卫金矿({0}/{1})</TaskName_SCN>
+    <TaskName_FCN>守卫金矿({0}/{1})</TaskName_FCN>
+    <TaskName_EN>Guard the Mine</TaskName_EN>
+    <TipsDesc_SCN></TipsDesc_SCN>
+    <TipsDesc_FCN></TipsDesc_FCN>
+    <TipsDesc_EN></TipsDesc_EN>
+</ResGuideBattleTaskDesc>
+<ResGuideBattleTaskDesc version="1">
+    <ResID>40001 </ResID>
+    <BattleSceneType>7 </BattleSceneType>
+    <TaskType>1 </TaskType>
+    <ActiveParam type="ResGuideBattleTaskActiveDesc">
+        <Type>0 </Type>
+        <Param>0 0 </Param>
+    </ActiveParam>
+    <CompleteParams type="ResGuideBattleTaskCompleteDesc">
+        <Type>4 </Type>
+        <Param>17001001 0 </Param>
+        <Desc_SCN>升级到&lt;color=#5aff4b&gt;二级城堡&lt;/color&gt;</Desc_SCN>
+        <Desc_FCN>升级到&lt;color=#5aff4b&gt;二级城堡&lt;/color&gt;</Desc_FCN>
+        <Desc_EN>Upgrade to Lv. 2 Castle.</Desc_EN>
+    </CompleteParams>
+    <CompleteParams type="ResGuideBattleTaskCompleteDesc">
+        <Type>0 </Type>
+        <Param>0 0 </Param>
+        <Desc_SCN></Desc_SCN>
+        <Desc_FCN></Desc_FCN>
+        <Desc_EN></Desc_EN>
+    </CompleteParams>
+    <TaskName_SCN>升级基地</TaskName_SCN>
+    <TaskName_FCN>升级基地</TaskName_FCN>
+    <TaskName_EN>Upgrade Your Base</TaskName_EN>
+    <TipsDesc_SCN></TipsDesc_SCN>
+    <TipsDesc_FCN></TipsDesc_FCN>
+    <TipsDesc_EN></TipsDesc_EN>
+</ResGuideBattleTaskDesc>
+<ResGuideBattleTaskDesc version="1">
+    <ResID>40002 </ResID>
+    <BattleSceneType>7 </BattleSceneType>
+    <TaskType>1 </TaskType>
+    <ActiveParam type="ResGuideBattleTaskActiveDesc">
+        <Type>0 </Type>
+        <Param>0 0 </Param>
+    </ActiveParam>
+    <CompleteParams type="ResGuideBattleTaskCompleteDesc">
+        <Type>2 </Type>
+        <Param>20000710 2 </Param>
+        <Desc_SCN>训练&lt;color=#5aff4b&gt;2个修女&lt;/color&gt;</Desc_SCN>
+        <Desc_FCN>训练&lt;color=#5aff4b&gt;2个修女&lt;/color&gt;</Desc_FCN>
+        <Desc_EN>Train 2 Clerics.</Desc_EN>
+    </CompleteParams>
+    <CompleteParams type="ResGuideBattleTaskCompleteDesc">
+        <Type>0 </Type>
+        <Param>0 0 </Param>
+        <Desc_SCN></Desc_SCN>
+        <Desc_FCN></Desc_FCN>
+        <Desc_EN></Desc_EN>
+    </CompleteParams>
+    <TaskName_SCN>训练修女({0}/{1})</TaskName_SCN>
+    <TaskName_FCN>训练修女({0}/{1})</TaskName_FCN>
+    <TaskName_EN>Train Clerics</TaskName_EN>
+    <TipsDesc_SCN>训练修女({0}/{1})</TipsDesc_SCN>
+    <TipsDesc_FCN>训练修女({0}/{1})</TipsDesc_FCN>
+    <TipsDesc_EN>Train Clerics</TipsDesc_EN>
+</ResGuideBattleTaskDesc>
+<ResGuideBattleTaskDesc version="1">
+    <ResID>40003 </ResID>
+    <BattleSceneType>7 </BattleSceneType>
+    <TaskType>1 </TaskType>
+    <ActiveParam type="ResGuideBattleTaskActiveDesc">
+        <Type>0 </Type>
+        <Param>0 0 </Param>
+    </ActiveParam>
+    <CompleteParams type="ResGuideBattleTaskCompleteDesc">
+        <Type>1 </Type>
+        <Param>20000756 1 </Param>
+        <Desc_SCN>击败&lt;color=#5aff4b&gt;圣甲虫&lt;/color&gt;</Desc_SCN>
+        <Desc_FCN>击败&lt;color=#5aff4b&gt;圣甲虫&lt;/color&gt;</Desc_FCN>
+        <Desc_EN>Slay the Holy Scarab.</Desc_EN>
+    </CompleteParams>
+    <CompleteParams type="ResGuideBattleTaskCompleteDesc">
+        <Type>0 </Type>
+        <Param>0 0 </Param>
+        <Desc_SCN></Desc_SCN>
+        <Desc_FCN></Desc_FCN>
+        <Desc_EN></Desc_EN>
+    </CompleteParams>
+    <TaskName_SCN>圣甲虫</TaskName_SCN>
+    <TaskName_FCN>圣甲虫</TaskName_FCN>
+    <TaskName_EN>The Holy Scarab</TaskName_EN>
+    <TipsDesc_SCN></TipsDesc_SCN>
+    <TipsDesc_FCN></TipsDesc_FCN>
+    <TipsDesc_EN></TipsDesc_EN>
+</ResGuideBattleTaskDesc>
+<ResGuideBattleTaskDesc version="1">
+    <ResID>40004 </ResID>
+    <BattleSceneType>7 </BattleSceneType>
+    <TaskType>1 </TaskType>
+    <ActiveParam type="ResGuideBattleTaskActiveDesc">
+        <Type>0 </Type>
+        <Param>0 0 </Param>
+    </ActiveParam>
+    <CompleteParams type="ResGuideBattleTaskCompleteDesc">
+        <Type>0 </Type>
+        <Param>0 0 </Param>
+        <Desc_SCN>寻找传送门的&lt;color=#5aff4b&gt;能量来源&lt;/color&gt;</Desc_SCN>
+        <Desc_FCN>寻找传送门的&lt;color=#5aff4b&gt;能量来源&lt;/color&gt;</Desc_FCN>
+        <Desc_EN>Locate the energy source of the portal.</Desc_EN>
+    </CompleteParams>
+    <CompleteParams type="ResGuideBattleTaskCompleteDesc">
+        <Type>0 </Type>
+        <Param>0 0 </Param>
+        <Desc_SCN></Desc_SCN>
+        <Desc_FCN></Desc_FCN>
+        <Desc_EN></Desc_EN>
+    </CompleteParams>
+    <TaskName_SCN>切断传送门</TaskName_SCN>
+    <TaskName_FCN>切断传送门</TaskName_FCN>
+    <TaskName_EN>Seal the Portal</TaskName_EN>
+    <TipsDesc_SCN></TipsDesc_SCN>
+    <TipsDesc_FCN></TipsDesc_FCN>
+    <TipsDesc_EN></TipsDesc_EN>
+</ResGuideBattleTaskDesc>
+<ResGuideBattleTaskDesc version="1">
+    <ResID>40005 </ResID>
+    <BattleSceneType>7 </BattleSceneType>
+    <TaskType>1 </TaskType>
+    <ActiveParam type="ResGuideBattleTaskActiveDesc">
+        <Type>0 </Type>
+        <Param>0 0 </Param>
+    </ActiveParam>
+    <CompleteParams type="ResGuideBattleTaskCompleteDesc">
+        <Type>0 </Type>
+        <Param>0 0 </Param>
+        <Desc_SCN>击败&lt;color=#5aff4b&gt;沙漠之王&lt;/color&gt;</Desc_SCN>
+        <Desc_FCN>击败&lt;color=#5aff4b&gt;沙漠之王&lt;/color&gt;</Desc_FCN>
+        <Desc_EN>Slay the Desert King.</Desc_EN>
+    </CompleteParams>
+    <CompleteParams type="ResGuideBattleTaskCompleteDesc">
+        <Type>0 </Type>
+        <Param>0 0 </Param>
+        <Desc_SCN></Desc_SCN>
+        <Desc_FCN></Desc_FCN>
+        <Desc_EN></Desc_EN>
+    </CompleteParams>
+    <TaskName_SCN>沙漠之王</TaskName_SCN>
+    <TaskName_FCN>沙漠之王</TaskName_FCN>
+    <TaskName_EN>The Desert King</TaskName_EN>
+    <TipsDesc_SCN></TipsDesc_SCN>
+    <TipsDesc_FCN></TipsDesc_FCN>
+    <TipsDesc_EN></TipsDesc_EN>
+</ResGuideBattleTaskDesc>
+<ResGuideBattleTaskDesc version="1">
+    <ResID>40006 </ResID>
+    <BattleSceneType>7 </BattleSceneType>
+    <TaskType>1 </TaskType>
+    <ActiveParam type="ResGuideBattleTaskActiveDesc">
+        <Type>0 </Type>
+        <Param>0 0 </Param>
+    </ActiveParam>
+    <CompleteParams type="ResGuideBattleTaskCompleteDesc">
+        <Type>1 </Type>
+        <Param>20000765 1 </Param>
+        <Desc_SCN>召唤沙漠之王，&lt;color=#5aff4b&gt;摧毁城墙&lt;/color&gt;</Desc_SCN>
+        <Desc_FCN>召唤沙漠之王，&lt;color=#5aff4b&gt;摧毁城墙&lt;/color&gt;</Desc_FCN>
+        <Desc_EN>Summon the Desert King to breach the wall.</Desc_EN>
+    </CompleteParams>
+    <CompleteParams type="ResGuideBattleTaskCompleteDesc">
+        <Type>0 </Type>
+        <Param>0 0 </Param>
+        <Desc_SCN></Desc_SCN>
+        <Desc_FCN></Desc_FCN>
+        <Desc_EN></Desc_EN>
+    </CompleteParams>
+    <TaskName_SCN>发起总攻</TaskName_SCN>
+    <TaskName_FCN>发起总攻</TaskName_FCN>
+    <TaskName_EN>Full-on Assault</TaskName_EN>
+    <TipsDesc_SCN></TipsDesc_SCN>
+    <TipsDesc_FCN></TipsDesc_FCN>
+    <TipsDesc_EN></TipsDesc_EN>
+</ResGuideBattleTaskDesc>
+<ResGuideBattleTaskDesc version="1">
+    <ResID>40007 </ResID>
+    <BattleSceneType>7 </BattleSceneType>
+    <TaskType>1 </TaskType>
+    <ActiveParam type="ResGuideBattleTaskActiveDesc">
+        <Type>0 </Type>
+        <Param>0 0 </Param>
+    </ActiveParam>
+    <CompleteParams type="ResGuideBattleTaskCompleteDesc">
+        <Type>0 </Type>
+        <Param>0 0 </Param>
+        <Desc_SCN>&lt;color=#5aff4b&gt;摧毁基地&lt;/color&gt;，粉碎兽人的阴谋</Desc_SCN>
+        <Desc_FCN>&lt;color=#5aff4b&gt;摧毁基地&lt;/color&gt;，粉碎兽人的阴谋</Desc_FCN>
+        <Desc_EN>Destroy enemy base to stop Orcs&apos; plan.</Desc_EN>
+    </CompleteParams>
+    <CompleteParams type="ResGuideBattleTaskCompleteDesc">
+        <Type>0 </Type>
+        <Param>0 0 </Param>
+        <Desc_SCN></Desc_SCN>
+        <Desc_FCN></Desc_FCN>
+        <Desc_EN></Desc_EN>
+    </CompleteParams>
+    <TaskName_SCN>大决战</TaskName_SCN>
+    <TaskName_FCN>大决战</TaskName_FCN>
+    <TaskName_EN>The Showdown</TaskName_EN>
+    <TipsDesc_SCN></TipsDesc_SCN>
+    <TipsDesc_FCN></TipsDesc_FCN>
+    <TipsDesc_EN></TipsDesc_EN>
+</ResGuideBattleTaskDesc>
+<ResGuideBattleTaskDesc version="1">
+    <ResID>40008 </ResID>
+    <BattleSceneType>7 </BattleSceneType>
+    <TaskType>0 </TaskType>
+    <ActiveParam type="ResGuideBattleTaskActiveDesc">
+        <Type>0 </Type>
+        <Param>0 0 </Param>
+    </ActiveParam>
+    <CompleteParams type="ResGuideBattleTaskCompleteDesc">
+        <Type>0 </Type>
+        <Param>0 0 </Param>
+        <Desc_SCN>拾取&lt;color=#5aff4b&gt;冰霜守护&lt;/color&gt;</Desc_SCN>
+        <Desc_FCN>拾取&lt;color=#5aff4b&gt;冰霜守护&lt;/color&gt;</Desc_FCN>
+        <Desc_EN>Pick up the Frost Guard.</Desc_EN>
+    </CompleteParams>
+    <CompleteParams type="ResGuideBattleTaskCompleteDesc">
+        <Type>0 </Type>
+        <Param>0 0 </Param>
+        <Desc_SCN></Desc_SCN>
+        <Desc_FCN></Desc_FCN>
+        <Desc_EN></Desc_EN>
+    </CompleteParams>
+    <TaskName_SCN>寻找神器</TaskName_SCN>
+    <TaskName_FCN>寻找神器</TaskName_FCN>
+    <TaskName_EN>In Search of the Artifact</TaskName_EN>
+    <TipsDesc_SCN></TipsDesc_SCN>
+    <TipsDesc_FCN></TipsDesc_FCN>
+    <TipsDesc_EN></TipsDesc_EN>
+</ResGuideBattleTaskDesc>
+<ResGuideBattleTaskDesc version="1">
+    <ResID>40009 </ResID>
+    <BattleSceneType>7 </BattleSceneType>
+    <TaskType>0 </TaskType>
+    <ActiveParam type="ResGuideBattleTaskActiveDesc">
+        <Type>0 </Type>
+        <Param>0 0 </Param>
+    </ActiveParam>
+    <CompleteParams type="ResGuideBattleTaskCompleteDesc">
+        <Type>0 </Type>
+        <Param>0 0 </Param>
+        <Desc_SCN>拾取&lt;color=#5aff4b&gt;统帅之刃&lt;/color&gt;</Desc_SCN>
+        <Desc_FCN>拾取&lt;color=#5aff4b&gt;统帅之刃&lt;/color&gt;</Desc_FCN>
+        <Desc_EN>Pick up the Blade of Commandment.</Desc_EN>
+    </CompleteParams>
+    <CompleteParams type="ResGuideBattleTaskCompleteDesc">
+        <Type>0 </Type>
+        <Param>0 0 </Param>
+        <Desc_SCN></Desc_SCN>
+        <Desc_FCN></Desc_FCN>
+        <Desc_EN></Desc_EN>
+    </CompleteParams>
+    <TaskName_SCN>统帅之刃</TaskName_SCN>
+    <TaskName_FCN>统帅之刃</TaskName_FCN>
+    <TaskName_EN>Blade of Commandment</TaskName_EN>
+    <TipsDesc_SCN></TipsDesc_SCN>
+    <TipsDesc_FCN></TipsDesc_FCN>
+    <TipsDesc_EN></TipsDesc_EN>
+</ResGuideBattleTaskDesc>
+</ResGuideBattleTaskDesc_Tab>

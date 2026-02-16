@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<ResActiveCodePackageDesc_Tab>
+<TResHeadAll version="5">
+    <resHead type="TResHead">
+        <Magic>1397052237 </Magic>
+        <Version>6 </Version>
+        <Unit>116 </Unit>
+        <Count>7 </Count>
+        <MetalibHash>531d5b4a397ad5b3c0fbfb5cc8059e55</MetalibHash>
+        <ResVersion>0 </ResVersion>
+        <CreateTime>2023-04-19 20:42:35</CreateTime>
+        <ResEncording>UTF-8</ResEncording>
+        <ContentHash>d946eff78667941526d5f0d5ecd63f84</ContentHash>
+    </resHead>
+    <resHeadExt type="TResHeadExt">
+        <DataOffset>136 </DataOffset>
+    </resHeadExt>
+</TResHeadAll>
+<ResActiveCodePackageDesc version="1">
+    <ID>21 </ID>
+    <Name>测试礼包</Name>
+    <ItemDesc type="ResActivePackageItemDesc">
+        <ID>3 </ID>
+        <Num>200 </Num>
+    </ItemDesc>
+    <ItemDesc type="ResActivePackageItemDesc">
+        <ID>4 </ID>
+        <Num>50 </Num>
+    </ItemDesc>
+    <ItemDesc type="ResActivePackageItemDesc">
+        <ID>2 </ID>
+        <Num>100 </Num>
+    </ItemDesc>
+    <ItemDesc type="ResActivePackageItemDesc">
+        <ID>0 </ID>
+        <Num>0 </Num>
+    </ItemDesc>
+    <HeroResID>0 </HeroResID>
+    <SkinResID>0 </SkinResID>
+    <IconResID>0 </IconResID>
+    <IconEdgeResID>0 </IconEdgeResID>
+</ResActiveCodePackageDesc>
+<ResActiveCodePackageDesc version="1">
+    <ID>101 </ID>
+    <Name>二测礼包（低级）</Name>
+    <ItemDesc type="ResActivePackageItemDesc">
+        <ID>3 </ID>
+        <Num>500 </Num>
+    </ItemDesc>
+    <ItemDesc type="ResActivePackageItemDesc">
+        <ID>0 </ID>
+        <Num>0 </Num>
+    </ItemDesc>
+    <ItemDesc type="ResActivePackageItemDesc">
+        <ID>0 </ID>
+        <Num>0 </Num>
+    </ItemDesc>
+    <ItemDesc type="ResActivePackageItemDesc">
+        <ID>0 </ID>
+        <Num>0 </Num>
+    </ItemDesc>
+    <HeroResID>0 </HeroResID>
+    <SkinResID>0 </SkinResID>
+    <IconResID>0 </IconResID>
+    <IconEdgeResID>0 </IconEdgeResID>
+</ResActiveCodePackageDesc>
+<ResActiveCodePackageDesc version="1">
+    <ID>102 </ID>
+    <Name>二测礼包（中级）</Name>
+    <ItemDesc type="ResActivePackageItemDesc">
+        <ID>3 </ID>
+        <Num>500 </Num>
+    </ItemDesc>
+    <ItemDesc type="ResActivePackageItemDesc">
+        <ID>4 </ID>
+        <Num>200 </Num>
+    </ItemDesc>
+    <ItemDesc type="ResActivePackageItemDesc">
+        <ID>0 </ID>
+        <Num>0 </Num>
+    </ItemDesc>
+    <ItemDesc type="ResActivePackageItemDesc">
+        <ID>0 </ID>
+        <Num>0 </Num>
+    </ItemDesc>
+    <HeroResID>0 </HeroResID>
+    <SkinResID>0 </SkinResID>
+    <IconResID>0 </IconResID>
+    <IconEdgeResID>0 </IconEdgeResID>
+</ResActiveCodePackageDesc>
+<ResActiveCodePackageDesc version="1">
+    <ID>103 </ID>
+    <Name>二测礼包（高级）</Name>
+    <ItemDesc type="ResActivePackageItemDesc">
+        <ID>2 </ID>
+        <Num>288 </Num>
+    </ItemDesc>
+    <ItemDesc type="ResActivePackageItemDesc">
+        <ID>0 </ID>
+        <Num>0 </Num>
+    </ItemDesc>
+    <ItemDesc type="ResActivePackageItemDesc">
+        <ID>0 </ID>
+        <Num>0 </Num>
+    </ItemDesc>
+    <ItemDesc type="ResActivePackageItemDesc">
+        <ID>0 </ID>
+        <Num>0 </Num>
+    </ItemDesc>
+    <HeroResID>0 </HeroResID>
+    <SkinResID>0 </SkinResID>
+    <IconResID>0 </IconResID>
+    <IconEdgeResID>0 </IconEdgeResID>
+</ResActiveCodePackageDesc>
+<ResActiveCodePackageDesc version="1">
+    <ID>104 </ID>
+    <Name>二测固定码礼包（中级）</Name>
+    <ItemDesc type="ResActivePackageItemDesc">
+        <ID>3 </ID>
+        <Num>500 </Num>
+    </ItemDesc>
+    <ItemDesc type="ResActivePackageItemDesc">
+        <ID>4 </ID>
+        <Num>200 </Num>
+    </ItemDesc>
+    <ItemDesc type="ResActivePackageItemDesc">
+        <ID>0 </ID>
+        <Num>0 </Num>
+    </ItemDesc>
+    <ItemDesc type="ResActivePackageItemDesc">
+        <ID>0 </ID>
+        <Num>0 </Num>
+    </ItemDesc>
+    <HeroResID>0 </HeroResID>
+    <SkinResID>0 </SkinResID>
+    <IconResID>0 </IconResID>
+    <IconEdgeResID>0 </IconEdgeResID>
+</ResActiveCodePackageDesc>
+<ResActiveCodePackageDesc version="1">
+    <ID>105 </ID>
+    <Name>二测固定码礼包（中级）</Name>
+    <ItemDesc type="ResActivePackageItemDesc">
+        <ID>3 </ID>
+        <Num>500 </Num>
+    </ItemDesc>
+    <ItemDesc type="ResActivePackageItemDesc">
+        <ID>4 </ID>
+        <Num>200 </Num>
+    </ItemDesc>
+    <ItemDesc type="ResActivePackageItemDesc">
+        <ID>0 </ID>
+        <Num>0 </Num>
+    </ItemDesc>
+    <ItemDesc type="ResActivePackageItemDesc">
+        <ID>0 </ID>
+        <Num>0 </Num>
+    </ItemDesc>
+    <HeroResID>0 </HeroResID>
+    <SkinResID>0 </SkinResID>
+    <IconResID>0 </IconResID>
+    <IconEdgeResID>0 </IconEdgeResID>
+</ResActiveCodePackageDesc>
+<ResActiveCodePackageDesc version="1">
+    <ID>106 </ID>
+    <Name>二测固定码礼包（中级）</Name>
+    <ItemDesc type="ResActivePackageItemDesc">
+        <ID>3 </ID>
+        <Num>500 </Num>
+    </ItemDesc>
+    <ItemDesc type="ResActivePackageItemDesc">
+        <ID>4 </ID>
+        <Num>200 </Num>
+    </ItemDesc>
+    <ItemDesc type="ResActivePackageItemDesc">
+        <ID>0 </ID>
+        <Num>0 </Num>
+    </ItemDesc>
+    <ItemDesc type="ResActivePackageItemDesc">
+        <ID>0 </ID>
+        <Num>0 </Num>
+    </ItemDesc>
+    <HeroResID>0 </HeroResID>
+    <SkinResID>0 </SkinResID>
+    <IconResID>0 </IconResID>
+    <IconEdgeResID>0 </IconEdgeResID>
+</ResActiveCodePackageDesc>
+</ResActiveCodePackageDesc_Tab>

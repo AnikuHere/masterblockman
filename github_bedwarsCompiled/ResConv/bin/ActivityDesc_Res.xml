@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<ResActivityDesc_Tab>
+<TResHeadAll version="5">
+    <resHead type="TResHead">
+        <Magic>1397052237 </Magic>
+        <Version>6 </Version>
+        <Unit>18 </Unit>
+        <Count>16 </Count>
+        <MetalibHash>531d5b4a397ad5b3c0fbfb5cc8059e55</MetalibHash>
+        <ResVersion>0 </ResVersion>
+        <CreateTime>2023-04-19 20:42:37</CreateTime>
+        <ResEncording>UTF-8</ResEncording>
+        <ContentHash>2b898a46759ae91b66d4eb8991913ada</ContentHash>
+    </resHead>
+    <resHeadExt type="TResHeadExt">
+        <DataOffset>136 </DataOffset>
+    </resHeadExt>
+</TResHeadAll>
+<ResActivityDesc version="1">
+    <ID>1 </ID>
+    <AcquireType>2 </AcquireType>
+    <DurationType>0 </DurationType>
+    <DurationParam>62 0 0 </DurationParam>
+</ResActivityDesc>
+<ResActivityDesc version="1">
+    <ID>2 </ID>
+    <AcquireType>2 </AcquireType>
+    <DurationType>0 </DurationType>
+    <DurationParam>62 0 0 </DurationParam>
+</ResActivityDesc>
+<ResActivityDesc version="1">
+    <ID>3 </ID>
+    <AcquireType>0 </AcquireType>
+    <DurationType>1 </DurationType>
+    <DurationParam>518400 0 0 </DurationParam>
+</ResActivityDesc>
+<ResActivityDesc version="1">
+    <ID>4 </ID>
+    <AcquireType>0 </AcquireType>
+    <DurationType>1 </DurationType>
+    <DurationParam>0 0 0 </DurationParam>
+</ResActivityDesc>
+<ResActivityDesc version="1">
+    <ID>5 </ID>
+    <AcquireType>1 </AcquireType>
+    <DurationType>2 </DurationType>
+    <DurationParam>1544389200 1544994000 0 </DurationParam>
+</ResActivityDesc>
+<ResActivityDesc version="1">
+    <ID>6 </ID>
+    <AcquireType>2 </AcquireType>
+    <DurationType>0 </DurationType>
+    <DurationParam>67 0 0 </DurationParam>
+</ResActivityDesc>
+<ResActivityDesc version="1">
+    <ID>7 </ID>
+    <AcquireType>2 </AcquireType>
+    <DurationType>0 </DurationType>
+    <DurationParam>67 0 0 </DurationParam>
+</ResActivityDesc>
+<ResActivityDesc version="1">
+    <ID>8 </ID>
+    <AcquireType>1 </AcquireType>
+    <DurationType>2 </DurationType>
+    <DurationParam>1538254800 1538946000 172800 </DurationParam>
+</ResActivityDesc>
+<ResActivityDesc version="1">
+    <ID>9 </ID>
+    <AcquireType>1 </AcquireType>
+    <DurationType>2 </DurationType>
+    <DurationParam>1538254800 1538946000 172800 </DurationParam>
+</ResActivityDesc>
+<ResActivityDesc version="1">
+    <ID>10 </ID>
+    <AcquireType>1 </AcquireType>
+    <DurationType>2 </DurationType>
+    <DurationParam>1538254800 1538946000 172800 </DurationParam>
+</ResActivityDesc>
+<ResActivityDesc version="1">
+    <ID>11 </ID>
+    <AcquireType>1 </AcquireType>
+    <DurationType>2 </DurationType>
+    <DurationParam>1535835600 1536354000 172800 </DurationParam>
+</ResActivityDesc>
+<ResActivityDesc version="1">
+    <ID>12 </ID>
+    <AcquireType>3 </AcquireType>
+    <DurationType>3 </DurationType>
+    <DurationParam>1 7 2 </DurationParam>
+</ResActivityDesc>
+<ResActivityDesc version="1">
+    <ID>13 </ID>
+    <AcquireType>1 </AcquireType>
+    <DurationType>2 </DurationType>
+    <DurationParam>1544562000 1545166800 172800 </DurationParam>
+</ResActivityDesc>
+<ResActivityDesc version="1">
+    <ID>14 </ID>
+    <AcquireType>1 </AcquireType>
+    <DurationType>2 </DurationType>
+    <DurationParam>1535835600 1536354000 172800 </DurationParam>
+</ResActivityDesc>
+<ResActivityDesc version="1">
+    <ID>15 </ID>
+    <AcquireType>3 </AcquireType>
+    <DurationType>3 </DurationType>
+    <DurationParam>1 7 2 </DurationParam>
+</ResActivityDesc>
+<ResActivityDesc version="1">
+    <ID>16 </ID>
+    <AcquireType>1 </AcquireType>
+    <DurationType>2 </DurationType>
+    <DurationParam>1539205200 1546203600 0 </DurationParam>
+</ResActivityDesc>
+</ResActivityDesc_Tab>

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<ResMatchQueueDesc_Tab>
+<TResHeadAll version="5">
+    <resHead type="TResHead">
+        <Magic>1397052237 </Magic>
+        <Version>6 </Version>
+        <Unit>56 </Unit>
+        <Count>9 </Count>
+        <MetalibHash>531d5b4a397ad5b3c0fbfb5cc8059e55</MetalibHash>
+        <ResVersion>0 </ResVersion>
+        <CreateTime>2023-04-19 20:42:34</CreateTime>
+        <ResEncording>UTF-8</ResEncording>
+        <ContentHash>0da54782d8278899f046bad2c0456bee</ContentHash>
+    </resHead>
+    <resHeadExt type="TResHeadExt">
+        <DataOffset>136 </DataOffset>
+    </resHeadExt>
+</TResHeadAll>
+<ResMatchQueueDesc version="1">
+    <ID>1 </ID>
+    <StarMin>0 </StarMin>
+    <StarMax>6 </StarMax>
+    <DownOvertime>0 </DownOvertime>
+    <UpOvertime>10 </UpOvertime>
+    <MaxSkipCount>2 </MaxSkipCount>
+    <AiOverTime>40 </AiOverTime>
+    <PureAiOverTime>120 </PureAiOverTime>
+    <AiConfigType>7 </AiConfigType>
+    <AIExtData>1009 </AIExtData>
+    <AICanUseRace>1 2 3 4 </AICanUseRace>
+</ResMatchQueueDesc>
+<ResMatchQueueDesc version="1">
+    <ID>2 </ID>
+    <StarMin>7 </StarMin>
+    <StarMax>12 </StarMax>
+    <DownOvertime>10 </DownOvertime>
+    <UpOvertime>10 </UpOvertime>
+    <MaxSkipCount>2 </MaxSkipCount>
+    <AiOverTime>40 </AiOverTime>
+    <PureAiOverTime>120 </PureAiOverTime>
+    <AiConfigType>2 </AiConfigType>
+    <AIExtData>1001 </AIExtData>
+    <AICanUseRace>1 2 3 4 </AICanUseRace>
+</ResMatchQueueDesc>
+<ResMatchQueueDesc version="1">
+    <ID>3 </ID>
+    <StarMin>13 </StarMin>
+    <StarMax>21 </StarMax>
+    <DownOvertime>10 </DownOvertime>
+    <UpOvertime>10 </UpOvertime>
+    <MaxSkipCount>2 </MaxSkipCount>
+    <AiOverTime>40 </AiOverTime>
+    <PureAiOverTime>120 </PureAiOverTime>
+    <AiConfigType>2 </AiConfigType>
+    <AIExtData>1001 </AIExtData>
+    <AICanUseRace>1 2 3 4 </AICanUseRace>
+</ResMatchQueueDesc>
+<ResMatchQueueDesc version="1">
+    <ID>4 </ID>
+    <StarMin>22 </StarMin>
+    <StarMax>32 </StarMax>
+    <DownOvertime>10 </DownOvertime>
+    <UpOvertime>10 </UpOvertime>
+    <MaxSkipCount>2 </MaxSkipCount>
+    <AiOverTime>40 </AiOverTime>
+    <PureAiOverTime>120 </PureAiOverTime>
+    <AiConfigType>3 </AiConfigType>
+    <AIExtData>1004 </AIExtData>
+    <AICanUseRace>1 2 3 4 </AICanUseRace>
+</ResMatchQueueDesc>
+<ResMatchQueueDesc version="1">
+    <ID>5 </ID>
+    <StarMin>33 </StarMin>
+    <StarMax>44 </StarMax>
+    <DownOvertime>10 </DownOvertime>
+    <UpOvertime>10 </UpOvertime>
+    <MaxSkipCount>2 </MaxSkipCount>
+    <AiOverTime>40 </AiOverTime>
+    <PureAiOverTime>120 </PureAiOverTime>
+    <AiConfigType>3 </AiConfigType>
+    <AIExtData>1004 </AIExtData>
+    <AICanUseRace>1 2 3 4 </AICanUseRace>
+</ResMatchQueueDesc>
+<ResMatchQueueDesc version="1">
+    <ID>6 </ID>
+    <StarMin>45 </StarMin>
+    <StarMax>56 </StarMax>
+    <DownOvertime>10 </DownOvertime>
+    <UpOvertime>10 </UpOvertime>
+    <MaxSkipCount>2 </MaxSkipCount>
+    <AiOverTime>40 </AiOverTime>
+    <PureAiOverTime>120 </PureAiOverTime>
+    <AiConfigType>4 </AiConfigType>
+    <AIExtData>1005 </AIExtData>
+    <AICanUseRace>1 2 3 4 </AICanUseRace>
+</ResMatchQueueDesc>
+<ResMatchQueueDesc version="1">
+    <ID>7 </ID>
+    <StarMin>57 </StarMin>
+    <StarMax>70 </StarMax>
+    <DownOvertime>10 </DownOvertime>
+    <UpOvertime>10 </UpOvertime>
+    <MaxSkipCount>2 </MaxSkipCount>
+    <AiOverTime>40 </AiOverTime>
+    <PureAiOverTime>120 </PureAiOverTime>
+    <AiConfigType>4 </AiConfigType>
+    <AIExtData>1005 </AIExtData>
+    <AICanUseRace>1 2 3 4 </AICanUseRace>
+</ResMatchQueueDesc>
+<ResMatchQueueDesc version="1">
+    <ID>8 </ID>
+    <StarMin>71 </StarMin>
+    <StarMax>85 </StarMax>
+    <DownOvertime>10 </DownOvertime>
+    <UpOvertime>10 </UpOvertime>
+    <MaxSkipCount>2 </MaxSkipCount>
+    <AiOverTime>40 </AiOverTime>
+    <PureAiOverTime>120 </PureAiOverTime>
+    <AiConfigType>5 </AiConfigType>
+    <AIExtData>1006 </AIExtData>
+    <AICanUseRace>1 2 3 4 </AICanUseRace>
+</ResMatchQueueDesc>
+<ResMatchQueueDesc version="1">
+    <ID>9 </ID>
+    <StarMin>86 </StarMin>
+    <StarMax>-1 </StarMax>
+    <DownOvertime>10 </DownOvertime>
+    <UpOvertime>0 </UpOvertime>
+    <MaxSkipCount>3 </MaxSkipCount>
+    <AiOverTime>40 </AiOverTime>
+    <PureAiOverTime>120 </PureAiOverTime>
+    <AiConfigType>5 </AiConfigType>
+    <AIExtData>1006 </AIExtData>
+    <AICanUseRace>1 2 3 4 </AICanUseRace>
+</ResMatchQueueDesc>
+</ResMatchQueueDesc_Tab>

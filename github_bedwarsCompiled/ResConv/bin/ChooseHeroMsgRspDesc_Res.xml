@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<ResChooseHeroMsgRspDesc_Tab>
+<TResHeadAll version="5">
+    <resHead type="TResHead">
+        <Magic>1397052237 </Magic>
+        <Version>6 </Version>
+        <Unit>388 </Unit>
+        <Count>17 </Count>
+        <MetalibHash>531d5b4a397ad5b3c0fbfb5cc8059e55</MetalibHash>
+        <ResVersion>0 </ResVersion>
+        <CreateTime>2023-04-19 20:42:35</CreateTime>
+        <ResEncording>UTF-8</ResEncording>
+        <ContentHash>687e7af6e85ed04e2a3a07bcd300c92e</ContentHash>
+    </resHead>
+    <resHeadExt type="TResHeadExt">
+        <DataOffset>136 </DataOffset>
+    </resHeadExt>
+</TResHeadAll>
+<ResChooseHeroMsgRspDesc version="1">
+    <ID>1 </ID>
+    <Desc_SCN>多开语音，多交流</Desc_SCN>
+    <Desc_EN>Communicate as much as possible.</Desc_EN>
+    <Desc_FCN>多开语音，多交流</Desc_FCN>
+</ResChooseHeroMsgRspDesc>
+<ResChooseHeroMsgRspDesc version="1">
+    <ID>2 </ID>
+    <Desc_SCN>多发信号交流</Desc_SCN>
+    <Desc_EN>Send more signals.</Desc_EN>
+    <Desc_FCN>多发信号交流</Desc_FCN>
+</ResChooseHeroMsgRspDesc>
+<ResChooseHeroMsgRspDesc version="1">
+    <ID>3 </ID>
+    <Desc_SCN>团结！团结！团结</Desc_SCN>
+    <Desc_EN>We must unite!</Desc_EN>
+    <Desc_FCN>团结！团结！团结</Desc_FCN>
+</ResChooseHeroMsgRspDesc>
+<ResChooseHeroMsgRspDesc version="1">
+    <ID>4 </ID>
+    <Desc_SCN>请注意阵容搭配</Desc_SCN>
+    <Desc_EN>Pay attention to the lineup.</Desc_EN>
+    <Desc_FCN>请注意阵容搭配</Desc_FCN>
+</ResChooseHeroMsgRspDesc>
+<ResChooseHeroMsgRspDesc version="1">
+    <ID>5 </ID>
+    <Desc_SCN>我出辅助兵种</Desc_SCN>
+    <Desc_EN>I&apos;ll train Support troops.</Desc_EN>
+    <Desc_FCN>我出辅助兵种</Desc_FCN>
+</ResChooseHeroMsgRspDesc>
+<ResChooseHeroMsgRspDesc version="1">
+    <ID>6 </ID>
+    <Desc_SCN>我出进攻兵种</Desc_SCN>
+    <Desc_EN>I&apos;ll train offensive troops.</Desc_EN>
+    <Desc_FCN>我出进攻兵种</Desc_FCN>
+</ResChooseHeroMsgRspDesc>
+<ResChooseHeroMsgRspDesc version="1">
+    <ID>7 </ID>
+    <Desc_SCN>我出防御兵种</Desc_SCN>
+    <Desc_EN>I&apos;ll train defensive troops.</Desc_EN>
+    <Desc_FCN>我出防御兵种</Desc_FCN>
+</ResChooseHeroMsgRspDesc>
+<ResChooseHeroMsgRspDesc version="1">
+    <ID>8 </ID>
+    <Desc_SCN>大家开语音听我指挥</Desc_SCN>
+    <Desc_EN>Join the voice chat with me.</Desc_EN>
+    <Desc_FCN>大家开语音听我指挥</Desc_FCN>
+</ResChooseHeroMsgRspDesc>
+<ResChooseHeroMsgRspDesc version="1">
+    <ID>9 </ID>
+    <Desc_SCN>我想优先开矿</Desc_SCN>
+    <Desc_EN>I want to get a mine first.</Desc_EN>
+    <Desc_FCN>我想优先开矿</Desc_FCN>
+</ResChooseHeroMsgRspDesc>
+<ResChooseHeroMsgRspDesc version="1">
+    <ID>10 </ID>
+    <Desc_SCN>保护好友方分矿</Desc_SCN>
+    <Desc_EN>Protect ally mines.</Desc_EN>
+    <Desc_FCN>保护好友方分矿</Desc_FCN>
+</ResChooseHeroMsgRspDesc>
+<ResChooseHeroMsgRspDesc version="1">
+    <ID>11 </ID>
+    <Desc_SCN>暴兵速推</Desc_SCN>
+    <Desc_EN>Spam troops and rush.</Desc_EN>
+    <Desc_FCN>暴兵速推</Desc_FCN>
+</ResChooseHeroMsgRspDesc>
+<ResChooseHeroMsgRspDesc version="1">
+    <ID>12 </ID>
+    <Desc_SCN>我开矿你多出兵策应</Desc_SCN>
+    <Desc_EN>Spam troops as I expand.</Desc_EN>
+    <Desc_FCN>我开矿你多出兵策应</Desc_FCN>
+</ResChooseHeroMsgRspDesc>
+<ResChooseHeroMsgRspDesc version="1">
+    <ID>13 </ID>
+    <Desc_SCN>我速攀科技</Desc_SCN>
+    <Desc_EN>I&apos;ll upgrade tech quickly.</Desc_EN>
+    <Desc_FCN>我速攀科技</Desc_FCN>
+</ResChooseHeroMsgRspDesc>
+<ResChooseHeroMsgRspDesc version="1">
+    <ID>14 </ID>
+    <Desc_SCN>注意英雄搭配</Desc_SCN>
+    <Desc_EN>Hero composition matters.</Desc_EN>
+    <Desc_FCN>注意英雄搭配</Desc_FCN>
+</ResChooseHeroMsgRspDesc>
+<ResChooseHeroMsgRspDesc version="1">
+    <ID>15 </ID>
+    <Desc_SCN>优先打野</Desc_SCN>
+    <Desc_EN>Let&apos;s farm first.</Desc_EN>
+    <Desc_FCN>优先打野</Desc_FCN>
+</ResChooseHeroMsgRspDesc>
+<ResChooseHeroMsgRspDesc version="1">
+    <ID>16 </ID>
+    <Desc_SCN>加油↖(^ω^)↗</Desc_SCN>
+    <Desc_EN>Fight on^^</Desc_EN>
+    <Desc_FCN>加油↖(^ω^)↗</Desc_FCN>
+</ResChooseHeroMsgRspDesc>
+<ResChooseHeroMsgRspDesc version="1">
+    <ID>17 </ID>
+    <Desc_SCN>交个朋友么</Desc_SCN>
+    <Desc_EN>Can we be friends?</Desc_EN>
+    <Desc_FCN>交个朋友么</Desc_FCN>
+</ResChooseHeroMsgRspDesc>
+</ResChooseHeroMsgRspDesc_Tab>

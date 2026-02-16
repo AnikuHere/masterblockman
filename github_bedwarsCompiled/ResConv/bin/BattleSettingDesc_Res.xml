@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<ResBattleSettingDesc_Tab>
+<TResHeadAll version="5">
+    <resHead type="TResHead">
+        <Magic>1397052237 </Magic>
+        <Version>6 </Version>
+        <Unit>20 </Unit>
+        <Count>17 </Count>
+        <MetalibHash>531d5b4a397ad5b3c0fbfb5cc8059e55</MetalibHash>
+        <ResVersion>0 </ResVersion>
+        <CreateTime>2023-04-19 20:42:30</CreateTime>
+        <ResEncording>UTF-8</ResEncording>
+        <ContentHash>48cb73f408f199770fb3ddca8486c2a5</ContentHash>
+    </resHead>
+    <resHeadExt type="TResHeadExt">
+        <DataOffset>136 </DataOffset>
+    </resHeadExt>
+</TResHeadAll>
+<ResBattleSettingDesc version="1">
+    <TypeID>1 </TypeID>
+    <Param>200000 0 0 0 </Param>
+</ResBattleSettingDesc>
+<ResBattleSettingDesc version="1">
+    <TypeID>2 </TypeID>
+    <Param>2000 0 0 0 </Param>
+</ResBattleSettingDesc>
+<ResBattleSettingDesc version="1">
+    <TypeID>3 </TypeID>
+    <Param>8000 5000 5000 0 </Param>
+</ResBattleSettingDesc>
+<ResBattleSettingDesc version="1">
+    <TypeID>4 </TypeID>
+    <Param>120000 180000 0 0 </Param>
+</ResBattleSettingDesc>
+<ResBattleSettingDesc version="1">
+    <TypeID>5 </TypeID>
+    <Param>1500 0 0 0 </Param>
+</ResBattleSettingDesc>
+<ResBattleSettingDesc version="1">
+    <TypeID>6 </TypeID>
+    <Param>50000 0 0 0 </Param>
+</ResBattleSettingDesc>
+<ResBattleSettingDesc version="1">
+    <TypeID>7 </TypeID>
+    <Param>900000401 900000501 0 0 </Param>
+</ResBattleSettingDesc>
+<ResBattleSettingDesc version="1">
+    <TypeID>8 </TypeID>
+    <Param>80000 0 0 0 </Param>
+</ResBattleSettingDesc>
+<ResBattleSettingDesc version="1">
+    <TypeID>9 </TypeID>
+    <Param>120000 0 0 0 </Param>
+</ResBattleSettingDesc>
+<ResBattleSettingDesc version="1">
+    <TypeID>10 </TypeID>
+    <Param>200000 0 0 0 </Param>
+</ResBattleSettingDesc>
+<ResBattleSettingDesc version="1">
+    <TypeID>11 </TypeID>
+    <Param>300 5000 0 0 </Param>
+</ResBattleSettingDesc>
+<ResBattleSettingDesc version="1">
+    <TypeID>12 </TypeID>
+    <Param>40000 0 0 0 </Param>
+</ResBattleSettingDesc>
+<ResBattleSettingDesc version="1">
+    <TypeID>13 </TypeID>
+    <Param>200000 250000 0 0 </Param>
+</ResBattleSettingDesc>
+<ResBattleSettingDesc version="1">
+    <TypeID>14 </TypeID>
+    <Param>3 4 5 0 </Param>
+</ResBattleSettingDesc>
+<ResBattleSettingDesc version="1">
+    <TypeID>15 </TypeID>
+    <Param>13 15000 0 0 </Param>
+</ResBattleSettingDesc>
+<ResBattleSettingDesc version="1">
+    <TypeID>16 </TypeID>
+    <Param>900 1800 1350 0 </Param>
+</ResBattleSettingDesc>
+<ResBattleSettingDesc version="1">
+    <TypeID>17 </TypeID>
+    <Param>60000 30000 0 0 </Param>
+</ResBattleSettingDesc>
+</ResBattleSettingDesc_Tab>

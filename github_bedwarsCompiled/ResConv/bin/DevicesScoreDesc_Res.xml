@@ -1,0 +1,1013 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<ResDevicesScoreDesc_Tab>
+<TResHeadAll version="5">
+    <resHead type="TResHead">
+        <Magic>1397052237 </Magic>
+        <Version>6 </Version>
+        <Unit>204 </Unit>
+        <Count>142 </Count>
+        <MetalibHash>531d5b4a397ad5b3c0fbfb5cc8059e55</MetalibHash>
+        <ResVersion>0 </ResVersion>
+        <CreateTime>2023-04-19 20:42:34</CreateTime>
+        <ResEncording>UTF-8</ResEncording>
+        <ContentHash>4076c2fbfe8521140be85cefcbac2df6</ContentHash>
+    </resHead>
+    <resHeadExt type="TResHeadExt">
+        <DataOffset>136 </DataOffset>
+    </resHeadExt>
+</TResHeadAll>
+<ResDevicesScoreDesc version="1">
+    <ID>1 </ID>
+    <IOSName></IOSName>
+    <GpuFirm>powervr</GpuFirm>
+    <GpuVersion>7900 </GpuVersion>
+    <GpuRank>10000 </GpuRank>
+</ResDevicesScoreDesc>
+<ResDevicesScoreDesc version="1">
+    <ID>2 </ID>
+    <IOSName>苹果A9x</IOSName>
+    <GpuFirm>powervr</GpuFirm>
+    <GpuVersion>7800 </GpuVersion>
+    <GpuRank>10000 </GpuRank>
+</ResDevicesScoreDesc>
+<ResDevicesScoreDesc version="1">
+    <ID>3 </ID>
+    <IOSName></IOSName>
+    <GpuFirm>powervr</GpuFirm>
+    <GpuVersion>7600 </GpuVersion>
+    <GpuRank>10000 </GpuRank>
+</ResDevicesScoreDesc>
+<ResDevicesScoreDesc version="1">
+    <ID>4 </ID>
+    <IOSName></IOSName>
+    <GpuFirm>powervr</GpuFirm>
+    <GpuVersion>7400 </GpuVersion>
+    <GpuRank>4000 </GpuRank>
+</ResDevicesScoreDesc>
+<ResDevicesScoreDesc version="1">
+    <ID>5 </ID>
+    <IOSName></IOSName>
+    <GpuFirm>powervr</GpuFirm>
+    <GpuVersion>7200 </GpuVersion>
+    <GpuRank>4000 </GpuRank>
+</ResDevicesScoreDesc>
+<ResDevicesScoreDesc version="1">
+    <ID>6 </ID>
+    <IOSName></IOSName>
+    <GpuFirm>powervr</GpuFirm>
+    <GpuVersion>6850 </GpuVersion>
+    <GpuRank>4000 </GpuRank>
+</ResDevicesScoreDesc>
+<ResDevicesScoreDesc version="1">
+    <ID>7 </ID>
+    <IOSName></IOSName>
+    <GpuFirm>powervr</GpuFirm>
+    <GpuVersion>6250 </GpuVersion>
+    <GpuRank>4000 </GpuRank>
+</ResDevicesScoreDesc>
+<ResDevicesScoreDesc version="1">
+    <ID>8 </ID>
+    <IOSName>联发科 MT6595/6595T</IOSName>
+    <GpuFirm>powervr</GpuFirm>
+    <GpuVersion>6200 </GpuVersion>
+    <GpuRank>4000 </GpuRank>
+</ResDevicesScoreDesc>
+<ResDevicesScoreDesc version="1">
+    <ID>9 </ID>
+    <IOSName></IOSName>
+    <GpuFirm>powervr</GpuFirm>
+    <GpuVersion>6430 </GpuVersion>
+    <GpuRank>4000 </GpuRank>
+</ResDevicesScoreDesc>
+<ResDevicesScoreDesc version="1">
+    <ID>10 </ID>
+    <IOSName></IOSName>
+    <GpuFirm>powervr</GpuFirm>
+    <GpuVersion>6230 </GpuVersion>
+    <GpuRank>4000 </GpuRank>
+</ResDevicesScoreDesc>
+<ResDevicesScoreDesc version="1">
+    <ID>11 </ID>
+    <IOSName></IOSName>
+    <GpuFirm>powervr</GpuFirm>
+    <GpuVersion>554 </GpuVersion>
+    <GpuRank>2500 </GpuRank>
+</ResDevicesScoreDesc>
+<ResDevicesScoreDesc version="1">
+    <ID>12 </ID>
+    <IOSName></IOSName>
+    <GpuFirm>powervr</GpuFirm>
+    <GpuVersion>544 </GpuVersion>
+    <GpuRank>2500 </GpuRank>
+</ResDevicesScoreDesc>
+<ResDevicesScoreDesc version="1">
+    <ID>13 </ID>
+    <IOSName></IOSName>
+    <GpuFirm>powervr</GpuFirm>
+    <GpuVersion>543 </GpuVersion>
+    <GpuRank>2500 </GpuRank>
+</ResDevicesScoreDesc>
+<ResDevicesScoreDesc version="1">
+    <ID>14 </ID>
+    <IOSName></IOSName>
+    <GpuFirm>powervr</GpuFirm>
+    <GpuVersion>545 </GpuVersion>
+    <GpuRank>2500 </GpuRank>
+</ResDevicesScoreDesc>
+<ResDevicesScoreDesc version="1">
+    <ID>15 </ID>
+    <IOSName></IOSName>
+    <GpuFirm>powervr</GpuFirm>
+    <GpuVersion>540 </GpuVersion>
+    <GpuRank>2500 </GpuRank>
+</ResDevicesScoreDesc>
+<ResDevicesScoreDesc version="1">
+    <ID>16 </ID>
+    <IOSName></IOSName>
+    <GpuFirm>powervr</GpuFirm>
+    <GpuVersion>535 </GpuVersion>
+    <GpuRank>1500 </GpuRank>
+</ResDevicesScoreDesc>
+<ResDevicesScoreDesc version="1">
+    <ID>17 </ID>
+    <IOSName></IOSName>
+    <GpuFirm>powervr</GpuFirm>
+    <GpuVersion>531 </GpuVersion>
+    <GpuRank>1500 </GpuRank>
+</ResDevicesScoreDesc>
+<ResDevicesScoreDesc version="1">
+    <ID>18 </ID>
+    <IOSName></IOSName>
+    <GpuFirm>powervr</GpuFirm>
+    <GpuVersion>530 </GpuVersion>
+    <GpuRank>1500 </GpuRank>
+</ResDevicesScoreDesc>
+<ResDevicesScoreDesc version="1">
+    <ID>19 </ID>
+    <IOSName></IOSName>
+    <GpuFirm>powervr</GpuFirm>
+    <GpuVersion>520 </GpuVersion>
+    <GpuRank>1000 </GpuRank>
+</ResDevicesScoreDesc>
+<ResDevicesScoreDesc version="1">
+    <ID>20 </ID>
+    <IOSName></IOSName>
+    <GpuFirm>adreno</GpuFirm>
+    <GpuVersion>540 </GpuVersion>
+    <GpuRank>10000 </GpuRank>
+</ResDevicesScoreDesc>
+<ResDevicesScoreDesc version="1">
+    <ID>21 </ID>
+    <IOSName></IOSName>
+    <GpuFirm>adreno</GpuFirm>
+    <GpuVersion>530 </GpuVersion>
+    <GpuRank>10000 </GpuRank>
+</ResDevicesScoreDesc>
+<ResDevicesScoreDesc version="1">
+    <ID>22 </ID>
+    <IOSName></IOSName>
+    <GpuFirm>adreno</GpuFirm>
+    <GpuVersion>512 </GpuVersion>
+    <GpuRank>8000 </GpuRank>
+</ResDevicesScoreDesc>
+<ResDevicesScoreDesc version="1">
+    <ID>23 </ID>
+    <IOSName>vixo x7</IOSName>
+    <GpuFirm>adreno</GpuFirm>
+    <GpuVersion>510 </GpuVersion>
+    <GpuRank>6000 </GpuRank>
+</ResDevicesScoreDesc>
+<ResDevicesScoreDesc version="1">
+    <ID>24 </ID>
+    <IOSName></IOSName>
+    <GpuFirm>adreno</GpuFirm>
+    <GpuVersion>508 </GpuVersion>
+    <GpuRank>5000 </GpuRank>
+</ResDevicesScoreDesc>
+<ResDevicesScoreDesc version="1">
+    <ID>25 </ID>
+    <IOSName>高通 MSM8953</IOSName>
+    <GpuFirm>adreno</GpuFirm>
+    <GpuVersion>506 </GpuVersion>
+    <GpuRank>5000 </GpuRank>
+</ResDevicesScoreDesc>
+<ResDevicesScoreDesc version="1">
+    <ID>26 </ID>
+    <IOSName></IOSName>
+    <GpuFirm>adreno</GpuFirm>
+    <GpuVersion>505 </GpuVersion>
+    <GpuRank>5000 </GpuRank>
+</ResDevicesScoreDesc>
+<ResDevicesScoreDesc version="1">
+    <ID>27 </ID>
+    <IOSName></IOSName>
+    <GpuFirm>adreno</GpuFirm>
+    <GpuVersion>430 </GpuVersion>
+    <GpuRank>6000 </GpuRank>
+</ResDevicesScoreDesc>
+<ResDevicesScoreDesc version="1">
+    <ID>28 </ID>
+    <IOSName></IOSName>
+    <GpuFirm>adreno</GpuFirm>
+    <GpuVersion>418 </GpuVersion>
+    <GpuRank>2500 </GpuRank>
+</ResDevicesScoreDesc>
+<ResDevicesScoreDesc version="1">
+    <ID>29 </ID>
+    <IOSName></IOSName>
+    <GpuFirm>adreno</GpuFirm>
+    <GpuVersion>420 </GpuVersion>
+    <GpuRank>5000 </GpuRank>
+</ResDevicesScoreDesc>
+<ResDevicesScoreDesc version="1">
+    <ID>30 </ID>
+    <IOSName></IOSName>
+    <GpuFirm>adreno</GpuFirm>
+    <GpuVersion>405 </GpuVersion>
+    <GpuRank>2700 </GpuRank>
+</ResDevicesScoreDesc>
+<ResDevicesScoreDesc version="1">
+    <ID>31 </ID>
+    <IOSName></IOSName>
+    <GpuFirm>adreno</GpuFirm>
+    <GpuVersion>330 </GpuVersion>
+    <GpuRank>5000 </GpuRank>
+</ResDevicesScoreDesc>
+<ResDevicesScoreDesc version="1">
+    <ID>32 </ID>
+    <IOSName></IOSName>
+    <GpuFirm>adreno</GpuFirm>
+    <GpuVersion>320 </GpuVersion>
+    <GpuRank>1000 </GpuRank>
+</ResDevicesScoreDesc>
+<ResDevicesScoreDesc version="1">
+    <ID>33 </ID>
+    <IOSName></IOSName>
+    <GpuFirm>adreno</GpuFirm>
+    <GpuVersion>304 </GpuVersion>
+    <GpuRank>1000 </GpuRank>
+</ResDevicesScoreDesc>
+<ResDevicesScoreDesc version="1">
+    <ID>34 </ID>
+    <IOSName></IOSName>
+    <GpuFirm>adreno</GpuFirm>
+    <GpuVersion>308 </GpuVersion>
+    <GpuRank>1000 </GpuRank>
+</ResDevicesScoreDesc>
+<ResDevicesScoreDesc version="1">
+    <ID>35 </ID>
+    <IOSName></IOSName>
+    <GpuFirm>adreno</GpuFirm>
+    <GpuVersion>305 </GpuVersion>
+    <GpuRank>1000 </GpuRank>
+</ResDevicesScoreDesc>
+<ResDevicesScoreDesc version="1">
+    <ID>36 </ID>
+    <IOSName></IOSName>
+    <GpuFirm>adreno</GpuFirm>
+    <GpuVersion>306 </GpuVersion>
+    <GpuRank>1000 </GpuRank>
+</ResDevicesScoreDesc>
+<ResDevicesScoreDesc version="1">
+    <ID>37 </ID>
+    <IOSName></IOSName>
+    <GpuFirm>adreno</GpuFirm>
+    <GpuVersion>302 </GpuVersion>
+    <GpuRank>1000 </GpuRank>
+</ResDevicesScoreDesc>
+<ResDevicesScoreDesc version="1">
+    <ID>38 </ID>
+    <IOSName></IOSName>
+    <GpuFirm>adreno</GpuFirm>
+    <GpuVersion>230 </GpuVersion>
+    <GpuRank>1000 </GpuRank>
+</ResDevicesScoreDesc>
+<ResDevicesScoreDesc version="1">
+    <ID>39 </ID>
+    <IOSName></IOSName>
+    <GpuFirm>adreno</GpuFirm>
+    <GpuVersion>225 </GpuVersion>
+    <GpuRank>1000 </GpuRank>
+</ResDevicesScoreDesc>
+<ResDevicesScoreDesc version="1">
+    <ID>40 </ID>
+    <IOSName></IOSName>
+    <GpuFirm>adreno</GpuFirm>
+    <GpuVersion>220 </GpuVersion>
+    <GpuRank>1000 </GpuRank>
+</ResDevicesScoreDesc>
+<ResDevicesScoreDesc version="1">
+    <ID>41 </ID>
+    <IOSName></IOSName>
+    <GpuFirm>adreno</GpuFirm>
+    <GpuVersion>203 </GpuVersion>
+    <GpuRank>1000 </GpuRank>
+</ResDevicesScoreDesc>
+<ResDevicesScoreDesc version="1">
+    <ID>42 </ID>
+    <IOSName></IOSName>
+    <GpuFirm>adreno</GpuFirm>
+    <GpuVersion>205 </GpuVersion>
+    <GpuRank>1000 </GpuRank>
+</ResDevicesScoreDesc>
+<ResDevicesScoreDesc version="1">
+    <ID>43 </ID>
+    <IOSName></IOSName>
+    <GpuFirm>adreno</GpuFirm>
+    <GpuVersion>230 </GpuVersion>
+    <GpuRank>1000 </GpuRank>
+</ResDevicesScoreDesc>
+<ResDevicesScoreDesc version="1">
+    <ID>44 </ID>
+    <IOSName></IOSName>
+    <GpuFirm>adreno</GpuFirm>
+    <GpuVersion>200 </GpuVersion>
+    <GpuRank>1000 </GpuRank>
+</ResDevicesScoreDesc>
+<ResDevicesScoreDesc version="1">
+    <ID>45 </ID>
+    <IOSName></IOSName>
+    <GpuFirm>mali</GpuFirm>
+    <GpuVersion>72 </GpuVersion>
+    <GpuRank>10000 </GpuRank>
+</ResDevicesScoreDesc>
+<ResDevicesScoreDesc version="1">
+    <ID>46 </ID>
+    <IOSName></IOSName>
+    <GpuFirm>mali</GpuFirm>
+    <GpuVersion>71 </GpuVersion>
+    <GpuRank>8000 </GpuRank>
+</ResDevicesScoreDesc>
+<ResDevicesScoreDesc version="1">
+    <ID>47 </ID>
+    <IOSName></IOSName>
+    <GpuFirm>mali</GpuFirm>
+    <GpuVersion>880 </GpuVersion>
+    <GpuRank>4000 </GpuRank>
+</ResDevicesScoreDesc>
+<ResDevicesScoreDesc version="1">
+    <ID>48 </ID>
+    <IOSName></IOSName>
+    <GpuFirm>mali</GpuFirm>
+    <GpuVersion>860 </GpuVersion>
+    <GpuRank>2500 </GpuRank>
+</ResDevicesScoreDesc>
+<ResDevicesScoreDesc version="1">
+    <ID>49 </ID>
+    <IOSName></IOSName>
+    <GpuFirm>mali</GpuFirm>
+    <GpuVersion>830 </GpuVersion>
+    <GpuRank>2500 </GpuRank>
+</ResDevicesScoreDesc>
+<ResDevicesScoreDesc version="1">
+    <ID>50 </ID>
+    <IOSName></IOSName>
+    <GpuFirm>mali</GpuFirm>
+    <GpuVersion>760 </GpuVersion>
+    <GpuRank>4000 </GpuRank>
+</ResDevicesScoreDesc>
+<ResDevicesScoreDesc version="1">
+    <ID>51 </ID>
+    <IOSName></IOSName>
+    <GpuFirm>mali</GpuFirm>
+    <GpuVersion>820 </GpuVersion>
+    <GpuRank>2500 </GpuRank>
+</ResDevicesScoreDesc>
+<ResDevicesScoreDesc version="1">
+    <ID>52 </ID>
+    <IOSName></IOSName>
+    <GpuFirm>mali</GpuFirm>
+    <GpuVersion>720 </GpuVersion>
+    <GpuRank>2500 </GpuRank>
+</ResDevicesScoreDesc>
+<ResDevicesScoreDesc version="1">
+    <ID>53 </ID>
+    <IOSName></IOSName>
+    <GpuFirm>mali</GpuFirm>
+    <GpuVersion>678 </GpuVersion>
+    <GpuRank>4000 </GpuRank>
+</ResDevicesScoreDesc>
+<ResDevicesScoreDesc version="1">
+    <ID>54 </ID>
+    <IOSName></IOSName>
+    <GpuFirm>mali</GpuFirm>
+    <GpuVersion>658 </GpuVersion>
+    <GpuRank>2500 </GpuRank>
+</ResDevicesScoreDesc>
+<ResDevicesScoreDesc version="1">
+    <ID>55 </ID>
+    <IOSName></IOSName>
+    <GpuFirm>mali</GpuFirm>
+    <GpuVersion>628 </GpuVersion>
+    <GpuRank>2500 </GpuRank>
+</ResDevicesScoreDesc>
+<ResDevicesScoreDesc version="1">
+    <ID>56 </ID>
+    <IOSName></IOSName>
+    <GpuFirm>mali</GpuFirm>
+    <GpuVersion>624 </GpuVersion>
+    <GpuRank>2500 </GpuRank>
+</ResDevicesScoreDesc>
+<ResDevicesScoreDesc version="1">
+    <ID>57 </ID>
+    <IOSName></IOSName>
+    <GpuFirm>mali</GpuFirm>
+    <GpuVersion>622 </GpuVersion>
+    <GpuRank>2500 </GpuRank>
+</ResDevicesScoreDesc>
+<ResDevicesScoreDesc version="1">
+    <ID>58 </ID>
+    <IOSName></IOSName>
+    <GpuFirm>mali</GpuFirm>
+    <GpuVersion>604 </GpuVersion>
+    <GpuRank>2500 </GpuRank>
+</ResDevicesScoreDesc>
+<ResDevicesScoreDesc version="1">
+    <ID>59 </ID>
+    <IOSName></IOSName>
+    <GpuFirm>mali</GpuFirm>
+    <GpuVersion>450 </GpuVersion>
+    <GpuRank>2500 </GpuRank>
+</ResDevicesScoreDesc>
+<ResDevicesScoreDesc version="1">
+    <ID>60 </ID>
+    <IOSName></IOSName>
+    <GpuFirm>mali</GpuFirm>
+    <GpuVersion>400 </GpuVersion>
+    <GpuRank>1000 </GpuRank>
+</ResDevicesScoreDesc>
+<ResDevicesScoreDesc version="1">
+    <ID>61 </ID>
+    <IOSName></IOSName>
+    <GpuFirm>mali</GpuFirm>
+    <GpuVersion>300 </GpuVersion>
+    <GpuRank>1000 </GpuRank>
+</ResDevicesScoreDesc>
+<ResDevicesScoreDesc version="1">
+    <ID>62 </ID>
+    <IOSName></IOSName>
+    <GpuFirm>mali</GpuFirm>
+    <GpuVersion>200 </GpuVersion>
+    <GpuRank>50 </GpuRank>
+</ResDevicesScoreDesc>
+<ResDevicesScoreDesc version="1">
+    <ID>63 </ID>
+    <IOSName></IOSName>
+    <GpuFirm>gc</GpuFirm>
+    <GpuVersion>4000 </GpuVersion>
+    <GpuRank>4000 </GpuRank>
+</ResDevicesScoreDesc>
+<ResDevicesScoreDesc version="1">
+    <ID>64 </ID>
+    <IOSName></IOSName>
+    <GpuFirm>gc</GpuFirm>
+    <GpuVersion>2000 </GpuVersion>
+    <GpuRank>2500 </GpuRank>
+</ResDevicesScoreDesc>
+<ResDevicesScoreDesc version="1">
+    <ID>65 </ID>
+    <IOSName></IOSName>
+    <GpuFirm>gc</GpuFirm>
+    <GpuVersion>1000 </GpuVersion>
+    <GpuRank>2500 </GpuRank>
+</ResDevicesScoreDesc>
+<ResDevicesScoreDesc version="1">
+    <ID>66 </ID>
+    <IOSName></IOSName>
+    <GpuFirm>gc</GpuFirm>
+    <GpuVersion>800 </GpuVersion>
+    <GpuRank>1000 </GpuRank>
+</ResDevicesScoreDesc>
+<ResDevicesScoreDesc version="1">
+    <ID>67 </ID>
+    <IOSName></IOSName>
+    <GpuFirm>gc</GpuFirm>
+    <GpuVersion>400 </GpuVersion>
+    <GpuRank>50 </GpuRank>
+</ResDevicesScoreDesc>
+<ResDevicesScoreDesc version="1">
+    <ID>68 </ID>
+    <IOSName></IOSName>
+    <GpuFirm>nvidia</GpuFirm>
+    <GpuVersion>4 </GpuVersion>
+    <GpuRank>4000 </GpuRank>
+</ResDevicesScoreDesc>
+<ResDevicesScoreDesc version="1">
+    <ID>69 </ID>
+    <IOSName></IOSName>
+    <GpuFirm>nvidia</GpuFirm>
+    <GpuVersion>3 </GpuVersion>
+    <GpuRank>2500 </GpuRank>
+</ResDevicesScoreDesc>
+<ResDevicesScoreDesc version="1">
+    <ID>70 </ID>
+    <IOSName></IOSName>
+    <GpuFirm>nvidia</GpuFirm>
+    <GpuVersion>2 </GpuVersion>
+    <GpuRank>1000 </GpuRank>
+</ResDevicesScoreDesc>
+<ResDevicesScoreDesc version="1">
+    <ID>71 </ID>
+    <IOSName></IOSName>
+    <GpuFirm>nvidia</GpuFirm>
+    <GpuVersion>416 </GpuVersion>
+    <GpuRank>1000 </GpuRank>
+</ResDevicesScoreDesc>
+<ResDevicesScoreDesc version="1">
+    <ID>72 </ID>
+    <IOSName></IOSName>
+    <GpuFirm>nvidia</GpuFirm>
+    <GpuVersion>300 </GpuVersion>
+    <GpuRank>1000 </GpuRank>
+</ResDevicesScoreDesc>
+<ResDevicesScoreDesc version="1">
+    <ID>73 </ID>
+    <IOSName>iPhone 4 (GSM)</IOSName>
+    <GpuFirm>iphone</GpuFirm>
+    <GpuVersion>31 </GpuVersion>
+    <GpuRank>2500 </GpuRank>
+</ResDevicesScoreDesc>
+<ResDevicesScoreDesc version="1">
+    <ID>74 </ID>
+    <IOSName></IOSName>
+    <GpuFirm>iphone</GpuFirm>
+    <GpuVersion>32 </GpuVersion>
+    <GpuRank>2500 </GpuRank>
+</ResDevicesScoreDesc>
+<ResDevicesScoreDesc version="1">
+    <ID>75 </ID>
+    <IOSName>iPhone 4 (CDMA)</IOSName>
+    <GpuFirm>iphone</GpuFirm>
+    <GpuVersion>33 </GpuVersion>
+    <GpuRank>2500 </GpuRank>
+</ResDevicesScoreDesc>
+<ResDevicesScoreDesc version="1">
+    <ID>76 </ID>
+    <IOSName>iPhone 4S</IOSName>
+    <GpuFirm>iphone</GpuFirm>
+    <GpuVersion>41 </GpuVersion>
+    <GpuRank>2500 </GpuRank>
+</ResDevicesScoreDesc>
+<ResDevicesScoreDesc version="1">
+    <ID>77 </ID>
+    <IOSName>iPhone 5 (A1428)</IOSName>
+    <GpuFirm>iphone</GpuFirm>
+    <GpuVersion>51 </GpuVersion>
+    <GpuRank>2500 </GpuRank>
+</ResDevicesScoreDesc>
+<ResDevicesScoreDesc version="1">
+    <ID>78 </ID>
+    <IOSName>iPhone 5 (A1429)</IOSName>
+    <GpuFirm>iphone</GpuFirm>
+    <GpuVersion>52 </GpuVersion>
+    <GpuRank>2500 </GpuRank>
+</ResDevicesScoreDesc>
+<ResDevicesScoreDesc version="1">
+    <ID>79 </ID>
+    <IOSName>iPhone 5c (A1456/A1532)</IOSName>
+    <GpuFirm>iphone</GpuFirm>
+    <GpuVersion>53 </GpuVersion>
+    <GpuRank>2500 </GpuRank>
+</ResDevicesScoreDesc>
+<ResDevicesScoreDesc version="1">
+    <ID>80 </ID>
+    <IOSName>iPhone 5c (A1507/A1516/A1529)</IOSName>
+    <GpuFirm>iphone</GpuFirm>
+    <GpuVersion>54 </GpuVersion>
+    <GpuRank>2500 </GpuRank>
+</ResDevicesScoreDesc>
+<ResDevicesScoreDesc version="1">
+    <ID>81 </ID>
+    <IOSName>iPhone 5s (A1433/A1453)</IOSName>
+    <GpuFirm>iphone</GpuFirm>
+    <GpuVersion>61 </GpuVersion>
+    <GpuRank>2500 </GpuRank>
+</ResDevicesScoreDesc>
+<ResDevicesScoreDesc version="1">
+    <ID>82 </ID>
+    <IOSName>iPhone 5s (A1457/A1518/A1530)</IOSName>
+    <GpuFirm>iphone</GpuFirm>
+    <GpuVersion>62 </GpuVersion>
+    <GpuRank>2500 </GpuRank>
+</ResDevicesScoreDesc>
+<ResDevicesScoreDesc version="1">
+    <ID>83 </ID>
+    <IOSName>iPhone 6 Plus</IOSName>
+    <GpuFirm>iphone</GpuFirm>
+    <GpuVersion>71 </GpuVersion>
+    <GpuRank>4000 </GpuRank>
+</ResDevicesScoreDesc>
+<ResDevicesScoreDesc version="1">
+    <ID>84 </ID>
+    <IOSName>iPhone 6</IOSName>
+    <GpuFirm>iphone</GpuFirm>
+    <GpuVersion>72 </GpuVersion>
+    <GpuRank>4000 </GpuRank>
+</ResDevicesScoreDesc>
+<ResDevicesScoreDesc version="1">
+    <ID>85 </ID>
+    <IOSName>iPhone 6s</IOSName>
+    <GpuFirm>iphone</GpuFirm>
+    <GpuVersion>81 </GpuVersion>
+    <GpuRank>4000 </GpuRank>
+</ResDevicesScoreDesc>
+<ResDevicesScoreDesc version="1">
+    <ID>86 </ID>
+    <IOSName>iPhone 6s Plus</IOSName>
+    <GpuFirm>iphone</GpuFirm>
+    <GpuVersion>82 </GpuVersion>
+    <GpuRank>4000 </GpuRank>
+</ResDevicesScoreDesc>
+<ResDevicesScoreDesc version="1">
+    <ID>87 </ID>
+    <IOSName>iPhone SE</IOSName>
+    <GpuFirm>iphone</GpuFirm>
+    <GpuVersion>84 </GpuVersion>
+    <GpuRank>4000 </GpuRank>
+</ResDevicesScoreDesc>
+<ResDevicesScoreDesc version="1">
+    <ID>88 </ID>
+    <IOSName>iPhone 7 (A1660/A1779/A1780)</IOSName>
+    <GpuFirm>iphone</GpuFirm>
+    <GpuVersion>91 </GpuVersion>
+    <GpuRank>10000 </GpuRank>
+</ResDevicesScoreDesc>
+<ResDevicesScoreDesc version="1">
+    <ID>89 </ID>
+    <IOSName>iPhone 7 Plus (A1661/A1785/A1786)</IOSName>
+    <GpuFirm>iphone</GpuFirm>
+    <GpuVersion>92 </GpuVersion>
+    <GpuRank>10000 </GpuRank>
+</ResDevicesScoreDesc>
+<ResDevicesScoreDesc version="1">
+    <ID>90 </ID>
+    <IOSName>iPhone 7 (A1778)</IOSName>
+    <GpuFirm>iphone</GpuFirm>
+    <GpuVersion>93 </GpuVersion>
+    <GpuRank>10000 </GpuRank>
+</ResDevicesScoreDesc>
+<ResDevicesScoreDesc version="1">
+    <ID>91 </ID>
+    <IOSName>iPhone 7 Plus (A1784)</IOSName>
+    <GpuFirm>iphone</GpuFirm>
+    <GpuVersion>94 </GpuVersion>
+    <GpuRank>10000 </GpuRank>
+</ResDevicesScoreDesc>
+<ResDevicesScoreDesc version="1">
+    <ID>92 </ID>
+    <IOSName>iPhone 8 (A1863/A1906)</IOSName>
+    <GpuFirm>iphone</GpuFirm>
+    <GpuVersion>101 </GpuVersion>
+    <GpuRank>10000 </GpuRank>
+</ResDevicesScoreDesc>
+<ResDevicesScoreDesc version="1">
+    <ID>93 </ID>
+    <IOSName>iPhone 8 Plus (A1864/A1898)</IOSName>
+    <GpuFirm>iphone</GpuFirm>
+    <GpuVersion>102 </GpuVersion>
+    <GpuRank>10000 </GpuRank>
+</ResDevicesScoreDesc>
+<ResDevicesScoreDesc version="1">
+    <ID>94 </ID>
+    <IOSName>iPhone X (A1865/A1902)</IOSName>
+    <GpuFirm>iphone</GpuFirm>
+    <GpuVersion>103 </GpuVersion>
+    <GpuRank>10000 </GpuRank>
+</ResDevicesScoreDesc>
+<ResDevicesScoreDesc version="1">
+    <ID>95 </ID>
+    <IOSName>iPhone 8 (A1905)</IOSName>
+    <GpuFirm>iphone</GpuFirm>
+    <GpuVersion>104 </GpuVersion>
+    <GpuRank>10000 </GpuRank>
+</ResDevicesScoreDesc>
+<ResDevicesScoreDesc version="1">
+    <ID>96 </ID>
+    <IOSName>iPhone 8 Plus (A1897)</IOSName>
+    <GpuFirm>iphone</GpuFirm>
+    <GpuVersion>105 </GpuVersion>
+    <GpuRank>10000 </GpuRank>
+</ResDevicesScoreDesc>
+<ResDevicesScoreDesc version="1">
+    <ID>97 </ID>
+    <IOSName>iPhone X (A1901)</IOSName>
+    <GpuFirm>iphone</GpuFirm>
+    <GpuVersion>106 </GpuVersion>
+    <GpuRank>10000 </GpuRank>
+</ResDevicesScoreDesc>
+<ResDevicesScoreDesc version="1">
+    <ID>98 </ID>
+    <IOSName>iPad</IOSName>
+    <GpuFirm>ipad</GpuFirm>
+    <GpuVersion>11 </GpuVersion>
+    <GpuRank>2500 </GpuRank>
+</ResDevicesScoreDesc>
+<ResDevicesScoreDesc version="1">
+    <ID>99 </ID>
+    <IOSName>iPad 2 (Wi-Fi)</IOSName>
+    <GpuFirm>ipad</GpuFirm>
+    <GpuVersion>21 </GpuVersion>
+    <GpuRank>2500 </GpuRank>
+</ResDevicesScoreDesc>
+<ResDevicesScoreDesc version="1">
+    <ID>100 </ID>
+    <IOSName>iPad 2 (GSM)</IOSName>
+    <GpuFirm>ipad</GpuFirm>
+    <GpuVersion>22 </GpuVersion>
+    <GpuRank>2500 </GpuRank>
+</ResDevicesScoreDesc>
+<ResDevicesScoreDesc version="1">
+    <ID>101 </ID>
+    <IOSName>iPad 2 (CDMA)</IOSName>
+    <GpuFirm>ipad</GpuFirm>
+    <GpuVersion>23 </GpuVersion>
+    <GpuRank>2500 </GpuRank>
+</ResDevicesScoreDesc>
+<ResDevicesScoreDesc version="1">
+    <ID>102 </ID>
+    <IOSName>iPad 2 (Wi-Fi, revised)</IOSName>
+    <GpuFirm>ipad</GpuFirm>
+    <GpuVersion>24 </GpuVersion>
+    <GpuRank>2500 </GpuRank>
+</ResDevicesScoreDesc>
+<ResDevicesScoreDesc version="1">
+    <ID>103 </ID>
+    <IOSName>iPad mini (Wi-Fi)</IOSName>
+    <GpuFirm>ipad</GpuFirm>
+    <GpuVersion>25 </GpuVersion>
+    <GpuRank>2500 </GpuRank>
+</ResDevicesScoreDesc>
+<ResDevicesScoreDesc version="1">
+    <ID>104 </ID>
+    <IOSName>iPad mini (A1454)</IOSName>
+    <GpuFirm>ipad</GpuFirm>
+    <GpuVersion>26 </GpuVersion>
+    <GpuRank>2500 </GpuRank>
+</ResDevicesScoreDesc>
+<ResDevicesScoreDesc version="1">
+    <ID>105 </ID>
+    <IOSName>iPad mini (A1455)</IOSName>
+    <GpuFirm>ipad</GpuFirm>
+    <GpuVersion>27 </GpuVersion>
+    <GpuRank>2500 </GpuRank>
+</ResDevicesScoreDesc>
+<ResDevicesScoreDesc version="1">
+    <ID>106 </ID>
+    <IOSName>iPad (3rd gen, Wi-Fi)</IOSName>
+    <GpuFirm>ipad</GpuFirm>
+    <GpuVersion>31 </GpuVersion>
+    <GpuRank>2500 </GpuRank>
+</ResDevicesScoreDesc>
+<ResDevicesScoreDesc version="1">
+    <ID>107 </ID>
+    <IOSName>iPad (3rd gen, Wi-Fi+LTE Verizon)</IOSName>
+    <GpuFirm>ipad</GpuFirm>
+    <GpuVersion>32 </GpuVersion>
+    <GpuRank>2500 </GpuRank>
+</ResDevicesScoreDesc>
+<ResDevicesScoreDesc version="1">
+    <ID>108 </ID>
+    <IOSName>iPad (3rd gen, Wi-Fi+LTE AT&amp;T)</IOSName>
+    <GpuFirm>ipad</GpuFirm>
+    <GpuVersion>33 </GpuVersion>
+    <GpuRank>2500 </GpuRank>
+</ResDevicesScoreDesc>
+<ResDevicesScoreDesc version="1">
+    <ID>109 </ID>
+    <IOSName>iPad (4th gen, Wi-Fi)</IOSName>
+    <GpuFirm>ipad</GpuFirm>
+    <GpuVersion>34 </GpuVersion>
+    <GpuRank>2500 </GpuRank>
+</ResDevicesScoreDesc>
+<ResDevicesScoreDesc version="1">
+    <ID>110 </ID>
+    <IOSName>iPad (4th gen, A1459)</IOSName>
+    <GpuFirm>ipad</GpuFirm>
+    <GpuVersion>35 </GpuVersion>
+    <GpuRank>2500 </GpuRank>
+</ResDevicesScoreDesc>
+<ResDevicesScoreDesc version="1">
+    <ID>111 </ID>
+    <IOSName>iPad (4th gen, A1460)</IOSName>
+    <GpuFirm>ipad</GpuFirm>
+    <GpuVersion>36 </GpuVersion>
+    <GpuRank>2500 </GpuRank>
+</ResDevicesScoreDesc>
+<ResDevicesScoreDesc version="1">
+    <ID>112 </ID>
+    <IOSName>iPad Air (Wi-Fi)</IOSName>
+    <GpuFirm>ipad</GpuFirm>
+    <GpuVersion>41 </GpuVersion>
+    <GpuRank>2500 </GpuRank>
+</ResDevicesScoreDesc>
+<ResDevicesScoreDesc version="1">
+    <ID>113 </ID>
+    <IOSName>iPad Air (Wi-Fi+LTE)</IOSName>
+    <GpuFirm>ipad</GpuFirm>
+    <GpuVersion>42 </GpuVersion>
+    <GpuRank>2500 </GpuRank>
+</ResDevicesScoreDesc>
+<ResDevicesScoreDesc version="1">
+    <ID>114 </ID>
+    <IOSName>iPad Air (Rev)</IOSName>
+    <GpuFirm>ipad</GpuFirm>
+    <GpuVersion>43 </GpuVersion>
+    <GpuRank>2500 </GpuRank>
+</ResDevicesScoreDesc>
+<ResDevicesScoreDesc version="1">
+    <ID>115 </ID>
+    <IOSName>iPad mini 2 (Wi-Fi)</IOSName>
+    <GpuFirm>ipad</GpuFirm>
+    <GpuVersion>44 </GpuVersion>
+    <GpuRank>2500 </GpuRank>
+</ResDevicesScoreDesc>
+<ResDevicesScoreDesc version="1">
+    <ID>116 </ID>
+    <IOSName>iPad mini 2 (Wi-Fi+LTE)</IOSName>
+    <GpuFirm>ipad</GpuFirm>
+    <GpuVersion>45 </GpuVersion>
+    <GpuRank>2500 </GpuRank>
+</ResDevicesScoreDesc>
+<ResDevicesScoreDesc version="1">
+    <ID>117 </ID>
+    <IOSName>iPad mini 2 (Rev)</IOSName>
+    <GpuFirm>ipad</GpuFirm>
+    <GpuVersion>46 </GpuVersion>
+    <GpuRank>2500 </GpuRank>
+</ResDevicesScoreDesc>
+<ResDevicesScoreDesc version="1">
+    <ID>118 </ID>
+    <IOSName>iPad mini 3 (Wi-Fi)</IOSName>
+    <GpuFirm>ipad</GpuFirm>
+    <GpuVersion>47 </GpuVersion>
+    <GpuRank>2500 </GpuRank>
+</ResDevicesScoreDesc>
+<ResDevicesScoreDesc version="1">
+    <ID>119 </ID>
+    <IOSName>iPad mini 3 (A1600)</IOSName>
+    <GpuFirm>ipad</GpuFirm>
+    <GpuVersion>48 </GpuVersion>
+    <GpuRank>2500 </GpuRank>
+</ResDevicesScoreDesc>
+<ResDevicesScoreDesc version="1">
+    <ID>120 </ID>
+    <IOSName>iPad mini 3 (A1601)</IOSName>
+    <GpuFirm>ipad</GpuFirm>
+    <GpuVersion>49 </GpuVersion>
+    <GpuRank>2500 </GpuRank>
+</ResDevicesScoreDesc>
+<ResDevicesScoreDesc version="1">
+    <ID>121 </ID>
+    <IOSName>iPad mini 4 (Wi-Fi)</IOSName>
+    <GpuFirm>ipad</GpuFirm>
+    <GpuVersion>51 </GpuVersion>
+    <GpuRank>5000 </GpuRank>
+</ResDevicesScoreDesc>
+<ResDevicesScoreDesc version="1">
+    <ID>122 </ID>
+    <IOSName>iPad mini 4 (Wi-Fi+LTE)</IOSName>
+    <GpuFirm>ipad</GpuFirm>
+    <GpuVersion>52 </GpuVersion>
+    <GpuRank>5000 </GpuRank>
+</ResDevicesScoreDesc>
+<ResDevicesScoreDesc version="1">
+    <ID>123 </ID>
+    <IOSName>iPad Air 2 (Wi-Fi)</IOSName>
+    <GpuFirm>ipad</GpuFirm>
+    <GpuVersion>53 </GpuVersion>
+    <GpuRank>5000 </GpuRank>
+</ResDevicesScoreDesc>
+<ResDevicesScoreDesc version="1">
+    <ID>124 </ID>
+    <IOSName>iPad Air 2 (Wi-Fi+LTE)</IOSName>
+    <GpuFirm>ipad</GpuFirm>
+    <GpuVersion>54 </GpuVersion>
+    <GpuRank>5000 </GpuRank>
+</ResDevicesScoreDesc>
+<ResDevicesScoreDesc version="1">
+    <ID>125 </ID>
+    <IOSName>iPad Pro (9.7 inch) (Wi-Fi)</IOSName>
+    <GpuFirm>ipad</GpuFirm>
+    <GpuVersion>63 </GpuVersion>
+    <GpuRank>10000 </GpuRank>
+</ResDevicesScoreDesc>
+<ResDevicesScoreDesc version="1">
+    <ID>126 </ID>
+    <IOSName>iPad Pro (9.7 inch) (Wi-Fi+LTE)</IOSName>
+    <GpuFirm>ipad</GpuFirm>
+    <GpuVersion>64 </GpuVersion>
+    <GpuRank>10000 </GpuRank>
+</ResDevicesScoreDesc>
+<ResDevicesScoreDesc version="1">
+    <ID>127 </ID>
+    <IOSName>iPad Pro (12.9 inch, Wi-Fi)</IOSName>
+    <GpuFirm>ipad</GpuFirm>
+    <GpuVersion>67 </GpuVersion>
+    <GpuRank>10000 </GpuRank>
+</ResDevicesScoreDesc>
+<ResDevicesScoreDesc version="1">
+    <ID>128 </ID>
+    <IOSName>iPad Pro (12.9 inch, Wi-Fi+LTE)</IOSName>
+    <GpuFirm>ipad</GpuFirm>
+    <GpuVersion>68 </GpuVersion>
+    <GpuRank>10000 </GpuRank>
+</ResDevicesScoreDesc>
+<ResDevicesScoreDesc version="1">
+    <ID>129 </ID>
+    <IOSName>iPad 9.7-Inch 5th Gen (Wi-Fi Only)</IOSName>
+    <GpuFirm>ipad</GpuFirm>
+    <GpuVersion>611 </GpuVersion>
+    <GpuRank>10000 </GpuRank>
+</ResDevicesScoreDesc>
+<ResDevicesScoreDesc version="1">
+    <ID>130 </ID>
+    <IOSName>iPad 9.7-Inch 5th Gen (Wi-Fi/Cellular)</IOSName>
+    <GpuFirm>ipad</GpuFirm>
+    <GpuVersion>612 </GpuVersion>
+    <GpuRank>10000 </GpuRank>
+</ResDevicesScoreDesc>
+<ResDevicesScoreDesc version="1">
+    <ID>131 </ID>
+    <IOSName>iPad Pro (10.5 inch, A1701)</IOSName>
+    <GpuFirm>ipad</GpuFirm>
+    <GpuVersion>73 </GpuVersion>
+    <GpuRank>10000 </GpuRank>
+</ResDevicesScoreDesc>
+<ResDevicesScoreDesc version="1">
+    <ID>132 </ID>
+    <IOSName>iPad Pro (10.5 inch, A1709)</IOSName>
+    <GpuFirm>ipad</GpuFirm>
+    <GpuVersion>74 </GpuVersion>
+    <GpuRank>10000 </GpuRank>
+</ResDevicesScoreDesc>
+<ResDevicesScoreDesc version="1">
+    <ID>133 </ID>
+    <IOSName></IOSName>
+    <GpuFirm>ipod</GpuFirm>
+    <GpuVersion>11 </GpuVersion>
+    <GpuRank>2500 </GpuRank>
+</ResDevicesScoreDesc>
+<ResDevicesScoreDesc version="1">
+    <ID>134 </ID>
+    <IOSName></IOSName>
+    <GpuFirm>ipod</GpuFirm>
+    <GpuVersion>21 </GpuVersion>
+    <GpuRank>2500 </GpuRank>
+</ResDevicesScoreDesc>
+<ResDevicesScoreDesc version="1">
+    <ID>135 </ID>
+    <IOSName></IOSName>
+    <GpuFirm>ipod</GpuFirm>
+    <GpuVersion>31 </GpuVersion>
+    <GpuRank>2500 </GpuRank>
+</ResDevicesScoreDesc>
+<ResDevicesScoreDesc version="1">
+    <ID>136 </ID>
+    <IOSName></IOSName>
+    <GpuFirm>ipod</GpuFirm>
+    <GpuVersion>41 </GpuVersion>
+    <GpuRank>2500 </GpuRank>
+</ResDevicesScoreDesc>
+<ResDevicesScoreDesc version="1">
+    <ID>137 </ID>
+    <IOSName></IOSName>
+    <GpuFirm>ipod</GpuFirm>
+    <GpuVersion>51 </GpuVersion>
+    <GpuRank>2500 </GpuRank>
+</ResDevicesScoreDesc>
+<ResDevicesScoreDesc version="1">
+    <ID>138 </ID>
+    <IOSName></IOSName>
+    <GpuFirm>ipod</GpuFirm>
+    <GpuVersion>71 </GpuVersion>
+    <GpuRank>2500 </GpuRank>
+</ResDevicesScoreDesc>
+<ResDevicesScoreDesc version="1">
+    <ID>139 </ID>
+    <IOSName>iPhone Xs</IOSName>
+    <GpuFirm>iPhone</GpuFirm>
+    <GpuVersion>112 </GpuVersion>
+    <GpuRank>10000 </GpuRank>
+</ResDevicesScoreDesc>
+<ResDevicesScoreDesc version="1">
+    <ID>140 </ID>
+    <IOSName>iPhone Xs Max</IOSName>
+    <GpuFirm>iPhone</GpuFirm>
+    <GpuVersion>114 </GpuVersion>
+    <GpuRank>10000 </GpuRank>
+</ResDevicesScoreDesc>
+<ResDevicesScoreDesc version="1">
+    <ID>141 </ID>
+    <IOSName>iPhone Xs Max</IOSName>
+    <GpuFirm>iPhone</GpuFirm>
+    <GpuVersion>116 </GpuVersion>
+    <GpuRank>10000 </GpuRank>
+</ResDevicesScoreDesc>
+<ResDevicesScoreDesc version="1">
+    <ID>142 </ID>
+    <IOSName>iphone Xr</IOSName>
+    <GpuFirm>iPhone</GpuFirm>
+    <GpuVersion>118 </GpuVersion>
+    <GpuRank>10000 </GpuRank>
+</ResDevicesScoreDesc>
+</ResDevicesScoreDesc_Tab>

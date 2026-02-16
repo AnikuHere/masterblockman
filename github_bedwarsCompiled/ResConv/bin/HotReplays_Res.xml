@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<ResHotReplays_Tab>
+<TResHeadAll version="5">
+    <resHead type="TResHead">
+        <Magic>1397052237 </Magic>
+        <Version>6 </Version>
+        <Unit>80 </Unit>
+        <Count>1 </Count>
+        <MetalibHash>531d5b4a397ad5b3c0fbfb5cc8059e55</MetalibHash>
+        <ResVersion>0 </ResVersion>
+        <CreateTime>2023-04-19 20:42:35</CreateTime>
+        <ResEncording>UTF-8</ResEncording>
+        <ContentHash>7f04dfb5792c4234c8370151608395b7</ContentHash>
+    </resHead>
+    <resHeadExt type="TResHeadExt">
+        <DataOffset>136 </DataOffset>
+    </resHeadExt>
+</TResHeadAll>
+<ResHotReplays version="1">
+    <ID>1 </ID>
+    <RaceReplaysCnt>15 </RaceReplaysCnt>
+    <AverageRankLevel>20 </AverageRankLevel>
+    <AvgWinRate>110 </AvgWinRate>
+    <RecCnt>3 </RecCnt>
+    <SaveTime>720 </SaveTime>
+    <LikeAddTime>30 </LikeAddTime>
+    <LikeNum>100 </LikeNum>
+    <HotReplaysView type="ResHotReplaysView">
+        <Num>50 </Num>
+        <Coef>10 </Coef>
+    </HotReplaysView>
+    <HotReplaysView type="ResHotReplaysView">
+        <Num>200 </Num>
+        <Coef>8 </Coef>
+    </HotReplaysView>
+    <HotReplaysView type="ResHotReplaysView">
+        <Num>500 </Num>
+        <Coef>5 </Coef>
+    </HotReplaysView>
+    <HotReplaysView type="ResHotReplaysView">
+        <Num>1200 </Num>
+        <Coef>3 </Coef>
+    </HotReplaysView>
+    <HotReplaysView type="ResHotReplaysView">
+        <Num>2000 </Num>
+        <Coef>2 </Coef>
+    </HotReplaysView>
+    <RandomMin>0 </RandomMin>
+    <RandomMax>20 </RandomMax>
+</ResHotReplays>
+</ResHotReplays_Tab>

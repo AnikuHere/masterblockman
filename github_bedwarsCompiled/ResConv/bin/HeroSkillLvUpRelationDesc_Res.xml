@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<ResHeroSkillLvUpRelationDesc_Tab>
+<TResHeadAll version="5">
+    <resHead type="TResHead">
+        <Magic>1397052237 </Magic>
+        <Version>6 </Version>
+        <Unit>20 </Unit>
+        <Count>17 </Count>
+        <MetalibHash>531d5b4a397ad5b3c0fbfb5cc8059e55</MetalibHash>
+        <ResVersion>0 </ResVersion>
+        <CreateTime>2023-04-19 20:42:26</CreateTime>
+        <ResEncording>UTF-8</ResEncording>
+        <ContentHash>4174b5df97ab1da8cb0393fdf78f735d</ContentHash>
+    </resHead>
+    <resHeadExt type="TResHeadExt">
+        <DataOffset>136 </DataOffset>
+    </resHeadExt>
+</TResHeadAll>
+<ResHeroSkillLvUpRelationDesc version="1">
+    <SkillGroupID>1205040 </SkillGroupID>
+    <OtherSkillGroupIDs>1205041 0 0 0 </OtherSkillGroupIDs>
+</ResHeroSkillLvUpRelationDesc>
+<ResHeroSkillLvUpRelationDesc version="1">
+    <SkillGroupID>1205200 </SkillGroupID>
+    <OtherSkillGroupIDs>1205003 0 0 0 </OtherSkillGroupIDs>
+</ResHeroSkillLvUpRelationDesc>
+<ResHeroSkillLvUpRelationDesc version="1">
+    <SkillGroupID>1301010 </SkillGroupID>
+    <OtherSkillGroupIDs>1301011 0 0 0 </OtherSkillGroupIDs>
+</ResHeroSkillLvUpRelationDesc>
+<ResHeroSkillLvUpRelationDesc version="1">
+    <SkillGroupID>1402040 </SkillGroupID>
+    <OtherSkillGroupIDs>1402041 0 0 0 </OtherSkillGroupIDs>
+</ResHeroSkillLvUpRelationDesc>
+<ResHeroSkillLvUpRelationDesc version="1">
+    <SkillGroupID>1407020 </SkillGroupID>
+    <OtherSkillGroupIDs>1407021 1407003 0 0 </OtherSkillGroupIDs>
+</ResHeroSkillLvUpRelationDesc>
+<ResHeroSkillLvUpRelationDesc version="1">
+    <SkillGroupID>1409040 </SkillGroupID>
+    <OtherSkillGroupIDs>1409041 0 0 0 </OtherSkillGroupIDs>
+</ResHeroSkillLvUpRelationDesc>
+<ResHeroSkillLvUpRelationDesc version="1">
+    <SkillGroupID>1411010 </SkillGroupID>
+    <OtherSkillGroupIDs>1411003 0 0 0 </OtherSkillGroupIDs>
+</ResHeroSkillLvUpRelationDesc>
+<ResHeroSkillLvUpRelationDesc version="1">
+    <SkillGroupID>1411020 </SkillGroupID>
+    <OtherSkillGroupIDs>1411021 0 0 0 </OtherSkillGroupIDs>
+</ResHeroSkillLvUpRelationDesc>
+<ResHeroSkillLvUpRelationDesc version="1">
+    <SkillGroupID>1411040 </SkillGroupID>
+    <OtherSkillGroupIDs>1411041 0 0 0 </OtherSkillGroupIDs>
+</ResHeroSkillLvUpRelationDesc>
+<ResHeroSkillLvUpRelationDesc version="1">
+    <SkillGroupID>1412200 </SkillGroupID>
+    <OtherSkillGroupIDs>1412002 0 0 0 </OtherSkillGroupIDs>
+</ResHeroSkillLvUpRelationDesc>
+<ResHeroSkillLvUpRelationDesc version="1">
+    <SkillGroupID>1414010 </SkillGroupID>
+    <OtherSkillGroupIDs>1414002 0 0 0 </OtherSkillGroupIDs>
+</ResHeroSkillLvUpRelationDesc>
+<ResHeroSkillLvUpRelationDesc version="1">
+    <SkillGroupID>1414200 </SkillGroupID>
+    <OtherSkillGroupIDs>1414100 0 0 0 </OtherSkillGroupIDs>
+</ResHeroSkillLvUpRelationDesc>
+<ResHeroSkillLvUpRelationDesc version="1">
+    <SkillGroupID>1415040 </SkillGroupID>
+    <OtherSkillGroupIDs>1415041 0 0 0 </OtherSkillGroupIDs>
+</ResHeroSkillLvUpRelationDesc>
+<ResHeroSkillLvUpRelationDesc version="1">
+    <SkillGroupID>1415200 </SkillGroupID>
+    <OtherSkillGroupIDs>1415002 0 0 0 </OtherSkillGroupIDs>
+</ResHeroSkillLvUpRelationDesc>
+<ResHeroSkillLvUpRelationDesc version="1">
+    <SkillGroupID>1416040 </SkillGroupID>
+    <OtherSkillGroupIDs>1416041 0 0 0 </OtherSkillGroupIDs>
+</ResHeroSkillLvUpRelationDesc>
+<ResHeroSkillLvUpRelationDesc version="1">
+    <SkillGroupID>1417040 </SkillGroupID>
+    <OtherSkillGroupIDs>1417041 0 0 0 </OtherSkillGroupIDs>
+</ResHeroSkillLvUpRelationDesc>
+<ResHeroSkillLvUpRelationDesc version="1">
+    <SkillGroupID>100100101 </SkillGroupID>
+    <OtherSkillGroupIDs>0 0 0 0 </OtherSkillGroupIDs>
+</ResHeroSkillLvUpRelationDesc>
+</ResHeroSkillLvUpRelationDesc_Tab>

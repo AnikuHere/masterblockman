@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<ResGlobalSystemParametersDesc_Tab>
+<TResHeadAll version="5">
+    <resHead type="TResHead">
+        <Magic>1397052237 </Magic>
+        <Version>6 </Version>
+        <Unit>24 </Unit>
+        <Count>14 </Count>
+        <MetalibHash>531d5b4a397ad5b3c0fbfb5cc8059e55</MetalibHash>
+        <ResVersion>0 </ResVersion>
+        <CreateTime>2023-04-19 20:42:33</CreateTime>
+        <ResEncording>UTF-8</ResEncording>
+        <ContentHash>7060fe56f3d6da352c6f4f874c4f6c9b</ContentHash>
+    </resHead>
+    <resHeadExt type="TResHeadExt">
+        <DataOffset>136 </DataOffset>
+    </resHeadExt>
+</TResHeadAll>
+<ResGlobalSystemParametersDesc version="1">
+    <ResID>1 </ResID>
+    <ParameterValue>5500 0 0 0 0 </ParameterValue>
+</ResGlobalSystemParametersDesc>
+<ResGlobalSystemParametersDesc version="1">
+    <ResID>2 </ResID>
+    <ParameterValue>999999 0 0 0 0 </ParameterValue>
+</ResGlobalSystemParametersDesc>
+<ResGlobalSystemParametersDesc version="1">
+    <ResID>3 </ResID>
+    <ParameterValue>80000 0 0 0 0 </ParameterValue>
+</ResGlobalSystemParametersDesc>
+<ResGlobalSystemParametersDesc version="1">
+    <ResID>4 </ResID>
+    <ParameterValue>100 100 0 0 0 </ParameterValue>
+</ResGlobalSystemParametersDesc>
+<ResGlobalSystemParametersDesc version="1">
+    <ResID>5 </ResID>
+    <ParameterValue>60 200 0 0 0 </ParameterValue>
+</ResGlobalSystemParametersDesc>
+<ResGlobalSystemParametersDesc version="1">
+    <ResID>6 </ResID>
+    <ParameterValue>31050002 0 0 0 0 </ParameterValue>
+</ResGlobalSystemParametersDesc>
+<ResGlobalSystemParametersDesc version="1">
+    <ResID>7 </ResID>
+    <ParameterValue>31050001 0 0 0 0 </ParameterValue>
+</ResGlobalSystemParametersDesc>
+<ResGlobalSystemParametersDesc version="1">
+    <ResID>8 </ResID>
+    <ParameterValue>20 0 0 0 0 </ParameterValue>
+</ResGlobalSystemParametersDesc>
+<ResGlobalSystemParametersDesc version="1">
+    <ResID>9 </ResID>
+    <ParameterValue>999999 0 0 0 0 </ParameterValue>
+</ResGlobalSystemParametersDesc>
+<ResGlobalSystemParametersDesc version="1">
+    <ResID>10 </ResID>
+    <ParameterValue>200 100 0 0 0 </ParameterValue>
+</ResGlobalSystemParametersDesc>
+<ResGlobalSystemParametersDesc version="1">
+    <ResID>11 </ResID>
+    <ParameterValue>1014 1020 1007 0 0 </ParameterValue>
+</ResGlobalSystemParametersDesc>
+<ResGlobalSystemParametersDesc version="1">
+    <ResID>12 </ResID>
+    <ParameterValue>14 0 0 0 0 </ParameterValue>
+</ResGlobalSystemParametersDesc>
+<ResGlobalSystemParametersDesc version="1">
+    <ResID>13 </ResID>
+    <ParameterValue>100 200 250 30 0 </ParameterValue>
+</ResGlobalSystemParametersDesc>
+<ResGlobalSystemParametersDesc version="1">
+    <ResID>14 </ResID>
+    <ParameterValue>300 200 250 50 0 </ParameterValue>
+</ResGlobalSystemParametersDesc>
+</ResGlobalSystemParametersDesc_Tab>

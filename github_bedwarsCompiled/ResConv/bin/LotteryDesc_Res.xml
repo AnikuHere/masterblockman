@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<ResLotteryDesc_Tab>
+<TResHeadAll version="5">
+    <resHead type="TResHead">
+        <Magic>1397052237 </Magic>
+        <Version>6 </Version>
+        <Unit>312 </Unit>
+        <Count>12 </Count>
+        <MetalibHash>531d5b4a397ad5b3c0fbfb5cc8059e55</MetalibHash>
+        <ResVersion>0 </ResVersion>
+        <CreateTime>2023-04-19 20:42:35</CreateTime>
+        <ResEncording>UTF-8</ResEncording>
+        <ContentHash>8f1921276e7a4bfe2d9adf544d9958da</ContentHash>
+    </resHead>
+    <resHeadExt type="TResHeadExt">
+        <DataOffset>136 </DataOffset>
+    </resHeadExt>
+</TResHeadAll>
+<ResLotteryDesc version="1">
+    <ID>2 </ID>
+    <UITips>后可免费抽奖</UITips>
+    <CostItemID>31100003 </CostItemID>
+    <CostItemCnt>1 </CostItemCnt>
+    <CDTime>48 </CDTime>
+    <RewardItemIDs>31100001 31100002 31100003 31100005 31070008 3 4 9 10 31151413 </RewardItemIDs>
+</ResLotteryDesc>
+<ResLotteryDesc version="1">
+    <ID>3 </ID>
+    <UITips>必得战争勋章1-2个</UITips>
+    <CostItemID>31100003 </CostItemID>
+    <CostItemCnt>5 </CostItemCnt>
+    <CDTime>0 </CDTime>
+    <RewardItemIDs>31100001 31100002 31100003 31100005 31070008 3 4 9 10 31151413 </RewardItemIDs>
+</ResLotteryDesc>
+<ResLotteryDesc version="1">
+    <ID>7 </ID>
+    <UITips>次后获得怒吼勋章</UITips>
+    <CostItemID>31100004 </CostItemID>
+    <CostItemCnt>1 </CostItemCnt>
+    <CDTime>0 </CDTime>
+    <RewardItemIDs>31100001 31100002 31100004 31100006 31070004 3 4 9 10 31153302 </RewardItemIDs>
+</ResLotteryDesc>
+<ResLotteryDesc version="1">
+    <ID>8 </ID>
+    <UITips>必得怒吼勋章1-2个</UITips>
+    <CostItemID>31100004 </CostItemID>
+    <CostItemCnt>5 </CostItemCnt>
+    <CDTime>0 </CDTime>
+    <RewardItemIDs>31100001 31100002 31100004 31100006 31070004 3 4 9 10 31153302 </RewardItemIDs>
+</ResLotteryDesc>
+<ResLotteryDesc version="1">
+    <ID>12 </ID>
+    <UITips></UITips>
+    <CostItemID>4 </CostItemID>
+    <CostItemCnt>128 </CostItemCnt>
+    <CDTime>48 </CDTime>
+    <RewardItemIDs>0 0 0 0 0 0 0 0 0 0 </RewardItemIDs>
+</ResLotteryDesc>
+<ResLotteryDesc version="1">
+    <ID>13 </ID>
+    <UITips></UITips>
+    <CostItemID>4 </CostItemID>
+    <CostItemCnt>568 </CostItemCnt>
+    <CDTime>0 </CDTime>
+    <RewardItemIDs>0 0 0 0 0 0 0 0 0 0 </RewardItemIDs>
+</ResLotteryDesc>
+<ResLotteryDesc version="1">
+    <ID>17 </ID>
+    <UITips></UITips>
+    <CostItemID>3 </CostItemID>
+    <CostItemCnt>200 </CostItemCnt>
+    <CDTime>0 </CDTime>
+    <RewardItemIDs>0 0 0 0 0 0 0 0 0 0 </RewardItemIDs>
+</ResLotteryDesc>
+<ResLotteryDesc version="1">
+    <ID>18 </ID>
+    <UITips></UITips>
+    <CostItemID>3 </CostItemID>
+    <CostItemCnt>800 </CostItemCnt>
+    <CDTime>0 </CDTime>
+    <RewardItemIDs>0 0 0 0 0 0 0 0 0 0 </RewardItemIDs>
+</ResLotteryDesc>
+<ResLotteryDesc version="1">
+    <ID>22 </ID>
+    <UITips></UITips>
+    <CostItemID>4 </CostItemID>
+    <CostItemCnt>128 </CostItemCnt>
+    <CDTime>48 </CDTime>
+    <RewardItemIDs>0 0 0 0 0 0 0 0 0 0 </RewardItemIDs>
+</ResLotteryDesc>
+<ResLotteryDesc version="1">
+    <ID>23 </ID>
+    <UITips></UITips>
+    <CostItemID>4 </CostItemID>
+    <CostItemCnt>568 </CostItemCnt>
+    <CDTime>0 </CDTime>
+    <RewardItemIDs>0 0 0 0 0 0 0 0 0 0 </RewardItemIDs>
+</ResLotteryDesc>
+<ResLotteryDesc version="1">
+    <ID>27 </ID>
+    <UITips></UITips>
+    <CostItemID>3 </CostItemID>
+    <CostItemCnt>200 </CostItemCnt>
+    <CDTime>0 </CDTime>
+    <RewardItemIDs>0 0 0 0 0 0 0 0 0 0 </RewardItemIDs>
+</ResLotteryDesc>
+<ResLotteryDesc version="1">
+    <ID>28 </ID>
+    <UITips></UITips>
+    <CostItemID>3 </CostItemID>
+    <CostItemCnt>800 </CostItemCnt>
+    <CDTime>0 </CDTime>
+    <RewardItemIDs>0 0 0 0 0 0 0 0 0 0 </RewardItemIDs>
+</ResLotteryDesc>
+</ResLotteryDesc_Tab>

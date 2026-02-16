@@ -1,0 +1,529 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<ResHeroDisplayDesc_Tab>
+<TResHeadAll version="5">
+    <resHead type="TResHead">
+        <Magic>1397052237 </Magic>
+        <Version>6 </Version>
+        <Unit>3588 </Unit>
+        <Count>34 </Count>
+        <MetalibHash>531d5b4a397ad5b3c0fbfb5cc8059e55</MetalibHash>
+        <ResVersion>0 </ResVersion>
+        <CreateTime>2023-04-19 20:42:38</CreateTime>
+        <ResEncording>UTF-8</ResEncording>
+        <ContentHash>4e1723aa5fbba01d7ac16bddcd8787d5</ContentHash>
+    </resHead>
+    <resHeadExt type="TResHeadExt">
+        <DataOffset>136 </DataOffset>
+    </resHeadExt>
+</TResHeadAll>
+<ResHeroDisplayDesc version="1">
+    <ResID>10000000 </ResID>
+    <AlphabeticalIndex>AND</AlphabeticalIndex>
+    <HeroName_SCN>安东尼</HeroName_SCN>
+    <HeroName_EN>Anthony</HeroName_EN>
+    <HeroName_FCN>Archmage</HeroName_FCN>
+    <HeroDesc_SCN>作为莫格兰大陆最年轻的守护者，他发誓要守护世界的秩序。当威胁来临，年轻的法师带着和魔力呼应的强大力量，毅然加入了战场。</HeroDesc_SCN>
+    <HeroDesc_EN>The Guardian, the Keeper of Order--he is the first to step up when the world is in peril, pacifying anyone that dares to bring harm to the good earth he holds dear.</HeroDesc_EN>
+    <HeroDesc_FCN>作为莫格兰大陆最年轻的守护者，他发誓要守护世界的秩序。当威胁来临，年轻的法师带着和魔力呼应的强大力量，毅然加入了战场。</HeroDesc_FCN>
+    <HeroTips_SCN>守护者的元素之灵可以在场上同时存在三只，这让守护者能在游戏的早期形成绝佳的兵力优势，利用这个优势去进攻你的敌人，或者去打掉高级的野怪点吧！守护者在阵型良好的正面战场上能发挥最大的优势，尽量保护好战斗时的阵型，不要让守护者陷入危险的区域。</HeroTips_SCN>
+    <HeroTips_EN>守护者的元素之灵可以在场上同时存在三只，这让守护者能在游戏的早期形成绝佳的兵力优势，利用这个优势去进攻你的敌人，或者去打掉高级的野怪点吧！守护者在阵型良好的正面战场上能发挥最大的优势，尽量保护好战斗时的阵型，不要让守护者陷入危险的区域。</HeroTips_EN>
+    <HeroTips_FCN>守护者的元素之灵可以在场上同时存在三只，这让守护者能在游戏的早期形成绝佳的兵力优势，利用这个优势去进攻你的敌人，或者去打掉高级的野怪点吧！守护者在阵型良好的正面战场上能发挥最大的优势，尽量保护好战斗时的阵型，不要让守护者陷入危险的区域。</HeroTips_FCN>
+    <StrategyUrl>http://3v3.16163.com/zt/3v3/nqzlz/heros/10000000.html</StrategyUrl>
+    <VideoUrl></VideoUrl>
+</ResHeroDisplayDesc>
+<ResHeroDisplayDesc version="1">
+    <ResID>10000001 </ResID>
+    <AlphabeticalIndex>AND</AlphabeticalIndex>
+    <HeroName_SCN>安东尼</HeroName_SCN>
+    <HeroName_EN>Anthony</HeroName_EN>
+    <HeroName_FCN>Archmage</HeroName_FCN>
+    <HeroDesc_SCN>作为莫格兰大陆最年轻的守护者，他发誓要守护世界的秩序。当威胁来临，年轻的法师带着和魔力呼应的强大力量，毅然加入了战场。</HeroDesc_SCN>
+    <HeroDesc_EN>The Guardian, the Keeper of Order--he is the first to step up when the world is in peril, pacifying anyone that dares to bring harm to the good earth he holds dear.</HeroDesc_EN>
+    <HeroDesc_FCN>作为莫格兰大陆最年轻的守护者，他发誓要守护世界的秩序。当威胁来临，年轻的法师带着和魔力呼应的强大力量，毅然加入了战场。</HeroDesc_FCN>
+    <HeroTips_SCN>守护者的元素之灵可以在场上同时存在三只，这让守护者能在游戏的早期形成绝佳的兵力优势，利用这个优势去进攻你的敌人，或者去打掉高级的野怪点吧！守护者在阵型良好的正面战场上能发挥最大的优势，尽量保护好战斗时的阵型，不要让守护者陷入危险的区域。</HeroTips_SCN>
+    <HeroTips_EN>守护者的元素之灵可以在场上同时存在三只，这让守护者能在游戏的早期形成绝佳的兵力优势，利用这个优势去进攻你的敌人，或者去打掉高级的野怪点吧！守护者在阵型良好的正面战场上能发挥最大的优势，尽量保护好战斗时的阵型，不要让守护者陷入危险的区域。</HeroTips_EN>
+    <HeroTips_FCN>守护者的元素之灵可以在场上同时存在三只，这让守护者能在游戏的早期形成绝佳的兵力优势，利用这个优势去进攻你的敌人，或者去打掉高级的野怪点吧！守护者在阵型良好的正面战场上能发挥最大的优势，尽量保护好战斗时的阵型，不要让守护者陷入危险的区域。</HeroTips_FCN>
+    <StrategyUrl>http://3v3.16163.com/zt/3v3/nqzlz/heros/10000001.html</StrategyUrl>
+    <VideoUrl>http://vod.cc.163.com/file/5b55bb367a20595342a4fcf7.mp4</VideoUrl>
+</ResHeroDisplayDesc>
+<ResHeroDisplayDesc version="1">
+    <ResID>10000002 </ResID>
+    <AlphabeticalIndex>AD</AlphabeticalIndex>
+    <HeroName_SCN>奥丁</HeroName_SCN>
+    <HeroName_EN>Odin</HeroName_EN>
+    <HeroName_FCN>MoutainKing</HeroName_FCN>
+    <HeroDesc_SCN>奥丁作为斯卡林山脉的王者，神灵在他体内留下了一缕神力。倒霉的敌人将会亲身体会到这位矮人的骁勇善战。</HeroDesc_SCN>
+    <HeroDesc_EN>As King of the Scarine Mountains, this is one foe you want to avoid on the field of battle. Mess with the bull, you get the horns.</HeroDesc_EN>
+    <HeroDesc_FCN>作为斯卡林山脉的王者，神灵在奥丁体内留下了一缕神力。倒霉的敌人将会亲身体会到这位矮人的骁勇善战。</HeroDesc_FCN>
+    <HeroTips_SCN>风暴之锤的无畏之躯可以让他在短时间内无可匹敌，在适当的时间和位置释放无畏之躯杀向敌人，可以让你的对手难以招架。搭配拥有加速技能的英雄或召唤师技能更能让你如虎添翼。</HeroTips_SCN>
+    <HeroTips_EN>风暴之锤的无畏之躯可以让他在短时间内无可匹敌，在适当的时间和位置释放无畏之躯杀向敌人，可以让你的对手难以招架。搭配拥有加速技能的英雄或召唤师技能更能让你如虎添翼。</HeroTips_EN>
+    <HeroTips_FCN>风暴之锤的无畏之躯可以让他在短时间内无可匹敌，在适当的时间和位置释放无畏之躯杀向敌人，可以让你的对手难以招架。搭配拥有加速技能的英雄或召唤师技能更能让你如虎添翼。</HeroTips_FCN>
+    <StrategyUrl>http://3v3.16163.com/zt/3v3/nqzlz/heros/10000002.html</StrategyUrl>
+    <VideoUrl>http://vod.cc.163.com/file/5b55bba47a20595342a4fcf8.mp4</VideoUrl>
+</ResHeroDisplayDesc>
+<ResHeroDisplayDesc version="1">
+    <ResID>10000003 </ResID>
+    <AlphabeticalIndex>DEW</AlphabeticalIndex>
+    <HeroName_SCN>帕拉丁</HeroName_SCN>
+    <HeroName_EN>Pallidus</HeroName_EN>
+    <HeroName_FCN>Clergy</HeroName_FCN>
+    <HeroDesc_SCN>无论是多么险恶的战场，只要帕拉丁出现在队伍中，战士们就会士气大振，因为他们知道，帕拉丁就是生命最好的保障。</HeroDesc_SCN>
+    <HeroDesc_EN>Pallidus is a sight for sore eyes to those swamped in a desperate fight to survive. Victory is as good as secured the moment he joins the fray.</HeroDesc_EN>
+    <HeroDesc_FCN>无论是多么险恶的战场，只要帕拉丁出现在队伍中，战士们就会士气大振，因为他们知道，帕拉丁就是生命最好的保障。</HeroDesc_FCN>
+    <HeroTips_SCN>无论是多么险恶的战场，只要帕拉丁出现在队伍中，战士们就会士气大振，因为他们知道，帕拉丁就是生命最好的保障。</HeroTips_SCN>
+    <HeroTips_EN>无论是多么险恶的战场，只要帕拉丁出现在队伍中，战士们就会士气大振，因为他们知道，帕拉丁就是生命最好的保障。</HeroTips_EN>
+    <HeroTips_FCN>无论是多么险恶的战场，只要帕拉丁出现在队伍中，战士们就会士气大振，因为他们知道，帕拉丁就是生命最好的保障。</HeroTips_FCN>
+    <StrategyUrl>http://3v3.16163.com/zt/3v3/nqzlz/heros/10000003.html</StrategyUrl>
+    <VideoUrl>http://vod.cc.163.com/file/5b55bbe37a205953d0809b36.mp4</VideoUrl>
+</ResHeroDisplayDesc>
+<ResHeroDisplayDesc version="1">
+    <ResID>10000005 </ResID>
+    <AlphabeticalIndex>AD</AlphabeticalIndex>
+    <HeroName_SCN>奥丁</HeroName_SCN>
+    <HeroName_EN>Odin</HeroName_EN>
+    <HeroName_FCN>MoutainKing</HeroName_FCN>
+    <HeroDesc_SCN>奥丁作为斯卡林山脉的王者，神灵在他体内留下了一缕神力。倒霉的敌人将会亲身体会到这位矮人的骁勇善战。</HeroDesc_SCN>
+    <HeroDesc_EN>As King of the Scarine Mountains, this is one foe you want to avoid on the field of battle. Mess with the bull, you get the horns.</HeroDesc_EN>
+    <HeroDesc_FCN>作为斯卡林山脉的王者，神灵在奥丁体内留下了一缕神力。倒霉的敌人将会亲身体会到这位矮人的骁勇善战。</HeroDesc_FCN>
+    <HeroTips_SCN>风暴之锤的无畏之躯可以让他在短时间内无可匹敌，在适当的时间和位置释放无畏之躯杀向敌人，可以让你的对手难以招架。搭配拥有加速技能的英雄或召唤师技能更能让你如虎添翼。</HeroTips_SCN>
+    <HeroTips_EN>风暴之锤的无畏之躯可以让他在短时间内无可匹敌，在适当的时间和位置释放无畏之躯杀向敌人，可以让你的对手难以招架。搭配拥有加速技能的英雄或召唤师技能更能让你如虎添翼。</HeroTips_EN>
+    <HeroTips_FCN>风暴之锤的无畏之躯可以让他在短时间内无可匹敌，在适当的时间和位置释放无畏之躯杀向敌人，可以让你的对手难以招架。搭配拥有加速技能的英雄或召唤师技能更能让你如虎添翼。</HeroTips_FCN>
+    <StrategyUrl>http://3v3.16163.com/zt/3v3/nqzlz/heros/10000002.html</StrategyUrl>
+    <VideoUrl>http://vod.cc.163.com/file/5b55bba47a20595342a4fcf8.mp4</VideoUrl>
+</ResHeroDisplayDesc>
+<ResHeroDisplayDesc version="1">
+    <ResID>10000101 </ResID>
+    <AlphabeticalIndex>SL</AlphabeticalIndex>
+    <HeroName_SCN>索伦</HeroName_SCN>
+    <HeroName_EN>Rothol</HeroName_EN>
+    <HeroName_FCN>Thrall</HeroName_FCN>
+    <HeroDesc_SCN>元素的交融、魔法的奥秘…在身强体壮的兽人中少有人能体会到巫术的精要，而索伦无疑是兽人古老巫术力量新的曙光。</HeroDesc_SCN>
+    <HeroDesc_EN>Few among the ranks of Orcs are enlightened enough to study Voodoo magic, yet Rothol stands out from his peers with an uncanny affinity with Voodoo magic that dates back to ancient times.</HeroDesc_EN>
+    <HeroDesc_FCN>元素的交融、魔法的奥秘…在身强体壮的兽人中少有人能体会到巫术的精要，而索伦无疑是兽人古老巫术力量新的曙光。</HeroDesc_FCN>
+    <HeroTips_SCN>先知</HeroTips_SCN>
+    <HeroTips_EN>先知</HeroTips_EN>
+    <HeroTips_FCN>先知</HeroTips_FCN>
+    <StrategyUrl>http://3v3.16163.com/zt/3v3/nqzlz/heros/10000101.html</StrategyUrl>
+    <VideoUrl>http://vod.cc.163.com/file/5b55bc377a20595328b9bdc9.mp4</VideoUrl>
+</ResHeroDisplayDesc>
+<ResHeroDisplayDesc version="1">
+    <ResID>10000102 </ResID>
+    <AlphabeticalIndex>GBL</AlphabeticalIndex>
+    <HeroName_SCN>哥布林</HeroName_SCN>
+    <HeroName_EN>Garoth</HeroName_EN>
+    <HeroName_FCN>Cairne?</HeroName_FCN>
+    <HeroDesc_SCN>谁也不知道瘦小的哥布林是如何驯服了这片山脉中最强大的食人魔，但有一点是肯定的，敢于挑战哥布林的人，无一生还。</HeroDesc_SCN>
+    <HeroDesc_EN>Strange how a guy his size managed to tame one of the strongest ogres in these mountains, but make no mistake, many have challenged Garoth before, and none have survived.</HeroDesc_EN>
+    <HeroDesc_FCN>谁也不知道瘦小的哥布林是如何驯服了这片山脉中最强大的食人魔，但有一点是肯定的，敢于挑战哥布林的人，无一生还。</HeroDesc_FCN>
+    <HeroTips_SCN>嗜血领主的野蛮冲撞能让部队在短时间内获得爆发性的移动速度，在敌方缺少控制手段时，使用野蛮冲撞冲散对方的阵型，能获得极大的战略优势。同时，野蛮冲撞还能在陷入劣势时用来逃跑噢。</HeroTips_SCN>
+    <HeroTips_EN>嗜血领主的野蛮冲撞能让部队在短时间内获得爆发性的移动速度，在敌方缺少控制手段时，使用野蛮冲撞冲散对方的阵型，能获得极大的战略优势。同时，野蛮冲撞还能在陷入劣势时用来逃跑噢。</HeroTips_EN>
+    <HeroTips_FCN>嗜血领主的野蛮冲撞能让部队在短时间内获得爆发性的移动速度，在敌方缺少控制手段时，使用野蛮冲撞冲散对方的阵型，能获得极大的战略优势。同时，野蛮冲撞还能在陷入劣势时用来逃跑噢。</HeroTips_FCN>
+    <StrategyUrl>http://3v3.16163.com/zt/3v3/nqzlz/heros/10000102.html</StrategyUrl>
+    <VideoUrl>http://vod.cc.163.com/file/5b55bc747a20595328b9bdca.mp4</VideoUrl>
+</ResHeroDisplayDesc>
+<ResHeroDisplayDesc version="1">
+    <ResID>10000201 </ResID>
+    <AlphabeticalIndex>KS</AlphabeticalIndex>
+    <HeroName_SCN>凯撒</HeroName_SCN>
+    <HeroName_EN>Gaius</HeroName_EN>
+    <HeroName_FCN>GhostKing</HeroName_FCN>
+    <HeroDesc_SCN>凯撒曾经是人类的君主，然而在恶魔的蛊惑下，整个国度都遭到了诅咒。现在，他被困在生与死的夹缝中不断的释放自己疯狂的力量。</HeroDesc_SCN>
+    <HeroDesc_EN>A king back in the day, Gaius&apos; story is one that saddens even the flintiest of hearts. Demonic corruption didn&apos;t just curse his kingdom--it drove him mad by trapping him in the rifts between dimensions.</HeroDesc_EN>
+    <HeroDesc_FCN>凯撒曾经是人类的君主，然而在恶魔的蛊惑下，整个国度都遭到了诅咒。现在，他被困在生与死的夹缝中不断的释放自己疯狂的力量。</HeroDesc_FCN>
+    <HeroTips_SCN>亡魂之主的幽暗吐息可以在大面积的战场上产生控制效果，能为自己的阵型拉扯提供良好的空间。同时，亡魂之主拥有治疗友军和自身的能力，注意自己站位，在不被秒杀的情况下，亡魂之主能为部队提供更持久的战斗力。</HeroTips_SCN>
+    <HeroTips_EN>亡魂之主的幽暗吐息可以在大面积的战场上产生控制效果，能为自己的阵型拉扯提供良好的空间。同时，亡魂之主拥有治疗友军和自身的能力，注意自己站位，在不被秒杀的情况下，亡魂之主能为部队提供更持久的战斗力。</HeroTips_EN>
+    <HeroTips_FCN>亡魂之主的幽暗吐息可以在大面积的战场上产生控制效果，能为自己的阵型拉扯提供良好的空间。同时，亡魂之主拥有治疗友军和自身的能力，注意自己站位，在不被秒杀的情况下，亡魂之主能为部队提供更持久的战斗力。</HeroTips_FCN>
+    <StrategyUrl>http://3v3.16163.com/zt/3v3/nqzlz/heros/10000201.html</StrategyUrl>
+    <VideoUrl>http://vod.cc.163.com/file/5bbc1892f0ce694303f535dc.mp4</VideoUrl>
+</ResHeroDisplayDesc>
+<ResHeroDisplayDesc version="1">
+    <ResID>10000202 </ResID>
+    <AlphabeticalIndex>PDL</AlphabeticalIndex>
+    <HeroName_SCN>潘多拉</HeroName_SCN>
+    <HeroName_EN>Pandora</HeroName_EN>
+    <HeroName_FCN>DeathWitch</HeroName_FCN>
+    <HeroDesc_SCN>潘多拉在生前被当做带来不幸的巫女而受尽折磨，重生为亡灵的她操纵着无尽的死灵，她受到过的不公都化为巫术在战场上肆虐。</HeroDesc_SCN>
+    <HeroDesc_EN>You don&apos;t want to be mistaken for an ill-boding witch in an age of savagery, and Pandora learned it the hard way. Now reborn as one of the Undead, it&apos;s time for her to dish out some serious payback.</HeroDesc_EN>
+    <HeroDesc_FCN>潘多拉在生前被当做带来不幸的巫女而受尽折磨，重生为亡灵的她操纵着无尽的死灵，她受到过的不公都化为巫术在战场上肆虐。</HeroDesc_FCN>
+    <HeroTips_SCN>死灵女巫在开启恶灵盛宴后，能对周围范围内的单位造成大量伤害，搭配上自身的加速减速技能，能让她在和对方保持相对安全的位置输出。同时，恶灵盛宴能让死灵女巫的部队在早期就可以迅速清理掉高级的野怪点。</HeroTips_SCN>
+    <HeroTips_EN>死灵女巫在开启恶灵盛宴后，能对周围范围内的单位造成大量伤害，搭配上自身的加速减速技能，能让她在和对方保持相对安全的位置输出。同时，恶灵盛宴能让死灵女巫的部队在早期就可以迅速清理掉高级的野怪点。</HeroTips_EN>
+    <HeroTips_FCN>死灵女巫在开启恶灵盛宴后，能对周围范围内的单位造成大量伤害，搭配上自身的加速减速技能，能让她在和对方保持相对安全的位置输出。同时，恶灵盛宴能让死灵女巫的部队在早期就可以迅速清理掉高级的野怪点。</HeroTips_FCN>
+    <StrategyUrl>http://3v3.16163.com/zt/3v3/nqzlz/heros/10000202.html</StrategyUrl>
+    <VideoUrl>http://vod.cc.163.com/file/5b55bcfb9d94b04a55027dd2.mp4</VideoUrl>
+</ResHeroDisplayDesc>
+<ResHeroDisplayDesc version="1">
+    <ResID>10000203 </ResID>
+    <AlphabeticalIndex>HDS</AlphabeticalIndex>
+    <HeroName_SCN>哈迪斯</HeroName_SCN>
+    <HeroName_EN>Mot</HeroName_EN>
+    <HeroName_FCN>XX</HeroName_FCN>
+    <HeroDesc_SCN>哈迪斯是敌人最不想看到的对手，因为在哈迪斯主宰的领域里，生命的凋零只是折磨的开始。</HeroDesc_SCN>
+    <HeroDesc_EN>Mot is every opponent&apos;s worst nightmare. In his domain, the withering of life is but the beginning of endless torment.</HeroDesc_EN>
+    <HeroDesc_FCN>哈迪斯是敌人最不想看到的对手，因为在哈迪斯主宰的领域里，生命的凋零只是折磨的开始。</HeroDesc_FCN>
+    <HeroTips_SCN>待添加</HeroTips_SCN>
+    <HeroTips_EN>待添加</HeroTips_EN>
+    <HeroTips_FCN>待添加</HeroTips_FCN>
+    <StrategyUrl>http://3v3.16163.com/zt/3v3/nqzlz/heros/10000203.html</StrategyUrl>
+    <VideoUrl>http://vod.cc.163.com/file/5b55bdc0444971057848bf5c.mp4</VideoUrl>
+</ResHeroDisplayDesc>
+<ResHeroDisplayDesc version="1">
+    <ResID>10000205 </ResID>
+    <AlphabeticalIndex>KS</AlphabeticalIndex>
+    <HeroName_SCN>凯撒</HeroName_SCN>
+    <HeroName_EN>Gaius</HeroName_EN>
+    <HeroName_FCN>GhostKing</HeroName_FCN>
+    <HeroDesc_SCN>凯撒曾经是人类的君主，然而在恶魔的蛊惑下，整个国度都遭到了诅咒。现在，他被困在生与死的夹缝中不断的释放自己疯狂的力量。</HeroDesc_SCN>
+    <HeroDesc_EN>A king back in the day, Gaius&apos; story is one that saddens even the flintiest of hearts. Demonic corruption didn&apos;t just curse his kingdom--it drove him mad by trapping him in the rifts between dimensions.</HeroDesc_EN>
+    <HeroDesc_FCN>凯撒曾经是人类的君主，然而在恶魔的蛊惑下，整个国度都遭到了诅咒。现在，他被困在生与死的夹缝中不断的释放自己疯狂的力量。</HeroDesc_FCN>
+    <HeroTips_SCN>亡魂之主的幽暗吐息可以在大面积的战场上产生控制效果，能为自己的阵型拉扯提供良好的空间。同时，亡魂之主拥有治疗友军和自身的能力，注意自己站位，在不被秒杀的情况下，亡魂之主能为部队提供更持久的战斗力。</HeroTips_SCN>
+    <HeroTips_EN>亡魂之主的幽暗吐息可以在大面积的战场上产生控制效果，能为自己的阵型拉扯提供良好的空间。同时，亡魂之主拥有治疗友军和自身的能力，注意自己站位，在不被秒杀的情况下，亡魂之主能为部队提供更持久的战斗力。</HeroTips_EN>
+    <HeroTips_FCN>亡魂之主的幽暗吐息可以在大面积的战场上产生控制效果，能为自己的阵型拉扯提供良好的空间。同时，亡魂之主拥有治疗友军和自身的能力，注意自己站位，在不被秒杀的情况下，亡魂之主能为部队提供更持久的战斗力。</HeroTips_FCN>
+    <StrategyUrl>http://3v3.16163.com/zt/3v3/nqzlz/heros/10000201.html</StrategyUrl>
+    <VideoUrl>http://vod.cc.163.com/file/5b55bce79d94b04a85b27fd9.mp4</VideoUrl>
+</ResHeroDisplayDesc>
+<ResHeroDisplayDesc version="1">
+    <ResID>10000301 </ResID>
+    <AlphabeticalIndex>DD</AlphabeticalIndex>
+    <HeroName_SCN>但丁</HeroName_SCN>
+    <HeroName_EN>Dante</HeroName_EN>
+    <HeroName_FCN>Hunter</HeroName_FCN>
+    <HeroDesc_SCN>在邪魔一系列惨无人道的折磨之后，但丁是唯一存活的俘虏。在魔狱被攻破后，他携着偷取的邪魔之力，化身成了邪魔最恐怖的梦魇。</HeroDesc_SCN>
+    <HeroDesc_EN>Many captives have perished under the cruel torture of devils, but not Dante. Instead, he stole their power and escaped. Once, he was hunted, now, he is the hunter.</HeroDesc_EN>
+    <HeroDesc_FCN>在邪魔一系列惨无人道的折磨之后，但丁是唯一存活的俘虏。在魔狱被攻破后，他携着偷取的邪魔之力，化身成了邪魔最恐怖的梦魇。</HeroDesc_FCN>
+    <HeroTips_SCN>待添加</HeroTips_SCN>
+    <HeroTips_EN>待添加</HeroTips_EN>
+    <HeroTips_FCN>待添加</HeroTips_FCN>
+    <StrategyUrl>http://3v3.16163.com/zt/3v3/nqzlz/heros/10000301.html</StrategyUrl>
+    <VideoUrl>http://vod.cc.163.com/file/5bbc18d0314bd39f8e8ca7a5.mp4</VideoUrl>
+</ResHeroDisplayDesc>
+<ResHeroDisplayDesc version="1">
+    <ResID>10000302 </ResID>
+    <AlphabeticalIndex>AM</AlphabeticalIndex>
+    <HeroName_SCN>艾米</HeroName_SCN>
+    <HeroName_EN>Aimee</HeroName_EN>
+    <HeroName_FCN>ArrowOfNature</HeroName_FCN>
+    <HeroDesc_SCN>虽然身为高等精灵，但是艾米从来没有想过要被保护在温室中。她用精湛的箭技向族人证明，唯一需要被保护的，是她的敌人。</HeroDesc_SCN>
+    <HeroDesc_EN>The High Elves are never meant to fight in battle. Their lives are just too delicate. But don&apos;t worry about Aimee, because it&apos;s her enemies that are going to die.</HeroDesc_EN>
+    <HeroDesc_FCN>虽然身为高等精灵，但是艾米从来没有想过要被保护在温室中。她用精湛的箭技向族人证明，唯一需要被保护的，是她的敌人。</HeroDesc_FCN>
+    <HeroTips_SCN>待添加</HeroTips_SCN>
+    <HeroTips_EN>待添加</HeroTips_EN>
+    <HeroTips_FCN>待添加</HeroTips_FCN>
+    <StrategyUrl>http://3v3.16163.com/zt/3v3/nqzlz/heros/10000302.html</StrategyUrl>
+    <VideoUrl>http://vod.cc.163.com/file/5b55be764449710585006df2.mp4</VideoUrl>
+</ResHeroDisplayDesc>
+<ResHeroDisplayDesc version="1">
+    <ResID>10000305 </ResID>
+    <AlphabeticalIndex>DD</AlphabeticalIndex>
+    <HeroName_SCN>但丁</HeroName_SCN>
+    <HeroName_EN>Dante</HeroName_EN>
+    <HeroName_FCN>Hunter</HeroName_FCN>
+    <HeroDesc_SCN>在邪魔一系列惨无人道的折磨之后，但丁是唯一存活的俘虏。在魔狱被攻破后，他携着偷取的邪魔之力，化身成了邪魔最恐怖的梦魇。</HeroDesc_SCN>
+    <HeroDesc_EN>Many captives have perished under the cruel torture of devils, but not Dante. Instead, he stole their power and escaped. Once, he was hunted, now, he is the hunter.</HeroDesc_EN>
+    <HeroDesc_FCN>在邪魔一系列惨无人道的折磨之后，但丁是唯一存活的俘虏。在魔狱被攻破后，他携着偷取的邪魔之力，化身成了邪魔最恐怖的梦魇。</HeroDesc_FCN>
+    <HeroTips_SCN>待添加</HeroTips_SCN>
+    <HeroTips_EN>待添加</HeroTips_EN>
+    <HeroTips_FCN>待添加</HeroTips_FCN>
+    <StrategyUrl>http://3v3.16163.com/zt/3v3/nqzlz/heros/10000301.html</StrategyUrl>
+    <VideoUrl>http://vod.cc.163.com/file/5b55be17444971051061f1d8.mp4</VideoUrl>
+</ResHeroDisplayDesc>
+<ResHeroDisplayDesc version="1">
+    <ResID>10000401 </ResID>
+    <AlphabeticalIndex>LC</AlphabeticalIndex>
+    <HeroName_SCN>罗刹</HeroName_SCN>
+    <HeroName_EN>Asuka</HeroName_EN>
+    <HeroName_FCN>ShadowDuelist</HeroName_FCN>
+    <HeroDesc_SCN>最精湛的技艺和最温柔的内心，造就了最为矛盾的性格。罗刹每一次的出击，都是为了终有一天能放下手中的剑。</HeroDesc_SCN>
+    <HeroDesc_EN>Asuka is as gentle in nature as she is grim in battle. Conflicted but determined, she only wields her sword so that one day she may no longer need to.</HeroDesc_EN>
+    <HeroDesc_FCN>最精湛的技艺和最温柔的内心，造就了最为矛盾的性格。罗刹每一次的出击，都是为了终有一天能放下手中的剑。</HeroDesc_FCN>
+    <HeroTips_SCN>待添加</HeroTips_SCN>
+    <HeroTips_EN>待添加</HeroTips_EN>
+    <HeroTips_FCN>待添加</HeroTips_FCN>
+    <StrategyUrl>http://3v3.16163.com/zt/3v3/nqzlz/heros/10000401.html</StrategyUrl>
+    <VideoUrl>http://vod.cc.163.com/file/5b55beb3444971052a2e610e.mp4</VideoUrl>
+</ResHeroDisplayDesc>
+<ResHeroDisplayDesc version="1">
+    <ResID>10000402 </ResID>
+    <AlphabeticalIndex>SD</AlphabeticalIndex>
+    <HeroName_SCN>撒旦</HeroName_SCN>
+    <HeroName_EN>Infernius</HeroName_EN>
+    <HeroName_FCN>OutlandDemon</HeroName_FCN>
+    <HeroDesc_SCN>经历了远古的大战之后，撒旦就陷入了沉睡。如今，滔天的战火再次惊醒了这位魔王，地狱的业火将重现人间。</HeroDesc_SCN>
+    <HeroDesc_EN>Long has Infernius remained in his slumber, until the drum of war thunders once again. The mortals have no idea what they have awakened.</HeroDesc_EN>
+    <HeroDesc_FCN>经历了远古的大战之后，撒旦就陷入了沉睡。如今，滔天的战火再次惊醒了这位魔王，地狱的业火将重现人间。</HeroDesc_FCN>
+    <HeroTips_SCN>待添加</HeroTips_SCN>
+    <HeroTips_EN>待添加</HeroTips_EN>
+    <HeroTips_FCN>待添加</HeroTips_FCN>
+    <StrategyUrl>http://3v3.16163.com/zt/3v3/nqzlz/heros/10000402.html</StrategyUrl>
+    <VideoUrl>http://vod.cc.163.com/file/5b55bf004449710585006df4.mp4</VideoUrl>
+</ResHeroDisplayDesc>
+<ResHeroDisplayDesc version="1">
+    <ResID>10000403 </ResID>
+    <AlphabeticalIndex>BAWF</AlphabeticalIndex>
+    <HeroName_SCN>贝奥武夫</HeroName_SCN>
+    <HeroName_EN>Hogarth</HeroName_EN>
+    <HeroName_FCN>VikingFighter</HeroName_FCN>
+    <HeroDesc_SCN>经历了无数场战斗，身边的战友换了一批又一批，唯有贝奥武夫一直屹立不倒。在敌人眼里，这位贝奥武夫已经成为了战神的化身。</HeroDesc_SCN>
+    <HeroDesc_EN>Countless brethren have fallen as wars come and go, but Hogarth remains eternal. Renowned as the avatar of the god of war, he&apos;ll bring death to all that oppose him.</HeroDesc_EN>
+    <HeroDesc_FCN>经历了无数场战斗，身边的战友换了一批又一批，唯有贝奥武夫一直屹立不倒。在敌人眼里，这位贝奥武夫已经成为了战神的化身。</HeroDesc_FCN>
+    <HeroTips_SCN>待添加</HeroTips_SCN>
+    <HeroTips_EN>待添加</HeroTips_EN>
+    <HeroTips_FCN>待添加</HeroTips_FCN>
+    <StrategyUrl>http://3v3.16163.com/zt/3v3/nqzlz/heros/10000403.html</StrategyUrl>
+    <VideoUrl>http://vod.cc.163.com/file/5b55bf80444971055e39c195.mp4</VideoUrl>
+</ResHeroDisplayDesc>
+<ResHeroDisplayDesc version="1">
+    <ResID>10000404 </ResID>
+    <AlphabeticalIndex>AN</AlphabeticalIndex>
+    <HeroName_SCN>安娜</HeroName_SCN>
+    <HeroName_EN>Nara</HeroName_EN>
+    <HeroName_FCN>SoulArcher</HeroName_FCN>
+    <HeroDesc_SCN>安娜的敌人恐惧的不仅是她精湛的弓术，当被安娜的箭射中的刹那，仿佛连灵魂都会被吞噬。</HeroDesc_SCN>
+    <HeroDesc_EN>As if getting shot in your knee wasn&apos;t bad enough, Nara drains the soul of every enemy she lands an arrow on.</HeroDesc_EN>
+    <HeroDesc_FCN>安娜的敌人恐惧的不仅是她精湛的弓术，当被安娜的箭射中的刹那，仿佛连灵魂都会被吞噬。</HeroDesc_FCN>
+    <HeroTips_SCN>待添加</HeroTips_SCN>
+    <HeroTips_EN>待添加</HeroTips_EN>
+    <HeroTips_FCN>待添加</HeroTips_FCN>
+    <StrategyUrl>http://3v3.16163.com/zt/3v3/nqzlz/heros/10000404.html</StrategyUrl>
+    <VideoUrl>http://vod.cc.163.com/file/5b55bfac444971051d66b536.mp4</VideoUrl>
+</ResHeroDisplayDesc>
+<ResHeroDisplayDesc version="1">
+    <ResID>10000405 </ResID>
+    <AlphabeticalIndex>LL</AlphabeticalIndex>
+    <HeroName_SCN>蕾拉</HeroName_SCN>
+    <HeroName_EN>Layla</HeroName_EN>
+    <HeroName_FCN>DinoRider</HeroName_FCN>
+    <HeroDesc_SCN>赤火之森从来没有宁静的一天，因为蕾拉跟她最要好的伙伴“恐龙巴克”总会让这片森林鸡飞狗跳。</HeroDesc_SCN>
+    <HeroDesc_EN>The Redfire Woods will never have a day of peace with Layla and her pet Buck around. They just have a snack of making a mess out of everything.</HeroDesc_EN>
+    <HeroDesc_FCN>赤火之森从来没有宁静的一天，因为蕾拉跟她最要好的伙伴“恐龙巴克”总会让这片森林鸡飞狗跳。</HeroDesc_FCN>
+    <HeroTips_SCN>待添加</HeroTips_SCN>
+    <HeroTips_EN>待添加</HeroTips_EN>
+    <HeroTips_FCN>待添加</HeroTips_FCN>
+    <StrategyUrl>http://3v3.16163.com/zt/3v3/nqzlz/heros/10000405.html</StrategyUrl>
+    <VideoUrl>http://vod.cc.163.com/file/5b55bfe244497105922212cc.mp4</VideoUrl>
+</ResHeroDisplayDesc>
+<ResHeroDisplayDesc version="1">
+    <ResID>10000406 </ResID>
+    <AlphabeticalIndex>TSL</AlphabeticalIndex>
+    <HeroName_SCN>特斯拉</HeroName_SCN>
+    <HeroName_EN>Titanius</HeroName_EN>
+    <HeroName_FCN>DL3000</HeroName_FCN>
+    <HeroDesc_SCN>如果没有被发明家斯坦捡到，特斯拉可能已经变成了一块破烂。现在，焕然一新的特斯拉将继续执行他未完成的指令：守护铁塔城。</HeroDesc_SCN>
+    <HeroDesc_EN>Titanius would have been a piece of trash if it weren&apos;t for an unexpected inventor. Now he continues to protect the Iron Tower as programmed with maximum capability.</HeroDesc_EN>
+    <HeroDesc_FCN>如果没有被发明家斯坦捡到，特斯拉可能已经变成了一块破烂。现在，焕然一新的特斯拉将继续执行他未完成的指令：守护铁塔城。</HeroDesc_FCN>
+    <HeroTips_SCN>待添加</HeroTips_SCN>
+    <HeroTips_EN>待添加</HeroTips_EN>
+    <HeroTips_FCN>待添加</HeroTips_FCN>
+    <StrategyUrl>http://3v3.16163.com/zt/3v3/nqzlz/heros/10000406.html</StrategyUrl>
+    <VideoUrl>http://vod.cc.163.com/file/5b55c01444497104a8c20a82.mp4</VideoUrl>
+</ResHeroDisplayDesc>
+<ResHeroDisplayDesc version="1">
+    <ResID>10000407 </ResID>
+    <AlphabeticalIndex>L</AlphabeticalIndex>
+    <HeroName_SCN>泷</HeroName_SCN>
+    <HeroName_EN>Raine</HeroName_EN>
+    <HeroName_FCN>XX</HeroName_FCN>
+    <HeroDesc_SCN>作为秘传忍宗最后的传人，泷从未放弃过对巅峰的追求，而这剧变的乱世，则是他最好的修炼场。</HeroDesc_SCN>
+    <HeroDesc_EN>Raine, the last successor of a secret ninja order, is ever relentless in his pursuit of greatness. It&apos;s hardly surprising that he finds the world in conflicts a fitting place to better his battle prowess.</HeroDesc_EN>
+    <HeroDesc_FCN>作为秘传忍宗最后的传人，泷从未放弃过对巅峰的追求，而这剧变的乱世，则是他最好的修炼场。</HeroDesc_FCN>
+    <HeroTips_SCN>待添加</HeroTips_SCN>
+    <HeroTips_EN>待添加</HeroTips_EN>
+    <HeroTips_FCN>待添加</HeroTips_FCN>
+    <StrategyUrl>http://3v3.16163.com/zt/3v3/nqzlz/heros/10000407.html</StrategyUrl>
+    <VideoUrl>http://vod.cc.163.com/file/5b55c050444971055e39c197.mp4</VideoUrl>
+</ResHeroDisplayDesc>
+<ResHeroDisplayDesc version="1">
+    <ResID>10000408 </ResID>
+    <AlphabeticalIndex>XMR</AlphabeticalIndex>
+    <HeroName_SCN>天宝</HeroName_SCN>
+    <HeroName_EN>Yao</HeroName_EN>
+    <HeroName_FCN>PandaMan</HeroName_FCN>
+    <HeroDesc_SCN>除魔卫道是天宝始终不变的使命，他走遍莫格兰大陆，封印无数魔物。而现在，他终于遇到了最强大的对手--魔王撒旦。</HeroDesc_SCN>
+    <HeroDesc_EN>Yao is a faithful believer in his way to protect family and home, to preserve balance and bring harmony. Now, a formidable foe has shown up--Infernius.</HeroDesc_EN>
+    <HeroDesc_FCN>除魔卫道是天宝始终不变的使命，他走遍莫格兰大陆，封印无数魔物。而现在，他终于遇到了最强大的对手--魔王撒旦。</HeroDesc_FCN>
+    <HeroTips_SCN>风暴之锤的无畏之躯可以让他在短时间内无可匹敌，在适当的时间和位置释放无畏之躯杀向敌人，可以让你的对手难以招架。搭配拥有加速技能的英雄或召唤师技能更能让你如虎添翼。</HeroTips_SCN>
+    <HeroTips_EN>待添加</HeroTips_EN>
+    <HeroTips_FCN>待添加</HeroTips_FCN>
+    <StrategyUrl>http://3v3.16163.com/zt/3v3/nqzlz/heros/10000408.html</StrategyUrl>
+    <VideoUrl>http://vod.cc.163.com/file/5bbc18ae9efdc0608bb6b081.mp4</VideoUrl>
+</ResHeroDisplayDesc>
+<ResHeroDisplayDesc version="1">
+    <ResID>10000409 </ResID>
+    <AlphabeticalIndex>ORL</AlphabeticalIndex>
+    <HeroName_SCN>欧若拉</HeroName_SCN>
+    <HeroName_EN>Angelica</HeroName_EN>
+    <HeroName_FCN>Sancte</HeroName_FCN>
+    <HeroDesc_SCN>当整个世界陷入混乱之时，欧若拉作为天堂的使者降临在这片大陆。她将用天神的力量，去终结混乱的源头。</HeroDesc_SCN>
+    <HeroDesc_EN>When the world fell into disarray, Angelica descended from the heaven, carrying the power of celestials to restore the order.</HeroDesc_EN>
+    <HeroDesc_FCN>当整个世界陷入混乱之时，欧若拉作为天堂的使者降临在这片大陆。她将用天神的力量，去终结混乱的源头。</HeroDesc_FCN>
+    <HeroTips_SCN>待添加</HeroTips_SCN>
+    <HeroTips_EN>待添加</HeroTips_EN>
+    <HeroTips_FCN>待添加</HeroTips_FCN>
+    <StrategyUrl>http://3v3.16163.com/zt/3v3/nqzlz/heros/10000409.html</StrategyUrl>
+    <VideoUrl>http://vod.cc.163.com/file/5b55c0cc4449710551c5d7a6.mp4</VideoUrl>
+</ResHeroDisplayDesc>
+<ResHeroDisplayDesc version="1">
+    <ResID>10000410 </ResID>
+    <AlphabeticalIndex>ALS</AlphabeticalIndex>
+    <HeroName_SCN>爱丽丝</HeroName_SCN>
+    <HeroName_EN>Sierra</HeroName_EN>
+    <HeroName_FCN>PhantomRanger</HeroName_FCN>
+    <HeroDesc_SCN>没人胆敢在爱丽丝的地盘上撒野，因为爱丽丝的枪林弹雨会让她的敌人以为，自己面对的是一只军队。</HeroDesc_SCN>
+    <HeroDesc_EN>You don&apos;t want to mess with Sierra on her own turf. Her firepower is so intense that it feels like you are fighting against an entire army.</HeroDesc_EN>
+    <HeroDesc_FCN>没人胆敢在爱丽丝的地盘上撒野，因为爱丽丝的枪林弹雨会让她的敌人以为，自己面对的是一只军队。</HeroDesc_FCN>
+    <HeroTips_SCN>待添加</HeroTips_SCN>
+    <HeroTips_EN>待添加</HeroTips_EN>
+    <HeroTips_FCN>待添加</HeroTips_FCN>
+    <StrategyUrl>http://3v3.16163.com/zt/3v3/nqzlz/heros/10000410.html</StrategyUrl>
+    <VideoUrl>http://vod.cc.163.com/file/5b55c115444971051d66b53b.mp4</VideoUrl>
+</ResHeroDisplayDesc>
+<ResHeroDisplayDesc version="1">
+    <ResID>10000411 </ResID>
+    <AlphabeticalIndex>KTS</AlphabeticalIndex>
+    <HeroName_SCN>骁</HeroName_SCN>
+    <HeroName_EN>Kensei</HeroName_EN>
+    <HeroName_FCN>XX</HeroName_FCN>
+    <HeroDesc_SCN>为了追求剑道的极致，骁无时不刻不在找寻强大的对手。而混乱时代的来临无疑让他拥有了更多更好的磨刀石。</HeroDesc_SCN>
+    <HeroDesc_EN>Kensei is ever searching for a worthy opponent to take his swordsmanship one step closer to what is humanly possible. Chaotic times will only sharpen his sword like a whetstone.</HeroDesc_EN>
+    <HeroDesc_FCN>为了追求剑道的极致，骁无时不刻不在找寻强大的对手。而混乱时代的来临无疑让他拥有了更多更好的磨刀石。</HeroDesc_FCN>
+    <HeroTips_SCN>待添加</HeroTips_SCN>
+    <HeroTips_EN>待添加</HeroTips_EN>
+    <HeroTips_FCN>待添加</HeroTips_FCN>
+    <StrategyUrl>http://3v3.16163.com/zt/3v3/nqzlz/heros/10000411.html</StrategyUrl>
+    <VideoUrl>http://vod.cc.163.com/file/5b55c14344497105035c6af8.mp4</VideoUrl>
+</ResHeroDisplayDesc>
+<ResHeroDisplayDesc version="1">
+    <ResID>10000412 </ResID>
+    <AlphabeticalIndex>YCLL</AlphabeticalIndex>
+    <HeroName_SCN>丸子</HeroName_SCN>
+    <HeroName_EN>Wuli</HeroName_EN>
+    <HeroName_FCN>XX</HeroName_FCN>
+    <HeroDesc_SCN>丸子被发现拥有超乎常人的魔法天赋。经过悉心培养，小小年纪已经能够在战场上独挡一面。她层出不穷的法术是让对手最为头疼的存在。</HeroDesc_SCN>
+    <HeroDesc_EN>Wuli was found to have an extraordinary talent for magic, and can harness immense power for a girl her age. Her many incantations are a seemingly unsurpassable hurdle for her enemies.</HeroDesc_EN>
+    <HeroDesc_FCN>丸子被发现拥有超乎常人的魔法天赋。经过悉心培养，小小年纪已经能够在战场上独挡一面。她层出不穷的法术是让对手最为头疼的存在。</HeroDesc_FCN>
+    <HeroTips_SCN>待添加</HeroTips_SCN>
+    <HeroTips_EN>待添加</HeroTips_EN>
+    <HeroTips_FCN>待添加</HeroTips_FCN>
+    <StrategyUrl>http://3v3.16163.com/zt/3v3/nqzlz/heros/10000412.html</StrategyUrl>
+    <VideoUrl>http://vod.cc.163.com/file/5b55c182444971051d66b53c.mp4</VideoUrl>
+</ResHeroDisplayDesc>
+<ResHeroDisplayDesc version="1">
+    <ResID>10000413 </ResID>
+    <AlphabeticalIndex>YW</AlphabeticalIndex>
+    <HeroName_SCN>伊娃</HeroName_SCN>
+    <HeroName_EN>Leah</HeroName_EN>
+    <HeroName_FCN>XX</HeroName_FCN>
+    <HeroDesc_SCN>传说光之圣女伊娃是由创世之光的一缕残片化成。当她的光芒点亮战场的时候，人们仿佛能看到创世之光的降临。</HeroDesc_SCN>
+    <HeroDesc_EN>Rumors fly that Leah, the Maiden of Light, was created out of a fragment of the Fabricator&apos;s Light. When the battlefield is lit up by her bright radiance, it looks as though the Fabricators have arrived again.</HeroDesc_EN>
+    <HeroDesc_FCN>传说光之圣女伊娃是由创世之光的一缕残片化成。当她的光芒点亮战场的时候，人们仿佛能看到创世之光的降临。</HeroDesc_FCN>
+    <HeroTips_SCN>待添加</HeroTips_SCN>
+    <HeroTips_EN>待添加</HeroTips_EN>
+    <HeroTips_FCN>待添加</HeroTips_FCN>
+    <StrategyUrl>http://3v3.16163.com/zt/3v3/nqzlz/heros/10000413.html</StrategyUrl>
+    <VideoUrl>http://vod.cc.163.com/file/5b55c1c944497104c2fc8f14.mp4</VideoUrl>
+</ResHeroDisplayDesc>
+<ResHeroDisplayDesc version="1">
+    <ResID>10000414 </ResID>
+    <AlphabeticalIndex>ZZZZ</AlphabeticalIndex>
+    <HeroName_SCN>阿灵</HeroName_SCN>
+    <HeroName_EN>Zore</HeroName_EN>
+    <HeroName_FCN>XX</HeroName_FCN>
+    <HeroDesc_SCN>阿灵能够掌控风的力量。战场上突然掀起的狂风让他的对手寸步难行，而作为发起者，阿灵在风中会变得更加迅捷。</HeroDesc_SCN>
+    <HeroDesc_EN>The power of winds is at Zore&apos;s command. He can summon violent winds to ensnare his enemies, while simultaneously making himself quicker and sharper.</HeroDesc_EN>
+    <HeroDesc_FCN>阿灵能够掌控风的力量。战场上突然掀起的狂风让他的对手寸步难行，而作为发起者，阿灵在风中会变得更加迅捷。</HeroDesc_FCN>
+    <HeroTips_SCN>test</HeroTips_SCN>
+    <HeroTips_EN>test</HeroTips_EN>
+    <HeroTips_FCN>test</HeroTips_FCN>
+    <StrategyUrl>http://3v3.16163.com/zt/3v3/nqzlz/heros/10000414.html</StrategyUrl>
+    <VideoUrl>http://vod.cc.163.com/file/5b55c217444971055e39c19c.mp4</VideoUrl>
+</ResHeroDisplayDesc>
+<ResHeroDisplayDesc version="1">
+    <ResID>10000415 </ResID>
+    <AlphabeticalIndex>BL</AlphabeticalIndex>
+    <HeroName_SCN>白龙</HeroName_SCN>
+    <HeroName_EN>Bai</HeroName_EN>
+    <HeroName_FCN>XX</HeroName_FCN>
+    <HeroDesc_SCN>没人知道白龙确切的实力，往往举手投足之间，就让对手失去了反抗能力。骑着白鹤翱翔于天地之间，往往让对手无法跟上他的身影</HeroDesc_SCN>
+    <HeroDesc_EN>None has lasted long enough against Bai in a fight to witness his full strength. A word to the wise, you see a man riding a white crane in the sky, better go on your merry way.</HeroDesc_EN>
+    <HeroDesc_FCN>没人知道白龙确切的实力，往往举手投足之间，就让对手失去了反抗能力。骑着白鹤翱翔于天地之间，往往让对手无法跟上他的身影</HeroDesc_FCN>
+    <HeroTips_SCN>test</HeroTips_SCN>
+    <HeroTips_EN>test</HeroTips_EN>
+    <HeroTips_FCN>test</HeroTips_FCN>
+    <StrategyUrl>http://3v3.16163.com/zt/3v3/nqzlz/heros/10000415.html</StrategyUrl>
+    <VideoUrl></VideoUrl>
+</ResHeroDisplayDesc>
+<ResHeroDisplayDesc version="1">
+    <ResID>10000416 </ResID>
+    <AlphabeticalIndex>DC</AlphabeticalIndex>
+    <HeroName_SCN>貂蝉</HeroName_SCN>
+    <HeroName_EN>Diao</HeroName_EN>
+    <HeroName_FCN>XX</HeroName_FCN>
+    <HeroDesc_SCN>乱世红颜的命运似乎总是悲剧收尾。纵使命数难改，貂蝉惊艳的舞姿依然能留下难以抹去的深刻印记。</HeroDesc_SCN>
+    <HeroDesc_EN>Women rarely fare well in troubled times as if it&apos;s their fate, but Diao has certainly left a lingering impression with her beautifully peculiar dance.</HeroDesc_EN>
+    <HeroDesc_FCN>乱世红颜的命运似乎总是悲剧收尾。纵使命数难改，貂蝉惊艳的舞姿依然能留下难以抹去的深刻印记。</HeroDesc_FCN>
+    <HeroTips_SCN>待添加</HeroTips_SCN>
+    <HeroTips_EN>待添加</HeroTips_EN>
+    <HeroTips_FCN>待添加</HeroTips_FCN>
+    <StrategyUrl>http://3v3.16163.com/zt/3v3/nqzlz/heros/10000416.html</StrategyUrl>
+    <VideoUrl>http://vod.cc.163.com/file/5b55c261444971056bc16a28.mp4</VideoUrl>
+</ResHeroDisplayDesc>
+<ResHeroDisplayDesc version="1">
+    <ResID>10000417 </ResID>
+    <AlphabeticalIndex>FLLS</AlphabeticalIndex>
+    <HeroName_SCN>米琪</HeroName_SCN>
+    <HeroName_EN>Hilda</HeroName_EN>
+    <HeroName_FCN>WindHunter</HeroName_FCN>
+    <HeroDesc_SCN>常年在西部峡谷的历练让米琪对风向的控制极为敏感，再加上能制造烈风的猎鹰米诺，她们组成了峡谷中最可怕的猎手组合。</HeroDesc_SCN>
+    <HeroDesc_EN>Hilda is a walking weather-vane thanks to years of grind in the Westvale. Joined by the wind-calling falcon, Minot, this is the deadliest hunting duo this side of the vale.</HeroDesc_EN>
+    <HeroDesc_FCN>常年在西部峡谷的历练让米琪对风向的控制极为敏感，再加上能制造烈风的猎鹰米诺，她们组成了峡谷中最可怕的猎手组合。</HeroDesc_FCN>
+    <HeroTips_SCN>待添加</HeroTips_SCN>
+    <HeroTips_EN>待添加</HeroTips_EN>
+    <HeroTips_FCN>待添加</HeroTips_FCN>
+    <StrategyUrl>http://3v3.16163.com/zt/3v3/nqzlz/heros/10000417.html</StrategyUrl>
+    <VideoUrl>http://vod.cc.163.com/file/5b55c2a244497105922212cf.mp4</VideoUrl>
+</ResHeroDisplayDesc>
+<ResHeroDisplayDesc version="1">
+    <ResID>10000601 </ResID>
+    <AlphabeticalIndex>ZZZZ</AlphabeticalIndex>
+    <HeroName_SCN>test</HeroName_SCN>
+    <HeroName_EN>test</HeroName_EN>
+    <HeroName_FCN>test</HeroName_FCN>
+    <HeroDesc_SCN>test</HeroDesc_SCN>
+    <HeroDesc_EN>test</HeroDesc_EN>
+    <HeroDesc_FCN>test</HeroDesc_FCN>
+    <HeroTips_SCN>待添加</HeroTips_SCN>
+    <HeroTips_EN>待添加</HeroTips_EN>
+    <HeroTips_FCN>待添加</HeroTips_FCN>
+    <StrategyUrl>http://3v3.16163.com/zt/3v3/nqzlz/heros/10000601.html</StrategyUrl>
+    <VideoUrl></VideoUrl>
+</ResHeroDisplayDesc>
+<ResHeroDisplayDesc version="1">
+    <ResID>10000602 </ResID>
+    <AlphabeticalIndex>ZZZZ</AlphabeticalIndex>
+    <HeroName_SCN>test01</HeroName_SCN>
+    <HeroName_EN>test01</HeroName_EN>
+    <HeroName_FCN>test01</HeroName_FCN>
+    <HeroDesc_SCN>test</HeroDesc_SCN>
+    <HeroDesc_EN>test</HeroDesc_EN>
+    <HeroDesc_FCN>test</HeroDesc_FCN>
+    <HeroTips_SCN>待添加</HeroTips_SCN>
+    <HeroTips_EN>待添加</HeroTips_EN>
+    <HeroTips_FCN>待添加</HeroTips_FCN>
+    <StrategyUrl>http://3v3.16163.com/zt/3v3/nqzlz/heros/10000602.html</StrategyUrl>
+    <VideoUrl></VideoUrl>
+</ResHeroDisplayDesc>
+<ResHeroDisplayDesc version="1">
+    <ResID>10000603 </ResID>
+    <AlphabeticalIndex>ZZZZ</AlphabeticalIndex>
+    <HeroName_SCN>test02</HeroName_SCN>
+    <HeroName_EN>test02</HeroName_EN>
+    <HeroName_FCN>test02</HeroName_FCN>
+    <HeroDesc_SCN>test</HeroDesc_SCN>
+    <HeroDesc_EN>test</HeroDesc_EN>
+    <HeroDesc_FCN>test</HeroDesc_FCN>
+    <HeroTips_SCN>待添加</HeroTips_SCN>
+    <HeroTips_EN>待添加</HeroTips_EN>
+    <HeroTips_FCN>待添加</HeroTips_FCN>
+    <StrategyUrl>http://3v3.16163.com/zt/3v3/nqzlz/heros/10000603.html</StrategyUrl>
+    <VideoUrl></VideoUrl>
+</ResHeroDisplayDesc>
+</ResHeroDisplayDesc_Tab>

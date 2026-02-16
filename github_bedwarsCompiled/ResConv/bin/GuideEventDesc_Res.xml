@@ -1,0 +1,1685 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<ResGuideEventDesc_Tab>
+<TResHeadAll version="5">
+    <resHead type="TResHead">
+        <Magic>1397052237 </Magic>
+        <Version>6 </Version>
+        <Unit>2387 </Unit>
+        <Count>104 </Count>
+        <MetalibHash>531d5b4a397ad5b3c0fbfb5cc8059e55</MetalibHash>
+        <ResVersion>0 </ResVersion>
+        <CreateTime>2023-04-19 20:42:33</CreateTime>
+        <ResEncording>UTF-8</ResEncording>
+        <ContentHash>5a6c0d7c058be01e7d218c6ec7220023</ContentHash>
+    </resHead>
+    <resHeadExt type="TResHeadExt">
+        <DataOffset>136 </DataOffset>
+    </resHeadExt>
+</TResHeadAll>
+<ResGuideEventDesc version="1">
+    <ResID>1 </ResID>
+    <Time>86400 </Time>
+    <ClicKTime>1 </ClicKTime>
+    <IsForcePos>1 </IsForcePos>
+    <IsCloseMask>0 </IsCloseMask>
+    <IsMaskTransparent>0 </IsMaskTransparent>
+    <TaskID>0 </TaskID>
+    <VoicePath></VoicePath>
+    <Desc_words1_SCN>您可以&lt;color=#FFF800FF&gt;拖动摇杆&lt;/color&gt;来控制您英雄和队伍的&lt;color=#FFF800FF&gt;移动&lt;/color&gt;</Desc_words1_SCN>
+    <Desc_words1_FCN>您可以&lt;color=#FFF800FF&gt;拖动摇杆&lt;/color&gt;来控制您英雄和队伍的&lt;color=#FFF800FF&gt;移动&lt;/color&gt;</Desc_words1_FCN>
+    <Desc_words1_EN>Use the joystick to move your Hero and troops.</Desc_words1_EN>
+    <Desc_words2_SCN>&lt;color=#FFF800FF&gt;移动摇杆&lt;/color&gt;</Desc_words2_SCN>
+    <Desc_words2_FCN>&lt;color=#FFF800FF&gt;移动摇杆&lt;/color&gt;</Desc_words2_FCN>
+    <Desc_words2_EN>Move the joystick.</Desc_words2_EN>
+</ResGuideEventDesc>
+<ResGuideEventDesc version="1">
+    <ResID>2 </ResID>
+    <Time>86400 </Time>
+    <ClicKTime>1 </ClicKTime>
+    <IsForcePos>1 </IsForcePos>
+    <IsCloseMask>0 </IsCloseMask>
+    <IsMaskTransparent>0 </IsMaskTransparent>
+    <TaskID>0 </TaskID>
+    <VoicePath></VoicePath>
+    <Desc_words1_SCN>使用&lt;color=#FFF800FF&gt;集火&lt;/color&gt;可以让您的部队击中&lt;color=#FFF800FF&gt;攻击&lt;/color&gt;当前&lt;color=#FFF800FF&gt;选中的目标&lt;/color&gt;</Desc_words1_SCN>
+    <Desc_words1_FCN>使用&lt;color=#FFF800FF&gt;集火&lt;/color&gt;可以让您的部队击中&lt;color=#FFF800FF&gt;攻击&lt;/color&gt;当前&lt;color=#FFF800FF&gt;选中的目标&lt;/color&gt;</Desc_words1_FCN>
+    <Desc_words1_EN>Use Focus Fire to order all your troops to attack the currently selected target.</Desc_words1_EN>
+    <Desc_words2_SCN>&lt;color=#FFF800FF&gt;集火&lt;/color&gt;目标</Desc_words2_SCN>
+    <Desc_words2_FCN>&lt;color=#FFF800FF&gt;集火&lt;/color&gt;目标</Desc_words2_FCN>
+    <Desc_words2_EN>Focus fire on the target.</Desc_words2_EN>
+</ResGuideEventDesc>
+<ResGuideEventDesc version="1">
+    <ResID>3 </ResID>
+    <Time>86400 </Time>
+    <ClicKTime>1 </ClicKTime>
+    <IsForcePos>1 </IsForcePos>
+    <IsCloseMask>0 </IsCloseMask>
+    <IsMaskTransparent>0 </IsMaskTransparent>
+    <TaskID>0 </TaskID>
+    <VoicePath></VoicePath>
+    <Desc_words1_SCN>&lt;color=#FFF800FF&gt;跟随&lt;/color&gt;按钮可以让您的部队进入&lt;color=#FFF800FF&gt;跟随状态&lt;/color&gt;，队伍与英雄将&lt;color=#FFF800FF&gt;同步移动&lt;/color&gt;</Desc_words1_SCN>
+    <Desc_words1_FCN>&lt;color=#FFF800FF&gt;跟随&lt;/color&gt;按钮可以让您的部队进入&lt;color=#FFF800FF&gt;跟随状态&lt;/color&gt;，队伍与英雄将&lt;color=#FFF800FF&gt;同步移动&lt;/color&gt;</Desc_words1_FCN>
+    <Desc_words1_EN>Use Follow to order your troops to move with your Hero.</Desc_words1_EN>
+    <Desc_words2_SCN>&lt;color=#FFF800FF&gt;1.&lt;/color&gt;点击&lt;color=#FFF800FF&gt;跟随&lt;/color&gt;</Desc_words2_SCN>
+    <Desc_words2_FCN>&lt;color=#FFF800FF&gt;1.&lt;/color&gt;点击&lt;color=#FFF800FF&gt;跟随&lt;/color&gt;</Desc_words2_FCN>
+    <Desc_words2_EN>1. Tap Follow.</Desc_words2_EN>
+</ResGuideEventDesc>
+<ResGuideEventDesc version="1">
+    <ResID>4 </ResID>
+    <Time>86400 </Time>
+    <ClicKTime>1 </ClicKTime>
+    <IsForcePos>1 </IsForcePos>
+    <IsCloseMask>0 </IsCloseMask>
+    <IsMaskTransparent>0 </IsMaskTransparent>
+    <TaskID>0 </TaskID>
+    <VoicePath></VoicePath>
+    <Desc_words1_SCN>您可以点击&lt;color=#FFF800FF&gt;攻击按钮&lt;/color&gt;来选择队伍的&lt;color=#FFF800FF&gt;攻击目标&lt;/color&gt;</Desc_words1_SCN>
+    <Desc_words1_FCN>您可以点击&lt;color=#FFF800FF&gt;攻击按钮&lt;/color&gt;来选择队伍的&lt;color=#FFF800FF&gt;攻击目标&lt;/color&gt;</Desc_words1_FCN>
+    <Desc_words1_EN>Use Attack to select a target for your troops.</Desc_words1_EN>
+    <Desc_words2_SCN>&lt;color=#FFF800FF&gt;攻击&lt;/color&gt;按钮</Desc_words2_SCN>
+    <Desc_words2_FCN>&lt;color=#FFF800FF&gt;攻击&lt;/color&gt;按钮</Desc_words2_FCN>
+    <Desc_words2_EN>Attack Button</Desc_words2_EN>
+</ResGuideEventDesc>
+<ResGuideEventDesc version="1">
+    <ResID>5 </ResID>
+    <Time>1 </Time>
+    <ClicKTime>-1 </ClicKTime>
+    <IsForcePos>0 </IsForcePos>
+    <IsCloseMask>0 </IsCloseMask>
+    <IsMaskTransparent>1 </IsMaskTransparent>
+    <TaskID>0 </TaskID>
+    <VoicePath></VoicePath>
+    <Desc_words1_SCN></Desc_words1_SCN>
+    <Desc_words1_FCN></Desc_words1_FCN>
+    <Desc_words1_EN></Desc_words1_EN>
+    <Desc_words2_SCN></Desc_words2_SCN>
+    <Desc_words2_FCN></Desc_words2_FCN>
+    <Desc_words2_EN></Desc_words2_EN>
+</ResGuideEventDesc>
+<ResGuideEventDesc version="1">
+    <ResID>6 </ResID>
+    <Time>86400 </Time>
+    <ClicKTime>0 </ClicKTime>
+    <IsForcePos>1 </IsForcePos>
+    <IsCloseMask>0 </IsCloseMask>
+    <IsMaskTransparent>0 </IsMaskTransparent>
+    <TaskID>0 </TaskID>
+    <VoicePath></VoicePath>
+    <Desc_words1_SCN></Desc_words1_SCN>
+    <Desc_words1_FCN></Desc_words1_FCN>
+    <Desc_words1_EN></Desc_words1_EN>
+    <Desc_words2_SCN></Desc_words2_SCN>
+    <Desc_words2_FCN></Desc_words2_FCN>
+    <Desc_words2_EN></Desc_words2_EN>
+</ResGuideEventDesc>
+<ResGuideEventDesc version="1">
+    <ResID>7 </ResID>
+    <Time>86400 </Time>
+    <ClicKTime>0 </ClicKTime>
+    <IsForcePos>1 </IsForcePos>
+    <IsCloseMask>0 </IsCloseMask>
+    <IsMaskTransparent>0 </IsMaskTransparent>
+    <TaskID>0 </TaskID>
+    <VoicePath></VoicePath>
+    <Desc_words1_SCN></Desc_words1_SCN>
+    <Desc_words1_FCN></Desc_words1_FCN>
+    <Desc_words1_EN></Desc_words1_EN>
+    <Desc_words2_SCN></Desc_words2_SCN>
+    <Desc_words2_FCN></Desc_words2_FCN>
+    <Desc_words2_EN></Desc_words2_EN>
+</ResGuideEventDesc>
+<ResGuideEventDesc version="1">
+    <ResID>8 </ResID>
+    <Time>86400 </Time>
+    <ClicKTime>1 </ClicKTime>
+    <IsForcePos>0 </IsForcePos>
+    <IsCloseMask>0 </IsCloseMask>
+    <IsMaskTransparent>0 </IsMaskTransparent>
+    <TaskID>0 </TaskID>
+    <VoicePath></VoicePath>
+    <Desc_words1_SCN>跟随教学</Desc_words1_SCN>
+    <Desc_words1_FCN>跟随教学</Desc_words1_FCN>
+    <Desc_words1_EN>&quot;Follow&quot; Tutorial</Desc_words1_EN>
+    <Desc_words2_SCN></Desc_words2_SCN>
+    <Desc_words2_FCN></Desc_words2_FCN>
+    <Desc_words2_EN></Desc_words2_EN>
+</ResGuideEventDesc>
+<ResGuideEventDesc version="1">
+    <ResID>9 </ResID>
+    <Time>86400 </Time>
+    <ClicKTime>0 </ClicKTime>
+    <IsForcePos>1 </IsForcePos>
+    <IsCloseMask>0 </IsCloseMask>
+    <IsMaskTransparent>0 </IsMaskTransparent>
+    <TaskID>0 </TaskID>
+    <VoicePath></VoicePath>
+    <Desc_words1_SCN>&lt;color=#FFF800FF&gt;跟随&lt;/color&gt;按钮可以让您的部队进入&lt;color=#FFF800FF&gt;跟随状态&lt;/color&gt;，队伍与英雄将&lt;color=#FFF800FF&gt;同步移动&lt;/color&gt;</Desc_words1_SCN>
+    <Desc_words1_FCN>&lt;color=#FFF800FF&gt;跟随&lt;/color&gt;按钮可以让您的部队进入&lt;color=#FFF800FF&gt;跟随状态&lt;/color&gt;，队伍与英雄将&lt;color=#FFF800FF&gt;同步移动&lt;/color&gt;</Desc_words1_FCN>
+    <Desc_words1_EN>Use Follow to order your troops to move with your Hero.</Desc_words1_EN>
+    <Desc_words2_SCN>&lt;color=#FFF800FF&gt;2.&lt;/color&gt;同步&lt;color=#FFF800FF&gt;移动&lt;/color&gt;</Desc_words2_SCN>
+    <Desc_words2_FCN>&lt;color=#FFF800FF&gt;2.&lt;/color&gt;同步&lt;color=#FFF800FF&gt;移动&lt;/color&gt;</Desc_words2_FCN>
+    <Desc_words2_EN>2. Move together.</Desc_words2_EN>
+</ResGuideEventDesc>
+<ResGuideEventDesc version="1">
+    <ResID>10 </ResID>
+    <Time>86400 </Time>
+    <ClicKTime>0 </ClicKTime>
+    <IsForcePos>0 </IsForcePos>
+    <IsCloseMask>1 </IsCloseMask>
+    <IsMaskTransparent>1 </IsMaskTransparent>
+    <TaskID>10007 </TaskID>
+    <VoicePath></VoicePath>
+    <Desc_words1_SCN>&lt;color=#FFF800FF&gt;使用跟随&lt;/color&gt;，躲避&lt;color=#FFF800FF&gt;3次技能&lt;/color&gt;({0}/{1})</Desc_words1_SCN>
+    <Desc_words1_FCN>&lt;color=#FFF800FF&gt;使用跟随&lt;/color&gt;，躲避&lt;color=#FFF800FF&gt;3次技能&lt;/color&gt;({0}/{1})</Desc_words1_FCN>
+    <Desc_words1_EN>Use Follow to dodge 3 skills.</Desc_words1_EN>
+    <Desc_words2_SCN></Desc_words2_SCN>
+    <Desc_words2_FCN></Desc_words2_FCN>
+    <Desc_words2_EN></Desc_words2_EN>
+</ResGuideEventDesc>
+<ResGuideEventDesc version="1">
+    <ResID>11 </ResID>
+    <Time>86400 </Time>
+    <ClicKTime>0 </ClicKTime>
+    <IsForcePos>1 </IsForcePos>
+    <IsCloseMask>0 </IsCloseMask>
+    <IsMaskTransparent>0 </IsMaskTransparent>
+    <TaskID>0 </TaskID>
+    <VoicePath></VoicePath>
+    <Desc_words1_SCN>您可以在训练界面&lt;color=#FFF800FF&gt;训练士兵&lt;/color&gt;或&lt;color=#FFF800FF&gt;升级科技&lt;/color&gt;</Desc_words1_SCN>
+    <Desc_words1_FCN>您可以在训练界面&lt;color=#FFF800FF&gt;训练士兵&lt;/color&gt;或&lt;color=#FFF800FF&gt;升级科技&lt;/color&gt;</Desc_words1_FCN>
+    <Desc_words1_EN>You can train troop or upgrade tech on the training screen.</Desc_words1_EN>
+    <Desc_words2_SCN>&lt;color=#FFF800FF&gt;训练&lt;/color&gt;界面</Desc_words2_SCN>
+    <Desc_words2_FCN>&lt;color=#FFF800FF&gt;训练&lt;/color&gt;界面</Desc_words2_FCN>
+    <Desc_words2_EN>Training Screen</Desc_words2_EN>
+</ResGuideEventDesc>
+<ResGuideEventDesc version="1">
+    <ResID>12 </ResID>
+    <Time>86400 </Time>
+    <ClicKTime>0 </ClicKTime>
+    <IsForcePos>1 </IsForcePos>
+    <IsCloseMask>0 </IsCloseMask>
+    <IsMaskTransparent>1 </IsMaskTransparent>
+    <TaskID>0 </TaskID>
+    <VoicePath></VoicePath>
+    <Desc_words1_SCN>点击&lt;color=#FFF800FF&gt;士兵头像&lt;/color&gt;</Desc_words1_SCN>
+    <Desc_words1_FCN>点击&lt;color=#FFF800FF&gt;士兵头像&lt;/color&gt;</Desc_words1_FCN>
+    <Desc_words1_EN>Tap troop avatar.</Desc_words1_EN>
+    <Desc_words2_SCN></Desc_words2_SCN>
+    <Desc_words2_FCN></Desc_words2_FCN>
+    <Desc_words2_EN></Desc_words2_EN>
+</ResGuideEventDesc>
+<ResGuideEventDesc version="1">
+    <ResID>13 </ResID>
+    <Time>86400 </Time>
+    <ClicKTime>0 </ClicKTime>
+    <IsForcePos>1 </IsForcePos>
+    <IsCloseMask>0 </IsCloseMask>
+    <IsMaskTransparent>1 </IsMaskTransparent>
+    <TaskID>20002 </TaskID>
+    <VoicePath></VoicePath>
+    <Desc_words1_SCN>点击&lt;color=#FFF800FF&gt;训练&lt;/color&gt;按钮，训练&lt;color=#FFF800FF&gt;3个矮人步兵&lt;/color&gt;({0}/{1})</Desc_words1_SCN>
+    <Desc_words1_FCN>点击&lt;color=#FFF800FF&gt;训练&lt;/color&gt;按钮，训练&lt;color=#FFF800FF&gt;3个矮人步兵&lt;/color&gt;({0}/{1})</Desc_words1_FCN>
+    <Desc_words1_EN>Tap Train to train 3 Dwarf Infantry.</Desc_words1_EN>
+    <Desc_words2_SCN></Desc_words2_SCN>
+    <Desc_words2_FCN></Desc_words2_FCN>
+    <Desc_words2_EN></Desc_words2_EN>
+</ResGuideEventDesc>
+<ResGuideEventDesc version="1">
+    <ResID>14 </ResID>
+    <Time>86400 </Time>
+    <ClicKTime>1 </ClicKTime>
+    <IsForcePos>0 </IsForcePos>
+    <IsCloseMask>0 </IsCloseMask>
+    <IsMaskTransparent>0 </IsMaskTransparent>
+    <TaskID>0 </TaskID>
+    <VoicePath></VoicePath>
+    <Desc_words1_SCN>士兵的&lt;color=#FFF800FF&gt;训练进度&lt;/color&gt;可以查看左上角的小兵头像处&lt;color=#FFF800FF&gt;进度条&lt;/color&gt;</Desc_words1_SCN>
+    <Desc_words1_FCN>士兵的&lt;color=#FFF800FF&gt;训练进度&lt;/color&gt;可以查看左上角的小兵头像处&lt;color=#FFF800FF&gt;进度条&lt;/color&gt;</Desc_words1_FCN>
+    <Desc_words1_EN>The troops training progress can be seen on the top left corner under troop avatar.</Desc_words1_EN>
+    <Desc_words2_SCN>&lt;color=#FFF800FF&gt;训练进度&lt;/color&gt;</Desc_words2_SCN>
+    <Desc_words2_FCN>&lt;color=#FFF800FF&gt;训练进度&lt;/color&gt;</Desc_words2_FCN>
+    <Desc_words2_EN>Training Progress</Desc_words2_EN>
+</ResGuideEventDesc>
+<ResGuideEventDesc version="1">
+    <ResID>15 </ResID>
+    <Time>86400 </Time>
+    <ClicKTime>0 </ClicKTime>
+    <IsForcePos>1 </IsForcePos>
+    <IsCloseMask>0 </IsCloseMask>
+    <IsMaskTransparent>1 </IsMaskTransparent>
+    <TaskID>0 </TaskID>
+    <VoicePath></VoicePath>
+    <Desc_words1_SCN>点击&lt;color=#FFF800FF&gt;科技&lt;/color&gt;页签，可以在科技页签提升&lt;color=#FFF800FF&gt;人口等级&lt;/color&gt;</Desc_words1_SCN>
+    <Desc_words1_FCN>点击&lt;color=#FFF800FF&gt;科技&lt;/color&gt;页签，可以在科技页签提升&lt;color=#FFF800FF&gt;人口等级&lt;/color&gt;</Desc_words1_FCN>
+    <Desc_words1_EN>Tap Tech tab, increase your Supply Cap in tech screen.</Desc_words1_EN>
+    <Desc_words2_SCN></Desc_words2_SCN>
+    <Desc_words2_FCN></Desc_words2_FCN>
+    <Desc_words2_EN></Desc_words2_EN>
+</ResGuideEventDesc>
+<ResGuideEventDesc version="1">
+    <ResID>16 </ResID>
+    <Time>86400 </Time>
+    <ClicKTime>0 </ClicKTime>
+    <IsForcePos>1 </IsForcePos>
+    <IsCloseMask>0 </IsCloseMask>
+    <IsMaskTransparent>1 </IsMaskTransparent>
+    <TaskID>0 </TaskID>
+    <VoicePath></VoicePath>
+    <Desc_words1_SCN>点击&lt;color=#FFF800FF&gt;人口&lt;/color&gt;升级，每级人口升级提升&lt;color=#FFF800FF&gt;5人口&lt;/color&gt;</Desc_words1_SCN>
+    <Desc_words1_FCN>点击&lt;color=#FFF800FF&gt;人口&lt;/color&gt;升级，每级人口升级提升&lt;color=#FFF800FF&gt;5人口&lt;/color&gt;</Desc_words1_FCN>
+    <Desc_words1_EN>Tap Supply Upgrade. Each upgrade raises Supply Cap by 5.</Desc_words1_EN>
+    <Desc_words2_SCN></Desc_words2_SCN>
+    <Desc_words2_FCN></Desc_words2_FCN>
+    <Desc_words2_EN></Desc_words2_EN>
+</ResGuideEventDesc>
+<ResGuideEventDesc version="1">
+    <ResID>17 </ResID>
+    <Time>86400 </Time>
+    <ClicKTime>0 </ClicKTime>
+    <IsForcePos>1 </IsForcePos>
+    <IsCloseMask>0 </IsCloseMask>
+    <IsMaskTransparent>1 </IsMaskTransparent>
+    <TaskID>0 </TaskID>
+    <VoicePath></VoicePath>
+    <Desc_words1_SCN>点击&lt;color=#FFF800FF&gt;研究&lt;/color&gt;按钮，完成人口升级</Desc_words1_SCN>
+    <Desc_words1_FCN>点击&lt;color=#FFF800FF&gt;研究&lt;/color&gt;按钮，完成人口升级</Desc_words1_FCN>
+    <Desc_words1_EN>Tap Research to complete Supply Upgrade.</Desc_words1_EN>
+    <Desc_words2_SCN></Desc_words2_SCN>
+    <Desc_words2_FCN></Desc_words2_FCN>
+    <Desc_words2_EN></Desc_words2_EN>
+</ResGuideEventDesc>
+<ResGuideEventDesc version="1">
+    <ResID>18 </ResID>
+    <Time>86400 </Time>
+    <ClicKTime>1 </ClicKTime>
+    <IsForcePos>0 </IsForcePos>
+    <IsCloseMask>0 </IsCloseMask>
+    <IsMaskTransparent>0 </IsMaskTransparent>
+    <TaskID>0 </TaskID>
+    <VoicePath></VoicePath>
+    <Desc_words1_SCN>&lt;color=#FFF800FF&gt;人口信息&lt;/color&gt;表示已有士兵&lt;color=#FFF800FF&gt;所占人口&lt;/color&gt;和可建造的&lt;color=#FFF800FF&gt;人口上限&lt;/color&gt;</Desc_words1_SCN>
+    <Desc_words1_FCN>&lt;color=#FFF800FF&gt;人口信息&lt;/color&gt;表示已有士兵&lt;color=#FFF800FF&gt;所占人口&lt;/color&gt;和可建造的&lt;color=#FFF800FF&gt;人口上限&lt;/color&gt;</Desc_words1_FCN>
+    <Desc_words1_EN>Supply shows the Supply of your current troops and your Supply Cap.</Desc_words1_EN>
+    <Desc_words2_SCN>&lt;color=#FFF800FF&gt;人口信息&lt;/color&gt;</Desc_words2_SCN>
+    <Desc_words2_FCN>&lt;color=#FFF800FF&gt;人口信息&lt;/color&gt;</Desc_words2_FCN>
+    <Desc_words2_EN>Supply Info</Desc_words2_EN>
+</ResGuideEventDesc>
+<ResGuideEventDesc version="1">
+    <ResID>19 </ResID>
+    <Time>86400 </Time>
+    <ClicKTime>0 </ClicKTime>
+    <IsForcePos>1 </IsForcePos>
+    <IsCloseMask>0 </IsCloseMask>
+    <IsMaskTransparent>1 </IsMaskTransparent>
+    <TaskID>0 </TaskID>
+    <VoicePath></VoicePath>
+    <Desc_words1_SCN>点击&lt;color=#FFF800FF&gt;训练&lt;/color&gt;页签</Desc_words1_SCN>
+    <Desc_words1_FCN>点击&lt;color=#FFF800FF&gt;训练&lt;/color&gt;页签</Desc_words1_FCN>
+    <Desc_words1_EN>Tap Train tab.</Desc_words1_EN>
+    <Desc_words2_SCN></Desc_words2_SCN>
+    <Desc_words2_FCN></Desc_words2_FCN>
+    <Desc_words2_EN></Desc_words2_EN>
+</ResGuideEventDesc>
+<ResGuideEventDesc version="1">
+    <ResID>20 </ResID>
+    <Time>86400 </Time>
+    <ClicKTime>0 </ClicKTime>
+    <IsForcePos>1 </IsForcePos>
+    <IsCloseMask>0 </IsCloseMask>
+    <IsMaskTransparent>1 </IsMaskTransparent>
+    <TaskID>20006 </TaskID>
+    <VoicePath></VoicePath>
+    <Desc_words1_SCN>点击&lt;color=#FFF800FF&gt;训练&lt;/color&gt;按钮，训练&lt;color=#FFF800FF&gt;2个弩手&lt;/color&gt;({0}/{1})</Desc_words1_SCN>
+    <Desc_words1_FCN>点击&lt;color=#FFF800FF&gt;训练&lt;/color&gt;按钮，训练&lt;color=#FFF800FF&gt;2个弩手&lt;/color&gt;({0}/{1})</Desc_words1_FCN>
+    <Desc_words1_EN>Tap Train to train 2 Crossbowman.</Desc_words1_EN>
+    <Desc_words2_SCN></Desc_words2_SCN>
+    <Desc_words2_FCN></Desc_words2_FCN>
+    <Desc_words2_EN></Desc_words2_EN>
+</ResGuideEventDesc>
+<ResGuideEventDesc version="1">
+    <ResID>21 </ResID>
+    <Time>86400 </Time>
+    <ClicKTime>0 </ClicKTime>
+    <IsForcePos>1 </IsForcePos>
+    <IsCloseMask>0 </IsCloseMask>
+    <IsMaskTransparent>1 </IsMaskTransparent>
+    <TaskID>0 </TaskID>
+    <VoicePath></VoicePath>
+    <Desc_words1_SCN>点击&lt;color=#FFF800FF&gt;关闭&lt;/color&gt;训练界面</Desc_words1_SCN>
+    <Desc_words1_FCN>点击&lt;color=#FFF800FF&gt;关闭&lt;/color&gt;训练界面</Desc_words1_FCN>
+    <Desc_words1_EN>Tap to close training screen.</Desc_words1_EN>
+    <Desc_words2_SCN></Desc_words2_SCN>
+    <Desc_words2_FCN></Desc_words2_FCN>
+    <Desc_words2_EN></Desc_words2_EN>
+</ResGuideEventDesc>
+<ResGuideEventDesc version="1">
+    <ResID>31 </ResID>
+    <Time>86400 </Time>
+    <ClicKTime>0 </ClicKTime>
+    <IsForcePos>1 </IsForcePos>
+    <IsCloseMask>1 </IsCloseMask>
+    <IsMaskTransparent>1 </IsMaskTransparent>
+    <TaskID>0 </TaskID>
+    <VoicePath></VoicePath>
+    <Desc_words1_SCN>点击普攻(弱引导)</Desc_words1_SCN>
+    <Desc_words1_FCN>点击普攻(弱引导)</Desc_words1_FCN>
+    <Desc_words1_EN>Tap to use basic attacks.</Desc_words1_EN>
+    <Desc_words2_SCN></Desc_words2_SCN>
+    <Desc_words2_FCN></Desc_words2_FCN>
+    <Desc_words2_EN></Desc_words2_EN>
+</ResGuideEventDesc>
+<ResGuideEventDesc version="1">
+    <ResID>32 </ResID>
+    <Time>86400 </Time>
+    <ClicKTime>1 </ClicKTime>
+    <IsForcePos>1 </IsForcePos>
+    <IsCloseMask>0 </IsCloseMask>
+    <IsMaskTransparent>0 </IsMaskTransparent>
+    <TaskID>0 </TaskID>
+    <VoicePath></VoicePath>
+    <Desc_words1_SCN>点击&lt;color=#FFF800FF&gt;建造金矿&lt;/color&gt;按钮，消耗金币建造我方金矿</Desc_words1_SCN>
+    <Desc_words1_FCN>点击&lt;color=#FFF800FF&gt;建造金矿&lt;/color&gt;按钮，消耗金币建造我方金矿</Desc_words1_FCN>
+    <Desc_words1_EN>Tap to build a mine at the cost of Gold.</Desc_words1_EN>
+    <Desc_words2_SCN>&lt;color=#FFF800FF&gt;建造金矿&lt;/color&gt;</Desc_words2_SCN>
+    <Desc_words2_FCN>&lt;color=#FFF800FF&gt;建造金矿&lt;/color&gt;</Desc_words2_FCN>
+    <Desc_words2_EN>Build Your Mine</Desc_words2_EN>
+</ResGuideEventDesc>
+<ResGuideEventDesc version="1">
+    <ResID>33 </ResID>
+    <Time>86400 </Time>
+    <ClicKTime>1 </ClicKTime>
+    <IsForcePos>0 </IsForcePos>
+    <IsCloseMask>0 </IsCloseMask>
+    <IsMaskTransparent>0 </IsMaskTransparent>
+    <TaskID>0 </TaskID>
+    <VoicePath></VoicePath>
+    <Desc_words1_SCN>初始&lt;color=#FFF800FF&gt;开采效率&lt;/color&gt;为&lt;color=#FFF800FF&gt;2金币/秒&lt;/color&gt;，&lt;color=#FFF800FF&gt;每20秒&lt;/color&gt;提升&lt;color=#FFF800FF&gt;2金币/秒&lt;/color&gt;，最高&lt;color=#FFF800FF&gt;10金币/秒&lt;/color&gt;</Desc_words1_SCN>
+    <Desc_words1_FCN>初始&lt;color=#FFF800FF&gt;开采效率&lt;/color&gt;为&lt;color=#FFF800FF&gt;2金币/秒&lt;/color&gt;，&lt;color=#FFF800FF&gt;每20秒&lt;/color&gt;提升&lt;color=#FFF800FF&gt;2金币/秒&lt;/color&gt;，最高&lt;color=#FFF800FF&gt;10金币/秒&lt;/color&gt;</Desc_words1_FCN>
+    <Desc_words1_EN>Production rate starts with 2 Gold/sec, and increases by 2 Gold every 20 seconds, capped at 10 Gold/sec.</Desc_words1_EN>
+    <Desc_words2_SCN></Desc_words2_SCN>
+    <Desc_words2_FCN></Desc_words2_FCN>
+    <Desc_words2_EN></Desc_words2_EN>
+</ResGuideEventDesc>
+<ResGuideEventDesc version="1">
+    <ResID>34 </ResID>
+    <Time>86400 </Time>
+    <ClicKTime>1 </ClicKTime>
+    <IsForcePos>1 </IsForcePos>
+    <IsCloseMask>0 </IsCloseMask>
+    <IsMaskTransparent>0 </IsMaskTransparent>
+    <TaskID>0 </TaskID>
+    <VoicePath></VoicePath>
+    <Desc_words1_SCN>点击&lt;color=#FFF800FF&gt;建筑&lt;/color&gt;按钮</Desc_words1_SCN>
+    <Desc_words1_FCN>点击&lt;color=#FFF800FF&gt;建筑&lt;/color&gt;按钮</Desc_words1_FCN>
+    <Desc_words1_EN>Tap Turret button.</Desc_words1_EN>
+    <Desc_words2_SCN>&lt;color=#FFF800FF&gt;建筑&lt;/color&gt;按钮</Desc_words2_SCN>
+    <Desc_words2_FCN>&lt;color=#FFF800FF&gt;建筑&lt;/color&gt;按钮</Desc_words2_FCN>
+    <Desc_words2_EN>Build Button</Desc_words2_EN>
+</ResGuideEventDesc>
+<ResGuideEventDesc version="1">
+    <ResID>35 </ResID>
+    <Time>86400 </Time>
+    <ClicKTime>0 </ClicKTime>
+    <IsForcePos>1 </IsForcePos>
+    <IsCloseMask>1 </IsCloseMask>
+    <IsMaskTransparent>1 </IsMaskTransparent>
+    <TaskID>30004 </TaskID>
+    <VoicePath></VoicePath>
+    <Desc_words1_SCN>&lt;color=#FFF800FF&gt;拖动箭塔图标&lt;/color&gt;在指定位置建造&lt;color=#FFF800FF&gt;2座箭塔&lt;/color&gt;({0}/{1})</Desc_words1_SCN>
+    <Desc_words1_FCN>&lt;color=#FFF800FF&gt;拖动箭塔图标&lt;/color&gt;在指定位置建造&lt;color=#FFF800FF&gt;2座箭塔&lt;/color&gt;({0}/{1})</Desc_words1_FCN>
+    <Desc_words1_EN>Drag the turret icon to the target location and build two turrets.</Desc_words1_EN>
+    <Desc_words2_SCN></Desc_words2_SCN>
+    <Desc_words2_FCN></Desc_words2_FCN>
+    <Desc_words2_EN></Desc_words2_EN>
+</ResGuideEventDesc>
+<ResGuideEventDesc version="1">
+    <ResID>36 </ResID>
+    <Time>86400 </Time>
+    <ClicKTime>1 </ClicKTime>
+    <IsForcePos>1 </IsForcePos>
+    <IsCloseMask>0 </IsCloseMask>
+    <IsMaskTransparent>0 </IsMaskTransparent>
+    <TaskID>0 </TaskID>
+    <VoicePath></VoicePath>
+    <Desc_words1_SCN>点击&lt;color=#FFF800FF&gt;维修&lt;/color&gt;按钮消耗金币&lt;color=#FFF800FF&gt;维修指定建筑&lt;/color&gt;</Desc_words1_SCN>
+    <Desc_words1_FCN>点击&lt;color=#FFF800FF&gt;维修&lt;/color&gt;按钮消耗金币&lt;color=#FFF800FF&gt;维修指定建筑&lt;/color&gt;</Desc_words1_FCN>
+    <Desc_words1_EN>Tap Repair to repair the selected building at the cost of Gold.</Desc_words1_EN>
+    <Desc_words2_SCN>&lt;color=#FFF800FF&gt;维修&lt;/color&gt;按钮</Desc_words2_SCN>
+    <Desc_words2_FCN>&lt;color=#FFF800FF&gt;维修&lt;/color&gt;按钮</Desc_words2_FCN>
+    <Desc_words2_EN>Repair Button</Desc_words2_EN>
+</ResGuideEventDesc>
+<ResGuideEventDesc version="1">
+    <ResID>41 </ResID>
+    <Time>86400 </Time>
+    <ClicKTime>0 </ClicKTime>
+    <IsForcePos>1 </IsForcePos>
+    <IsCloseMask>0 </IsCloseMask>
+    <IsMaskTransparent>1 </IsMaskTransparent>
+    <TaskID>0 </TaskID>
+    <VoicePath></VoicePath>
+    <Desc_words1_SCN>点击&lt;color=#FFF800FF&gt;一级城堡&lt;/color&gt;图标</Desc_words1_SCN>
+    <Desc_words1_FCN>点击&lt;color=#FFF800FF&gt;一级城堡&lt;/color&gt;图标</Desc_words1_FCN>
+    <Desc_words1_EN>Tap Lv. 1 Castle&apos;s icon.</Desc_words1_EN>
+    <Desc_words2_SCN></Desc_words2_SCN>
+    <Desc_words2_FCN></Desc_words2_FCN>
+    <Desc_words2_EN></Desc_words2_EN>
+</ResGuideEventDesc>
+<ResGuideEventDesc version="1">
+    <ResID>42 </ResID>
+    <Time>86400 </Time>
+    <ClicKTime>0 </ClicKTime>
+    <IsForcePos>1 </IsForcePos>
+    <IsCloseMask>0 </IsCloseMask>
+    <IsMaskTransparent>1 </IsMaskTransparent>
+    <TaskID>0 </TaskID>
+    <VoicePath></VoicePath>
+    <Desc_words1_SCN>点击城堡的&lt;color=#FFF800FF&gt;升级&lt;/color&gt;按钮，升级至&lt;color=#FFF800FF&gt;二级城堡&lt;/color&gt;</Desc_words1_SCN>
+    <Desc_words1_FCN>点击城堡的&lt;color=#FFF800FF&gt;升级&lt;/color&gt;按钮，升级至&lt;color=#FFF800FF&gt;二级城堡&lt;/color&gt;</Desc_words1_FCN>
+    <Desc_words1_EN>Tap Upgrade to upgrade to Lv. 2 Castle.</Desc_words1_EN>
+    <Desc_words2_SCN></Desc_words2_SCN>
+    <Desc_words2_FCN></Desc_words2_FCN>
+    <Desc_words2_EN></Desc_words2_EN>
+</ResGuideEventDesc>
+<ResGuideEventDesc version="1">
+    <ResID>43 </ResID>
+    <Time>86400 </Time>
+    <ClicKTime>0 </ClicKTime>
+    <IsForcePos>1 </IsForcePos>
+    <IsCloseMask>0 </IsCloseMask>
+    <IsMaskTransparent>1 </IsMaskTransparent>
+    <TaskID>0 </TaskID>
+    <VoicePath></VoicePath>
+    <Desc_words1_SCN>二级城堡可&lt;color=#FFF800FF&gt;解锁中级兵种&lt;/color&gt;，点击&lt;color=#FFF800FF&gt;修女头像&lt;/color&gt;</Desc_words1_SCN>
+    <Desc_words1_FCN>二级城堡可&lt;color=#FFF800FF&gt;解锁中级兵种&lt;/color&gt;，点击&lt;color=#FFF800FF&gt;修女头像&lt;/color&gt;</Desc_words1_FCN>
+    <Desc_words1_EN>Lv. 2 Castle unlocks medium level troops. Now tap Cleric avatar.</Desc_words1_EN>
+    <Desc_words2_SCN></Desc_words2_SCN>
+    <Desc_words2_FCN></Desc_words2_FCN>
+    <Desc_words2_EN></Desc_words2_EN>
+</ResGuideEventDesc>
+<ResGuideEventDesc version="1">
+    <ResID>44 </ResID>
+    <Time>86400 </Time>
+    <ClicKTime>0 </ClicKTime>
+    <IsForcePos>1 </IsForcePos>
+    <IsCloseMask>0 </IsCloseMask>
+    <IsMaskTransparent>1 </IsMaskTransparent>
+    <TaskID>40002 </TaskID>
+    <VoicePath></VoicePath>
+    <Desc_words1_SCN>点击&lt;color=#FFF800FF&gt;训练&lt;/color&gt;按钮，训练&lt;color=#FFF800FF&gt;2个修女&lt;/color&gt;({0}/{1})</Desc_words1_SCN>
+    <Desc_words1_FCN>点击&lt;color=#FFF800FF&gt;训练&lt;/color&gt;按钮，训练&lt;color=#FFF800FF&gt;2个修女&lt;/color&gt;({0}/{1})</Desc_words1_FCN>
+    <Desc_words1_EN>Tap Train to train 2 Clerics.</Desc_words1_EN>
+    <Desc_words2_SCN></Desc_words2_SCN>
+    <Desc_words2_FCN></Desc_words2_FCN>
+    <Desc_words2_EN></Desc_words2_EN>
+</ResGuideEventDesc>
+<ResGuideEventDesc version="1">
+    <ResID>45 </ResID>
+    <Time>86400 </Time>
+    <ClicKTime>0 </ClicKTime>
+    <IsForcePos>0 </IsForcePos>
+    <IsCloseMask>1 </IsCloseMask>
+    <IsMaskTransparent>1 </IsMaskTransparent>
+    <TaskID>0 </TaskID>
+    <VoicePath></VoicePath>
+    <Desc_words1_SCN>标注小龙位置</Desc_words1_SCN>
+    <Desc_words1_FCN>标注小龙位置</Desc_words1_FCN>
+    <Desc_words1_EN>Mark the Holy Scarab&apos;s location.</Desc_words1_EN>
+    <Desc_words2_SCN></Desc_words2_SCN>
+    <Desc_words2_FCN></Desc_words2_FCN>
+    <Desc_words2_EN></Desc_words2_EN>
+</ResGuideEventDesc>
+<ResGuideEventDesc version="1">
+    <ResID>46 </ResID>
+    <Time>86400 </Time>
+    <ClicKTime>1 </ClicKTime>
+    <IsForcePos>1 </IsForcePos>
+    <IsCloseMask>0 </IsCloseMask>
+    <IsMaskTransparent>0 </IsMaskTransparent>
+    <TaskID>0 </TaskID>
+    <VoicePath></VoicePath>
+    <Desc_words1_SCN>击杀&lt;color=#FFF800FF&gt;高等级野怪&lt;/color&gt;，会掉落&lt;color=#FFF800FF&gt;装备&lt;/color&gt;和&lt;color=#FFF800FF&gt;属性书&lt;/color&gt;等道具</Desc_words1_SCN>
+    <Desc_words1_FCN>击杀&lt;color=#FFF800FF&gt;高等级野怪&lt;/color&gt;，会掉落&lt;color=#FFF800FF&gt;装备&lt;/color&gt;和&lt;color=#FFF800FF&gt;属性书&lt;/color&gt;等道具</Desc_words1_FCN>
+    <Desc_words1_EN>Gear, Attribute Books, etc., can be dropped from high level monsters.</Desc_words1_EN>
+    <Desc_words2_SCN>&lt;color=#FFF800FF&gt;装备&lt;/color&gt;拾取</Desc_words2_SCN>
+    <Desc_words2_FCN>&lt;color=#FFF800FF&gt;装备&lt;/color&gt;拾取</Desc_words2_FCN>
+    <Desc_words2_EN>Pickup Gear</Desc_words2_EN>
+</ResGuideEventDesc>
+<ResGuideEventDesc version="1">
+    <ResID>47 </ResID>
+    <Time>86400 </Time>
+    <ClicKTime>0 </ClicKTime>
+    <IsForcePos>0 </IsForcePos>
+    <IsCloseMask>1 </IsCloseMask>
+    <IsMaskTransparent>1 </IsMaskTransparent>
+    <TaskID>0 </TaskID>
+    <VoicePath></VoicePath>
+    <Desc_words1_SCN>标注敌方基地</Desc_words1_SCN>
+    <Desc_words1_FCN>标注敌方基地</Desc_words1_FCN>
+    <Desc_words1_EN>Mark enemy base.</Desc_words1_EN>
+    <Desc_words2_SCN></Desc_words2_SCN>
+    <Desc_words2_FCN></Desc_words2_FCN>
+    <Desc_words2_EN></Desc_words2_EN>
+</ResGuideEventDesc>
+<ResGuideEventDesc version="1">
+    <ResID>48 </ResID>
+    <Time>3 </Time>
+    <ClicKTime>-1 </ClicKTime>
+    <IsForcePos>0 </IsForcePos>
+    <IsCloseMask>0 </IsCloseMask>
+    <IsMaskTransparent>0 </IsMaskTransparent>
+    <TaskID>0 </TaskID>
+    <VoicePath></VoicePath>
+    <Desc_words1_SCN>英雄进入&lt;color=#FFF800FF&gt;光圈范围&lt;/color&gt;内&lt;color=#FFF800FF&gt;持续3秒&lt;/color&gt;以上可获得&lt;color=#FFF800FF&gt;统帅之刃&lt;/color&gt;</Desc_words1_SCN>
+    <Desc_words1_FCN>英雄进入&lt;color=#FFF800FF&gt;光圈范围&lt;/color&gt;内&lt;color=#FFF800FF&gt;持续3秒&lt;/color&gt;以上可获得&lt;color=#FFF800FF&gt;统帅之刃&lt;/color&gt;</Desc_words1_FCN>
+    <Desc_words1_EN>Your Hero will pick up the Blade of Commandment after staying in the circle for 3 seconds.</Desc_words1_EN>
+    <Desc_words2_SCN></Desc_words2_SCN>
+    <Desc_words2_FCN></Desc_words2_FCN>
+    <Desc_words2_EN></Desc_words2_EN>
+</ResGuideEventDesc>
+<ResGuideEventDesc version="1">
+    <ResID>49 </ResID>
+    <Time>86400 </Time>
+    <ClicKTime>1 </ClicKTime>
+    <IsForcePos>1 </IsForcePos>
+    <IsCloseMask>0 </IsCloseMask>
+    <IsMaskTransparent>0 </IsMaskTransparent>
+    <TaskID>0 </TaskID>
+    <VoicePath></VoicePath>
+    <Desc_words1_SCN>在&lt;color=#FFF800FF&gt;使用期限&lt;/color&gt;内点击使用可&lt;color=#FFF800FF&gt;召唤&lt;/color&gt;沙漠之王，对&lt;color=#FFF800FF&gt;建筑&lt;/color&gt;造成巨额伤害</Desc_words1_SCN>
+    <Desc_words1_FCN>在&lt;color=#FFF800FF&gt;使用期限&lt;/color&gt;内点击使用可&lt;color=#FFF800FF&gt;召唤&lt;/color&gt;沙漠之王，对&lt;color=#FFF800FF&gt;建筑&lt;/color&gt;造成巨额伤害</Desc_words1_FCN>
+    <Desc_words1_EN>Use it before it expires to summon the Desert King which deals huge damage against buildings.</Desc_words1_EN>
+    <Desc_words2_SCN>&lt;color=#FFF800FF&gt;召唤&lt;/color&gt;沙漠之王</Desc_words2_SCN>
+    <Desc_words2_FCN>&lt;color=#FFF800FF&gt;召唤&lt;/color&gt;沙漠之王</Desc_words2_FCN>
+    <Desc_words2_EN>Summon the Desert King.</Desc_words2_EN>
+</ResGuideEventDesc>
+<ResGuideEventDesc version="1">
+    <ResID>120 </ResID>
+    <Time>86400 </Time>
+    <ClicKTime>1 </ClicKTime>
+    <IsForcePos>0 </IsForcePos>
+    <IsCloseMask>0 </IsCloseMask>
+    <IsMaskTransparent>0 </IsMaskTransparent>
+    <TaskID>0 </TaskID>
+    <VoicePath>audio/system/newguide/guide28</VoicePath>
+    <Desc_words1_SCN>太棒啦！&lt;color=#ffa500ff&gt;{0}&lt;/color&gt;
+你已经展示了过人的天赋！接下来，让我们开始一场&lt;color=#ffa500ff&gt;实战比赛&lt;/color&gt;吧！</Desc_words1_SCN>
+    <Desc_words1_FCN>太棒啦！&lt;color=#ffa500ff&gt;{0}&lt;/color&gt;
+你已经展示了过人的天赋！接下来，让我们开始一场&lt;color=#ffa500ff&gt;实战比赛&lt;/color&gt;吧！</Desc_words1_FCN>
+    <Desc_words1_EN>Great! You have shown great skills! Next, let’s join a live battle!</Desc_words1_EN>
+    <Desc_words2_SCN></Desc_words2_SCN>
+    <Desc_words2_FCN></Desc_words2_FCN>
+    <Desc_words2_EN></Desc_words2_EN>
+</ResGuideEventDesc>
+<ResGuideEventDesc version="1">
+    <ResID>121 </ResID>
+    <Time>0 </Time>
+    <ClicKTime>0 </ClicKTime>
+    <IsForcePos>0 </IsForcePos>
+    <IsCloseMask>0 </IsCloseMask>
+    <IsMaskTransparent>0 </IsMaskTransparent>
+    <TaskID>0 </TaskID>
+    <VoicePath></VoicePath>
+    <Desc_words1_SCN></Desc_words1_SCN>
+    <Desc_words1_FCN></Desc_words1_FCN>
+    <Desc_words1_EN></Desc_words1_EN>
+    <Desc_words2_SCN></Desc_words2_SCN>
+    <Desc_words2_FCN></Desc_words2_FCN>
+    <Desc_words2_EN></Desc_words2_EN>
+</ResGuideEventDesc>
+<ResGuideEventDesc version="1">
+    <ResID>122 </ResID>
+    <Time>13 </Time>
+    <ClicKTime>3 </ClicKTime>
+    <IsForcePos>0 </IsForcePos>
+    <IsCloseMask>0 </IsCloseMask>
+    <IsMaskTransparent>0 </IsMaskTransparent>
+    <TaskID>0 </TaskID>
+    <VoicePath>audio/system/guide/guide85</VoicePath>
+    <Desc_words1_SCN>领主大人，您当前的领主等级为：&lt;color=#FFEB04FF&gt;见习领主&lt;/color&gt;，通过&lt;color=#FFEB04FF&gt;匹配对战&lt;/color&gt;可增加领主等级经验。领主等级可以解锁&lt;color=#FFEB04FF&gt;出战兵种&lt;/color&gt;，&lt;color=#FFEB04FF&gt;种族天赋&lt;/color&gt;与&lt;color=#FFEB04FF&gt;对战模式&lt;/color&gt;。</Desc_words1_SCN>
+    <Desc_words1_FCN>领主大人，您当前的领主等级为：&lt;color=#FFEB04FF&gt;见习领主&lt;/color&gt;，通过&lt;color=#FFEB04FF&gt;匹配对战&lt;/color&gt;可增加领主等级经验。领主等级可以解锁&lt;color=#FFEB04FF&gt;出战兵种&lt;/color&gt;，&lt;color=#FFEB04FF&gt;种族天赋&lt;/color&gt;与&lt;color=#FFEB04FF&gt;对战模式&lt;/color&gt;。</Desc_words1_FCN>
+    <Desc_words1_EN>My liege, your current title is Rookie, you can increase your title by playing matches. Increasing your title can unlock soldiers, races, talents, and other battle modes.</Desc_words1_EN>
+    <Desc_words2_SCN></Desc_words2_SCN>
+    <Desc_words2_FCN></Desc_words2_FCN>
+    <Desc_words2_EN></Desc_words2_EN>
+</ResGuideEventDesc>
+<ResGuideEventDesc version="1">
+    <ResID>123 </ResID>
+    <Time>0 </Time>
+    <ClicKTime>0 </ClicKTime>
+    <IsForcePos>0 </IsForcePos>
+    <IsCloseMask>0 </IsCloseMask>
+    <IsMaskTransparent>0 </IsMaskTransparent>
+    <TaskID>0 </TaskID>
+    <VoicePath></VoicePath>
+    <Desc_words1_SCN></Desc_words1_SCN>
+    <Desc_words1_FCN></Desc_words1_FCN>
+    <Desc_words1_EN></Desc_words1_EN>
+    <Desc_words2_SCN></Desc_words2_SCN>
+    <Desc_words2_FCN></Desc_words2_FCN>
+    <Desc_words2_EN></Desc_words2_EN>
+</ResGuideEventDesc>
+<ResGuideEventDesc version="1">
+    <ResID>130 </ResID>
+    <Time>0 </Time>
+    <ClicKTime>0 </ClicKTime>
+    <IsForcePos>0 </IsForcePos>
+    <IsCloseMask>0 </IsCloseMask>
+    <IsMaskTransparent>0 </IsMaskTransparent>
+    <TaskID>0 </TaskID>
+    <VoicePath></VoicePath>
+    <Desc_words1_SCN></Desc_words1_SCN>
+    <Desc_words1_FCN></Desc_words1_FCN>
+    <Desc_words1_EN></Desc_words1_EN>
+    <Desc_words2_SCN></Desc_words2_SCN>
+    <Desc_words2_FCN></Desc_words2_FCN>
+    <Desc_words2_EN></Desc_words2_EN>
+</ResGuideEventDesc>
+<ResGuideEventDesc version="1">
+    <ResID>131 </ResID>
+    <Time>2 </Time>
+    <ClicKTime>0 </ClicKTime>
+    <IsForcePos>0 </IsForcePos>
+    <IsCloseMask>0 </IsCloseMask>
+    <IsMaskTransparent>1 </IsMaskTransparent>
+    <TaskID>0 </TaskID>
+    <VoicePath></VoicePath>
+    <Desc_words1_SCN></Desc_words1_SCN>
+    <Desc_words1_FCN></Desc_words1_FCN>
+    <Desc_words1_EN></Desc_words1_EN>
+    <Desc_words2_SCN></Desc_words2_SCN>
+    <Desc_words2_FCN></Desc_words2_FCN>
+    <Desc_words2_EN></Desc_words2_EN>
+</ResGuideEventDesc>
+<ResGuideEventDesc version="1">
+    <ResID>132 </ResID>
+    <Time>10 </Time>
+    <ClicKTime>0 </ClicKTime>
+    <IsForcePos>0 </IsForcePos>
+    <IsCloseMask>0 </IsCloseMask>
+    <IsMaskTransparent>0 </IsMaskTransparent>
+    <TaskID>0 </TaskID>
+    <VoicePath></VoicePath>
+    <Desc_words1_SCN></Desc_words1_SCN>
+    <Desc_words1_FCN></Desc_words1_FCN>
+    <Desc_words1_EN></Desc_words1_EN>
+    <Desc_words2_SCN></Desc_words2_SCN>
+    <Desc_words2_FCN></Desc_words2_FCN>
+    <Desc_words2_EN></Desc_words2_EN>
+</ResGuideEventDesc>
+<ResGuideEventDesc version="1">
+    <ResID>140 </ResID>
+    <Time>0 </Time>
+    <ClicKTime>0 </ClicKTime>
+    <IsForcePos>0 </IsForcePos>
+    <IsCloseMask>0 </IsCloseMask>
+    <IsMaskTransparent>0 </IsMaskTransparent>
+    <TaskID>0 </TaskID>
+    <VoicePath></VoicePath>
+    <Desc_words1_SCN></Desc_words1_SCN>
+    <Desc_words1_FCN></Desc_words1_FCN>
+    <Desc_words1_EN></Desc_words1_EN>
+    <Desc_words2_SCN></Desc_words2_SCN>
+    <Desc_words2_FCN></Desc_words2_FCN>
+    <Desc_words2_EN></Desc_words2_EN>
+</ResGuideEventDesc>
+<ResGuideEventDesc version="1">
+    <ResID>141 </ResID>
+    <Time>0 </Time>
+    <ClicKTime>0 </ClicKTime>
+    <IsForcePos>0 </IsForcePos>
+    <IsCloseMask>0 </IsCloseMask>
+    <IsMaskTransparent>0 </IsMaskTransparent>
+    <TaskID>0 </TaskID>
+    <VoicePath></VoicePath>
+    <Desc_words1_SCN></Desc_words1_SCN>
+    <Desc_words1_FCN></Desc_words1_FCN>
+    <Desc_words1_EN></Desc_words1_EN>
+    <Desc_words2_SCN></Desc_words2_SCN>
+    <Desc_words2_FCN></Desc_words2_FCN>
+    <Desc_words2_EN></Desc_words2_EN>
+</ResGuideEventDesc>
+<ResGuideEventDesc version="1">
+    <ResID>142 </ResID>
+    <Time>0 </Time>
+    <ClicKTime>0 </ClicKTime>
+    <IsForcePos>0 </IsForcePos>
+    <IsCloseMask>0 </IsCloseMask>
+    <IsMaskTransparent>0 </IsMaskTransparent>
+    <TaskID>0 </TaskID>
+    <VoicePath></VoicePath>
+    <Desc_words1_SCN></Desc_words1_SCN>
+    <Desc_words1_FCN></Desc_words1_FCN>
+    <Desc_words1_EN></Desc_words1_EN>
+    <Desc_words2_SCN></Desc_words2_SCN>
+    <Desc_words2_FCN></Desc_words2_FCN>
+    <Desc_words2_EN></Desc_words2_EN>
+</ResGuideEventDesc>
+<ResGuideEventDesc version="1">
+    <ResID>150 </ResID>
+    <Time>0 </Time>
+    <ClicKTime>0 </ClicKTime>
+    <IsForcePos>0 </IsForcePos>
+    <IsCloseMask>0 </IsCloseMask>
+    <IsMaskTransparent>0 </IsMaskTransparent>
+    <TaskID>0 </TaskID>
+    <VoicePath></VoicePath>
+    <Desc_words1_SCN></Desc_words1_SCN>
+    <Desc_words1_FCN></Desc_words1_FCN>
+    <Desc_words1_EN></Desc_words1_EN>
+    <Desc_words2_SCN></Desc_words2_SCN>
+    <Desc_words2_FCN></Desc_words2_FCN>
+    <Desc_words2_EN></Desc_words2_EN>
+</ResGuideEventDesc>
+<ResGuideEventDesc version="1">
+    <ResID>151 </ResID>
+    <Time>5 </Time>
+    <ClicKTime>1 </ClicKTime>
+    <IsForcePos>0 </IsForcePos>
+    <IsCloseMask>0 </IsCloseMask>
+    <IsMaskTransparent>0 </IsMaskTransparent>
+    <TaskID>0 </TaskID>
+    <VoicePath>audio/system/guide/guide84</VoicePath>
+    <Desc_words1_SCN>&lt;color=#ffa500ff&gt;英雄限时折扣&lt;/color&gt;中，购买新英雄参加战斗吧</Desc_words1_SCN>
+    <Desc_words1_FCN>&lt;color=#ffa500ff&gt;英雄限时折扣&lt;/color&gt;中，购买新英雄参加战斗吧</Desc_words1_FCN>
+    <Desc_words1_EN>Hero discount! Buy a new hero to join the fight!</Desc_words1_EN>
+    <Desc_words2_SCN></Desc_words2_SCN>
+    <Desc_words2_FCN></Desc_words2_FCN>
+    <Desc_words2_EN></Desc_words2_EN>
+</ResGuideEventDesc>
+<ResGuideEventDesc version="1">
+    <ResID>160 </ResID>
+    <Time>5 </Time>
+    <ClicKTime>1 </ClicKTime>
+    <IsForcePos>0 </IsForcePos>
+    <IsCloseMask>0 </IsCloseMask>
+    <IsMaskTransparent>0 </IsMaskTransparent>
+    <TaskID>0 </TaskID>
+    <VoicePath>audio/system/newguide/guide30</VoicePath>
+    <Desc_words1_SCN>领主大人，恭喜您解锁了&lt;color=#ffa500ff&gt;成就系统&lt;/color&gt;，&lt;color=#ffa500ff&gt;完成成就&lt;/color&gt;可获得&lt;color=#ffa500ff&gt;丰厚奖励&lt;/color&gt;</Desc_words1_SCN>
+    <Desc_words1_FCN>领主大人，恭喜您解锁了&lt;color=#ffa500ff&gt;成就系统&lt;/color&gt;，&lt;color=#ffa500ff&gt;完成成就&lt;/color&gt;可获得&lt;color=#ffa500ff&gt;丰厚奖励&lt;/color&gt;</Desc_words1_FCN>
+    <Desc_words1_EN>Congratulations on unlocking the Achievement System. Complete the achievements for great rewards.</Desc_words1_EN>
+    <Desc_words2_SCN></Desc_words2_SCN>
+    <Desc_words2_FCN></Desc_words2_FCN>
+    <Desc_words2_EN></Desc_words2_EN>
+</ResGuideEventDesc>
+<ResGuideEventDesc version="1">
+    <ResID>161 </ResID>
+    <Time>0 </Time>
+    <ClicKTime>0 </ClicKTime>
+    <IsForcePos>0 </IsForcePos>
+    <IsCloseMask>0 </IsCloseMask>
+    <IsMaskTransparent>0 </IsMaskTransparent>
+    <TaskID>0 </TaskID>
+    <VoicePath></VoicePath>
+    <Desc_words1_SCN></Desc_words1_SCN>
+    <Desc_words1_FCN></Desc_words1_FCN>
+    <Desc_words1_EN></Desc_words1_EN>
+    <Desc_words2_SCN></Desc_words2_SCN>
+    <Desc_words2_FCN></Desc_words2_FCN>
+    <Desc_words2_EN></Desc_words2_EN>
+</ResGuideEventDesc>
+<ResGuideEventDesc version="1">
+    <ResID>162 </ResID>
+    <Time>10 </Time>
+    <ClicKTime>0 </ClicKTime>
+    <IsForcePos>0 </IsForcePos>
+    <IsCloseMask>0 </IsCloseMask>
+    <IsMaskTransparent>0 </IsMaskTransparent>
+    <TaskID>0 </TaskID>
+    <VoicePath></VoicePath>
+    <Desc_words1_SCN></Desc_words1_SCN>
+    <Desc_words1_FCN></Desc_words1_FCN>
+    <Desc_words1_EN></Desc_words1_EN>
+    <Desc_words2_SCN></Desc_words2_SCN>
+    <Desc_words2_FCN></Desc_words2_FCN>
+    <Desc_words2_EN></Desc_words2_EN>
+</ResGuideEventDesc>
+<ResGuideEventDesc version="1">
+    <ResID>170 </ResID>
+    <Time>0 </Time>
+    <ClicKTime>0 </ClicKTime>
+    <IsForcePos>0 </IsForcePos>
+    <IsCloseMask>0 </IsCloseMask>
+    <IsMaskTransparent>0 </IsMaskTransparent>
+    <TaskID>0 </TaskID>
+    <VoicePath></VoicePath>
+    <Desc_words1_SCN></Desc_words1_SCN>
+    <Desc_words1_FCN></Desc_words1_FCN>
+    <Desc_words1_EN></Desc_words1_EN>
+    <Desc_words2_SCN></Desc_words2_SCN>
+    <Desc_words2_FCN></Desc_words2_FCN>
+    <Desc_words2_EN></Desc_words2_EN>
+</ResGuideEventDesc>
+<ResGuideEventDesc version="1">
+    <ResID>171 </ResID>
+    <Time>0 </Time>
+    <ClicKTime>0 </ClicKTime>
+    <IsForcePos>0 </IsForcePos>
+    <IsCloseMask>0 </IsCloseMask>
+    <IsMaskTransparent>0 </IsMaskTransparent>
+    <TaskID>0 </TaskID>
+    <VoicePath></VoicePath>
+    <Desc_words1_SCN></Desc_words1_SCN>
+    <Desc_words1_FCN></Desc_words1_FCN>
+    <Desc_words1_EN></Desc_words1_EN>
+    <Desc_words2_SCN></Desc_words2_SCN>
+    <Desc_words2_FCN></Desc_words2_FCN>
+    <Desc_words2_EN></Desc_words2_EN>
+</ResGuideEventDesc>
+<ResGuideEventDesc version="1">
+    <ResID>172 </ResID>
+    <Time>0 </Time>
+    <ClicKTime>0 </ClicKTime>
+    <IsForcePos>0 </IsForcePos>
+    <IsCloseMask>0 </IsCloseMask>
+    <IsMaskTransparent>0 </IsMaskTransparent>
+    <TaskID>0 </TaskID>
+    <VoicePath></VoicePath>
+    <Desc_words1_SCN></Desc_words1_SCN>
+    <Desc_words1_FCN></Desc_words1_FCN>
+    <Desc_words1_EN></Desc_words1_EN>
+    <Desc_words2_SCN></Desc_words2_SCN>
+    <Desc_words2_FCN></Desc_words2_FCN>
+    <Desc_words2_EN></Desc_words2_EN>
+</ResGuideEventDesc>
+<ResGuideEventDesc version="1">
+    <ResID>180 </ResID>
+    <Time>0 </Time>
+    <ClicKTime>0 </ClicKTime>
+    <IsForcePos>0 </IsForcePos>
+    <IsCloseMask>0 </IsCloseMask>
+    <IsMaskTransparent>0 </IsMaskTransparent>
+    <TaskID>0 </TaskID>
+    <VoicePath></VoicePath>
+    <Desc_words1_SCN></Desc_words1_SCN>
+    <Desc_words1_FCN></Desc_words1_FCN>
+    <Desc_words1_EN></Desc_words1_EN>
+    <Desc_words2_SCN></Desc_words2_SCN>
+    <Desc_words2_FCN></Desc_words2_FCN>
+    <Desc_words2_EN></Desc_words2_EN>
+</ResGuideEventDesc>
+<ResGuideEventDesc version="1">
+    <ResID>181 </ResID>
+    <Time>0 </Time>
+    <ClicKTime>0 </ClicKTime>
+    <IsForcePos>0 </IsForcePos>
+    <IsCloseMask>0 </IsCloseMask>
+    <IsMaskTransparent>0 </IsMaskTransparent>
+    <TaskID>0 </TaskID>
+    <VoicePath></VoicePath>
+    <Desc_words1_SCN></Desc_words1_SCN>
+    <Desc_words1_FCN></Desc_words1_FCN>
+    <Desc_words1_EN></Desc_words1_EN>
+    <Desc_words2_SCN></Desc_words2_SCN>
+    <Desc_words2_FCN></Desc_words2_FCN>
+    <Desc_words2_EN></Desc_words2_EN>
+</ResGuideEventDesc>
+<ResGuideEventDesc version="1">
+    <ResID>190 </ResID>
+    <Time>0 </Time>
+    <ClicKTime>0 </ClicKTime>
+    <IsForcePos>0 </IsForcePos>
+    <IsCloseMask>0 </IsCloseMask>
+    <IsMaskTransparent>0 </IsMaskTransparent>
+    <TaskID>0 </TaskID>
+    <VoicePath></VoicePath>
+    <Desc_words1_SCN></Desc_words1_SCN>
+    <Desc_words1_FCN></Desc_words1_FCN>
+    <Desc_words1_EN></Desc_words1_EN>
+    <Desc_words2_SCN></Desc_words2_SCN>
+    <Desc_words2_FCN></Desc_words2_FCN>
+    <Desc_words2_EN></Desc_words2_EN>
+</ResGuideEventDesc>
+<ResGuideEventDesc version="1">
+    <ResID>191 </ResID>
+    <Time>0 </Time>
+    <ClicKTime>0 </ClicKTime>
+    <IsForcePos>0 </IsForcePos>
+    <IsCloseMask>0 </IsCloseMask>
+    <IsMaskTransparent>0 </IsMaskTransparent>
+    <TaskID>0 </TaskID>
+    <VoicePath></VoicePath>
+    <Desc_words1_SCN></Desc_words1_SCN>
+    <Desc_words1_FCN></Desc_words1_FCN>
+    <Desc_words1_EN></Desc_words1_EN>
+    <Desc_words2_SCN></Desc_words2_SCN>
+    <Desc_words2_FCN></Desc_words2_FCN>
+    <Desc_words2_EN></Desc_words2_EN>
+</ResGuideEventDesc>
+<ResGuideEventDesc version="1">
+    <ResID>200 </ResID>
+    <Time>0 </Time>
+    <ClicKTime>0 </ClicKTime>
+    <IsForcePos>0 </IsForcePos>
+    <IsCloseMask>0 </IsCloseMask>
+    <IsMaskTransparent>0 </IsMaskTransparent>
+    <TaskID>0 </TaskID>
+    <VoicePath></VoicePath>
+    <Desc_words1_SCN></Desc_words1_SCN>
+    <Desc_words1_FCN></Desc_words1_FCN>
+    <Desc_words1_EN></Desc_words1_EN>
+    <Desc_words2_SCN></Desc_words2_SCN>
+    <Desc_words2_FCN></Desc_words2_FCN>
+    <Desc_words2_EN></Desc_words2_EN>
+</ResGuideEventDesc>
+<ResGuideEventDesc version="1">
+    <ResID>201 </ResID>
+    <Time>0 </Time>
+    <ClicKTime>0 </ClicKTime>
+    <IsForcePos>0 </IsForcePos>
+    <IsCloseMask>0 </IsCloseMask>
+    <IsMaskTransparent>0 </IsMaskTransparent>
+    <TaskID>0 </TaskID>
+    <VoicePath></VoicePath>
+    <Desc_words1_SCN></Desc_words1_SCN>
+    <Desc_words1_FCN></Desc_words1_FCN>
+    <Desc_words1_EN></Desc_words1_EN>
+    <Desc_words2_SCN></Desc_words2_SCN>
+    <Desc_words2_FCN></Desc_words2_FCN>
+    <Desc_words2_EN></Desc_words2_EN>
+</ResGuideEventDesc>
+<ResGuideEventDesc version="1">
+    <ResID>210 </ResID>
+    <Time>0 </Time>
+    <ClicKTime>0 </ClicKTime>
+    <IsForcePos>0 </IsForcePos>
+    <IsCloseMask>0 </IsCloseMask>
+    <IsMaskTransparent>0 </IsMaskTransparent>
+    <TaskID>0 </TaskID>
+    <VoicePath></VoicePath>
+    <Desc_words1_SCN></Desc_words1_SCN>
+    <Desc_words1_FCN></Desc_words1_FCN>
+    <Desc_words1_EN></Desc_words1_EN>
+    <Desc_words2_SCN></Desc_words2_SCN>
+    <Desc_words2_FCN></Desc_words2_FCN>
+    <Desc_words2_EN></Desc_words2_EN>
+</ResGuideEventDesc>
+<ResGuideEventDesc version="1">
+    <ResID>211 </ResID>
+    <Time>0 </Time>
+    <ClicKTime>0 </ClicKTime>
+    <IsForcePos>0 </IsForcePos>
+    <IsCloseMask>0 </IsCloseMask>
+    <IsMaskTransparent>0 </IsMaskTransparent>
+    <TaskID>0 </TaskID>
+    <VoicePath></VoicePath>
+    <Desc_words1_SCN></Desc_words1_SCN>
+    <Desc_words1_FCN></Desc_words1_FCN>
+    <Desc_words1_EN></Desc_words1_EN>
+    <Desc_words2_SCN></Desc_words2_SCN>
+    <Desc_words2_FCN></Desc_words2_FCN>
+    <Desc_words2_EN></Desc_words2_EN>
+</ResGuideEventDesc>
+<ResGuideEventDesc version="1">
+    <ResID>212 </ResID>
+    <Time>0 </Time>
+    <ClicKTime>0 </ClicKTime>
+    <IsForcePos>0 </IsForcePos>
+    <IsCloseMask>0 </IsCloseMask>
+    <IsMaskTransparent>0 </IsMaskTransparent>
+    <TaskID>0 </TaskID>
+    <VoicePath></VoicePath>
+    <Desc_words1_SCN></Desc_words1_SCN>
+    <Desc_words1_FCN></Desc_words1_FCN>
+    <Desc_words1_EN></Desc_words1_EN>
+    <Desc_words2_SCN></Desc_words2_SCN>
+    <Desc_words2_FCN></Desc_words2_FCN>
+    <Desc_words2_EN></Desc_words2_EN>
+</ResGuideEventDesc>
+<ResGuideEventDesc version="1">
+    <ResID>213 </ResID>
+    <Time>3 </Time>
+    <ClicKTime>0 </ClicKTime>
+    <IsForcePos>0 </IsForcePos>
+    <IsCloseMask>0 </IsCloseMask>
+    <IsMaskTransparent>0 </IsMaskTransparent>
+    <TaskID>0 </TaskID>
+    <VoicePath></VoicePath>
+    <Desc_words1_SCN></Desc_words1_SCN>
+    <Desc_words1_FCN></Desc_words1_FCN>
+    <Desc_words1_EN></Desc_words1_EN>
+    <Desc_words2_SCN></Desc_words2_SCN>
+    <Desc_words2_FCN></Desc_words2_FCN>
+    <Desc_words2_EN></Desc_words2_EN>
+</ResGuideEventDesc>
+<ResGuideEventDesc version="1">
+    <ResID>214 </ResID>
+    <Time>0 </Time>
+    <ClicKTime>0 </ClicKTime>
+    <IsForcePos>0 </IsForcePos>
+    <IsCloseMask>0 </IsCloseMask>
+    <IsMaskTransparent>0 </IsMaskTransparent>
+    <TaskID>0 </TaskID>
+    <VoicePath></VoicePath>
+    <Desc_words1_SCN></Desc_words1_SCN>
+    <Desc_words1_FCN></Desc_words1_FCN>
+    <Desc_words1_EN></Desc_words1_EN>
+    <Desc_words2_SCN></Desc_words2_SCN>
+    <Desc_words2_FCN></Desc_words2_FCN>
+    <Desc_words2_EN></Desc_words2_EN>
+</ResGuideEventDesc>
+<ResGuideEventDesc version="1">
+    <ResID>215 </ResID>
+    <Time>0 </Time>
+    <ClicKTime>0 </ClicKTime>
+    <IsForcePos>0 </IsForcePos>
+    <IsCloseMask>0 </IsCloseMask>
+    <IsMaskTransparent>0 </IsMaskTransparent>
+    <TaskID>0 </TaskID>
+    <VoicePath></VoicePath>
+    <Desc_words1_SCN></Desc_words1_SCN>
+    <Desc_words1_FCN></Desc_words1_FCN>
+    <Desc_words1_EN></Desc_words1_EN>
+    <Desc_words2_SCN></Desc_words2_SCN>
+    <Desc_words2_FCN></Desc_words2_FCN>
+    <Desc_words2_EN></Desc_words2_EN>
+</ResGuideEventDesc>
+<ResGuideEventDesc version="1">
+    <ResID>216 </ResID>
+    <Time>3 </Time>
+    <ClicKTime>0 </ClicKTime>
+    <IsForcePos>0 </IsForcePos>
+    <IsCloseMask>0 </IsCloseMask>
+    <IsMaskTransparent>0 </IsMaskTransparent>
+    <TaskID>0 </TaskID>
+    <VoicePath></VoicePath>
+    <Desc_words1_SCN></Desc_words1_SCN>
+    <Desc_words1_FCN></Desc_words1_FCN>
+    <Desc_words1_EN></Desc_words1_EN>
+    <Desc_words2_SCN></Desc_words2_SCN>
+    <Desc_words2_FCN></Desc_words2_FCN>
+    <Desc_words2_EN></Desc_words2_EN>
+</ResGuideEventDesc>
+<ResGuideEventDesc version="1">
+    <ResID>217 </ResID>
+    <Time>0 </Time>
+    <ClicKTime>0 </ClicKTime>
+    <IsForcePos>0 </IsForcePos>
+    <IsCloseMask>0 </IsCloseMask>
+    <IsMaskTransparent>0 </IsMaskTransparent>
+    <TaskID>0 </TaskID>
+    <VoicePath></VoicePath>
+    <Desc_words1_SCN></Desc_words1_SCN>
+    <Desc_words1_FCN></Desc_words1_FCN>
+    <Desc_words1_EN></Desc_words1_EN>
+    <Desc_words2_SCN></Desc_words2_SCN>
+    <Desc_words2_FCN></Desc_words2_FCN>
+    <Desc_words2_EN></Desc_words2_EN>
+</ResGuideEventDesc>
+<ResGuideEventDesc version="1">
+    <ResID>218 </ResID>
+    <Time>0 </Time>
+    <ClicKTime>0 </ClicKTime>
+    <IsForcePos>0 </IsForcePos>
+    <IsCloseMask>0 </IsCloseMask>
+    <IsMaskTransparent>0 </IsMaskTransparent>
+    <TaskID>0 </TaskID>
+    <VoicePath></VoicePath>
+    <Desc_words1_SCN></Desc_words1_SCN>
+    <Desc_words1_FCN></Desc_words1_FCN>
+    <Desc_words1_EN></Desc_words1_EN>
+    <Desc_words2_SCN></Desc_words2_SCN>
+    <Desc_words2_FCN></Desc_words2_FCN>
+    <Desc_words2_EN></Desc_words2_EN>
+</ResGuideEventDesc>
+<ResGuideEventDesc version="1">
+    <ResID>219 </ResID>
+    <Time>5 </Time>
+    <ClicKTime>0 </ClicKTime>
+    <IsForcePos>1 </IsForcePos>
+    <IsCloseMask>1 </IsCloseMask>
+    <IsMaskTransparent>0 </IsMaskTransparent>
+    <TaskID>0 </TaskID>
+    <VoicePath></VoicePath>
+    <Desc_words1_SCN>&lt;color=#d2911e&gt;目标&lt;/color&gt;：训练强大的&lt;color=#d2911e&gt;部队&lt;/color&gt;，摧毁敌方&lt;color=#d2911e&gt;基地&lt;/color&gt;</Desc_words1_SCN>
+    <Desc_words1_FCN>&lt;color=#d2911e&gt;目标&lt;/color&gt;：训练强大的&lt;color=#d2911e&gt;部队&lt;/color&gt;，摧毁敌方&lt;color=#d2911e&gt;基地&lt;/color&gt;</Desc_words1_FCN>
+    <Desc_words1_EN>Objective: Assemble a mighty army to destroy enemy bases.</Desc_words1_EN>
+    <Desc_words2_SCN></Desc_words2_SCN>
+    <Desc_words2_FCN></Desc_words2_FCN>
+    <Desc_words2_EN></Desc_words2_EN>
+</ResGuideEventDesc>
+<ResGuideEventDesc version="1">
+    <ResID>220 </ResID>
+    <Time>15 </Time>
+    <ClicKTime>3 </ClicKTime>
+    <IsForcePos>1 </IsForcePos>
+    <IsCloseMask>0 </IsCloseMask>
+    <IsMaskTransparent>0 </IsMaskTransparent>
+    <TaskID>0 </TaskID>
+    <VoicePath>audio/system/guide/guide02</VoicePath>
+    <Desc_words1_SCN></Desc_words1_SCN>
+    <Desc_words1_FCN></Desc_words1_FCN>
+    <Desc_words1_EN></Desc_words1_EN>
+    <Desc_words2_SCN>死亡沙漠地图介绍</Desc_words2_SCN>
+    <Desc_words2_FCN>死亡沙漠地图介绍</Desc_words2_FCN>
+    <Desc_words2_EN>Death Desert Introduction</Desc_words2_EN>
+</ResGuideEventDesc>
+<ResGuideEventDesc version="1">
+    <ResID>221 </ResID>
+    <Time>5 </Time>
+    <ClicKTime>0 </ClicKTime>
+    <IsForcePos>1 </IsForcePos>
+    <IsCloseMask>1 </IsCloseMask>
+    <IsMaskTransparent>0 </IsMaskTransparent>
+    <TaskID>0 </TaskID>
+    <VoicePath>audio/system/newguide/guide36</VoicePath>
+    <Desc_words1_SCN>&lt;color=#d2911e&gt;优先&lt;/color&gt;清理&lt;color=green&gt;绿色点&lt;/color&gt;的低级野怪快速提升队伍实力</Desc_words1_SCN>
+    <Desc_words1_FCN>&lt;color=#d2911e&gt;优先&lt;/color&gt;清理&lt;color=green&gt;绿色点&lt;/color&gt;的低级野怪快速提升队伍实力</Desc_words1_FCN>
+    <Desc_words1_EN>To start let&apos;s clean up the low level Wild Monsters. This can quickly improve your strength.</Desc_words1_EN>
+    <Desc_words2_SCN></Desc_words2_SCN>
+    <Desc_words2_FCN></Desc_words2_FCN>
+    <Desc_words2_EN></Desc_words2_EN>
+</ResGuideEventDesc>
+<ResGuideEventDesc version="1">
+    <ResID>222 </ResID>
+    <Time>7 </Time>
+    <ClicKTime>0 </ClicKTime>
+    <IsForcePos>1 </IsForcePos>
+    <IsCloseMask>1 </IsCloseMask>
+    <IsMaskTransparent>0 </IsMaskTransparent>
+    <TaskID>0 </TaskID>
+    <VoicePath>audio/system/newguide/guide38</VoicePath>
+    <Desc_words1_SCN>野怪&lt;color=#ffa500ff&gt;等级越高&lt;/color&gt;掉落的装备道具&lt;color=#ffa500ff&gt;品质越高&lt;/color&gt;，获得的&lt;color=#ffa500ff&gt;经验、金币越多&lt;/color&gt;</Desc_words1_SCN>
+    <Desc_words1_FCN>野怪&lt;color=#ffa500ff&gt;等级越高&lt;/color&gt;掉落的装备道具&lt;color=#ffa500ff&gt;品质越高&lt;/color&gt;，获得的&lt;color=#ffa500ff&gt;经验、金币越多&lt;/color&gt;</Desc_words1_FCN>
+    <Desc_words1_EN>The higher level of the Wild Monster the more gold, exp, and higher level gear you will receive.</Desc_words1_EN>
+    <Desc_words2_SCN></Desc_words2_SCN>
+    <Desc_words2_FCN></Desc_words2_FCN>
+    <Desc_words2_EN></Desc_words2_EN>
+</ResGuideEventDesc>
+<ResGuideEventDesc version="1">
+    <ResID>223 </ResID>
+    <Time>6 </Time>
+    <ClicKTime>0 </ClicKTime>
+    <IsForcePos>1 </IsForcePos>
+    <IsCloseMask>1 </IsCloseMask>
+    <IsMaskTransparent>0 </IsMaskTransparent>
+    <TaskID>0 </TaskID>
+    <VoicePath>audio/system/newguide/guide42</VoicePath>
+    <Desc_words1_SCN>进攻镇守&lt;color=#ffa500ff&gt;金矿&lt;/color&gt;的黄色点野怪，清理完野怪后还可以&lt;color=#ffa500ff&gt;建造金矿&lt;/color&gt;获取金币</Desc_words1_SCN>
+    <Desc_words1_FCN>进攻镇守&lt;color=#ffa500ff&gt;金矿&lt;/color&gt;的黄色点野怪，清理完野怪后还可以&lt;color=#ffa500ff&gt;建造金矿&lt;/color&gt;获取金币</Desc_words1_FCN>
+    <Desc_words1_EN>Remove the monsters from the yellow spots on the map and build a mine on the gold ore there to get more gold even faster.</Desc_words1_EN>
+    <Desc_words2_SCN></Desc_words2_SCN>
+    <Desc_words2_FCN></Desc_words2_FCN>
+    <Desc_words2_EN></Desc_words2_EN>
+</ResGuideEventDesc>
+<ResGuideEventDesc version="1">
+    <ResID>224 </ResID>
+    <Time>0 </Time>
+    <ClicKTime>0 </ClicKTime>
+    <IsForcePos>1 </IsForcePos>
+    <IsCloseMask>1 </IsCloseMask>
+    <IsMaskTransparent>0 </IsMaskTransparent>
+    <TaskID>0 </TaskID>
+    <VoicePath>audio/System/guide/ui/task_done</VoicePath>
+    <Desc_words1_SCN></Desc_words1_SCN>
+    <Desc_words1_FCN></Desc_words1_FCN>
+    <Desc_words1_EN></Desc_words1_EN>
+    <Desc_words2_SCN></Desc_words2_SCN>
+    <Desc_words2_FCN></Desc_words2_FCN>
+    <Desc_words2_EN></Desc_words2_EN>
+</ResGuideEventDesc>
+<ResGuideEventDesc version="1">
+    <ResID>225 </ResID>
+    <Time>0 </Time>
+    <ClicKTime>0 </ClicKTime>
+    <IsForcePos>0 </IsForcePos>
+    <IsCloseMask>0 </IsCloseMask>
+    <IsMaskTransparent>0 </IsMaskTransparent>
+    <TaskID>0 </TaskID>
+    <VoicePath></VoicePath>
+    <Desc_words1_SCN></Desc_words1_SCN>
+    <Desc_words1_FCN></Desc_words1_FCN>
+    <Desc_words1_EN></Desc_words1_EN>
+    <Desc_words2_SCN></Desc_words2_SCN>
+    <Desc_words2_FCN></Desc_words2_FCN>
+    <Desc_words2_EN></Desc_words2_EN>
+</ResGuideEventDesc>
+<ResGuideEventDesc version="1">
+    <ResID>226 </ResID>
+    <Time>0 </Time>
+    <ClicKTime>0 </ClicKTime>
+    <IsForcePos>0 </IsForcePos>
+    <IsCloseMask>0 </IsCloseMask>
+    <IsMaskTransparent>0 </IsMaskTransparent>
+    <TaskID>0 </TaskID>
+    <VoicePath></VoicePath>
+    <Desc_words1_SCN></Desc_words1_SCN>
+    <Desc_words1_FCN></Desc_words1_FCN>
+    <Desc_words1_EN></Desc_words1_EN>
+    <Desc_words2_SCN></Desc_words2_SCN>
+    <Desc_words2_FCN></Desc_words2_FCN>
+    <Desc_words2_EN></Desc_words2_EN>
+</ResGuideEventDesc>
+<ResGuideEventDesc version="1">
+    <ResID>227 </ResID>
+    <Time>0 </Time>
+    <ClicKTime>0 </ClicKTime>
+    <IsForcePos>0 </IsForcePos>
+    <IsCloseMask>0 </IsCloseMask>
+    <IsMaskTransparent>0 </IsMaskTransparent>
+    <TaskID>0 </TaskID>
+    <VoicePath></VoicePath>
+    <Desc_words1_SCN></Desc_words1_SCN>
+    <Desc_words1_FCN></Desc_words1_FCN>
+    <Desc_words1_EN></Desc_words1_EN>
+    <Desc_words2_SCN></Desc_words2_SCN>
+    <Desc_words2_FCN></Desc_words2_FCN>
+    <Desc_words2_EN></Desc_words2_EN>
+</ResGuideEventDesc>
+<ResGuideEventDesc version="1">
+    <ResID>228 </ResID>
+    <Time>7 </Time>
+    <ClicKTime>0 </ClicKTime>
+    <IsForcePos>1 </IsForcePos>
+    <IsCloseMask>1 </IsCloseMask>
+    <IsMaskTransparent>0 </IsMaskTransparent>
+    <TaskID>0 </TaskID>
+    <VoicePath>audio/system/guide/guide87</VoicePath>
+    <Desc_words1_SCN>&lt;color=#ffa500ff&gt;当前人口&lt;/color&gt;超过20时，会进入&lt;color=#ffa500ff&gt;高维修费用&lt;/color&gt;模式，&lt;color=#ffa500ff&gt;金币收益&lt;/color&gt;减少60%</Desc_words1_SCN>
+    <Desc_words1_FCN>&lt;color=#ffa500ff&gt;当前人口&lt;/color&gt;超过20时，会进入&lt;color=#ffa500ff&gt;高维修费用&lt;/color&gt;模式，&lt;color=#ffa500ff&gt;金币收益&lt;/color&gt;减少60%</Desc_words1_FCN>
+    <Desc_words1_EN>You will enter high upkeep mode when your Troop Cap is over 20, and Gold yielded will be reduced by 60%.</Desc_words1_EN>
+    <Desc_words2_SCN></Desc_words2_SCN>
+    <Desc_words2_FCN></Desc_words2_FCN>
+    <Desc_words2_EN></Desc_words2_EN>
+</ResGuideEventDesc>
+<ResGuideEventDesc version="1">
+    <ResID>229 </ResID>
+    <Time>6 </Time>
+    <ClicKTime>2 </ClicKTime>
+    <IsForcePos>1 </IsForcePos>
+    <IsCloseMask>1 </IsCloseMask>
+    <IsMaskTransparent>0 </IsMaskTransparent>
+    <TaskID>0 </TaskID>
+    <VoicePath>audio/system/newguide/guide39</VoicePath>
+    <Desc_words1_SCN>&lt;color=#ffa500ff&gt;金矿&lt;/color&gt;可以提供稳定的&lt;color=#ffa500ff&gt;金币&lt;/color&gt;产出;充足的资源，会给你的战斗带来&lt;color=#ffa500ff&gt;极大&lt;/color&gt;的优势</Desc_words1_SCN>
+    <Desc_words1_FCN>&lt;color=#ffa500ff&gt;金矿&lt;/color&gt;可以提供稳定的&lt;color=#ffa500ff&gt;金币&lt;/color&gt;产出;充足的资源，会给你的战斗带来&lt;color=#ffa500ff&gt;极大&lt;/color&gt;的优势</Desc_words1_FCN>
+    <Desc_words1_EN>Mines can provide a stable output of Gold. With enough resources you will have a great advantage in battle.</Desc_words1_EN>
+    <Desc_words2_SCN>金矿介绍</Desc_words2_SCN>
+    <Desc_words2_FCN>金矿介绍</Desc_words2_FCN>
+    <Desc_words2_EN>Mine Introduction</Desc_words2_EN>
+</ResGuideEventDesc>
+<ResGuideEventDesc version="1">
+    <ResID>230 </ResID>
+    <Time>5 </Time>
+    <ClicKTime>0 </ClicKTime>
+    <IsForcePos>1 </IsForcePos>
+    <IsCloseMask>1 </IsCloseMask>
+    <IsMaskTransparent>0 </IsMaskTransparent>
+    <TaskID>0 </TaskID>
+    <VoicePath></VoicePath>
+    <Desc_words1_SCN></Desc_words1_SCN>
+    <Desc_words1_FCN></Desc_words1_FCN>
+    <Desc_words1_EN></Desc_words1_EN>
+    <Desc_words2_SCN></Desc_words2_SCN>
+    <Desc_words2_FCN></Desc_words2_FCN>
+    <Desc_words2_EN></Desc_words2_EN>
+</ResGuideEventDesc>
+<ResGuideEventDesc version="1">
+    <ResID>231 </ResID>
+    <Time>5 </Time>
+    <ClicKTime>0 </ClicKTime>
+    <IsForcePos>1 </IsForcePos>
+    <IsCloseMask>1 </IsCloseMask>
+    <IsMaskTransparent>0 </IsMaskTransparent>
+    <TaskID>0 </TaskID>
+    <VoicePath></VoicePath>
+    <Desc_words1_SCN></Desc_words1_SCN>
+    <Desc_words1_FCN></Desc_words1_FCN>
+    <Desc_words1_EN></Desc_words1_EN>
+    <Desc_words2_SCN></Desc_words2_SCN>
+    <Desc_words2_FCN></Desc_words2_FCN>
+    <Desc_words2_EN></Desc_words2_EN>
+</ResGuideEventDesc>
+<ResGuideEventDesc version="1">
+    <ResID>232 </ResID>
+    <Time>5 </Time>
+    <ClicKTime>0 </ClicKTime>
+    <IsForcePos>1 </IsForcePos>
+    <IsCloseMask>1 </IsCloseMask>
+    <IsMaskTransparent>0 </IsMaskTransparent>
+    <TaskID>0 </TaskID>
+    <VoicePath></VoicePath>
+    <Desc_words1_SCN></Desc_words1_SCN>
+    <Desc_words1_FCN></Desc_words1_FCN>
+    <Desc_words1_EN></Desc_words1_EN>
+    <Desc_words2_SCN></Desc_words2_SCN>
+    <Desc_words2_FCN></Desc_words2_FCN>
+    <Desc_words2_EN></Desc_words2_EN>
+</ResGuideEventDesc>
+<ResGuideEventDesc version="1">
+    <ResID>233 </ResID>
+    <Time>12 </Time>
+    <ClicKTime>2 </ClicKTime>
+    <IsForcePos>1 </IsForcePos>
+    <IsCloseMask>1 </IsCloseMask>
+    <IsMaskTransparent>0 </IsMaskTransparent>
+    <TaskID>0 </TaskID>
+    <VoicePath>audio/system/newguide/guide41</VoicePath>
+    <Desc_words1_SCN>&lt;color=#ffa500ff&gt;沙漠之王&lt;/color&gt;掉落&lt;color=#F329FF&gt;紫色装备&lt;/color&gt;或&lt;color=#ffa500ff&gt;橙色装备&lt;/color&gt;;100%掉落&lt;color=#ffa500ff&gt;统帅之刃&lt;/color&gt;</Desc_words1_SCN>
+    <Desc_words1_FCN>&lt;color=#ffa500ff&gt;沙漠之王&lt;/color&gt;掉落&lt;color=#F329FF&gt;紫色装备&lt;/color&gt;或&lt;color=#ffa500ff&gt;橙色装备&lt;/color&gt;;100%掉落&lt;color=#ffa500ff&gt;统帅之刃&lt;/color&gt;</Desc_words1_FCN>
+    <Desc_words1_EN>Purple and orange gear can be dropped from the Desert King. Blade of Commandment is a guaranteed drop.</Desc_words1_EN>
+    <Desc_words2_SCN>沙漠之王介绍</Desc_words2_SCN>
+    <Desc_words2_FCN>沙漠之王介绍</Desc_words2_FCN>
+    <Desc_words2_EN>The Desert King Introduction</Desc_words2_EN>
+</ResGuideEventDesc>
+<ResGuideEventDesc version="1">
+    <ResID>234 </ResID>
+    <Time>5 </Time>
+    <ClicKTime>0 </ClicKTime>
+    <IsForcePos>1 </IsForcePos>
+    <IsCloseMask>1 </IsCloseMask>
+    <IsMaskTransparent>0 </IsMaskTransparent>
+    <TaskID>0 </TaskID>
+    <VoicePath></VoicePath>
+    <Desc_words1_SCN></Desc_words1_SCN>
+    <Desc_words1_FCN></Desc_words1_FCN>
+    <Desc_words1_EN></Desc_words1_EN>
+    <Desc_words2_SCN></Desc_words2_SCN>
+    <Desc_words2_FCN></Desc_words2_FCN>
+    <Desc_words2_EN></Desc_words2_EN>
+</ResGuideEventDesc>
+<ResGuideEventDesc version="1">
+    <ResID>235 </ResID>
+    <Time>5 </Time>
+    <ClicKTime>2 </ClicKTime>
+    <IsForcePos>1 </IsForcePos>
+    <IsCloseMask>1 </IsCloseMask>
+    <IsMaskTransparent>0 </IsMaskTransparent>
+    <TaskID>0 </TaskID>
+    <VoicePath></VoicePath>
+    <Desc_words1_SCN>您的&lt;color=#ffa500ff&gt;血量&lt;/color&gt;太低了。点击&lt;color=#ffa500ff&gt;回城技能&lt;/color&gt;，就能回到基地补充&lt;color=#ffa500ff&gt;血量和法力&lt;/color&gt;哦</Desc_words1_SCN>
+    <Desc_words1_FCN>您的&lt;color=#ffa500ff&gt;血量&lt;/color&gt;太低了。点击&lt;color=#ffa500ff&gt;回城技能&lt;/color&gt;，就能回到基地补充&lt;color=#ffa500ff&gt;血量和法力&lt;/color&gt;哦</Desc_words1_FCN>
+    <Desc_words1_EN>You&apos;re in bad shape. Tap Recall to teleport back to your base and restore health and mana.</Desc_words1_EN>
+    <Desc_words2_SCN></Desc_words2_SCN>
+    <Desc_words2_FCN></Desc_words2_FCN>
+    <Desc_words2_EN></Desc_words2_EN>
+</ResGuideEventDesc>
+<ResGuideEventDesc version="1">
+    <ResID>236 </ResID>
+    <Time>3 </Time>
+    <ClicKTime>0 </ClicKTime>
+    <IsForcePos>1 </IsForcePos>
+    <IsCloseMask>1 </IsCloseMask>
+    <IsMaskTransparent>0 </IsMaskTransparent>
+    <TaskID>0 </TaskID>
+    <VoicePath></VoicePath>
+    <Desc_words1_SCN></Desc_words1_SCN>
+    <Desc_words1_FCN></Desc_words1_FCN>
+    <Desc_words1_EN></Desc_words1_EN>
+    <Desc_words2_SCN></Desc_words2_SCN>
+    <Desc_words2_FCN></Desc_words2_FCN>
+    <Desc_words2_EN></Desc_words2_EN>
+</ResGuideEventDesc>
+<ResGuideEventDesc version="1">
+    <ResID>237 </ResID>
+    <Time>6 </Time>
+    <ClicKTime>2 </ClicKTime>
+    <IsForcePos>1 </IsForcePos>
+    <IsCloseMask>1 </IsCloseMask>
+    <IsMaskTransparent>0 </IsMaskTransparent>
+    <TaskID>0 </TaskID>
+    <VoicePath>audio/system/guide/guide88</VoicePath>
+    <Desc_words1_SCN>圣甲虫掉落&lt;color=#F329FF&gt;紫色装备&lt;/color&gt;;击杀后队伍会获强大的增益效果：&lt;color=#ffa500ff&gt;灼热意志&lt;/color&gt;</Desc_words1_SCN>
+    <Desc_words1_FCN>圣甲虫掉落&lt;color=#F329FF&gt;紫色装备&lt;/color&gt;;击杀后队伍会获强大的增益效果：&lt;color=#ffa500ff&gt;灼热意志&lt;/color&gt;</Desc_words1_FCN>
+    <Desc_words1_EN>Purple gear can be dropped from the Holy Scarab. Your team will get a powerful buff after the skill: Searing Will.</Desc_words1_EN>
+    <Desc_words2_SCN>圣甲虫介绍</Desc_words2_SCN>
+    <Desc_words2_FCN>圣甲虫介绍</Desc_words2_FCN>
+    <Desc_words2_EN>The Holy Scarab introduction</Desc_words2_EN>
+</ResGuideEventDesc>
+<ResGuideEventDesc version="1">
+    <ResID>238 </ResID>
+    <Time>10 </Time>
+    <ClicKTime>2 </ClicKTime>
+    <IsForcePos>1 </IsForcePos>
+    <IsCloseMask>1 </IsCloseMask>
+    <IsMaskTransparent>0 </IsMaskTransparent>
+    <TaskID>0 </TaskID>
+    <VoicePath>audio/system/newguide/guide35</VoicePath>
+    <Desc_words1_SCN>是时候发起&lt;color=#ffa500ff&gt;进攻&lt;/color&gt;了，&lt;color=#ffa500ff&gt;摧毁敌人所有基地&lt;/color&gt;即可获得&lt;color=#ffa500ff&gt;胜利&lt;/color&gt;！</Desc_words1_SCN>
+    <Desc_words1_FCN>是时候发起&lt;color=#ffa500ff&gt;进攻&lt;/color&gt;了，&lt;color=#ffa500ff&gt;摧毁敌人所有基地&lt;/color&gt;即可获得&lt;color=#ffa500ff&gt;胜利&lt;/color&gt;！</Desc_words1_FCN>
+    <Desc_words1_EN>It’s time to launch an attack and destroy all the enemy bases and win!</Desc_words1_EN>
+    <Desc_words2_SCN>进攻！赢得胜利</Desc_words2_SCN>
+    <Desc_words2_FCN>进攻！赢得胜利</Desc_words2_FCN>
+    <Desc_words2_EN>Attack! To victory!</Desc_words2_EN>
+</ResGuideEventDesc>
+<ResGuideEventDesc version="1">
+    <ResID>239 </ResID>
+    <Time>5 </Time>
+    <ClicKTime>0 </ClicKTime>
+    <IsForcePos>1 </IsForcePos>
+    <IsCloseMask>1 </IsCloseMask>
+    <IsMaskTransparent>0 </IsMaskTransparent>
+    <TaskID>0 </TaskID>
+    <VoicePath>audio/system/newguide/guide40</VoicePath>
+    <Desc_words1_SCN>拾取&lt;color=#ffa500ff&gt;统帅之刃&lt;/color&gt;，可召唤强力&lt;color=#ffa500ff&gt;沙漠之王战士&lt;/color&gt;辅助攻城</Desc_words1_SCN>
+    <Desc_words1_FCN>拾取&lt;color=#ffa500ff&gt;统帅之刃&lt;/color&gt;，可召唤强力&lt;color=#ffa500ff&gt;沙漠之王战士&lt;/color&gt;辅助攻城</Desc_words1_FCN>
+    <Desc_words1_EN>Get the Blade of Commandment and use the Desert King to assist in the siege.</Desc_words1_EN>
+    <Desc_words2_SCN></Desc_words2_SCN>
+    <Desc_words2_FCN></Desc_words2_FCN>
+    <Desc_words2_EN></Desc_words2_EN>
+</ResGuideEventDesc>
+<ResGuideEventDesc version="1">
+    <ResID>240 </ResID>
+    <Time>0 </Time>
+    <ClicKTime>0 </ClicKTime>
+    <IsForcePos>1 </IsForcePos>
+    <IsCloseMask>1 </IsCloseMask>
+    <IsMaskTransparent>0 </IsMaskTransparent>
+    <TaskID>0 </TaskID>
+    <VoicePath></VoicePath>
+    <Desc_words1_SCN></Desc_words1_SCN>
+    <Desc_words1_FCN></Desc_words1_FCN>
+    <Desc_words1_EN></Desc_words1_EN>
+    <Desc_words2_SCN></Desc_words2_SCN>
+    <Desc_words2_FCN></Desc_words2_FCN>
+    <Desc_words2_EN></Desc_words2_EN>
+</ResGuideEventDesc>
+<ResGuideEventDesc version="1">
+    <ResID>241 </ResID>
+    <Time>0 </Time>
+    <ClicKTime>0 </ClicKTime>
+    <IsForcePos>0 </IsForcePos>
+    <IsCloseMask>0 </IsCloseMask>
+    <IsMaskTransparent>0 </IsMaskTransparent>
+    <TaskID>0 </TaskID>
+    <VoicePath>audio/System/guide/ui/task_done</VoicePath>
+    <Desc_words1_SCN></Desc_words1_SCN>
+    <Desc_words1_FCN></Desc_words1_FCN>
+    <Desc_words1_EN></Desc_words1_EN>
+    <Desc_words2_SCN></Desc_words2_SCN>
+    <Desc_words2_FCN></Desc_words2_FCN>
+    <Desc_words2_EN></Desc_words2_EN>
+</ResGuideEventDesc>
+<ResGuideEventDesc version="1">
+    <ResID>242 </ResID>
+    <Time>0 </Time>
+    <ClicKTime>0 </ClicKTime>
+    <IsForcePos>0 </IsForcePos>
+    <IsCloseMask>0 </IsCloseMask>
+    <IsMaskTransparent>0 </IsMaskTransparent>
+    <TaskID>0 </TaskID>
+    <VoicePath>audio/System/guide/ui/task_done</VoicePath>
+    <Desc_words1_SCN></Desc_words1_SCN>
+    <Desc_words1_FCN></Desc_words1_FCN>
+    <Desc_words1_EN></Desc_words1_EN>
+    <Desc_words2_SCN></Desc_words2_SCN>
+    <Desc_words2_FCN></Desc_words2_FCN>
+    <Desc_words2_EN></Desc_words2_EN>
+</ResGuideEventDesc>
+<ResGuideEventDesc version="1">
+    <ResID>244 </ResID>
+    <Time>15 </Time>
+    <ClicKTime>3 </ClicKTime>
+    <IsForcePos>1 </IsForcePos>
+    <IsCloseMask>0 </IsCloseMask>
+    <IsMaskTransparent>0 </IsMaskTransparent>
+    <TaskID>0 </TaskID>
+    <VoicePath>audio/system/newguide/guide34</VoicePath>
+    <Desc_words1_SCN></Desc_words1_SCN>
+    <Desc_words1_FCN></Desc_words1_FCN>
+    <Desc_words1_EN></Desc_words1_EN>
+    <Desc_words2_SCN>野怪分布</Desc_words2_SCN>
+    <Desc_words2_FCN>野怪分布</Desc_words2_FCN>
+    <Desc_words2_EN>野怪分布</Desc_words2_EN>
+</ResGuideEventDesc>
+<ResGuideEventDesc version="1">
+    <ResID>245 </ResID>
+    <Time>7 </Time>
+    <ClicKTime>3 </ClicKTime>
+    <IsForcePos>1 </IsForcePos>
+    <IsCloseMask>0 </IsCloseMask>
+    <IsMaskTransparent>0 </IsMaskTransparent>
+    <TaskID>0 </TaskID>
+    <VoicePath>audio/system/guide/guide89</VoicePath>
+    <Desc_words1_SCN></Desc_words1_SCN>
+    <Desc_words1_FCN></Desc_words1_FCN>
+    <Desc_words1_EN></Desc_words1_EN>
+    <Desc_words2_SCN>主基地保护机制</Desc_words2_SCN>
+    <Desc_words2_FCN>主基地保护机制</Desc_words2_FCN>
+    <Desc_words2_EN>主基地保护机制</Desc_words2_EN>
+</ResGuideEventDesc>
+<ResGuideEventDesc version="1">
+    <ResID>260 </ResID>
+    <Time>0 </Time>
+    <ClicKTime>0 </ClicKTime>
+    <IsForcePos>0 </IsForcePos>
+    <IsCloseMask>0 </IsCloseMask>
+    <IsMaskTransparent>0 </IsMaskTransparent>
+    <TaskID>0 </TaskID>
+    <VoicePath></VoicePath>
+    <Desc_words1_SCN></Desc_words1_SCN>
+    <Desc_words1_FCN></Desc_words1_FCN>
+    <Desc_words1_EN></Desc_words1_EN>
+    <Desc_words2_SCN></Desc_words2_SCN>
+    <Desc_words2_FCN></Desc_words2_FCN>
+    <Desc_words2_EN></Desc_words2_EN>
+</ResGuideEventDesc>
+<ResGuideEventDesc version="1">
+    <ResID>261 </ResID>
+    <Time>0 </Time>
+    <ClicKTime>0 </ClicKTime>
+    <IsForcePos>0 </IsForcePos>
+    <IsCloseMask>0 </IsCloseMask>
+    <IsMaskTransparent>0 </IsMaskTransparent>
+    <TaskID>0 </TaskID>
+    <VoicePath></VoicePath>
+    <Desc_words1_SCN></Desc_words1_SCN>
+    <Desc_words1_FCN></Desc_words1_FCN>
+    <Desc_words1_EN></Desc_words1_EN>
+    <Desc_words2_SCN></Desc_words2_SCN>
+    <Desc_words2_FCN></Desc_words2_FCN>
+    <Desc_words2_EN></Desc_words2_EN>
+</ResGuideEventDesc>
+<ResGuideEventDesc version="1">
+    <ResID>262 </ResID>
+    <Time>0 </Time>
+    <ClicKTime>0 </ClicKTime>
+    <IsForcePos>0 </IsForcePos>
+    <IsCloseMask>0 </IsCloseMask>
+    <IsMaskTransparent>0 </IsMaskTransparent>
+    <TaskID>0 </TaskID>
+    <VoicePath></VoicePath>
+    <Desc_words1_SCN></Desc_words1_SCN>
+    <Desc_words1_FCN></Desc_words1_FCN>
+    <Desc_words1_EN></Desc_words1_EN>
+    <Desc_words2_SCN></Desc_words2_SCN>
+    <Desc_words2_FCN></Desc_words2_FCN>
+    <Desc_words2_EN></Desc_words2_EN>
+</ResGuideEventDesc>
+<ResGuideEventDesc version="1">
+    <ResID>263 </ResID>
+    <Time>0 </Time>
+    <ClicKTime>0 </ClicKTime>
+    <IsForcePos>0 </IsForcePos>
+    <IsCloseMask>0 </IsCloseMask>
+    <IsMaskTransparent>0 </IsMaskTransparent>
+    <TaskID>0 </TaskID>
+    <VoicePath></VoicePath>
+    <Desc_words1_SCN></Desc_words1_SCN>
+    <Desc_words1_FCN></Desc_words1_FCN>
+    <Desc_words1_EN></Desc_words1_EN>
+    <Desc_words2_SCN></Desc_words2_SCN>
+    <Desc_words2_FCN></Desc_words2_FCN>
+    <Desc_words2_EN></Desc_words2_EN>
+</ResGuideEventDesc>
+<ResGuideEventDesc version="1">
+    <ResID>264 </ResID>
+    <Time>0 </Time>
+    <ClicKTime>0 </ClicKTime>
+    <IsForcePos>0 </IsForcePos>
+    <IsCloseMask>0 </IsCloseMask>
+    <IsMaskTransparent>0 </IsMaskTransparent>
+    <TaskID>0 </TaskID>
+    <VoicePath></VoicePath>
+    <Desc_words1_SCN></Desc_words1_SCN>
+    <Desc_words1_FCN></Desc_words1_FCN>
+    <Desc_words1_EN></Desc_words1_EN>
+    <Desc_words2_SCN></Desc_words2_SCN>
+    <Desc_words2_FCN></Desc_words2_FCN>
+    <Desc_words2_EN></Desc_words2_EN>
+</ResGuideEventDesc>
+<ResGuideEventDesc version="1">
+    <ResID>265 </ResID>
+    <Time>0 </Time>
+    <ClicKTime>0 </ClicKTime>
+    <IsForcePos>0 </IsForcePos>
+    <IsCloseMask>0 </IsCloseMask>
+    <IsMaskTransparent>0 </IsMaskTransparent>
+    <TaskID>0 </TaskID>
+    <VoicePath></VoicePath>
+    <Desc_words1_SCN></Desc_words1_SCN>
+    <Desc_words1_FCN></Desc_words1_FCN>
+    <Desc_words1_EN></Desc_words1_EN>
+    <Desc_words2_SCN></Desc_words2_SCN>
+    <Desc_words2_FCN></Desc_words2_FCN>
+    <Desc_words2_EN></Desc_words2_EN>
+</ResGuideEventDesc>
+<ResGuideEventDesc version="1">
+    <ResID>266 </ResID>
+    <Time>0 </Time>
+    <ClicKTime>0 </ClicKTime>
+    <IsForcePos>0 </IsForcePos>
+    <IsCloseMask>0 </IsCloseMask>
+    <IsMaskTransparent>0 </IsMaskTransparent>
+    <TaskID>0 </TaskID>
+    <VoicePath></VoicePath>
+    <Desc_words1_SCN></Desc_words1_SCN>
+    <Desc_words1_FCN></Desc_words1_FCN>
+    <Desc_words1_EN></Desc_words1_EN>
+    <Desc_words2_SCN></Desc_words2_SCN>
+    <Desc_words2_FCN></Desc_words2_FCN>
+    <Desc_words2_EN></Desc_words2_EN>
+</ResGuideEventDesc>
+<ResGuideEventDesc version="1">
+    <ResID>267 </ResID>
+    <Time>0 </Time>
+    <ClicKTime>0 </ClicKTime>
+    <IsForcePos>0 </IsForcePos>
+    <IsCloseMask>0 </IsCloseMask>
+    <IsMaskTransparent>0 </IsMaskTransparent>
+    <TaskID>0 </TaskID>
+    <VoicePath></VoicePath>
+    <Desc_words1_SCN></Desc_words1_SCN>
+    <Desc_words1_FCN></Desc_words1_FCN>
+    <Desc_words1_EN></Desc_words1_EN>
+    <Desc_words2_SCN></Desc_words2_SCN>
+    <Desc_words2_FCN></Desc_words2_FCN>
+    <Desc_words2_EN></Desc_words2_EN>
+</ResGuideEventDesc>
+<ResGuideEventDesc version="1">
+    <ResID>268 </ResID>
+    <Time>8 </Time>
+    <ClicKTime>3 </ClicKTime>
+    <IsForcePos>1 </IsForcePos>
+    <IsCloseMask>0 </IsCloseMask>
+    <IsMaskTransparent>0 </IsMaskTransparent>
+    <TaskID>0 </TaskID>
+    <VoicePath>audio/system/guide/guide90</VoicePath>
+    <Desc_words1_SCN>&lt;color=#ffa500ff&gt;英雄战旗&lt;/color&gt;增强英雄属性，&lt;color=#ffa500ff&gt;种族战旗&lt;/color&gt;强化部队能力。等级越高属性越强。</Desc_words1_SCN>
+    <Desc_words1_FCN>&lt;color=#ffa500ff&gt;英雄战旗&lt;/color&gt;增强英雄属性，&lt;color=#ffa500ff&gt;种族战旗&lt;/color&gt;强化部队能力。等级越高属性越强。</Desc_words1_FCN>
+    <Desc_words1_EN>&lt;color=#ffa500ff&gt;英雄战旗&lt;/color&gt;增强英雄属性，&lt;color=#ffa500ff&gt;种族战旗&lt;/color&gt;强化部队能力。等级越高属性越强。</Desc_words1_EN>
+    <Desc_words2_SCN></Desc_words2_SCN>
+    <Desc_words2_FCN></Desc_words2_FCN>
+    <Desc_words2_EN></Desc_words2_EN>
+</ResGuideEventDesc>
+</ResGuideEventDesc_Tab>

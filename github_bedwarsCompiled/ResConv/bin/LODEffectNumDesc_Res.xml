@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<ResLODEffectNumDesc_Tab>
+<TResHeadAll version="5">
+    <resHead type="TResHead">
+        <Magic>1397052237 </Magic>
+        <Version>6 </Version>
+        <Unit>16 </Unit>
+        <Count>10 </Count>
+        <MetalibHash>531d5b4a397ad5b3c0fbfb5cc8059e55</MetalibHash>
+        <ResVersion>0 </ResVersion>
+        <CreateTime>2023-04-19 20:42:31</CreateTime>
+        <ResEncording>UTF-8</ResEncording>
+        <ContentHash>7328d6a72cd75b1ff5c1b95672fb9d0e</ContentHash>
+    </resHead>
+    <resHeadExt type="TResHeadExt">
+        <DataOffset>136 </DataOffset>
+    </resHeadExt>
+</TResHeadAll>
+<ResLODEffectNumDesc version="1">
+    <iResID>0 </iResID>
+    <LowParam>10 </LowParam>
+    <MidParam>15 </MidParam>
+    <HighParam>40 </HighParam>
+</ResLODEffectNumDesc>
+<ResLODEffectNumDesc version="1">
+    <iResID>1 </iResID>
+    <LowParam>10 </LowParam>
+    <MidParam>15 </MidParam>
+    <HighParam>60 </HighParam>
+</ResLODEffectNumDesc>
+<ResLODEffectNumDesc version="1">
+    <iResID>2 </iResID>
+    <LowParam>5 </LowParam>
+    <MidParam>15 </MidParam>
+    <HighParam>30 </HighParam>
+</ResLODEffectNumDesc>
+<ResLODEffectNumDesc version="1">
+    <iResID>3 </iResID>
+    <LowParam>2 </LowParam>
+    <MidParam>10 </MidParam>
+    <HighParam>20 </HighParam>
+</ResLODEffectNumDesc>
+<ResLODEffectNumDesc version="1">
+    <iResID>4 </iResID>
+    <LowParam>2 </LowParam>
+    <MidParam>10 </MidParam>
+    <HighParam>30 </HighParam>
+</ResLODEffectNumDesc>
+<ResLODEffectNumDesc version="1">
+    <iResID>5 </iResID>
+    <LowParam>5 </LowParam>
+    <MidParam>15 </MidParam>
+    <HighParam>60 </HighParam>
+</ResLODEffectNumDesc>
+<ResLODEffectNumDesc version="1">
+    <iResID>6 </iResID>
+    <LowParam>50 </LowParam>
+    <MidParam>50 </MidParam>
+    <HighParam>50 </HighParam>
+</ResLODEffectNumDesc>
+<ResLODEffectNumDesc version="1">
+    <iResID>7 </iResID>
+    <LowParam>5 </LowParam>
+    <MidParam>10 </MidParam>
+    <HighParam>30 </HighParam>
+</ResLODEffectNumDesc>
+<ResLODEffectNumDesc version="1">
+    <iResID>8 </iResID>
+    <LowParam>50 </LowParam>
+    <MidParam>50 </MidParam>
+    <HighParam>50 </HighParam>
+</ResLODEffectNumDesc>
+<ResLODEffectNumDesc version="1">
+    <iResID>9 </iResID>
+    <LowParam>10 </LowParam>
+    <MidParam>10 </MidParam>
+    <HighParam>20 </HighParam>
+</ResLODEffectNumDesc>
+</ResLODEffectNumDesc_Tab>

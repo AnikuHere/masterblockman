@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<ResBuildAICondDesc_Tab>
+<TResHeadAll version="5">
+    <resHead type="TResHead">
+        <Magic>1397052237 </Magic>
+        <Version>6 </Version>
+        <Unit>15 </Unit>
+        <Count>13 </Count>
+        <MetalibHash>531d5b4a397ad5b3c0fbfb5cc8059e55</MetalibHash>
+        <ResVersion>0 </ResVersion>
+        <CreateTime>2023-04-19 20:42:32</CreateTime>
+        <ResEncording>UTF-8</ResEncording>
+        <ContentHash>842c875239d482464468e00f1fc9d9f7</ContentHash>
+    </resHead>
+    <resHeadExt type="TResHeadExt">
+        <DataOffset>136 </DataOffset>
+    </resHeadExt>
+</TResHeadAll>
+<ResBuildAICondDesc version="1">
+    <ID>1001 </ID>
+    <Target type="ResBuildAITarget">
+        <BuildAITargetType>5 </BuildAITargetType>
+        <Param>0 </Param>
+    </Target>
+    <Target type="ResBuildAITarget">
+        <BuildAITargetType>2 </BuildAITargetType>
+        <Param>0 </Param>
+    </Target>
+    <Opt>3 </Opt>
+</ResBuildAICondDesc>
+<ResBuildAICondDesc version="1">
+    <ID>1002 </ID>
+    <Target type="ResBuildAITarget">
+        <BuildAITargetType>6 </BuildAITargetType>
+        <Param>0 </Param>
+    </Target>
+    <Target type="ResBuildAITarget">
+        <BuildAITargetType>2 </BuildAITargetType>
+        <Param>0 </Param>
+    </Target>
+    <Opt>1 </Opt>
+</ResBuildAICondDesc>
+<ResBuildAICondDesc version="1">
+    <ID>1003 </ID>
+    <Target type="ResBuildAITarget">
+        <BuildAITargetType>4 </BuildAITargetType>
+        <Param>0 </Param>
+    </Target>
+    <Target type="ResBuildAITarget">
+        <BuildAITargetType>2 </BuildAITargetType>
+        <Param>0 </Param>
+    </Target>
+    <Opt>0 </Opt>
+</ResBuildAICondDesc>
+<ResBuildAICondDesc version="1">
+    <ID>1004 </ID>
+    <Target type="ResBuildAITarget">
+        <BuildAITargetType>7 </BuildAITargetType>
+        <Param>0 </Param>
+    </Target>
+    <Target type="ResBuildAITarget">
+        <BuildAITargetType>2 </BuildAITargetType>
+        <Param>0 </Param>
+    </Target>
+    <Opt>3 </Opt>
+</ResBuildAICondDesc>
+<ResBuildAICondDesc version="1">
+    <ID>1005 </ID>
+    <Target type="ResBuildAITarget">
+        <BuildAITargetType>8 </BuildAITargetType>
+        <Param>0 </Param>
+    </Target>
+    <Target type="ResBuildAITarget">
+        <BuildAITargetType>2 </BuildAITargetType>
+        <Param>0 </Param>
+    </Target>
+    <Opt>2 </Opt>
+</ResBuildAICondDesc>
+<ResBuildAICondDesc version="1">
+    <ID>1006 </ID>
+    <Target type="ResBuildAITarget">
+        <BuildAITargetType>9 </BuildAITargetType>
+        <Param>0 </Param>
+    </Target>
+    <Target type="ResBuildAITarget">
+        <BuildAITargetType>2 </BuildAITargetType>
+        <Param>0 </Param>
+    </Target>
+    <Opt>0 </Opt>
+</ResBuildAICondDesc>
+<ResBuildAICondDesc version="1">
+    <ID>1007 </ID>
+    <Target type="ResBuildAITarget">
+        <BuildAITargetType>10 </BuildAITargetType>
+        <Param>0 </Param>
+    </Target>
+    <Target type="ResBuildAITarget">
+        <BuildAITargetType>2 </BuildAITargetType>
+        <Param>0 </Param>
+    </Target>
+    <Opt>3 </Opt>
+</ResBuildAICondDesc>
+<ResBuildAICondDesc version="1">
+    <ID>1008 </ID>
+    <Target type="ResBuildAITarget">
+        <BuildAITargetType>11 </BuildAITargetType>
+        <Param>0 </Param>
+    </Target>
+    <Target type="ResBuildAITarget">
+        <BuildAITargetType>2 </BuildAITargetType>
+        <Param>0 </Param>
+    </Target>
+    <Opt>5 </Opt>
+</ResBuildAICondDesc>
+<ResBuildAICondDesc version="1">
+    <ID>1009 </ID>
+    <Target type="ResBuildAITarget">
+        <BuildAITargetType>6 </BuildAITargetType>
+        <Param>0 </Param>
+    </Target>
+    <Target type="ResBuildAITarget">
+        <BuildAITargetType>2 </BuildAITargetType>
+        <Param>0 </Param>
+    </Target>
+    <Opt>5 </Opt>
+</ResBuildAICondDesc>
+<ResBuildAICondDesc version="1">
+    <ID>1010 </ID>
+    <Target type="ResBuildAITarget">
+        <BuildAITargetType>7 </BuildAITargetType>
+        <Param>0 </Param>
+    </Target>
+    <Target type="ResBuildAITarget">
+        <BuildAITargetType>2 </BuildAITargetType>
+        <Param>0 </Param>
+    </Target>
+    <Opt>0 </Opt>
+</ResBuildAICondDesc>
+<ResBuildAICondDesc version="1">
+    <ID>1011 </ID>
+    <Target type="ResBuildAITarget">
+        <BuildAITargetType>6 </BuildAITargetType>
+        <Param>0 </Param>
+    </Target>
+    <Target type="ResBuildAITarget">
+        <BuildAITargetType>2 </BuildAITargetType>
+        <Param>0 </Param>
+    </Target>
+    <Opt>4 </Opt>
+</ResBuildAICondDesc>
+<ResBuildAICondDesc version="1">
+    <ID>2001 </ID>
+    <Target type="ResBuildAITarget">
+        <BuildAITargetType>3 </BuildAITargetType>
+        <Param>1002 </Param>
+    </Target>
+    <Target type="ResBuildAITarget">
+        <BuildAITargetType>3 </BuildAITargetType>
+        <Param>1003 </Param>
+    </Target>
+    <Opt>6 </Opt>
+</ResBuildAICondDesc>
+<ResBuildAICondDesc version="1">
+    <ID>2002 </ID>
+    <Target type="ResBuildAITarget">
+        <BuildAITargetType>3 </BuildAITargetType>
+        <Param>1011 </Param>
+    </Target>
+    <Target type="ResBuildAITarget">
+        <BuildAITargetType>3 </BuildAITargetType>
+        <Param>1003 </Param>
+    </Target>
+    <Opt>6 </Opt>
+</ResBuildAICondDesc>
+</ResBuildAICondDesc_Tab>

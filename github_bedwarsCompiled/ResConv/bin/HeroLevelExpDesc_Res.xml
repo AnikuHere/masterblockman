@@ -1,0 +1,1069 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<ResSystemSummonerLevelDesc_Tab>
+<TResHeadAll version="5">
+    <resHead type="TResHead">
+        <Magic>1397052237 </Magic>
+        <Version>6 </Version>
+        <Unit>618 </Unit>
+        <Count>30 </Count>
+        <MetalibHash>531d5b4a397ad5b3c0fbfb5cc8059e55</MetalibHash>
+        <ResVersion>0 </ResVersion>
+        <CreateTime>2023-04-19 20:42:34</CreateTime>
+        <ResEncording>UTF-8</ResEncording>
+        <ContentHash>56e4ab9d2a25590a1fb47276dc9f1b46</ContentHash>
+    </resHead>
+    <resHeadExt type="TResHeadExt">
+        <DataOffset>136 </DataOffset>
+    </resHeadExt>
+</TResHeadAll>
+<ResSystemSummonerLevelDesc version="1">
+    <ResID>1 </ResID>
+    <EXP>100 </EXP>
+    <Reward type="ItemReward">
+        <ItemID>3 </ItemID>
+        <ItemNum>150 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <SkillID>0 </SkillID>
+    <Unlock type="LevelUnlock">
+        <UnlockDesc_SCN>匹配模式</UnlockDesc_SCN>
+        <UnlockDesc_FCN>匹配模式</UnlockDesc_FCN>
+        <UnlockDesc_EN>Quick Play</UnlockDesc_EN>
+        <UISkipType>70 </UISkipType>
+    </Unlock>
+    <Unlock type="LevelUnlock">
+        <UnlockDesc_SCN></UnlockDesc_SCN>
+        <UnlockDesc_FCN></UnlockDesc_FCN>
+        <UnlockDesc_EN></UnlockDesc_EN>
+        <UISkipType>0 </UISkipType>
+    </Unlock>
+    <Unlock type="LevelUnlock">
+        <UnlockDesc_SCN></UnlockDesc_SCN>
+        <UnlockDesc_FCN></UnlockDesc_FCN>
+        <UnlockDesc_EN></UnlockDesc_EN>
+        <UISkipType>0 </UISkipType>
+    </Unlock>
+</ResSystemSummonerLevelDesc>
+<ResSystemSummonerLevelDesc version="1">
+    <ResID>2 </ResID>
+    <EXP>700 </EXP>
+    <Reward type="ItemReward">
+        <ItemID>3 </ItemID>
+        <ItemNum>150 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <SkillID>0 </SkillID>
+    <Unlock type="LevelUnlock">
+        <UnlockDesc_SCN>任务</UnlockDesc_SCN>
+        <UnlockDesc_FCN>任务</UnlockDesc_FCN>
+        <UnlockDesc_EN>Tasks</UnlockDesc_EN>
+        <UISkipType>60 </UISkipType>
+    </Unlock>
+    <Unlock type="LevelUnlock">
+        <UnlockDesc_SCN></UnlockDesc_SCN>
+        <UnlockDesc_FCN></UnlockDesc_FCN>
+        <UnlockDesc_EN></UnlockDesc_EN>
+        <UISkipType>0 </UISkipType>
+    </Unlock>
+    <Unlock type="LevelUnlock">
+        <UnlockDesc_SCN></UnlockDesc_SCN>
+        <UnlockDesc_FCN></UnlockDesc_FCN>
+        <UnlockDesc_EN></UnlockDesc_EN>
+        <UISkipType>0 </UISkipType>
+    </Unlock>
+</ResSystemSummonerLevelDesc>
+<ResSystemSummonerLevelDesc version="1">
+    <ResID>3 </ResID>
+    <EXP>800 </EXP>
+    <Reward type="ItemReward">
+        <ItemID>3 </ItemID>
+        <ItemNum>150 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <SkillID>0 </SkillID>
+    <Unlock type="LevelUnlock">
+        <UnlockDesc_SCN>训练营</UnlockDesc_SCN>
+        <UnlockDesc_FCN>训练营</UnlockDesc_FCN>
+        <UnlockDesc_EN>Training</UnlockDesc_EN>
+        <UISkipType>90 </UISkipType>
+    </Unlock>
+    <Unlock type="LevelUnlock">
+        <UnlockDesc_SCN></UnlockDesc_SCN>
+        <UnlockDesc_FCN></UnlockDesc_FCN>
+        <UnlockDesc_EN></UnlockDesc_EN>
+        <UISkipType>0 </UISkipType>
+    </Unlock>
+    <Unlock type="LevelUnlock">
+        <UnlockDesc_SCN></UnlockDesc_SCN>
+        <UnlockDesc_FCN></UnlockDesc_FCN>
+        <UnlockDesc_EN></UnlockDesc_EN>
+        <UISkipType>0 </UISkipType>
+    </Unlock>
+</ResSystemSummonerLevelDesc>
+<ResSystemSummonerLevelDesc version="1">
+    <ResID>4 </ResID>
+    <EXP>1000 </EXP>
+    <Reward type="ItemReward">
+        <ItemID>3 </ItemID>
+        <ItemNum>150 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <SkillID>0 </SkillID>
+    <Unlock type="LevelUnlock">
+        <UnlockDesc_SCN>商城</UnlockDesc_SCN>
+        <UnlockDesc_FCN>商城</UnlockDesc_FCN>
+        <UnlockDesc_EN>Shop</UnlockDesc_EN>
+        <UISkipType>100 </UISkipType>
+    </Unlock>
+    <Unlock type="LevelUnlock">
+        <UnlockDesc_SCN></UnlockDesc_SCN>
+        <UnlockDesc_FCN></UnlockDesc_FCN>
+        <UnlockDesc_EN></UnlockDesc_EN>
+        <UISkipType>0 </UISkipType>
+    </Unlock>
+    <Unlock type="LevelUnlock">
+        <UnlockDesc_SCN></UnlockDesc_SCN>
+        <UnlockDesc_FCN></UnlockDesc_FCN>
+        <UnlockDesc_EN></UnlockDesc_EN>
+        <UISkipType>0 </UISkipType>
+    </Unlock>
+</ResSystemSummonerLevelDesc>
+<ResSystemSummonerLevelDesc version="1">
+    <ResID>5 </ResID>
+    <EXP>1500 </EXP>
+    <Reward type="ItemReward">
+        <ItemID>3 </ItemID>
+        <ItemNum>150 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <SkillID>0 </SkillID>
+    <Unlock type="LevelUnlock">
+        <UnlockDesc_SCN>成就</UnlockDesc_SCN>
+        <UnlockDesc_FCN>成就</UnlockDesc_FCN>
+        <UnlockDesc_EN>Achievements</UnlockDesc_EN>
+        <UISkipType>40 </UISkipType>
+    </Unlock>
+    <Unlock type="LevelUnlock">
+        <UnlockDesc_SCN></UnlockDesc_SCN>
+        <UnlockDesc_FCN></UnlockDesc_FCN>
+        <UnlockDesc_EN></UnlockDesc_EN>
+        <UISkipType>0 </UISkipType>
+    </Unlock>
+    <Unlock type="LevelUnlock">
+        <UnlockDesc_SCN></UnlockDesc_SCN>
+        <UnlockDesc_FCN></UnlockDesc_FCN>
+        <UnlockDesc_EN></UnlockDesc_EN>
+        <UISkipType>0 </UISkipType>
+    </Unlock>
+</ResSystemSummonerLevelDesc>
+<ResSystemSummonerLevelDesc version="1">
+    <ResID>6 </ResID>
+    <EXP>2000 </EXP>
+    <Reward type="ItemReward">
+        <ItemID>3 </ItemID>
+        <ItemNum>150 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <SkillID>0 </SkillID>
+    <Unlock type="LevelUnlock">
+        <UnlockDesc_SCN>快捷出兵</UnlockDesc_SCN>
+        <UnlockDesc_FCN>快捷出兵</UnlockDesc_FCN>
+        <UnlockDesc_EN>Quick Troop</UnlockDesc_EN>
+        <UISkipType>31 </UISkipType>
+    </Unlock>
+    <Unlock type="LevelUnlock">
+        <UnlockDesc_SCN></UnlockDesc_SCN>
+        <UnlockDesc_FCN></UnlockDesc_FCN>
+        <UnlockDesc_EN></UnlockDesc_EN>
+        <UISkipType>0 </UISkipType>
+    </Unlock>
+    <Unlock type="LevelUnlock">
+        <UnlockDesc_SCN></UnlockDesc_SCN>
+        <UnlockDesc_FCN></UnlockDesc_FCN>
+        <UnlockDesc_EN></UnlockDesc_EN>
+        <UISkipType>0 </UISkipType>
+    </Unlock>
+</ResSystemSummonerLevelDesc>
+<ResSystemSummonerLevelDesc version="1">
+    <ResID>7 </ResID>
+    <EXP>2500 </EXP>
+    <Reward type="ItemReward">
+        <ItemID>3 </ItemID>
+        <ItemNum>150 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <SkillID>0 </SkillID>
+    <Unlock type="LevelUnlock">
+        <UnlockDesc_SCN>战旗系统</UnlockDesc_SCN>
+        <UnlockDesc_FCN>战旗系统</UnlockDesc_FCN>
+        <UnlockDesc_EN>战旗系统</UnlockDesc_EN>
+        <UISkipType>162 </UISkipType>
+    </Unlock>
+    <Unlock type="LevelUnlock">
+        <UnlockDesc_SCN></UnlockDesc_SCN>
+        <UnlockDesc_FCN></UnlockDesc_FCN>
+        <UnlockDesc_EN></UnlockDesc_EN>
+        <UISkipType>0 </UISkipType>
+    </Unlock>
+    <Unlock type="LevelUnlock">
+        <UnlockDesc_SCN></UnlockDesc_SCN>
+        <UnlockDesc_FCN></UnlockDesc_FCN>
+        <UnlockDesc_EN></UnlockDesc_EN>
+        <UISkipType>0 </UISkipType>
+    </Unlock>
+</ResSystemSummonerLevelDesc>
+<ResSystemSummonerLevelDesc version="1">
+    <ResID>8 </ResID>
+    <EXP>3000 </EXP>
+    <Reward type="ItemReward">
+        <ItemID>3 </ItemID>
+        <ItemNum>150 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <SkillID>0 </SkillID>
+    <Unlock type="LevelUnlock">
+        <UnlockDesc_SCN></UnlockDesc_SCN>
+        <UnlockDesc_FCN></UnlockDesc_FCN>
+        <UnlockDesc_EN></UnlockDesc_EN>
+        <UISkipType>0 </UISkipType>
+    </Unlock>
+    <Unlock type="LevelUnlock">
+        <UnlockDesc_SCN></UnlockDesc_SCN>
+        <UnlockDesc_FCN></UnlockDesc_FCN>
+        <UnlockDesc_EN></UnlockDesc_EN>
+        <UISkipType>0 </UISkipType>
+    </Unlock>
+    <Unlock type="LevelUnlock">
+        <UnlockDesc_SCN></UnlockDesc_SCN>
+        <UnlockDesc_FCN></UnlockDesc_FCN>
+        <UnlockDesc_EN></UnlockDesc_EN>
+        <UISkipType>0 </UISkipType>
+    </Unlock>
+</ResSystemSummonerLevelDesc>
+<ResSystemSummonerLevelDesc version="1">
+    <ResID>9 </ResID>
+    <EXP>3500 </EXP>
+    <Reward type="ItemReward">
+        <ItemID>3 </ItemID>
+        <ItemNum>150 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <SkillID>0 </SkillID>
+    <Unlock type="LevelUnlock">
+        <UnlockDesc_SCN></UnlockDesc_SCN>
+        <UnlockDesc_FCN></UnlockDesc_FCN>
+        <UnlockDesc_EN></UnlockDesc_EN>
+        <UISkipType>0 </UISkipType>
+    </Unlock>
+    <Unlock type="LevelUnlock">
+        <UnlockDesc_SCN></UnlockDesc_SCN>
+        <UnlockDesc_FCN></UnlockDesc_FCN>
+        <UnlockDesc_EN></UnlockDesc_EN>
+        <UISkipType>0 </UISkipType>
+    </Unlock>
+    <Unlock type="LevelUnlock">
+        <UnlockDesc_SCN></UnlockDesc_SCN>
+        <UnlockDesc_FCN></UnlockDesc_FCN>
+        <UnlockDesc_EN></UnlockDesc_EN>
+        <UISkipType>0 </UISkipType>
+    </Unlock>
+</ResSystemSummonerLevelDesc>
+<ResSystemSummonerLevelDesc version="1">
+    <ResID>10 </ResID>
+    <EXP>4000 </EXP>
+    <Reward type="ItemReward">
+        <ItemID>3 </ItemID>
+        <ItemNum>200 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <SkillID>0 </SkillID>
+    <Unlock type="LevelUnlock">
+        <UnlockDesc_SCN>3v3娱乐模式</UnlockDesc_SCN>
+        <UnlockDesc_FCN>3v3娱乐模式</UnlockDesc_FCN>
+        <UnlockDesc_EN>3v3 Arcade Mode</UnlockDesc_EN>
+        <UISkipType>71 </UISkipType>
+    </Unlock>
+    <Unlock type="LevelUnlock">
+        <UnlockDesc_SCN></UnlockDesc_SCN>
+        <UnlockDesc_FCN></UnlockDesc_FCN>
+        <UnlockDesc_EN></UnlockDesc_EN>
+        <UISkipType>0 </UISkipType>
+    </Unlock>
+    <Unlock type="LevelUnlock">
+        <UnlockDesc_SCN></UnlockDesc_SCN>
+        <UnlockDesc_FCN></UnlockDesc_FCN>
+        <UnlockDesc_EN></UnlockDesc_EN>
+        <UISkipType>0 </UISkipType>
+    </Unlock>
+</ResSystemSummonerLevelDesc>
+<ResSystemSummonerLevelDesc version="1">
+    <ResID>11 </ResID>
+    <EXP>4500 </EXP>
+    <Reward type="ItemReward">
+        <ItemID>3 </ItemID>
+        <ItemNum>200 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <SkillID>0 </SkillID>
+    <Unlock type="LevelUnlock">
+        <UnlockDesc_SCN></UnlockDesc_SCN>
+        <UnlockDesc_FCN></UnlockDesc_FCN>
+        <UnlockDesc_EN></UnlockDesc_EN>
+        <UISkipType>0 </UISkipType>
+    </Unlock>
+    <Unlock type="LevelUnlock">
+        <UnlockDesc_SCN></UnlockDesc_SCN>
+        <UnlockDesc_FCN></UnlockDesc_FCN>
+        <UnlockDesc_EN></UnlockDesc_EN>
+        <UISkipType>0 </UISkipType>
+    </Unlock>
+    <Unlock type="LevelUnlock">
+        <UnlockDesc_SCN></UnlockDesc_SCN>
+        <UnlockDesc_FCN></UnlockDesc_FCN>
+        <UnlockDesc_EN></UnlockDesc_EN>
+        <UISkipType>0 </UISkipType>
+    </Unlock>
+</ResSystemSummonerLevelDesc>
+<ResSystemSummonerLevelDesc version="1">
+    <ResID>12 </ResID>
+    <EXP>5000 </EXP>
+    <Reward type="ItemReward">
+        <ItemID>3 </ItemID>
+        <ItemNum>200 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <SkillID>0 </SkillID>
+    <Unlock type="LevelUnlock">
+        <UnlockDesc_SCN></UnlockDesc_SCN>
+        <UnlockDesc_FCN></UnlockDesc_FCN>
+        <UnlockDesc_EN></UnlockDesc_EN>
+        <UISkipType>0 </UISkipType>
+    </Unlock>
+    <Unlock type="LevelUnlock">
+        <UnlockDesc_SCN></UnlockDesc_SCN>
+        <UnlockDesc_FCN></UnlockDesc_FCN>
+        <UnlockDesc_EN></UnlockDesc_EN>
+        <UISkipType>0 </UISkipType>
+    </Unlock>
+    <Unlock type="LevelUnlock">
+        <UnlockDesc_SCN></UnlockDesc_SCN>
+        <UnlockDesc_FCN></UnlockDesc_FCN>
+        <UnlockDesc_EN></UnlockDesc_EN>
+        <UISkipType>0 </UISkipType>
+    </Unlock>
+</ResSystemSummonerLevelDesc>
+<ResSystemSummonerLevelDesc version="1">
+    <ResID>13 </ResID>
+    <EXP>5500 </EXP>
+    <Reward type="ItemReward">
+        <ItemID>3 </ItemID>
+        <ItemNum>200 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <SkillID>0 </SkillID>
+    <Unlock type="LevelUnlock">
+        <UnlockDesc_SCN></UnlockDesc_SCN>
+        <UnlockDesc_FCN></UnlockDesc_FCN>
+        <UnlockDesc_EN></UnlockDesc_EN>
+        <UISkipType>0 </UISkipType>
+    </Unlock>
+    <Unlock type="LevelUnlock">
+        <UnlockDesc_SCN></UnlockDesc_SCN>
+        <UnlockDesc_FCN></UnlockDesc_FCN>
+        <UnlockDesc_EN></UnlockDesc_EN>
+        <UISkipType>0 </UISkipType>
+    </Unlock>
+    <Unlock type="LevelUnlock">
+        <UnlockDesc_SCN></UnlockDesc_SCN>
+        <UnlockDesc_FCN></UnlockDesc_FCN>
+        <UnlockDesc_EN></UnlockDesc_EN>
+        <UISkipType>0 </UISkipType>
+    </Unlock>
+</ResSystemSummonerLevelDesc>
+<ResSystemSummonerLevelDesc version="1">
+    <ResID>14 </ResID>
+    <EXP>6000 </EXP>
+    <Reward type="ItemReward">
+        <ItemID>3 </ItemID>
+        <ItemNum>200 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <SkillID>0 </SkillID>
+    <Unlock type="LevelUnlock">
+        <UnlockDesc_SCN></UnlockDesc_SCN>
+        <UnlockDesc_FCN></UnlockDesc_FCN>
+        <UnlockDesc_EN></UnlockDesc_EN>
+        <UISkipType>0 </UISkipType>
+    </Unlock>
+    <Unlock type="LevelUnlock">
+        <UnlockDesc_SCN></UnlockDesc_SCN>
+        <UnlockDesc_FCN></UnlockDesc_FCN>
+        <UnlockDesc_EN></UnlockDesc_EN>
+        <UISkipType>0 </UISkipType>
+    </Unlock>
+    <Unlock type="LevelUnlock">
+        <UnlockDesc_SCN></UnlockDesc_SCN>
+        <UnlockDesc_FCN></UnlockDesc_FCN>
+        <UnlockDesc_EN></UnlockDesc_EN>
+        <UISkipType>0 </UISkipType>
+    </Unlock>
+</ResSystemSummonerLevelDesc>
+<ResSystemSummonerLevelDesc version="1">
+    <ResID>15 </ResID>
+    <EXP>7000 </EXP>
+    <Reward type="ItemReward">
+        <ItemID>3 </ItemID>
+        <ItemNum>200 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <SkillID>0 </SkillID>
+    <Unlock type="LevelUnlock">
+        <UnlockDesc_SCN></UnlockDesc_SCN>
+        <UnlockDesc_FCN></UnlockDesc_FCN>
+        <UnlockDesc_EN></UnlockDesc_EN>
+        <UISkipType>0 </UISkipType>
+    </Unlock>
+    <Unlock type="LevelUnlock">
+        <UnlockDesc_SCN></UnlockDesc_SCN>
+        <UnlockDesc_FCN></UnlockDesc_FCN>
+        <UnlockDesc_EN></UnlockDesc_EN>
+        <UISkipType>0 </UISkipType>
+    </Unlock>
+    <Unlock type="LevelUnlock">
+        <UnlockDesc_SCN></UnlockDesc_SCN>
+        <UnlockDesc_FCN></UnlockDesc_FCN>
+        <UnlockDesc_EN></UnlockDesc_EN>
+        <UISkipType>0 </UISkipType>
+    </Unlock>
+</ResSystemSummonerLevelDesc>
+<ResSystemSummonerLevelDesc version="1">
+    <ResID>16 </ResID>
+    <EXP>8000 </EXP>
+    <Reward type="ItemReward">
+        <ItemID>3 </ItemID>
+        <ItemNum>200 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <SkillID>0 </SkillID>
+    <Unlock type="LevelUnlock">
+        <UnlockDesc_SCN></UnlockDesc_SCN>
+        <UnlockDesc_FCN></UnlockDesc_FCN>
+        <UnlockDesc_EN></UnlockDesc_EN>
+        <UISkipType>0 </UISkipType>
+    </Unlock>
+    <Unlock type="LevelUnlock">
+        <UnlockDesc_SCN></UnlockDesc_SCN>
+        <UnlockDesc_FCN></UnlockDesc_FCN>
+        <UnlockDesc_EN></UnlockDesc_EN>
+        <UISkipType>0 </UISkipType>
+    </Unlock>
+    <Unlock type="LevelUnlock">
+        <UnlockDesc_SCN></UnlockDesc_SCN>
+        <UnlockDesc_FCN></UnlockDesc_FCN>
+        <UnlockDesc_EN></UnlockDesc_EN>
+        <UISkipType>0 </UISkipType>
+    </Unlock>
+</ResSystemSummonerLevelDesc>
+<ResSystemSummonerLevelDesc version="1">
+    <ResID>17 </ResID>
+    <EXP>9000 </EXP>
+    <Reward type="ItemReward">
+        <ItemID>3 </ItemID>
+        <ItemNum>200 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <SkillID>0 </SkillID>
+    <Unlock type="LevelUnlock">
+        <UnlockDesc_SCN></UnlockDesc_SCN>
+        <UnlockDesc_FCN></UnlockDesc_FCN>
+        <UnlockDesc_EN></UnlockDesc_EN>
+        <UISkipType>0 </UISkipType>
+    </Unlock>
+    <Unlock type="LevelUnlock">
+        <UnlockDesc_SCN></UnlockDesc_SCN>
+        <UnlockDesc_FCN></UnlockDesc_FCN>
+        <UnlockDesc_EN></UnlockDesc_EN>
+        <UISkipType>0 </UISkipType>
+    </Unlock>
+    <Unlock type="LevelUnlock">
+        <UnlockDesc_SCN></UnlockDesc_SCN>
+        <UnlockDesc_FCN></UnlockDesc_FCN>
+        <UnlockDesc_EN></UnlockDesc_EN>
+        <UISkipType>0 </UISkipType>
+    </Unlock>
+</ResSystemSummonerLevelDesc>
+<ResSystemSummonerLevelDesc version="1">
+    <ResID>18 </ResID>
+    <EXP>10000 </EXP>
+    <Reward type="ItemReward">
+        <ItemID>3 </ItemID>
+        <ItemNum>200 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <SkillID>0 </SkillID>
+    <Unlock type="LevelUnlock">
+        <UnlockDesc_SCN></UnlockDesc_SCN>
+        <UnlockDesc_FCN></UnlockDesc_FCN>
+        <UnlockDesc_EN></UnlockDesc_EN>
+        <UISkipType>0 </UISkipType>
+    </Unlock>
+    <Unlock type="LevelUnlock">
+        <UnlockDesc_SCN></UnlockDesc_SCN>
+        <UnlockDesc_FCN></UnlockDesc_FCN>
+        <UnlockDesc_EN></UnlockDesc_EN>
+        <UISkipType>0 </UISkipType>
+    </Unlock>
+    <Unlock type="LevelUnlock">
+        <UnlockDesc_SCN></UnlockDesc_SCN>
+        <UnlockDesc_FCN></UnlockDesc_FCN>
+        <UnlockDesc_EN></UnlockDesc_EN>
+        <UISkipType>0 </UISkipType>
+    </Unlock>
+</ResSystemSummonerLevelDesc>
+<ResSystemSummonerLevelDesc version="1">
+    <ResID>19 </ResID>
+    <EXP>11000 </EXP>
+    <Reward type="ItemReward">
+        <ItemID>3 </ItemID>
+        <ItemNum>200 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <SkillID>0 </SkillID>
+    <Unlock type="LevelUnlock">
+        <UnlockDesc_SCN></UnlockDesc_SCN>
+        <UnlockDesc_FCN></UnlockDesc_FCN>
+        <UnlockDesc_EN></UnlockDesc_EN>
+        <UISkipType>0 </UISkipType>
+    </Unlock>
+    <Unlock type="LevelUnlock">
+        <UnlockDesc_SCN></UnlockDesc_SCN>
+        <UnlockDesc_FCN></UnlockDesc_FCN>
+        <UnlockDesc_EN></UnlockDesc_EN>
+        <UISkipType>0 </UISkipType>
+    </Unlock>
+    <Unlock type="LevelUnlock">
+        <UnlockDesc_SCN></UnlockDesc_SCN>
+        <UnlockDesc_FCN></UnlockDesc_FCN>
+        <UnlockDesc_EN></UnlockDesc_EN>
+        <UISkipType>0 </UISkipType>
+    </Unlock>
+</ResSystemSummonerLevelDesc>
+<ResSystemSummonerLevelDesc version="1">
+    <ResID>20 </ResID>
+    <EXP>13000 </EXP>
+    <Reward type="ItemReward">
+        <ItemID>3 </ItemID>
+        <ItemNum>200 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <SkillID>0 </SkillID>
+    <Unlock type="LevelUnlock">
+        <UnlockDesc_SCN></UnlockDesc_SCN>
+        <UnlockDesc_FCN></UnlockDesc_FCN>
+        <UnlockDesc_EN></UnlockDesc_EN>
+        <UISkipType>0 </UISkipType>
+    </Unlock>
+    <Unlock type="LevelUnlock">
+        <UnlockDesc_SCN></UnlockDesc_SCN>
+        <UnlockDesc_FCN></UnlockDesc_FCN>
+        <UnlockDesc_EN></UnlockDesc_EN>
+        <UISkipType>0 </UISkipType>
+    </Unlock>
+    <Unlock type="LevelUnlock">
+        <UnlockDesc_SCN></UnlockDesc_SCN>
+        <UnlockDesc_FCN></UnlockDesc_FCN>
+        <UnlockDesc_EN></UnlockDesc_EN>
+        <UISkipType>0 </UISkipType>
+    </Unlock>
+</ResSystemSummonerLevelDesc>
+<ResSystemSummonerLevelDesc version="1">
+    <ResID>21 </ResID>
+    <EXP>15000 </EXP>
+    <Reward type="ItemReward">
+        <ItemID>3 </ItemID>
+        <ItemNum>300 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <SkillID>0 </SkillID>
+    <Unlock type="LevelUnlock">
+        <UnlockDesc_SCN></UnlockDesc_SCN>
+        <UnlockDesc_FCN></UnlockDesc_FCN>
+        <UnlockDesc_EN></UnlockDesc_EN>
+        <UISkipType>0 </UISkipType>
+    </Unlock>
+    <Unlock type="LevelUnlock">
+        <UnlockDesc_SCN></UnlockDesc_SCN>
+        <UnlockDesc_FCN></UnlockDesc_FCN>
+        <UnlockDesc_EN></UnlockDesc_EN>
+        <UISkipType>0 </UISkipType>
+    </Unlock>
+    <Unlock type="LevelUnlock">
+        <UnlockDesc_SCN></UnlockDesc_SCN>
+        <UnlockDesc_FCN></UnlockDesc_FCN>
+        <UnlockDesc_EN></UnlockDesc_EN>
+        <UISkipType>0 </UISkipType>
+    </Unlock>
+</ResSystemSummonerLevelDesc>
+<ResSystemSummonerLevelDesc version="1">
+    <ResID>22 </ResID>
+    <EXP>17000 </EXP>
+    <Reward type="ItemReward">
+        <ItemID>3 </ItemID>
+        <ItemNum>300 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <SkillID>0 </SkillID>
+    <Unlock type="LevelUnlock">
+        <UnlockDesc_SCN></UnlockDesc_SCN>
+        <UnlockDesc_FCN></UnlockDesc_FCN>
+        <UnlockDesc_EN></UnlockDesc_EN>
+        <UISkipType>0 </UISkipType>
+    </Unlock>
+    <Unlock type="LevelUnlock">
+        <UnlockDesc_SCN></UnlockDesc_SCN>
+        <UnlockDesc_FCN></UnlockDesc_FCN>
+        <UnlockDesc_EN></UnlockDesc_EN>
+        <UISkipType>0 </UISkipType>
+    </Unlock>
+    <Unlock type="LevelUnlock">
+        <UnlockDesc_SCN></UnlockDesc_SCN>
+        <UnlockDesc_FCN></UnlockDesc_FCN>
+        <UnlockDesc_EN></UnlockDesc_EN>
+        <UISkipType>0 </UISkipType>
+    </Unlock>
+</ResSystemSummonerLevelDesc>
+<ResSystemSummonerLevelDesc version="1">
+    <ResID>23 </ResID>
+    <EXP>19000 </EXP>
+    <Reward type="ItemReward">
+        <ItemID>3 </ItemID>
+        <ItemNum>300 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <SkillID>0 </SkillID>
+    <Unlock type="LevelUnlock">
+        <UnlockDesc_SCN></UnlockDesc_SCN>
+        <UnlockDesc_FCN></UnlockDesc_FCN>
+        <UnlockDesc_EN></UnlockDesc_EN>
+        <UISkipType>0 </UISkipType>
+    </Unlock>
+    <Unlock type="LevelUnlock">
+        <UnlockDesc_SCN></UnlockDesc_SCN>
+        <UnlockDesc_FCN></UnlockDesc_FCN>
+        <UnlockDesc_EN></UnlockDesc_EN>
+        <UISkipType>0 </UISkipType>
+    </Unlock>
+    <Unlock type="LevelUnlock">
+        <UnlockDesc_SCN></UnlockDesc_SCN>
+        <UnlockDesc_FCN></UnlockDesc_FCN>
+        <UnlockDesc_EN></UnlockDesc_EN>
+        <UISkipType>0 </UISkipType>
+    </Unlock>
+</ResSystemSummonerLevelDesc>
+<ResSystemSummonerLevelDesc version="1">
+    <ResID>24 </ResID>
+    <EXP>21000 </EXP>
+    <Reward type="ItemReward">
+        <ItemID>3 </ItemID>
+        <ItemNum>300 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <SkillID>0 </SkillID>
+    <Unlock type="LevelUnlock">
+        <UnlockDesc_SCN></UnlockDesc_SCN>
+        <UnlockDesc_FCN></UnlockDesc_FCN>
+        <UnlockDesc_EN></UnlockDesc_EN>
+        <UISkipType>0 </UISkipType>
+    </Unlock>
+    <Unlock type="LevelUnlock">
+        <UnlockDesc_SCN></UnlockDesc_SCN>
+        <UnlockDesc_FCN></UnlockDesc_FCN>
+        <UnlockDesc_EN></UnlockDesc_EN>
+        <UISkipType>0 </UISkipType>
+    </Unlock>
+    <Unlock type="LevelUnlock">
+        <UnlockDesc_SCN></UnlockDesc_SCN>
+        <UnlockDesc_FCN></UnlockDesc_FCN>
+        <UnlockDesc_EN></UnlockDesc_EN>
+        <UISkipType>0 </UISkipType>
+    </Unlock>
+</ResSystemSummonerLevelDesc>
+<ResSystemSummonerLevelDesc version="1">
+    <ResID>25 </ResID>
+    <EXP>26000 </EXP>
+    <Reward type="ItemReward">
+        <ItemID>3 </ItemID>
+        <ItemNum>300 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <SkillID>0 </SkillID>
+    <Unlock type="LevelUnlock">
+        <UnlockDesc_SCN></UnlockDesc_SCN>
+        <UnlockDesc_FCN></UnlockDesc_FCN>
+        <UnlockDesc_EN></UnlockDesc_EN>
+        <UISkipType>0 </UISkipType>
+    </Unlock>
+    <Unlock type="LevelUnlock">
+        <UnlockDesc_SCN></UnlockDesc_SCN>
+        <UnlockDesc_FCN></UnlockDesc_FCN>
+        <UnlockDesc_EN></UnlockDesc_EN>
+        <UISkipType>0 </UISkipType>
+    </Unlock>
+    <Unlock type="LevelUnlock">
+        <UnlockDesc_SCN></UnlockDesc_SCN>
+        <UnlockDesc_FCN></UnlockDesc_FCN>
+        <UnlockDesc_EN></UnlockDesc_EN>
+        <UISkipType>0 </UISkipType>
+    </Unlock>
+</ResSystemSummonerLevelDesc>
+<ResSystemSummonerLevelDesc version="1">
+    <ResID>26 </ResID>
+    <EXP>31000 </EXP>
+    <Reward type="ItemReward">
+        <ItemID>3 </ItemID>
+        <ItemNum>300 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <SkillID>0 </SkillID>
+    <Unlock type="LevelUnlock">
+        <UnlockDesc_SCN></UnlockDesc_SCN>
+        <UnlockDesc_FCN></UnlockDesc_FCN>
+        <UnlockDesc_EN></UnlockDesc_EN>
+        <UISkipType>0 </UISkipType>
+    </Unlock>
+    <Unlock type="LevelUnlock">
+        <UnlockDesc_SCN></UnlockDesc_SCN>
+        <UnlockDesc_FCN></UnlockDesc_FCN>
+        <UnlockDesc_EN></UnlockDesc_EN>
+        <UISkipType>0 </UISkipType>
+    </Unlock>
+    <Unlock type="LevelUnlock">
+        <UnlockDesc_SCN></UnlockDesc_SCN>
+        <UnlockDesc_FCN></UnlockDesc_FCN>
+        <UnlockDesc_EN></UnlockDesc_EN>
+        <UISkipType>0 </UISkipType>
+    </Unlock>
+</ResSystemSummonerLevelDesc>
+<ResSystemSummonerLevelDesc version="1">
+    <ResID>27 </ResID>
+    <EXP>36000 </EXP>
+    <Reward type="ItemReward">
+        <ItemID>3 </ItemID>
+        <ItemNum>300 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <SkillID>0 </SkillID>
+    <Unlock type="LevelUnlock">
+        <UnlockDesc_SCN></UnlockDesc_SCN>
+        <UnlockDesc_FCN></UnlockDesc_FCN>
+        <UnlockDesc_EN></UnlockDesc_EN>
+        <UISkipType>0 </UISkipType>
+    </Unlock>
+    <Unlock type="LevelUnlock">
+        <UnlockDesc_SCN></UnlockDesc_SCN>
+        <UnlockDesc_FCN></UnlockDesc_FCN>
+        <UnlockDesc_EN></UnlockDesc_EN>
+        <UISkipType>0 </UISkipType>
+    </Unlock>
+    <Unlock type="LevelUnlock">
+        <UnlockDesc_SCN></UnlockDesc_SCN>
+        <UnlockDesc_FCN></UnlockDesc_FCN>
+        <UnlockDesc_EN></UnlockDesc_EN>
+        <UISkipType>0 </UISkipType>
+    </Unlock>
+</ResSystemSummonerLevelDesc>
+<ResSystemSummonerLevelDesc version="1">
+    <ResID>28 </ResID>
+    <EXP>41000 </EXP>
+    <Reward type="ItemReward">
+        <ItemID>3 </ItemID>
+        <ItemNum>300 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <SkillID>0 </SkillID>
+    <Unlock type="LevelUnlock">
+        <UnlockDesc_SCN></UnlockDesc_SCN>
+        <UnlockDesc_FCN></UnlockDesc_FCN>
+        <UnlockDesc_EN></UnlockDesc_EN>
+        <UISkipType>0 </UISkipType>
+    </Unlock>
+    <Unlock type="LevelUnlock">
+        <UnlockDesc_SCN></UnlockDesc_SCN>
+        <UnlockDesc_FCN></UnlockDesc_FCN>
+        <UnlockDesc_EN></UnlockDesc_EN>
+        <UISkipType>0 </UISkipType>
+    </Unlock>
+    <Unlock type="LevelUnlock">
+        <UnlockDesc_SCN></UnlockDesc_SCN>
+        <UnlockDesc_FCN></UnlockDesc_FCN>
+        <UnlockDesc_EN></UnlockDesc_EN>
+        <UISkipType>0 </UISkipType>
+    </Unlock>
+</ResSystemSummonerLevelDesc>
+<ResSystemSummonerLevelDesc version="1">
+    <ResID>29 </ResID>
+    <EXP>46000 </EXP>
+    <Reward type="ItemReward">
+        <ItemID>3 </ItemID>
+        <ItemNum>300 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <SkillID>0 </SkillID>
+    <Unlock type="LevelUnlock">
+        <UnlockDesc_SCN></UnlockDesc_SCN>
+        <UnlockDesc_FCN></UnlockDesc_FCN>
+        <UnlockDesc_EN></UnlockDesc_EN>
+        <UISkipType>0 </UISkipType>
+    </Unlock>
+    <Unlock type="LevelUnlock">
+        <UnlockDesc_SCN></UnlockDesc_SCN>
+        <UnlockDesc_FCN></UnlockDesc_FCN>
+        <UnlockDesc_EN></UnlockDesc_EN>
+        <UISkipType>0 </UISkipType>
+    </Unlock>
+    <Unlock type="LevelUnlock">
+        <UnlockDesc_SCN></UnlockDesc_SCN>
+        <UnlockDesc_FCN></UnlockDesc_FCN>
+        <UnlockDesc_EN></UnlockDesc_EN>
+        <UISkipType>0 </UISkipType>
+    </Unlock>
+</ResSystemSummonerLevelDesc>
+<ResSystemSummonerLevelDesc version="1">
+    <ResID>30 </ResID>
+    <EXP>999999 </EXP>
+    <Reward type="ItemReward">
+        <ItemID>3 </ItemID>
+        <ItemNum>300 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <SkillID>0 </SkillID>
+    <Unlock type="LevelUnlock">
+        <UnlockDesc_SCN></UnlockDesc_SCN>
+        <UnlockDesc_FCN></UnlockDesc_FCN>
+        <UnlockDesc_EN></UnlockDesc_EN>
+        <UISkipType>0 </UISkipType>
+    </Unlock>
+    <Unlock type="LevelUnlock">
+        <UnlockDesc_SCN></UnlockDesc_SCN>
+        <UnlockDesc_FCN></UnlockDesc_FCN>
+        <UnlockDesc_EN></UnlockDesc_EN>
+        <UISkipType>0 </UISkipType>
+    </Unlock>
+    <Unlock type="LevelUnlock">
+        <UnlockDesc_SCN></UnlockDesc_SCN>
+        <UnlockDesc_FCN></UnlockDesc_FCN>
+        <UnlockDesc_EN></UnlockDesc_EN>
+        <UISkipType>0 </UISkipType>
+    </Unlock>
+</ResSystemSummonerLevelDesc>
+</ResSystemSummonerLevelDesc_Tab>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<ResArenaQueueDesc_Tab>
+<TResHeadAll version="5">
+    <resHead type="TResHead">
+        <Magic>1397052237 </Magic>
+        <Version>6 </Version>
+        <Unit>36 </Unit>
+        <Count>3 </Count>
+        <MetalibHash>531d5b4a397ad5b3c0fbfb5cc8059e55</MetalibHash>
+        <ResVersion>0 </ResVersion>
+        <CreateTime>2023-04-19 20:42:34</CreateTime>
+        <ResEncording>UTF-8</ResEncording>
+        <ContentHash>6764e0abcff45aa3dd5f4a1456aff349</ContentHash>
+    </resHead>
+    <resHeadExt type="TResHeadExt">
+        <DataOffset>136 </DataOffset>
+    </resHeadExt>
+</TResHeadAll>
+<ResArenaQueueDesc version="1">
+    <ArenaLevel>1 </ArenaLevel>
+    <AiOverTime>40 </AiOverTime>
+    <PureAiOverTime>120 </PureAiOverTime>
+    <AiConfigType>7 </AiConfigType>
+    <AIExtData>1009 </AIExtData>
+    <AICanUseRace>1 2 3 0 </AICanUseRace>
+</ResArenaQueueDesc>
+<ResArenaQueueDesc version="1">
+    <ArenaLevel>2 </ArenaLevel>
+    <AiOverTime>40 </AiOverTime>
+    <PureAiOverTime>120 </PureAiOverTime>
+    <AiConfigType>7 </AiConfigType>
+    <AIExtData>1009 </AIExtData>
+    <AICanUseRace>1 2 3 0 </AICanUseRace>
+</ResArenaQueueDesc>
+<ResArenaQueueDesc version="1">
+    <ArenaLevel>3 </ArenaLevel>
+    <AiOverTime>40 </AiOverTime>
+    <PureAiOverTime>120 </PureAiOverTime>
+    <AiConfigType>7 </AiConfigType>
+    <AIExtData>1009 </AIExtData>
+    <AICanUseRace>1 2 3 0 </AICanUseRace>
+</ResArenaQueueDesc>
+</ResArenaQueueDesc_Tab>
