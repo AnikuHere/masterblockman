@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<ResTeamAIDesc_Tab>
+<TResHeadAll version="5">
+    <resHead type="TResHead">
+        <Magic>1397052237 </Magic>
+        <Version>6 </Version>
+        <Unit>196 </Unit>
+        <Count>7 </Count>
+        <MetalibHash>531d5b4a397ad5b3c0fbfb5cc8059e55</MetalibHash>
+        <ResVersion>0 </ResVersion>
+        <CreateTime>2023-04-19 20:42:32</CreateTime>
+        <ResEncording>UTF-8</ResEncording>
+        <ContentHash>07dafd446bd98d66f22c9751a9a9843a</ContentHash>
+    </resHead>
+    <resHeadExt type="TResHeadExt">
+        <DataOffset>136 </DataOffset>
+    </resHeadExt>
+</TResHeadAll>
+<ResTeamAIDesc version="1">
+    <AiConfigType>0 </AiConfigType>
+    <AIID>20000 </AIID>
+    <AttackEnemyFactor>10000 </AttackEnemyFactor>
+    <AttackSpawnGroupFactor>5000 </AttackSpawnGroupFactor>
+    <AttackBaseFactor>10000 </AttackBaseFactor>
+    <AttackGoldMineFactor>10000 </AttackGoldMineFactor>
+    <AttackBuildInitCD>180000 </AttackBuildInitCD>
+    <AttackBuildCD>90000 </AttackBuildCD>
+    <AttackMinDist>300000 </AttackMinDist>
+    <AttackMaxDist>300000 </AttackMaxDist>
+    <AttackHelpDist>600000 </AttackHelpDist>
+    <AttackAssistedTime>1000 </AttackAssistedTime>
+    <AttackCD>5000 </AttackCD>
+    <RetreatVisualDist>300000 </RetreatVisualDist>
+    <RetreatSpringDist>1000000 </RetreatSpringDist>
+    <TowerInnerDist>150000 </TowerInnerDist>
+    <TowerOuterDist>300000 </TowerOuterDist>
+    <TowerOuterFactor>7500 </TowerOuterFactor>
+    <HeroHPFactor>11000 </HeroHPFactor>
+    <DogfaceHPFactor>7000 </DogfaceHPFactor>
+    <FighterAttackFactor>5000 </FighterAttackFactor>
+    <ShooterAttackFactor>8000 </ShooterAttackFactor>
+    <EscapeCheckTime>3000 </EscapeCheckTime>
+    <EscapeCheckDamage>3000 </EscapeCheckDamage>
+    <RetreatAttackHeroHP>2000 </RetreatAttackHeroHP>
+    <RetreatAttackFactor>10000 </RetreatAttackFactor>
+    <RetreatDefenseHeroHP>2000 </RetreatDefenseHeroHP>
+    <RetreatHeroHP>3300 </RetreatHeroHP>
+    <RetreatHeroMP>2000 </RetreatHeroMP>
+    <RetreatCond type="ResTeamAIRetreatCond">
+        <HP>1000 </HP>
+        <Count>0 </Count>
+    </RetreatCond>
+    <RetreatCond type="ResTeamAIRetreatCond">
+        <HP>2000 </HP>
+        <Count>2000 </Count>
+    </RetreatCond>
+    <RetreatCond type="ResTeamAIRetreatCond">
+        <HP>5000 </HP>
+        <Count>5000 </Count>
+    </RetreatCond>
+    <RetreatCond type="ResTeamAIRetreatCond">
+        <HP>7500 </HP>
+        <Count>7500 </Count>
+    </RetreatCond>
+    <PickCheckDist>200000 </PickCheckDist>
+    <PickWaitTime>5000 </PickWaitTime>
+    <FollowMaxRaius>200000 </FollowMaxRaius>
+    <FollowMinRaius>50000 </FollowMinRaius>
+    <DefenceRadius>400000 </DefenceRadius>
+    <AtkBuildMinDist>120000 </AtkBuildMinDist>
+    <AtkBuildMaxDist>200000 </AtkBuildMaxDist>
+    <AtkBuildUseItemMaxDist>400000 </AtkBuildUseItemMaxDist>
+    <TpTargetSeekRadius>400000 </TpTargetSeekRadius>
+    <ComputerFollowTime>300000 </ComputerFollowTime>
+    <ComputerFollowFood>15 </ComputerFollowFood>
+    <ComputerFollowRaius>3000000 </ComputerFollowRaius>
+</ResTeamAIDesc>
+<ResTeamAIDesc version="1">
+    <AiConfigType>2 </AiConfigType>
+    <AIID>20000 </AIID>
+    <AttackEnemyFactor>25000 </AttackEnemyFactor>
+    <AttackSpawnGroupFactor>5000 </AttackSpawnGroupFactor>
+    <AttackBaseFactor>5000 </AttackBaseFactor>
+    <AttackGoldMineFactor>5000 </AttackGoldMineFactor>
+    <AttackBuildInitCD>180000 </AttackBuildInitCD>
+    <AttackBuildCD>90000 </AttackBuildCD>
+    <AttackMinDist>300000 </AttackMinDist>
+    <AttackMaxDist>300000 </AttackMaxDist>
+    <AttackHelpDist>600000 </AttackHelpDist>
+    <AttackAssistedTime>1000 </AttackAssistedTime>
+    <AttackCD>5000 </AttackCD>
+    <RetreatVisualDist>300000 </RetreatVisualDist>
+    <RetreatSpringDist>1000000 </RetreatSpringDist>
+    <TowerInnerDist>150000 </TowerInnerDist>
+    <TowerOuterDist>300000 </TowerOuterDist>
+    <TowerOuterFactor>7500 </TowerOuterFactor>
+    <HeroHPFactor>11000 </HeroHPFactor>
+    <DogfaceHPFactor>7000 </DogfaceHPFactor>
+    <FighterAttackFactor>5000 </FighterAttackFactor>
+    <ShooterAttackFactor>8000 </ShooterAttackFactor>
+    <EscapeCheckTime>3000 </EscapeCheckTime>
+    <EscapeCheckDamage>4000 </EscapeCheckDamage>
+    <RetreatAttackHeroHP>1000 </RetreatAttackHeroHP>
+    <RetreatAttackFactor>25000 </RetreatAttackFactor>
+    <RetreatDefenseHeroHP>1000 </RetreatDefenseHeroHP>
+    <RetreatHeroHP>1000 </RetreatHeroHP>
+    <RetreatHeroMP>1000 </RetreatHeroMP>
+    <RetreatCond type="ResTeamAIRetreatCond">
+        <HP>1000 </HP>
+        <Count>0 </Count>
+    </RetreatCond>
+    <RetreatCond type="ResTeamAIRetreatCond">
+        <HP>2000 </HP>
+        <Count>2000 </Count>
+    </RetreatCond>
+    <RetreatCond type="ResTeamAIRetreatCond">
+        <HP>5000 </HP>
+        <Count>5000 </Count>
+    </RetreatCond>
+    <RetreatCond type="ResTeamAIRetreatCond">
+        <HP>7500 </HP>
+        <Count>7500 </Count>
+    </RetreatCond>
+    <PickCheckDist>200000 </PickCheckDist>
+    <PickWaitTime>5000 </PickWaitTime>
+    <FollowMaxRaius>200000 </FollowMaxRaius>
+    <FollowMinRaius>50000 </FollowMinRaius>
+    <DefenceRadius>400000 </DefenceRadius>
+    <AtkBuildMinDist>120000 </AtkBuildMinDist>
+    <AtkBuildMaxDist>200000 </AtkBuildMaxDist>
+    <AtkBuildUseItemMaxDist>400000 </AtkBuildUseItemMaxDist>
+    <TpTargetSeekRadius>400000 </TpTargetSeekRadius>
+    <ComputerFollowTime>300000 </ComputerFollowTime>
+    <ComputerFollowFood>15 </ComputerFollowFood>
+    <ComputerFollowRaius>3000000 </ComputerFollowRaius>
+</ResTeamAIDesc>
+<ResTeamAIDesc version="1">
+    <AiConfigType>3 </AiConfigType>
+    <AIID>20000 </AIID>
+    <AttackEnemyFactor>20000 </AttackEnemyFactor>
+    <AttackSpawnGroupFactor>5000 </AttackSpawnGroupFactor>
+    <AttackBaseFactor>5000 </AttackBaseFactor>
+    <AttackGoldMineFactor>5000 </AttackGoldMineFactor>
+    <AttackBuildInitCD>180000 </AttackBuildInitCD>
+    <AttackBuildCD>90000 </AttackBuildCD>
+    <AttackMinDist>300000 </AttackMinDist>
+    <AttackMaxDist>300000 </AttackMaxDist>
+    <AttackHelpDist>600000 </AttackHelpDist>
+    <AttackAssistedTime>1000 </AttackAssistedTime>
+    <AttackCD>5000 </AttackCD>
+    <RetreatVisualDist>300000 </RetreatVisualDist>
+    <RetreatSpringDist>1000000 </RetreatSpringDist>
+    <TowerInnerDist>150000 </TowerInnerDist>
+    <TowerOuterDist>300000 </TowerOuterDist>
+    <TowerOuterFactor>7500 </TowerOuterFactor>
+    <HeroHPFactor>11000 </HeroHPFactor>
+    <DogfaceHPFactor>7000 </DogfaceHPFactor>
+    <FighterAttackFactor>5000 </FighterAttackFactor>
+    <ShooterAttackFactor>8000 </ShooterAttackFactor>
+    <EscapeCheckTime>3000 </EscapeCheckTime>
+    <EscapeCheckDamage>3000 </EscapeCheckDamage>
+    <RetreatAttackHeroHP>2000 </RetreatAttackHeroHP>
+    <RetreatAttackFactor>20000 </RetreatAttackFactor>
+    <RetreatDefenseHeroHP>2000 </RetreatDefenseHeroHP>
+    <RetreatHeroHP>3300 </RetreatHeroHP>
+    <RetreatHeroMP>2000 </RetreatHeroMP>
+    <RetreatCond type="ResTeamAIRetreatCond">
+        <HP>1000 </HP>
+        <Count>0 </Count>
+    </RetreatCond>
+    <RetreatCond type="ResTeamAIRetreatCond">
+        <HP>2000 </HP>
+        <Count>2000 </Count>
+    </RetreatCond>
+    <RetreatCond type="ResTeamAIRetreatCond">
+        <HP>5000 </HP>
+        <Count>5000 </Count>
+    </RetreatCond>
+    <RetreatCond type="ResTeamAIRetreatCond">
+        <HP>7500 </HP>
+        <Count>7500 </Count>
+    </RetreatCond>
+    <PickCheckDist>200000 </PickCheckDist>
+    <PickWaitTime>5000 </PickWaitTime>
+    <FollowMaxRaius>200000 </FollowMaxRaius>
+    <FollowMinRaius>50000 </FollowMinRaius>
+    <DefenceRadius>400000 </DefenceRadius>
+    <AtkBuildMinDist>120000 </AtkBuildMinDist>
+    <AtkBuildMaxDist>200000 </AtkBuildMaxDist>
+    <AtkBuildUseItemMaxDist>400000 </AtkBuildUseItemMaxDist>
+    <TpTargetSeekRadius>400000 </TpTargetSeekRadius>
+    <ComputerFollowTime>300000 </ComputerFollowTime>
+    <ComputerFollowFood>15 </ComputerFollowFood>
+    <ComputerFollowRaius>3000000 </ComputerFollowRaius>
+</ResTeamAIDesc>
+<ResTeamAIDesc version="1">
+    <AiConfigType>4 </AiConfigType>
+    <AIID>20000 </AIID>
+    <AttackEnemyFactor>15000 </AttackEnemyFactor>
+    <AttackSpawnGroupFactor>5000 </AttackSpawnGroupFactor>
+    <AttackBaseFactor>7500 </AttackBaseFactor>
+    <AttackGoldMineFactor>7500 </AttackGoldMineFactor>
+    <AttackBuildInitCD>180000 </AttackBuildInitCD>
+    <AttackBuildCD>90000 </AttackBuildCD>
+    <AttackMinDist>300000 </AttackMinDist>
+    <AttackMaxDist>300000 </AttackMaxDist>
+    <AttackHelpDist>600000 </AttackHelpDist>
+    <AttackAssistedTime>1000 </AttackAssistedTime>
+    <AttackCD>5000 </AttackCD>
+    <RetreatVisualDist>300000 </RetreatVisualDist>
+    <RetreatSpringDist>1000000 </RetreatSpringDist>
+    <TowerInnerDist>150000 </TowerInnerDist>
+    <TowerOuterDist>300000 </TowerOuterDist>
+    <TowerOuterFactor>7500 </TowerOuterFactor>
+    <HeroHPFactor>11000 </HeroHPFactor>
+    <DogfaceHPFactor>7000 </DogfaceHPFactor>
+    <FighterAttackFactor>5000 </FighterAttackFactor>
+    <ShooterAttackFactor>8000 </ShooterAttackFactor>
+    <EscapeCheckTime>3000 </EscapeCheckTime>
+    <EscapeCheckDamage>2000 </EscapeCheckDamage>
+    <RetreatAttackHeroHP>3000 </RetreatAttackHeroHP>
+    <RetreatAttackFactor>15000 </RetreatAttackFactor>
+    <RetreatDefenseHeroHP>3000 </RetreatDefenseHeroHP>
+    <RetreatHeroHP>5000 </RetreatHeroHP>
+    <RetreatHeroMP>3000 </RetreatHeroMP>
+    <RetreatCond type="ResTeamAIRetreatCond">
+        <HP>1000 </HP>
+        <Count>0 </Count>
+    </RetreatCond>
+    <RetreatCond type="ResTeamAIRetreatCond">
+        <HP>2000 </HP>
+        <Count>2000 </Count>
+    </RetreatCond>
+    <RetreatCond type="ResTeamAIRetreatCond">
+        <HP>5000 </HP>
+        <Count>5000 </Count>
+    </RetreatCond>
+    <RetreatCond type="ResTeamAIRetreatCond">
+        <HP>7500 </HP>
+        <Count>7500 </Count>
+    </RetreatCond>
+    <PickCheckDist>200000 </PickCheckDist>
+    <PickWaitTime>5000 </PickWaitTime>
+    <FollowMaxRaius>200000 </FollowMaxRaius>
+    <FollowMinRaius>50000 </FollowMinRaius>
+    <DefenceRadius>400000 </DefenceRadius>
+    <AtkBuildMinDist>120000 </AtkBuildMinDist>
+    <AtkBuildMaxDist>200000 </AtkBuildMaxDist>
+    <AtkBuildUseItemMaxDist>400000 </AtkBuildUseItemMaxDist>
+    <TpTargetSeekRadius>400000 </TpTargetSeekRadius>
+    <ComputerFollowTime>300000 </ComputerFollowTime>
+    <ComputerFollowFood>15 </ComputerFollowFood>
+    <ComputerFollowRaius>3000000 </ComputerFollowRaius>
+</ResTeamAIDesc>
+<ResTeamAIDesc version="1">
+    <AiConfigType>5 </AiConfigType>
+    <AIID>20000 </AIID>
+    <AttackEnemyFactor>10000 </AttackEnemyFactor>
+    <AttackSpawnGroupFactor>5000 </AttackSpawnGroupFactor>
+    <AttackBaseFactor>10000 </AttackBaseFactor>
+    <AttackGoldMineFactor>10000 </AttackGoldMineFactor>
+    <AttackBuildInitCD>180000 </AttackBuildInitCD>
+    <AttackBuildCD>90000 </AttackBuildCD>
+    <AttackMinDist>300000 </AttackMinDist>
+    <AttackMaxDist>300000 </AttackMaxDist>
+    <AttackHelpDist>600000 </AttackHelpDist>
+    <AttackAssistedTime>1000 </AttackAssistedTime>
+    <AttackCD>5000 </AttackCD>
+    <RetreatVisualDist>300000 </RetreatVisualDist>
+    <RetreatSpringDist>1000000 </RetreatSpringDist>
+    <TowerInnerDist>150000 </TowerInnerDist>
+    <TowerOuterDist>300000 </TowerOuterDist>
+    <TowerOuterFactor>7500 </TowerOuterFactor>
+    <HeroHPFactor>11000 </HeroHPFactor>
+    <DogfaceHPFactor>7000 </DogfaceHPFactor>
+    <FighterAttackFactor>5000 </FighterAttackFactor>
+    <ShooterAttackFactor>8000 </ShooterAttackFactor>
+    <EscapeCheckTime>3000 </EscapeCheckTime>
+    <EscapeCheckDamage>2000 </EscapeCheckDamage>
+    <RetreatAttackHeroHP>3000 </RetreatAttackHeroHP>
+    <RetreatAttackFactor>10000 </RetreatAttackFactor>
+    <RetreatDefenseHeroHP>3000 </RetreatDefenseHeroHP>
+    <RetreatHeroHP>5000 </RetreatHeroHP>
+    <RetreatHeroMP>3000 </RetreatHeroMP>
+    <RetreatCond type="ResTeamAIRetreatCond">
+        <HP>1000 </HP>
+        <Count>0 </Count>
+    </RetreatCond>
+    <RetreatCond type="ResTeamAIRetreatCond">
+        <HP>2000 </HP>
+        <Count>2000 </Count>
+    </RetreatCond>
+    <RetreatCond type="ResTeamAIRetreatCond">
+        <HP>5000 </HP>
+        <Count>5000 </Count>
+    </RetreatCond>
+    <RetreatCond type="ResTeamAIRetreatCond">
+        <HP>7500 </HP>
+        <Count>7500 </Count>
+    </RetreatCond>
+    <PickCheckDist>200000 </PickCheckDist>
+    <PickWaitTime>5000 </PickWaitTime>
+    <FollowMaxRaius>200000 </FollowMaxRaius>
+    <FollowMinRaius>50000 </FollowMinRaius>
+    <DefenceRadius>400000 </DefenceRadius>
+    <AtkBuildMinDist>120000 </AtkBuildMinDist>
+    <AtkBuildMaxDist>200000 </AtkBuildMaxDist>
+    <AtkBuildUseItemMaxDist>400000 </AtkBuildUseItemMaxDist>
+    <TpTargetSeekRadius>400000 </TpTargetSeekRadius>
+    <ComputerFollowTime>300000 </ComputerFollowTime>
+    <ComputerFollowFood>15 </ComputerFollowFood>
+    <ComputerFollowRaius>3000000 </ComputerFollowRaius>
+</ResTeamAIDesc>
+<ResTeamAIDesc version="1">
+    <AiConfigType>6 </AiConfigType>
+    <AIID>20000 </AIID>
+    <AttackEnemyFactor>1000000 </AttackEnemyFactor>
+    <AttackSpawnGroupFactor>5000 </AttackSpawnGroupFactor>
+    <AttackBaseFactor>54000 </AttackBaseFactor>
+    <AttackGoldMineFactor>0 </AttackGoldMineFactor>
+    <AttackBuildInitCD>180000 </AttackBuildInitCD>
+    <AttackBuildCD>90000 </AttackBuildCD>
+    <AttackMinDist>300000 </AttackMinDist>
+    <AttackMaxDist>300000 </AttackMaxDist>
+    <AttackHelpDist>600000 </AttackHelpDist>
+    <AttackAssistedTime>1000 </AttackAssistedTime>
+    <AttackCD>5000 </AttackCD>
+    <RetreatVisualDist>300000 </RetreatVisualDist>
+    <RetreatSpringDist>1000000 </RetreatSpringDist>
+    <TowerInnerDist>150000 </TowerInnerDist>
+    <TowerOuterDist>300000 </TowerOuterDist>
+    <TowerOuterFactor>7500 </TowerOuterFactor>
+    <HeroHPFactor>11000 </HeroHPFactor>
+    <DogfaceHPFactor>7000 </DogfaceHPFactor>
+    <FighterAttackFactor>5000 </FighterAttackFactor>
+    <ShooterAttackFactor>8000 </ShooterAttackFactor>
+    <EscapeCheckTime>3000 </EscapeCheckTime>
+    <EscapeCheckDamage>4000 </EscapeCheckDamage>
+    <RetreatAttackHeroHP>1000 </RetreatAttackHeroHP>
+    <RetreatAttackFactor>1000000 </RetreatAttackFactor>
+    <RetreatDefenseHeroHP>1000 </RetreatDefenseHeroHP>
+    <RetreatHeroHP>1000 </RetreatHeroHP>
+    <RetreatHeroMP>1000 </RetreatHeroMP>
+    <RetreatCond type="ResTeamAIRetreatCond">
+        <HP>1000 </HP>
+        <Count>0 </Count>
+    </RetreatCond>
+    <RetreatCond type="ResTeamAIRetreatCond">
+        <HP>2000 </HP>
+        <Count>2000 </Count>
+    </RetreatCond>
+    <RetreatCond type="ResTeamAIRetreatCond">
+        <HP>5000 </HP>
+        <Count>5000 </Count>
+    </RetreatCond>
+    <RetreatCond type="ResTeamAIRetreatCond">
+        <HP>7500 </HP>
+        <Count>7500 </Count>
+    </RetreatCond>
+    <PickCheckDist>200000 </PickCheckDist>
+    <PickWaitTime>5000 </PickWaitTime>
+    <FollowMaxRaius>200000 </FollowMaxRaius>
+    <FollowMinRaius>50000 </FollowMinRaius>
+    <DefenceRadius>400000 </DefenceRadius>
+    <AtkBuildMinDist>120000 </AtkBuildMinDist>
+    <AtkBuildMaxDist>200000 </AtkBuildMaxDist>
+    <AtkBuildUseItemMaxDist>400000 </AtkBuildUseItemMaxDist>
+    <TpTargetSeekRadius>400000 </TpTargetSeekRadius>
+    <ComputerFollowTime>300000 </ComputerFollowTime>
+    <ComputerFollowFood>15 </ComputerFollowFood>
+    <ComputerFollowRaius>3000000 </ComputerFollowRaius>
+</ResTeamAIDesc>
+<ResTeamAIDesc version="1">
+    <AiConfigType>7 </AiConfigType>
+    <AIID>20000 </AIID>
+    <AttackEnemyFactor>1000000 </AttackEnemyFactor>
+    <AttackSpawnGroupFactor>5000 </AttackSpawnGroupFactor>
+    <AttackBaseFactor>9000 </AttackBaseFactor>
+    <AttackGoldMineFactor>0 </AttackGoldMineFactor>
+    <AttackBuildInitCD>180000 </AttackBuildInitCD>
+    <AttackBuildCD>90000 </AttackBuildCD>
+    <AttackMinDist>300000 </AttackMinDist>
+    <AttackMaxDist>300000 </AttackMaxDist>
+    <AttackHelpDist>600000 </AttackHelpDist>
+    <AttackAssistedTime>1000 </AttackAssistedTime>
+    <AttackCD>5000 </AttackCD>
+    <RetreatVisualDist>300000 </RetreatVisualDist>
+    <RetreatSpringDist>1000000 </RetreatSpringDist>
+    <TowerInnerDist>150000 </TowerInnerDist>
+    <TowerOuterDist>300000 </TowerOuterDist>
+    <TowerOuterFactor>7500 </TowerOuterFactor>
+    <HeroHPFactor>11000 </HeroHPFactor>
+    <DogfaceHPFactor>7000 </DogfaceHPFactor>
+    <FighterAttackFactor>5000 </FighterAttackFactor>
+    <ShooterAttackFactor>8000 </ShooterAttackFactor>
+    <EscapeCheckTime>3000 </EscapeCheckTime>
+    <EscapeCheckDamage>4000 </EscapeCheckDamage>
+    <RetreatAttackHeroHP>1000 </RetreatAttackHeroHP>
+    <RetreatAttackFactor>1000000 </RetreatAttackFactor>
+    <RetreatDefenseHeroHP>1000 </RetreatDefenseHeroHP>
+    <RetreatHeroHP>1000 </RetreatHeroHP>
+    <RetreatHeroMP>1000 </RetreatHeroMP>
+    <RetreatCond type="ResTeamAIRetreatCond">
+        <HP>1000 </HP>
+        <Count>0 </Count>
+    </RetreatCond>
+    <RetreatCond type="ResTeamAIRetreatCond">
+        <HP>2000 </HP>
+        <Count>2000 </Count>
+    </RetreatCond>
+    <RetreatCond type="ResTeamAIRetreatCond">
+        <HP>5000 </HP>
+        <Count>5000 </Count>
+    </RetreatCond>
+    <RetreatCond type="ResTeamAIRetreatCond">
+        <HP>7500 </HP>
+        <Count>7500 </Count>
+    </RetreatCond>
+    <PickCheckDist>200000 </PickCheckDist>
+    <PickWaitTime>5000 </PickWaitTime>
+    <FollowMaxRaius>200000 </FollowMaxRaius>
+    <FollowMinRaius>50000 </FollowMinRaius>
+    <DefenceRadius>400000 </DefenceRadius>
+    <AtkBuildMinDist>120000 </AtkBuildMinDist>
+    <AtkBuildMaxDist>200000 </AtkBuildMaxDist>
+    <AtkBuildUseItemMaxDist>400000 </AtkBuildUseItemMaxDist>
+    <TpTargetSeekRadius>400000 </TpTargetSeekRadius>
+    <ComputerFollowTime>300000 </ComputerFollowTime>
+    <ComputerFollowFood>15 </ComputerFollowFood>
+    <ComputerFollowRaius>3000000 </ComputerFollowRaius>
+</ResTeamAIDesc>
+</ResTeamAIDesc_Tab>

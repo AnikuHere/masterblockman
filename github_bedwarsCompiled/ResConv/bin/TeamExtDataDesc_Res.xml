@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<ResTeamExtDataDesc_Tab>
+<TResHeadAll version="5">
+    <resHead type="TResHead">
+        <Magic>1397052237 </Magic>
+        <Version>6 </Version>
+        <Unit>20 </Unit>
+        <Count>10 </Count>
+        <MetalibHash>531d5b4a397ad5b3c0fbfb5cc8059e55</MetalibHash>
+        <ResVersion>0 </ResVersion>
+        <CreateTime>2023-04-19 20:42:30</CreateTime>
+        <ResEncording>UTF-8</ResEncording>
+        <ContentHash>d5ba1e4211a85af0fff7f2ee1b74c005</ContentHash>
+    </resHead>
+    <resHeadExt type="TResHeadExt">
+        <DataOffset>136 </DataOffset>
+    </resHeadExt>
+</TResHeadAll>
+<ResTeamExtDataDesc version="1">
+    <ID>1001 </ID>
+    <SystemGoldExtAdd>0 </SystemGoldExtAdd>
+    <SystemExpExtAdd>0 </SystemExpExtAdd>
+    <HpMaxExtAdd>0 </HpMaxExtAdd>
+    <AtkExtAdd>0 </AtkExtAdd>
+</ResTeamExtDataDesc>
+<ResTeamExtDataDesc version="1">
+    <ID>1003 </ID>
+    <SystemGoldExtAdd>0 </SystemGoldExtAdd>
+    <SystemExpExtAdd>0 </SystemExpExtAdd>
+    <HpMaxExtAdd>0 </HpMaxExtAdd>
+    <AtkExtAdd>-2500 </AtkExtAdd>
+</ResTeamExtDataDesc>
+<ResTeamExtDataDesc version="1">
+    <ID>1004 </ID>
+    <SystemGoldExtAdd>5000 </SystemGoldExtAdd>
+    <SystemExpExtAdd>0 </SystemExpExtAdd>
+    <HpMaxExtAdd>0 </HpMaxExtAdd>
+    <AtkExtAdd>0 </AtkExtAdd>
+</ResTeamExtDataDesc>
+<ResTeamExtDataDesc version="1">
+    <ID>1005 </ID>
+    <SystemGoldExtAdd>10000 </SystemGoldExtAdd>
+    <SystemExpExtAdd>0 </SystemExpExtAdd>
+    <HpMaxExtAdd>0 </HpMaxExtAdd>
+    <AtkExtAdd>0 </AtkExtAdd>
+</ResTeamExtDataDesc>
+<ResTeamExtDataDesc version="1">
+    <ID>1006 </ID>
+    <SystemGoldExtAdd>20000 </SystemGoldExtAdd>
+    <SystemExpExtAdd>0 </SystemExpExtAdd>
+    <HpMaxExtAdd>0 </HpMaxExtAdd>
+    <AtkExtAdd>0 </AtkExtAdd>
+</ResTeamExtDataDesc>
+<ResTeamExtDataDesc version="1">
+    <ID>1007 </ID>
+    <SystemGoldExtAdd>0 </SystemGoldExtAdd>
+    <SystemExpExtAdd>0 </SystemExpExtAdd>
+    <HpMaxExtAdd>0 </HpMaxExtAdd>
+    <AtkExtAdd>0 </AtkExtAdd>
+</ResTeamExtDataDesc>
+<ResTeamExtDataDesc version="1">
+    <ID>1008 </ID>
+    <SystemGoldExtAdd>0 </SystemGoldExtAdd>
+    <SystemExpExtAdd>0 </SystemExpExtAdd>
+    <HpMaxExtAdd>0 </HpMaxExtAdd>
+    <AtkExtAdd>0 </AtkExtAdd>
+</ResTeamExtDataDesc>
+<ResTeamExtDataDesc version="1">
+    <ID>1009 </ID>
+    <SystemGoldExtAdd>0 </SystemGoldExtAdd>
+    <SystemExpExtAdd>0 </SystemExpExtAdd>
+    <HpMaxExtAdd>-2500 </HpMaxExtAdd>
+    <AtkExtAdd>-2500 </AtkExtAdd>
+</ResTeamExtDataDesc>
+<ResTeamExtDataDesc version="1">
+    <ID>1010 </ID>
+    <SystemGoldExtAdd>2000 </SystemGoldExtAdd>
+    <SystemExpExtAdd>0 </SystemExpExtAdd>
+    <HpMaxExtAdd>0 </HpMaxExtAdd>
+    <AtkExtAdd>0 </AtkExtAdd>
+</ResTeamExtDataDesc>
+<ResTeamExtDataDesc version="1">
+    <ID>1011 </ID>
+    <SystemGoldExtAdd>0 </SystemGoldExtAdd>
+    <SystemExpExtAdd>0 </SystemExpExtAdd>
+    <HpMaxExtAdd>-2500 </HpMaxExtAdd>
+    <AtkExtAdd>-5000 </AtkExtAdd>
+</ResTeamExtDataDesc>
+</ResTeamExtDataDesc_Tab>

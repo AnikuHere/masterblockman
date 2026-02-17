@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<ResSystemSevenLandingBonusDesc_Tab>
+<TResHeadAll version="5">
+    <resHead type="TResHead">
+        <Magic>1397052237 </Magic>
+        <Version>6 </Version>
+        <Unit>44 </Unit>
+        <Count>21 </Count>
+        <MetalibHash>531d5b4a397ad5b3c0fbfb5cc8059e55</MetalibHash>
+        <ResVersion>0 </ResVersion>
+        <CreateTime>2023-04-19 20:42:35</CreateTime>
+        <ResEncording>UTF-8</ResEncording>
+        <ContentHash>40d57d1c49762d51663ba39329e651a2</ContentHash>
+    </resHead>
+    <resHeadExt type="TResHeadExt">
+        <DataOffset>136 </DataOffset>
+    </resHeadExt>
+</TResHeadAll>
+<ResSystemSevenLandingBonusDesc version="1">
+    <ResID>1 </ResID>
+    <ItemID>4 </ItemID>
+    <ItemNum>20 </ItemNum>
+    <StartTime>2017-7-3</StartTime>
+</ResSystemSevenLandingBonusDesc>
+<ResSystemSevenLandingBonusDesc version="1">
+    <ResID>2 </ResID>
+    <ItemID>9 </ItemID>
+    <ItemNum>20 </ItemNum>
+    <StartTime>2017-7-3</StartTime>
+</ResSystemSevenLandingBonusDesc>
+<ResSystemSevenLandingBonusDesc version="1">
+    <ResID>3 </ResID>
+    <ItemID>4 </ItemID>
+    <ItemNum>30 </ItemNum>
+    <StartTime>2017-7-3</StartTime>
+</ResSystemSevenLandingBonusDesc>
+<ResSystemSevenLandingBonusDesc version="1">
+    <ResID>4 </ResID>
+    <ItemID>31100001 </ItemID>
+    <ItemNum>1 </ItemNum>
+    <StartTime>2017-7-3</StartTime>
+</ResSystemSevenLandingBonusDesc>
+<ResSystemSevenLandingBonusDesc version="1">
+    <ResID>5 </ResID>
+    <ItemID>9 </ItemID>
+    <ItemNum>40 </ItemNum>
+    <StartTime>2017-7-3</StartTime>
+</ResSystemSevenLandingBonusDesc>
+<ResSystemSevenLandingBonusDesc version="1">
+    <ResID>6 </ResID>
+    <ItemID>10 </ItemID>
+    <ItemNum>50 </ItemNum>
+    <StartTime>2017-7-3</StartTime>
+</ResSystemSevenLandingBonusDesc>
+<ResSystemSevenLandingBonusDesc version="1">
+    <ResID>7 </ResID>
+    <ItemID>31100002 </ItemID>
+    <ItemNum>1 </ItemNum>
+    <StartTime>2017-7-3</StartTime>
+</ResSystemSevenLandingBonusDesc>
+<ResSystemSevenLandingBonusDesc version="1">
+    <ResID>8 </ResID>
+    <ItemID>4 </ItemID>
+    <ItemNum>20 </ItemNum>
+    <StartTime>2017-7-10</StartTime>
+</ResSystemSevenLandingBonusDesc>
+<ResSystemSevenLandingBonusDesc version="1">
+    <ResID>9 </ResID>
+    <ItemID>9 </ItemID>
+    <ItemNum>20 </ItemNum>
+    <StartTime>2017-7-10</StartTime>
+</ResSystemSevenLandingBonusDesc>
+<ResSystemSevenLandingBonusDesc version="1">
+    <ResID>10 </ResID>
+    <ItemID>4 </ItemID>
+    <ItemNum>30 </ItemNum>
+    <StartTime>2017-7-10</StartTime>
+</ResSystemSevenLandingBonusDesc>
+<ResSystemSevenLandingBonusDesc version="1">
+    <ResID>11 </ResID>
+    <ItemID>31100001 </ItemID>
+    <ItemNum>1 </ItemNum>
+    <StartTime>2017-7-10</StartTime>
+</ResSystemSevenLandingBonusDesc>
+<ResSystemSevenLandingBonusDesc version="1">
+    <ResID>12 </ResID>
+    <ItemID>9 </ItemID>
+    <ItemNum>40 </ItemNum>
+    <StartTime>2017-7-10</StartTime>
+</ResSystemSevenLandingBonusDesc>
+<ResSystemSevenLandingBonusDesc version="1">
+    <ResID>13 </ResID>
+    <ItemID>10 </ItemID>
+    <ItemNum>50 </ItemNum>
+    <StartTime>2017-7-10</StartTime>
+</ResSystemSevenLandingBonusDesc>
+<ResSystemSevenLandingBonusDesc version="1">
+    <ResID>14 </ResID>
+    <ItemID>31100002 </ItemID>
+    <ItemNum>1 </ItemNum>
+    <StartTime>2017-7-10</StartTime>
+</ResSystemSevenLandingBonusDesc>
+<ResSystemSevenLandingBonusDesc version="1">
+    <ResID>15 </ResID>
+    <ItemID>4 </ItemID>
+    <ItemNum>20 </ItemNum>
+    <StartTime>2017-7-17</StartTime>
+</ResSystemSevenLandingBonusDesc>
+<ResSystemSevenLandingBonusDesc version="1">
+    <ResID>16 </ResID>
+    <ItemID>9 </ItemID>
+    <ItemNum>20 </ItemNum>
+    <StartTime>2017-7-17</StartTime>
+</ResSystemSevenLandingBonusDesc>
+<ResSystemSevenLandingBonusDesc version="1">
+    <ResID>17 </ResID>
+    <ItemID>4 </ItemID>
+    <ItemNum>30 </ItemNum>
+    <StartTime>2017-7-17</StartTime>
+</ResSystemSevenLandingBonusDesc>
+<ResSystemSevenLandingBonusDesc version="1">
+    <ResID>18 </ResID>
+    <ItemID>31100001 </ItemID>
+    <ItemNum>1 </ItemNum>
+    <StartTime>2017-7-17</StartTime>
+</ResSystemSevenLandingBonusDesc>
+<ResSystemSevenLandingBonusDesc version="1">
+    <ResID>19 </ResID>
+    <ItemID>9 </ItemID>
+    <ItemNum>40 </ItemNum>
+    <StartTime>2017-7-17</StartTime>
+</ResSystemSevenLandingBonusDesc>
+<ResSystemSevenLandingBonusDesc version="1">
+    <ResID>20 </ResID>
+    <ItemID>10 </ItemID>
+    <ItemNum>50 </ItemNum>
+    <StartTime>2017-7-17</StartTime>
+</ResSystemSevenLandingBonusDesc>
+<ResSystemSevenLandingBonusDesc version="1">
+    <ResID>21 </ResID>
+    <ItemID>31100002 </ItemID>
+    <ItemNum>1 </ItemNum>
+    <StartTime>2017-7-17</StartTime>
+</ResSystemSevenLandingBonusDesc>
+</ResSystemSevenLandingBonusDesc_Tab>

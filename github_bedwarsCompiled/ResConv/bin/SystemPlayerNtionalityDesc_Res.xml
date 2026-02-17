@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<ResSystemPlayerNtionalityDesc_Tab>
+<TResHeadAll version="5">
+    <resHead type="TResHead">
+        <Magic>1397052237 </Magic>
+        <Version>6 </Version>
+        <Unit>260 </Unit>
+        <Count>20 </Count>
+        <MetalibHash>531d5b4a397ad5b3c0fbfb5cc8059e55</MetalibHash>
+        <ResVersion>0 </ResVersion>
+        <CreateTime>2023-04-19 20:42:32</CreateTime>
+        <ResEncording>UTF-8</ResEncording>
+        <ContentHash>bc3318e6de73265ed220d5769a870908</ContentHash>
+    </resHead>
+    <resHeadExt type="TResHeadExt">
+        <DataOffset>136 </DataOffset>
+    </resHeadExt>
+</TResHeadAll>
+<ResSystemPlayerNtionalityDesc version="1">
+    <ResID>1 </ResID>
+    <NickName_SCN>中国</NickName_SCN>
+    <NickName_FCN></NickName_FCN>
+    <NickName_EN></NickName_EN>
+    <ShowIcon>UITexture/system/guojia/T_ICON_guoji_zhongguo</ShowIcon>
+</ResSystemPlayerNtionalityDesc>
+<ResSystemPlayerNtionalityDesc version="1">
+    <ResID>2 </ResID>
+    <NickName_SCN>美国</NickName_SCN>
+    <NickName_FCN></NickName_FCN>
+    <NickName_EN></NickName_EN>
+    <ShowIcon>UITexture/system/guojia/T_ICON_guoji_meiguo</ShowIcon>
+</ResSystemPlayerNtionalityDesc>
+<ResSystemPlayerNtionalityDesc version="1">
+    <ResID>3 </ResID>
+    <NickName_SCN>墨西哥</NickName_SCN>
+    <NickName_FCN></NickName_FCN>
+    <NickName_EN></NickName_EN>
+    <ShowIcon>UITexture/system/guojia/T_ICON_guoji_moxige</ShowIcon>
+</ResSystemPlayerNtionalityDesc>
+<ResSystemPlayerNtionalityDesc version="1">
+    <ResID>4 </ResID>
+    <NickName_SCN>加拿大</NickName_SCN>
+    <NickName_FCN></NickName_FCN>
+    <NickName_EN></NickName_EN>
+    <ShowIcon>UITexture/system/guojia/T_ICON_guoji_jianada</ShowIcon>
+</ResSystemPlayerNtionalityDesc>
+<ResSystemPlayerNtionalityDesc version="1">
+    <ResID>5 </ResID>
+    <NickName_SCN>巴西</NickName_SCN>
+    <NickName_FCN></NickName_FCN>
+    <NickName_EN></NickName_EN>
+    <ShowIcon>UITexture/system/guojia/T_ICON_guoji_baxi</ShowIcon>
+</ResSystemPlayerNtionalityDesc>
+<ResSystemPlayerNtionalityDesc version="1">
+    <ResID>6 </ResID>
+    <NickName_SCN>阿根廷</NickName_SCN>
+    <NickName_FCN></NickName_FCN>
+    <NickName_EN></NickName_EN>
+    <ShowIcon>UITexture/system/guojia/T_ICON_guoji_agenting</ShowIcon>
+</ResSystemPlayerNtionalityDesc>
+<ResSystemPlayerNtionalityDesc version="1">
+    <ResID>7 </ResID>
+    <NickName_SCN>英格兰</NickName_SCN>
+    <NickName_FCN></NickName_FCN>
+    <NickName_EN></NickName_EN>
+    <ShowIcon>UITexture/system/guojia/T_ICON_guoji_yinggelan</ShowIcon>
+</ResSystemPlayerNtionalityDesc>
+<ResSystemPlayerNtionalityDesc version="1">
+    <ResID>8 </ResID>
+    <NickName_SCN>欧盟</NickName_SCN>
+    <NickName_FCN></NickName_FCN>
+    <NickName_EN></NickName_EN>
+    <ShowIcon>UITexture/system/guojia/T_ICON_guoji_oumeng</ShowIcon>
+</ResSystemPlayerNtionalityDesc>
+<ResSystemPlayerNtionalityDesc version="1">
+    <ResID>9 </ResID>
+    <NickName_SCN>西班牙</NickName_SCN>
+    <NickName_FCN></NickName_FCN>
+    <NickName_EN></NickName_EN>
+    <ShowIcon>UITexture/system/guojia/T_ICON_guoji_xibanya</ShowIcon>
+</ResSystemPlayerNtionalityDesc>
+<ResSystemPlayerNtionalityDesc version="1">
+    <ResID>10 </ResID>
+    <NickName_SCN>俄罗斯</NickName_SCN>
+    <NickName_FCN></NickName_FCN>
+    <NickName_EN></NickName_EN>
+    <ShowIcon>UITexture/system/guojia/T_ICON_guoji_eluosi</ShowIcon>
+</ResSystemPlayerNtionalityDesc>
+<ResSystemPlayerNtionalityDesc version="1">
+    <ResID>11 </ResID>
+    <NickName_SCN>德国</NickName_SCN>
+    <NickName_FCN></NickName_FCN>
+    <NickName_EN></NickName_EN>
+    <ShowIcon>UITexture/system/guojia/T_ICON_guoji_deguo</ShowIcon>
+</ResSystemPlayerNtionalityDesc>
+<ResSystemPlayerNtionalityDesc version="1">
+    <ResID>12 </ResID>
+    <NickName_SCN>荷兰</NickName_SCN>
+    <NickName_FCN></NickName_FCN>
+    <NickName_EN></NickName_EN>
+    <ShowIcon>UITexture/system/guojia/T_ICON_guoji_helan</ShowIcon>
+</ResSystemPlayerNtionalityDesc>
+<ResSystemPlayerNtionalityDesc version="1">
+    <ResID>13 </ResID>
+    <NickName_SCN>法国</NickName_SCN>
+    <NickName_FCN></NickName_FCN>
+    <NickName_EN></NickName_EN>
+    <ShowIcon>UITexture/system/guojia/T_ICON_guoji_faguo</ShowIcon>
+</ResSystemPlayerNtionalityDesc>
+<ResSystemPlayerNtionalityDesc version="1">
+    <ResID>14 </ResID>
+    <NickName_SCN>英国</NickName_SCN>
+    <NickName_FCN></NickName_FCN>
+    <NickName_EN></NickName_EN>
+    <ShowIcon>UITexture/system/guojia/T_ICON_guoji_yingguo</ShowIcon>
+</ResSystemPlayerNtionalityDesc>
+<ResSystemPlayerNtionalityDesc version="1">
+    <ResID>15 </ResID>
+    <NickName_SCN>泰国</NickName_SCN>
+    <NickName_FCN></NickName_FCN>
+    <NickName_EN></NickName_EN>
+    <ShowIcon>UITexture/system/guojia/T_ICON_guoji_taiguo</ShowIcon>
+</ResSystemPlayerNtionalityDesc>
+<ResSystemPlayerNtionalityDesc version="1">
+    <ResID>16 </ResID>
+    <NickName_SCN>印度</NickName_SCN>
+    <NickName_FCN></NickName_FCN>
+    <NickName_EN></NickName_EN>
+    <ShowIcon>UITexture/system/guojia/T_ICON_guoji_yindu</ShowIcon>
+</ResSystemPlayerNtionalityDesc>
+<ResSystemPlayerNtionalityDesc version="1">
+    <ResID>17 </ResID>
+    <NickName_SCN>越南</NickName_SCN>
+    <NickName_FCN></NickName_FCN>
+    <NickName_EN></NickName_EN>
+    <ShowIcon>UITexture/system/guojia/T_ICON_guoji_yuenan</ShowIcon>
+</ResSystemPlayerNtionalityDesc>
+<ResSystemPlayerNtionalityDesc version="1">
+    <ResID>18 </ResID>
+    <NickName_SCN>日本</NickName_SCN>
+    <NickName_FCN></NickName_FCN>
+    <NickName_EN></NickName_EN>
+    <ShowIcon>UITexture/system/guojia/T_ICON_guoji_riben</ShowIcon>
+</ResSystemPlayerNtionalityDesc>
+<ResSystemPlayerNtionalityDesc version="1">
+    <ResID>19 </ResID>
+    <NickName_SCN>韩国</NickName_SCN>
+    <NickName_FCN></NickName_FCN>
+    <NickName_EN></NickName_EN>
+    <ShowIcon>UITexture/system/guojia/T_ICON_guoji_hanguo</ShowIcon>
+</ResSystemPlayerNtionalityDesc>
+<ResSystemPlayerNtionalityDesc version="1">
+    <ResID>20 </ResID>
+    <NickName_SCN>新西兰</NickName_SCN>
+    <NickName_FCN></NickName_FCN>
+    <NickName_EN></NickName_EN>
+    <ShowIcon>UITexture/system/guojia/T_ICON_guoji_xinxilan</ShowIcon>
+</ResSystemPlayerNtionalityDesc>
+</ResSystemPlayerNtionalityDesc_Tab>

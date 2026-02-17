@@ -1,0 +1,2319 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<ResSystemTaskDesc_Tab>
+<TResHeadAll version="5">
+    <resHead type="TResHead">
+        <Magic>1397052237 </Magic>
+        <Version>6 </Version>
+        <Unit>116 </Unit>
+        <Count>92 </Count>
+        <MetalibHash>531d5b4a397ad5b3c0fbfb5cc8059e55</MetalibHash>
+        <ResVersion>0 </ResVersion>
+        <CreateTime>2023-04-19 20:42:32</CreateTime>
+        <ResEncording>UTF-8</ResEncording>
+        <ContentHash>e4d25434508249e786daf3eeb11997cb</ContentHash>
+    </resHead>
+    <resHeadExt type="TResHeadExt">
+        <DataOffset>136 </DataOffset>
+    </resHeadExt>
+</TResHeadAll>
+<ResSystemTaskDesc version="1">
+    <ResID>1 </ResID>
+    <Icon>UITexture/system/renwu/T_ICON_qintong_new</Icon>
+    <Type>1 </Type>
+    <UISkipType>0 </UISkipType>
+    <AutoCommit>0 </AutoCommit>
+    <NeedLevel>1 </NeedLevel>
+    <NeedAct>1 </NeedAct>
+    <CountType>2 </CountType>
+    <NeedParam>0 0 0 </NeedParam>
+    <CounterMax>1 </CounterMax>
+    <CounterUpdateType>0 </CounterUpdateType>
+    <Reward type="ItemReward">
+        <ItemID>1 </ItemID>
+        <ItemNum>50 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>5 </ItemID>
+        <ItemNum>10 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResSystemTaskDesc>
+<ResSystemTaskDesc version="1">
+    <ResID>2 </ResID>
+    <Icon>UITexture/system/renwu/T_ICON_baijin_new</Icon>
+    <Type>1 </Type>
+    <UISkipType>70 </UISkipType>
+    <AutoCommit>0 </AutoCommit>
+    <NeedLevel>1 </NeedLevel>
+    <NeedAct>2 </NeedAct>
+    <CountType>1 </CountType>
+    <NeedParam>0 0 0 </NeedParam>
+    <CounterMax>5 </CounterMax>
+    <CounterUpdateType>0 </CounterUpdateType>
+    <Reward type="ItemReward">
+        <ItemID>1 </ItemID>
+        <ItemNum>500 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>5 </ItemID>
+        <ItemNum>30 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResSystemTaskDesc>
+<ResSystemTaskDesc version="1">
+    <ResID>3 </ResID>
+    <Icon>UITexture/system/renwu/T_ICON_baijin_new</Icon>
+    <Type>1 </Type>
+    <UISkipType>70 </UISkipType>
+    <AutoCommit>0 </AutoCommit>
+    <NeedLevel>1 </NeedLevel>
+    <NeedAct>3 </NeedAct>
+    <CountType>2 </CountType>
+    <NeedParam>0 0 0 </NeedParam>
+    <CounterMax>100 </CounterMax>
+    <CounterUpdateType>0 </CounterUpdateType>
+    <Reward type="ItemReward">
+        <ItemID>1 </ItemID>
+        <ItemNum>500 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>5 </ItemID>
+        <ItemNum>30 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResSystemTaskDesc>
+<ResSystemTaskDesc version="1">
+    <ResID>4 </ResID>
+    <Icon>UITexture/system/renwu/T_ICON_baijin_new</Icon>
+    <Type>1 </Type>
+    <UISkipType>70 </UISkipType>
+    <AutoCommit>0 </AutoCommit>
+    <NeedLevel>1 </NeedLevel>
+    <NeedAct>4 </NeedAct>
+    <CountType>1 </CountType>
+    <NeedParam>0 0 0 </NeedParam>
+    <CounterMax>30 </CounterMax>
+    <CounterUpdateType>0 </CounterUpdateType>
+    <Reward type="ItemReward">
+        <ItemID>1 </ItemID>
+        <ItemNum>500 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>5 </ItemID>
+        <ItemNum>30 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResSystemTaskDesc>
+<ResSystemTaskDesc version="1">
+    <ResID>5 </ResID>
+    <Icon>UITexture/system/renwu/T_ICON_baijin_new</Icon>
+    <Type>1 </Type>
+    <UISkipType>70 </UISkipType>
+    <AutoCommit>0 </AutoCommit>
+    <NeedLevel>10 </NeedLevel>
+    <NeedAct>12 </NeedAct>
+    <CountType>2 </CountType>
+    <NeedParam>1 0 0 </NeedParam>
+    <CounterMax>3 </CounterMax>
+    <CounterUpdateType>0 </CounterUpdateType>
+    <Reward type="ItemReward">
+        <ItemID>1 </ItemID>
+        <ItemNum>500 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>5 </ItemID>
+        <ItemNum>30 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResSystemTaskDesc>
+<ResSystemTaskDesc version="1">
+    <ResID>6 </ResID>
+    <Icon>UITexture/system/renwu/T_ICON_baijin_new</Icon>
+    <Type>1 </Type>
+    <UISkipType>70 </UISkipType>
+    <AutoCommit>0 </AutoCommit>
+    <NeedLevel>1 </NeedLevel>
+    <NeedAct>12 </NeedAct>
+    <CountType>2 </CountType>
+    <NeedParam>0 0 0 </NeedParam>
+    <CounterMax>3 </CounterMax>
+    <CounterUpdateType>0 </CounterUpdateType>
+    <Reward type="ItemReward">
+        <ItemID>1 </ItemID>
+        <ItemNum>500 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>5 </ItemID>
+        <ItemNum>30 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResSystemTaskDesc>
+<ResSystemTaskDesc version="1">
+    <ResID>7 </ResID>
+    <Icon>UITexture/system/renwu/T_ICON_qintong_new</Icon>
+    <Type>1 </Type>
+    <UISkipType>100 </UISkipType>
+    <AutoCommit>0 </AutoCommit>
+    <NeedLevel>1 </NeedLevel>
+    <NeedAct>7 </NeedAct>
+    <CountType>2 </CountType>
+    <NeedParam>0 0 0 </NeedParam>
+    <CounterMax>200 </CounterMax>
+    <CounterUpdateType>0 </CounterUpdateType>
+    <Reward type="ItemReward">
+        <ItemID>1 </ItemID>
+        <ItemNum>100 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>5 </ItemID>
+        <ItemNum>5 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResSystemTaskDesc>
+<ResSystemTaskDesc version="1">
+    <ResID>8 </ResID>
+    <Icon>UITexture/system/renwu/T_ICON_baiyin_new</Icon>
+    <Type>1 </Type>
+    <UISkipType>70 </UISkipType>
+    <AutoCommit>0 </AutoCommit>
+    <NeedLevel>1 </NeedLevel>
+    <NeedAct>8 </NeedAct>
+    <CountType>2 </CountType>
+    <NeedParam>0 0 0 </NeedParam>
+    <CounterMax>1 </CounterMax>
+    <CounterUpdateType>0 </CounterUpdateType>
+    <Reward type="ItemReward">
+        <ItemID>1 </ItemID>
+        <ItemNum>100 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>5 </ItemID>
+        <ItemNum>5 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResSystemTaskDesc>
+<ResSystemTaskDesc version="1">
+    <ResID>9 </ResID>
+    <Icon>UITexture/system/renwu/T_ICON_qintong_new</Icon>
+    <Type>1 </Type>
+    <UISkipType>70 </UISkipType>
+    <AutoCommit>0 </AutoCommit>
+    <NeedLevel>1 </NeedLevel>
+    <NeedAct>9 </NeedAct>
+    <CountType>2 </CountType>
+    <NeedParam>0 0 0 </NeedParam>
+    <CounterMax>6 </CounterMax>
+    <CounterUpdateType>0 </CounterUpdateType>
+    <Reward type="ItemReward">
+        <ItemID>1 </ItemID>
+        <ItemNum>200 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>5 </ItemID>
+        <ItemNum>15 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResSystemTaskDesc>
+<ResSystemTaskDesc version="1">
+    <ResID>10 </ResID>
+    <Icon>UITexture/system/renwu/T_ICON_qintong_new</Icon>
+    <Type>1 </Type>
+    <UISkipType>70 </UISkipType>
+    <AutoCommit>0 </AutoCommit>
+    <NeedLevel>1 </NeedLevel>
+    <NeedAct>10 </NeedAct>
+    <CountType>1 </CountType>
+    <NeedParam>0 0 0 </NeedParam>
+    <CounterMax>1 </CounterMax>
+    <CounterUpdateType>0 </CounterUpdateType>
+    <Reward type="ItemReward">
+        <ItemID>1 </ItemID>
+        <ItemNum>100 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>5 </ItemID>
+        <ItemNum>15 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResSystemTaskDesc>
+<ResSystemTaskDesc version="1">
+    <ResID>11 </ResID>
+    <Icon>UITexture/system/renwu/T_ICON_qintong_new</Icon>
+    <Type>1 </Type>
+    <UISkipType>70 </UISkipType>
+    <AutoCommit>0 </AutoCommit>
+    <NeedLevel>1 </NeedLevel>
+    <NeedAct>11 </NeedAct>
+    <CountType>2 </CountType>
+    <NeedParam>0 0 0 </NeedParam>
+    <CounterMax>3 </CounterMax>
+    <CounterUpdateType>0 </CounterUpdateType>
+    <Reward type="ItemReward">
+        <ItemID>1 </ItemID>
+        <ItemNum>200 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>5 </ItemID>
+        <ItemNum>15 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResSystemTaskDesc>
+<ResSystemTaskDesc version="1">
+    <ResID>12 </ResID>
+    <Icon>UITexture/system/renwu/T_ICON_baiyin_new</Icon>
+    <Type>1 </Type>
+    <UISkipType>70 </UISkipType>
+    <AutoCommit>0 </AutoCommit>
+    <NeedLevel>1 </NeedLevel>
+    <NeedAct>12 </NeedAct>
+    <CountType>2 </CountType>
+    <NeedParam>0 0 0 </NeedParam>
+    <CounterMax>1 </CounterMax>
+    <CounterUpdateType>0 </CounterUpdateType>
+    <Reward type="ItemReward">
+        <ItemID>1 </ItemID>
+        <ItemNum>300 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>5 </ItemID>
+        <ItemNum>20 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResSystemTaskDesc>
+<ResSystemTaskDesc version="1">
+    <ResID>13 </ResID>
+    <Icon>UITexture/system/renwu/T_ICON_huanjin_new</Icon>
+    <Type>1 </Type>
+    <UISkipType>70 </UISkipType>
+    <AutoCommit>0 </AutoCommit>
+    <NeedLevel>1 </NeedLevel>
+    <NeedAct>12 </NeedAct>
+    <CountType>2 </CountType>
+    <NeedParam>0 0 0 </NeedParam>
+    <CounterMax>2 </CounterMax>
+    <CounterUpdateType>0 </CounterUpdateType>
+    <Reward type="ItemReward">
+        <ItemID>1 </ItemID>
+        <ItemNum>200 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>5 </ItemID>
+        <ItemNum>15 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResSystemTaskDesc>
+<ResSystemTaskDesc version="1">
+    <ResID>14 </ResID>
+    <Icon>UITexture/system/renwu/T_ICON_huanjin_new</Icon>
+    <Type>1 </Type>
+    <UISkipType>70 </UISkipType>
+    <AutoCommit>0 </AutoCommit>
+    <NeedLevel>1 </NeedLevel>
+    <NeedAct>8 </NeedAct>
+    <CountType>2 </CountType>
+    <NeedParam>0 0 0 </NeedParam>
+    <CounterMax>3 </CounterMax>
+    <CounterUpdateType>0 </CounterUpdateType>
+    <Reward type="ItemReward">
+        <ItemID>1 </ItemID>
+        <ItemNum>200 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>5 </ItemID>
+        <ItemNum>15 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResSystemTaskDesc>
+<ResSystemTaskDesc version="1">
+    <ResID>15 </ResID>
+    <Icon>UITexture/system/renwu/T_ICON_renwu_07</Icon>
+    <Type>1 </Type>
+    <UISkipType>0 </UISkipType>
+    <AutoCommit>0 </AutoCommit>
+    <NeedLevel>1 </NeedLevel>
+    <NeedAct>13 </NeedAct>
+    <CountType>2 </CountType>
+    <NeedParam>0 0 0 </NeedParam>
+    <CounterMax>30 </CounterMax>
+    <CounterUpdateType>0 </CounterUpdateType>
+    <Reward type="ItemReward">
+        <ItemID>31060011 </ItemID>
+        <ItemNum>1 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResSystemTaskDesc>
+<ResSystemTaskDesc version="1">
+    <ResID>16 </ResID>
+    <Icon>UITexture/system/renwu/T_ICON_renwu_07</Icon>
+    <Type>1 </Type>
+    <UISkipType>0 </UISkipType>
+    <AutoCommit>0 </AutoCommit>
+    <NeedLevel>1 </NeedLevel>
+    <NeedAct>13 </NeedAct>
+    <CountType>2 </CountType>
+    <NeedParam>0 0 0 </NeedParam>
+    <CounterMax>60 </CounterMax>
+    <CounterUpdateType>0 </CounterUpdateType>
+    <Reward type="ItemReward">
+        <ItemID>31060012 </ItemID>
+        <ItemNum>1 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResSystemTaskDesc>
+<ResSystemTaskDesc version="1">
+    <ResID>17 </ResID>
+    <Icon>UITexture/system/renwu/T_ICON_renwu_07</Icon>
+    <Type>1 </Type>
+    <UISkipType>0 </UISkipType>
+    <AutoCommit>0 </AutoCommit>
+    <NeedLevel>1 </NeedLevel>
+    <NeedAct>13 </NeedAct>
+    <CountType>2 </CountType>
+    <NeedParam>0 0 0 </NeedParam>
+    <CounterMax>90 </CounterMax>
+    <CounterUpdateType>0 </CounterUpdateType>
+    <Reward type="ItemReward">
+        <ItemID>31060013 </ItemID>
+        <ItemNum>1 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResSystemTaskDesc>
+<ResSystemTaskDesc version="1">
+    <ResID>18 </ResID>
+    <Icon>UITexture/system/renwu/T_ICON_renwu_07</Icon>
+    <Type>1 </Type>
+    <UISkipType>0 </UISkipType>
+    <AutoCommit>0 </AutoCommit>
+    <NeedLevel>1 </NeedLevel>
+    <NeedAct>13 </NeedAct>
+    <CountType>2 </CountType>
+    <NeedParam>0 0 0 </NeedParam>
+    <CounterMax>120 </CounterMax>
+    <CounterUpdateType>0 </CounterUpdateType>
+    <Reward type="ItemReward">
+        <ItemID>31060014 </ItemID>
+        <ItemNum>1 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResSystemTaskDesc>
+<ResSystemTaskDesc version="1">
+    <ResID>19 </ResID>
+    <Icon>UITexture/system/renwu/T_ICON_renwu_07</Icon>
+    <Type>1 </Type>
+    <UISkipType>0 </UISkipType>
+    <AutoCommit>0 </AutoCommit>
+    <NeedLevel>1 </NeedLevel>
+    <NeedAct>13 </NeedAct>
+    <CountType>2 </CountType>
+    <NeedParam>0 0 0 </NeedParam>
+    <CounterMax>150 </CounterMax>
+    <CounterUpdateType>0 </CounterUpdateType>
+    <Reward type="ItemReward">
+        <ItemID>31060015 </ItemID>
+        <ItemNum>1 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResSystemTaskDesc>
+<ResSystemTaskDesc version="1">
+    <ResID>20 </ResID>
+    <Icon>UITexture/system/renwu/T_ICON_renwu_07</Icon>
+    <Type>3 </Type>
+    <UISkipType>0 </UISkipType>
+    <AutoCommit>0 </AutoCommit>
+    <NeedLevel>1 </NeedLevel>
+    <NeedAct>14 </NeedAct>
+    <CountType>3 </CountType>
+    <NeedParam>0 0 0 </NeedParam>
+    <CounterMax>500 </CounterMax>
+    <CounterUpdateType>0 </CounterUpdateType>
+    <Reward type="ItemReward">
+        <ItemID>31060016 </ItemID>
+        <ItemNum>1 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResSystemTaskDesc>
+<ResSystemTaskDesc version="1">
+    <ResID>21 </ResID>
+    <Icon>UITexture/system/renwu/T_ICON_renwu_07</Icon>
+    <Type>3 </Type>
+    <UISkipType>0 </UISkipType>
+    <AutoCommit>0 </AutoCommit>
+    <NeedLevel>1 </NeedLevel>
+    <NeedAct>14 </NeedAct>
+    <CountType>3 </CountType>
+    <NeedParam>0 0 0 </NeedParam>
+    <CounterMax>1000 </CounterMax>
+    <CounterUpdateType>0 </CounterUpdateType>
+    <Reward type="ItemReward">
+        <ItemID>31060017 </ItemID>
+        <ItemNum>1 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResSystemTaskDesc>
+<ResSystemTaskDesc version="1">
+    <ResID>22 </ResID>
+    <Icon>UITexture/system/renwu/T_ICON_baiyin_new</Icon>
+    <Type>1 </Type>
+    <UISkipType>70 </UISkipType>
+    <AutoCommit>0 </AutoCommit>
+    <NeedLevel>1 </NeedLevel>
+    <NeedAct>112 </NeedAct>
+    <CountType>2 </CountType>
+    <NeedParam>0 0 0 </NeedParam>
+    <CounterMax>3 </CounterMax>
+    <CounterUpdateType>0 </CounterUpdateType>
+    <Reward type="ItemReward">
+        <ItemID>1 </ItemID>
+        <ItemNum>150 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>5 </ItemID>
+        <ItemNum>15 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResSystemTaskDesc>
+<ResSystemTaskDesc version="1">
+    <ResID>23 </ResID>
+    <Icon>UITexture/system/renwu/T_ICON_baiyin_new</Icon>
+    <Type>1 </Type>
+    <UISkipType>81 </UISkipType>
+    <AutoCommit>0 </AutoCommit>
+    <NeedLevel>1 </NeedLevel>
+    <NeedAct>53 </NeedAct>
+    <CountType>2 </CountType>
+    <NeedParam>0 0 0 </NeedParam>
+    <CounterMax>1 </CounterMax>
+    <CounterUpdateType>0 </CounterUpdateType>
+    <Reward type="ItemReward">
+        <ItemID>1 </ItemID>
+        <ItemNum>100 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>5 </ItemID>
+        <ItemNum>10 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResSystemTaskDesc>
+<ResSystemTaskDesc version="1">
+    <ResID>24 </ResID>
+    <Icon>UITexture/system/renwu/T_ICON_qintong_new</Icon>
+    <Type>1 </Type>
+    <UISkipType>70 </UISkipType>
+    <AutoCommit>0 </AutoCommit>
+    <NeedLevel>1 </NeedLevel>
+    <NeedAct>56 </NeedAct>
+    <CountType>2 </CountType>
+    <NeedParam>0 0 0 </NeedParam>
+    <CounterMax>3 </CounterMax>
+    <CounterUpdateType>0 </CounterUpdateType>
+    <Reward type="ItemReward">
+        <ItemID>1 </ItemID>
+        <ItemNum>200 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>5 </ItemID>
+        <ItemNum>15 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResSystemTaskDesc>
+<ResSystemTaskDesc version="1">
+    <ResID>25 </ResID>
+    <Icon>UITexture/system/renwu/T_ICON_qintong_new</Icon>
+    <Type>1 </Type>
+    <UISkipType>151 </UISkipType>
+    <AutoCommit>0 </AutoCommit>
+    <NeedLevel>1 </NeedLevel>
+    <NeedAct>54 </NeedAct>
+    <CountType>2 </CountType>
+    <NeedParam>0 0 0 </NeedParam>
+    <CounterMax>1 </CounterMax>
+    <CounterUpdateType>0 </CounterUpdateType>
+    <Reward type="ItemReward">
+        <ItemID>1 </ItemID>
+        <ItemNum>100 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>5 </ItemID>
+        <ItemNum>5 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResSystemTaskDesc>
+<ResSystemTaskDesc version="1">
+    <ResID>26 </ResID>
+    <Icon>UITexture/system/renwu/T_ICON_qintong_new</Icon>
+    <Type>1 </Type>
+    <UISkipType>0 </UISkipType>
+    <AutoCommit>0 </AutoCommit>
+    <NeedLevel>1 </NeedLevel>
+    <NeedAct>55 </NeedAct>
+    <CountType>2 </CountType>
+    <NeedParam>0 0 0 </NeedParam>
+    <CounterMax>1 </CounterMax>
+    <CounterUpdateType>0 </CounterUpdateType>
+    <Reward type="ItemReward">
+        <ItemID>1 </ItemID>
+        <ItemNum>100 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>5 </ItemID>
+        <ItemNum>5 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResSystemTaskDesc>
+<ResSystemTaskDesc version="1">
+    <ResID>27 </ResID>
+    <Icon>UITexture/system/renwu/T_ICON_baiyin_new</Icon>
+    <Type>1 </Type>
+    <UISkipType>105 </UISkipType>
+    <AutoCommit>0 </AutoCommit>
+    <NeedLevel>1 </NeedLevel>
+    <NeedAct>59 </NeedAct>
+    <CountType>2 </CountType>
+    <NeedParam>0 0 0 </NeedParam>
+    <CounterMax>1 </CounterMax>
+    <CounterUpdateType>0 </CounterUpdateType>
+    <Reward type="ItemReward">
+        <ItemID>1 </ItemID>
+        <ItemNum>100 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>5 </ItemID>
+        <ItemNum>10 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResSystemTaskDesc>
+<ResSystemTaskDesc version="1">
+    <ResID>50 </ResID>
+    <Icon></Icon>
+    <Type>2 </Type>
+    <UISkipType>70 </UISkipType>
+    <AutoCommit>0 </AutoCommit>
+    <NeedLevel>1 </NeedLevel>
+    <NeedAct>8 </NeedAct>
+    <CountType>4 </CountType>
+    <NeedParam>0 0 0 </NeedParam>
+    <CounterMax>1 </CounterMax>
+    <CounterUpdateType>0 </CounterUpdateType>
+    <Reward type="ItemReward">
+        <ItemID>3 </ItemID>
+        <ItemNum>1000 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResSystemTaskDesc>
+<ResSystemTaskDesc version="1">
+    <ResID>51 </ResID>
+    <Icon></Icon>
+    <Type>2 </Type>
+    <UISkipType>70 </UISkipType>
+    <AutoCommit>0 </AutoCommit>
+    <NeedLevel>2 </NeedLevel>
+    <NeedAct>103 </NeedAct>
+    <CountType>4 </CountType>
+    <NeedParam>1 0 0 </NeedParam>
+    <CounterMax>3 </CounterMax>
+    <CounterUpdateType>0 </CounterUpdateType>
+    <Reward type="ItemReward">
+        <ItemID>3 </ItemID>
+        <ItemNum>500 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResSystemTaskDesc>
+<ResSystemTaskDesc version="1">
+    <ResID>52 </ResID>
+    <Icon></Icon>
+    <Type>2 </Type>
+    <UISkipType>91 </UISkipType>
+    <AutoCommit>0 </AutoCommit>
+    <NeedLevel>3 </NeedLevel>
+    <NeedAct>28 </NeedAct>
+    <CountType>4 </CountType>
+    <NeedParam>0 0 0 </NeedParam>
+    <CounterMax>1 </CounterMax>
+    <CounterUpdateType>0 </CounterUpdateType>
+    <Reward type="ItemReward">
+        <ItemID>3 </ItemID>
+        <ItemNum>500 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResSystemTaskDesc>
+<ResSystemTaskDesc version="1">
+    <ResID>53 </ResID>
+    <Icon></Icon>
+    <Type>2 </Type>
+    <UISkipType>100 </UISkipType>
+    <AutoCommit>0 </AutoCommit>
+    <NeedLevel>4 </NeedLevel>
+    <NeedAct>108 </NeedAct>
+    <CountType>4 </CountType>
+    <NeedParam>0 0 0 </NeedParam>
+    <CounterMax>1 </CounterMax>
+    <CounterUpdateType>0 </CounterUpdateType>
+    <Reward type="ItemReward">
+        <ItemID>3 </ItemID>
+        <ItemNum>500 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResSystemTaskDesc>
+<ResSystemTaskDesc version="1">
+    <ResID>54 </ResID>
+    <Icon></Icon>
+    <Type>2 </Type>
+    <UISkipType>70 </UISkipType>
+    <AutoCommit>0 </AutoCommit>
+    <NeedLevel>4 </NeedLevel>
+    <NeedAct>3 </NeedAct>
+    <CountType>4 </CountType>
+    <NeedParam>0 0 0 </NeedParam>
+    <CounterMax>10 </CounterMax>
+    <CounterUpdateType>0 </CounterUpdateType>
+    <Reward type="ItemReward">
+        <ItemID>3 </ItemID>
+        <ItemNum>500 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResSystemTaskDesc>
+<ResSystemTaskDesc version="1">
+    <ResID>55 </ResID>
+    <Icon></Icon>
+    <Type>2 </Type>
+    <UISkipType>70 </UISkipType>
+    <AutoCommit>0 </AutoCommit>
+    <NeedLevel>5 </NeedLevel>
+    <NeedAct>103 </NeedAct>
+    <CountType>4 </CountType>
+    <NeedParam>2 0 0 </NeedParam>
+    <CounterMax>3 </CounterMax>
+    <CounterUpdateType>0 </CounterUpdateType>
+    <Reward type="ItemReward">
+        <ItemID>3 </ItemID>
+        <ItemNum>300 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResSystemTaskDesc>
+<ResSystemTaskDesc version="1">
+    <ResID>56 </ResID>
+    <Icon></Icon>
+    <Type>2 </Type>
+    <UISkipType>70 </UISkipType>
+    <AutoCommit>0 </AutoCommit>
+    <NeedLevel>5 </NeedLevel>
+    <NeedAct>10 </NeedAct>
+    <CountType>4 </CountType>
+    <NeedParam>0 0 0 </NeedParam>
+    <CounterMax>2 </CounterMax>
+    <CounterUpdateType>0 </CounterUpdateType>
+    <Reward type="ItemReward">
+        <ItemID>3 </ItemID>
+        <ItemNum>500 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResSystemTaskDesc>
+<ResSystemTaskDesc version="1">
+    <ResID>57 </ResID>
+    <Icon></Icon>
+    <Type>2 </Type>
+    <UISkipType>70 </UISkipType>
+    <AutoCommit>0 </AutoCommit>
+    <NeedLevel>6 </NeedLevel>
+    <NeedAct>103 </NeedAct>
+    <CountType>4 </CountType>
+    <NeedParam>3 0 0 </NeedParam>
+    <CounterMax>3 </CounterMax>
+    <CounterUpdateType>0 </CounterUpdateType>
+    <Reward type="ItemReward">
+        <ItemID>3 </ItemID>
+        <ItemNum>300 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResSystemTaskDesc>
+<ResSystemTaskDesc version="1">
+    <ResID>58 </ResID>
+    <Icon></Icon>
+    <Type>2 </Type>
+    <UISkipType>70 </UISkipType>
+    <AutoCommit>0 </AutoCommit>
+    <NeedLevel>6 </NeedLevel>
+    <NeedAct>9 </NeedAct>
+    <CountType>4 </CountType>
+    <NeedParam>0 0 0 </NeedParam>
+    <CounterMax>1 </CounterMax>
+    <CounterUpdateType>0 </CounterUpdateType>
+    <Reward type="ItemReward">
+        <ItemID>3 </ItemID>
+        <ItemNum>300 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResSystemTaskDesc>
+<ResSystemTaskDesc version="1">
+    <ResID>59 </ResID>
+    <Icon></Icon>
+    <Type>2 </Type>
+    <UISkipType>70 </UISkipType>
+    <AutoCommit>0 </AutoCommit>
+    <NeedLevel>7 </NeedLevel>
+    <NeedAct>12 </NeedAct>
+    <CountType>4 </CountType>
+    <NeedParam>0 0 0 </NeedParam>
+    <CounterMax>1 </CounterMax>
+    <CounterUpdateType>0 </CounterUpdateType>
+    <Reward type="ItemReward">
+        <ItemID>3 </ItemID>
+        <ItemNum>150 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResSystemTaskDesc>
+<ResSystemTaskDesc version="1">
+    <ResID>60 </ResID>
+    <Icon></Icon>
+    <Type>2 </Type>
+    <UISkipType>70 </UISkipType>
+    <AutoCommit>0 </AutoCommit>
+    <NeedLevel>8 </NeedLevel>
+    <NeedAct>102 </NeedAct>
+    <CountType>4 </CountType>
+    <NeedParam>0 0 0 </NeedParam>
+    <CounterMax>1 </CounterMax>
+    <CounterUpdateType>0 </CounterUpdateType>
+    <Reward type="ItemReward">
+        <ItemID>3 </ItemID>
+        <ItemNum>150 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResSystemTaskDesc>
+<ResSystemTaskDesc version="1">
+    <ResID>61 </ResID>
+    <Icon></Icon>
+    <Type>2 </Type>
+    <UISkipType>70 </UISkipType>
+    <AutoCommit>0 </AutoCommit>
+    <NeedLevel>8 </NeedLevel>
+    <NeedAct>112 </NeedAct>
+    <CountType>4 </CountType>
+    <NeedParam>0 0 0 </NeedParam>
+    <CounterMax>1 </CounterMax>
+    <CounterUpdateType>0 </CounterUpdateType>
+    <Reward type="ItemReward">
+        <ItemID>3 </ItemID>
+        <ItemNum>300 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResSystemTaskDesc>
+<ResSystemTaskDesc version="1">
+    <ResID>62 </ResID>
+    <Icon></Icon>
+    <Type>2 </Type>
+    <UISkipType>70 </UISkipType>
+    <AutoCommit>0 </AutoCommit>
+    <NeedLevel>9 </NeedLevel>
+    <NeedAct>114 </NeedAct>
+    <CountType>4 </CountType>
+    <NeedParam>0 0 0 </NeedParam>
+    <CounterMax>1 </CounterMax>
+    <CounterUpdateType>0 </CounterUpdateType>
+    <Reward type="ItemReward">
+        <ItemID>3 </ItemID>
+        <ItemNum>150 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResSystemTaskDesc>
+<ResSystemTaskDesc version="1">
+    <ResID>63 </ResID>
+    <Icon></Icon>
+    <Type>2 </Type>
+    <UISkipType>70 </UISkipType>
+    <AutoCommit>0 </AutoCommit>
+    <NeedLevel>10 </NeedLevel>
+    <NeedAct>113 </NeedAct>
+    <CountType>4 </CountType>
+    <NeedParam>0 0 0 </NeedParam>
+    <CounterMax>1 </CounterMax>
+    <CounterUpdateType>0 </CounterUpdateType>
+    <Reward type="ItemReward">
+        <ItemID>3 </ItemID>
+        <ItemNum>150 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResSystemTaskDesc>
+<ResSystemTaskDesc version="1">
+    <ResID>64 </ResID>
+    <Icon></Icon>
+    <Type>2 </Type>
+    <UISkipType>70 </UISkipType>
+    <AutoCommit>0 </AutoCommit>
+    <NeedLevel>11 </NeedLevel>
+    <NeedAct>61 </NeedAct>
+    <CountType>4 </CountType>
+    <NeedParam>0 0 0 </NeedParam>
+    <CounterMax>1 </CounterMax>
+    <CounterUpdateType>0 </CounterUpdateType>
+    <Reward type="ItemReward">
+        <ItemID>3 </ItemID>
+        <ItemNum>200 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResSystemTaskDesc>
+<ResSystemTaskDesc version="1">
+    <ResID>65 </ResID>
+    <Icon></Icon>
+    <Type>2 </Type>
+    <UISkipType>70 </UISkipType>
+    <AutoCommit>0 </AutoCommit>
+    <NeedLevel>12 </NeedLevel>
+    <NeedAct>62 </NeedAct>
+    <CountType>4 </CountType>
+    <NeedParam>0 0 0 </NeedParam>
+    <CounterMax>1 </CounterMax>
+    <CounterUpdateType>0 </CounterUpdateType>
+    <Reward type="ItemReward">
+        <ItemID>3 </ItemID>
+        <ItemNum>200 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResSystemTaskDesc>
+<ResSystemTaskDesc version="1">
+    <ResID>66 </ResID>
+    <Icon></Icon>
+    <Type>2 </Type>
+    <UISkipType>70 </UISkipType>
+    <AutoCommit>0 </AutoCommit>
+    <NeedLevel>13 </NeedLevel>
+    <NeedAct>102 </NeedAct>
+    <CountType>4 </CountType>
+    <NeedParam>0 0 0 </NeedParam>
+    <CounterMax>3 </CounterMax>
+    <CounterUpdateType>0 </CounterUpdateType>
+    <Reward type="ItemReward">
+        <ItemID>3 </ItemID>
+        <ItemNum>200 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResSystemTaskDesc>
+<ResSystemTaskDesc version="1">
+    <ResID>67 </ResID>
+    <Icon></Icon>
+    <Type>2 </Type>
+    <UISkipType>70 </UISkipType>
+    <AutoCommit>0 </AutoCommit>
+    <NeedLevel>14 </NeedLevel>
+    <NeedAct>103 </NeedAct>
+    <CountType>4 </CountType>
+    <NeedParam>1 0 0 </NeedParam>
+    <CounterMax>5 </CounterMax>
+    <CounterUpdateType>0 </CounterUpdateType>
+    <Reward type="ItemReward">
+        <ItemID>3 </ItemID>
+        <ItemNum>200 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResSystemTaskDesc>
+<ResSystemTaskDesc version="1">
+    <ResID>68 </ResID>
+    <Icon></Icon>
+    <Type>2 </Type>
+    <UISkipType>70 </UISkipType>
+    <AutoCommit>0 </AutoCommit>
+    <NeedLevel>14 </NeedLevel>
+    <NeedAct>105 </NeedAct>
+    <CountType>4 </CountType>
+    <NeedParam>20000108 0 0 </NeedParam>
+    <CounterMax>10 </CounterMax>
+    <CounterUpdateType>0 </CounterUpdateType>
+    <Reward type="ItemReward">
+        <ItemID>3 </ItemID>
+        <ItemNum>300 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResSystemTaskDesc>
+<ResSystemTaskDesc version="1">
+    <ResID>69 </ResID>
+    <Icon></Icon>
+    <Type>2 </Type>
+    <UISkipType>70 </UISkipType>
+    <AutoCommit>0 </AutoCommit>
+    <NeedLevel>15 </NeedLevel>
+    <NeedAct>103 </NeedAct>
+    <CountType>4 </CountType>
+    <NeedParam>2 0 0 </NeedParam>
+    <CounterMax>5 </CounterMax>
+    <CounterUpdateType>0 </CounterUpdateType>
+    <Reward type="ItemReward">
+        <ItemID>3 </ItemID>
+        <ItemNum>200 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResSystemTaskDesc>
+<ResSystemTaskDesc version="1">
+    <ResID>70 </ResID>
+    <Icon></Icon>
+    <Type>2 </Type>
+    <UISkipType>70 </UISkipType>
+    <AutoCommit>0 </AutoCommit>
+    <NeedLevel>15 </NeedLevel>
+    <NeedAct>105 </NeedAct>
+    <CountType>4 </CountType>
+    <NeedParam>20000210 0 0 </NeedParam>
+    <CounterMax>10 </CounterMax>
+    <CounterUpdateType>0 </CounterUpdateType>
+    <Reward type="ItemReward">
+        <ItemID>3 </ItemID>
+        <ItemNum>300 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResSystemTaskDesc>
+<ResSystemTaskDesc version="1">
+    <ResID>71 </ResID>
+    <Icon></Icon>
+    <Type>2 </Type>
+    <UISkipType>70 </UISkipType>
+    <AutoCommit>0 </AutoCommit>
+    <NeedLevel>16 </NeedLevel>
+    <NeedAct>103 </NeedAct>
+    <CountType>4 </CountType>
+    <NeedParam>3 0 0 </NeedParam>
+    <CounterMax>5 </CounterMax>
+    <CounterUpdateType>0 </CounterUpdateType>
+    <Reward type="ItemReward">
+        <ItemID>3 </ItemID>
+        <ItemNum>200 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResSystemTaskDesc>
+<ResSystemTaskDesc version="1">
+    <ResID>72 </ResID>
+    <Icon></Icon>
+    <Type>2 </Type>
+    <UISkipType>70 </UISkipType>
+    <AutoCommit>0 </AutoCommit>
+    <NeedLevel>16 </NeedLevel>
+    <NeedAct>105 </NeedAct>
+    <CountType>4 </CountType>
+    <NeedParam>20000309 0 0 </NeedParam>
+    <CounterMax>10 </CounterMax>
+    <CounterUpdateType>0 </CounterUpdateType>
+    <Reward type="ItemReward">
+        <ItemID>3 </ItemID>
+        <ItemNum>300 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResSystemTaskDesc>
+<ResSystemTaskDesc version="1">
+    <ResID>73 </ResID>
+    <Icon></Icon>
+    <Type>2 </Type>
+    <UISkipType>70 </UISkipType>
+    <AutoCommit>0 </AutoCommit>
+    <NeedLevel>17 </NeedLevel>
+    <NeedAct>103 </NeedAct>
+    <CountType>4 </CountType>
+    <NeedParam>4 0 0 </NeedParam>
+    <CounterMax>5 </CounterMax>
+    <CounterUpdateType>0 </CounterUpdateType>
+    <Reward type="ItemReward">
+        <ItemID>3 </ItemID>
+        <ItemNum>200 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResSystemTaskDesc>
+<ResSystemTaskDesc version="1">
+    <ResID>74 </ResID>
+    <Icon></Icon>
+    <Type>2 </Type>
+    <UISkipType>70 </UISkipType>
+    <AutoCommit>0 </AutoCommit>
+    <NeedLevel>17 </NeedLevel>
+    <NeedAct>105 </NeedAct>
+    <CountType>4 </CountType>
+    <NeedParam>20000410 0 0 </NeedParam>
+    <CounterMax>10 </CounterMax>
+    <CounterUpdateType>0 </CounterUpdateType>
+    <Reward type="ItemReward">
+        <ItemID>3 </ItemID>
+        <ItemNum>300 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResSystemTaskDesc>
+<ResSystemTaskDesc version="1">
+    <ResID>75 </ResID>
+    <Icon></Icon>
+    <Type>2 </Type>
+    <UISkipType>70 </UISkipType>
+    <AutoCommit>0 </AutoCommit>
+    <NeedLevel>18 </NeedLevel>
+    <NeedAct>3 </NeedAct>
+    <CountType>4 </CountType>
+    <NeedParam>0 0 0 </NeedParam>
+    <CounterMax>30 </CounterMax>
+    <CounterUpdateType>0 </CounterUpdateType>
+    <Reward type="ItemReward">
+        <ItemID>3 </ItemID>
+        <ItemNum>200 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResSystemTaskDesc>
+<ResSystemTaskDesc version="1">
+    <ResID>76 </ResID>
+    <Icon></Icon>
+    <Type>2 </Type>
+    <UISkipType>70 </UISkipType>
+    <AutoCommit>0 </AutoCommit>
+    <NeedLevel>19 </NeedLevel>
+    <NeedAct>10 </NeedAct>
+    <CountType>4 </CountType>
+    <NeedParam>0 0 0 </NeedParam>
+    <CounterMax>3 </CounterMax>
+    <CounterUpdateType>0 </CounterUpdateType>
+    <Reward type="ItemReward">
+        <ItemID>3 </ItemID>
+        <ItemNum>200 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResSystemTaskDesc>
+<ResSystemTaskDesc version="1">
+    <ResID>77 </ResID>
+    <Icon></Icon>
+    <Type>2 </Type>
+    <UISkipType>70 </UISkipType>
+    <AutoCommit>0 </AutoCommit>
+    <NeedLevel>20 </NeedLevel>
+    <NeedAct>9 </NeedAct>
+    <CountType>4 </CountType>
+    <NeedParam>0 0 0 </NeedParam>
+    <CounterMax>3 </CounterMax>
+    <CounterUpdateType>0 </CounterUpdateType>
+    <Reward type="ItemReward">
+        <ItemID>3 </ItemID>
+        <ItemNum>200 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResSystemTaskDesc>
+<ResSystemTaskDesc version="1">
+    <ResID>78 </ResID>
+    <Icon></Icon>
+    <Type>2 </Type>
+    <UISkipType>70 </UISkipType>
+    <AutoCommit>0 </AutoCommit>
+    <NeedLevel>21 </NeedLevel>
+    <NeedAct>12 </NeedAct>
+    <CountType>4 </CountType>
+    <NeedParam>0 0 0 </NeedParam>
+    <CounterMax>5 </CounterMax>
+    <CounterUpdateType>0 </CounterUpdateType>
+    <Reward type="ItemReward">
+        <ItemID>3 </ItemID>
+        <ItemNum>200 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResSystemTaskDesc>
+<ResSystemTaskDesc version="1">
+    <ResID>79 </ResID>
+    <Icon></Icon>
+    <Type>2 </Type>
+    <UISkipType>70 </UISkipType>
+    <AutoCommit>0 </AutoCommit>
+    <NeedLevel>22 </NeedLevel>
+    <NeedAct>112 </NeedAct>
+    <CountType>4 </CountType>
+    <NeedParam>0 0 0 </NeedParam>
+    <CounterMax>5 </CounterMax>
+    <CounterUpdateType>0 </CounterUpdateType>
+    <Reward type="ItemReward">
+        <ItemID>3 </ItemID>
+        <ItemNum>200 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResSystemTaskDesc>
+<ResSystemTaskDesc version="1">
+    <ResID>80 </ResID>
+    <Icon></Icon>
+    <Type>2 </Type>
+    <UISkipType>70 </UISkipType>
+    <AutoCommit>0 </AutoCommit>
+    <NeedLevel>23 </NeedLevel>
+    <NeedAct>114 </NeedAct>
+    <CountType>4 </CountType>
+    <NeedParam>0 0 0 </NeedParam>
+    <CounterMax>5 </CounterMax>
+    <CounterUpdateType>0 </CounterUpdateType>
+    <Reward type="ItemReward">
+        <ItemID>3 </ItemID>
+        <ItemNum>200 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResSystemTaskDesc>
+<ResSystemTaskDesc version="1">
+    <ResID>81 </ResID>
+    <Icon></Icon>
+    <Type>2 </Type>
+    <UISkipType>70 </UISkipType>
+    <AutoCommit>0 </AutoCommit>
+    <NeedLevel>24 </NeedLevel>
+    <NeedAct>113 </NeedAct>
+    <CountType>4 </CountType>
+    <NeedParam>0 0 0 </NeedParam>
+    <CounterMax>5 </CounterMax>
+    <CounterUpdateType>0 </CounterUpdateType>
+    <Reward type="ItemReward">
+        <ItemID>3 </ItemID>
+        <ItemNum>200 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResSystemTaskDesc>
+<ResSystemTaskDesc version="1">
+    <ResID>82 </ResID>
+    <Icon></Icon>
+    <Type>2 </Type>
+    <UISkipType>70 </UISkipType>
+    <AutoCommit>0 </AutoCommit>
+    <NeedLevel>25 </NeedLevel>
+    <NeedAct>61 </NeedAct>
+    <CountType>4 </CountType>
+    <NeedParam>0 0 0 </NeedParam>
+    <CounterMax>5 </CounterMax>
+    <CounterUpdateType>0 </CounterUpdateType>
+    <Reward type="ItemReward">
+        <ItemID>3 </ItemID>
+        <ItemNum>200 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResSystemTaskDesc>
+<ResSystemTaskDesc version="1">
+    <ResID>83 </ResID>
+    <Icon></Icon>
+    <Type>2 </Type>
+    <UISkipType>70 </UISkipType>
+    <AutoCommit>0 </AutoCommit>
+    <NeedLevel>26 </NeedLevel>
+    <NeedAct>62 </NeedAct>
+    <CountType>4 </CountType>
+    <NeedParam>0 0 0 </NeedParam>
+    <CounterMax>5 </CounterMax>
+    <CounterUpdateType>0 </CounterUpdateType>
+    <Reward type="ItemReward">
+        <ItemID>3 </ItemID>
+        <ItemNum>200 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResSystemTaskDesc>
+<ResSystemTaskDesc version="1">
+    <ResID>84 </ResID>
+    <Icon></Icon>
+    <Type>2 </Type>
+    <UISkipType>70 </UISkipType>
+    <AutoCommit>0 </AutoCommit>
+    <NeedLevel>27 </NeedLevel>
+    <NeedAct>6 </NeedAct>
+    <CountType>4 </CountType>
+    <NeedParam>0 0 0 </NeedParam>
+    <CounterMax>3 </CounterMax>
+    <CounterUpdateType>0 </CounterUpdateType>
+    <Reward type="ItemReward">
+        <ItemID>3 </ItemID>
+        <ItemNum>500 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResSystemTaskDesc>
+<ResSystemTaskDesc version="1">
+    <ResID>85 </ResID>
+    <Icon></Icon>
+    <Type>2 </Type>
+    <UISkipType>81 </UISkipType>
+    <AutoCommit>0 </AutoCommit>
+    <NeedLevel>28 </NeedLevel>
+    <NeedAct>5 </NeedAct>
+    <CountType>4 </CountType>
+    <NeedParam>0 0 0 </NeedParam>
+    <CounterMax>3 </CounterMax>
+    <CounterUpdateType>0 </CounterUpdateType>
+    <Reward type="ItemReward">
+        <ItemID>3 </ItemID>
+        <ItemNum>500 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResSystemTaskDesc>
+<ResSystemTaskDesc version="1">
+    <ResID>86 </ResID>
+    <Icon></Icon>
+    <Type>2 </Type>
+    <UISkipType>70 </UISkipType>
+    <AutoCommit>0 </AutoCommit>
+    <NeedLevel>29 </NeedLevel>
+    <NeedAct>102 </NeedAct>
+    <CountType>4 </CountType>
+    <NeedParam>0 0 0 </NeedParam>
+    <CounterMax>5 </CounterMax>
+    <CounterUpdateType>0 </CounterUpdateType>
+    <Reward type="ItemReward">
+        <ItemID>3 </ItemID>
+        <ItemNum>500 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResSystemTaskDesc>
+<ResSystemTaskDesc version="1">
+    <ResID>87 </ResID>
+    <Icon></Icon>
+    <Type>2 </Type>
+    <UISkipType>81 </UISkipType>
+    <AutoCommit>0 </AutoCommit>
+    <NeedLevel>30 </NeedLevel>
+    <NeedAct>118 </NeedAct>
+    <CountType>4 </CountType>
+    <NeedParam>0 0 0 </NeedParam>
+    <CounterMax>15 </CounterMax>
+    <CounterUpdateType>1 </CounterUpdateType>
+    <Reward type="ItemReward">
+        <ItemID>3 </ItemID>
+        <ItemNum>1000 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResSystemTaskDesc>
+<ResSystemTaskDesc version="1">
+    <ResID>101 </ResID>
+    <Icon></Icon>
+    <Type>4 </Type>
+    <UISkipType>0 </UISkipType>
+    <AutoCommit>0 </AutoCommit>
+    <NeedLevel>1 </NeedLevel>
+    <NeedAct>19 </NeedAct>
+    <CountType>4 </CountType>
+    <NeedParam>0 0 0 </NeedParam>
+    <CounterMax>1 </CounterMax>
+    <CounterUpdateType>0 </CounterUpdateType>
+    <Reward type="ItemReward">
+        <ItemID>1 </ItemID>
+        <ItemNum>100 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>3 </ItemID>
+        <ItemNum>100 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>8 </ItemID>
+        <ItemNum>200 </ItemNum>
+    </Reward>
+</ResSystemTaskDesc>
+<ResSystemTaskDesc version="1">
+    <ResID>301 </ResID>
+    <Icon></Icon>
+    <Type>6 </Type>
+    <UISkipType>0 </UISkipType>
+    <AutoCommit>1 </AutoCommit>
+    <NeedLevel>0 </NeedLevel>
+    <NeedAct>12 </NeedAct>
+    <CountType>4 </CountType>
+    <NeedParam>1 0 0 </NeedParam>
+    <CounterMax>1 </CounterMax>
+    <CounterUpdateType>0 </CounterUpdateType>
+    <Reward type="ItemReward">
+        <ItemID>31030005 </ItemID>
+        <ItemNum>1 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResSystemTaskDesc>
+<ResSystemTaskDesc version="1">
+    <ResID>302 </ResID>
+    <Icon></Icon>
+    <Type>6 </Type>
+    <UISkipType>0 </UISkipType>
+    <AutoCommit>1 </AutoCommit>
+    <NeedLevel>0 </NeedLevel>
+    <NeedAct>57 </NeedAct>
+    <CountType>4 </CountType>
+    <NeedParam>0 0 0 </NeedParam>
+    <CounterMax>4 </CounterMax>
+    <CounterUpdateType>0 </CounterUpdateType>
+    <Reward type="ItemReward">
+        <ItemID>31030006 </ItemID>
+        <ItemNum>1 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResSystemTaskDesc>
+<ResSystemTaskDesc version="1">
+    <ResID>303 </ResID>
+    <Icon></Icon>
+    <Type>6 </Type>
+    <UISkipType>0 </UISkipType>
+    <AutoCommit>1 </AutoCommit>
+    <NeedLevel>0 </NeedLevel>
+    <NeedAct>106 </NeedAct>
+    <CountType>4 </CountType>
+    <NeedParam>2 0 0 </NeedParam>
+    <CounterMax>7 </CounterMax>
+    <CounterUpdateType>1 </CounterUpdateType>
+    <Reward type="ItemReward">
+        <ItemID>31030007 </ItemID>
+        <ItemNum>1 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResSystemTaskDesc>
+<ResSystemTaskDesc version="1">
+    <ResID>304 </ResID>
+    <Icon></Icon>
+    <Type>6 </Type>
+    <UISkipType>0 </UISkipType>
+    <AutoCommit>1 </AutoCommit>
+    <NeedLevel>0 </NeedLevel>
+    <NeedAct>101 </NeedAct>
+    <CountType>4 </CountType>
+    <NeedParam>0 0 0 </NeedParam>
+    <CounterMax>30 </CounterMax>
+    <CounterUpdateType>1 </CounterUpdateType>
+    <Reward type="ItemReward">
+        <ItemID>31030009 </ItemID>
+        <ItemNum>1 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResSystemTaskDesc>
+<ResSystemTaskDesc version="1">
+    <ResID>305 </ResID>
+    <Icon></Icon>
+    <Type>6 </Type>
+    <UISkipType>0 </UISkipType>
+    <AutoCommit>1 </AutoCommit>
+    <NeedLevel>0 </NeedLevel>
+    <NeedAct>58 </NeedAct>
+    <CountType>4 </CountType>
+    <NeedParam>0 0 0 </NeedParam>
+    <CounterMax>1 </CounterMax>
+    <CounterUpdateType>0 </CounterUpdateType>
+    <Reward type="ItemReward">
+        <ItemID>31030010 </ItemID>
+        <ItemNum>1 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResSystemTaskDesc>
+<ResSystemTaskDesc version="1">
+    <ResID>306 </ResID>
+    <Icon></Icon>
+    <Type>6 </Type>
+    <UISkipType>0 </UISkipType>
+    <AutoCommit>1 </AutoCommit>
+    <NeedLevel>0 </NeedLevel>
+    <NeedAct>101 </NeedAct>
+    <CountType>4 </CountType>
+    <NeedParam>0 0 0 </NeedParam>
+    <CounterMax>10 </CounterMax>
+    <CounterUpdateType>1 </CounterUpdateType>
+    <Reward type="ItemReward">
+        <ItemID>31030011 </ItemID>
+        <ItemNum>1 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResSystemTaskDesc>
+<ResSystemTaskDesc version="1">
+    <ResID>307 </ResID>
+    <Icon></Icon>
+    <Type>6 </Type>
+    <UISkipType>0 </UISkipType>
+    <AutoCommit>1 </AutoCommit>
+    <NeedLevel>0 </NeedLevel>
+    <NeedAct>101 </NeedAct>
+    <CountType>4 </CountType>
+    <NeedParam>0 0 0 </NeedParam>
+    <CounterMax>5 </CounterMax>
+    <CounterUpdateType>1 </CounterUpdateType>
+    <Reward type="ItemReward">
+        <ItemID>31030013 </ItemID>
+        <ItemNum>1 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResSystemTaskDesc>
+<ResSystemTaskDesc version="1">
+    <ResID>308 </ResID>
+    <Icon></Icon>
+    <Type>6 </Type>
+    <UISkipType>0 </UISkipType>
+    <AutoCommit>1 </AutoCommit>
+    <NeedLevel>0 </NeedLevel>
+    <NeedAct>60 </NeedAct>
+    <CountType>4 </CountType>
+    <NeedParam>0 0 0 </NeedParam>
+    <CounterMax>10 </CounterMax>
+    <CounterUpdateType>0 </CounterUpdateType>
+    <Reward type="ItemReward">
+        <ItemID>31030014 </ItemID>
+        <ItemNum>1 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResSystemTaskDesc>
+<ResSystemTaskDesc version="1">
+    <ResID>309 </ResID>
+    <Icon></Icon>
+    <Type>6 </Type>
+    <UISkipType>0 </UISkipType>
+    <AutoCommit>1 </AutoCommit>
+    <NeedLevel>0 </NeedLevel>
+    <NeedAct>101 </NeedAct>
+    <CountType>4 </CountType>
+    <NeedParam>0 0 0 </NeedParam>
+    <CounterMax>15 </CounterMax>
+    <CounterUpdateType>1 </CounterUpdateType>
+    <Reward type="ItemReward">
+        <ItemID>31030015 </ItemID>
+        <ItemNum>1 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResSystemTaskDesc>
+<ResSystemTaskDesc version="1">
+    <ResID>310 </ResID>
+    <Icon></Icon>
+    <Type>6 </Type>
+    <UISkipType>0 </UISkipType>
+    <AutoCommit>1 </AutoCommit>
+    <NeedLevel>0 </NeedLevel>
+    <NeedAct>101 </NeedAct>
+    <CountType>4 </CountType>
+    <NeedParam>0 0 0 </NeedParam>
+    <CounterMax>25 </CounterMax>
+    <CounterUpdateType>1 </CounterUpdateType>
+    <Reward type="ItemReward">
+        <ItemID>31030017 </ItemID>
+        <ItemNum>1 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResSystemTaskDesc>
+<ResSystemTaskDesc version="1">
+    <ResID>311 </ResID>
+    <Icon></Icon>
+    <Type>6 </Type>
+    <UISkipType>0 </UISkipType>
+    <AutoCommit>1 </AutoCommit>
+    <NeedLevel>0 </NeedLevel>
+    <NeedAct>59 </NeedAct>
+    <CountType>4 </CountType>
+    <NeedParam>0 0 0 </NeedParam>
+    <CounterMax>10 </CounterMax>
+    <CounterUpdateType>0 </CounterUpdateType>
+    <Reward type="ItemReward">
+        <ItemID>31030018 </ItemID>
+        <ItemNum>1 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResSystemTaskDesc>
+<ResSystemTaskDesc version="1">
+    <ResID>312 </ResID>
+    <Icon></Icon>
+    <Type>6 </Type>
+    <UISkipType>0 </UISkipType>
+    <AutoCommit>1 </AutoCommit>
+    <NeedLevel>0 </NeedLevel>
+    <NeedAct>101 </NeedAct>
+    <CountType>4 </CountType>
+    <NeedParam>0 0 0 </NeedParam>
+    <CounterMax>20 </CounterMax>
+    <CounterUpdateType>1 </CounterUpdateType>
+    <Reward type="ItemReward">
+        <ItemID>31030019 </ItemID>
+        <ItemNum>1 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResSystemTaskDesc>
+<ResSystemTaskDesc version="1">
+    <ResID>400 </ResID>
+    <Icon></Icon>
+    <Type>4 </Type>
+    <UISkipType>0 </UISkipType>
+    <AutoCommit>0 </AutoCommit>
+    <NeedLevel>1 </NeedLevel>
+    <NeedAct>51 </NeedAct>
+    <CountType>4 </CountType>
+    <NeedParam>0 0 0 </NeedParam>
+    <CounterMax>1 </CounterMax>
+    <CounterUpdateType>0 </CounterUpdateType>
+    <Reward type="ItemReward">
+        <ItemID>3 </ItemID>
+        <ItemNum>100 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResSystemTaskDesc>
+<ResSystemTaskDesc version="1">
+    <ResID>401 </ResID>
+    <Icon></Icon>
+    <Type>4 </Type>
+    <UISkipType>0 </UISkipType>
+    <AutoCommit>0 </AutoCommit>
+    <NeedLevel>1 </NeedLevel>
+    <NeedAct>51 </NeedAct>
+    <CountType>4 </CountType>
+    <NeedParam>0 0 0 </NeedParam>
+    <CounterMax>1 </CounterMax>
+    <CounterUpdateType>0 </CounterUpdateType>
+    <Reward type="ItemReward">
+        <ItemID>3 </ItemID>
+        <ItemNum>100 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResSystemTaskDesc>
+<ResSystemTaskDesc version="1">
+    <ResID>402 </ResID>
+    <Icon></Icon>
+    <Type>4 </Type>
+    <UISkipType>0 </UISkipType>
+    <AutoCommit>0 </AutoCommit>
+    <NeedLevel>1 </NeedLevel>
+    <NeedAct>51 </NeedAct>
+    <CountType>4 </CountType>
+    <NeedParam>0 0 0 </NeedParam>
+    <CounterMax>1 </CounterMax>
+    <CounterUpdateType>0 </CounterUpdateType>
+    <Reward type="ItemReward">
+        <ItemID>3 </ItemID>
+        <ItemNum>100 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResSystemTaskDesc>
+<ResSystemTaskDesc version="1">
+    <ResID>403 </ResID>
+    <Icon></Icon>
+    <Type>4 </Type>
+    <UISkipType>0 </UISkipType>
+    <AutoCommit>0 </AutoCommit>
+    <NeedLevel>1 </NeedLevel>
+    <NeedAct>51 </NeedAct>
+    <CountType>4 </CountType>
+    <NeedParam>0 0 0 </NeedParam>
+    <CounterMax>1 </CounterMax>
+    <CounterUpdateType>0 </CounterUpdateType>
+    <Reward type="ItemReward">
+        <ItemID>3 </ItemID>
+        <ItemNum>100 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResSystemTaskDesc>
+<ResSystemTaskDesc version="1">
+    <ResID>404 </ResID>
+    <Icon></Icon>
+    <Type>4 </Type>
+    <UISkipType>0 </UISkipType>
+    <AutoCommit>0 </AutoCommit>
+    <NeedLevel>1 </NeedLevel>
+    <NeedAct>51 </NeedAct>
+    <CountType>4 </CountType>
+    <NeedParam>0 0 0 </NeedParam>
+    <CounterMax>1 </CounterMax>
+    <CounterUpdateType>0 </CounterUpdateType>
+    <Reward type="ItemReward">
+        <ItemID>3 </ItemID>
+        <ItemNum>100 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResSystemTaskDesc>
+<ResSystemTaskDesc version="1">
+    <ResID>405 </ResID>
+    <Icon></Icon>
+    <Type>4 </Type>
+    <UISkipType>0 </UISkipType>
+    <AutoCommit>0 </AutoCommit>
+    <NeedLevel>1 </NeedLevel>
+    <NeedAct>51 </NeedAct>
+    <CountType>4 </CountType>
+    <NeedParam>0 0 0 </NeedParam>
+    <CounterMax>1 </CounterMax>
+    <CounterUpdateType>0 </CounterUpdateType>
+    <Reward type="ItemReward">
+        <ItemID>3 </ItemID>
+        <ItemNum>100 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResSystemTaskDesc>
+<ResSystemTaskDesc version="1">
+    <ResID>406 </ResID>
+    <Icon></Icon>
+    <Type>4 </Type>
+    <UISkipType>0 </UISkipType>
+    <AutoCommit>0 </AutoCommit>
+    <NeedLevel>1 </NeedLevel>
+    <NeedAct>51 </NeedAct>
+    <CountType>4 </CountType>
+    <NeedParam>0 0 0 </NeedParam>
+    <CounterMax>1 </CounterMax>
+    <CounterUpdateType>0 </CounterUpdateType>
+    <Reward type="ItemReward">
+        <ItemID>3 </ItemID>
+        <ItemNum>100 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResSystemTaskDesc>
+<ResSystemTaskDesc version="1">
+    <ResID>407 </ResID>
+    <Icon></Icon>
+    <Type>4 </Type>
+    <UISkipType>0 </UISkipType>
+    <AutoCommit>0 </AutoCommit>
+    <NeedLevel>1 </NeedLevel>
+    <NeedAct>51 </NeedAct>
+    <CountType>4 </CountType>
+    <NeedParam>0 0 0 </NeedParam>
+    <CounterMax>1 </CounterMax>
+    <CounterUpdateType>0 </CounterUpdateType>
+    <Reward type="ItemReward">
+        <ItemID>3 </ItemID>
+        <ItemNum>300 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResSystemTaskDesc>
+<ResSystemTaskDesc version="1">
+    <ResID>408 </ResID>
+    <Icon></Icon>
+    <Type>4 </Type>
+    <UISkipType>0 </UISkipType>
+    <AutoCommit>0 </AutoCommit>
+    <NeedLevel>1 </NeedLevel>
+    <NeedAct>51 </NeedAct>
+    <CountType>4 </CountType>
+    <NeedParam>0 0 0 </NeedParam>
+    <CounterMax>1 </CounterMax>
+    <CounterUpdateType>0 </CounterUpdateType>
+    <Reward type="ItemReward">
+        <ItemID>3 </ItemID>
+        <ItemNum>100 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResSystemTaskDesc>
+<ResSystemTaskDesc version="1">
+    <ResID>409 </ResID>
+    <Icon></Icon>
+    <Type>4 </Type>
+    <UISkipType>0 </UISkipType>
+    <AutoCommit>0 </AutoCommit>
+    <NeedLevel>1 </NeedLevel>
+    <NeedAct>51 </NeedAct>
+    <CountType>4 </CountType>
+    <NeedParam>0 0 0 </NeedParam>
+    <CounterMax>1 </CounterMax>
+    <CounterUpdateType>0 </CounterUpdateType>
+    <Reward type="ItemReward">
+        <ItemID>3 </ItemID>
+        <ItemNum>100 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResSystemTaskDesc>
+<ResSystemTaskDesc version="1">
+    <ResID>410 </ResID>
+    <Icon></Icon>
+    <Type>4 </Type>
+    <UISkipType>0 </UISkipType>
+    <AutoCommit>0 </AutoCommit>
+    <NeedLevel>1 </NeedLevel>
+    <NeedAct>51 </NeedAct>
+    <CountType>4 </CountType>
+    <NeedParam>0 0 0 </NeedParam>
+    <CounterMax>1 </CounterMax>
+    <CounterUpdateType>0 </CounterUpdateType>
+    <Reward type="ItemReward">
+        <ItemID>3 </ItemID>
+        <ItemNum>200 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResSystemTaskDesc>
+<ResSystemTaskDesc version="1">
+    <ResID>411 </ResID>
+    <Icon></Icon>
+    <Type>4 </Type>
+    <UISkipType>0 </UISkipType>
+    <AutoCommit>0 </AutoCommit>
+    <NeedLevel>1 </NeedLevel>
+    <NeedAct>51 </NeedAct>
+    <CountType>4 </CountType>
+    <NeedParam>0 0 0 </NeedParam>
+    <CounterMax>1 </CounterMax>
+    <CounterUpdateType>0 </CounterUpdateType>
+    <Reward type="ItemReward">
+        <ItemID>3 </ItemID>
+        <ItemNum>100 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResSystemTaskDesc>
+<ResSystemTaskDesc version="1">
+    <ResID>412 </ResID>
+    <Icon></Icon>
+    <Type>4 </Type>
+    <UISkipType>0 </UISkipType>
+    <AutoCommit>0 </AutoCommit>
+    <NeedLevel>1 </NeedLevel>
+    <NeedAct>51 </NeedAct>
+    <CountType>4 </CountType>
+    <NeedParam>0 0 0 </NeedParam>
+    <CounterMax>1 </CounterMax>
+    <CounterUpdateType>0 </CounterUpdateType>
+    <Reward type="ItemReward">
+        <ItemID>3 </ItemID>
+        <ItemNum>100 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResSystemTaskDesc>
+<ResSystemTaskDesc version="1">
+    <ResID>413 </ResID>
+    <Icon></Icon>
+    <Type>4 </Type>
+    <UISkipType>0 </UISkipType>
+    <AutoCommit>0 </AutoCommit>
+    <NeedLevel>1 </NeedLevel>
+    <NeedAct>52 </NeedAct>
+    <CountType>4 </CountType>
+    <NeedParam>0 0 0 </NeedParam>
+    <CounterMax>1 </CounterMax>
+    <CounterUpdateType>0 </CounterUpdateType>
+    <Reward type="ItemReward">
+        <ItemID>31142032 </ItemID>
+        <ItemNum>1 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+    <Reward type="ItemReward">
+        <ItemID>0 </ItemID>
+        <ItemNum>0 </ItemNum>
+    </Reward>
+</ResSystemTaskDesc>
+</ResSystemTaskDesc_Tab>

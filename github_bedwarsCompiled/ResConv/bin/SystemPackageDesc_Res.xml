@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<ResSystemPackageDesc_Tab>
+<TResHeadAll version="5">
+    <resHead type="TResHead">
+        <Magic>1397052237 </Magic>
+        <Version>6 </Version>
+        <Unit>101 </Unit>
+        <Count>19 </Count>
+        <MetalibHash>531d5b4a397ad5b3c0fbfb5cc8059e55</MetalibHash>
+        <ResVersion>0 </ResVersion>
+        <CreateTime>2023-04-19 20:42:35</CreateTime>
+        <ResEncording>UTF-8</ResEncording>
+        <ContentHash>8782086eb6fc1e424a51975a919e03aa</ContentHash>
+    </resHead>
+    <resHeadExt type="TResHeadExt">
+        <DataOffset>136 </DataOffset>
+    </resHeadExt>
+</TResHeadAll>
+<ResSystemPackageDesc version="1">
+    <ID>31060001 </ID>
+    <Name>礼包</Name>
+    <UseType>0 </UseType>
+    <ItemGroupDesc type="ResSystemItemRandomDesc">
+        <GroupID>1 </GroupID>
+        <RandomType>0 </RandomType>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemItemRandomDesc">
+        <GroupID>0 </GroupID>
+        <RandomType>0 </RandomType>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemItemRandomDesc">
+        <GroupID>0 </GroupID>
+        <RandomType>0 </RandomType>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemItemRandomDesc">
+        <GroupID>0 </GroupID>
+        <RandomType>0 </RandomType>
+    </ItemGroupDesc>
+</ResSystemPackageDesc>
+<ResSystemPackageDesc version="1">
+    <ID>31060002 </ID>
+    <Name>test礼包固定道具</Name>
+    <UseType>0 </UseType>
+    <ItemGroupDesc type="ResSystemItemRandomDesc">
+        <GroupID>16 </GroupID>
+        <RandomType>1 </RandomType>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemItemRandomDesc">
+        <GroupID>0 </GroupID>
+        <RandomType>0 </RandomType>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemItemRandomDesc">
+        <GroupID>0 </GroupID>
+        <RandomType>0 </RandomType>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemItemRandomDesc">
+        <GroupID>0 </GroupID>
+        <RandomType>0 </RandomType>
+    </ItemGroupDesc>
+</ResSystemPackageDesc>
+<ResSystemPackageDesc version="1">
+    <ID>31060003 </ID>
+    <Name>test礼包随机道具</Name>
+    <UseType>0 </UseType>
+    <ItemGroupDesc type="ResSystemItemRandomDesc">
+        <GroupID>17 </GroupID>
+        <RandomType>0 </RandomType>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemItemRandomDesc">
+        <GroupID>0 </GroupID>
+        <RandomType>0 </RandomType>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemItemRandomDesc">
+        <GroupID>0 </GroupID>
+        <RandomType>0 </RandomType>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemItemRandomDesc">
+        <GroupID>0 </GroupID>
+        <RandomType>0 </RandomType>
+    </ItemGroupDesc>
+</ResSystemPackageDesc>
+<ResSystemPackageDesc version="1">
+    <ID>31060004 </ID>
+    <Name>test礼包随机英雄</Name>
+    <UseType>1 </UseType>
+    <ItemGroupDesc type="ResSystemItemRandomDesc">
+        <GroupID>18 </GroupID>
+        <RandomType>0 </RandomType>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemItemRandomDesc">
+        <GroupID>0 </GroupID>
+        <RandomType>0 </RandomType>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemItemRandomDesc">
+        <GroupID>0 </GroupID>
+        <RandomType>0 </RandomType>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemItemRandomDesc">
+        <GroupID>0 </GroupID>
+        <RandomType>0 </RandomType>
+    </ItemGroupDesc>
+</ResSystemPackageDesc>
+<ResSystemPackageDesc version="1">
+    <ID>31060005 </ID>
+    <Name>特惠英雄体验礼包</Name>
+    <UseType>0 </UseType>
+    <ItemGroupDesc type="ResSystemItemRandomDesc">
+        <GroupID>19 </GroupID>
+        <RandomType>0 </RandomType>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemItemRandomDesc">
+        <GroupID>0 </GroupID>
+        <RandomType>0 </RandomType>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemItemRandomDesc">
+        <GroupID>0 </GroupID>
+        <RandomType>0 </RandomType>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemItemRandomDesc">
+        <GroupID>0 </GroupID>
+        <RandomType>0 </RandomType>
+    </ItemGroupDesc>
+</ResSystemPackageDesc>
+<ResSystemPackageDesc version="1">
+    <ID>31060011 </ID>
+    <Name>青铜宝箱</Name>
+    <UseType>1 </UseType>
+    <ItemGroupDesc type="ResSystemItemRandomDesc">
+        <GroupID>2 </GroupID>
+        <RandomType>1 </RandomType>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemItemRandomDesc">
+        <GroupID>0 </GroupID>
+        <RandomType>0 </RandomType>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemItemRandomDesc">
+        <GroupID>0 </GroupID>
+        <RandomType>0 </RandomType>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemItemRandomDesc">
+        <GroupID>0 </GroupID>
+        <RandomType>0 </RandomType>
+    </ItemGroupDesc>
+</ResSystemPackageDesc>
+<ResSystemPackageDesc version="1">
+    <ID>31060012 </ID>
+    <Name>白银宝箱</Name>
+    <UseType>1 </UseType>
+    <ItemGroupDesc type="ResSystemItemRandomDesc">
+        <GroupID>3 </GroupID>
+        <RandomType>1 </RandomType>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemItemRandomDesc">
+        <GroupID>0 </GroupID>
+        <RandomType>0 </RandomType>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemItemRandomDesc">
+        <GroupID>0 </GroupID>
+        <RandomType>0 </RandomType>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemItemRandomDesc">
+        <GroupID>0 </GroupID>
+        <RandomType>0 </RandomType>
+    </ItemGroupDesc>
+</ResSystemPackageDesc>
+<ResSystemPackageDesc version="1">
+    <ID>31060013 </ID>
+    <Name>黄金宝箱</Name>
+    <UseType>1 </UseType>
+    <ItemGroupDesc type="ResSystemItemRandomDesc">
+        <GroupID>4 </GroupID>
+        <RandomType>1 </RandomType>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemItemRandomDesc">
+        <GroupID>0 </GroupID>
+        <RandomType>0 </RandomType>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemItemRandomDesc">
+        <GroupID>0 </GroupID>
+        <RandomType>0 </RandomType>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemItemRandomDesc">
+        <GroupID>0 </GroupID>
+        <RandomType>0 </RandomType>
+    </ItemGroupDesc>
+</ResSystemPackageDesc>
+<ResSystemPackageDesc version="1">
+    <ID>31060014 </ID>
+    <Name>铂金宝箱</Name>
+    <UseType>1 </UseType>
+    <ItemGroupDesc type="ResSystemItemRandomDesc">
+        <GroupID>5 </GroupID>
+        <RandomType>1 </RandomType>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemItemRandomDesc">
+        <GroupID>0 </GroupID>
+        <RandomType>0 </RandomType>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemItemRandomDesc">
+        <GroupID>0 </GroupID>
+        <RandomType>0 </RandomType>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemItemRandomDesc">
+        <GroupID>0 </GroupID>
+        <RandomType>0 </RandomType>
+    </ItemGroupDesc>
+</ResSystemPackageDesc>
+<ResSystemPackageDesc version="1">
+    <ID>31060015 </ID>
+    <Name>神秘宝箱</Name>
+    <UseType>1 </UseType>
+    <ItemGroupDesc type="ResSystemItemRandomDesc">
+        <GroupID>6 </GroupID>
+        <RandomType>1 </RandomType>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemItemRandomDesc">
+        <GroupID>0 </GroupID>
+        <RandomType>0 </RandomType>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemItemRandomDesc">
+        <GroupID>0 </GroupID>
+        <RandomType>0 </RandomType>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemItemRandomDesc">
+        <GroupID>0 </GroupID>
+        <RandomType>0 </RandomType>
+    </ItemGroupDesc>
+</ResSystemPackageDesc>
+<ResSystemPackageDesc version="1">
+    <ID>31060016 </ID>
+    <Name>钻石宝箱</Name>
+    <UseType>1 </UseType>
+    <ItemGroupDesc type="ResSystemItemRandomDesc">
+        <GroupID>7 </GroupID>
+        <RandomType>1 </RandomType>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemItemRandomDesc">
+        <GroupID>0 </GroupID>
+        <RandomType>0 </RandomType>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemItemRandomDesc">
+        <GroupID>0 </GroupID>
+        <RandomType>0 </RandomType>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemItemRandomDesc">
+        <GroupID>0 </GroupID>
+        <RandomType>0 </RandomType>
+    </ItemGroupDesc>
+</ResSystemPackageDesc>
+<ResSystemPackageDesc version="1">
+    <ID>31060017 </ID>
+    <Name>王者宝箱</Name>
+    <UseType>1 </UseType>
+    <ItemGroupDesc type="ResSystemItemRandomDesc">
+        <GroupID>8 </GroupID>
+        <RandomType>1 </RandomType>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemItemRandomDesc">
+        <GroupID>0 </GroupID>
+        <RandomType>0 </RandomType>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemItemRandomDesc">
+        <GroupID>0 </GroupID>
+        <RandomType>0 </RandomType>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemItemRandomDesc">
+        <GroupID>0 </GroupID>
+        <RandomType>0 </RandomType>
+    </ItemGroupDesc>
+</ResSystemPackageDesc>
+<ResSystemPackageDesc version="1">
+    <ID>31060018 </ID>
+    <Name>幸运宝箱</Name>
+    <UseType>0 </UseType>
+    <ItemGroupDesc type="ResSystemItemRandomDesc">
+        <GroupID>9 </GroupID>
+        <RandomType>1 </RandomType>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemItemRandomDesc">
+        <GroupID>0 </GroupID>
+        <RandomType>0 </RandomType>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemItemRandomDesc">
+        <GroupID>0 </GroupID>
+        <RandomType>0 </RandomType>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemItemRandomDesc">
+        <GroupID>0 </GroupID>
+        <RandomType>0 </RandomType>
+    </ItemGroupDesc>
+</ResSystemPackageDesc>
+<ResSystemPackageDesc version="1">
+    <ID>31060019 </ID>
+    <Name>惊喜宝箱</Name>
+    <UseType>0 </UseType>
+    <ItemGroupDesc type="ResSystemItemRandomDesc">
+        <GroupID>10 </GroupID>
+        <RandomType>0 </RandomType>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemItemRandomDesc">
+        <GroupID>0 </GroupID>
+        <RandomType>0 </RandomType>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemItemRandomDesc">
+        <GroupID>0 </GroupID>
+        <RandomType>0 </RandomType>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemItemRandomDesc">
+        <GroupID>0 </GroupID>
+        <RandomType>0 </RandomType>
+    </ItemGroupDesc>
+</ResSystemPackageDesc>
+<ResSystemPackageDesc version="1">
+    <ID>31060020 </ID>
+    <Name>国庆快乐</Name>
+    <UseType>0 </UseType>
+    <ItemGroupDesc type="ResSystemItemRandomDesc">
+        <GroupID>11 </GroupID>
+        <RandomType>0 </RandomType>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemItemRandomDesc">
+        <GroupID>0 </GroupID>
+        <RandomType>0 </RandomType>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemItemRandomDesc">
+        <GroupID>0 </GroupID>
+        <RandomType>0 </RandomType>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemItemRandomDesc">
+        <GroupID>0 </GroupID>
+        <RandomType>0 </RandomType>
+    </ItemGroupDesc>
+</ResSystemPackageDesc>
+<ResSystemPackageDesc version="1">
+    <ID>31060021 </ID>
+    <Name>龙腾中国</Name>
+    <UseType>0 </UseType>
+    <ItemGroupDesc type="ResSystemItemRandomDesc">
+        <GroupID>12 </GroupID>
+        <RandomType>1 </RandomType>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemItemRandomDesc">
+        <GroupID>0 </GroupID>
+        <RandomType>0 </RandomType>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemItemRandomDesc">
+        <GroupID>0 </GroupID>
+        <RandomType>0 </RandomType>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemItemRandomDesc">
+        <GroupID>0 </GroupID>
+        <RandomType>0 </RandomType>
+    </ItemGroupDesc>
+</ResSystemPackageDesc>
+<ResSystemPackageDesc version="1">
+    <ID>31060022 </ID>
+    <Name>每月礼包</Name>
+    <UseType>0 </UseType>
+    <ItemGroupDesc type="ResSystemItemRandomDesc">
+        <GroupID>13 </GroupID>
+        <RandomType>1 </RandomType>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemItemRandomDesc">
+        <GroupID>14 </GroupID>
+        <RandomType>0 </RandomType>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemItemRandomDesc">
+        <GroupID>0 </GroupID>
+        <RandomType>0 </RandomType>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemItemRandomDesc">
+        <GroupID>0 </GroupID>
+        <RandomType>0 </RandomType>
+    </ItemGroupDesc>
+</ResSystemPackageDesc>
+<ResSystemPackageDesc version="1">
+    <ID>31060023 </ID>
+    <Name>7日皮肤体验卡礼包</Name>
+    <UseType>0 </UseType>
+    <ItemGroupDesc type="ResSystemItemRandomDesc">
+        <GroupID>14 </GroupID>
+        <RandomType>0 </RandomType>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemItemRandomDesc">
+        <GroupID>0 </GroupID>
+        <RandomType>0 </RandomType>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemItemRandomDesc">
+        <GroupID>0 </GroupID>
+        <RandomType>0 </RandomType>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemItemRandomDesc">
+        <GroupID>0 </GroupID>
+        <RandomType>0 </RandomType>
+    </ItemGroupDesc>
+</ResSystemPackageDesc>
+<ResSystemPackageDesc version="1">
+    <ID>31060024 </ID>
+    <Name>新英雄大礼包</Name>
+    <UseType>0 </UseType>
+    <ItemGroupDesc type="ResSystemItemRandomDesc">
+        <GroupID>15 </GroupID>
+        <RandomType>1 </RandomType>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemItemRandomDesc">
+        <GroupID>0 </GroupID>
+        <RandomType>0 </RandomType>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemItemRandomDesc">
+        <GroupID>0 </GroupID>
+        <RandomType>0 </RandomType>
+    </ItemGroupDesc>
+    <ItemGroupDesc type="ResSystemItemRandomDesc">
+        <GroupID>0 </GroupID>
+        <RandomType>0 </RandomType>
+    </ItemGroupDesc>
+</ResSystemPackageDesc>
+</ResSystemPackageDesc_Tab>

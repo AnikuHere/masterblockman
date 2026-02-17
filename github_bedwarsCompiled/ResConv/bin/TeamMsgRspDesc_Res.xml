@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<ResTeamMsgRspDesc_Tab>
+<TResHeadAll version="5">
+    <resHead type="TResHead">
+        <Magic>1397052237 </Magic>
+        <Version>6 </Version>
+        <Unit>388 </Unit>
+        <Count>12 </Count>
+        <MetalibHash>531d5b4a397ad5b3c0fbfb5cc8059e55</MetalibHash>
+        <ResVersion>0 </ResVersion>
+        <CreateTime>2023-04-19 20:42:35</CreateTime>
+        <ResEncording>UTF-8</ResEncording>
+        <ContentHash>484b3a7683bea8af8e60bb987bcbb335</ContentHash>
+    </resHead>
+    <resHeadExt type="TResHeadExt">
+        <DataOffset>136 </DataOffset>
+    </resHeadExt>
+</TResHeadAll>
+<ResTeamMsgRspDesc version="1">
+    <ID>1 </ID>
+    <Desc_SCN>准备！准备！准备！</Desc_SCN>
+    <Desc_EN>Come on! Come on!</Desc_EN>
+    <Desc_FCN>准备！准备！准备！</Desc_FCN>
+</ResTeamMsgRspDesc>
+<ResTeamMsgRspDesc version="1">
+    <ID>2 </ID>
+    <Desc_SCN>稍等一下，我拉个朋友~</Desc_SCN>
+    <Desc_EN>Wait, I will add a friend.</Desc_EN>
+    <Desc_FCN>稍等一下，我拉个朋友~</Desc_FCN>
+</ResTeamMsgRspDesc>
+<ResTeamMsgRspDesc version="1">
+    <ID>3 </ID>
+    <Desc_SCN>接下来请观看我的表演</Desc_SCN>
+    <Desc_EN>I will put a show on.</Desc_EN>
+    <Desc_FCN>接下来请观看我的表演</Desc_FCN>
+</ResTeamMsgRspDesc>
+<ResTeamMsgRspDesc version="1">
+    <ID>4 </ID>
+    <Desc_SCN>今日手感上佳~</Desc_SCN>
+    <Desc_EN>Today is going to be a great day.</Desc_EN>
+    <Desc_FCN>今日手感上佳~</Desc_FCN>
+</ResTeamMsgRspDesc>
+<ResTeamMsgRspDesc version="1">
+    <ID>5 </ID>
+    <Desc_SCN>求大神带我飞~</Desc_SCN>
+    <Desc_EN>Someone carry me!</Desc_EN>
+    <Desc_FCN>求大神带我飞~</Desc_FCN>
+</ResTeamMsgRspDesc>
+<ResTeamMsgRspDesc version="1">
+    <ID>6 </ID>
+    <Desc_SCN>交个朋友吧</Desc_SCN>
+    <Desc_EN>Can we be friends?</Desc_EN>
+    <Desc_FCN>交个朋友吧</Desc_FCN>
+</ResTeamMsgRspDesc>
+<ResTeamMsgRspDesc version="1">
+    <ID>7 </ID>
+    <Desc_SCN>游戏玩的开心就好</Desc_SCN>
+    <Desc_EN>As long as you&apos;re having fun.</Desc_EN>
+    <Desc_FCN>游戏玩的开心就好</Desc_FCN>
+</ResTeamMsgRspDesc>
+<ResTeamMsgRspDesc version="1">
+    <ID>8 </ID>
+    <Desc_SCN>不好意思，我要溜咯</Desc_SCN>
+    <Desc_EN>Sorry, I&apos;m off soon.</Desc_EN>
+    <Desc_FCN>不好意思，我要溜咯</Desc_FCN>
+</ResTeamMsgRspDesc>
+<ResTeamMsgRspDesc version="1">
+    <ID>9 </ID>
+    <Desc_SCN>准备好了么？准备发车！</Desc_SCN>
+    <Desc_EN>Ready? Let&apos;s go!</Desc_EN>
+    <Desc_FCN>准备好了么？准备发车！</Desc_FCN>
+</ResTeamMsgRspDesc>
+<ResTeamMsgRspDesc version="1">
+    <ID>10 </ID>
+    <Desc_SCN>注意英雄搭配</Desc_SCN>
+    <Desc_EN>Hero composition matters.</Desc_EN>
+    <Desc_FCN>注意英雄搭配</Desc_FCN>
+</ResTeamMsgRspDesc>
+<ResTeamMsgRspDesc version="1">
+    <ID>11 </ID>
+    <Desc_SCN>我的迷妹们在哪里？</Desc_SCN>
+    <Desc_EN>Where are my fans?</Desc_EN>
+    <Desc_FCN>我的迷妹们在哪里？</Desc_FCN>
+</ResTeamMsgRspDesc>
+<ResTeamMsgRspDesc version="1">
+    <ID>12 </ID>
+    <Desc_SCN>嗨起来~让我看到你们的双手</Desc_SCN>
+    <Desc_EN>Hey yoll! Show me your hands!</Desc_EN>
+    <Desc_FCN>嗨起来~让我看到你们的双手</Desc_FCN>
+</ResTeamMsgRspDesc>
+</ResTeamMsgRspDesc_Tab>

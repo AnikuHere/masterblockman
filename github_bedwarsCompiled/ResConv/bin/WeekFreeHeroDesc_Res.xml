@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<ResWeekFreeHeroDesc_Tab>
+<TResHeadAll version="5">
+    <resHead type="TResHead">
+        <Magic>1397052237 </Magic>
+        <Version>6 </Version>
+        <Unit>34 </Unit>
+        <Count>6 </Count>
+        <MetalibHash>531d5b4a397ad5b3c0fbfb5cc8059e55</MetalibHash>
+        <ResVersion>0 </ResVersion>
+        <CreateTime>2023-04-19 20:42:33</CreateTime>
+        <ResEncording>UTF-8</ResEncording>
+        <ContentHash>d95ddd3424d0460e32765f9b765c4907</ContentHash>
+    </resHead>
+    <resHeadExt type="TResHeadExt">
+        <DataOffset>136 </DataOffset>
+    </resHeadExt>
+</TResHeadAll>
+<ResWeekFreeHeroDesc version="1">
+    <Week>1 </Week>
+    <HeroResID>10000101 10000003 10000414 0 0 0 0 0 </HeroResID>
+</ResWeekFreeHeroDesc>
+<ResWeekFreeHeroDesc version="1">
+    <Week>2 </Week>
+    <HeroResID>10000202 10000403 10000201 0 0 0 0 0 </HeroResID>
+</ResWeekFreeHeroDesc>
+<ResWeekFreeHeroDesc version="1">
+    <Week>3 </Week>
+    <HeroResID>10000408 10000412 10000404 0 0 0 0 0 </HeroResID>
+</ResWeekFreeHeroDesc>
+<ResWeekFreeHeroDesc version="1">
+    <Week>4 </Week>
+    <HeroResID>10000102 10000409 10000410 0 0 0 0 0 </HeroResID>
+</ResWeekFreeHeroDesc>
+<ResWeekFreeHeroDesc version="1">
+    <Week>5 </Week>
+    <HeroResID>10000411 10000302 10000413 0 0 0 0 0 </HeroResID>
+</ResWeekFreeHeroDesc>
+<ResWeekFreeHeroDesc version="1">
+    <Week>6 </Week>
+    <HeroResID>10000301 10000203 10000401 0 0 0 0 0 </HeroResID>
+</ResWeekFreeHeroDesc>
+</ResWeekFreeHeroDesc_Tab>

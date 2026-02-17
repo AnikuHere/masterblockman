@@ -1,0 +1,3589 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<ResTechBaseEffect_Tab>
+<TResHeadAll version="5">
+    <resHead type="TResHead">
+        <Magic>1397052237 </Magic>
+        <Version>6 </Version>
+        <Unit>217 </Unit>
+        <Count>30 </Count>
+        <MetalibHash>531d5b4a397ad5b3c0fbfb5cc8059e55</MetalibHash>
+        <ResVersion>0 </ResVersion>
+        <CreateTime>2023-04-19 20:42:31</CreateTime>
+        <ResEncording>UTF-8</ResEncording>
+        <ContentHash>9b723fc5e09e8fa11cb67a219c9b4be3</ContentHash>
+    </resHead>
+    <resHeadExt type="TResHeadExt">
+        <DataOffset>136 </DataOffset>
+    </resHeadExt>
+</TResHeadAll>
+<ResTechBaseEffect version="1">
+    <ResID>20000117 </ResID>
+    <BaseIcon>UITexture/Charactar/renlei/hum_base01</BaseIcon>
+    <BaseLvType>1 </BaseLvType>
+    <SubBaseID>20000112 </SubBaseID>
+    <EnterTechIDs>10000001 </EnterTechIDs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>10011001 </TechID>
+        <TechTreeType>1 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>10011101 </TechID>
+        <TechTreeType>1 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>10012001 </TechID>
+        <TechTreeType>1 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>10006001 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>10022001 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>10021001 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>10001001 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>10007001 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>10004001 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>10005001 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+</ResTechBaseEffect>
+<ResTechBaseEffect version="1">
+    <ResID>20000118 </ResID>
+    <BaseIcon>UITexture/Charactar/renlei/hum_base02</BaseIcon>
+    <BaseLvType>2 </BaseLvType>
+    <SubBaseID>20000113 </SubBaseID>
+    <EnterTechIDs>0 </EnterTechIDs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>10012101 </TechID>
+        <TechTreeType>1 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>10013001 </TechID>
+        <TechTreeType>1 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>10013101 </TechID>
+        <TechTreeType>1 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>10014001 </TechID>
+        <TechTreeType>1 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>10014101 </TechID>
+        <TechTreeType>1 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>10014201 </TechID>
+        <TechTreeType>1 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>10015001 </TechID>
+        <TechTreeType>2 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>10015101 </TechID>
+        <TechTreeType>2 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>10016001 </TechID>
+        <TechTreeType>3 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>10016101 </TechID>
+        <TechTreeType>3 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>10016201 </TechID>
+        <TechTreeType>3 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>10016301 </TechID>
+        <TechTreeType>3 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>10017001 </TechID>
+        <TechTreeType>4 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>10017101 </TechID>
+        <TechTreeType>4 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>10021101 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>10022101 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>10002001 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+</ResTechBaseEffect>
+<ResTechBaseEffect version="1">
+    <ResID>20000119 </ResID>
+    <BaseIcon>UITexture/Charactar/renlei/hum_base03</BaseIcon>
+    <BaseLvType>3 </BaseLvType>
+    <SubBaseID>20000114 </SubBaseID>
+    <EnterTechIDs>0 </EnterTechIDs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>10013201 </TechID>
+        <TechTreeType>1 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>10014301 </TechID>
+        <TechTreeType>1 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>10018001 </TechID>
+        <TechTreeType>2 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>10018101 </TechID>
+        <TechTreeType>2 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>10019001 </TechID>
+        <TechTreeType>3 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>10019101 </TechID>
+        <TechTreeType>3 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>10020001 </TechID>
+        <TechTreeType>4 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>10020101 </TechID>
+        <TechTreeType>4 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>10021201 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>10022201 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+</ResTechBaseEffect>
+<ResTechBaseEffect version="1">
+    <ResID>20000127 </ResID>
+    <BaseIcon>UITexture/Charactar/renlei/hum_base01</BaseIcon>
+    <BaseLvType>1 </BaseLvType>
+    <SubBaseID>20000124 </SubBaseID>
+    <EnterTechIDs>10008001 </EnterTechIDs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>10011001 </TechID>
+        <TechTreeType>1 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>10011101 </TechID>
+        <TechTreeType>1 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>10012001 </TechID>
+        <TechTreeType>1 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>10006001 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>10022001 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>10021001 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>10009001 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>10003001 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>10004001 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>10005001 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+</ResTechBaseEffect>
+<ResTechBaseEffect version="1">
+    <ResID>20000128 </ResID>
+    <BaseIcon>UITexture/Charactar/renlei/hum_base02</BaseIcon>
+    <BaseLvType>2 </BaseLvType>
+    <SubBaseID>20000125 </SubBaseID>
+    <EnterTechIDs>0 </EnterTechIDs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>10012101 </TechID>
+        <TechTreeType>1 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>10013001 </TechID>
+        <TechTreeType>1 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>10013101 </TechID>
+        <TechTreeType>1 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>10014001 </TechID>
+        <TechTreeType>1 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>10014101 </TechID>
+        <TechTreeType>1 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>10014201 </TechID>
+        <TechTreeType>1 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>10015001 </TechID>
+        <TechTreeType>2 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>10015101 </TechID>
+        <TechTreeType>2 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>10016001 </TechID>
+        <TechTreeType>3 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>10016101 </TechID>
+        <TechTreeType>3 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>10016201 </TechID>
+        <TechTreeType>3 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>10016301 </TechID>
+        <TechTreeType>3 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>10017001 </TechID>
+        <TechTreeType>4 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>10017101 </TechID>
+        <TechTreeType>4 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>10021101 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>10022101 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>10010001 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+</ResTechBaseEffect>
+<ResTechBaseEffect version="1">
+    <ResID>20000129 </ResID>
+    <BaseIcon>UITexture/Charactar/renlei/hum_base03</BaseIcon>
+    <BaseLvType>3 </BaseLvType>
+    <SubBaseID>20000126 </SubBaseID>
+    <EnterTechIDs>0 </EnterTechIDs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>10013201 </TechID>
+        <TechTreeType>1 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>10014301 </TechID>
+        <TechTreeType>1 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>10018001 </TechID>
+        <TechTreeType>2 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>10018101 </TechID>
+        <TechTreeType>2 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>10019001 </TechID>
+        <TechTreeType>3 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>10019101 </TechID>
+        <TechTreeType>3 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>10020001 </TechID>
+        <TechTreeType>4 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>10020101 </TechID>
+        <TechTreeType>4 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>10021201 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>10022201 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+</ResTechBaseEffect>
+<ResTechBaseEffect version="1">
+    <ResID>20000217 </ResID>
+    <BaseIcon>UITexture/Charactar/shouzu/orc_base01</BaseIcon>
+    <BaseLvType>1 </BaseLvType>
+    <SubBaseID>20000212 </SubBaseID>
+    <EnterTechIDs>11000001 </EnterTechIDs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>11011001 </TechID>
+        <TechTreeType>1 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>11012001 </TechID>
+        <TechTreeType>1 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>11006001 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>11022001 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>11021001 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>11001001 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>11007001 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>11004001 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>11005001 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+</ResTechBaseEffect>
+<ResTechBaseEffect version="1">
+    <ResID>20000218 </ResID>
+    <BaseIcon>UITexture/Charactar/shouzu/orc_base02</BaseIcon>
+    <BaseLvType>2 </BaseLvType>
+    <SubBaseID>20000213 </SubBaseID>
+    <EnterTechIDs>0 </EnterTechIDs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>11011101 </TechID>
+        <TechTreeType>1 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>11012101 </TechID>
+        <TechTreeType>1 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>11013001 </TechID>
+        <TechTreeType>1 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>11013101 </TechID>
+        <TechTreeType>1 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>11014001 </TechID>
+        <TechTreeType>1 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>11014101 </TechID>
+        <TechTreeType>1 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>11015001 </TechID>
+        <TechTreeType>2 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>11015101 </TechID>
+        <TechTreeType>2 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>11015201 </TechID>
+        <TechTreeType>2 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>11016001 </TechID>
+        <TechTreeType>3 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>11016101 </TechID>
+        <TechTreeType>3 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>11016201 </TechID>
+        <TechTreeType>3 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>11017001 </TechID>
+        <TechTreeType>4 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>11017101 </TechID>
+        <TechTreeType>4 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>11018001 </TechID>
+        <TechTreeType>4 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>11018101 </TechID>
+        <TechTreeType>4 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>11021101 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>11022101 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>11013301 </TechID>
+        <TechTreeType>1 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>11002001 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+</ResTechBaseEffect>
+<ResTechBaseEffect version="1">
+    <ResID>20000219 </ResID>
+    <BaseIcon>UITexture/Charactar/shouzu/orc_base03</BaseIcon>
+    <BaseLvType>3 </BaseLvType>
+    <SubBaseID>20000214 </SubBaseID>
+    <EnterTechIDs>0 </EnterTechIDs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>11013201 </TechID>
+        <TechTreeType>1 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>11014201 </TechID>
+        <TechTreeType>1 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>11015301 </TechID>
+        <TechTreeType>2 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>11019001 </TechID>
+        <TechTreeType>3 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>11019101 </TechID>
+        <TechTreeType>3 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>11020001 </TechID>
+        <TechTreeType>2 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>11020101 </TechID>
+        <TechTreeType>2 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>11021201 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>11022201 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+</ResTechBaseEffect>
+<ResTechBaseEffect version="1">
+    <ResID>20000228 </ResID>
+    <BaseIcon>UITexture/Charactar/shouzu/orc_base01</BaseIcon>
+    <BaseLvType>1 </BaseLvType>
+    <SubBaseID>20000225 </SubBaseID>
+    <EnterTechIDs>11008001 </EnterTechIDs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>11011001 </TechID>
+        <TechTreeType>1 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>11012001 </TechID>
+        <TechTreeType>1 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>11006001 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>11022001 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>11021001 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>11009001 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>11003001 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>11004001 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>11005001 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+</ResTechBaseEffect>
+<ResTechBaseEffect version="1">
+    <ResID>20000229 </ResID>
+    <BaseIcon>UITexture/Charactar/shouzu/orc_base02</BaseIcon>
+    <BaseLvType>2 </BaseLvType>
+    <SubBaseID>20000226 </SubBaseID>
+    <EnterTechIDs>0 </EnterTechIDs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>11011101 </TechID>
+        <TechTreeType>1 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>11012101 </TechID>
+        <TechTreeType>1 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>11013001 </TechID>
+        <TechTreeType>1 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>11013101 </TechID>
+        <TechTreeType>1 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>11014001 </TechID>
+        <TechTreeType>1 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>11014101 </TechID>
+        <TechTreeType>1 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>11015001 </TechID>
+        <TechTreeType>2 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>11015101 </TechID>
+        <TechTreeType>2 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>11015201 </TechID>
+        <TechTreeType>2 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>11016001 </TechID>
+        <TechTreeType>3 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>11016101 </TechID>
+        <TechTreeType>3 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>11016201 </TechID>
+        <TechTreeType>3 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>11017001 </TechID>
+        <TechTreeType>4 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>11017101 </TechID>
+        <TechTreeType>4 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>11018001 </TechID>
+        <TechTreeType>4 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>11018101 </TechID>
+        <TechTreeType>4 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>11021101 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>11022101 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>11013301 </TechID>
+        <TechTreeType>1 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>11010001 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+</ResTechBaseEffect>
+<ResTechBaseEffect version="1">
+    <ResID>20000230 </ResID>
+    <BaseIcon>UITexture/Charactar/shouzu/orc_base03</BaseIcon>
+    <BaseLvType>3 </BaseLvType>
+    <SubBaseID>20000227 </SubBaseID>
+    <EnterTechIDs>0 </EnterTechIDs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>11013201 </TechID>
+        <TechTreeType>1 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>11014201 </TechID>
+        <TechTreeType>1 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>11015301 </TechID>
+        <TechTreeType>2 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>11019001 </TechID>
+        <TechTreeType>3 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>11019101 </TechID>
+        <TechTreeType>3 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>11020001 </TechID>
+        <TechTreeType>2 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>11020101 </TechID>
+        <TechTreeType>2 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>11021201 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>11022201 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+</ResTechBaseEffect>
+<ResTechBaseEffect version="1">
+    <ResID>20000316 </ResID>
+    <BaseIcon>UITexture/Charactar/wangling/gho_base01</BaseIcon>
+    <BaseLvType>1 </BaseLvType>
+    <SubBaseID>20000312 </SubBaseID>
+    <EnterTechIDs>12000001 </EnterTechIDs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>12011001 </TechID>
+        <TechTreeType>1 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>12011101 </TechID>
+        <TechTreeType>1 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>12012001 </TechID>
+        <TechTreeType>1 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>12006001 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>12022001 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>12021001 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>12001001 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>12007001 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>12004001 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>12005001 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+</ResTechBaseEffect>
+<ResTechBaseEffect version="1">
+    <ResID>20000317 </ResID>
+    <BaseIcon>UITexture/Charactar/wangling/gho_base02</BaseIcon>
+    <BaseLvType>2 </BaseLvType>
+    <SubBaseID>20000313 </SubBaseID>
+    <EnterTechIDs>0 </EnterTechIDs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>12011201 </TechID>
+        <TechTreeType>1 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>12012101 </TechID>
+        <TechTreeType>1 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>12013001 </TechID>
+        <TechTreeType>1 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>12013101 </TechID>
+        <TechTreeType>1 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>12014001 </TechID>
+        <TechTreeType>1 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>12014101 </TechID>
+        <TechTreeType>1 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>12015001 </TechID>
+        <TechTreeType>3 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>12015101 </TechID>
+        <TechTreeType>3 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>12015201 </TechID>
+        <TechTreeType>3 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>12016001 </TechID>
+        <TechTreeType>4 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>12016101 </TechID>
+        <TechTreeType>4 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>12017001 </TechID>
+        <TechTreeType>2 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>12017101 </TechID>
+        <TechTreeType>2 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>12021101 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>12022101 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>12002001 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+</ResTechBaseEffect>
+<ResTechBaseEffect version="1">
+    <ResID>20000318 </ResID>
+    <BaseIcon>UITexture/Charactar/wangling/gho_base03</BaseIcon>
+    <BaseLvType>3 </BaseLvType>
+    <SubBaseID>20000314 </SubBaseID>
+    <EnterTechIDs>0 </EnterTechIDs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>12013201 </TechID>
+        <TechTreeType>1 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>12014201 </TechID>
+        <TechTreeType>1 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>12018001 </TechID>
+        <TechTreeType>2 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>12018101 </TechID>
+        <TechTreeType>2 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>12019001 </TechID>
+        <TechTreeType>4 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>12019101 </TechID>
+        <TechTreeType>4 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>12020001 </TechID>
+        <TechTreeType>3 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>12020101 </TechID>
+        <TechTreeType>3 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>12020201 </TechID>
+        <TechTreeType>3 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>12020301 </TechID>
+        <TechTreeType>3 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>12021201 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>12017201 </TechID>
+        <TechTreeType>2 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>12023101 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>12024101 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>12015011 </TechID>
+        <TechTreeType>3 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>12022201 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+</ResTechBaseEffect>
+<ResTechBaseEffect version="1">
+    <ResID>20000323 </ResID>
+    <BaseIcon>UITexture/Charactar/wangling/gho_base01</BaseIcon>
+    <BaseLvType>1 </BaseLvType>
+    <SubBaseID>20000320 </SubBaseID>
+    <EnterTechIDs>12008001 </EnterTechIDs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>12011001 </TechID>
+        <TechTreeType>1 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>12011101 </TechID>
+        <TechTreeType>1 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>12012001 </TechID>
+        <TechTreeType>1 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>12006001 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>12022001 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>12021001 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>12009001 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>12003001 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>12004001 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>12005001 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+</ResTechBaseEffect>
+<ResTechBaseEffect version="1">
+    <ResID>20000324 </ResID>
+    <BaseIcon>UITexture/Charactar/wangling/gho_base02</BaseIcon>
+    <BaseLvType>2 </BaseLvType>
+    <SubBaseID>20000321 </SubBaseID>
+    <EnterTechIDs>0 </EnterTechIDs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>12011201 </TechID>
+        <TechTreeType>1 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>12012101 </TechID>
+        <TechTreeType>1 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>12013001 </TechID>
+        <TechTreeType>1 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>12013101 </TechID>
+        <TechTreeType>1 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>12014001 </TechID>
+        <TechTreeType>1 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>12014101 </TechID>
+        <TechTreeType>1 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>12015001 </TechID>
+        <TechTreeType>3 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>12015101 </TechID>
+        <TechTreeType>3 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>12015201 </TechID>
+        <TechTreeType>3 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>12016001 </TechID>
+        <TechTreeType>4 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>12016101 </TechID>
+        <TechTreeType>4 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>12017001 </TechID>
+        <TechTreeType>2 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>12017101 </TechID>
+        <TechTreeType>2 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>12021101 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>12022101 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>12010001 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+</ResTechBaseEffect>
+<ResTechBaseEffect version="1">
+    <ResID>20000325 </ResID>
+    <BaseIcon>UITexture/Charactar/wangling/gho_base03</BaseIcon>
+    <BaseLvType>3 </BaseLvType>
+    <SubBaseID>20000322 </SubBaseID>
+    <EnterTechIDs>0 </EnterTechIDs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>12013201 </TechID>
+        <TechTreeType>1 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>12014201 </TechID>
+        <TechTreeType>1 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>12018001 </TechID>
+        <TechTreeType>2 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>12018101 </TechID>
+        <TechTreeType>2 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>12019001 </TechID>
+        <TechTreeType>4 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>12019101 </TechID>
+        <TechTreeType>4 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>12020001 </TechID>
+        <TechTreeType>3 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>12020101 </TechID>
+        <TechTreeType>3 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>12020201 </TechID>
+        <TechTreeType>3 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>12020301 </TechID>
+        <TechTreeType>3 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>12021201 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>12017201 </TechID>
+        <TechTreeType>2 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>12023101 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>12024101 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>12015011 </TechID>
+        <TechTreeType>3 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>12022201 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+</ResTechBaseEffect>
+<ResTechBaseEffect version="1">
+    <ResID>20000417 </ResID>
+    <BaseIcon>UITexture/Charactar/jingling/elf_base01</BaseIcon>
+    <BaseLvType>1 </BaseLvType>
+    <SubBaseID>20000412 </SubBaseID>
+    <EnterTechIDs>13000001 </EnterTechIDs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>13011001 </TechID>
+        <TechTreeType>1 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>13011101 </TechID>
+        <TechTreeType>1 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>13011201 </TechID>
+        <TechTreeType>1 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>13012001 </TechID>
+        <TechTreeType>1 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>13006001 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>13022001 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>13021001 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>13023001 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>13001001 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>13007001 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>13004001 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>13005001 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+</ResTechBaseEffect>
+<ResTechBaseEffect version="1">
+    <ResID>20000418 </ResID>
+    <BaseIcon>UITexture/Charactar/jingling/elf_base02</BaseIcon>
+    <BaseLvType>2 </BaseLvType>
+    <SubBaseID>20000413 </SubBaseID>
+    <EnterTechIDs>0 </EnterTechIDs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>13012101 </TechID>
+        <TechTreeType>1 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>13013001 </TechID>
+        <TechTreeType>1 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>13013101 </TechID>
+        <TechTreeType>1 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>13014001 </TechID>
+        <TechTreeType>3 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>13014101 </TechID>
+        <TechTreeType>3 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>13014201 </TechID>
+        <TechTreeType>3 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>13015001 </TechID>
+        <TechTreeType>3 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>13015101 </TechID>
+        <TechTreeType>3 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>13015201 </TechID>
+        <TechTreeType>3 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>13016001 </TechID>
+        <TechTreeType>4 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>13016101 </TechID>
+        <TechTreeType>4 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>13017001 </TechID>
+        <TechTreeType>1 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>13017101 </TechID>
+        <TechTreeType>1 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>13017201 </TechID>
+        <TechTreeType>1 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>13017301 </TechID>
+        <TechTreeType>1 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>13018001 </TechID>
+        <TechTreeType>2 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>13018101 </TechID>
+        <TechTreeType>2 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>13021101 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>13022101 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>13002001 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+</ResTechBaseEffect>
+<ResTechBaseEffect version="1">
+    <ResID>20000419 </ResID>
+    <BaseIcon>UITexture/Charactar/jingling/elf_base03</BaseIcon>
+    <BaseLvType>3 </BaseLvType>
+    <SubBaseID>20000414 </SubBaseID>
+    <EnterTechIDs>0 </EnterTechIDs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>13013201 </TechID>
+        <TechTreeType>1 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>13015301 </TechID>
+        <TechTreeType>3 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>13019001 </TechID>
+        <TechTreeType>2 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>13019101 </TechID>
+        <TechTreeType>2 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>13019201 </TechID>
+        <TechTreeType>2 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>13020001 </TechID>
+        <TechTreeType>4 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>13020101 </TechID>
+        <TechTreeType>4 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>13021201 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>13022201 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+</ResTechBaseEffect>
+<ResTechBaseEffect version="1">
+    <ResID>20000428 </ResID>
+    <BaseIcon>UITexture/Charactar/jingling/elf_base01</BaseIcon>
+    <BaseLvType>1 </BaseLvType>
+    <SubBaseID>20000425 </SubBaseID>
+    <EnterTechIDs>13008001 </EnterTechIDs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>13011001 </TechID>
+        <TechTreeType>1 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>13011101 </TechID>
+        <TechTreeType>1 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>13011201 </TechID>
+        <TechTreeType>1 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>13012001 </TechID>
+        <TechTreeType>1 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>13006001 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>13022001 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>13021001 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>13023001 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>13009001 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>13003001 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>13004001 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>13005001 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+</ResTechBaseEffect>
+<ResTechBaseEffect version="1">
+    <ResID>20000429 </ResID>
+    <BaseIcon>UITexture/Charactar/jingling/elf_base02</BaseIcon>
+    <BaseLvType>2 </BaseLvType>
+    <SubBaseID>20000426 </SubBaseID>
+    <EnterTechIDs>0 </EnterTechIDs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>13012101 </TechID>
+        <TechTreeType>1 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>13013001 </TechID>
+        <TechTreeType>1 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>13013101 </TechID>
+        <TechTreeType>1 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>13014001 </TechID>
+        <TechTreeType>3 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>13014101 </TechID>
+        <TechTreeType>3 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>13014201 </TechID>
+        <TechTreeType>3 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>13015001 </TechID>
+        <TechTreeType>3 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>13015101 </TechID>
+        <TechTreeType>3 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>13015201 </TechID>
+        <TechTreeType>3 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>13016001 </TechID>
+        <TechTreeType>4 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>13016101 </TechID>
+        <TechTreeType>4 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>13017001 </TechID>
+        <TechTreeType>1 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>13017101 </TechID>
+        <TechTreeType>1 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>13017201 </TechID>
+        <TechTreeType>1 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>13017301 </TechID>
+        <TechTreeType>1 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>13018001 </TechID>
+        <TechTreeType>2 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>13018101 </TechID>
+        <TechTreeType>2 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>13021101 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>13022101 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>13010001 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+</ResTechBaseEffect>
+<ResTechBaseEffect version="1">
+    <ResID>20000430 </ResID>
+    <BaseIcon>UITexture/Charactar/jingling/elf_base03</BaseIcon>
+    <BaseLvType>3 </BaseLvType>
+    <SubBaseID>20000427 </SubBaseID>
+    <EnterTechIDs>0 </EnterTechIDs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>13013201 </TechID>
+        <TechTreeType>1 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>13015301 </TechID>
+        <TechTreeType>3 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>13019001 </TechID>
+        <TechTreeType>2 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>13019101 </TechID>
+        <TechTreeType>2 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>13019201 </TechID>
+        <TechTreeType>2 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>13020001 </TechID>
+        <TechTreeType>4 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>13020101 </TechID>
+        <TechTreeType>4 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>13021201 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>13022201 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+</ResTechBaseEffect>
+<ResTechBaseEffect version="1">
+    <ResID>20000704 </ResID>
+    <BaseIcon>UITexture/Charactar/renlei/hum_base01</BaseIcon>
+    <BaseLvType>1 </BaseLvType>
+    <SubBaseID>20000701 </SubBaseID>
+    <EnterTechIDs>17000001 </EnterTechIDs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>17011001 </TechID>
+        <TechTreeType>1 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>17011101 </TechID>
+        <TechTreeType>1 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>17012001 </TechID>
+        <TechTreeType>1 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>17006001 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>17022001 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>17021001 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>17001001 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>17003001 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>17004001 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>17005001 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+</ResTechBaseEffect>
+<ResTechBaseEffect version="1">
+    <ResID>20000705 </ResID>
+    <BaseIcon>UITexture/Charactar/renlei/hum_base02</BaseIcon>
+    <BaseLvType>2 </BaseLvType>
+    <SubBaseID>20000702 </SubBaseID>
+    <EnterTechIDs>0 </EnterTechIDs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>17012101 </TechID>
+        <TechTreeType>1 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>17013001 </TechID>
+        <TechTreeType>1 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>17013101 </TechID>
+        <TechTreeType>1 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>17014001 </TechID>
+        <TechTreeType>1 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>17014101 </TechID>
+        <TechTreeType>1 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>17014201 </TechID>
+        <TechTreeType>1 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>17015001 </TechID>
+        <TechTreeType>2 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>17015101 </TechID>
+        <TechTreeType>2 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>17016001 </TechID>
+        <TechTreeType>3 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>17016101 </TechID>
+        <TechTreeType>3 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>17016201 </TechID>
+        <TechTreeType>3 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>17016301 </TechID>
+        <TechTreeType>3 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>17017001 </TechID>
+        <TechTreeType>4 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>17017101 </TechID>
+        <TechTreeType>4 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>17021101 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>10022101 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>17002001 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+</ResTechBaseEffect>
+<ResTechBaseEffect version="1">
+    <ResID>20000706 </ResID>
+    <BaseIcon>UITexture/Charactar/renlei/hum_base03</BaseIcon>
+    <BaseLvType>3 </BaseLvType>
+    <SubBaseID>20000703 </SubBaseID>
+    <EnterTechIDs>0 </EnterTechIDs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>17013201 </TechID>
+        <TechTreeType>1 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>17014301 </TechID>
+        <TechTreeType>1 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>17018001 </TechID>
+        <TechTreeType>2 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>17018101 </TechID>
+        <TechTreeType>2 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>17019001 </TechID>
+        <TechTreeType>3 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>17019101 </TechID>
+        <TechTreeType>3 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>17020001 </TechID>
+        <TechTreeType>4 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>17020101 </TechID>
+        <TechTreeType>4 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>17021201 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>17022201 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+</ResTechBaseEffect>
+<ResTechBaseEffect version="1">
+    <ResID>20000724 </ResID>
+    <BaseIcon>UITexture/Charactar/shouzu/orc_base01</BaseIcon>
+    <BaseLvType>1 </BaseLvType>
+    <SubBaseID>20000721 </SubBaseID>
+    <EnterTechIDs>18000001 </EnterTechIDs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>18011001 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>18012001 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>18006001 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>18022001 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>18021001 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>18001001 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>18003001 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>18004001 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>18005001 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+</ResTechBaseEffect>
+<ResTechBaseEffect version="1">
+    <ResID>20000725 </ResID>
+    <BaseIcon>UITexture/Charactar/shouzu/orc_base02</BaseIcon>
+    <BaseLvType>2 </BaseLvType>
+    <SubBaseID>20000722 </SubBaseID>
+    <EnterTechIDs>0 </EnterTechIDs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>18011101 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>18012101 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>18013001 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>18013101 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>18014001 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>18014101 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>18015001 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>18015101 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>18015201 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>18016001 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>18016101 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>18017001 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>18017101 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>18018001 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>18021101 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>18022101 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>18002001 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+</ResTechBaseEffect>
+<ResTechBaseEffect version="1">
+    <ResID>20000726 </ResID>
+    <BaseIcon>UITexture/Charactar/shouzu/orc_base03</BaseIcon>
+    <BaseLvType>3 </BaseLvType>
+    <SubBaseID>20000723 </SubBaseID>
+    <EnterTechIDs>0 </EnterTechIDs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>18013201 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>18014201 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>18015301 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>18018101 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>18019001 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>18019101 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>18020001 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>18020101 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>18021201 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>18022201 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <FinishTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </FinishTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+    <ReadyTechs type="ResTechBaseTreeParam">
+        <TechID>0 </TechID>
+        <TechTreeType>0 </TechTreeType>
+    </ReadyTechs>
+</ResTechBaseEffect>
+</ResTechBaseEffect_Tab>

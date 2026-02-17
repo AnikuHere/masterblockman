@@ -1,0 +1,823 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<ResSystemTaskDisplayDesc_Tab>
+<TResHeadAll version="5">
+    <resHead type="TResHead">
+        <Magic>1397052237 </Magic>
+        <Version>6 </Version>
+        <Unit>1732 </Unit>
+        <Count>67 </Count>
+        <MetalibHash>531d5b4a397ad5b3c0fbfb5cc8059e55</MetalibHash>
+        <ResVersion>0 </ResVersion>
+        <CreateTime>2023-04-19 20:42:38</CreateTime>
+        <ResEncording>UTF-8</ResEncording>
+        <ContentHash>e8c79ff79b2c201d2b2966ffe1cc8411</ContentHash>
+    </resHead>
+    <resHeadExt type="TResHeadExt">
+        <DataOffset>136 </DataOffset>
+    </resHeadExt>
+</TResHeadAll>
+<ResSystemTaskDisplayDesc version="1">
+    <ResID>1 </ResID>
+    <TaskName_SCN>每日登录</TaskName_SCN>
+    <TaskName_EN>Daily Login</TaskName_EN>
+    <TaskName_FCN>每日登录</TaskName_FCN>
+    <TaskDesc_SCN>登录游戏{0}次</TaskDesc_SCN>
+    <TaskDesc_EN>Log in to the game {0}times.</TaskDesc_EN>
+    <TaskDesc_FCN>登录游戏{0}次</TaskDesc_FCN>
+    <TaskTips_SCN></TaskTips_SCN>
+    <TaskTips_EN></TaskTips_EN>
+    <TaskTips_FCN></TaskTips_FCN>
+</ResSystemTaskDisplayDesc>
+<ResSystemTaskDisplayDesc version="1">
+    <ResID>2 </ResID>
+    <TaskName_SCN>大展身手</TaskName_SCN>
+    <TaskName_EN>Showcase</TaskName_EN>
+    <TaskName_FCN>大展身手</TaskName_FCN>
+    <TaskDesc_SCN>单局内击败敌方英雄{0}次</TaskDesc_SCN>
+    <TaskDesc_EN>Slay {0} Heroes in one match.</TaskDesc_EN>
+    <TaskDesc_FCN>单局内击败敌方英雄{0}次</TaskDesc_FCN>
+    <TaskTips_SCN>只要击败5次敌方英雄即可获得奖励</TaskTips_SCN>
+    <TaskTips_EN>Slay 5 enemy Heroes to win reward.</TaskTips_EN>
+    <TaskTips_FCN>只要击败5次敌方英雄即可获得奖励</TaskTips_FCN>
+</ResSystemTaskDisplayDesc>
+<ResSystemTaskDisplayDesc version="1">
+    <ResID>3 </ResID>
+    <TaskName_SCN>清怪勇士</TaskName_SCN>
+    <TaskName_EN>Monster Hunter</TaskName_EN>
+    <TaskName_FCN>清怪勇士</TaskName_FCN>
+    <TaskDesc_SCN>累计击败{0}个野怪</TaskDesc_SCN>
+    <TaskDesc_EN>Slay {0} monsters.</TaskDesc_EN>
+    <TaskDesc_FCN>累计击败{0}个野怪</TaskDesc_FCN>
+    <TaskTips_SCN>累计击败100个野怪即可获得奖励</TaskTips_SCN>
+    <TaskTips_EN>Slay 100 monsters to win reward.</TaskTips_EN>
+    <TaskTips_FCN>累计击败100个野怪即可获得奖励</TaskTips_FCN>
+</ResSystemTaskDisplayDesc>
+<ResSystemTaskDisplayDesc version="1">
+    <ResID>4 </ResID>
+    <TaskName_SCN>清场高手</TaskName_SCN>
+    <TaskName_EN>Grim Reaper</TaskName_EN>
+    <TaskName_FCN>清场高手</TaskName_FCN>
+    <TaskDesc_SCN>单局击退{0}个小兵</TaskDesc_SCN>
+    <TaskDesc_EN>Slay {0} troops in one match.</TaskDesc_EN>
+    <TaskDesc_FCN>单局击退{0}个小兵</TaskDesc_FCN>
+    <TaskTips_SCN>击退30个小兵即可获得奖励</TaskTips_SCN>
+    <TaskTips_EN>Slay 30 troops to win reward.</TaskTips_EN>
+    <TaskTips_FCN>击退30个小兵即可获得奖励</TaskTips_FCN>
+</ResSystemTaskDisplayDesc>
+<ResSystemTaskDisplayDesc version="1">
+    <ResID>5 </ResID>
+    <TaskName_SCN>奖杯时光</TaskName_SCN>
+    <TaskName_EN>Trophy Time</TaskName_EN>
+    <TaskName_FCN>奖杯时光</TaskName_FCN>
+    <TaskDesc_SCN>赢得{0}场排位赛</TaskDesc_SCN>
+    <TaskDesc_EN>Win {0} ranked matches.</TaskDesc_EN>
+    <TaskDesc_FCN>赢得{0}场排位赛</TaskDesc_FCN>
+    <TaskTips_SCN>赢3场排位赛即可获得奖励</TaskTips_SCN>
+    <TaskTips_EN>Win 3 ranked matches to win reward.</TaskTips_EN>
+    <TaskTips_FCN>赢3场排位赛即可获得奖励</TaskTips_FCN>
+</ResSystemTaskDisplayDesc>
+<ResSystemTaskDisplayDesc version="1">
+    <ResID>6 </ResID>
+    <TaskName_SCN>大获全胜</TaskName_SCN>
+    <TaskName_EN>Resounding Victory</TaskName_EN>
+    <TaskName_FCN>大获全胜</TaskName_FCN>
+    <TaskDesc_SCN>赢得{0}场对战</TaskDesc_SCN>
+    <TaskDesc_EN>Win {0} matches.</TaskDesc_EN>
+    <TaskDesc_FCN>赢得{0}场对战</TaskDesc_FCN>
+    <TaskTips_SCN>赢3场比赛即可获得奖励</TaskTips_SCN>
+    <TaskTips_EN>Win 3 matches to win reward.</TaskTips_EN>
+    <TaskTips_FCN>赢3场比赛即可获得奖励</TaskTips_FCN>
+</ResSystemTaskDisplayDesc>
+<ResSystemTaskDisplayDesc version="1">
+    <ResID>7 </ResID>
+    <TaskName_SCN>挥金如土</TaskName_SCN>
+    <TaskName_EN>Millionaire</TaskName_EN>
+    <TaskName_FCN>挥金如土</TaskName_FCN>
+    <TaskDesc_SCN>今日累计花费{0}金币</TaskDesc_SCN>
+    <TaskDesc_EN>Spend {0} Hero Coins today.</TaskDesc_EN>
+    <TaskDesc_FCN>今日累计花费{0}金币</TaskDesc_FCN>
+    <TaskTips_SCN>只要花费200金币即可获得奖励</TaskTips_SCN>
+    <TaskTips_EN>Spend 200 Hero Coins to win reward.</TaskTips_EN>
+    <TaskTips_FCN>只要花费200金币即可获得奖励</TaskTips_FCN>
+</ResSystemTaskDisplayDesc>
+<ResSystemTaskDisplayDesc version="1">
+    <ResID>8 </ResID>
+    <TaskName_SCN>每日对战</TaskName_SCN>
+    <TaskName_EN>Daily Match</TaskName_EN>
+    <TaskName_FCN>每日对战</TaskName_FCN>
+    <TaskDesc_SCN>参与{0}场对战模式比赛</TaskDesc_SCN>
+    <TaskDesc_EN>Play {0} matches.</TaskDesc_EN>
+    <TaskDesc_FCN>参与{0}场对战模式比赛</TaskDesc_FCN>
+    <TaskTips_SCN>只要参与1场对战即可获得奖励</TaskTips_SCN>
+    <TaskTips_EN>Play 1 match to win reward.</TaskTips_EN>
+    <TaskTips_FCN>只要参与1场对战即可获得奖励</TaskTips_FCN>
+</ResSystemTaskDisplayDesc>
+<ResSystemTaskDisplayDesc version="1">
+    <ResID>9 </ResID>
+    <TaskName_SCN>疯狂造塔</TaskName_SCN>
+    <TaskName_EN>Turret-thon</TaskName_EN>
+    <TaskName_FCN>疯狂造塔</TaskName_FCN>
+    <TaskDesc_SCN>建造{0}次防御塔</TaskDesc_SCN>
+    <TaskDesc_EN>Build {0} turrets.</TaskDesc_EN>
+    <TaskDesc_FCN>建造{0}次防御塔</TaskDesc_FCN>
+    <TaskTips_SCN>只要建造6个防御塔即可获得奖励</TaskTips_SCN>
+    <TaskTips_EN>Build 6 turrets to win reward.</TaskTips_EN>
+    <TaskTips_FCN>只要建造6个防御塔即可获得奖励</TaskTips_FCN>
+</ResSystemTaskDisplayDesc>
+<ResSystemTaskDisplayDesc version="1">
+    <ResID>10 </ResID>
+    <TaskName_SCN>金矿达人</TaskName_SCN>
+    <TaskName_EN>Gold Rush</TaskName_EN>
+    <TaskName_FCN>金矿达人</TaskName_FCN>
+    <TaskDesc_SCN>建造金矿{0}次</TaskDesc_SCN>
+    <TaskDesc_EN>Build {0} mines.</TaskDesc_EN>
+    <TaskDesc_FCN>建造金矿{0}次</TaskDesc_FCN>
+    <TaskTips_SCN>建造金矿1次即可获得奖励</TaskTips_SCN>
+    <TaskTips_EN>Build 1 mine to win reward.</TaskTips_EN>
+    <TaskTips_FCN>建造金矿1次即可获得奖励</TaskTips_FCN>
+</ResSystemTaskDisplayDesc>
+<ResSystemTaskDisplayDesc version="1">
+    <ResID>11 </ResID>
+    <TaskName_SCN>屠魔勇士</TaskName_SCN>
+    <TaskName_EN>Demon Slayer</TaskName_EN>
+    <TaskName_FCN>屠魔勇士</TaskName_FCN>
+    <TaskDesc_SCN>己方击败沙漠之王/圣甲虫{0}次</TaskDesc_SCN>
+    <TaskDesc_EN>Slay the Desert King/Holy Scarab {0} times with your team.</TaskDesc_EN>
+    <TaskDesc_FCN>己方击败沙漠之王/圣甲虫{0}次</TaskDesc_FCN>
+    <TaskTips_SCN>己方只要击杀沙漠之王/圣甲虫3次即可获得奖励</TaskTips_SCN>
+    <TaskTips_EN>Slay the Desert King/Holy Scarab 3 times with your team to win reward.</TaskTips_EN>
+    <TaskTips_FCN>己方只要击杀沙漠之王/圣甲虫3次即可获得奖励</TaskTips_FCN>
+</ResSystemTaskDisplayDesc>
+<ResSystemTaskDisplayDesc version="1">
+    <ResID>12 </ResID>
+    <TaskName_SCN>每日首胜</TaskName_SCN>
+    <TaskName_EN>1st Win of the Day</TaskName_EN>
+    <TaskName_FCN>每日首胜</TaskName_FCN>
+    <TaskDesc_SCN>赢得{0}场对战</TaskDesc_SCN>
+    <TaskDesc_EN>Win {0} matches.</TaskDesc_EN>
+    <TaskDesc_FCN>赢得{0}场对战</TaskDesc_FCN>
+    <TaskTips_SCN>赢得1场比赛即可获得奖励</TaskTips_SCN>
+    <TaskTips_EN>Win 1 match to win reward.</TaskTips_EN>
+    <TaskTips_FCN>赢得1场比赛即可获得奖励</TaskTips_FCN>
+</ResSystemTaskDisplayDesc>
+<ResSystemTaskDisplayDesc version="1">
+    <ResID>13 </ResID>
+    <TaskName_SCN>胜利时光</TaskName_SCN>
+    <TaskName_EN>Victorious</TaskName_EN>
+    <TaskName_FCN>胜利时光</TaskName_FCN>
+    <TaskDesc_SCN>赢得{0}场对战</TaskDesc_SCN>
+    <TaskDesc_EN>Win {0} matches.</TaskDesc_EN>
+    <TaskDesc_FCN>赢得{0}场对战</TaskDesc_FCN>
+    <TaskTips_SCN>再赢1场比赛即可获得奖励</TaskTips_SCN>
+    <TaskTips_EN>Win 1 more match to win reward.</TaskTips_EN>
+    <TaskTips_FCN>再赢1场比赛即可获得奖励</TaskTips_FCN>
+</ResSystemTaskDisplayDesc>
+<ResSystemTaskDisplayDesc version="1">
+    <ResID>14 </ResID>
+    <TaskName_SCN>坚持不懈</TaskName_SCN>
+    <TaskName_EN>Perseverance</TaskName_EN>
+    <TaskName_FCN>坚持不懈</TaskName_FCN>
+    <TaskDesc_SCN>参加{0}场对战模式比赛</TaskDesc_SCN>
+    <TaskDesc_EN>Play {0} matches.</TaskDesc_EN>
+    <TaskDesc_FCN>参加{0}场对战模式比赛</TaskDesc_FCN>
+    <TaskTips_SCN>参与3场比赛即可获得奖励</TaskTips_SCN>
+    <TaskTips_EN>Play 3 matches to win reward.</TaskTips_EN>
+    <TaskTips_FCN>参与3场比赛即可获得奖励</TaskTips_FCN>
+</ResSystemTaskDisplayDesc>
+<ResSystemTaskDisplayDesc version="1">
+    <ResID>15 </ResID>
+    <TaskName_SCN>活跃度</TaskName_SCN>
+    <TaskName_EN>Activity</TaskName_EN>
+    <TaskName_FCN>活跃度</TaskName_FCN>
+    <TaskDesc_SCN>活跃度达到{0}点</TaskDesc_SCN>
+    <TaskDesc_EN>Reach {0} activity.</TaskDesc_EN>
+    <TaskDesc_FCN>活跃度达到{0}点</TaskDesc_FCN>
+    <TaskTips_SCN></TaskTips_SCN>
+    <TaskTips_EN></TaskTips_EN>
+    <TaskTips_FCN></TaskTips_FCN>
+</ResSystemTaskDisplayDesc>
+<ResSystemTaskDisplayDesc version="1">
+    <ResID>16 </ResID>
+    <TaskName_SCN>活跃度</TaskName_SCN>
+    <TaskName_EN>Activity</TaskName_EN>
+    <TaskName_FCN>活跃度</TaskName_FCN>
+    <TaskDesc_SCN>活跃度达到{0}点</TaskDesc_SCN>
+    <TaskDesc_EN>Reach {0} activity.</TaskDesc_EN>
+    <TaskDesc_FCN>活跃度达到{0}点</TaskDesc_FCN>
+    <TaskTips_SCN></TaskTips_SCN>
+    <TaskTips_EN></TaskTips_EN>
+    <TaskTips_FCN></TaskTips_FCN>
+</ResSystemTaskDisplayDesc>
+<ResSystemTaskDisplayDesc version="1">
+    <ResID>17 </ResID>
+    <TaskName_SCN>活跃度</TaskName_SCN>
+    <TaskName_EN>Activity</TaskName_EN>
+    <TaskName_FCN>活跃度</TaskName_FCN>
+    <TaskDesc_SCN>活跃度达到{0}点</TaskDesc_SCN>
+    <TaskDesc_EN>Reach {0} activity.</TaskDesc_EN>
+    <TaskDesc_FCN>活跃度达到{0}点</TaskDesc_FCN>
+    <TaskTips_SCN></TaskTips_SCN>
+    <TaskTips_EN></TaskTips_EN>
+    <TaskTips_FCN></TaskTips_FCN>
+</ResSystemTaskDisplayDesc>
+<ResSystemTaskDisplayDesc version="1">
+    <ResID>18 </ResID>
+    <TaskName_SCN>活跃度</TaskName_SCN>
+    <TaskName_EN>Activity</TaskName_EN>
+    <TaskName_FCN>活跃度</TaskName_FCN>
+    <TaskDesc_SCN>活跃度达到{0}点</TaskDesc_SCN>
+    <TaskDesc_EN>Reach {0} activity.</TaskDesc_EN>
+    <TaskDesc_FCN>活跃度达到{0}点</TaskDesc_FCN>
+    <TaskTips_SCN></TaskTips_SCN>
+    <TaskTips_EN></TaskTips_EN>
+    <TaskTips_FCN></TaskTips_FCN>
+</ResSystemTaskDisplayDesc>
+<ResSystemTaskDisplayDesc version="1">
+    <ResID>19 </ResID>
+    <TaskName_SCN>活跃度</TaskName_SCN>
+    <TaskName_EN>Activity</TaskName_EN>
+    <TaskName_FCN>活跃度</TaskName_FCN>
+    <TaskDesc_SCN>活跃度达到{0}点</TaskDesc_SCN>
+    <TaskDesc_EN>Reach {0} activity.</TaskDesc_EN>
+    <TaskDesc_FCN>活跃度达到{0}点</TaskDesc_FCN>
+    <TaskTips_SCN></TaskTips_SCN>
+    <TaskTips_EN></TaskTips_EN>
+    <TaskTips_FCN></TaskTips_FCN>
+</ResSystemTaskDisplayDesc>
+<ResSystemTaskDisplayDesc version="1">
+    <ResID>20 </ResID>
+    <TaskName_SCN>活跃度</TaskName_SCN>
+    <TaskName_EN>Activity</TaskName_EN>
+    <TaskName_FCN>活跃度</TaskName_FCN>
+    <TaskDesc_SCN>周活跃度达到{0}点</TaskDesc_SCN>
+    <TaskDesc_EN>Reach {0} weekly activity.</TaskDesc_EN>
+    <TaskDesc_FCN>周活跃度达到{0}点</TaskDesc_FCN>
+    <TaskTips_SCN></TaskTips_SCN>
+    <TaskTips_EN></TaskTips_EN>
+    <TaskTips_FCN></TaskTips_FCN>
+</ResSystemTaskDisplayDesc>
+<ResSystemTaskDisplayDesc version="1">
+    <ResID>21 </ResID>
+    <TaskName_SCN>活跃度</TaskName_SCN>
+    <TaskName_EN>Activity</TaskName_EN>
+    <TaskName_FCN>活跃度</TaskName_FCN>
+    <TaskDesc_SCN>周活跃度达到{0}点</TaskDesc_SCN>
+    <TaskDesc_EN>Reach {0} weekly activity.</TaskDesc_EN>
+    <TaskDesc_FCN>周活跃度达到{0}点</TaskDesc_FCN>
+    <TaskTips_SCN></TaskTips_SCN>
+    <TaskTips_EN></TaskTips_EN>
+    <TaskTips_FCN></TaskTips_FCN>
+</ResSystemTaskDisplayDesc>
+<ResSystemTaskDisplayDesc version="1">
+    <ResID>22 </ResID>
+    <TaskName_SCN>完美配合</TaskName_SCN>
+    <TaskName_EN>Perfect Teamwork</TaskName_EN>
+    <TaskName_FCN>完美配合</TaskName_FCN>
+    <TaskDesc_SCN>与好友组队完成{0}场对战</TaskDesc_SCN>
+    <TaskDesc_EN>Complete {0} matches with a friend.</TaskDesc_EN>
+    <TaskDesc_FCN>与好友组队完成{0}场对战</TaskDesc_FCN>
+    <TaskTips_SCN>与好友组队完3场对战即可获得奖励</TaskTips_SCN>
+    <TaskTips_EN>Play 3 matches with a friend to win reward.</TaskTips_EN>
+    <TaskTips_FCN>与好友组队完3场对战即可获得奖励</TaskTips_FCN>
+</ResSystemTaskDisplayDesc>
+<ResSystemTaskDisplayDesc version="1">
+    <ResID>23 </ResID>
+    <TaskName_SCN>上分先锋</TaskName_SCN>
+    <TaskName_EN>Rising Star</TaskName_EN>
+    <TaskName_FCN>上分先锋</TaskName_FCN>
+    <TaskDesc_SCN>参与{0}场排位比赛</TaskDesc_SCN>
+    <TaskDesc_EN>Play {0} ranked matches.</TaskDesc_EN>
+    <TaskDesc_FCN>参与{0}场排位比赛</TaskDesc_FCN>
+    <TaskTips_SCN>进行1场排位比赛即可获得奖励</TaskTips_SCN>
+    <TaskTips_EN>Win 1 ranked match to win reward.</TaskTips_EN>
+    <TaskTips_FCN>进行1场排位比赛即可获得奖励</TaskTips_FCN>
+</ResSystemTaskDisplayDesc>
+<ResSystemTaskDisplayDesc version="1">
+    <ResID>24 </ResID>
+    <TaskName_SCN>烈焰战神</TaskName_SCN>
+    <TaskName_EN>The Flame God</TaskName_EN>
+    <TaskName_FCN>烈焰战神</TaskName_FCN>
+    <TaskDesc_SCN>己方击杀黑暗泰坦/烈焰战神{0}次</TaskDesc_SCN>
+    <TaskDesc_EN>Slay the Dark Titan/Flame God {0} times with your team.</TaskDesc_EN>
+    <TaskDesc_FCN>己方击杀黑暗泰坦/烈焰战神{0}次</TaskDesc_FCN>
+    <TaskTips_SCN>己方只要击杀黑暗泰坦/烈焰战神3次即可获得奖励</TaskTips_SCN>
+    <TaskTips_EN>Slay the Dark Titan/Flame God 3 times with your team to win reward.</TaskTips_EN>
+    <TaskTips_FCN>己方只要击杀黑暗泰坦/烈焰战神3次即可获得奖励</TaskTips_FCN>
+</ResSystemTaskDisplayDesc>
+<ResSystemTaskDisplayDesc version="1">
+    <ResID>25 </ResID>
+    <TaskName_SCN>邀请好友</TaskName_SCN>
+    <TaskName_EN>Add Friend</TaskName_EN>
+    <TaskName_FCN>邀请好友</TaskName_FCN>
+    <TaskDesc_SCN>向（微信，QQ）好友发送上线邀请{0}次</TaskDesc_SCN>
+    <TaskDesc_EN>Send {0} login invitations to your SNS friends.</TaskDesc_EN>
+    <TaskDesc_FCN>向（微信，QQ）好友发送上线邀请{0}次</TaskDesc_FCN>
+    <TaskTips_SCN>向（微信，QQ）好友发送上线邀请1次即可获得奖励</TaskTips_SCN>
+    <TaskTips_EN>Send 1 login invitation to your SNS friend to win reward.</TaskTips_EN>
+    <TaskTips_FCN>向（微信，QQ）好友发送上线邀请1次即可获得奖励</TaskTips_FCN>
+</ResSystemTaskDisplayDesc>
+<ResSystemTaskDisplayDesc version="1">
+    <ResID>26 </ResID>
+    <TaskName_SCN>每日分享</TaskName_SCN>
+    <TaskName_EN>Daily Sharing</TaskName_EN>
+    <TaskName_FCN>每日分享</TaskName_FCN>
+    <TaskDesc_SCN>分享游戏{0}次</TaskDesc_SCN>
+    <TaskDesc_EN>Share {0} games.</TaskDesc_EN>
+    <TaskDesc_FCN>分享游戏{0}次</TaskDesc_FCN>
+    <TaskTips_SCN>分享游戏1次即可获得奖励</TaskTips_SCN>
+    <TaskTips_EN>Share 1 time to win reward.</TaskTips_EN>
+    <TaskTips_FCN>分享游戏1次即可获得奖励</TaskTips_FCN>
+</ResSystemTaskDisplayDesc>
+<ResSystemTaskDisplayDesc version="1">
+    <ResID>27 </ResID>
+    <TaskName_SCN>战争之祭</TaskName_SCN>
+    <TaskName_EN>Warfest</TaskName_EN>
+    <TaskName_FCN>战争之祭</TaskName_FCN>
+    <TaskDesc_SCN>进行战争之祭{0}次</TaskDesc_SCN>
+    <TaskDesc_EN>Play Warfest {0} times.</TaskDesc_EN>
+    <TaskDesc_FCN>进行战争之祭{0}次</TaskDesc_FCN>
+    <TaskTips_SCN>进行战争之祭1次即可获得奖励</TaskTips_SCN>
+    <TaskTips_EN>Play Warfest 1 time to win reward.</TaskTips_EN>
+    <TaskTips_FCN>进行战争之祭1次即可获得奖励</TaskTips_FCN>
+</ResSystemTaskDisplayDesc>
+<ResSystemTaskDisplayDesc version="1">
+    <ResID>50 </ResID>
+    <TaskName_SCN>参加对战</TaskName_SCN>
+    <TaskName_EN>Play Match</TaskName_EN>
+    <TaskName_FCN>参加对战</TaskName_FCN>
+    <TaskDesc_SCN>参加{0}场对战</TaskDesc_SCN>
+    <TaskDesc_EN>Play {0} matches.</TaskDesc_EN>
+    <TaskDesc_FCN>参加{0}场对战</TaskDesc_FCN>
+    <TaskTips_SCN></TaskTips_SCN>
+    <TaskTips_EN></TaskTips_EN>
+    <TaskTips_FCN></TaskTips_FCN>
+</ResSystemTaskDisplayDesc>
+<ResSystemTaskDisplayDesc version="1">
+    <ResID>51 </ResID>
+    <TaskName_SCN>人族对战</TaskName_SCN>
+    <TaskName_EN>Human Match</TaskName_EN>
+    <TaskName_FCN>人族对战</TaskName_FCN>
+    <TaskDesc_SCN>使用人族进行{0}场对战</TaskDesc_SCN>
+    <TaskDesc_EN>Play {0} matches as Human.</TaskDesc_EN>
+    <TaskDesc_FCN>使用人族进行{0}场对战</TaskDesc_FCN>
+    <TaskTips_SCN></TaskTips_SCN>
+    <TaskTips_EN></TaskTips_EN>
+    <TaskTips_FCN></TaskTips_FCN>
+</ResSystemTaskDisplayDesc>
+<ResSystemTaskDisplayDesc version="1">
+    <ResID>52 </ResID>
+    <TaskName_SCN>查看技巧教学</TaskName_SCN>
+    <TaskName_EN>Watch Advanced Guide</TaskName_EN>
+    <TaskName_FCN>查看技巧教学</TaskName_FCN>
+    <TaskDesc_SCN>学习任意技巧教学视频</TaskDesc_SCN>
+    <TaskDesc_EN>Watch any advanced guide.</TaskDesc_EN>
+    <TaskDesc_FCN>学习任意技巧教学视频</TaskDesc_FCN>
+    <TaskTips_SCN></TaskTips_SCN>
+    <TaskTips_EN></TaskTips_EN>
+    <TaskTips_FCN></TaskTips_FCN>
+</ResSystemTaskDisplayDesc>
+<ResSystemTaskDisplayDesc version="1">
+    <ResID>53 </ResID>
+    <TaskName_SCN>获得英雄</TaskName_SCN>
+    <TaskName_EN>Get Hero</TaskName_EN>
+    <TaskName_FCN>获得英雄</TaskName_FCN>
+    <TaskDesc_SCN>获得{0}个英雄</TaskDesc_SCN>
+    <TaskDesc_EN>Get {0} Heroes.</TaskDesc_EN>
+    <TaskDesc_FCN>获得{0}个英雄</TaskDesc_FCN>
+    <TaskTips_SCN></TaskTips_SCN>
+    <TaskTips_EN></TaskTips_EN>
+    <TaskTips_FCN></TaskTips_FCN>
+</ResSystemTaskDisplayDesc>
+<ResSystemTaskDisplayDesc version="1">
+    <ResID>54 </ResID>
+    <TaskName_SCN>累计杀野怪</TaskName_SCN>
+    <TaskName_EN>Culling Monsters</TaskName_EN>
+    <TaskName_FCN>累计杀野怪</TaskName_FCN>
+    <TaskDesc_SCN>累计击败{0}野怪</TaskDesc_SCN>
+    <TaskDesc_EN>Slay {0} monsters.</TaskDesc_EN>
+    <TaskDesc_FCN>累计击败{0}野怪</TaskDesc_FCN>
+    <TaskTips_SCN></TaskTips_SCN>
+    <TaskTips_EN></TaskTips_EN>
+    <TaskTips_FCN></TaskTips_FCN>
+</ResSystemTaskDisplayDesc>
+<ResSystemTaskDisplayDesc version="1">
+    <ResID>55 </ResID>
+    <TaskName_SCN>兽族对战</TaskName_SCN>
+    <TaskName_EN>Orcs Match</TaskName_EN>
+    <TaskName_FCN>兽族对战</TaskName_FCN>
+    <TaskDesc_SCN>使用兽族进行{0}场对战</TaskDesc_SCN>
+    <TaskDesc_EN>Play {0} matches as Orcs.</TaskDesc_EN>
+    <TaskDesc_FCN>使用兽族进行{0}场对战</TaskDesc_FCN>
+    <TaskTips_SCN></TaskTips_SCN>
+    <TaskTips_EN></TaskTips_EN>
+    <TaskTips_FCN></TaskTips_FCN>
+</ResSystemTaskDisplayDesc>
+<ResSystemTaskDisplayDesc version="1">
+    <ResID>56 </ResID>
+    <TaskName_SCN>累计造金矿</TaskName_SCN>
+    <TaskName_EN>Total Mines</TaskName_EN>
+    <TaskName_FCN>累计造金矿</TaskName_FCN>
+    <TaskDesc_SCN>累计建造{0}座金矿</TaskDesc_SCN>
+    <TaskDesc_EN>Build {0} mines.</TaskDesc_EN>
+    <TaskDesc_FCN>累计建造{0}座金矿</TaskDesc_FCN>
+    <TaskTips_SCN></TaskTips_SCN>
+    <TaskTips_EN></TaskTips_EN>
+    <TaskTips_FCN></TaskTips_FCN>
+</ResSystemTaskDisplayDesc>
+<ResSystemTaskDisplayDesc version="1">
+    <ResID>57 </ResID>
+    <TaskName_SCN>亡灵对战</TaskName_SCN>
+    <TaskName_EN>Undead Match</TaskName_EN>
+    <TaskName_FCN>亡灵对战</TaskName_FCN>
+    <TaskDesc_SCN>使用亡灵进行{0}场对战</TaskDesc_SCN>
+    <TaskDesc_EN>Play {0} matches as Undead.</TaskDesc_EN>
+    <TaskDesc_FCN>使用亡灵进行{0}场对战</TaskDesc_FCN>
+    <TaskTips_SCN></TaskTips_SCN>
+    <TaskTips_EN></TaskTips_EN>
+    <TaskTips_FCN></TaskTips_FCN>
+</ResSystemTaskDisplayDesc>
+<ResSystemTaskDisplayDesc version="1">
+    <ResID>58 </ResID>
+    <TaskName_SCN>累计造箭塔</TaskName_SCN>
+    <TaskName_EN>Total Turrets Built</TaskName_EN>
+    <TaskName_FCN>累计造箭塔</TaskName_FCN>
+    <TaskDesc_SCN>累计建造{0}个防御塔</TaskDesc_SCN>
+    <TaskDesc_EN>Build {0} turrets.</TaskDesc_EN>
+    <TaskDesc_FCN>累计建造{0}个防御塔</TaskDesc_FCN>
+    <TaskTips_SCN></TaskTips_SCN>
+    <TaskTips_EN></TaskTips_EN>
+    <TaskTips_FCN></TaskTips_FCN>
+</ResSystemTaskDisplayDesc>
+<ResSystemTaskDisplayDesc version="1">
+    <ResID>59 </ResID>
+    <TaskName_SCN>累计获胜</TaskName_SCN>
+    <TaskName_EN>Total Wins</TaskName_EN>
+    <TaskName_FCN>累计获胜</TaskName_FCN>
+    <TaskDesc_SCN>获得{0}胜利</TaskDesc_SCN>
+    <TaskDesc_EN>Win {0} matches.</TaskDesc_EN>
+    <TaskDesc_FCN>获得{0}胜利</TaskDesc_FCN>
+    <TaskTips_SCN></TaskTips_SCN>
+    <TaskTips_EN></TaskTips_EN>
+    <TaskTips_FCN></TaskTips_FCN>
+</ResSystemTaskDisplayDesc>
+<ResSystemTaskDisplayDesc version="1">
+    <ResID>60 </ResID>
+    <TaskName_SCN>获得MVP</TaskName_SCN>
+    <TaskName_EN>Become MVP</TaskName_EN>
+    <TaskName_FCN>获得MVP</TaskName_FCN>
+    <TaskDesc_SCN>获得{0}次MVP</TaskDesc_SCN>
+    <TaskDesc_EN>Become MVP {0} times.</TaskDesc_EN>
+    <TaskDesc_FCN>获得{0}次MVP</TaskDesc_FCN>
+    <TaskTips_SCN></TaskTips_SCN>
+    <TaskTips_EN></TaskTips_EN>
+    <TaskTips_FCN></TaskTips_FCN>
+</ResSystemTaskDisplayDesc>
+<ResSystemTaskDisplayDesc version="1">
+    <ResID>61 </ResID>
+    <TaskName_SCN>组队游戏</TaskName_SCN>
+    <TaskName_EN>Multiplayer</TaskName_EN>
+    <TaskName_FCN>组队游戏</TaskName_FCN>
+    <TaskDesc_SCN>与好友组队对战{0}场</TaskDesc_SCN>
+    <TaskDesc_EN>Complete {0} matches with a friend.</TaskDesc_EN>
+    <TaskDesc_FCN>与好友组队对战{0}场</TaskDesc_FCN>
+    <TaskTips_SCN></TaskTips_SCN>
+    <TaskTips_EN></TaskTips_EN>
+    <TaskTips_FCN></TaskTips_FCN>
+</ResSystemTaskDisplayDesc>
+<ResSystemTaskDisplayDesc version="1">
+    <ResID>62 </ResID>
+    <TaskName_SCN>击杀圣甲虫</TaskName_SCN>
+    <TaskName_EN>Kill the Holy Scarab</TaskName_EN>
+    <TaskName_FCN>击杀圣甲虫</TaskName_FCN>
+    <TaskDesc_SCN>击败{0}次圣甲虫</TaskDesc_SCN>
+    <TaskDesc_EN>Slay the Holy Scarab {0} times.</TaskDesc_EN>
+    <TaskDesc_FCN>击败{0}次圣甲虫</TaskDesc_FCN>
+    <TaskTips_SCN></TaskTips_SCN>
+    <TaskTips_EN></TaskTips_EN>
+    <TaskTips_FCN></TaskTips_FCN>
+</ResSystemTaskDisplayDesc>
+<ResSystemTaskDisplayDesc version="1">
+    <ResID>63 </ResID>
+    <TaskName_SCN>击杀沙漠之王</TaskName_SCN>
+    <TaskName_EN>Kill the Desert King</TaskName_EN>
+    <TaskName_FCN>击杀沙漠之王</TaskName_FCN>
+    <TaskDesc_SCN>击败{0}次沙漠之王</TaskDesc_SCN>
+    <TaskDesc_EN>Slay the Desert King {0} times.</TaskDesc_EN>
+    <TaskDesc_FCN>击败{0}次沙漠之王</TaskDesc_FCN>
+    <TaskTips_SCN></TaskTips_SCN>
+    <TaskTips_EN></TaskTips_EN>
+    <TaskTips_FCN></TaskTips_FCN>
+</ResSystemTaskDisplayDesc>
+<ResSystemTaskDisplayDesc version="1">
+    <ResID>64 </ResID>
+    <TaskName_SCN>击杀烈焰战神</TaskName_SCN>
+    <TaskName_EN>Kill the Flame God</TaskName_EN>
+    <TaskName_FCN>击杀烈焰战神</TaskName_FCN>
+    <TaskDesc_SCN>击败{0}次烈焰战神</TaskDesc_SCN>
+    <TaskDesc_EN>Slay the Flame God {0} times.</TaskDesc_EN>
+    <TaskDesc_FCN>击败{0}次烈焰战神</TaskDesc_FCN>
+    <TaskTips_SCN></TaskTips_SCN>
+    <TaskTips_EN></TaskTips_EN>
+    <TaskTips_FCN></TaskTips_FCN>
+</ResSystemTaskDisplayDesc>
+<ResSystemTaskDisplayDesc version="1">
+    <ResID>65 </ResID>
+    <TaskName_SCN>击杀黑暗泰坦</TaskName_SCN>
+    <TaskName_EN>Kill the Dark Titan</TaskName_EN>
+    <TaskName_FCN>击杀黑暗泰坦</TaskName_FCN>
+    <TaskDesc_SCN>击败{0}次黑暗泰坦</TaskDesc_SCN>
+    <TaskDesc_EN>Slay the Dark Titan {0} times.</TaskDesc_EN>
+    <TaskDesc_FCN>击败{0}次黑暗泰坦</TaskDesc_FCN>
+    <TaskTips_SCN></TaskTips_SCN>
+    <TaskTips_EN></TaskTips_EN>
+    <TaskTips_FCN></TaskTips_FCN>
+</ResSystemTaskDisplayDesc>
+<ResSystemTaskDisplayDesc version="1">
+    <ResID>66 </ResID>
+    <TaskName_SCN>获得MVP</TaskName_SCN>
+    <TaskName_EN>Become MVP</TaskName_EN>
+    <TaskName_FCN>获得MVP</TaskName_FCN>
+    <TaskDesc_SCN>获得{0}次MVP</TaskDesc_SCN>
+    <TaskDesc_EN>Become MVP {0} times.</TaskDesc_EN>
+    <TaskDesc_FCN>获得{0}次MVP</TaskDesc_FCN>
+    <TaskTips_SCN></TaskTips_SCN>
+    <TaskTips_EN></TaskTips_EN>
+    <TaskTips_FCN></TaskTips_FCN>
+</ResSystemTaskDisplayDesc>
+<ResSystemTaskDisplayDesc version="1">
+    <ResID>67 </ResID>
+    <TaskName_SCN>人族对战</TaskName_SCN>
+    <TaskName_EN>Human Match</TaskName_EN>
+    <TaskName_FCN>人族对战</TaskName_FCN>
+    <TaskDesc_SCN>使用人族进行{0}场对战</TaskDesc_SCN>
+    <TaskDesc_EN>Play {0} matches as Human.</TaskDesc_EN>
+    <TaskDesc_FCN>使用人族进行{0}场对战</TaskDesc_FCN>
+    <TaskTips_SCN></TaskTips_SCN>
+    <TaskTips_EN></TaskTips_EN>
+    <TaskTips_FCN></TaskTips_FCN>
+</ResSystemTaskDisplayDesc>
+<ResSystemTaskDisplayDesc version="1">
+    <ResID>68 </ResID>
+    <TaskName_SCN>训练骑士</TaskName_SCN>
+    <TaskName_EN>Train Knights</TaskName_EN>
+    <TaskName_FCN>训练骑士</TaskName_FCN>
+    <TaskDesc_SCN>累计训练{0}个重装骑士</TaskDesc_SCN>
+    <TaskDesc_EN>Train {0} Heavy Knights.</TaskDesc_EN>
+    <TaskDesc_FCN>累计训练{0}个重装骑士</TaskDesc_FCN>
+    <TaskTips_SCN></TaskTips_SCN>
+    <TaskTips_EN></TaskTips_EN>
+    <TaskTips_FCN></TaskTips_FCN>
+</ResSystemTaskDisplayDesc>
+<ResSystemTaskDisplayDesc version="1">
+    <ResID>69 </ResID>
+    <TaskName_SCN>兽族对战</TaskName_SCN>
+    <TaskName_EN>Orcs Match</TaskName_EN>
+    <TaskName_FCN>兽族对战</TaskName_FCN>
+    <TaskDesc_SCN>使用兽族进行{0}场对战</TaskDesc_SCN>
+    <TaskDesc_EN>Play {0} matches as Orcs.</TaskDesc_EN>
+    <TaskDesc_FCN>使用兽族进行{0}场对战</TaskDesc_FCN>
+    <TaskTips_SCN></TaskTips_SCN>
+    <TaskTips_EN></TaskTips_EN>
+    <TaskTips_FCN></TaskTips_FCN>
+</ResSystemTaskDisplayDesc>
+<ResSystemTaskDisplayDesc version="1">
+    <ResID>70 </ResID>
+    <TaskName_SCN>训练战将</TaskName_SCN>
+    <TaskName_EN>Train Orc Warriors</TaskName_EN>
+    <TaskName_FCN>训练战将</TaskName_FCN>
+    <TaskDesc_SCN>累计训练{0}个兽人战将</TaskDesc_SCN>
+    <TaskDesc_EN>Train {0} Orc Centurion.</TaskDesc_EN>
+    <TaskDesc_FCN>累计训练{0}个兽人战将</TaskDesc_FCN>
+    <TaskTips_SCN></TaskTips_SCN>
+    <TaskTips_EN></TaskTips_EN>
+    <TaskTips_FCN></TaskTips_FCN>
+</ResSystemTaskDisplayDesc>
+<ResSystemTaskDisplayDesc version="1">
+    <ResID>71 </ResID>
+    <TaskName_SCN>亡灵对战</TaskName_SCN>
+    <TaskName_EN>Undead Match</TaskName_EN>
+    <TaskName_FCN>亡灵对战</TaskName_FCN>
+    <TaskDesc_SCN>使用亡灵进行{0}场对战</TaskDesc_SCN>
+    <TaskDesc_EN>Play {0} matches as Undead.</TaskDesc_EN>
+    <TaskDesc_FCN>使用亡灵进行{0}场对战</TaskDesc_FCN>
+    <TaskTips_SCN></TaskTips_SCN>
+    <TaskTips_EN></TaskTips_EN>
+    <TaskTips_FCN></TaskTips_FCN>
+</ResSystemTaskDisplayDesc>
+<ResSystemTaskDisplayDesc version="1">
+    <ResID>72 </ResID>
+    <TaskName_SCN>训练巨龙</TaskName_SCN>
+    <TaskName_EN>Train Dragons</TaskName_EN>
+    <TaskName_FCN>训练巨龙</TaskName_FCN>
+    <TaskDesc_SCN>累计训练{0}只幽暗巨兽</TaskDesc_SCN>
+    <TaskDesc_EN>Train {0} Dark Behemoths.</TaskDesc_EN>
+    <TaskDesc_FCN>累计训练{0}只幽暗巨兽</TaskDesc_FCN>
+    <TaskTips_SCN></TaskTips_SCN>
+    <TaskTips_EN></TaskTips_EN>
+    <TaskTips_FCN></TaskTips_FCN>
+</ResSystemTaskDisplayDesc>
+<ResSystemTaskDisplayDesc version="1">
+    <ResID>73 </ResID>
+    <TaskName_SCN>精灵对战</TaskName_SCN>
+    <TaskName_EN>Elves Match</TaskName_EN>
+    <TaskName_FCN>精灵对战</TaskName_FCN>
+    <TaskDesc_SCN>使用精灵进行{0}场对战</TaskDesc_SCN>
+    <TaskDesc_EN>Play {0} matches as Elves.</TaskDesc_EN>
+    <TaskDesc_FCN>使用精灵进行{0}场对战</TaskDesc_FCN>
+    <TaskTips_SCN></TaskTips_SCN>
+    <TaskTips_EN></TaskTips_EN>
+    <TaskTips_FCN></TaskTips_FCN>
+</ResSystemTaskDisplayDesc>
+<ResSystemTaskDisplayDesc version="1">
+    <ResID>74 </ResID>
+    <TaskName_SCN>训练双头龙</TaskName_SCN>
+    <TaskName_EN>Train Double-Headed Dragons</TaskName_EN>
+    <TaskName_FCN>训练双头龙</TaskName_FCN>
+    <TaskDesc_SCN>累计训练{0}只双头龙</TaskDesc_SCN>
+    <TaskDesc_EN>Train {0} Double-Headed Dragons.</TaskDesc_EN>
+    <TaskDesc_FCN>累计训练{0}只双头龙</TaskDesc_FCN>
+    <TaskTips_SCN></TaskTips_SCN>
+    <TaskTips_EN></TaskTips_EN>
+    <TaskTips_FCN></TaskTips_FCN>
+</ResSystemTaskDisplayDesc>
+<ResSystemTaskDisplayDesc version="1">
+    <ResID>75 </ResID>
+    <TaskName_SCN>累计杀野怪</TaskName_SCN>
+    <TaskName_EN>Culling Monsters</TaskName_EN>
+    <TaskName_FCN>累计杀野怪</TaskName_FCN>
+    <TaskDesc_SCN>累计击败{0}野怪</TaskDesc_SCN>
+    <TaskDesc_EN>Slay {0} monsters.</TaskDesc_EN>
+    <TaskDesc_FCN>累计击败{0}野怪</TaskDesc_FCN>
+    <TaskTips_SCN></TaskTips_SCN>
+    <TaskTips_EN></TaskTips_EN>
+    <TaskTips_FCN></TaskTips_FCN>
+</ResSystemTaskDisplayDesc>
+<ResSystemTaskDisplayDesc version="1">
+    <ResID>76 </ResID>
+    <TaskName_SCN>累计造金矿</TaskName_SCN>
+    <TaskName_EN>Total Mines</TaskName_EN>
+    <TaskName_FCN>累计造金矿</TaskName_FCN>
+    <TaskDesc_SCN>累计建造{0}座金矿</TaskDesc_SCN>
+    <TaskDesc_EN>Build {0} mines.</TaskDesc_EN>
+    <TaskDesc_FCN>累计建造{0}座金矿</TaskDesc_FCN>
+    <TaskTips_SCN></TaskTips_SCN>
+    <TaskTips_EN></TaskTips_EN>
+    <TaskTips_FCN></TaskTips_FCN>
+</ResSystemTaskDisplayDesc>
+<ResSystemTaskDisplayDesc version="1">
+    <ResID>77 </ResID>
+    <TaskName_SCN>累计造箭塔</TaskName_SCN>
+    <TaskName_EN>Total Turrets Built</TaskName_EN>
+    <TaskName_FCN>累计造箭塔</TaskName_FCN>
+    <TaskDesc_SCN>累计建造{0}个防御塔</TaskDesc_SCN>
+    <TaskDesc_EN>Build {0} turrets.</TaskDesc_EN>
+    <TaskDesc_FCN>累计建造{0}个防御塔</TaskDesc_FCN>
+    <TaskTips_SCN></TaskTips_SCN>
+    <TaskTips_EN></TaskTips_EN>
+    <TaskTips_FCN></TaskTips_FCN>
+</ResSystemTaskDisplayDesc>
+<ResSystemTaskDisplayDesc version="1">
+    <ResID>78 </ResID>
+    <TaskName_SCN>累计获胜</TaskName_SCN>
+    <TaskName_EN>Total Wins</TaskName_EN>
+    <TaskName_FCN>累计获胜</TaskName_FCN>
+    <TaskDesc_SCN>获得{0}胜利</TaskDesc_SCN>
+    <TaskDesc_EN>Win {0} matches.</TaskDesc_EN>
+    <TaskDesc_FCN>获得{0}胜利</TaskDesc_FCN>
+    <TaskTips_SCN></TaskTips_SCN>
+    <TaskTips_EN></TaskTips_EN>
+    <TaskTips_FCN></TaskTips_FCN>
+</ResSystemTaskDisplayDesc>
+<ResSystemTaskDisplayDesc version="1">
+    <ResID>79 </ResID>
+    <TaskName_SCN>组队游戏</TaskName_SCN>
+    <TaskName_EN>Multiplayer</TaskName_EN>
+    <TaskName_FCN>组队游戏</TaskName_FCN>
+    <TaskDesc_SCN>与好友组队对战{0}场</TaskDesc_SCN>
+    <TaskDesc_EN>Complete {0} matches with a friend.</TaskDesc_EN>
+    <TaskDesc_FCN>与好友组队对战{0}场</TaskDesc_FCN>
+    <TaskTips_SCN></TaskTips_SCN>
+    <TaskTips_EN></TaskTips_EN>
+    <TaskTips_FCN></TaskTips_FCN>
+</ResSystemTaskDisplayDesc>
+<ResSystemTaskDisplayDesc version="1">
+    <ResID>80 </ResID>
+    <TaskName_SCN>击杀圣甲虫</TaskName_SCN>
+    <TaskName_EN>Kill the Holy Scarab</TaskName_EN>
+    <TaskName_FCN>击杀圣甲虫</TaskName_FCN>
+    <TaskDesc_SCN>击败{0}次圣甲虫</TaskDesc_SCN>
+    <TaskDesc_EN>Slay the Holy Scarab {0} times.</TaskDesc_EN>
+    <TaskDesc_FCN>击败{0}次圣甲虫</TaskDesc_FCN>
+    <TaskTips_SCN></TaskTips_SCN>
+    <TaskTips_EN></TaskTips_EN>
+    <TaskTips_FCN></TaskTips_FCN>
+</ResSystemTaskDisplayDesc>
+<ResSystemTaskDisplayDesc version="1">
+    <ResID>81 </ResID>
+    <TaskName_SCN>击杀沙漠之王</TaskName_SCN>
+    <TaskName_EN>Kill the Desert King</TaskName_EN>
+    <TaskName_FCN>击杀沙漠之王</TaskName_FCN>
+    <TaskDesc_SCN>击败{0}次沙漠之王</TaskDesc_SCN>
+    <TaskDesc_EN>Slay the Desert King {0} times.</TaskDesc_EN>
+    <TaskDesc_FCN>击败{0}次沙漠之王</TaskDesc_FCN>
+    <TaskTips_SCN></TaskTips_SCN>
+    <TaskTips_EN></TaskTips_EN>
+    <TaskTips_FCN></TaskTips_FCN>
+</ResSystemTaskDisplayDesc>
+<ResSystemTaskDisplayDesc version="1">
+    <ResID>82 </ResID>
+    <TaskName_SCN>击杀烈焰战神</TaskName_SCN>
+    <TaskName_EN>Kill the Flame God</TaskName_EN>
+    <TaskName_FCN>击杀烈焰战神</TaskName_FCN>
+    <TaskDesc_SCN>击败{0}次烈焰战神</TaskDesc_SCN>
+    <TaskDesc_EN>Slay the Flame God {0} times.</TaskDesc_EN>
+    <TaskDesc_FCN>击败{0}次烈焰战神</TaskDesc_FCN>
+    <TaskTips_SCN></TaskTips_SCN>
+    <TaskTips_EN></TaskTips_EN>
+    <TaskTips_FCN></TaskTips_FCN>
+</ResSystemTaskDisplayDesc>
+<ResSystemTaskDisplayDesc version="1">
+    <ResID>83 </ResID>
+    <TaskName_SCN>击杀黑暗泰坦</TaskName_SCN>
+    <TaskName_EN>Kill the Dark Titan</TaskName_EN>
+    <TaskName_FCN>击杀黑暗泰坦</TaskName_FCN>
+    <TaskDesc_SCN>击败{0}次黑暗泰坦</TaskDesc_SCN>
+    <TaskDesc_EN>Slay the Dark Titan {0} times.</TaskDesc_EN>
+    <TaskDesc_FCN>击败{0}次黑暗泰坦</TaskDesc_FCN>
+    <TaskTips_SCN></TaskTips_SCN>
+    <TaskTips_EN></TaskTips_EN>
+    <TaskTips_FCN></TaskTips_FCN>
+</ResSystemTaskDisplayDesc>
+<ResSystemTaskDisplayDesc version="1">
+    <ResID>84 </ResID>
+    <TaskName_SCN>对战连胜</TaskName_SCN>
+    <TaskName_EN>Win Streak</TaskName_EN>
+    <TaskName_FCN>对战连胜</TaskName_FCN>
+    <TaskDesc_SCN>对战比赛获得{0}连胜</TaskDesc_SCN>
+    <TaskDesc_EN>Achieve a {0} win streak in any mode.</TaskDesc_EN>
+    <TaskDesc_FCN>对战比赛获得{0}连胜</TaskDesc_FCN>
+    <TaskTips_SCN></TaskTips_SCN>
+    <TaskTips_EN></TaskTips_EN>
+    <TaskTips_FCN></TaskTips_FCN>
+</ResSystemTaskDisplayDesc>
+<ResSystemTaskDisplayDesc version="1">
+    <ResID>85 </ResID>
+    <TaskName_SCN>排位连胜</TaskName_SCN>
+    <TaskName_EN>Ranked Win Streak</TaskName_EN>
+    <TaskName_FCN>排位连胜</TaskName_FCN>
+    <TaskDesc_SCN>排位赛获得{0}连胜</TaskDesc_SCN>
+    <TaskDesc_EN>Achieve a {0} win streak in Ranked.</TaskDesc_EN>
+    <TaskDesc_FCN>排位赛获得{0}连胜</TaskDesc_FCN>
+    <TaskTips_SCN></TaskTips_SCN>
+    <TaskTips_EN></TaskTips_EN>
+    <TaskTips_FCN></TaskTips_FCN>
+</ResSystemTaskDisplayDesc>
+<ResSystemTaskDisplayDesc version="1">
+    <ResID>86 </ResID>
+    <TaskName_SCN>获得MVP</TaskName_SCN>
+    <TaskName_EN>Become MVP</TaskName_EN>
+    <TaskName_FCN>获得MVP</TaskName_FCN>
+    <TaskDesc_SCN>获得{0}次MVP</TaskDesc_SCN>
+    <TaskDesc_EN>Become MVP {0} times.</TaskDesc_EN>
+    <TaskDesc_FCN>获得{0}次MVP</TaskDesc_FCN>
+    <TaskTips_SCN></TaskTips_SCN>
+    <TaskTips_EN></TaskTips_EN>
+    <TaskTips_FCN></TaskTips_FCN>
+</ResSystemTaskDisplayDesc>
+<ResSystemTaskDisplayDesc version="1">
+    <ResID>87 </ResID>
+    <TaskName_SCN>钻石段位</TaskName_SCN>
+    <TaskName_EN>Diamond League</TaskName_EN>
+    <TaskName_FCN>钻石段位</TaskName_FCN>
+    <TaskDesc_SCN>赛季段位达到钻石</TaskDesc_SCN>
+    <TaskDesc_EN>Reach Diamond League in a season.</TaskDesc_EN>
+    <TaskDesc_FCN>赛季段位达到钻石</TaskDesc_FCN>
+    <TaskTips_SCN></TaskTips_SCN>
+    <TaskTips_EN></TaskTips_EN>
+    <TaskTips_FCN></TaskTips_FCN>
+</ResSystemTaskDisplayDesc>
+<ResSystemTaskDisplayDesc version="1">
+    <ResID>101 </ResID>
+    <TaskName_SCN>基础教学</TaskName_SCN>
+    <TaskName_EN>Basic Tutorial</TaskName_EN>
+    <TaskName_FCN>基础教学</TaskName_FCN>
+    <TaskDesc_SCN>金币*1000</TaskDesc_SCN>
+    <TaskDesc_EN>Hero Coins*{0}00</TaskDesc_EN>
+    <TaskDesc_FCN>金币*1000</TaskDesc_FCN>
+    <TaskTips_SCN></TaskTips_SCN>
+    <TaskTips_EN></TaskTips_EN>
+    <TaskTips_FCN></TaskTips_FCN>
+</ResSystemTaskDisplayDesc>
+<ResSystemTaskDisplayDesc version="1">
+    <ResID>413 </ResID>
+    <TaskName_SCN>完成技巧教学</TaskName_SCN>
+    <TaskName_EN>Complete Advanced Guide</TaskName_EN>
+    <TaskName_FCN>完成技巧教学</TaskName_FCN>
+    <TaskDesc_SCN>全部完成可以获得一个永久皮肤</TaskDesc_SCN>
+    <TaskDesc_EN>Complete all to win a permanent skin.</TaskDesc_EN>
+    <TaskDesc_FCN>全部完成可以获得一个永久皮肤</TaskDesc_FCN>
+    <TaskTips_SCN>全部完成可以获得一个永久皮肤</TaskTips_SCN>
+    <TaskTips_EN>Complete all to win a permanent skin.</TaskTips_EN>
+    <TaskTips_FCN>全部完成可以获得一个永久皮肤</TaskTips_FCN>
+</ResSystemTaskDisplayDesc>
+</ResSystemTaskDisplayDesc_Tab>

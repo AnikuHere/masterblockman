@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<ResSystemPlayerIconDesc_Tab>
+<TResHeadAll version="5">
+    <resHead type="TResHead">
+        <Magic>1397052237 </Magic>
+        <Version>6 </Version>
+        <Unit>1097 </Unit>
+        <Count>19 </Count>
+        <MetalibHash>531d5b4a397ad5b3c0fbfb5cc8059e55</MetalibHash>
+        <ResVersion>0 </ResVersion>
+        <CreateTime>2023-04-19 20:42:33</CreateTime>
+        <ResEncording>UTF-8</ResEncording>
+        <ContentHash>68b34d1d313abf9bd1a63dfce4d721bd</ContentHash>
+    </resHead>
+    <resHeadExt type="TResHeadExt">
+        <DataOffset>136 </DataOffset>
+    </resHeadExt>
+</TResHeadAll>
+<ResSystemPlayerIconDesc version="1">
+    <ResID>1 </ResID>
+    <IsHave>1 </IsHave>
+    <Icon>UITexture/systemtexture/touxiang/T_ICON_yingxiong_000</Icon>
+    <Time>0 </Time>
+    <Name_SCN>人族标志</Name_SCN>
+    <Name_FCN>人族标志</Name_FCN>
+    <Name_EN>Human Emblem</Name_EN>
+    <Desc_SCN>人族标志</Desc_SCN>
+    <Desc_FCN>人族标志</Desc_FCN>
+    <Desc_EN>Human Emblem</Desc_EN>
+</ResSystemPlayerIconDesc>
+<ResSystemPlayerIconDesc version="1">
+    <ResID>2 </ResID>
+    <IsHave>1 </IsHave>
+    <Icon>UITexture/systemtexture/touxiang/T_ICON_yingxiong_001</Icon>
+    <Time>0 </Time>
+    <Name_SCN>兽族标志</Name_SCN>
+    <Name_FCN>兽族标志</Name_FCN>
+    <Name_EN>Orcish Emblem</Name_EN>
+    <Desc_SCN>兽族标志</Desc_SCN>
+    <Desc_FCN>兽族标志</Desc_FCN>
+    <Desc_EN>Orcish Emblem</Desc_EN>
+</ResSystemPlayerIconDesc>
+<ResSystemPlayerIconDesc version="1">
+    <ResID>3 </ResID>
+    <IsHave>1 </IsHave>
+    <Icon>UITexture/systemtexture/touxiang/T_ICON_yingxiong_002</Icon>
+    <Time>0 </Time>
+    <Name_SCN>亡灵标志</Name_SCN>
+    <Name_FCN>亡灵标志</Name_FCN>
+    <Name_EN>Undead Emblem</Name_EN>
+    <Desc_SCN>亡灵标志</Desc_SCN>
+    <Desc_FCN>亡灵标志</Desc_FCN>
+    <Desc_EN>Undead Emblem</Desc_EN>
+</ResSystemPlayerIconDesc>
+<ResSystemPlayerIconDesc version="1">
+    <ResID>4 </ResID>
+    <IsHave>1 </IsHave>
+    <Icon>UITexture/systemtexture/touxiang/T_ICON_yingxiong_003</Icon>
+    <Time>0 </Time>
+    <Name_SCN>精灵标志</Name_SCN>
+    <Name_FCN>精灵标志</Name_FCN>
+    <Name_EN>Elven Emblem</Name_EN>
+    <Desc_SCN>精灵标志</Desc_SCN>
+    <Desc_FCN>精灵标志</Desc_FCN>
+    <Desc_EN>Elven Emblem</Desc_EN>
+</ResSystemPlayerIconDesc>
+<ResSystemPlayerIconDesc version="1">
+    <ResID>5 </ResID>
+    <IsHave>0 </IsHave>
+    <Icon>UITexture/systemtexture/touxiang/T_ICON_yingxiong_004</Icon>
+    <Time>0 </Time>
+    <Name_SCN>真视之眼</Name_SCN>
+    <Name_FCN>真视之眼</Name_FCN>
+    <Name_EN>Vision Ward</Name_EN>
+    <Desc_SCN>排位赛首次胜利可获得</Desc_SCN>
+    <Desc_FCN>排位赛首次胜利可获得</Desc_FCN>
+    <Desc_EN>Obtained by winning your first ranked match.</Desc_EN>
+</ResSystemPlayerIconDesc>
+<ResSystemPlayerIconDesc version="1">
+    <ResID>6 </ResID>
+    <IsHave>0 </IsHave>
+    <Icon>UITexture/systemtexture/touxiang/T_ICON_yingxiong_005</Icon>
+    <Time>0 </Time>
+    <Name_SCN>索伦</Name_SCN>
+    <Name_FCN>索伦</Name_FCN>
+    <Name_EN>Rothol</Name_EN>
+    <Desc_SCN>解锁排位赛可获得</Desc_SCN>
+    <Desc_FCN>解锁排位赛可获得</Desc_FCN>
+    <Desc_EN>Obtained by unlocking Ranked mode.</Desc_EN>
+</ResSystemPlayerIconDesc>
+<ResSystemPlayerIconDesc version="1">
+    <ResID>7 </ResID>
+    <IsHave>0 </IsHave>
+    <Icon>UITexture/systemtexture/touxiang/T_ICON_yingxiong_006</Icon>
+    <Time>0 </Time>
+    <Name_SCN>艾米</Name_SCN>
+    <Name_FCN>艾米</Name_FCN>
+    <Name_EN>Aimee</Name_EN>
+    <Desc_SCN>赛季段位达到高贵黄金及以上</Desc_SCN>
+    <Desc_FCN>赛季段位达到高贵黄金及以上</Desc_FCN>
+    <Desc_EN>Obtained by reaching Gold League or above.</Desc_EN>
+</ResSystemPlayerIconDesc>
+<ResSystemPlayerIconDesc version="1">
+    <ResID>8 </ResID>
+    <IsHave>1 </IsHave>
+    <Icon>UITexture/systemtexture/touxiang/T_ICON_yingxiong_007</Icon>
+    <Time>0 </Time>
+    <Name_SCN>安东尼</Name_SCN>
+    <Name_FCN>安东尼</Name_FCN>
+    <Name_EN>Anthony</Name_EN>
+    <Desc_SCN>安东尼</Desc_SCN>
+    <Desc_FCN>安东尼</Desc_FCN>
+    <Desc_EN>Obtained as a close beta reward.</Desc_EN>
+</ResSystemPlayerIconDesc>
+<ResSystemPlayerIconDesc version="1">
+    <ResID>9 </ResID>
+    <IsHave>0 </IsHave>
+    <Icon>UITexture/systemtexture/touxiang/T_ICON_yingxiong_008</Icon>
+    <Time>0 </Time>
+    <Name_SCN>哈迪斯</Name_SCN>
+    <Name_FCN>哈迪斯</Name_FCN>
+    <Name_EN>Mot</Name_EN>
+    <Desc_SCN>达到30级可获得</Desc_SCN>
+    <Desc_FCN>达到30级可获得</Desc_FCN>
+    <Desc_EN>Obtained by reaching Lv. 30.</Desc_EN>
+</ResSystemPlayerIconDesc>
+<ResSystemPlayerIconDesc version="1">
+    <ResID>10 </ResID>
+    <IsHave>0 </IsHave>
+    <Icon>UITexture/systemtexture/touxiang/T_ICON_yingxiong_009</Icon>
+    <Time>0 </Time>
+    <Name_SCN>罗刹</Name_SCN>
+    <Name_FCN>罗刹</Name_FCN>
+    <Name_EN>Asuka</Name_EN>
+    <Desc_SCN>首次充值后可获得</Desc_SCN>
+    <Desc_FCN>首次充值后可获得</Desc_FCN>
+    <Desc_EN>Obtained by getting the 1st Purchase offer.</Desc_EN>
+</ResSystemPlayerIconDesc>
+<ResSystemPlayerIconDesc version="1">
+    <ResID>11 </ResID>
+    <IsHave>0 </IsHave>
+    <Icon>UITexture/systemtexture/touxiang/T_ICON_yingxiong_010</Icon>
+    <Time>0 </Time>
+    <Name_SCN>贝奥武夫</Name_SCN>
+    <Name_FCN>贝奥武夫</Name_FCN>
+    <Name_EN>Hogarth</Name_EN>
+    <Desc_SCN>达到10级可获得</Desc_SCN>
+    <Desc_FCN>达到10级可获得</Desc_FCN>
+    <Desc_EN>Obtained by reaching Lv. 10.</Desc_EN>
+</ResSystemPlayerIconDesc>
+<ResSystemPlayerIconDesc version="1">
+    <ResID>12 </ResID>
+    <IsHave>1 </IsHave>
+    <Icon>UITexture/systemtexture/touxiang/T_ICON_yingxiong_011</Icon>
+    <Time>0 </Time>
+    <Name_SCN>蕾拉</Name_SCN>
+    <Name_FCN>蕾拉</Name_FCN>
+    <Name_EN>Layla</Name_EN>
+    <Desc_SCN>蕾拉</Desc_SCN>
+    <Desc_FCN>蕾拉</Desc_FCN>
+    <Desc_EN>Obtained from events.</Desc_EN>
+</ResSystemPlayerIconDesc>
+<ResSystemPlayerIconDesc version="1">
+    <ResID>13 </ResID>
+    <IsHave>0 </IsHave>
+    <Icon>UITexture/systemtexture/touxiang/T_ICON_yingxiong_012</Icon>
+    <Time>0 </Time>
+    <Name_SCN>爱丽丝</Name_SCN>
+    <Name_FCN>爱丽丝</Name_FCN>
+    <Name_EN>Sierra</Name_EN>
+    <Desc_SCN>达到5级可获得</Desc_SCN>
+    <Desc_FCN>达到5级可获得</Desc_FCN>
+    <Desc_EN>Obtained by reaching Lv. 5.</Desc_EN>
+</ResSystemPlayerIconDesc>
+<ResSystemPlayerIconDesc version="1">
+    <ResID>14 </ResID>
+    <IsHave>0 </IsHave>
+    <Icon>UITexture/systemtexture/touxiang/T_ICON_yingxiong_013</Icon>
+    <Time>0 </Time>
+    <Name_SCN>欧若拉</Name_SCN>
+    <Name_FCN>欧若拉</Name_FCN>
+    <Name_EN>Angelica</Name_EN>
+    <Desc_SCN>进行10次怒吼之礼可获得</Desc_SCN>
+    <Desc_FCN>进行10次怒吼之礼可获得</Desc_FCN>
+    <Desc_EN>Obtained by playing Roaring Boon 10 times.</Desc_EN>
+</ResSystemPlayerIconDesc>
+<ResSystemPlayerIconDesc version="1">
+    <ResID>15 </ResID>
+    <IsHave>0 </IsHave>
+    <Icon>UITexture/systemtexture/touxiang/T_ICON_yingxiong_014</Icon>
+    <Time>0 </Time>
+    <Name_SCN>哥布林</Name_SCN>
+    <Name_FCN>哥布林</Name_FCN>
+    <Name_EN>Garoth</Name_EN>
+    <Desc_SCN>达到15级可获得</Desc_SCN>
+    <Desc_FCN>达到15级可获得</Desc_FCN>
+    <Desc_EN>Obtained by reaching Lv. 15.</Desc_EN>
+</ResSystemPlayerIconDesc>
+<ResSystemPlayerIconDesc version="1">
+    <ResID>16 </ResID>
+    <IsHave>1 </IsHave>
+    <Icon>UITexture/systemtexture/touxiang/T_ICON_yingxiong_015</Icon>
+    <Time>0 </Time>
+    <Name_SCN>凯撒</Name_SCN>
+    <Name_FCN>凯撒</Name_FCN>
+    <Name_EN>Gaius</Name_EN>
+    <Desc_SCN>凯撒</Desc_SCN>
+    <Desc_FCN>凯撒</Desc_FCN>
+    <Desc_EN>Obtained from 7-day login bonus in server-opening celebration.</Desc_EN>
+</ResSystemPlayerIconDesc>
+<ResSystemPlayerIconDesc version="1">
+    <ResID>17 </ResID>
+    <IsHave>0 </IsHave>
+    <Icon>UITexture/systemtexture/touxiang/T_ICON_yingxiong_016</Icon>
+    <Time>0 </Time>
+    <Name_SCN>潘多拉</Name_SCN>
+    <Name_FCN>潘多拉</Name_FCN>
+    <Name_EN>Pandora</Name_EN>
+    <Desc_SCN>达到25级可获得</Desc_SCN>
+    <Desc_FCN>达到25级可获得</Desc_FCN>
+    <Desc_EN>Obtained by reaching Lv. 25.</Desc_EN>
+</ResSystemPlayerIconDesc>
+<ResSystemPlayerIconDesc version="1">
+    <ResID>18 </ResID>
+    <IsHave>0 </IsHave>
+    <Icon>UITexture/systemtexture/touxiang/T_ICON_yingxiong_017</Icon>
+    <Time>0 </Time>
+    <Name_SCN>但丁</Name_SCN>
+    <Name_FCN>但丁</Name_FCN>
+    <Name_EN>Dante</Name_EN>
+    <Desc_SCN>进行10次战争之祭赠送</Desc_SCN>
+    <Desc_FCN>进行10次战争之祭赠送</Desc_FCN>
+    <Desc_EN>Obtained by playing Warfest 10 times.</Desc_EN>
+</ResSystemPlayerIconDesc>
+<ResSystemPlayerIconDesc version="1">
+    <ResID>19 </ResID>
+    <IsHave>0 </IsHave>
+    <Icon>UITexture/systemtexture/touxiang/T_ICON_yingxiong_018</Icon>
+    <Time>0 </Time>
+    <Name_SCN>米琪</Name_SCN>
+    <Name_FCN>米琪</Name_FCN>
+    <Name_EN>Hilda</Name_EN>
+    <Desc_SCN>达到20级可获得</Desc_SCN>
+    <Desc_FCN>达到20级可获得</Desc_FCN>
+    <Desc_EN>Obtained by reaching Lv. 20.</Desc_EN>
+</ResSystemPlayerIconDesc>
+</ResSystemPlayerIconDesc_Tab>

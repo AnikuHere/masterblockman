@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<ResSystemMasteryLevelDesc_Tab>
+<TResHeadAll version="5">
+    <resHead type="TResHead">
+        <Magic>1397052237 </Magic>
+        <Version>6 </Version>
+        <Unit>264 </Unit>
+        <Count>5 </Count>
+        <MetalibHash>531d5b4a397ad5b3c0fbfb5cc8059e55</MetalibHash>
+        <ResVersion>0 </ResVersion>
+        <CreateTime>2023-04-19 20:42:33</CreateTime>
+        <ResEncording>UTF-8</ResEncording>
+        <ContentHash>757dab2c1f72510dcddaf12547b7b023</ContentHash>
+    </resHead>
+    <resHeadExt type="TResHeadExt">
+        <DataOffset>136 </DataOffset>
+    </resHeadExt>
+</TResHeadAll>
+<ResSystemMasteryLevelDesc version="1">
+    <ResID>1 </ResID>
+    <EXP>0 </EXP>
+    <Icon>UITexture/system/shuliandu/T_BG_shuliandu_01</Icon>
+    <Name_SCN>见习</Name_SCN>
+    <Name_FCN>见习</Name_FCN>
+    <Name_EN>Amateur</Name_EN>
+</ResSystemMasteryLevelDesc>
+<ResSystemMasteryLevelDesc version="1">
+    <ResID>2 </ResID>
+    <EXP>100 </EXP>
+    <Icon>UITexture/system/shuliandu/T_BG_shuliandu_02</Icon>
+    <Name_SCN>资深</Name_SCN>
+    <Name_FCN>资深</Name_FCN>
+    <Name_EN>Adept</Name_EN>
+</ResSystemMasteryLevelDesc>
+<ResSystemMasteryLevelDesc version="1">
+    <ResID>3 </ResID>
+    <EXP>400 </EXP>
+    <Icon>UITexture/system/shuliandu/T_BG_shuliandu_03</Icon>
+    <Name_SCN>精英</Name_SCN>
+    <Name_FCN>精英</Name_FCN>
+    <Name_EN>Elite</Name_EN>
+</ResSystemMasteryLevelDesc>
+<ResSystemMasteryLevelDesc version="1">
+    <ResID>4 </ResID>
+    <EXP>1400 </EXP>
+    <Icon>UITexture/system/shuliandu/T_BG_shuliandu_04</Icon>
+    <Name_SCN>宗师</Name_SCN>
+    <Name_FCN>宗师</Name_FCN>
+    <Name_EN>Virtuoso</Name_EN>
+</ResSystemMasteryLevelDesc>
+<ResSystemMasteryLevelDesc version="1">
+    <ResID>5 </ResID>
+    <EXP>3400 </EXP>
+    <Icon>UITexture/system/shuliandu/T_BG_shuliandu_05</Icon>
+    <Name_SCN>传说</Name_SCN>
+    <Name_FCN>传说</Name_FCN>
+    <Name_EN>Legend</Name_EN>
+</ResSystemMasteryLevelDesc>
+</ResSystemMasteryLevelDesc_Tab>

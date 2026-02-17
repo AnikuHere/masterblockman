@@ -1,0 +1,739 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<ResSystemRandomTaskDesc_Tab>
+<TResHeadAll version="5">
+    <resHead type="TResHead">
+        <Magic>1397052237 </Magic>
+        <Version>6 </Version>
+        <Unit>69 </Unit>
+        <Count>20 </Count>
+        <MetalibHash>531d5b4a397ad5b3c0fbfb5cc8059e55</MetalibHash>
+        <ResVersion>0 </ResVersion>
+        <CreateTime>2023-04-19 20:42:32</CreateTime>
+        <ResEncording>UTF-8</ResEncording>
+        <ContentHash>05e6d404b7fe339cee8f2240543fb12b</ContentHash>
+    </resHead>
+    <resHeadExt type="TResHeadExt">
+        <DataOffset>136 </DataOffset>
+    </resHeadExt>
+</TResHeadAll>
+<ResSystemRandomTaskDesc version="1">
+    <ResID>1 </ResID>
+    <IsRandom>0 </IsRandom>
+    <RandomTask type="RandomTask">
+        <ID>1 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+    <RandomTask type="RandomTask">
+        <ID>0 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+    <RandomTask type="RandomTask">
+        <ID>0 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+    <RandomTask type="RandomTask">
+        <ID>0 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+    <RandomTask type="RandomTask">
+        <ID>0 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+    <RandomTask type="RandomTask">
+        <ID>0 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+    <RandomTask type="RandomTask">
+        <ID>0 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+    <RandomTask type="RandomTask">
+        <ID>0 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+</ResSystemRandomTaskDesc>
+<ResSystemRandomTaskDesc version="1">
+    <ResID>2 </ResID>
+    <IsRandom>1 </IsRandom>
+    <RandomTask type="RandomTask">
+        <ID>2 </ID>
+        <Probability>100 </Probability>
+    </RandomTask>
+    <RandomTask type="RandomTask">
+        <ID>3 </ID>
+        <Probability>100 </Probability>
+    </RandomTask>
+    <RandomTask type="RandomTask">
+        <ID>4 </ID>
+        <Probability>100 </Probability>
+    </RandomTask>
+    <RandomTask type="RandomTask">
+        <ID>5 </ID>
+        <Probability>100 </Probability>
+    </RandomTask>
+    <RandomTask type="RandomTask">
+        <ID>6 </ID>
+        <Probability>100 </Probability>
+    </RandomTask>
+    <RandomTask type="RandomTask">
+        <ID>0 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+    <RandomTask type="RandomTask">
+        <ID>0 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+    <RandomTask type="RandomTask">
+        <ID>0 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+</ResSystemRandomTaskDesc>
+<ResSystemRandomTaskDesc version="1">
+    <ResID>3 </ResID>
+    <IsRandom>0 </IsRandom>
+    <RandomTask type="RandomTask">
+        <ID>7 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+    <RandomTask type="RandomTask">
+        <ID>0 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+    <RandomTask type="RandomTask">
+        <ID>0 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+    <RandomTask type="RandomTask">
+        <ID>0 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+    <RandomTask type="RandomTask">
+        <ID>0 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+    <RandomTask type="RandomTask">
+        <ID>0 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+    <RandomTask type="RandomTask">
+        <ID>0 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+    <RandomTask type="RandomTask">
+        <ID>0 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+</ResSystemRandomTaskDesc>
+<ResSystemRandomTaskDesc version="1">
+    <ResID>4 </ResID>
+    <IsRandom>0 </IsRandom>
+    <RandomTask type="RandomTask">
+        <ID>8 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+    <RandomTask type="RandomTask">
+        <ID>0 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+    <RandomTask type="RandomTask">
+        <ID>0 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+    <RandomTask type="RandomTask">
+        <ID>0 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+    <RandomTask type="RandomTask">
+        <ID>0 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+    <RandomTask type="RandomTask">
+        <ID>0 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+    <RandomTask type="RandomTask">
+        <ID>0 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+    <RandomTask type="RandomTask">
+        <ID>0 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+</ResSystemRandomTaskDesc>
+<ResSystemRandomTaskDesc version="1">
+    <ResID>5 </ResID>
+    <IsRandom>0 </IsRandom>
+    <RandomTask type="RandomTask">
+        <ID>9 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+    <RandomTask type="RandomTask">
+        <ID>0 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+    <RandomTask type="RandomTask">
+        <ID>0 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+    <RandomTask type="RandomTask">
+        <ID>0 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+    <RandomTask type="RandomTask">
+        <ID>0 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+    <RandomTask type="RandomTask">
+        <ID>0 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+    <RandomTask type="RandomTask">
+        <ID>0 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+    <RandomTask type="RandomTask">
+        <ID>0 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+</ResSystemRandomTaskDesc>
+<ResSystemRandomTaskDesc version="1">
+    <ResID>6 </ResID>
+    <IsRandom>0 </IsRandom>
+    <RandomTask type="RandomTask">
+        <ID>10 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+    <RandomTask type="RandomTask">
+        <ID>0 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+    <RandomTask type="RandomTask">
+        <ID>0 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+    <RandomTask type="RandomTask">
+        <ID>0 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+    <RandomTask type="RandomTask">
+        <ID>0 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+    <RandomTask type="RandomTask">
+        <ID>0 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+    <RandomTask type="RandomTask">
+        <ID>0 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+    <RandomTask type="RandomTask">
+        <ID>0 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+</ResSystemRandomTaskDesc>
+<ResSystemRandomTaskDesc version="1">
+    <ResID>7 </ResID>
+    <IsRandom>0 </IsRandom>
+    <RandomTask type="RandomTask">
+        <ID>11 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+    <RandomTask type="RandomTask">
+        <ID>0 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+    <RandomTask type="RandomTask">
+        <ID>0 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+    <RandomTask type="RandomTask">
+        <ID>0 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+    <RandomTask type="RandomTask">
+        <ID>0 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+    <RandomTask type="RandomTask">
+        <ID>0 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+    <RandomTask type="RandomTask">
+        <ID>0 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+    <RandomTask type="RandomTask">
+        <ID>0 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+</ResSystemRandomTaskDesc>
+<ResSystemRandomTaskDesc version="1">
+    <ResID>8 </ResID>
+    <IsRandom>0 </IsRandom>
+    <RandomTask type="RandomTask">
+        <ID>12 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+    <RandomTask type="RandomTask">
+        <ID>0 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+    <RandomTask type="RandomTask">
+        <ID>0 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+    <RandomTask type="RandomTask">
+        <ID>0 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+    <RandomTask type="RandomTask">
+        <ID>0 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+    <RandomTask type="RandomTask">
+        <ID>0 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+    <RandomTask type="RandomTask">
+        <ID>0 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+    <RandomTask type="RandomTask">
+        <ID>0 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+</ResSystemRandomTaskDesc>
+<ResSystemRandomTaskDesc version="1">
+    <ResID>9 </ResID>
+    <IsRandom>0 </IsRandom>
+    <RandomTask type="RandomTask">
+        <ID>13 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+    <RandomTask type="RandomTask">
+        <ID>0 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+    <RandomTask type="RandomTask">
+        <ID>0 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+    <RandomTask type="RandomTask">
+        <ID>0 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+    <RandomTask type="RandomTask">
+        <ID>0 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+    <RandomTask type="RandomTask">
+        <ID>0 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+    <RandomTask type="RandomTask">
+        <ID>0 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+    <RandomTask type="RandomTask">
+        <ID>0 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+</ResSystemRandomTaskDesc>
+<ResSystemRandomTaskDesc version="1">
+    <ResID>10 </ResID>
+    <IsRandom>0 </IsRandom>
+    <RandomTask type="RandomTask">
+        <ID>14 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+    <RandomTask type="RandomTask">
+        <ID>0 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+    <RandomTask type="RandomTask">
+        <ID>0 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+    <RandomTask type="RandomTask">
+        <ID>0 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+    <RandomTask type="RandomTask">
+        <ID>0 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+    <RandomTask type="RandomTask">
+        <ID>0 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+    <RandomTask type="RandomTask">
+        <ID>0 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+    <RandomTask type="RandomTask">
+        <ID>0 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+</ResSystemRandomTaskDesc>
+<ResSystemRandomTaskDesc version="1">
+    <ResID>11 </ResID>
+    <IsRandom>0 </IsRandom>
+    <RandomTask type="RandomTask">
+        <ID>15 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+    <RandomTask type="RandomTask">
+        <ID>0 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+    <RandomTask type="RandomTask">
+        <ID>0 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+    <RandomTask type="RandomTask">
+        <ID>0 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+    <RandomTask type="RandomTask">
+        <ID>0 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+    <RandomTask type="RandomTask">
+        <ID>0 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+    <RandomTask type="RandomTask">
+        <ID>0 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+    <RandomTask type="RandomTask">
+        <ID>0 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+</ResSystemRandomTaskDesc>
+<ResSystemRandomTaskDesc version="1">
+    <ResID>12 </ResID>
+    <IsRandom>0 </IsRandom>
+    <RandomTask type="RandomTask">
+        <ID>16 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+    <RandomTask type="RandomTask">
+        <ID>0 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+    <RandomTask type="RandomTask">
+        <ID>0 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+    <RandomTask type="RandomTask">
+        <ID>0 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+    <RandomTask type="RandomTask">
+        <ID>0 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+    <RandomTask type="RandomTask">
+        <ID>0 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+    <RandomTask type="RandomTask">
+        <ID>0 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+    <RandomTask type="RandomTask">
+        <ID>0 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+</ResSystemRandomTaskDesc>
+<ResSystemRandomTaskDesc version="1">
+    <ResID>13 </ResID>
+    <IsRandom>0 </IsRandom>
+    <RandomTask type="RandomTask">
+        <ID>17 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+    <RandomTask type="RandomTask">
+        <ID>0 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+    <RandomTask type="RandomTask">
+        <ID>0 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+    <RandomTask type="RandomTask">
+        <ID>0 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+    <RandomTask type="RandomTask">
+        <ID>0 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+    <RandomTask type="RandomTask">
+        <ID>0 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+    <RandomTask type="RandomTask">
+        <ID>0 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+    <RandomTask type="RandomTask">
+        <ID>0 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+</ResSystemRandomTaskDesc>
+<ResSystemRandomTaskDesc version="1">
+    <ResID>14 </ResID>
+    <IsRandom>0 </IsRandom>
+    <RandomTask type="RandomTask">
+        <ID>18 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+    <RandomTask type="RandomTask">
+        <ID>0 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+    <RandomTask type="RandomTask">
+        <ID>0 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+    <RandomTask type="RandomTask">
+        <ID>0 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+    <RandomTask type="RandomTask">
+        <ID>0 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+    <RandomTask type="RandomTask">
+        <ID>0 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+    <RandomTask type="RandomTask">
+        <ID>0 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+    <RandomTask type="RandomTask">
+        <ID>0 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+</ResSystemRandomTaskDesc>
+<ResSystemRandomTaskDesc version="1">
+    <ResID>15 </ResID>
+    <IsRandom>0 </IsRandom>
+    <RandomTask type="RandomTask">
+        <ID>19 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+    <RandomTask type="RandomTask">
+        <ID>0 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+    <RandomTask type="RandomTask">
+        <ID>0 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+    <RandomTask type="RandomTask">
+        <ID>0 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+    <RandomTask type="RandomTask">
+        <ID>0 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+    <RandomTask type="RandomTask">
+        <ID>0 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+    <RandomTask type="RandomTask">
+        <ID>0 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+    <RandomTask type="RandomTask">
+        <ID>0 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+</ResSystemRandomTaskDesc>
+<ResSystemRandomTaskDesc version="1">
+    <ResID>16 </ResID>
+    <IsRandom>0 </IsRandom>
+    <RandomTask type="RandomTask">
+        <ID>22 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+    <RandomTask type="RandomTask">
+        <ID>0 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+    <RandomTask type="RandomTask">
+        <ID>0 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+    <RandomTask type="RandomTask">
+        <ID>0 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+    <RandomTask type="RandomTask">
+        <ID>0 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+    <RandomTask type="RandomTask">
+        <ID>0 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+    <RandomTask type="RandomTask">
+        <ID>0 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+    <RandomTask type="RandomTask">
+        <ID>0 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+</ResSystemRandomTaskDesc>
+<ResSystemRandomTaskDesc version="1">
+    <ResID>17 </ResID>
+    <IsRandom>0 </IsRandom>
+    <RandomTask type="RandomTask">
+        <ID>23 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+    <RandomTask type="RandomTask">
+        <ID>0 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+    <RandomTask type="RandomTask">
+        <ID>0 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+    <RandomTask type="RandomTask">
+        <ID>0 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+    <RandomTask type="RandomTask">
+        <ID>0 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+    <RandomTask type="RandomTask">
+        <ID>0 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+    <RandomTask type="RandomTask">
+        <ID>0 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+    <RandomTask type="RandomTask">
+        <ID>0 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+</ResSystemRandomTaskDesc>
+<ResSystemRandomTaskDesc version="1">
+    <ResID>18 </ResID>
+    <IsRandom>0 </IsRandom>
+    <RandomTask type="RandomTask">
+        <ID>24 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+    <RandomTask type="RandomTask">
+        <ID>0 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+    <RandomTask type="RandomTask">
+        <ID>0 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+    <RandomTask type="RandomTask">
+        <ID>0 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+    <RandomTask type="RandomTask">
+        <ID>0 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+    <RandomTask type="RandomTask">
+        <ID>0 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+    <RandomTask type="RandomTask">
+        <ID>0 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+    <RandomTask type="RandomTask">
+        <ID>0 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+</ResSystemRandomTaskDesc>
+<ResSystemRandomTaskDesc version="1">
+    <ResID>19 </ResID>
+    <IsRandom>0 </IsRandom>
+    <RandomTask type="RandomTask">
+        <ID>26 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+    <RandomTask type="RandomTask">
+        <ID>0 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+    <RandomTask type="RandomTask">
+        <ID>0 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+    <RandomTask type="RandomTask">
+        <ID>0 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+    <RandomTask type="RandomTask">
+        <ID>0 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+    <RandomTask type="RandomTask">
+        <ID>0 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+    <RandomTask type="RandomTask">
+        <ID>0 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+    <RandomTask type="RandomTask">
+        <ID>0 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+</ResSystemRandomTaskDesc>
+<ResSystemRandomTaskDesc version="1">
+    <ResID>20 </ResID>
+    <IsRandom>0 </IsRandom>
+    <RandomTask type="RandomTask">
+        <ID>27 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+    <RandomTask type="RandomTask">
+        <ID>0 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+    <RandomTask type="RandomTask">
+        <ID>0 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+    <RandomTask type="RandomTask">
+        <ID>0 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+    <RandomTask type="RandomTask">
+        <ID>0 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+    <RandomTask type="RandomTask">
+        <ID>0 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+    <RandomTask type="RandomTask">
+        <ID>0 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+    <RandomTask type="RandomTask">
+        <ID>0 </ID>
+        <Probability>0 </Probability>
+    </RandomTask>
+</ResSystemRandomTaskDesc>
+</ResSystemRandomTaskDesc_Tab>

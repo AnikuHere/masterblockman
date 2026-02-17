@@ -1,0 +1,745 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<ResWarmGameQueueDesc_Tab>
+<TResHeadAll version="5">
+    <resHead type="TResHead">
+        <Magic>1397052237 </Magic>
+        <Version>6 </Version>
+        <Unit>83 </Unit>
+        <Count>22 </Count>
+        <MetalibHash>531d5b4a397ad5b3c0fbfb5cc8059e55</MetalibHash>
+        <ResVersion>0 </ResVersion>
+        <CreateTime>2023-04-19 20:42:34</CreateTime>
+        <ResEncording>UTF-8</ResEncording>
+        <ContentHash>7aba8c9c52b61de3fa59845918977a82</ContentHash>
+    </resHead>
+    <resHeadExt type="TResHeadExt">
+        <DataOffset>136 </DataOffset>
+    </resHeadExt>
+</TResHeadAll>
+<ResWarmGameQueueDesc version="1">
+    <ID>1 </ID>
+    <MatchType>0 </MatchType>
+    <IsPureAi>1 </IsPureAi>
+    <ArenaMinLevel>0 </ArenaMinLevel>
+    <ArenaMaxLevel>0 </ArenaMaxLevel>
+    <PlayerMinLevel>0 </PlayerMinLevel>
+    <PlayerMaxLevel>0 </PlayerMaxLevel>
+    <RankLevelType>0 </RankLevelType>
+    <DailyCount>0 </DailyCount>
+    <LoseStreakCount>0 </LoseStreakCount>
+    <WinStreakCount>0 </WinStreakCount>
+    <MatchCount>1 </MatchCount>
+    <KillScore>0 </KillScore>
+    <BeKillScore>0 </BeKillScore>
+    <PlayerAiConfigType>0 </PlayerAiConfigType>
+    <PlayerExtData>1001 </PlayerExtData>
+    <FriendAiConfigType>3 </FriendAiConfigType>
+    <FriendExtData>1004 </FriendExtData>
+    <EnemyAiConfigType>7 </EnemyAiConfigType>
+    <EnemyExtData>1009 </EnemyExtData>
+    <NeuAiConfigType>7 </NeuAiConfigType>
+    <NeuExtData>1009 </NeuExtData>
+    <TimeoutDesc type="ResWarmGameTimeoutDesc">
+        <Time>0 </Time>
+        <QueueID>0 0 </QueueID>
+    </TimeoutDesc>
+    <TimeoutDesc type="ResWarmGameTimeoutDesc">
+        <Time>0 </Time>
+        <QueueID>0 0 </QueueID>
+    </TimeoutDesc>
+    <AICanUseRace>1 2 0 0 </AICanUseRace>
+</ResWarmGameQueueDesc>
+<ResWarmGameQueueDesc version="1">
+    <ID>2 </ID>
+    <MatchType>0 </MatchType>
+    <IsPureAi>1 </IsPureAi>
+    <ArenaMinLevel>0 </ArenaMinLevel>
+    <ArenaMaxLevel>0 </ArenaMaxLevel>
+    <PlayerMinLevel>0 </PlayerMinLevel>
+    <PlayerMaxLevel>0 </PlayerMaxLevel>
+    <RankLevelType>0 </RankLevelType>
+    <DailyCount>0 </DailyCount>
+    <LoseStreakCount>0 </LoseStreakCount>
+    <WinStreakCount>0 </WinStreakCount>
+    <MatchCount>2 </MatchCount>
+    <KillScore>0 </KillScore>
+    <BeKillScore>0 </BeKillScore>
+    <PlayerAiConfigType>0 </PlayerAiConfigType>
+    <PlayerExtData>1001 </PlayerExtData>
+    <FriendAiConfigType>3 </FriendAiConfigType>
+    <FriendExtData>1004 </FriendExtData>
+    <EnemyAiConfigType>7 </EnemyAiConfigType>
+    <EnemyExtData>1009 </EnemyExtData>
+    <NeuAiConfigType>7 </NeuAiConfigType>
+    <NeuExtData>1009 </NeuExtData>
+    <TimeoutDesc type="ResWarmGameTimeoutDesc">
+        <Time>0 </Time>
+        <QueueID>0 0 </QueueID>
+    </TimeoutDesc>
+    <TimeoutDesc type="ResWarmGameTimeoutDesc">
+        <Time>0 </Time>
+        <QueueID>0 0 </QueueID>
+    </TimeoutDesc>
+    <AICanUseRace>1 2 0 0 </AICanUseRace>
+</ResWarmGameQueueDesc>
+<ResWarmGameQueueDesc version="1">
+    <ID>3 </ID>
+    <MatchType>0 </MatchType>
+    <IsPureAi>0 </IsPureAi>
+    <ArenaMinLevel>1 </ArenaMinLevel>
+    <ArenaMaxLevel>3 </ArenaMaxLevel>
+    <PlayerMinLevel>0 </PlayerMinLevel>
+    <PlayerMaxLevel>0 </PlayerMaxLevel>
+    <RankLevelType>0 </RankLevelType>
+    <DailyCount>7 </DailyCount>
+    <LoseStreakCount>1 </LoseStreakCount>
+    <WinStreakCount>0 </WinStreakCount>
+    <MatchCount>0 </MatchCount>
+    <KillScore>0 </KillScore>
+    <BeKillScore>0 </BeKillScore>
+    <PlayerAiConfigType>0 </PlayerAiConfigType>
+    <PlayerExtData>1001 </PlayerExtData>
+    <FriendAiConfigType>3 </FriendAiConfigType>
+    <FriendExtData>1004 </FriendExtData>
+    <EnemyAiConfigType>7 </EnemyAiConfigType>
+    <EnemyExtData>1009 </EnemyExtData>
+    <NeuAiConfigType>7 </NeuAiConfigType>
+    <NeuExtData>1009 </NeuExtData>
+    <TimeoutDesc type="ResWarmGameTimeoutDesc">
+        <Time>10 </Time>
+        <QueueID>3 4 </QueueID>
+    </TimeoutDesc>
+    <TimeoutDesc type="ResWarmGameTimeoutDesc">
+        <Time>30 </Time>
+        <QueueID>7 0 </QueueID>
+    </TimeoutDesc>
+    <AICanUseRace>1 2 0 0 </AICanUseRace>
+</ResWarmGameQueueDesc>
+<ResWarmGameQueueDesc version="1">
+    <ID>4 </ID>
+    <MatchType>0 </MatchType>
+    <IsPureAi>0 </IsPureAi>
+    <ArenaMinLevel>4 </ArenaMinLevel>
+    <ArenaMaxLevel>4 </ArenaMaxLevel>
+    <PlayerMinLevel>0 </PlayerMinLevel>
+    <PlayerMaxLevel>7 </PlayerMaxLevel>
+    <RankLevelType>0 </RankLevelType>
+    <DailyCount>7 </DailyCount>
+    <LoseStreakCount>1 </LoseStreakCount>
+    <WinStreakCount>0 </WinStreakCount>
+    <MatchCount>0 </MatchCount>
+    <KillScore>0 </KillScore>
+    <BeKillScore>0 </BeKillScore>
+    <PlayerAiConfigType>0 </PlayerAiConfigType>
+    <PlayerExtData>1001 </PlayerExtData>
+    <FriendAiConfigType>3 </FriendAiConfigType>
+    <FriendExtData>1004 </FriendExtData>
+    <EnemyAiConfigType>7 </EnemyAiConfigType>
+    <EnemyExtData>1009 </EnemyExtData>
+    <NeuAiConfigType>7 </NeuAiConfigType>
+    <NeuExtData>1009 </NeuExtData>
+    <TimeoutDesc type="ResWarmGameTimeoutDesc">
+        <Time>10 </Time>
+        <QueueID>3 4 </QueueID>
+    </TimeoutDesc>
+    <TimeoutDesc type="ResWarmGameTimeoutDesc">
+        <Time>30 </Time>
+        <QueueID>7 0 </QueueID>
+    </TimeoutDesc>
+    <AICanUseRace>1 2 0 0 </AICanUseRace>
+</ResWarmGameQueueDesc>
+<ResWarmGameQueueDesc version="1">
+    <ID>4 </ID>
+    <MatchType>0 </MatchType>
+    <IsPureAi>0 </IsPureAi>
+    <ArenaMinLevel>4 </ArenaMinLevel>
+    <ArenaMaxLevel>4 </ArenaMaxLevel>
+    <PlayerMinLevel>8 </PlayerMinLevel>
+    <PlayerMaxLevel>10 </PlayerMaxLevel>
+    <RankLevelType>0 </RankLevelType>
+    <DailyCount>7 </DailyCount>
+    <LoseStreakCount>1 </LoseStreakCount>
+    <WinStreakCount>0 </WinStreakCount>
+    <MatchCount>0 </MatchCount>
+    <KillScore>0 </KillScore>
+    <BeKillScore>0 </BeKillScore>
+    <PlayerAiConfigType>0 </PlayerAiConfigType>
+    <PlayerExtData>1001 </PlayerExtData>
+    <FriendAiConfigType>3 </FriendAiConfigType>
+    <FriendExtData>1004 </FriendExtData>
+    <EnemyAiConfigType>7 </EnemyAiConfigType>
+    <EnemyExtData>1009 </EnemyExtData>
+    <NeuAiConfigType>7 </NeuAiConfigType>
+    <NeuExtData>1009 </NeuExtData>
+    <TimeoutDesc type="ResWarmGameTimeoutDesc">
+        <Time>10 </Time>
+        <QueueID>3 4 </QueueID>
+    </TimeoutDesc>
+    <TimeoutDesc type="ResWarmGameTimeoutDesc">
+        <Time>30 </Time>
+        <QueueID>8 0 </QueueID>
+    </TimeoutDesc>
+    <AICanUseRace>1 2 3 4 </AICanUseRace>
+</ResWarmGameQueueDesc>
+<ResWarmGameQueueDesc version="1">
+    <ID>5 </ID>
+    <MatchType>0 </MatchType>
+    <IsPureAi>0 </IsPureAi>
+    <ArenaMinLevel>4 </ArenaMinLevel>
+    <ArenaMaxLevel>4 </ArenaMaxLevel>
+    <PlayerMinLevel>11 </PlayerMinLevel>
+    <PlayerMaxLevel>14 </PlayerMaxLevel>
+    <RankLevelType>0 </RankLevelType>
+    <DailyCount>3 </DailyCount>
+    <LoseStreakCount>2 </LoseStreakCount>
+    <WinStreakCount>0 </WinStreakCount>
+    <MatchCount>0 </MatchCount>
+    <KillScore>0 </KillScore>
+    <BeKillScore>0 </BeKillScore>
+    <PlayerAiConfigType>0 </PlayerAiConfigType>
+    <PlayerExtData>1001 </PlayerExtData>
+    <FriendAiConfigType>4 </FriendAiConfigType>
+    <FriendExtData>1005 </FriendExtData>
+    <EnemyAiConfigType>2 </EnemyAiConfigType>
+    <EnemyExtData>1003 </EnemyExtData>
+    <NeuAiConfigType>2 </NeuAiConfigType>
+    <NeuExtData>1003 </NeuExtData>
+    <TimeoutDesc type="ResWarmGameTimeoutDesc">
+        <Time>10 </Time>
+        <QueueID>4 5 </QueueID>
+    </TimeoutDesc>
+    <TimeoutDesc type="ResWarmGameTimeoutDesc">
+        <Time>30 </Time>
+        <QueueID>9 0 </QueueID>
+    </TimeoutDesc>
+    <AICanUseRace>1 2 3 4 </AICanUseRace>
+</ResWarmGameQueueDesc>
+<ResWarmGameQueueDesc version="1">
+    <ID>6 </ID>
+    <MatchType>0 </MatchType>
+    <IsPureAi>0 </IsPureAi>
+    <ArenaMinLevel>4 </ArenaMinLevel>
+    <ArenaMaxLevel>4 </ArenaMaxLevel>
+    <PlayerMinLevel>15 </PlayerMinLevel>
+    <PlayerMaxLevel>30 </PlayerMaxLevel>
+    <RankLevelType>0 </RankLevelType>
+    <DailyCount>3 </DailyCount>
+    <LoseStreakCount>3 </LoseStreakCount>
+    <WinStreakCount>2 </WinStreakCount>
+    <MatchCount>0 </MatchCount>
+    <KillScore>0 </KillScore>
+    <BeKillScore>0 </BeKillScore>
+    <PlayerAiConfigType>0 </PlayerAiConfigType>
+    <PlayerExtData>1001 </PlayerExtData>
+    <FriendAiConfigType>4 </FriendAiConfigType>
+    <FriendExtData>1005 </FriendExtData>
+    <EnemyAiConfigType>2 </EnemyAiConfigType>
+    <EnemyExtData>1001 </EnemyExtData>
+    <NeuAiConfigType>2 </NeuAiConfigType>
+    <NeuExtData>1001 </NeuExtData>
+    <TimeoutDesc type="ResWarmGameTimeoutDesc">
+        <Time>10 </Time>
+        <QueueID>5 6 </QueueID>
+    </TimeoutDesc>
+    <TimeoutDesc type="ResWarmGameTimeoutDesc">
+        <Time>30 </Time>
+        <QueueID>10 0 </QueueID>
+    </TimeoutDesc>
+    <AICanUseRace>1 2 3 4 </AICanUseRace>
+</ResWarmGameQueueDesc>
+<ResWarmGameQueueDesc version="1">
+    <ID>7 </ID>
+    <MatchType>0 </MatchType>
+    <IsPureAi>1 </IsPureAi>
+    <ArenaMinLevel>0 </ArenaMinLevel>
+    <ArenaMaxLevel>0 </ArenaMaxLevel>
+    <PlayerMinLevel>0 </PlayerMinLevel>
+    <PlayerMaxLevel>0 </PlayerMaxLevel>
+    <RankLevelType>0 </RankLevelType>
+    <DailyCount>0 </DailyCount>
+    <LoseStreakCount>0 </LoseStreakCount>
+    <WinStreakCount>0 </WinStreakCount>
+    <MatchCount>0 </MatchCount>
+    <KillScore>0 </KillScore>
+    <BeKillScore>0 </BeKillScore>
+    <PlayerAiConfigType>0 </PlayerAiConfigType>
+    <PlayerExtData>1001 </PlayerExtData>
+    <FriendAiConfigType>3 </FriendAiConfigType>
+    <FriendExtData>1004 </FriendExtData>
+    <EnemyAiConfigType>7 </EnemyAiConfigType>
+    <EnemyExtData>1009 </EnemyExtData>
+    <NeuAiConfigType>7 </NeuAiConfigType>
+    <NeuExtData>1009 </NeuExtData>
+    <TimeoutDesc type="ResWarmGameTimeoutDesc">
+        <Time>0 </Time>
+        <QueueID>0 0 </QueueID>
+    </TimeoutDesc>
+    <TimeoutDesc type="ResWarmGameTimeoutDesc">
+        <Time>0 </Time>
+        <QueueID>0 0 </QueueID>
+    </TimeoutDesc>
+    <AICanUseRace>1 2 0 0 </AICanUseRace>
+</ResWarmGameQueueDesc>
+<ResWarmGameQueueDesc version="1">
+    <ID>8 </ID>
+    <MatchType>0 </MatchType>
+    <IsPureAi>1 </IsPureAi>
+    <ArenaMinLevel>0 </ArenaMinLevel>
+    <ArenaMaxLevel>0 </ArenaMaxLevel>
+    <PlayerMinLevel>0 </PlayerMinLevel>
+    <PlayerMaxLevel>0 </PlayerMaxLevel>
+    <RankLevelType>0 </RankLevelType>
+    <DailyCount>0 </DailyCount>
+    <LoseStreakCount>0 </LoseStreakCount>
+    <WinStreakCount>0 </WinStreakCount>
+    <MatchCount>0 </MatchCount>
+    <KillScore>0 </KillScore>
+    <BeKillScore>0 </BeKillScore>
+    <PlayerAiConfigType>0 </PlayerAiConfigType>
+    <PlayerExtData>1001 </PlayerExtData>
+    <FriendAiConfigType>3 </FriendAiConfigType>
+    <FriendExtData>1004 </FriendExtData>
+    <EnemyAiConfigType>7 </EnemyAiConfigType>
+    <EnemyExtData>1009 </EnemyExtData>
+    <NeuAiConfigType>7 </NeuAiConfigType>
+    <NeuExtData>1009 </NeuExtData>
+    <TimeoutDesc type="ResWarmGameTimeoutDesc">
+        <Time>0 </Time>
+        <QueueID>0 0 </QueueID>
+    </TimeoutDesc>
+    <TimeoutDesc type="ResWarmGameTimeoutDesc">
+        <Time>0 </Time>
+        <QueueID>0 0 </QueueID>
+    </TimeoutDesc>
+    <AICanUseRace>1 2 3 4 </AICanUseRace>
+</ResWarmGameQueueDesc>
+<ResWarmGameQueueDesc version="1">
+    <ID>9 </ID>
+    <MatchType>0 </MatchType>
+    <IsPureAi>1 </IsPureAi>
+    <ArenaMinLevel>0 </ArenaMinLevel>
+    <ArenaMaxLevel>0 </ArenaMaxLevel>
+    <PlayerMinLevel>0 </PlayerMinLevel>
+    <PlayerMaxLevel>0 </PlayerMaxLevel>
+    <RankLevelType>0 </RankLevelType>
+    <DailyCount>0 </DailyCount>
+    <LoseStreakCount>0 </LoseStreakCount>
+    <WinStreakCount>0 </WinStreakCount>
+    <MatchCount>0 </MatchCount>
+    <KillScore>0 </KillScore>
+    <BeKillScore>0 </BeKillScore>
+    <PlayerAiConfigType>0 </PlayerAiConfigType>
+    <PlayerExtData>1001 </PlayerExtData>
+    <FriendAiConfigType>4 </FriendAiConfigType>
+    <FriendExtData>1005 </FriendExtData>
+    <EnemyAiConfigType>2 </EnemyAiConfigType>
+    <EnemyExtData>1003 </EnemyExtData>
+    <NeuAiConfigType>2 </NeuAiConfigType>
+    <NeuExtData>1003 </NeuExtData>
+    <TimeoutDesc type="ResWarmGameTimeoutDesc">
+        <Time>0 </Time>
+        <QueueID>0 0 </QueueID>
+    </TimeoutDesc>
+    <TimeoutDesc type="ResWarmGameTimeoutDesc">
+        <Time>0 </Time>
+        <QueueID>0 0 </QueueID>
+    </TimeoutDesc>
+    <AICanUseRace>1 2 3 4 </AICanUseRace>
+</ResWarmGameQueueDesc>
+<ResWarmGameQueueDesc version="1">
+    <ID>10 </ID>
+    <MatchType>0 </MatchType>
+    <IsPureAi>1 </IsPureAi>
+    <ArenaMinLevel>0 </ArenaMinLevel>
+    <ArenaMaxLevel>0 </ArenaMaxLevel>
+    <PlayerMinLevel>0 </PlayerMinLevel>
+    <PlayerMaxLevel>0 </PlayerMaxLevel>
+    <RankLevelType>0 </RankLevelType>
+    <DailyCount>0 </DailyCount>
+    <LoseStreakCount>0 </LoseStreakCount>
+    <WinStreakCount>0 </WinStreakCount>
+    <MatchCount>0 </MatchCount>
+    <KillScore>0 </KillScore>
+    <BeKillScore>0 </BeKillScore>
+    <PlayerAiConfigType>0 </PlayerAiConfigType>
+    <PlayerExtData>1001 </PlayerExtData>
+    <FriendAiConfigType>4 </FriendAiConfigType>
+    <FriendExtData>1005 </FriendExtData>
+    <EnemyAiConfigType>2 </EnemyAiConfigType>
+    <EnemyExtData>1001 </EnemyExtData>
+    <NeuAiConfigType>2 </NeuAiConfigType>
+    <NeuExtData>1001 </NeuExtData>
+    <TimeoutDesc type="ResWarmGameTimeoutDesc">
+        <Time>0 </Time>
+        <QueueID>0 0 </QueueID>
+    </TimeoutDesc>
+    <TimeoutDesc type="ResWarmGameTimeoutDesc">
+        <Time>0 </Time>
+        <QueueID>0 0 </QueueID>
+    </TimeoutDesc>
+    <AICanUseRace>1 2 3 4 </AICanUseRace>
+</ResWarmGameQueueDesc>
+<ResWarmGameQueueDesc version="1">
+    <ID>11 </ID>
+    <MatchType>1 </MatchType>
+    <IsPureAi>0 </IsPureAi>
+    <ArenaMinLevel>0 </ArenaMinLevel>
+    <ArenaMaxLevel>0 </ArenaMaxLevel>
+    <PlayerMinLevel>0 </PlayerMinLevel>
+    <PlayerMaxLevel>0 </PlayerMaxLevel>
+    <RankLevelType>1 </RankLevelType>
+    <DailyCount>7 </DailyCount>
+    <LoseStreakCount>1 </LoseStreakCount>
+    <WinStreakCount>0 </WinStreakCount>
+    <MatchCount>0 </MatchCount>
+    <KillScore>0 </KillScore>
+    <BeKillScore>0 </BeKillScore>
+    <PlayerAiConfigType>0 </PlayerAiConfigType>
+    <PlayerExtData>1001 </PlayerExtData>
+    <FriendAiConfigType>3 </FriendAiConfigType>
+    <FriendExtData>1004 </FriendExtData>
+    <EnemyAiConfigType>7 </EnemyAiConfigType>
+    <EnemyExtData>1009 </EnemyExtData>
+    <NeuAiConfigType>7 </NeuAiConfigType>
+    <NeuExtData>1009 </NeuExtData>
+    <TimeoutDesc type="ResWarmGameTimeoutDesc">
+        <Time>10 </Time>
+        <QueueID>11 12 </QueueID>
+    </TimeoutDesc>
+    <TimeoutDesc type="ResWarmGameTimeoutDesc">
+        <Time>30 </Time>
+        <QueueID>18 0 </QueueID>
+    </TimeoutDesc>
+    <AICanUseRace>1 2 3 4 </AICanUseRace>
+</ResWarmGameQueueDesc>
+<ResWarmGameQueueDesc version="1">
+    <ID>12 </ID>
+    <MatchType>1 </MatchType>
+    <IsPureAi>0 </IsPureAi>
+    <ArenaMinLevel>0 </ArenaMinLevel>
+    <ArenaMaxLevel>0 </ArenaMaxLevel>
+    <PlayerMinLevel>0 </PlayerMinLevel>
+    <PlayerMaxLevel>0 </PlayerMaxLevel>
+    <RankLevelType>2 </RankLevelType>
+    <DailyCount>7 </DailyCount>
+    <LoseStreakCount>1 </LoseStreakCount>
+    <WinStreakCount>0 </WinStreakCount>
+    <MatchCount>0 </MatchCount>
+    <KillScore>0 </KillScore>
+    <BeKillScore>0 </BeKillScore>
+    <PlayerAiConfigType>0 </PlayerAiConfigType>
+    <PlayerExtData>1001 </PlayerExtData>
+    <FriendAiConfigType>3 </FriendAiConfigType>
+    <FriendExtData>1004 </FriendExtData>
+    <EnemyAiConfigType>7 </EnemyAiConfigType>
+    <EnemyExtData>1009 </EnemyExtData>
+    <NeuAiConfigType>7 </NeuAiConfigType>
+    <NeuExtData>1009 </NeuExtData>
+    <TimeoutDesc type="ResWarmGameTimeoutDesc">
+        <Time>10 </Time>
+        <QueueID>11 12 </QueueID>
+    </TimeoutDesc>
+    <TimeoutDesc type="ResWarmGameTimeoutDesc">
+        <Time>30 </Time>
+        <QueueID>19 0 </QueueID>
+    </TimeoutDesc>
+    <AICanUseRace>1 2 3 4 </AICanUseRace>
+</ResWarmGameQueueDesc>
+<ResWarmGameQueueDesc version="1">
+    <ID>13 </ID>
+    <MatchType>1 </MatchType>
+    <IsPureAi>0 </IsPureAi>
+    <ArenaMinLevel>0 </ArenaMinLevel>
+    <ArenaMaxLevel>0 </ArenaMaxLevel>
+    <PlayerMinLevel>0 </PlayerMinLevel>
+    <PlayerMaxLevel>0 </PlayerMaxLevel>
+    <RankLevelType>3 </RankLevelType>
+    <DailyCount>3 </DailyCount>
+    <LoseStreakCount>2 </LoseStreakCount>
+    <WinStreakCount>0 </WinStreakCount>
+    <MatchCount>0 </MatchCount>
+    <KillScore>0 </KillScore>
+    <BeKillScore>0 </BeKillScore>
+    <PlayerAiConfigType>0 </PlayerAiConfigType>
+    <PlayerExtData>1001 </PlayerExtData>
+    <FriendAiConfigType>4 </FriendAiConfigType>
+    <FriendExtData>1005 </FriendExtData>
+    <EnemyAiConfigType>2 </EnemyAiConfigType>
+    <EnemyExtData>1003 </EnemyExtData>
+    <NeuAiConfigType>2 </NeuAiConfigType>
+    <NeuExtData>1003 </NeuExtData>
+    <TimeoutDesc type="ResWarmGameTimeoutDesc">
+        <Time>10 </Time>
+        <QueueID>12 13 </QueueID>
+    </TimeoutDesc>
+    <TimeoutDesc type="ResWarmGameTimeoutDesc">
+        <Time>30 </Time>
+        <QueueID>20 0 </QueueID>
+    </TimeoutDesc>
+    <AICanUseRace>1 2 3 4 </AICanUseRace>
+</ResWarmGameQueueDesc>
+<ResWarmGameQueueDesc version="1">
+    <ID>14 </ID>
+    <MatchType>1 </MatchType>
+    <IsPureAi>0 </IsPureAi>
+    <ArenaMinLevel>0 </ArenaMinLevel>
+    <ArenaMaxLevel>0 </ArenaMaxLevel>
+    <PlayerMinLevel>0 </PlayerMinLevel>
+    <PlayerMaxLevel>0 </PlayerMaxLevel>
+    <RankLevelType>4 </RankLevelType>
+    <DailyCount>3 </DailyCount>
+    <LoseStreakCount>2 </LoseStreakCount>
+    <WinStreakCount>0 </WinStreakCount>
+    <MatchCount>0 </MatchCount>
+    <KillScore>0 </KillScore>
+    <BeKillScore>0 </BeKillScore>
+    <PlayerAiConfigType>0 </PlayerAiConfigType>
+    <PlayerExtData>1001 </PlayerExtData>
+    <FriendAiConfigType>4 </FriendAiConfigType>
+    <FriendExtData>1005 </FriendExtData>
+    <EnemyAiConfigType>2 </EnemyAiConfigType>
+    <EnemyExtData>1003 </EnemyExtData>
+    <NeuAiConfigType>2 </NeuAiConfigType>
+    <NeuExtData>1003 </NeuExtData>
+    <TimeoutDesc type="ResWarmGameTimeoutDesc">
+        <Time>10 </Time>
+        <QueueID>13 14 </QueueID>
+    </TimeoutDesc>
+    <TimeoutDesc type="ResWarmGameTimeoutDesc">
+        <Time>30 </Time>
+        <QueueID>20 0 </QueueID>
+    </TimeoutDesc>
+    <AICanUseRace>1 2 3 4 </AICanUseRace>
+</ResWarmGameQueueDesc>
+<ResWarmGameQueueDesc version="1">
+    <ID>15 </ID>
+    <MatchType>1 </MatchType>
+    <IsPureAi>0 </IsPureAi>
+    <ArenaMinLevel>0 </ArenaMinLevel>
+    <ArenaMaxLevel>0 </ArenaMaxLevel>
+    <PlayerMinLevel>0 </PlayerMinLevel>
+    <PlayerMaxLevel>0 </PlayerMaxLevel>
+    <RankLevelType>5 </RankLevelType>
+    <DailyCount>2 </DailyCount>
+    <LoseStreakCount>3 </LoseStreakCount>
+    <WinStreakCount>0 </WinStreakCount>
+    <MatchCount>0 </MatchCount>
+    <KillScore>0 </KillScore>
+    <BeKillScore>0 </BeKillScore>
+    <PlayerAiConfigType>0 </PlayerAiConfigType>
+    <PlayerExtData>1001 </PlayerExtData>
+    <FriendAiConfigType>5 </FriendAiConfigType>
+    <FriendExtData>1006 </FriendExtData>
+    <EnemyAiConfigType>3 </EnemyAiConfigType>
+    <EnemyExtData>1004 </EnemyExtData>
+    <NeuAiConfigType>3 </NeuAiConfigType>
+    <NeuExtData>1004 </NeuExtData>
+    <TimeoutDesc type="ResWarmGameTimeoutDesc">
+        <Time>10 </Time>
+        <QueueID>14 15 </QueueID>
+    </TimeoutDesc>
+    <TimeoutDesc type="ResWarmGameTimeoutDesc">
+        <Time>30 </Time>
+        <QueueID>21 0 </QueueID>
+    </TimeoutDesc>
+    <AICanUseRace>1 2 3 4 </AICanUseRace>
+</ResWarmGameQueueDesc>
+<ResWarmGameQueueDesc version="1">
+    <ID>16 </ID>
+    <MatchType>1 </MatchType>
+    <IsPureAi>0 </IsPureAi>
+    <ArenaMinLevel>0 </ArenaMinLevel>
+    <ArenaMaxLevel>0 </ArenaMaxLevel>
+    <PlayerMinLevel>0 </PlayerMinLevel>
+    <PlayerMaxLevel>0 </PlayerMaxLevel>
+    <RankLevelType>6 </RankLevelType>
+    <DailyCount>2 </DailyCount>
+    <LoseStreakCount>3 </LoseStreakCount>
+    <WinStreakCount>0 </WinStreakCount>
+    <MatchCount>0 </MatchCount>
+    <KillScore>0 </KillScore>
+    <BeKillScore>0 </BeKillScore>
+    <PlayerAiConfigType>0 </PlayerAiConfigType>
+    <PlayerExtData>1001 </PlayerExtData>
+    <FriendAiConfigType>5 </FriendAiConfigType>
+    <FriendExtData>1006 </FriendExtData>
+    <EnemyAiConfigType>3 </EnemyAiConfigType>
+    <EnemyExtData>1004 </EnemyExtData>
+    <NeuAiConfigType>3 </NeuAiConfigType>
+    <NeuExtData>1004 </NeuExtData>
+    <TimeoutDesc type="ResWarmGameTimeoutDesc">
+        <Time>10 </Time>
+        <QueueID>15 16 </QueueID>
+    </TimeoutDesc>
+    <TimeoutDesc type="ResWarmGameTimeoutDesc">
+        <Time>30 </Time>
+        <QueueID>21 0 </QueueID>
+    </TimeoutDesc>
+    <AICanUseRace>1 2 3 4 </AICanUseRace>
+</ResWarmGameQueueDesc>
+<ResWarmGameQueueDesc version="1">
+    <ID>17 </ID>
+    <MatchType>1 </MatchType>
+    <IsPureAi>0 </IsPureAi>
+    <ArenaMinLevel>0 </ArenaMinLevel>
+    <ArenaMaxLevel>0 </ArenaMaxLevel>
+    <PlayerMinLevel>0 </PlayerMinLevel>
+    <PlayerMaxLevel>0 </PlayerMaxLevel>
+    <RankLevelType>7 </RankLevelType>
+    <DailyCount>2 </DailyCount>
+    <LoseStreakCount>3 </LoseStreakCount>
+    <WinStreakCount>0 </WinStreakCount>
+    <MatchCount>0 </MatchCount>
+    <KillScore>0 </KillScore>
+    <BeKillScore>0 </BeKillScore>
+    <PlayerAiConfigType>0 </PlayerAiConfigType>
+    <PlayerExtData>1001 </PlayerExtData>
+    <FriendAiConfigType>5 </FriendAiConfigType>
+    <FriendExtData>1006 </FriendExtData>
+    <EnemyAiConfigType>3 </EnemyAiConfigType>
+    <EnemyExtData>1004 </EnemyExtData>
+    <NeuAiConfigType>3 </NeuAiConfigType>
+    <NeuExtData>1004 </NeuExtData>
+    <TimeoutDesc type="ResWarmGameTimeoutDesc">
+        <Time>10 </Time>
+        <QueueID>16 17 </QueueID>
+    </TimeoutDesc>
+    <TimeoutDesc type="ResWarmGameTimeoutDesc">
+        <Time>30 </Time>
+        <QueueID>21 0 </QueueID>
+    </TimeoutDesc>
+    <AICanUseRace>1 2 3 4 </AICanUseRace>
+</ResWarmGameQueueDesc>
+<ResWarmGameQueueDesc version="1">
+    <ID>18 </ID>
+    <MatchType>1 </MatchType>
+    <IsPureAi>1 </IsPureAi>
+    <ArenaMinLevel>0 </ArenaMinLevel>
+    <ArenaMaxLevel>0 </ArenaMaxLevel>
+    <PlayerMinLevel>0 </PlayerMinLevel>
+    <PlayerMaxLevel>0 </PlayerMaxLevel>
+    <RankLevelType>0 </RankLevelType>
+    <DailyCount>0 </DailyCount>
+    <LoseStreakCount>0 </LoseStreakCount>
+    <WinStreakCount>0 </WinStreakCount>
+    <MatchCount>0 </MatchCount>
+    <KillScore>0 </KillScore>
+    <BeKillScore>0 </BeKillScore>
+    <PlayerAiConfigType>0 </PlayerAiConfigType>
+    <PlayerExtData>1001 </PlayerExtData>
+    <FriendAiConfigType>3 </FriendAiConfigType>
+    <FriendExtData>1004 </FriendExtData>
+    <EnemyAiConfigType>7 </EnemyAiConfigType>
+    <EnemyExtData>1009 </EnemyExtData>
+    <NeuAiConfigType>7 </NeuAiConfigType>
+    <NeuExtData>1009 </NeuExtData>
+    <TimeoutDesc type="ResWarmGameTimeoutDesc">
+        <Time>0 </Time>
+        <QueueID>0 0 </QueueID>
+    </TimeoutDesc>
+    <TimeoutDesc type="ResWarmGameTimeoutDesc">
+        <Time>0 </Time>
+        <QueueID>0 0 </QueueID>
+    </TimeoutDesc>
+    <AICanUseRace>1 2 3 4 </AICanUseRace>
+</ResWarmGameQueueDesc>
+<ResWarmGameQueueDesc version="1">
+    <ID>19 </ID>
+    <MatchType>1 </MatchType>
+    <IsPureAi>1 </IsPureAi>
+    <ArenaMinLevel>0 </ArenaMinLevel>
+    <ArenaMaxLevel>0 </ArenaMaxLevel>
+    <PlayerMinLevel>0 </PlayerMinLevel>
+    <PlayerMaxLevel>0 </PlayerMaxLevel>
+    <RankLevelType>0 </RankLevelType>
+    <DailyCount>0 </DailyCount>
+    <LoseStreakCount>0 </LoseStreakCount>
+    <WinStreakCount>0 </WinStreakCount>
+    <MatchCount>0 </MatchCount>
+    <KillScore>0 </KillScore>
+    <BeKillScore>0 </BeKillScore>
+    <PlayerAiConfigType>0 </PlayerAiConfigType>
+    <PlayerExtData>1001 </PlayerExtData>
+    <FriendAiConfigType>3 </FriendAiConfigType>
+    <FriendExtData>1004 </FriendExtData>
+    <EnemyAiConfigType>7 </EnemyAiConfigType>
+    <EnemyExtData>1009 </EnemyExtData>
+    <NeuAiConfigType>7 </NeuAiConfigType>
+    <NeuExtData>1009 </NeuExtData>
+    <TimeoutDesc type="ResWarmGameTimeoutDesc">
+        <Time>0 </Time>
+        <QueueID>0 0 </QueueID>
+    </TimeoutDesc>
+    <TimeoutDesc type="ResWarmGameTimeoutDesc">
+        <Time>0 </Time>
+        <QueueID>0 0 </QueueID>
+    </TimeoutDesc>
+    <AICanUseRace>1 2 3 4 </AICanUseRace>
+</ResWarmGameQueueDesc>
+<ResWarmGameQueueDesc version="1">
+    <ID>20 </ID>
+    <MatchType>1 </MatchType>
+    <IsPureAi>1 </IsPureAi>
+    <ArenaMinLevel>0 </ArenaMinLevel>
+    <ArenaMaxLevel>0 </ArenaMaxLevel>
+    <PlayerMinLevel>0 </PlayerMinLevel>
+    <PlayerMaxLevel>0 </PlayerMaxLevel>
+    <RankLevelType>0 </RankLevelType>
+    <DailyCount>0 </DailyCount>
+    <LoseStreakCount>0 </LoseStreakCount>
+    <WinStreakCount>0 </WinStreakCount>
+    <MatchCount>0 </MatchCount>
+    <KillScore>0 </KillScore>
+    <BeKillScore>0 </BeKillScore>
+    <PlayerAiConfigType>0 </PlayerAiConfigType>
+    <PlayerExtData>1001 </PlayerExtData>
+    <FriendAiConfigType>4 </FriendAiConfigType>
+    <FriendExtData>1005 </FriendExtData>
+    <EnemyAiConfigType>2 </EnemyAiConfigType>
+    <EnemyExtData>1003 </EnemyExtData>
+    <NeuAiConfigType>3 </NeuAiConfigType>
+    <NeuExtData>1003 </NeuExtData>
+    <TimeoutDesc type="ResWarmGameTimeoutDesc">
+        <Time>0 </Time>
+        <QueueID>0 0 </QueueID>
+    </TimeoutDesc>
+    <TimeoutDesc type="ResWarmGameTimeoutDesc">
+        <Time>0 </Time>
+        <QueueID>0 0 </QueueID>
+    </TimeoutDesc>
+    <AICanUseRace>1 2 3 4 </AICanUseRace>
+</ResWarmGameQueueDesc>
+<ResWarmGameQueueDesc version="1">
+    <ID>21 </ID>
+    <MatchType>1 </MatchType>
+    <IsPureAi>1 </IsPureAi>
+    <ArenaMinLevel>0 </ArenaMinLevel>
+    <ArenaMaxLevel>0 </ArenaMaxLevel>
+    <PlayerMinLevel>0 </PlayerMinLevel>
+    <PlayerMaxLevel>0 </PlayerMaxLevel>
+    <RankLevelType>0 </RankLevelType>
+    <DailyCount>0 </DailyCount>
+    <LoseStreakCount>0 </LoseStreakCount>
+    <WinStreakCount>0 </WinStreakCount>
+    <MatchCount>0 </MatchCount>
+    <KillScore>0 </KillScore>
+    <BeKillScore>0 </BeKillScore>
+    <PlayerAiConfigType>0 </PlayerAiConfigType>
+    <PlayerExtData>1001 </PlayerExtData>
+    <FriendAiConfigType>5 </FriendAiConfigType>
+    <FriendExtData>1006 </FriendExtData>
+    <EnemyAiConfigType>2 </EnemyAiConfigType>
+    <EnemyExtData>1004 </EnemyExtData>
+    <NeuAiConfigType>3 </NeuAiConfigType>
+    <NeuExtData>1004 </NeuExtData>
+    <TimeoutDesc type="ResWarmGameTimeoutDesc">
+        <Time>0 </Time>
+        <QueueID>0 0 </QueueID>
+    </TimeoutDesc>
+    <TimeoutDesc type="ResWarmGameTimeoutDesc">
+        <Time>0 </Time>
+        <QueueID>0 0 </QueueID>
+    </TimeoutDesc>
+    <AICanUseRace>1 2 3 4 </AICanUseRace>
+</ResWarmGameQueueDesc>
+</ResWarmGameQueueDesc_Tab>

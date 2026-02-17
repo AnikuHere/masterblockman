@@ -1,0 +1,799 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<ResTechAttrUpEffect_Tab>
+<TResHeadAll version="5">
+    <resHead type="TResHead">
+        <Magic>1397052237 </Magic>
+        <Version>6 </Version>
+        <Unit>28 </Unit>
+        <Count>60 </Count>
+        <MetalibHash>531d5b4a397ad5b3c0fbfb5cc8059e55</MetalibHash>
+        <ResVersion>0 </ResVersion>
+        <CreateTime>2023-04-19 20:42:31</CreateTime>
+        <ResEncording>UTF-8</ResEncording>
+        <ContentHash>7fb3b02de077cd490fadcb908edb00d4</ContentHash>
+    </resHead>
+    <resHeadExt type="TResHeadExt">
+        <DataOffset>136 </DataOffset>
+    </resHeadExt>
+</TResHeadAll>
+<ResTechAttrUpEffect version="1">
+    <ResID>20000101 </ResID>
+    <TechAttr type="TechAttr">
+        <ResAttrType>8 </ResAttrType>
+        <ATTRADDTYPE>2 </ATTRADDTYPE>
+        <AttrValue>13 </AttrValue>
+    </TechAttr>
+    <TechAttr type="TechAttr">
+        <ResAttrType>9 </ResAttrType>
+        <ATTRADDTYPE>2 </ATTRADDTYPE>
+        <AttrValue>72 </AttrValue>
+    </TechAttr>
+</ResTechAttrUpEffect>
+<ResTechAttrUpEffect version="1">
+    <ResID>20000102 </ResID>
+    <TechAttr type="TechAttr">
+        <ResAttrType>8 </ResAttrType>
+        <ATTRADDTYPE>2 </ATTRADDTYPE>
+        <AttrValue>23 </AttrValue>
+    </TechAttr>
+    <TechAttr type="TechAttr">
+        <ResAttrType>9 </ResAttrType>
+        <ATTRADDTYPE>2 </ATTRADDTYPE>
+        <AttrValue>72 </AttrValue>
+    </TechAttr>
+</ResTechAttrUpEffect>
+<ResTechAttrUpEffect version="1">
+    <ResID>20000103 </ResID>
+    <TechAttr type="TechAttr">
+        <ResAttrType>8 </ResAttrType>
+        <ATTRADDTYPE>2 </ATTRADDTYPE>
+        <AttrValue>0 </AttrValue>
+    </TechAttr>
+    <TechAttr type="TechAttr">
+        <ResAttrType>9 </ResAttrType>
+        <ATTRADDTYPE>2 </ATTRADDTYPE>
+        <AttrValue>0 </AttrValue>
+    </TechAttr>
+</ResTechAttrUpEffect>
+<ResTechAttrUpEffect version="1">
+    <ResID>20000104 </ResID>
+    <TechAttr type="TechAttr">
+        <ResAttrType>8 </ResAttrType>
+        <ATTRADDTYPE>2 </ATTRADDTYPE>
+        <AttrValue>0 </AttrValue>
+    </TechAttr>
+    <TechAttr type="TechAttr">
+        <ResAttrType>9 </ResAttrType>
+        <ATTRADDTYPE>2 </ATTRADDTYPE>
+        <AttrValue>0 </AttrValue>
+    </TechAttr>
+</ResTechAttrUpEffect>
+<ResTechAttrUpEffect version="1">
+    <ResID>20000105 </ResID>
+    <TechAttr type="TechAttr">
+        <ResAttrType>8 </ResAttrType>
+        <ATTRADDTYPE>2 </ATTRADDTYPE>
+        <AttrValue>18 </AttrValue>
+    </TechAttr>
+    <TechAttr type="TechAttr">
+        <ResAttrType>9 </ResAttrType>
+        <ATTRADDTYPE>2 </ATTRADDTYPE>
+        <AttrValue>72 </AttrValue>
+    </TechAttr>
+</ResTechAttrUpEffect>
+<ResTechAttrUpEffect version="1">
+    <ResID>20000106 </ResID>
+    <TechAttr type="TechAttr">
+        <ResAttrType>8 </ResAttrType>
+        <ATTRADDTYPE>2 </ATTRADDTYPE>
+        <AttrValue>19 </AttrValue>
+    </TechAttr>
+    <TechAttr type="TechAttr">
+        <ResAttrType>9 </ResAttrType>
+        <ATTRADDTYPE>2 </ATTRADDTYPE>
+        <AttrValue>72 </AttrValue>
+    </TechAttr>
+</ResTechAttrUpEffect>
+<ResTechAttrUpEffect version="1">
+    <ResID>20000107 </ResID>
+    <TechAttr type="TechAttr">
+        <ResAttrType>8 </ResAttrType>
+        <ATTRADDTYPE>2 </ATTRADDTYPE>
+        <AttrValue>23 </AttrValue>
+    </TechAttr>
+    <TechAttr type="TechAttr">
+        <ResAttrType>9 </ResAttrType>
+        <ATTRADDTYPE>2 </ATTRADDTYPE>
+        <AttrValue>72 </AttrValue>
+    </TechAttr>
+</ResTechAttrUpEffect>
+<ResTechAttrUpEffect version="1">
+    <ResID>20000108 </ResID>
+    <TechAttr type="TechAttr">
+        <ResAttrType>8 </ResAttrType>
+        <ATTRADDTYPE>2 </ATTRADDTYPE>
+        <AttrValue>30 </AttrValue>
+    </TechAttr>
+    <TechAttr type="TechAttr">
+        <ResAttrType>9 </ResAttrType>
+        <ATTRADDTYPE>2 </ATTRADDTYPE>
+        <AttrValue>72 </AttrValue>
+    </TechAttr>
+</ResTechAttrUpEffect>
+<ResTechAttrUpEffect version="1">
+    <ResID>20000109 </ResID>
+    <TechAttr type="TechAttr">
+        <ResAttrType>8 </ResAttrType>
+        <ATTRADDTYPE>2 </ATTRADDTYPE>
+        <AttrValue>52 </AttrValue>
+    </TechAttr>
+    <TechAttr type="TechAttr">
+        <ResAttrType>9 </ResAttrType>
+        <ATTRADDTYPE>2 </ATTRADDTYPE>
+        <AttrValue>72 </AttrValue>
+    </TechAttr>
+</ResTechAttrUpEffect>
+<ResTechAttrUpEffect version="1">
+    <ResID>20000110 </ResID>
+    <TechAttr type="TechAttr">
+        <ResAttrType>8 </ResAttrType>
+        <ATTRADDTYPE>2 </ATTRADDTYPE>
+        <AttrValue>40 </AttrValue>
+    </TechAttr>
+    <TechAttr type="TechAttr">
+        <ResAttrType>9 </ResAttrType>
+        <ATTRADDTYPE>2 </ATTRADDTYPE>
+        <AttrValue>72 </AttrValue>
+    </TechAttr>
+</ResTechAttrUpEffect>
+<ResTechAttrUpEffect version="1">
+    <ResID>20000201 </ResID>
+    <TechAttr type="TechAttr">
+        <ResAttrType>8 </ResAttrType>
+        <ATTRADDTYPE>2 </ATTRADDTYPE>
+        <AttrValue>20 </AttrValue>
+    </TechAttr>
+    <TechAttr type="TechAttr">
+        <ResAttrType>9 </ResAttrType>
+        <ATTRADDTYPE>2 </ATTRADDTYPE>
+        <AttrValue>72 </AttrValue>
+    </TechAttr>
+</ResTechAttrUpEffect>
+<ResTechAttrUpEffect version="1">
+    <ResID>20000202 </ResID>
+    <TechAttr type="TechAttr">
+        <ResAttrType>8 </ResAttrType>
+        <ATTRADDTYPE>2 </ATTRADDTYPE>
+        <AttrValue>19 </AttrValue>
+    </TechAttr>
+    <TechAttr type="TechAttr">
+        <ResAttrType>9 </ResAttrType>
+        <ATTRADDTYPE>2 </ATTRADDTYPE>
+        <AttrValue>72 </AttrValue>
+    </TechAttr>
+</ResTechAttrUpEffect>
+<ResTechAttrUpEffect version="1">
+    <ResID>20000203 </ResID>
+    <TechAttr type="TechAttr">
+        <ResAttrType>8 </ResAttrType>
+        <ATTRADDTYPE>2 </ATTRADDTYPE>
+        <AttrValue>0 </AttrValue>
+    </TechAttr>
+    <TechAttr type="TechAttr">
+        <ResAttrType>9 </ResAttrType>
+        <ATTRADDTYPE>2 </ATTRADDTYPE>
+        <AttrValue>0 </AttrValue>
+    </TechAttr>
+</ResTechAttrUpEffect>
+<ResTechAttrUpEffect version="1">
+    <ResID>20000204 </ResID>
+    <TechAttr type="TechAttr">
+        <ResAttrType>8 </ResAttrType>
+        <ATTRADDTYPE>2 </ATTRADDTYPE>
+        <AttrValue>0 </AttrValue>
+    </TechAttr>
+    <TechAttr type="TechAttr">
+        <ResAttrType>9 </ResAttrType>
+        <ATTRADDTYPE>2 </ATTRADDTYPE>
+        <AttrValue>0 </AttrValue>
+    </TechAttr>
+</ResTechAttrUpEffect>
+<ResTechAttrUpEffect version="1">
+    <ResID>20000205 </ResID>
+    <TechAttr type="TechAttr">
+        <ResAttrType>8 </ResAttrType>
+        <ATTRADDTYPE>2 </ATTRADDTYPE>
+        <AttrValue>0 </AttrValue>
+    </TechAttr>
+    <TechAttr type="TechAttr">
+        <ResAttrType>9 </ResAttrType>
+        <ATTRADDTYPE>2 </ATTRADDTYPE>
+        <AttrValue>0 </AttrValue>
+    </TechAttr>
+</ResTechAttrUpEffect>
+<ResTechAttrUpEffect version="1">
+    <ResID>20000206 </ResID>
+    <TechAttr type="TechAttr">
+        <ResAttrType>8 </ResAttrType>
+        <ATTRADDTYPE>2 </ATTRADDTYPE>
+        <AttrValue>25 </AttrValue>
+    </TechAttr>
+    <TechAttr type="TechAttr">
+        <ResAttrType>9 </ResAttrType>
+        <ATTRADDTYPE>2 </ATTRADDTYPE>
+        <AttrValue>72 </AttrValue>
+    </TechAttr>
+</ResTechAttrUpEffect>
+<ResTechAttrUpEffect version="1">
+    <ResID>20000207 </ResID>
+    <TechAttr type="TechAttr">
+        <ResAttrType>8 </ResAttrType>
+        <ATTRADDTYPE>2 </ATTRADDTYPE>
+        <AttrValue>15 </AttrValue>
+    </TechAttr>
+    <TechAttr type="TechAttr">
+        <ResAttrType>9 </ResAttrType>
+        <ATTRADDTYPE>2 </ATTRADDTYPE>
+        <AttrValue>72 </AttrValue>
+    </TechAttr>
+</ResTechAttrUpEffect>
+<ResTechAttrUpEffect version="1">
+    <ResID>20000208 </ResID>
+    <TechAttr type="TechAttr">
+        <ResAttrType>8 </ResAttrType>
+        <ATTRADDTYPE>2 </ATTRADDTYPE>
+        <AttrValue>41 </AttrValue>
+    </TechAttr>
+    <TechAttr type="TechAttr">
+        <ResAttrType>9 </ResAttrType>
+        <ATTRADDTYPE>2 </ATTRADDTYPE>
+        <AttrValue>72 </AttrValue>
+    </TechAttr>
+</ResTechAttrUpEffect>
+<ResTechAttrUpEffect version="1">
+    <ResID>20000209 </ResID>
+    <TechAttr type="TechAttr">
+        <ResAttrType>8 </ResAttrType>
+        <ATTRADDTYPE>2 </ATTRADDTYPE>
+        <AttrValue>60 </AttrValue>
+    </TechAttr>
+    <TechAttr type="TechAttr">
+        <ResAttrType>9 </ResAttrType>
+        <ATTRADDTYPE>2 </ATTRADDTYPE>
+        <AttrValue>72 </AttrValue>
+    </TechAttr>
+</ResTechAttrUpEffect>
+<ResTechAttrUpEffect version="1">
+    <ResID>20000210 </ResID>
+    <TechAttr type="TechAttr">
+        <ResAttrType>8 </ResAttrType>
+        <ATTRADDTYPE>2 </ATTRADDTYPE>
+        <AttrValue>33 </AttrValue>
+    </TechAttr>
+    <TechAttr type="TechAttr">
+        <ResAttrType>9 </ResAttrType>
+        <ATTRADDTYPE>2 </ATTRADDTYPE>
+        <AttrValue>72 </AttrValue>
+    </TechAttr>
+</ResTechAttrUpEffect>
+<ResTechAttrUpEffect version="1">
+    <ResID>20000301 </ResID>
+    <TechAttr type="TechAttr">
+        <ResAttrType>8 </ResAttrType>
+        <ATTRADDTYPE>2 </ATTRADDTYPE>
+        <AttrValue>13 </AttrValue>
+    </TechAttr>
+    <TechAttr type="TechAttr">
+        <ResAttrType>9 </ResAttrType>
+        <ATTRADDTYPE>2 </ATTRADDTYPE>
+        <AttrValue>72 </AttrValue>
+    </TechAttr>
+</ResTechAttrUpEffect>
+<ResTechAttrUpEffect version="1">
+    <ResID>20000302 </ResID>
+    <TechAttr type="TechAttr">
+        <ResAttrType>8 </ResAttrType>
+        <ATTRADDTYPE>2 </ATTRADDTYPE>
+        <AttrValue>29 </AttrValue>
+    </TechAttr>
+    <TechAttr type="TechAttr">
+        <ResAttrType>9 </ResAttrType>
+        <ATTRADDTYPE>2 </ATTRADDTYPE>
+        <AttrValue>72 </AttrValue>
+    </TechAttr>
+</ResTechAttrUpEffect>
+<ResTechAttrUpEffect version="1">
+    <ResID>20000303 </ResID>
+    <TechAttr type="TechAttr">
+        <ResAttrType>8 </ResAttrType>
+        <ATTRADDTYPE>2 </ATTRADDTYPE>
+        <AttrValue>0 </AttrValue>
+    </TechAttr>
+    <TechAttr type="TechAttr">
+        <ResAttrType>9 </ResAttrType>
+        <ATTRADDTYPE>2 </ATTRADDTYPE>
+        <AttrValue>0 </AttrValue>
+    </TechAttr>
+</ResTechAttrUpEffect>
+<ResTechAttrUpEffect version="1">
+    <ResID>20000304 </ResID>
+    <TechAttr type="TechAttr">
+        <ResAttrType>8 </ResAttrType>
+        <ATTRADDTYPE>2 </ATTRADDTYPE>
+        <AttrValue>0 </AttrValue>
+    </TechAttr>
+    <TechAttr type="TechAttr">
+        <ResAttrType>9 </ResAttrType>
+        <ATTRADDTYPE>2 </ATTRADDTYPE>
+        <AttrValue>0 </AttrValue>
+    </TechAttr>
+</ResTechAttrUpEffect>
+<ResTechAttrUpEffect version="1">
+    <ResID>20000305 </ResID>
+    <TechAttr type="TechAttr">
+        <ResAttrType>8 </ResAttrType>
+        <ATTRADDTYPE>2 </ATTRADDTYPE>
+        <AttrValue>25 </AttrValue>
+    </TechAttr>
+    <TechAttr type="TechAttr">
+        <ResAttrType>9 </ResAttrType>
+        <ATTRADDTYPE>2 </ATTRADDTYPE>
+        <AttrValue>72 </AttrValue>
+    </TechAttr>
+</ResTechAttrUpEffect>
+<ResTechAttrUpEffect version="1">
+    <ResID>20000306 </ResID>
+    <TechAttr type="TechAttr">
+        <ResAttrType>8 </ResAttrType>
+        <ATTRADDTYPE>2 </ATTRADDTYPE>
+        <AttrValue>30 </AttrValue>
+    </TechAttr>
+    <TechAttr type="TechAttr">
+        <ResAttrType>9 </ResAttrType>
+        <ATTRADDTYPE>2 </ATTRADDTYPE>
+        <AttrValue>72 </AttrValue>
+    </TechAttr>
+</ResTechAttrUpEffect>
+<ResTechAttrUpEffect version="1">
+    <ResID>20000307 </ResID>
+    <TechAttr type="TechAttr">
+        <ResAttrType>8 </ResAttrType>
+        <ATTRADDTYPE>2 </ATTRADDTYPE>
+        <AttrValue>52 </AttrValue>
+    </TechAttr>
+    <TechAttr type="TechAttr">
+        <ResAttrType>9 </ResAttrType>
+        <ATTRADDTYPE>2 </ATTRADDTYPE>
+        <AttrValue>72 </AttrValue>
+    </TechAttr>
+</ResTechAttrUpEffect>
+<ResTechAttrUpEffect version="1">
+    <ResID>20000308 </ResID>
+    <TechAttr type="TechAttr">
+        <ResAttrType>8 </ResAttrType>
+        <ATTRADDTYPE>2 </ATTRADDTYPE>
+        <AttrValue>38 </AttrValue>
+    </TechAttr>
+    <TechAttr type="TechAttr">
+        <ResAttrType>9 </ResAttrType>
+        <ATTRADDTYPE>2 </ATTRADDTYPE>
+        <AttrValue>72 </AttrValue>
+    </TechAttr>
+</ResTechAttrUpEffect>
+<ResTechAttrUpEffect version="1">
+    <ResID>20000309 </ResID>
+    <TechAttr type="TechAttr">
+        <ResAttrType>8 </ResAttrType>
+        <ATTRADDTYPE>2 </ATTRADDTYPE>
+        <AttrValue>70 </AttrValue>
+    </TechAttr>
+    <TechAttr type="TechAttr">
+        <ResAttrType>9 </ResAttrType>
+        <ATTRADDTYPE>2 </ATTRADDTYPE>
+        <AttrValue>72 </AttrValue>
+    </TechAttr>
+</ResTechAttrUpEffect>
+<ResTechAttrUpEffect version="1">
+    <ResID>20000310 </ResID>
+    <TechAttr type="TechAttr">
+        <ResAttrType>8 </ResAttrType>
+        <ATTRADDTYPE>2 </ATTRADDTYPE>
+        <AttrValue>18 </AttrValue>
+    </TechAttr>
+    <TechAttr type="TechAttr">
+        <ResAttrType>9 </ResAttrType>
+        <ATTRADDTYPE>2 </ATTRADDTYPE>
+        <AttrValue>72 </AttrValue>
+    </TechAttr>
+</ResTechAttrUpEffect>
+<ResTechAttrUpEffect version="1">
+    <ResID>20000326 </ResID>
+    <TechAttr type="TechAttr">
+        <ResAttrType>8 </ResAttrType>
+        <ATTRADDTYPE>2 </ATTRADDTYPE>
+        <AttrValue>15 </AttrValue>
+    </TechAttr>
+    <TechAttr type="TechAttr">
+        <ResAttrType>9 </ResAttrType>
+        <ATTRADDTYPE>2 </ATTRADDTYPE>
+        <AttrValue>72 </AttrValue>
+    </TechAttr>
+</ResTechAttrUpEffect>
+<ResTechAttrUpEffect version="1">
+    <ResID>20000327 </ResID>
+    <TechAttr type="TechAttr">
+        <ResAttrType>8 </ResAttrType>
+        <ATTRADDTYPE>2 </ATTRADDTYPE>
+        <AttrValue>12 </AttrValue>
+    </TechAttr>
+    <TechAttr type="TechAttr">
+        <ResAttrType>9 </ResAttrType>
+        <ATTRADDTYPE>2 </ATTRADDTYPE>
+        <AttrValue>72 </AttrValue>
+    </TechAttr>
+</ResTechAttrUpEffect>
+<ResTechAttrUpEffect version="1">
+    <ResID>20000401 </ResID>
+    <TechAttr type="TechAttr">
+        <ResAttrType>8 </ResAttrType>
+        <ATTRADDTYPE>2 </ATTRADDTYPE>
+        <AttrValue>17 </AttrValue>
+    </TechAttr>
+    <TechAttr type="TechAttr">
+        <ResAttrType>9 </ResAttrType>
+        <ATTRADDTYPE>2 </ATTRADDTYPE>
+        <AttrValue>72 </AttrValue>
+    </TechAttr>
+</ResTechAttrUpEffect>
+<ResTechAttrUpEffect version="1">
+    <ResID>20000402 </ResID>
+    <TechAttr type="TechAttr">
+        <ResAttrType>8 </ResAttrType>
+        <ATTRADDTYPE>2 </ATTRADDTYPE>
+        <AttrValue>17 </AttrValue>
+    </TechAttr>
+    <TechAttr type="TechAttr">
+        <ResAttrType>9 </ResAttrType>
+        <ATTRADDTYPE>2 </ATTRADDTYPE>
+        <AttrValue>72 </AttrValue>
+    </TechAttr>
+</ResTechAttrUpEffect>
+<ResTechAttrUpEffect version="1">
+    <ResID>20000403 </ResID>
+    <TechAttr type="TechAttr">
+        <ResAttrType>8 </ResAttrType>
+        <ATTRADDTYPE>2 </ATTRADDTYPE>
+        <AttrValue>0 </AttrValue>
+    </TechAttr>
+    <TechAttr type="TechAttr">
+        <ResAttrType>9 </ResAttrType>
+        <ATTRADDTYPE>2 </ATTRADDTYPE>
+        <AttrValue>0 </AttrValue>
+    </TechAttr>
+</ResTechAttrUpEffect>
+<ResTechAttrUpEffect version="1">
+    <ResID>20000404 </ResID>
+    <TechAttr type="TechAttr">
+        <ResAttrType>8 </ResAttrType>
+        <ATTRADDTYPE>2 </ATTRADDTYPE>
+        <AttrValue>15 </AttrValue>
+    </TechAttr>
+    <TechAttr type="TechAttr">
+        <ResAttrType>9 </ResAttrType>
+        <ATTRADDTYPE>2 </ATTRADDTYPE>
+        <AttrValue>72 </AttrValue>
+    </TechAttr>
+</ResTechAttrUpEffect>
+<ResTechAttrUpEffect version="1">
+    <ResID>20000405 </ResID>
+    <TechAttr type="TechAttr">
+        <ResAttrType>8 </ResAttrType>
+        <ATTRADDTYPE>2 </ATTRADDTYPE>
+        <AttrValue>0 </AttrValue>
+    </TechAttr>
+    <TechAttr type="TechAttr">
+        <ResAttrType>9 </ResAttrType>
+        <ATTRADDTYPE>2 </ATTRADDTYPE>
+        <AttrValue>0 </AttrValue>
+    </TechAttr>
+</ResTechAttrUpEffect>
+<ResTechAttrUpEffect version="1">
+    <ResID>20000406 </ResID>
+    <TechAttr type="TechAttr">
+        <ResAttrType>8 </ResAttrType>
+        <ATTRADDTYPE>2 </ATTRADDTYPE>
+        <AttrValue>30 </AttrValue>
+    </TechAttr>
+    <TechAttr type="TechAttr">
+        <ResAttrType>9 </ResAttrType>
+        <ATTRADDTYPE>2 </ATTRADDTYPE>
+        <AttrValue>72 </AttrValue>
+    </TechAttr>
+</ResTechAttrUpEffect>
+<ResTechAttrUpEffect version="1">
+    <ResID>20000407 </ResID>
+    <TechAttr type="TechAttr">
+        <ResAttrType>8 </ResAttrType>
+        <ATTRADDTYPE>2 </ATTRADDTYPE>
+        <AttrValue>24 </AttrValue>
+    </TechAttr>
+    <TechAttr type="TechAttr">
+        <ResAttrType>9 </ResAttrType>
+        <ATTRADDTYPE>2 </ATTRADDTYPE>
+        <AttrValue>72 </AttrValue>
+    </TechAttr>
+</ResTechAttrUpEffect>
+<ResTechAttrUpEffect version="1">
+    <ResID>20000408 </ResID>
+    <TechAttr type="TechAttr">
+        <ResAttrType>8 </ResAttrType>
+        <ATTRADDTYPE>2 </ATTRADDTYPE>
+        <AttrValue>38 </AttrValue>
+    </TechAttr>
+    <TechAttr type="TechAttr">
+        <ResAttrType>9 </ResAttrType>
+        <ATTRADDTYPE>2 </ATTRADDTYPE>
+        <AttrValue>72 </AttrValue>
+    </TechAttr>
+</ResTechAttrUpEffect>
+<ResTechAttrUpEffect version="1">
+    <ResID>20000409 </ResID>
+    <TechAttr type="TechAttr">
+        <ResAttrType>8 </ResAttrType>
+        <ATTRADDTYPE>2 </ATTRADDTYPE>
+        <AttrValue>75 </AttrValue>
+    </TechAttr>
+    <TechAttr type="TechAttr">
+        <ResAttrType>9 </ResAttrType>
+        <ATTRADDTYPE>2 </ATTRADDTYPE>
+        <AttrValue>72 </AttrValue>
+    </TechAttr>
+</ResTechAttrUpEffect>
+<ResTechAttrUpEffect version="1">
+    <ResID>20000410 </ResID>
+    <TechAttr type="TechAttr">
+        <ResAttrType>8 </ResAttrType>
+        <ATTRADDTYPE>2 </ATTRADDTYPE>
+        <AttrValue>43 </AttrValue>
+    </TechAttr>
+    <TechAttr type="TechAttr">
+        <ResAttrType>9 </ResAttrType>
+        <ATTRADDTYPE>2 </ATTRADDTYPE>
+        <AttrValue>72 </AttrValue>
+    </TechAttr>
+</ResTechAttrUpEffect>
+<ResTechAttrUpEffect version="1">
+    <ResID>20000707 </ResID>
+    <TechAttr type="TechAttr">
+        <ResAttrType>8 </ResAttrType>
+        <ATTRADDTYPE>2 </ATTRADDTYPE>
+        <AttrValue>13 </AttrValue>
+    </TechAttr>
+    <TechAttr type="TechAttr">
+        <ResAttrType>9 </ResAttrType>
+        <ATTRADDTYPE>2 </ATTRADDTYPE>
+        <AttrValue>72 </AttrValue>
+    </TechAttr>
+</ResTechAttrUpEffect>
+<ResTechAttrUpEffect version="1">
+    <ResID>20000708 </ResID>
+    <TechAttr type="TechAttr">
+        <ResAttrType>8 </ResAttrType>
+        <ATTRADDTYPE>2 </ATTRADDTYPE>
+        <AttrValue>23 </AttrValue>
+    </TechAttr>
+    <TechAttr type="TechAttr">
+        <ResAttrType>9 </ResAttrType>
+        <ATTRADDTYPE>2 </ATTRADDTYPE>
+        <AttrValue>72 </AttrValue>
+    </TechAttr>
+</ResTechAttrUpEffect>
+<ResTechAttrUpEffect version="1">
+    <ResID>20000709 </ResID>
+    <TechAttr type="TechAttr">
+        <ResAttrType>8 </ResAttrType>
+        <ATTRADDTYPE>2 </ATTRADDTYPE>
+        <AttrValue>0 </AttrValue>
+    </TechAttr>
+    <TechAttr type="TechAttr">
+        <ResAttrType>9 </ResAttrType>
+        <ATTRADDTYPE>2 </ATTRADDTYPE>
+        <AttrValue>0 </AttrValue>
+    </TechAttr>
+</ResTechAttrUpEffect>
+<ResTechAttrUpEffect version="1">
+    <ResID>20000710 </ResID>
+    <TechAttr type="TechAttr">
+        <ResAttrType>8 </ResAttrType>
+        <ATTRADDTYPE>2 </ATTRADDTYPE>
+        <AttrValue>0 </AttrValue>
+    </TechAttr>
+    <TechAttr type="TechAttr">
+        <ResAttrType>9 </ResAttrType>
+        <ATTRADDTYPE>2 </ATTRADDTYPE>
+        <AttrValue>0 </AttrValue>
+    </TechAttr>
+</ResTechAttrUpEffect>
+<ResTechAttrUpEffect version="1">
+    <ResID>20000711 </ResID>
+    <TechAttr type="TechAttr">
+        <ResAttrType>8 </ResAttrType>
+        <ATTRADDTYPE>2 </ATTRADDTYPE>
+        <AttrValue>26 </AttrValue>
+    </TechAttr>
+    <TechAttr type="TechAttr">
+        <ResAttrType>9 </ResAttrType>
+        <ATTRADDTYPE>2 </ATTRADDTYPE>
+        <AttrValue>72 </AttrValue>
+    </TechAttr>
+</ResTechAttrUpEffect>
+<ResTechAttrUpEffect version="1">
+    <ResID>20000712 </ResID>
+    <TechAttr type="TechAttr">
+        <ResAttrType>8 </ResAttrType>
+        <ATTRADDTYPE>2 </ATTRADDTYPE>
+        <AttrValue>19 </AttrValue>
+    </TechAttr>
+    <TechAttr type="TechAttr">
+        <ResAttrType>9 </ResAttrType>
+        <ATTRADDTYPE>2 </ATTRADDTYPE>
+        <AttrValue>72 </AttrValue>
+    </TechAttr>
+</ResTechAttrUpEffect>
+<ResTechAttrUpEffect version="1">
+    <ResID>20000713 </ResID>
+    <TechAttr type="TechAttr">
+        <ResAttrType>8 </ResAttrType>
+        <ATTRADDTYPE>2 </ATTRADDTYPE>
+        <AttrValue>23 </AttrValue>
+    </TechAttr>
+    <TechAttr type="TechAttr">
+        <ResAttrType>9 </ResAttrType>
+        <ATTRADDTYPE>2 </ATTRADDTYPE>
+        <AttrValue>72 </AttrValue>
+    </TechAttr>
+</ResTechAttrUpEffect>
+<ResTechAttrUpEffect version="1">
+    <ResID>20000714 </ResID>
+    <TechAttr type="TechAttr">
+        <ResAttrType>8 </ResAttrType>
+        <ATTRADDTYPE>2 </ATTRADDTYPE>
+        <AttrValue>30 </AttrValue>
+    </TechAttr>
+    <TechAttr type="TechAttr">
+        <ResAttrType>9 </ResAttrType>
+        <ATTRADDTYPE>2 </ATTRADDTYPE>
+        <AttrValue>72 </AttrValue>
+    </TechAttr>
+</ResTechAttrUpEffect>
+<ResTechAttrUpEffect version="1">
+    <ResID>20000715 </ResID>
+    <TechAttr type="TechAttr">
+        <ResAttrType>8 </ResAttrType>
+        <ATTRADDTYPE>2 </ATTRADDTYPE>
+        <AttrValue>52 </AttrValue>
+    </TechAttr>
+    <TechAttr type="TechAttr">
+        <ResAttrType>9 </ResAttrType>
+        <ATTRADDTYPE>2 </ATTRADDTYPE>
+        <AttrValue>72 </AttrValue>
+    </TechAttr>
+</ResTechAttrUpEffect>
+<ResTechAttrUpEffect version="1">
+    <ResID>20000716 </ResID>
+    <TechAttr type="TechAttr">
+        <ResAttrType>8 </ResAttrType>
+        <ATTRADDTYPE>2 </ATTRADDTYPE>
+        <AttrValue>50 </AttrValue>
+    </TechAttr>
+    <TechAttr type="TechAttr">
+        <ResAttrType>9 </ResAttrType>
+        <ATTRADDTYPE>2 </ATTRADDTYPE>
+        <AttrValue>72 </AttrValue>
+    </TechAttr>
+</ResTechAttrUpEffect>
+<ResTechAttrUpEffect version="1">
+    <ResID>20000738 </ResID>
+    <TechAttr type="TechAttr">
+        <ResAttrType>8 </ResAttrType>
+        <ATTRADDTYPE>2 </ATTRADDTYPE>
+        <AttrValue>0 </AttrValue>
+    </TechAttr>
+    <TechAttr type="TechAttr">
+        <ResAttrType>9 </ResAttrType>
+        <ATTRADDTYPE>2 </ATTRADDTYPE>
+        <AttrValue>0 </AttrValue>
+    </TechAttr>
+</ResTechAttrUpEffect>
+<ResTechAttrUpEffect version="1">
+    <ResID>20000741 </ResID>
+    <TechAttr type="TechAttr">
+        <ResAttrType>8 </ResAttrType>
+        <ATTRADDTYPE>2 </ATTRADDTYPE>
+        <AttrValue>0 </AttrValue>
+    </TechAttr>
+    <TechAttr type="TechAttr">
+        <ResAttrType>9 </ResAttrType>
+        <ATTRADDTYPE>2 </ATTRADDTYPE>
+        <AttrValue>0 </AttrValue>
+    </TechAttr>
+</ResTechAttrUpEffect>
+<ResTechAttrUpEffect version="1">
+    <ResID>20000742 </ResID>
+    <TechAttr type="TechAttr">
+        <ResAttrType>8 </ResAttrType>
+        <ATTRADDTYPE>2 </ATTRADDTYPE>
+        <AttrValue>0 </AttrValue>
+    </TechAttr>
+    <TechAttr type="TechAttr">
+        <ResAttrType>9 </ResAttrType>
+        <ATTRADDTYPE>2 </ATTRADDTYPE>
+        <AttrValue>0 </AttrValue>
+    </TechAttr>
+</ResTechAttrUpEffect>
+<ResTechAttrUpEffect version="1">
+    <ResID>20000743 </ResID>
+    <TechAttr type="TechAttr">
+        <ResAttrType>8 </ResAttrType>
+        <ATTRADDTYPE>2 </ATTRADDTYPE>
+        <AttrValue>0 </AttrValue>
+    </TechAttr>
+    <TechAttr type="TechAttr">
+        <ResAttrType>9 </ResAttrType>
+        <ATTRADDTYPE>2 </ATTRADDTYPE>
+        <AttrValue>0 </AttrValue>
+    </TechAttr>
+</ResTechAttrUpEffect>
+<ResTechAttrUpEffect version="1">
+    <ResID>20000744 </ResID>
+    <TechAttr type="TechAttr">
+        <ResAttrType>8 </ResAttrType>
+        <ATTRADDTYPE>2 </ATTRADDTYPE>
+        <AttrValue>0 </AttrValue>
+    </TechAttr>
+    <TechAttr type="TechAttr">
+        <ResAttrType>9 </ResAttrType>
+        <ATTRADDTYPE>2 </ATTRADDTYPE>
+        <AttrValue>0 </AttrValue>
+    </TechAttr>
+</ResTechAttrUpEffect>
+<ResTechAttrUpEffect version="1">
+    <ResID>20000745 </ResID>
+    <TechAttr type="TechAttr">
+        <ResAttrType>8 </ResAttrType>
+        <ATTRADDTYPE>2 </ATTRADDTYPE>
+        <AttrValue>0 </AttrValue>
+    </TechAttr>
+    <TechAttr type="TechAttr">
+        <ResAttrType>9 </ResAttrType>
+        <ATTRADDTYPE>2 </ATTRADDTYPE>
+        <AttrValue>0 </AttrValue>
+    </TechAttr>
+</ResTechAttrUpEffect>
+<ResTechAttrUpEffect version="1">
+    <ResID>20000746 </ResID>
+    <TechAttr type="TechAttr">
+        <ResAttrType>8 </ResAttrType>
+        <ATTRADDTYPE>2 </ATTRADDTYPE>
+        <AttrValue>0 </AttrValue>
+    </TechAttr>
+    <TechAttr type="TechAttr">
+        <ResAttrType>9 </ResAttrType>
+        <ATTRADDTYPE>2 </ATTRADDTYPE>
+        <AttrValue>0 </AttrValue>
+    </TechAttr>
+</ResTechAttrUpEffect>
+<ResTechAttrUpEffect version="1">
+    <ResID>20000747 </ResID>
+    <TechAttr type="TechAttr">
+        <ResAttrType>8 </ResAttrType>
+        <ATTRADDTYPE>2 </ATTRADDTYPE>
+        <AttrValue>0 </AttrValue>
+    </TechAttr>
+    <TechAttr type="TechAttr">
+        <ResAttrType>9 </ResAttrType>
+        <ATTRADDTYPE>2 </ATTRADDTYPE>
+        <AttrValue>0 </AttrValue>
+    </TechAttr>
+</ResTechAttrUpEffect>
+</ResTechAttrUpEffect_Tab>

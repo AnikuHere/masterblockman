@@ -1,0 +1,3775 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<ResSystemRandomPlayerNameDesc_Tab>
+<TResHeadAll version="5">
+    <resHead type="TResHead">
+        <Magic>1397052237 </Magic>
+        <Version>6 </Version>
+        <Unit>196 </Unit>
+        <Count>626 </Count>
+        <MetalibHash>531d5b4a397ad5b3c0fbfb5cc8059e55</MetalibHash>
+        <ResVersion>0 </ResVersion>
+        <CreateTime>2023-04-19 20:42:32</CreateTime>
+        <ResEncording>UTF-8</ResEncording>
+        <ContentHash>3f6df5dcf74839ee771a7158cf21c9d6</ContentHash>
+    </resHead>
+    <resHeadExt type="TResHeadExt">
+        <DataOffset>136 </DataOffset>
+    </resHeadExt>
+</TResHeadAll>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>1 </ResID>
+    <Name>温室</Name>
+    <MiddleName>或</MiddleName>
+    <EndName>1</EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>2 </ResID>
+    <Name>六月</Name>
+    <MiddleName>与</MiddleName>
+    <EndName>2</EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>3 </ResID>
+    <Name>暖心</Name>
+    <MiddleName>但</MiddleName>
+    <EndName>3</EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>4 </ResID>
+    <Name>默默</Name>
+    <MiddleName>而</MiddleName>
+    <EndName>4</EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>5 </ResID>
+    <Name>努力</Name>
+    <MiddleName>且</MiddleName>
+    <EndName>5</EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>6 </ResID>
+    <Name>明天</Name>
+    <MiddleName>缺</MiddleName>
+    <EndName>6</EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>7 </ResID>
+    <Name>中二</Name>
+    <MiddleName>也</MiddleName>
+    <EndName>7</EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>8 </ResID>
+    <Name>肆意</Name>
+    <MiddleName>de</MiddleName>
+    <EndName>8</EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>9 </ResID>
+    <Name>选择</Name>
+    <MiddleName>和</MiddleName>
+    <EndName>9</EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>10 </ResID>
+    <Name>遗忘</Name>
+    <MiddleName>还</MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>11 </ResID>
+    <Name>笑脸</Name>
+    <MiddleName>地</MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>12 </ResID>
+    <Name>内心</Name>
+    <MiddleName>滴</MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>13 </ResID>
+    <Name>脑残</Name>
+    <MiddleName>的</MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>14 </ResID>
+    <Name>无敌</Name>
+    <MiddleName>则</MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>15 </ResID>
+    <Name>厮守</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>16 </ResID>
+    <Name>卑微</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>17 </ResID>
+    <Name>惹爱</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>18 </ResID>
+    <Name>陌路</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>19 </ResID>
+    <Name>勇气</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>20 </ResID>
+    <Name>灵魂</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>21 </ResID>
+    <Name>死了</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>22 </ResID>
+    <Name>相爱</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>23 </ResID>
+    <Name>元气</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>24 </ResID>
+    <Name>咖啡</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>25 </ResID>
+    <Name>资深</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>26 </ResID>
+    <Name>窒息</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>27 </ResID>
+    <Name>深藏</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>28 </ResID>
+    <Name>绚丽</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>29 </ResID>
+    <Name>小丑</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>30 </ResID>
+    <Name>时间</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>31 </ResID>
+    <Name>青春</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>32 </ResID>
+    <Name>骄傲</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>33 </ResID>
+    <Name>演戏</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>34 </ResID>
+    <Name>温柔</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>35 </ResID>
+    <Name>星空</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>36 </ResID>
+    <Name>魅力</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>37 </ResID>
+    <Name>天使</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>38 </ResID>
+    <Name>面对</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>39 </ResID>
+    <Name>依然</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>40 </ResID>
+    <Name>花朵</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>41 </ResID>
+    <Name>薄荷</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>42 </ResID>
+    <Name>微光</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>43 </ResID>
+    <Name>夏至</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>44 </ResID>
+    <Name>轻笑</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>45 </ResID>
+    <Name>乱舞</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>46 </ResID>
+    <Name>伊人</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>47 </ResID>
+    <Name>花开</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>48 </ResID>
+    <Name>低眉</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>49 </ResID>
+    <Name>沦落</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>50 </ResID>
+    <Name>陪衬</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>51 </ResID>
+    <Name>痴迷</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>52 </ResID>
+    <Name>疯癫</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>53 </ResID>
+    <Name>邪性</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>54 </ResID>
+    <Name>洒脱</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>55 </ResID>
+    <Name>随意</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>56 </ResID>
+    <Name>我酷</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>57 </ResID>
+    <Name>拜托</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>58 </ResID>
+    <Name>狂风</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>59 </ResID>
+    <Name>酷酷</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>60 </ResID>
+    <Name>核能</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>61 </ResID>
+    <Name>气质</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>62 </ResID>
+    <Name>性子</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>63 </ResID>
+    <Name>古怪</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>64 </ResID>
+    <Name>不俗</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>65 </ResID>
+    <Name>可人</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>66 </ResID>
+    <Name>独特</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>67 </ResID>
+    <Name>潮人</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>68 </ResID>
+    <Name>怪性</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>69 </ResID>
+    <Name>神秘</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>70 </ResID>
+    <Name>鬼马</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>71 </ResID>
+    <Name>傲气</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>72 </ResID>
+    <Name>爆笑</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>73 </ResID>
+    <Name>霸气</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>74 </ResID>
+    <Name>萌妹</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>75 </ResID>
+    <Name>狂热</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>76 </ResID>
+    <Name>别致</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>77 </ResID>
+    <Name>神经</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>78 </ResID>
+    <Name>疯子</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>79 </ResID>
+    <Name>零碎</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>80 </ResID>
+    <Name>初夏</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>81 </ResID>
+    <Name>琉璃</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>82 </ResID>
+    <Name>彼岸</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>83 </ResID>
+    <Name>天寂</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>84 </ResID>
+    <Name>幻殇</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>85 </ResID>
+    <Name>离歌</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>86 </ResID>
+    <Name>梦影</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>87 </ResID>
+    <Name>断夏</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>88 </ResID>
+    <Name>流岚</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>89 </ResID>
+    <Name>浓墨</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>90 </ResID>
+    <Name>断然</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>91 </ResID>
+    <Name>浮生</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>92 </ResID>
+    <Name>朝暮</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>93 </ResID>
+    <Name>邂逅</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>94 </ResID>
+    <Name>绵密</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>95 </ResID>
+    <Name>剪影</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>96 </ResID>
+    <Name>时空</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>97 </ResID>
+    <Name>漠然</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>98 </ResID>
+    <Name>寂灭</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>99 </ResID>
+    <Name>落寂</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>100 </ResID>
+    <Name>晨曦</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>101 </ResID>
+    <Name>回忆</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>102 </ResID>
+    <Name>错落</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>103 </ResID>
+    <Name>迷茫</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>104 </ResID>
+    <Name>默诺</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>105 </ResID>
+    <Name>余音</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>106 </ResID>
+    <Name>背殇</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>107 </ResID>
+    <Name>落幕</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>108 </ResID>
+    <Name>黯然</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>109 </ResID>
+    <Name>拾忆</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>110 </ResID>
+    <Name>独寂</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>111 </ResID>
+    <Name>透彻</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>112 </ResID>
+    <Name>水影</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>113 </ResID>
+    <Name>浅陌</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>114 </ResID>
+    <Name>无垠</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>115 </ResID>
+    <Name>深音</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>116 </ResID>
+    <Name>迷遇</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>117 </ResID>
+    <Name>暖光</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>118 </ResID>
+    <Name>尘宵</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>119 </ResID>
+    <Name>磬音</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>120 </ResID>
+    <Name>黯伤</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>121 </ResID>
+    <Name>醉生</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>122 </ResID>
+    <Name>寂冷</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>123 </ResID>
+    <Name>烟尘</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>124 </ResID>
+    <Name>凋落</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>125 </ResID>
+    <Name>落梅</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>126 </ResID>
+    <Name>冷月</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>127 </ResID>
+    <Name>花魂</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>128 </ResID>
+    <Name>平湖</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>129 </ResID>
+    <Name>秋月</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>130 </ResID>
+    <Name>柳悴</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>131 </ResID>
+    <Name>彼年</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>132 </ResID>
+    <Name>斑驳</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>133 </ResID>
+    <Name>蓦然</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>134 </ResID>
+    <Name>无声</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>135 </ResID>
+    <Name>邂逅</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>136 </ResID>
+    <Name>墨年</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>137 </ResID>
+    <Name>低吟</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>138 </ResID>
+    <Name>叙述</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>139 </ResID>
+    <Name>唯爱</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>140 </ResID>
+    <Name>铭记</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>141 </ResID>
+    <Name>似水</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>142 </ResID>
+    <Name>沧海</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>143 </ResID>
+    <Name>胭脂</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>144 </ResID>
+    <Name>陌槿</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>145 </ResID>
+    <Name>陌离</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>146 </ResID>
+    <Name>洛桑</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>147 </ResID>
+    <Name>洛月</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>148 </ResID>
+    <Name>楼笙</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>149 </ResID>
+    <Name>楼歌</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>150 </ResID>
+    <Name>南烟</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>151 </ResID>
+    <Name>琳琅</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>152 </ResID>
+    <Name>葬爱</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>153 </ResID>
+    <Name>完结</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>154 </ResID>
+    <Name>落泪</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>155 </ResID>
+    <Name>零乱</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>156 </ResID>
+    <Name>禁言</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>157 </ResID>
+    <Name>痴心</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>158 </ResID>
+    <Name>哭泣</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>159 </ResID>
+    <Name>默伤</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>160 </ResID>
+    <Name>沉吟</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>161 </ResID>
+    <Name>渡缘</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>162 </ResID>
+    <Name>拾泪</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>163 </ResID>
+    <Name>感伤</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>164 </ResID>
+    <Name>独自</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>165 </ResID>
+    <Name>阡陌</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>166 </ResID>
+    <Name>回想</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>167 </ResID>
+    <Name>回味</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>168 </ResID>
+    <Name>冥想</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>169 </ResID>
+    <Name>追忆</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>170 </ResID>
+    <Name>难忘</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>171 </ResID>
+    <Name>记忆</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>172 </ResID>
+    <Name>缅怀</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>173 </ResID>
+    <Name>回首</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>174 </ResID>
+    <Name>回顾</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>175 </ResID>
+    <Name>韶华</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>176 </ResID>
+    <Name>浮光</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>177 </ResID>
+    <Name>烟雨</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>178 </ResID>
+    <Name>蝶舞</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>179 </ResID>
+    <Name>缠绵</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>180 </ResID>
+    <Name>绝恋</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>181 </ResID>
+    <Name>碧影</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>182 </ResID>
+    <Name>星愿</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>183 </ResID>
+    <Name>落霞</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>184 </ResID>
+    <Name>忘忧</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>185 </ResID>
+    <Name>情动</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>186 </ResID>
+    <Name>醉梦</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>187 </ResID>
+    <Name>波澜</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>188 </ResID>
+    <Name>山岚</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>189 </ResID>
+    <Name>春华</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>190 </ResID>
+    <Name>星雨</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>191 </ResID>
+    <Name>浩瀚</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>192 </ResID>
+    <Name>风萧</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>193 </ResID>
+    <Name>如梦</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>194 </ResID>
+    <Name>入画</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>195 </ResID>
+    <Name>青衣</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>196 </ResID>
+    <Name>流影</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>197 </ResID>
+    <Name>舒荷</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>198 </ResID>
+    <Name>醉月</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>199 </ResID>
+    <Name>风和</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>200 </ResID>
+    <Name>浮波</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>201 </ResID>
+    <Name>沐宇</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>202 </ResID>
+    <Name>春媱</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>203 </ResID>
+    <Name>矫情</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>204 </ResID>
+    <Name>羽裳</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>205 </ResID>
+    <Name>翩飞</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>206 </ResID>
+    <Name>逐风</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>207 </ResID>
+    <Name>舞纱</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>208 </ResID>
+    <Name>夏露</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>209 </ResID>
+    <Name>真淳</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>210 </ResID>
+    <Name>惊鸿</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>211 </ResID>
+    <Name>沧澜</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>212 </ResID>
+    <Name>夜渺</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>213 </ResID>
+    <Name>秋颜</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>214 </ResID>
+    <Name>明媚</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>215 </ResID>
+    <Name>星月</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>216 </ResID>
+    <Name>鸿鹄</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>217 </ResID>
+    <Name>无微</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>218 </ResID>
+    <Name>冬耀</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>219 </ResID>
+    <Name>迷离</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>220 </ResID>
+    <Name>晨阳</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>221 </ResID>
+    <Name>佳容</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>222 </ResID>
+    <Name>宛碧</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>223 </ResID>
+    <Name>纹香</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>224 </ResID>
+    <Name>梵音</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>225 </ResID>
+    <Name>静晓</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>226 </ResID>
+    <Name>润玉</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>227 </ResID>
+    <Name>明秀</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>228 </ResID>
+    <Name>归云</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>229 </ResID>
+    <Name>涟漪</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>230 </ResID>
+    <Name>若溪</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>231 </ResID>
+    <Name>微凉</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>232 </ResID>
+    <Name>暖阳</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>233 </ResID>
+    <Name>半夏</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>234 </ResID>
+    <Name>崖悔</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>235 </ResID>
+    <Name>洛尘</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>236 </ResID>
+    <Name>矜柔</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>237 </ResID>
+    <Name>绚烂</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>238 </ResID>
+    <Name>隐忍</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>239 </ResID>
+    <Name>灼热</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>240 </ResID>
+    <Name>幻灭</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>241 </ResID>
+    <Name>落拓</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>242 </ResID>
+    <Name>锦瑟</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>243 </ResID>
+    <Name>妖娆</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>244 </ResID>
+    <Name>邪殇</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>245 </ResID>
+    <Name>恋夏</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>246 </ResID>
+    <Name>清泠</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>247 </ResID>
+    <Name>残破</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>248 </ResID>
+    <Name>尘封</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>249 </ResID>
+    <Name>封存</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>250 </ResID>
+    <Name>把盏</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>251 </ResID>
+    <Name>簪花</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>252 </ResID>
+    <Name>烟波</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>253 </ResID>
+    <Name>悸动</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>254 </ResID>
+    <Name>渺茫</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>255 </ResID>
+    <Name>天穹</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>256 </ResID>
+    <Name>翕动</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>257 </ResID>
+    <Name>衣袂</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>258 </ResID>
+    <Name>迷惘</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>259 </ResID>
+    <Name>游弋</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>260 </ResID>
+    <Name>殷红</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>261 </ResID>
+    <Name>倏忽</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>262 </ResID>
+    <Name>恬淡</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>263 </ResID>
+    <Name>萦绕</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>264 </ResID>
+    <Name>皱褶</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>265 </ResID>
+    <Name>定格</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>266 </ResID>
+    <Name>信笺</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>267 </ResID>
+    <Name>倒带</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>268 </ResID>
+    <Name>饮涧</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>269 </ResID>
+    <Name>囚涯</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>270 </ResID>
+    <Name>追怨</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>271 </ResID>
+    <Name>残情</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>272 </ResID>
+    <Name>蓓蕾</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>273 </ResID>
+    <Name>徜徉</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>274 </ResID>
+    <Name>品涵</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>275 </ResID>
+    <Name>诗瑶</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>276 </ResID>
+    <Name>袅娜</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>277 </ResID>
+    <Name>桃夭</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>278 </ResID>
+    <Name>舒啸</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>279 </ResID>
+    <Name>柳絮</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>280 </ResID>
+    <Name>飞雪</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>281 </ResID>
+    <Name>朦胧</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>282 </ResID>
+    <Name>故乡</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>283 </ResID>
+    <Name>梦幻</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>284 </ResID>
+    <Name>才华</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>285 </ResID>
+    <Name>夙愿</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>286 </ResID>
+    <Name>秋水</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>287 </ResID>
+    <Name>清茶</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>288 </ResID>
+    <Name>诗意</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>289 </ResID>
+    <Name>问情</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>290 </ResID>
+    <Name>迷人</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>291 </ResID>
+    <Name>期待</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>292 </ResID>
+    <Name>香梦</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>293 </ResID>
+    <Name>渔歌</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>294 </ResID>
+    <Name>晒秋</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>295 </ResID>
+    <Name>寻根</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>296 </ResID>
+    <Name>珍惜</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>297 </ResID>
+    <Name>倩影</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>298 </ResID>
+    <Name>呢喃</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>299 </ResID>
+    <Name>希望</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>300 </ResID>
+    <Name>黄昏</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>301 </ResID>
+    <Name>圆梦</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>302 </ResID>
+    <Name>童话</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>303 </ResID>
+    <Name>望月</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>304 </ResID>
+    <Name>天涯</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>305 </ResID>
+    <Name>追梦</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>306 </ResID>
+    <Name>施行</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>307 </ResID>
+    <Name>天堂</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>308 </ResID>
+    <Name>绿洲</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>309 </ResID>
+    <Name>驼铃</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>310 </ResID>
+    <Name>夜空</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>311 </ResID>
+    <Name>春韵</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>312 </ResID>
+    <Name>报答</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>313 </ResID>
+    <Name>感恩</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>314 </ResID>
+    <Name>涛声</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>315 </ResID>
+    <Name>夜思</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>316 </ResID>
+    <Name>暖流</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>317 </ResID>
+    <Name>时光</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>318 </ResID>
+    <Name>往事</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>319 </ResID>
+    <Name>故土</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>320 </ResID>
+    <Name>幻想</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>321 </ResID>
+    <Name>燃烧</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>322 </ResID>
+    <Name>情商</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>323 </ResID>
+    <Name>相识</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>324 </ResID>
+    <Name>温暖</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>325 </ResID>
+    <Name>重逢</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>326 </ResID>
+    <Name>缘份</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>327 </ResID>
+    <Name>荡漾</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>328 </ResID>
+    <Name>绯红</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>329 </ResID>
+    <Name>隔膜</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>330 </ResID>
+    <Name>哽咽</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>331 </ResID>
+    <Name>古朴</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>332 </ResID>
+    <Name>鼓励</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>333 </ResID>
+    <Name>酣睡</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>334 </ResID>
+    <Name>豪迈</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>335 </ResID>
+    <Name>和熙</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>336 </ResID>
+    <Name>浩荡</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>337 </ResID>
+    <Name>和蔼</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>338 </ResID>
+    <Name>黄晕</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>339 </ResID>
+    <Name>皎洁</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>340 </ResID>
+    <Name>惊愕</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>341 </ResID>
+    <Name>凯旋</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>342 </ResID>
+    <Name>坎坷</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>343 </ResID>
+    <Name>恳切</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>344 </ResID>
+    <Name>魁梧</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>345 </ResID>
+    <Name>嘹亮</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>346 </ResID>
+    <Name>蔓延</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>347 </ResID>
+    <Name>萌芽</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>348 </ResID>
+    <Name>谦逊</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>349 </ResID>
+    <Name>宛如</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>350 </ResID>
+    <Name>婉约</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>351 </ResID>
+    <Name>惘然</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>352 </ResID>
+    <Name>蔚蓝</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>353 </ResID>
+    <Name>闲暇</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>354 </ResID>
+    <Name>细腻</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>355 </ResID>
+    <Name>屹立</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>356 </ResID>
+    <Name>斟酌</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>357 </ResID>
+    <Name>脱俗</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>358 </ResID>
+    <Name>孤星</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>359 </ResID>
+    <Name>流连</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>360 </ResID>
+    <Name>素洁</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>361 </ResID>
+    <Name>晶莹</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>362 </ResID>
+    <Name>袅娉</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>363 </ResID>
+    <Name>夕颜</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>364 </ResID>
+    <Name>秋恋</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>365 </ResID>
+    <Name>蝉羽</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>366 </ResID>
+    <Name>浴兰</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>367 </ResID>
+    <Name>沉鱼</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>368 </ResID>
+    <Name>落雁</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>369 </ResID>
+    <Name>闭月</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>370 </ResID>
+    <Name>羞花</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>371 </ResID>
+    <Name>幽然</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>372 </ResID>
+    <Name>静微</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>373 </ResID>
+    <Name>艺雅</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>374 </ResID>
+    <Name>卉馨</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>375 </ResID>
+    <Name>轩然</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>376 </ResID>
+    <Name>子茹</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>377 </ResID>
+    <Name>流萤</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>378 </ResID>
+    <Name>静谧</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>379 </ResID>
+    <Name>流凨</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>380 </ResID>
+    <Name>羽翼</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>381 </ResID>
+    <Name>轻盈</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>382 </ResID>
+    <Name>清芳</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>383 </ResID>
+    <Name>黯淡</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>384 </ResID>
+    <Name>纯洁</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>385 </ResID>
+    <Name>涤荡</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>386 </ResID>
+    <Name>皓月</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>387 </ResID>
+    <Name>郁葱</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>388 </ResID>
+    <Name>尘世</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>389 </ResID>
+    <Name>璀璨</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>390 </ResID>
+    <Name>圣洁</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>391 </ResID>
+    <Name>绒花</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>392 </ResID>
+    <Name>飞絮</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>393 </ResID>
+    <Name>兴奋</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>394 </ResID>
+    <Name>激奋</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>395 </ResID>
+    <Name>惧怕</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>396 </ResID>
+    <Name>怒吼</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>397 </ResID>
+    <Name>悲伤</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>398 </ResID>
+    <Name>俊美</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>399 </ResID>
+    <Name>通红</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>400 </ResID>
+    <Name>瘦弱</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>401 </ResID>
+    <Name>单纯</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>402 </ResID>
+    <Name>拥有</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>403 </ResID>
+    <Name>哄堂</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>404 </ResID>
+    <Name>雷霆</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>405 </ResID>
+    <Name>百结</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>406 </ResID>
+    <Name>惆怅</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>407 </ResID>
+    <Name>风逝</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>408 </ResID>
+    <Name>痕露</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>409 </ResID>
+    <Name>刺眼</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>410 </ResID>
+    <Name>忧伤</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>411 </ResID>
+    <Name>丑陋</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>412 </ResID>
+    <Name>愉快</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>413 </ResID>
+    <Name>敬佩</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>414 </ResID>
+    <Name>畏缩</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>415 </ResID>
+    <Name>担忧</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>416 </ResID>
+    <Name>悲凉</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>417 </ResID>
+    <Name>苍白</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>418 </ResID>
+    <Name>滋润</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>419 </ResID>
+    <Name>双音</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>420 </ResID>
+    <Name>苍茫</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>421 </ResID>
+    <Name>笑容</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>422 </ResID>
+    <Name>九转</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>423 </ResID>
+    <Name>情殇</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>424 </ResID>
+    <Name>梦回</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>425 </ResID>
+    <Name>天幕</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>426 </ResID>
+    <Name>浑浊</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>427 </ResID>
+    <Name>寂寞</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>428 </ResID>
+    <Name>固定</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>429 </ResID>
+    <Name>欢喜</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>430 </ResID>
+    <Name>钦仰</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>431 </ResID>
+    <Name>恐慌</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>432 </ResID>
+    <Name>光滑</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>433 </ResID>
+    <Name>干燥</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>434 </ResID>
+    <Name>山高</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>435 </ResID>
+    <Name>前方</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>436 </ResID>
+    <Name>雾气</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>437 </ResID>
+    <Name>阴郁</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>438 </ResID>
+    <Name>诺言</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>439 </ResID>
+    <Name>雪幕</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>440 </ResID>
+    <Name>雪泪</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>441 </ResID>
+    <Name>谢幕</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>442 </ResID>
+    <Name>失落</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>443 </ResID>
+    <Name>奔腾</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>444 </ResID>
+    <Name>喜悦</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>445 </ResID>
+    <Name>激情</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>446 </ResID>
+    <Name>胆怯</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>447 </ResID>
+    <Name>气愤</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>448 </ResID>
+    <Name>悲惨</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>449 </ResID>
+    <Name>慈祥</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>450 </ResID>
+    <Name>苗条</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>451 </ResID>
+    <Name>最小</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>452 </ResID>
+    <Name>单音</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>453 </ResID>
+    <Name>仿佛</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>454 </ResID>
+    <Name>笑颜</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>455 </ResID>
+    <Name>心情</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>456 </ResID>
+    <Name>寸断</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>457 </ResID>
+    <Name>委屈</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>458 </ResID>
+    <Name>浅唱</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>459 </ResID>
+    <Name>迷蒙</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>460 </ResID>
+    <Name>孤独</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>461 </ResID>
+    <Name>模仿</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>462 </ResID>
+    <Name>欢畅</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>463 </ResID>
+    <Name>崇拜</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>464 </ResID>
+    <Name>心慌</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>465 </ResID>
+    <Name>犯愁</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>466 </ResID>
+    <Name>哀怨</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>467 </ResID>
+    <Name>清秀</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>468 </ResID>
+    <Name>干裂</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>469 </ResID>
+    <Name>欢声</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>470 </ResID>
+    <Name>丧气</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>471 </ResID>
+    <Name>心事</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>472 </ResID>
+    <Name>永恒</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>473 </ResID>
+    <Name>昔言</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>474 </ResID>
+    <Name>凋零</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>475 </ResID>
+    <Name>清零</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>476 </ResID>
+    <Name>怅惘</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>477 </ResID>
+    <Name>恐惧</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>478 </ResID>
+    <Name>欢快</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>479 </ResID>
+    <Name>惊慌</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>480 </ResID>
+    <Name>恼火</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>481 </ResID>
+    <Name>忧心</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>482 </ResID>
+    <Name>瘦削</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>483 </ResID>
+    <Name>红润</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>484 </ResID>
+    <Name>干瘦</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>485 </ResID>
+    <Name>语素</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>486 </ResID>
+    <Name>天高</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>487 </ResID>
+    <Name>生气</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>488 </ResID>
+    <Name>满腔</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>489 </ResID>
+    <Name>如焚</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>490 </ResID>
+    <Name>神话</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>491 </ResID>
+    <Name>落絮</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>492 </ResID>
+    <Name>落寞</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>493 </ResID>
+    <Name>忧虑</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>494 </ResID>
+    <Name>猜测</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>495 </ResID>
+    <Name>长久</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>496 </ResID>
+    <Name>离别</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>497 </ResID>
+    <Name>凄美</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>498 </ResID>
+    <Name>心痛</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>499 </ResID>
+    <Name>悲戚</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>500 </ResID>
+    <Name>凄惨</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>501 </ResID>
+    <Name>离殇</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>502 </ResID>
+    <Name>悲怆</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>503 </ResID>
+    <Name>饮泣</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>504 </ResID>
+    <Name>千夏</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>505 </ResID>
+    <Name>轮回</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>506 </ResID>
+    <Name>薄暮</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>507 </ResID>
+    <Name>翰墨</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>508 </ResID>
+    <Name>过亦</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>509 </ResID>
+    <Name>熟悉</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>510 </ResID>
+    <Name>背影</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>511 </ResID>
+    <Name>凄婉</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>512 </ResID>
+    <Name>意殇</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>513 </ResID>
+    <Name>薄凉</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>514 </ResID>
+    <Name>霓殇</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>515 </ResID>
+    <Name>痛苦</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>516 </ResID>
+    <Name>徘徊</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>517 </ResID>
+    <Name>绝望</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>518 </ResID>
+    <Name>悲切</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>519 </ResID>
+    <Name>凄凉</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>520 </ResID>
+    <Name>萧索</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>521 </ResID>
+    <Name>抑郁</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>522 </ResID>
+    <Name>冷落</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>523 </ResID>
+    <Name>冷寂</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>524 </ResID>
+    <Name>快乐</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>525 </ResID>
+    <Name>激昂</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>526 </ResID>
+    <Name>震怒</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>527 </ResID>
+    <Name>悲痛</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>528 </ResID>
+    <Name>恬静</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>529 </ResID>
+    <Name>自由</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>530 </ResID>
+    <Name>开怀</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>531 </ResID>
+    <Name>欣喜</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>532 </ResID>
+    <Name>欲断</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>533 </ResID>
+    <Name>雪落</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>534 </ResID>
+    <Name>柳依</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>535 </ResID>
+    <Name>流失</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>536 </ResID>
+    <Name>无助</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>537 </ResID>
+    <Name>畅快</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>538 </ResID>
+    <Name>佩服</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>539 </ResID>
+    <Name>发慌</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>540 </ResID>
+    <Name>发愁</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>541 </ResID>
+    <Name>哀伤</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>542 </ResID>
+    <Name>白皙</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>543 </ResID>
+    <Name>参差</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>544 </ResID>
+    <Name>喜笑</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>545 </ResID>
+    <Name>忧愁</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>546 </ResID>
+    <Name>百愁</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>547 </ResID>
+    <Name>殇芯</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>548 </ResID>
+    <Name>笑靥</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>549 </ResID>
+    <Name>等待</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>550 </ResID>
+    <Name>寒冷</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>551 </ResID>
+    <Name>欢腾</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>552 </ResID>
+    <Name>惊恐</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>553 </ResID>
+    <Name>激怒</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>554 </ResID>
+    <Name>伤感</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>555 </ResID>
+    <Name>英俊</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>556 </ResID>
+    <Name>蜡黄</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>557 </ResID>
+    <Name>文弱</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>558 </ResID>
+    <Name>眉开</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>559 </ResID>
+    <Name>满腹</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>560 </ResID>
+    <Name>傲世</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>561 </ResID>
+    <Name>流年</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>562 </ResID>
+    <Name>唯美</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>563 </ResID>
+    <Name>配乐</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>564 </ResID>
+    <Name>郁闷</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>565 </ResID>
+    <Name>整齐</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>566 </ResID>
+    <Name>漂浮</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>567 </ResID>
+    <Name>特殊</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>568 </ResID>
+    <Name>虚假</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>569 </ResID>
+    <Name>遥望</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>570 </ResID>
+    <Name>微弱</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>571 </ResID>
+    <Name>珍贵</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>572 </ResID>
+    <Name>缠绕</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>573 </ResID>
+    <Name>颤抖</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>574 </ResID>
+    <Name>拉扯</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>575 </ResID>
+    <Name>明亮</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>576 </ResID>
+    <Name>宽敞</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>577 </ResID>
+    <Name>黑暗</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>578 </ResID>
+    <Name>破旧</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>579 </ResID>
+    <Name>馨香</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>580 </ResID>
+    <Name>飘散</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>581 </ResID>
+    <Name>舒展</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>582 </ResID>
+    <Name>神韵</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>583 </ResID>
+    <Name>醉人</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>584 </ResID>
+    <Name>素雅</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>585 </ResID>
+    <Name>朴素</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>586 </ResID>
+    <Name>花瓣</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>587 </ResID>
+    <Name>花粉</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>588 </ResID>
+    <Name>鲜花</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>589 </ResID>
+    <Name>怒放</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>590 </ResID>
+    <Name>孤单</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>591 </ResID>
+    <Name>孤寂</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>592 </ResID>
+    <Name>寥寂</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>593 </ResID>
+    <Name>寂寥</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>594 </ResID>
+    <Name>寂静</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>595 </ResID>
+    <Name>僻静</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>596 </ResID>
+    <Name>宁静</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>597 </ResID>
+    <Name>寂然</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>598 </ResID>
+    <Name>清静</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>599 </ResID>
+    <Name>沉寂</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>600 </ResID>
+    <Name>沉静</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>601 </ResID>
+    <Name>安静</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>602 </ResID>
+    <Name>孤立</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>603 </ResID>
+    <Name>伶仃</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>604 </ResID>
+    <Name>零落</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>605 </ResID>
+    <Name>落莫</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>606 </ResID>
+    <Name>动静</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>607 </ResID>
+    <Name>呼吸</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>608 </ResID>
+    <Name>朝夕</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>609 </ResID>
+    <Name>取舍</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>610 </ResID>
+    <Name>善恶</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>611 </ResID>
+    <Name>兴衰</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>612 </ResID>
+    <Name>祸福</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>613 </ResID>
+    <Name>甘苦</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>614 </ResID>
+    <Name>彼此</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>615 </ResID>
+    <Name>吞吐</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>616 </ResID>
+    <Name>黑白</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>617 </ResID>
+    <Name>是非</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>618 </ResID>
+    <Name>多少</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>619 </ResID>
+    <Name>真假</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>620 </ResID>
+    <Name>虚实</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>621 </ResID>
+    <Name>生死</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>622 </ResID>
+    <Name>悲欢</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>623 </ResID>
+    <Name>前后</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>624 </ResID>
+    <Name>始末</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>625 </ResID>
+    <Name>早晚</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+<ResSystemRandomPlayerNameDesc version="1">
+    <ResID>626 </ResID>
+    <Name>昼夜</Name>
+    <MiddleName></MiddleName>
+    <EndName></EndName>
+</ResSystemRandomPlayerNameDesc>
+</ResSystemRandomPlayerNameDesc_Tab>

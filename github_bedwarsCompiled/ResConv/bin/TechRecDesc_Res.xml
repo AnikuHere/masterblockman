@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<ResTechRecDesc_Tab>
+<TResHeadAll version="5">
+    <resHead type="TResHead">
+        <Magic>1397052237 </Magic>
+        <Version>6 </Version>
+        <Unit>76 </Unit>
+        <Count>9 </Count>
+        <MetalibHash>531d5b4a397ad5b3c0fbfb5cc8059e55</MetalibHash>
+        <ResVersion>0 </ResVersion>
+        <CreateTime>2023-04-19 20:42:30</CreateTime>
+        <ResEncording>UTF-8</ResEncording>
+        <ContentHash>762ec1184bb9f52193c101848635084a</ContentHash>
+    </resHead>
+    <resHeadExt type="TResHeadExt">
+        <DataOffset>136 </DataOffset>
+    </resHeadExt>
+</TResHeadAll>
+<ResTechRecDesc version="1">
+    <ID>1000 </ID>
+    <RecDogfaceResID1>20000707 20000708 </RecDogfaceResID1>
+    <RecDogfaceResID2>20000708 20000710 </RecDogfaceResID2>
+    <RecDogfaceResID3>20000716 20000710 </RecDogfaceResID3>
+    <SceneFoodTech type="ResTechRecFoodTechDesc">
+        <SceneID>2001 </SceneID>
+        <FoodTechID>17003001 </FoodTechID>
+    </SceneFoodTech>
+    <SceneFoodTech type="ResTechRecFoodTechDesc">
+        <SceneID>2002 </SceneID>
+        <FoodTechID>17003001 </FoodTechID>
+    </SceneFoodTech>
+    <SceneFoodTech type="ResTechRecFoodTechDesc">
+        <SceneID>2003 </SceneID>
+        <FoodTechID>17003001 </FoodTechID>
+    </SceneFoodTech>
+    <SceneFoodTech type="ResTechRecFoodTechDesc">
+        <SceneID>2004 </SceneID>
+        <FoodTechID>17003001 </FoodTechID>
+    </SceneFoodTech>
+    <SceneFoodTech type="ResTechRecFoodTechDesc">
+        <SceneID>0 </SceneID>
+        <FoodTechID>0 </FoodTechID>
+    </SceneFoodTech>
+    <SceneFoodTech type="ResTechRecFoodTechDesc">
+        <SceneID>0 </SceneID>
+        <FoodTechID>0 </FoodTechID>
+    </SceneFoodTech>
+</ResTechRecDesc>
+<ResTechRecDesc version="1">
+    <ID>1001 </ID>
+    <RecDogfaceResID1>20000101 20000102 </RecDogfaceResID1>
+    <RecDogfaceResID2>20000106 20000105 </RecDogfaceResID2>
+    <RecDogfaceResID3>20000110 20000108 </RecDogfaceResID3>
+    <SceneFoodTech type="ResTechRecFoodTechDesc">
+        <SceneID>1002 </SceneID>
+        <FoodTechID>10003001 </FoodTechID>
+    </SceneFoodTech>
+    <SceneFoodTech type="ResTechRecFoodTechDesc">
+        <SceneID>1003 </SceneID>
+        <FoodTechID>10007001 </FoodTechID>
+    </SceneFoodTech>
+    <SceneFoodTech type="ResTechRecFoodTechDesc">
+        <SceneID>1004 </SceneID>
+        <FoodTechID>10007001 </FoodTechID>
+    </SceneFoodTech>
+    <SceneFoodTech type="ResTechRecFoodTechDesc">
+        <SceneID>1005 </SceneID>
+        <FoodTechID>10007001 </FoodTechID>
+    </SceneFoodTech>
+    <SceneFoodTech type="ResTechRecFoodTechDesc">
+        <SceneID>1006 </SceneID>
+        <FoodTechID>10007001 </FoodTechID>
+    </SceneFoodTech>
+    <SceneFoodTech type="ResTechRecFoodTechDesc">
+        <SceneID>0 </SceneID>
+        <FoodTechID>0 </FoodTechID>
+    </SceneFoodTech>
+</ResTechRecDesc>
+<ResTechRecDesc version="1">
+    <ID>1002 </ID>
+    <RecDogfaceResID1>20000101 20000102 </RecDogfaceResID1>
+    <RecDogfaceResID2>20000106 20000103 </RecDogfaceResID2>
+    <RecDogfaceResID3>20000108 20000104 </RecDogfaceResID3>
+    <SceneFoodTech type="ResTechRecFoodTechDesc">
+        <SceneID>1002 </SceneID>
+        <FoodTechID>10003001 </FoodTechID>
+    </SceneFoodTech>
+    <SceneFoodTech type="ResTechRecFoodTechDesc">
+        <SceneID>1003 </SceneID>
+        <FoodTechID>10007001 </FoodTechID>
+    </SceneFoodTech>
+    <SceneFoodTech type="ResTechRecFoodTechDesc">
+        <SceneID>1004 </SceneID>
+        <FoodTechID>10007001 </FoodTechID>
+    </SceneFoodTech>
+    <SceneFoodTech type="ResTechRecFoodTechDesc">
+        <SceneID>1005 </SceneID>
+        <FoodTechID>10007001 </FoodTechID>
+    </SceneFoodTech>
+    <SceneFoodTech type="ResTechRecFoodTechDesc">
+        <SceneID>1006 </SceneID>
+        <FoodTechID>10007001 </FoodTechID>
+    </SceneFoodTech>
+    <SceneFoodTech type="ResTechRecFoodTechDesc">
+        <SceneID>0 </SceneID>
+        <FoodTechID>0 </FoodTechID>
+    </SceneFoodTech>
+</ResTechRecDesc>
+<ResTechRecDesc version="1">
+    <ID>1101 </ID>
+    <RecDogfaceResID1>20000201 20000202 </RecDogfaceResID1>
+    <RecDogfaceResID2>20000206 20000208 </RecDogfaceResID2>
+    <RecDogfaceResID3>20000210 20000208 </RecDogfaceResID3>
+    <SceneFoodTech type="ResTechRecFoodTechDesc">
+        <SceneID>1002 </SceneID>
+        <FoodTechID>11003001 </FoodTechID>
+    </SceneFoodTech>
+    <SceneFoodTech type="ResTechRecFoodTechDesc">
+        <SceneID>1003 </SceneID>
+        <FoodTechID>11007001 </FoodTechID>
+    </SceneFoodTech>
+    <SceneFoodTech type="ResTechRecFoodTechDesc">
+        <SceneID>1004 </SceneID>
+        <FoodTechID>11007001 </FoodTechID>
+    </SceneFoodTech>
+    <SceneFoodTech type="ResTechRecFoodTechDesc">
+        <SceneID>1005 </SceneID>
+        <FoodTechID>11007001 </FoodTechID>
+    </SceneFoodTech>
+    <SceneFoodTech type="ResTechRecFoodTechDesc">
+        <SceneID>1006 </SceneID>
+        <FoodTechID>11007001 </FoodTechID>
+    </SceneFoodTech>
+    <SceneFoodTech type="ResTechRecFoodTechDesc">
+        <SceneID>0 </SceneID>
+        <FoodTechID>0 </FoodTechID>
+    </SceneFoodTech>
+</ResTechRecDesc>
+<ResTechRecDesc version="1">
+    <ID>1102 </ID>
+    <RecDogfaceResID1>20000201 20000202 </RecDogfaceResID1>
+    <RecDogfaceResID2>20000206 20000203 </RecDogfaceResID2>
+    <RecDogfaceResID3>20000210 20000205 </RecDogfaceResID3>
+    <SceneFoodTech type="ResTechRecFoodTechDesc">
+        <SceneID>1002 </SceneID>
+        <FoodTechID>11003001 </FoodTechID>
+    </SceneFoodTech>
+    <SceneFoodTech type="ResTechRecFoodTechDesc">
+        <SceneID>1003 </SceneID>
+        <FoodTechID>11007001 </FoodTechID>
+    </SceneFoodTech>
+    <SceneFoodTech type="ResTechRecFoodTechDesc">
+        <SceneID>1004 </SceneID>
+        <FoodTechID>11007001 </FoodTechID>
+    </SceneFoodTech>
+    <SceneFoodTech type="ResTechRecFoodTechDesc">
+        <SceneID>1005 </SceneID>
+        <FoodTechID>11007001 </FoodTechID>
+    </SceneFoodTech>
+    <SceneFoodTech type="ResTechRecFoodTechDesc">
+        <SceneID>1006 </SceneID>
+        <FoodTechID>11007001 </FoodTechID>
+    </SceneFoodTech>
+    <SceneFoodTech type="ResTechRecFoodTechDesc">
+        <SceneID>0 </SceneID>
+        <FoodTechID>0 </FoodTechID>
+    </SceneFoodTech>
+</ResTechRecDesc>
+<ResTechRecDesc version="1">
+    <ID>1201 </ID>
+    <RecDogfaceResID1>20000301 20000302 </RecDogfaceResID1>
+    <RecDogfaceResID2>20000302 20000306 </RecDogfaceResID2>
+    <RecDogfaceResID3>20000308 20000309 </RecDogfaceResID3>
+    <SceneFoodTech type="ResTechRecFoodTechDesc">
+        <SceneID>1002 </SceneID>
+        <FoodTechID>12003001 </FoodTechID>
+    </SceneFoodTech>
+    <SceneFoodTech type="ResTechRecFoodTechDesc">
+        <SceneID>1003 </SceneID>
+        <FoodTechID>12007001 </FoodTechID>
+    </SceneFoodTech>
+    <SceneFoodTech type="ResTechRecFoodTechDesc">
+        <SceneID>1004 </SceneID>
+        <FoodTechID>12007001 </FoodTechID>
+    </SceneFoodTech>
+    <SceneFoodTech type="ResTechRecFoodTechDesc">
+        <SceneID>1005 </SceneID>
+        <FoodTechID>12007001 </FoodTechID>
+    </SceneFoodTech>
+    <SceneFoodTech type="ResTechRecFoodTechDesc">
+        <SceneID>1006 </SceneID>
+        <FoodTechID>12007001 </FoodTechID>
+    </SceneFoodTech>
+    <SceneFoodTech type="ResTechRecFoodTechDesc">
+        <SceneID>0 </SceneID>
+        <FoodTechID>0 </FoodTechID>
+    </SceneFoodTech>
+</ResTechRecDesc>
+<ResTechRecDesc version="1">
+    <ID>1202 </ID>
+    <RecDogfaceResID1>20000301 20000302 </RecDogfaceResID1>
+    <RecDogfaceResID2>20000304 20000307 </RecDogfaceResID2>
+    <RecDogfaceResID3>20000310 20000305 </RecDogfaceResID3>
+    <SceneFoodTech type="ResTechRecFoodTechDesc">
+        <SceneID>1002 </SceneID>
+        <FoodTechID>12003001 </FoodTechID>
+    </SceneFoodTech>
+    <SceneFoodTech type="ResTechRecFoodTechDesc">
+        <SceneID>1003 </SceneID>
+        <FoodTechID>12007001 </FoodTechID>
+    </SceneFoodTech>
+    <SceneFoodTech type="ResTechRecFoodTechDesc">
+        <SceneID>1004 </SceneID>
+        <FoodTechID>12007001 </FoodTechID>
+    </SceneFoodTech>
+    <SceneFoodTech type="ResTechRecFoodTechDesc">
+        <SceneID>1005 </SceneID>
+        <FoodTechID>12007001 </FoodTechID>
+    </SceneFoodTech>
+    <SceneFoodTech type="ResTechRecFoodTechDesc">
+        <SceneID>1006 </SceneID>
+        <FoodTechID>12007001 </FoodTechID>
+    </SceneFoodTech>
+    <SceneFoodTech type="ResTechRecFoodTechDesc">
+        <SceneID>0 </SceneID>
+        <FoodTechID>0 </FoodTechID>
+    </SceneFoodTech>
+</ResTechRecDesc>
+<ResTechRecDesc version="1">
+    <ID>1301 </ID>
+    <RecDogfaceResID1>20000402 20000401 </RecDogfaceResID1>
+    <RecDogfaceResID2>20000405 20000407 </RecDogfaceResID2>
+    <RecDogfaceResID3>20000409 20000410 </RecDogfaceResID3>
+    <SceneFoodTech type="ResTechRecFoodTechDesc">
+        <SceneID>1002 </SceneID>
+        <FoodTechID>13003001 </FoodTechID>
+    </SceneFoodTech>
+    <SceneFoodTech type="ResTechRecFoodTechDesc">
+        <SceneID>1003 </SceneID>
+        <FoodTechID>13007001 </FoodTechID>
+    </SceneFoodTech>
+    <SceneFoodTech type="ResTechRecFoodTechDesc">
+        <SceneID>1004 </SceneID>
+        <FoodTechID>13007001 </FoodTechID>
+    </SceneFoodTech>
+    <SceneFoodTech type="ResTechRecFoodTechDesc">
+        <SceneID>1005 </SceneID>
+        <FoodTechID>13007001 </FoodTechID>
+    </SceneFoodTech>
+    <SceneFoodTech type="ResTechRecFoodTechDesc">
+        <SceneID>1006 </SceneID>
+        <FoodTechID>13007001 </FoodTechID>
+    </SceneFoodTech>
+    <SceneFoodTech type="ResTechRecFoodTechDesc">
+        <SceneID>0 </SceneID>
+        <FoodTechID>0 </FoodTechID>
+    </SceneFoodTech>
+</ResTechRecDesc>
+<ResTechRecDesc version="1">
+    <ID>1302 </ID>
+    <RecDogfaceResID1>20000402 20000401 </RecDogfaceResID1>
+    <RecDogfaceResID2>20000403 20000404 </RecDogfaceResID2>
+    <RecDogfaceResID3>20000406 20000410 </RecDogfaceResID3>
+    <SceneFoodTech type="ResTechRecFoodTechDesc">
+        <SceneID>1002 </SceneID>
+        <FoodTechID>13003001 </FoodTechID>
+    </SceneFoodTech>
+    <SceneFoodTech type="ResTechRecFoodTechDesc">
+        <SceneID>1003 </SceneID>
+        <FoodTechID>13007001 </FoodTechID>
+    </SceneFoodTech>
+    <SceneFoodTech type="ResTechRecFoodTechDesc">
+        <SceneID>1004 </SceneID>
+        <FoodTechID>13007001 </FoodTechID>
+    </SceneFoodTech>
+    <SceneFoodTech type="ResTechRecFoodTechDesc">
+        <SceneID>1005 </SceneID>
+        <FoodTechID>13007001 </FoodTechID>
+    </SceneFoodTech>
+    <SceneFoodTech type="ResTechRecFoodTechDesc">
+        <SceneID>1006 </SceneID>
+        <FoodTechID>13007001 </FoodTechID>
+    </SceneFoodTech>
+    <SceneFoodTech type="ResTechRecFoodTechDesc">
+        <SceneID>0 </SceneID>
+        <FoodTechID>0 </FoodTechID>
+    </SceneFoodTech>
+</ResTechRecDesc>
+</ResTechRecDesc_Tab>
