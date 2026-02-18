@@ -29,7 +29,7 @@
 
   Some files may be missing from this repository. Some because of copyright, while others for upload issues. Nevertheless, you can get the full ZIP file for this repository in this link: https://www.mediafire.com/file/5j4xyq3fojkdv6k/bg+files.rar/file
 
-  Alternativly, you can download it from the releases page
+  Sadly i cant publish releases, ZIP too big :(
 
 
   # Whats gonna be in the future?
